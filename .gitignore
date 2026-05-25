@@ -1,0 +1,8 @@
+config.json
+*.log
+logs/
+data/comparisons/
+data/spike_explainer/
+debug_html/
+__pycache__/
+.ipynb_checkpoints/

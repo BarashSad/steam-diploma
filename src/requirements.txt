@@ -1,0 +1,6 @@
+# requirements.txt
+requests==2.31.0
+pandas==2.0.0
+beautifulsoup4==4.12.0
+tenacity==8.2.0
+python-dateutil==2.8.2
