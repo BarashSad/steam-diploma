@@ -1,15 +1,11 @@
 # requirements.txt
 requests==2.31.0
-beautifulsoup4==4.12.0
-tenacity==8.2.0
-python-dateutil==2.8.
 numpy==1.26.4
 pandas==2.2.2
-requests
-beautifulsoup4
-lxml
-tenacity
-python-dateutil
+beautifulsoup4==4.12.0
+tenacity==8.2.0
+python-dateutil==2.8.2
 matplotlib
+lxml
 google-genai
 openai
