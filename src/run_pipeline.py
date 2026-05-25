@@ -162,21 +162,12 @@ def main():
         cmd = [
             sys.executable,
             str(script_path),
-            "--work-dir",
-            str(snapshot_dir),
-            "--max-games",
-            str(collector_cfg.get("max_games", 3000)),
-            "--speed-mode",
-            str(collector_cfg.get("speed_mode", "fast"))
+            "--base-dir", str(base_dir),
+            "--work-dir", str(snapshot_dir),
+            "--max-games", str(collector_cfg.get("max_games", 3000)),
+            "--speed-mode", str(collector_cfg.get("speed_mode", "fast")),
         ]
-        
-        if "max_games" in collector_cfg:
-            cmd.extend(["--max-games", str(collector_cfg["max_games"])])
-        elif "target_ranks" in collector_cfg: # Fallback to alternate param name
-            cmd.extend(["--target-ranks", str(collector_cfg["target_ranks"])])
-            
-        if "speed_mode" in collector_cfg:
-            cmd.extend(["--speed-mode", str(collector_cfg["speed_mode"])])
+          
             
         if not run_command(cmd, "COLLECTOR"):
             logging.error("Pipeline stopped due to Collector failure.")
