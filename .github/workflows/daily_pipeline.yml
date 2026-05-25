@@ -37,8 +37,8 @@ jobs:
           python -m pip install --no-cache-dir -r src/requirements.txt
           python - <<'PY'
           import numpy, pandas
-          print("numpy", numpy.__version__)
-          print("pandas", pandas.__version__)
+          print("NUMPY_VERSION=", numpy.__version__)
+          print("PANDAS_VERSION=", pandas.__version__)
           PY
 
       - name: Run pipeline
