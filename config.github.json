@@ -1,0 +1,36 @@
+{
+  "base_dir": ".",
+  "src_dir": "src",
+  "snapshot_dir": "data/snapshots",
+  "comparison_dir": "data/comparisons",
+  "spike_explainer_dir": "data/spike_explainer",
+  "log_dir": "logs",
+
+  "collector": {
+    "enabled": true,
+    "max_games": 3000,
+    "speed_mode": "fast"
+  },
+
+  "comparator": {
+    "enabled": true,
+    "latest_n": 2,
+    "top_limit": 3000
+  },
+
+  "spike_explainer": {
+    "enabled": true,
+    "top_n": 1,
+    "evidence_lookback_days": 3,
+    "search_provider": "tavily"
+  },
+
+  "llm_report_generator": {
+    "enabled": true,
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "limit": 1,
+    "language": "ru",
+    "overwrite": true
+  }
+}
