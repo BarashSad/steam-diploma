@@ -203,58 +203,75 @@ def main():
 
     # --- STEP 2: COMPARATOR ---
     comparator_cfg = config.get("comparator", {})
+    
+    comparison_run_dir = None
+    
     if comparator_cfg.get("enabled", True) and not args.skip_comparator:
         script_path = src_dir / "compare_snapshots.py"
-        if not script_path.exists(): # Fallback if named compare_snapshots_2.py
+        if not script_path.exists():
             script_path = src_dir / "compare_snapshots_2.py"
-            
+    
+        comparison_run_dir = comparison_dir / f"comparison_{timestamp}"
+        comparison_run_dir.mkdir(parents=True, exist_ok=True)
+    
         cmd = [
             sys.executable, str(script_path),
             "--snapshot-dir", str(snapshot_dir),
             "--latest-n", str(comparator_cfg.get("latest_n", 2)),
-            "--outdir", str(comparison_dir)
+            "--outdir", str(comparison_run_dir)
         ]
+    
+        if comparator_cfg.get("top_limit"):
+            cmd.extend(["--top-limit", str(comparator_cfg.get("top_limit"))])
+    
         if not run_command(cmd, "COMPARATOR"):
             logging.error("Pipeline stopped due to Comparator failure.")
             sys.exit(1)
     else:
         logging.info("[COMPARATOR] Skipped.")
-
+    
+    
     # --- COMPARATOR OUTPUT VALIDATION ---
-    # Find newest folder in comparisons dir
     top_movers_csv = None
-    comp_subfolders = [f for f in comparison_dir.iterdir() if f.is_dir()]
-    if comp_subfolders:
-        comp_subfolders.sort(key=lambda x: x.stat().st_mtime, reverse=True)
-        latest_comp_dir = comp_subfolders[0]
+    
+    if comparison_run_dir and comparison_run_dir.exists():
+        latest_comp_dir = comparison_run_dir
+    else:
+        comp_subfolders = [f for f in comparison_dir.iterdir() if f.is_dir()]
+        if comp_subfolders:
+            comp_subfolders.sort(key=lambda x: x.stat().st_mtime, reverse=True)
+            latest_comp_dir = comp_subfolders[0]
+        else:
+            latest_comp_dir = None
+    
+    if latest_comp_dir:
         logging.info(f"Selected Comparison Folder: {latest_comp_dir.name}")
-        
-        # Priority search
-        for candidate in ["top_movers.csv", "upward_movers.csv", "spikes_up.csv", "rank_changes.csv"]:
+    
+        for candidate in ["spikes_up.csv", "top_movers.csv", "upward_movers.csv", "rank_changes.csv"]:
             fpath = latest_comp_dir / candidate
             if fpath.exists() and is_valid_top_movers_csv(fpath):
                 top_movers_csv = fpath
                 break
-                
-        # Fallback search
+    
         if not top_movers_csv:
             for fpath in latest_comp_dir.glob("*.csv"):
                 if is_valid_top_movers_csv(fpath):
                     top_movers_csv = fpath
                     break
-                    
+    
     if not top_movers_csv:
         logging.error("Could not find a valid top movers CSV in the comparison output.")
         if not args.dry_run:
             sys.exit(1)
     else:
         logging.info(f"Selected Top Movers CSV: {top_movers_csv.name}")
-
+        
     # --- STEP 3: SPIKE EXPLAINER ---
     explainer_cfg = config.get("spike_explainer", {})
     
     # Record folders before running
     before_folders = set(f.name for f in spike_dir.iterdir() if f.is_dir()) if spike_dir.exists() else set()
+    spike_step_started_at = datetime.now().timestamp()
     
     if explainer_cfg.get("enabled", True) and not args.skip_explainer:
         script_path = src_dir / "spike_explainer.py"
@@ -321,8 +338,24 @@ def main():
                 for tgt in new_targets:
                     targets.append(["--input-folder", str(tgt)])
             else:
-                logging.warning("No newly created spike folders detected; falling back to input-dir mode.")
-                targets.append(["--input-dir", str(spike_dir)])
+                logging.warning(
+                    "No newly created spike folders detected; selecting latest modified spike folder instead."
+                )
+            
+                candidate_folders = []
+                for fpath in spike_dir.iterdir():
+                    if fpath.is_dir() and (fpath / "llm_summary_input.md").exists():
+                        candidate_folders.append(fpath)
+            
+                if candidate_folders:
+                    candidate_folders.sort(key=lambda x: x.stat().st_mtime, reverse=True)
+                    latest_spike_folder = candidate_folders[0]
+                    logging.info(f"Selected latest spike folder: {latest_spike_folder}")
+                    targets.append(["--input-folder", str(latest_spike_folder)])
+                else:
+                    logging.error("No spike folders with llm_summary_input.md found.")
+                    if not args.dry_run:
+                        sys.exit(1)
         
         for target_args in targets:
             cmd = [
