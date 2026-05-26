@@ -1,0 +1,33 @@
+{
+    "snapshot_id": "1bd3f20b-72d1-4e73-aa6b-20b34ce2b8b4",
+    "started_at": "2026-05-26T14:23:55.485184+00:00",
+    "finished_at": "2026-05-26T14:48:16.076391+00:00",
+    "captured_at_utc": "2026-05-26T14:23:55.485184+00:00",
+    "source": "Steam Top Wishlists Search",
+    "total_rows": 2998,
+    "total_unique_appids": 2998,
+    "total_pages_attempted": 120,
+    "total_pages_successful": 120,
+    "failed_pages": [],
+    "duplicate_appids_count": 0,
+    "schema_compatible": true,
+    "rank_sequence_ok": true,
+    "stopped_reason": "max_games_reached",
+    "speed_mode": "fast",
+    "work_dir": "/home/runner/work/steam-diploma/steam-diploma/data/snapshots",
+    "total_duration_seconds": 1460.59,
+    "average_seconds_per_page": 12.17,
+    "average_rows_per_page": 24.98,
+    "drive_write_time_seconds": 0.02,
+    "pacing_settings": {
+        "delay_min": 4.0,
+        "delay_max": 8.0,
+        "cooldown_every": 10,
+        "cooldown_min": 30.0,
+        "cooldown_max": 60.0,
+        "long_every": 40,
+        "long_min": 120.0,
+        "long_max": 240.0
+    },
+    "notes": "Validation complete."
+}
