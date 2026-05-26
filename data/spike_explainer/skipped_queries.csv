@@ -1,0 +1,6 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4664240,Hard Worker,"site:pcgamer.com ""Hard Worker""",press,2,tavily,False,General budget exhausted,0
+4664240,Hard Worker,"site:rockpapershotgun.com ""Hard Worker""",press,2,tavily,False,General budget exhausted,0
+4664240,Hard Worker,"site:ign.com ""Hard Worker""",press,2,tavily,False,General budget exhausted,0
+4664240,Hard Worker,"site:gamespot.com ""Hard Worker""",press,2,tavily,False,General budget exhausted,0
+4664240,Hard Worker,"site:game8.co ""Hard Worker""",press,2,tavily,False,General budget exhausted,0

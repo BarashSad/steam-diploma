@@ -1,0 +1,3 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3624790,Letter Lost,Letter Lost,2135,2134,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,June 2026,"Jun 10, 2026",True
+4704690,MECCHA CHAMELEON,MECCHA CHAMELEON,534,534,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,June 2026,"Jun 9, 2026",True

@@ -1,0 +1,20 @@
+{
+    "schema_compatible": true,
+    "rank_sequence_ok": true,
+    "duplicate_appids": 0,
+    "one_snapshot_id": true,
+    "one_timestamp": true,
+    "columns": [
+        "snapshot_id",
+        "captured_at_utc",
+        "rank",
+        "appid",
+        "title",
+        "release_text",
+        "price_text",
+        "game_url",
+        "page_number",
+        "position_on_page"
+    ],
+    "rows": 3000
+}

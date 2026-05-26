@@ -1,0 +1,2 @@
+analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
+2026-05-26T19:46:55.489174+00:00,4664240,Hard Worker,data/spike_explainer/2026-05-26__appid_4664240__rank_1938_to_1824__up_114,114,70,data/spike_explainer/2026-05-26__appid_4664240__rank_1938_to_1824__up_114/llm_summary_input.md

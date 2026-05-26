@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4664240,Hard Worker,"""Hard Worker"" Steam",general,1,tavily,True,,5
+4664240,Hard Worker,"""Hard Worker"" trailer",general,1,tavily,True,,5
+4664240,Hard Worker,"""Hard Worker"" gameplay",general,1,tavily,True,,5
+4664240,Hard Worker,"""Hard Worker"" demo",general,1,tavily,True,,5
+4664240,Hard Worker,"""Hard Worker"" release date",general,1,tavily,True,,5
+4664240,Hard Worker,"""Hard Worker"" announcement",general,1,tavily,True,,5
+4664240,Hard Worker,"""Hard Worker"" preview",general,1,tavily,True,,5
+4664240,Hard Worker,"""Hard Worker"" review",general,1,tavily,True,,5
+4664240,Hard Worker,"""Hard Worker"" publisher",general,1,tavily,True,,5
+4664240,Hard Worker,"""Hard Worker"" developer",general,1,tavily,True,,5
+4664240,Hard Worker,"site:pcgamer.com ""Hard Worker""",press,2,tavily,False,General budget exhausted,0
+4664240,Hard Worker,"site:rockpapershotgun.com ""Hard Worker""",press,2,tavily,False,General budget exhausted,0
+4664240,Hard Worker,"site:ign.com ""Hard Worker""",press,2,tavily,False,General budget exhausted,0
+4664240,Hard Worker,"site:gamespot.com ""Hard Worker""",press,2,tavily,False,General budget exhausted,0
+4664240,Hard Worker,"site:game8.co ""Hard Worker""",press,2,tavily,False,General budget exhausted,0
+4664240,Hard Worker,"site:reddit.com ""Hard Worker""",social,3,tavily,True,,5
+4664240,Hard Worker,"site:tiktok.com ""Hard Worker""",social,4,tavily,True,,5
+4664240,Hard Worker,"site:instagram.com ""Hard Worker""",social,4,tavily,True,,4
+4664240,Hard Worker,"site:x.com ""Hard Worker""",social,4,tavily,True,,5
+4664240,Hard Worker,"site: ""Hard Worker""",social,4,tavily,True,,5
