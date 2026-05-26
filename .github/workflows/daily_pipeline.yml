@@ -43,3 +43,17 @@ jobs:
 
       - name: Run pipeline
         run: python src/run_pipeline.py --config config.github.json
+
+      - name: Commit pipeline outputs
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add data/snapshots/ || true
+          git add data/comparisons/ || true
+          git add data/spike_explainer/ || true
+          git add logs/ || true
+
+          git commit -m "Add pipeline outputs" || echo "No new pipeline outputs to commit"
+          git push || echo "Nothing to push"
