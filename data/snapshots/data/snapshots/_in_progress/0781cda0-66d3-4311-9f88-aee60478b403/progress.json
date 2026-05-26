@@ -1,0 +1,11 @@
+{
+    "snapshot_id": "0781cda0-66d3-4311-9f88-aee60478b403",
+    "started_at": "2026-05-26T17:04:15.728299+00:00",
+    "captured_at_utc": "2026-05-26T17:04:15.728299+00:00",
+    "last_successful_page": 120,
+    "pages_attempted": 120,
+    "pages_successful": 120,
+    "rows_collected": 3000,
+    "failed_pages": [],
+    "stopped_reason": "max_games_reached"
+}
