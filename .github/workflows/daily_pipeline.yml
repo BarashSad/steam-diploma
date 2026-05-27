@@ -3,7 +3,7 @@ name: Daily Steam Pipeline
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "1 0,12 * * *"
 
 permissions:
   contents: write
