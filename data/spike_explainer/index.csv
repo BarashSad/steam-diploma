@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-05-27T09:11:20.546389+00:00,4508570,Veritas Tales: Witch of the Dark Castle,data/spike_explainer/2026-05-27__appid_4508570__rank_2761_to_2710__up_51,51,85,data/spike_explainer/2026-05-27__appid_4508570__rank_2761_to_2710__up_51/llm_summary_input.md
+2026-05-27T09:49:12.983324+00:00,4508570,Veritas Tales: Witch of the Dark Castle,data/spike_explainer/2026-05-27__appid_4508570__rank_2710_to_2663__up_47,47,85,data/spike_explainer/2026-05-27__appid_4508570__rank_2710_to_2663__up_47/llm_summary_input.md

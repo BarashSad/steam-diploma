@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-05-27T09:49:26.007103+00:00",
+    "timestamp": "20260527_094926",
+    "input_file": "data/spike_explainer/2026-05-27__appid_4508570__rank_2710_to_2663__up_47/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-05-27__appid_4508570__rank_2710_to_2663__up_47/llm_outputs/gemini_20260527_094926.md",
+    "game_title": "Veritas Tales: Witch of the Dark Castle",
+    "appid": "4508570",
+    "duration_sec": 24.15,
+    "response_length": 6412,
+    "error": null
+}
