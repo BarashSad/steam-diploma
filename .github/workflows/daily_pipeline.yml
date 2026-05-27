@@ -57,5 +57,3 @@ jobs:
 
           git commit -m "Add pipeline outputs" || echo "No new pipeline outputs to commit"
           git push || echo "Nothing to push"
-
-          - name: Commit pipeline outputs
