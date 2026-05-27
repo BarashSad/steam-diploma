@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-05-27T09:49:25.912021+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260527_092426/rank_changes.csv",
-    "selected_appid": "4508570",
-    "selected_game_title": "Veritas Tales: Witch of the Dark Castle",
+    "started_at": "2026-05-27T16:22:45.121706+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260527_155848/rank_changes.csv",
+    "selected_appid": "4093640",
+    "selected_game_title": "Psych Rift",
     "top_n": 1,
     "old_snapshot_date": "2026-05-24",
     "new_snapshot_date": "2026-05-27",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-05-27T09:49:25.912059+00:00",
+    "finished_at": "2026-05-27T16:22:45.121719+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

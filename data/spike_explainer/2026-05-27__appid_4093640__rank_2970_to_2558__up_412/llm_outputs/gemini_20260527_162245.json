@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-05-27T16:22:45.246821+00:00",
+    "timestamp": "20260527_162245",
+    "input_file": "data/spike_explainer/2026-05-27__appid_4093640__rank_2970_to_2558__up_412/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-05-27__appid_4093640__rank_2970_to_2558__up_412/llm_outputs/gemini_20260527_162245.md",
+    "game_title": "Psych Rift",
+    "appid": "4093640",
+    "duration_sec": 26.9,
+    "response_length": 5435,
+    "error": null
+}

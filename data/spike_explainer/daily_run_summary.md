@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Veritas Tales: Witch of the Dark Castle
+Analyzed: Psych Rift
 Tavily Budget Used: 15
 Errors: 0
