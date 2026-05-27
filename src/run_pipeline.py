@@ -361,7 +361,8 @@ def main():
             cmd = [
                 sys.executable, str(script_path),
                 "--provider", llm_cfg.get("provider", "none"),
-                "--language", llm_cfg.get("language", "ru")
+                "--language", llm_cfg.get("language", "ru"),
+                "--input-dir", str(spike_dir)
             ]
             cmd.extend(target_args)
             
