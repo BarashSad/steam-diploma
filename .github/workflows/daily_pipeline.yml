@@ -50,10 +50,12 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add data/snapshots/ || true
+          git add data/snapshots/snapshot_main_*.csv || true
           git add data/comparisons/ || true
           git add data/spike_explainer/ || true
           git add logs/ || true
 
           git commit -m "Add pipeline outputs" || echo "No new pipeline outputs to commit"
           git push || echo "Nothing to push"
+
+          - name: Commit pipeline outputs
