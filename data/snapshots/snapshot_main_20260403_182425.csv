@@ -1,0 +1,501 @@
+snapshot_id,captured_at_utc,rank,appid,title,release_text,price_text,game_url,page_number,position_on_page
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,1,1962700,Subnautica 2,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1962700/Subnautica_2/,1,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,2,1422450,Deadlock,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1422450/Deadlock/,1,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,3,2719590,Light No Fire,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2719590/Light_No_Fire/,1,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,4,2483190,Forza Horizon 6,"May 18, 2026",$69.99,https://store.steampowered.com/app/2483190/Forza_Horizon_6/,1,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,5,1774880,Blight: Survival,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1774880/Blight_Survival/,1,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,6,2109770,Kingmakers,Coming soon,Free,https://store.steampowered.com/app/2109770/Kingmakers/,1,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,7,2769570,Fable,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2769570/Fable/,1,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,8,3041230,Windrose,Coming soon,Free,https://store.steampowered.com/app/3041230/Windrose/,1,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,9,2050420,ARK 2,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2050420/ARK_2/,1,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,10,3105440,Heroes of Might and Magic: Olden Era,"Apr 30, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3105440/Heroes_of_Might_and_Magic_Olden_Era/,1,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,11,1846700,Witchbrook,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1846700/Witchbrook/,1,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,12,2381520,Unrecord,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2381520/Unrecord/,1,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,13,3357650,PRAGMATA,"Apr 16, 2026",$59.99,https://store.steampowered.com/app/3357650/PRAGMATA/,1,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,14,4199910,"Total War: WARHAMMER 40,000",To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/4199910/Total_War_WARHAMMER_40000/,1,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,15,4165910,Steam Machine,Coming soon,Free,https://store.steampowered.com/app/4165910/Steam_Machine/,1,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,16,2681030,Outbound,"Apr 23, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2681030/Outbound/,1,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,17,1757350,ILL,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1757350/ILL/,1,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,18,2416450,MOUSE: P.I. For Hire,"Apr 16, 2026",$29.99,https://store.steampowered.com/app/2416450/MOUSE_PI_For_Hire/,1,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,19,4165890,Steam Frame,Coming soon,Free,https://store.steampowered.com/app/4165890/Steam_Frame/,1,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,20,2873440,Chrono Odyssey,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2873440/Chrono_Odyssey/,1,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,21,1297900,Gothic 1 Remake,"Jun 5, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/1297900/Gothic_1_Remake/,1,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,22,4165870,Steam Controller,Coming soon,Free,https://store.steampowered.com/app/4165870/Steam_Controller/,1,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,23,4115450,Phantom Blade Zero,"Sep 8, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/,1,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,24,3751260,The Blood of Dawnwalker,Coming soon,Free,https://store.steampowered.com/app/3751260/The_Blood_of_Dawnwalker/,1,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,25,2814860,Vindictus: Defying Fate,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2814860/Vindictus_Defying_Fate/,1,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,26,2272360,"Warhammer 40,000: Dawn of War IV",Coming soon,Free,https://store.steampowered.com/app/2272360/Warhammer_40000_Dawn_of_War_IV/,2,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,27,1663850,REPLACED,"Apr 14, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/1663850/REPLACED/,2,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,28,4077740,PUBG: Black Budget,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/4077740/PUBG_Black_Budget/,2,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,29,1940080,Rooted,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1940080/Rooted/,2,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,30,1805110,Solarpunk™,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1805110/Solarpunk/,2,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,31,2582960,NAKWON: LAST PARADISE,Coming soon,Free,https://store.steampowered.com/app/2582960/NAKWON_LAST_PARADISE/,2,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,32,3844970,Burglin' Gnomes,Coming soon,Free,https://store.steampowered.com/app/3844970/Burglin_Gnomes/,2,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,33,2215200,LEGO® Batman™: Legacy of the Dark Knight,"May 22, 2026",$69.99,https://store.steampowered.com/app/2215200/LEGO_Batman_Legacy_of_the_Dark_Knight/,2,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,34,2929250,over the hill,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2929250/over_the_hill/,2,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,35,3292470,Tides of Annihilation,Coming soon,Free,https://store.steampowered.com/app/3292470/Tides_of_Annihilation/,2,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,36,3558670,Tomb Raider: Legacy of Atlantis,Coming soon,Free,https://store.steampowered.com/app/3558670/Tomb_Raider_Legacy_of_Atlantis/,2,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,37,2638890,Onimusha: Way of the Sword,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2638890/Onimusha_Way_of_the_Sword/,2,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,38,2186990,Fatekeeper,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2186990/Fatekeeper/,2,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,39,3768760,007 First Light,"May 27, 2026",$69.99,https://store.steampowered.com/app/3768760/007_First_Light/,2,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,40,1118520,Paralives,"May 25, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/1118520/Paralives/,2,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,41,3727390,The Expanse: Osiris Reborn,Coming soon,Free,https://store.steampowered.com/app/3727390/The_Expanse_Osiris_Reborn/,2,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,42,2605790,Deep Rock Galactic: Rogue Core,"May 20, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2605790/Deep_Rock_Galactic_Rogue_Core/,2,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,43,1280190,Falling Frontier,Coming soon,Free,https://store.steampowered.com/app/1280190/Falling_Frontier/,2,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,44,4095380,Soulframe,Coming soon,Free,https://store.steampowered.com/app/4095380/Soulframe/,2,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,45,3404260,Dead as Disco,Coming soon,Free,https://store.steampowered.com/app/3404260/Dead_as_Disco/,2,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,46,2963950,Persona 4 Revival,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2963950/Persona_4_Revival/,2,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,47,2724650,The Bustling World,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2724650/The_Bustling_World/,2,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,48,1431300,SAND: Raiders of Sophie,Coming soon,Free,https://store.steampowered.com/app/1431300/SAND_Raiders_of_Sophie/,2,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,49,1488490,Nivalis,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1488490/Nivalis/,2,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,50,1313230,Beautiful Light,December 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1313230/Beautiful_Light/,2,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,51,3710600,"Warhammer 40,000: Dark Heresy",Coming soon,Free,https://store.steampowered.com/app/3710600/Warhammer_40000_Dark_Heresy/,3,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,52,2956040,PVKK: Planetenverteidigungskanonenkommandant,Q3 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2956040/PVKK_Planetenverteidigungskanonenkommandant/,3,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,53,3669870,CONTROL Resonant,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3669870/CONTROL_Resonant/,3,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,54,2340970,Railborn,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2340970/Railborn/,3,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,55,1963610,Road to Vostok,"Apr 7, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/1963610/Road_to_Vostok/,3,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,56,1228610,KARLSON,Coming soon,Free,https://store.steampowered.com/app/1228610/KARLSON/,3,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,57,1340720,State of Decay 3,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1340720/State_of_Decay_3/,3,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,58,3978820,Rules of Engagement: The Grey State,To be announced,Free,https://store.steampowered.com/app/3978820/Rules_of_Engagement_The_Grey_State/,3,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,59,1687540,Showa American Story,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1687540/Showa_American_Story/,3,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,60,2231020,Chronicles: Medieval,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2231020/Chronicles_Medieval/,3,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,61,2861080,Haunted Paws,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2861080/Haunted_Paws/,3,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,62,3167920,Low-Budget Repairs,Coming soon,Free,https://store.steampowered.com/app/3167920/LowBudget_Repairs/,3,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,63,3016620,Alkahest,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3016620/Alkahest/,3,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,64,3079210,Hell Let Loose: Vietnam,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3079210/Hell_Let_Loose_Vietnam/,3,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,65,3864580,P.O.N.,Coming soon,Free,https://store.steampowered.com/app/3864580/PON/,3,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,66,3124540,Far Far West,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3124540/Far_Far_West/,3,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,67,1478500,Big Walk,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1478500/Big_Walk/,3,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,68,3281420,Paradise,Coming soon,Free,https://store.steampowered.com/app/3281420/Paradise/,3,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,69,3337850,KYORA,Coming soon,Free,https://store.steampowered.com/app/3337850/KYORA/,3,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,70,1373910,Anvil Empires,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1373910/Anvil_Empires/,3,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,71,3265700,Vampire Crawlers: The Turbo Wildcard from Vampire Survivors,"Apr 21, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/,3,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,72,2288340,ACE COMBAT 8: WINGS OF THEVE,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2288340/ACE_COMBAT_8_WINGS_OF_THEVE/,3,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,73,1536500,Euro Truck Simulator 2 - Heart of Russia,Coming soon,Free,https://store.steampowered.com/app/1536500/Euro_Truck_Simulator_2__Heart_of_Russia/,3,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,74,2439280,Clockwork Revolution,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2439280/Clockwork_Revolution/,3,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,75,4228810,Fourteen Years of Flames,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/4228810/Fourteen_Years_of_Flames/,3,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,76,3161310,Hela,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3161310/Hela/,4,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,77,1818140,Den of Wolves,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1818140/Den_of_Wolves/,4,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,78,3624140,Wanderburg,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3624140/Wanderburg/,4,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,79,1586260,BLACKFROST: The Long Dark 2,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1586260/BLACKFROST_The_Long_Dark_2/,4,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,80,2165810,Streets of Rogue 2,Coming soon,Free,https://store.steampowered.com/app/2165810/Streets_of_Rogue_2/,4,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,81,3722330,Shift At Midnight,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3722330/Shift_At_Midnight/,4,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,82,1614330,Crowsworn,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1614330/Crowsworn/,4,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,83,3255110,Grave Seasons,"Aug 14, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3255110/Grave_Seasons/,4,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,84,3092530,Fate Trigger,2026,Free,https://store.steampowered.com/app/3092530/Fate_Trigger/,4,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,85,1257610,Prison Architect 2,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1257610/Prison_Architect_2/,4,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,86,2235430,Holstin,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2235430/Holstin/,4,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,87,1597080,Killer Bean,Coming soon,Free,https://store.steampowered.com/app/1597080/Killer_Bean/,4,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,88,3809270,Euro Truck Simulator 2 - Coaches,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3809270/Euro_Truck_Simulator_2__Coaches/,4,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,89,1913120,Tears of Metal,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1913120/Tears_of_Metal/,4,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,90,1572000,Derelicts,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1572000/Derelicts/,4,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,91,2161710,NO LAW,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2161710/NO_LAW/,4,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,92,3788800,Atomic Heart 2,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3788800/Atomic_Heart_2/,4,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,93,2090210,Threads of Time,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2090210/Threads_of_Time/,4,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,94,2800370,30 Days on Ship,Coming soon,Free,https://store.steampowered.com/app/2800370/30_Days_on_Ship/,4,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,95,3440070,Dinoblade,Q3 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3440070/Dinoblade/,4,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,96,1579420,Guardians of the Wild Sky,Coming soon,Free,https://store.steampowered.com/app/1579420/Guardians_of_the_Wild_Sky/,4,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,97,2001760,Beast of Reincarnation,"Aug 3, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2001760/Beast_of_Reincarnation/,4,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,98,1952620,The Lost Wild,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1952620/The_Lost_Wild/,4,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,99,2887580,Active Matter,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2887580/Active_Matter/,4,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,100,2849490,Outward 2,Q3 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2849490/Outward_2/,4,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,101,2055770,Bloody Hell Hotel,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2055770/Bloody_Hell_Hotel/,5,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,102,3078150,Hawthorn,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3078150/Hawthorn/,5,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,103,2063390,V.A Proxy,Coming soon,Free,https://store.steampowered.com/app/2063390/VA_Proxy/,5,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,104,1388550,Human Fall Flat 2,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1388550/Human_Fall_Flat_2/,5,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,105,2454980,Drakantos,Coming soon,Free,https://store.steampowered.com/app/2454980/Drakantos/,5,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,106,2855590,Knight's Path,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2855590/Knights_Path/,5,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,107,3073940,God Save Birmingham,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3073940/God_Save_Birmingham/,5,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,108,3438850,Sledding Game,Coming soon,Free,https://store.steampowered.com/app/3438850/Sledding_Game/,5,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,109,2254990,Permafrost,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2254990/Permafrost/,5,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,110,2075800,STAR WARS Zero Company™,Coming soon,Free,https://store.steampowered.com/app/2075800/STAR_WARS_Zero_Company/,5,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,111,388860,Judas,Coming soon,Free,https://store.steampowered.com/app/388860/Judas/,5,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,112,1866130,Morbid Metal,"Apr 8, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/1866130/Morbid_Metal/,5,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,113,3010850,Gears of War: E-Day,Coming soon,Free,https://store.steampowered.com/app/3010850/Gears_of_War_EDay/,5,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,114,1400830,Billie Bust Up,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1400830/Billie_Bust_Up/,5,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,115,3493540,Transport Fever 3,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3493540/Transport_Fever_3/,5,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,116,1667040,Under a Rock,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1667040/Under_a_Rock/,5,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,117,2924520,ONTOS,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2924520/ONTOS/,5,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,118,1752080,HUNGER,Coming soon,Free,https://store.steampowered.com/app/1752080/HUNGER/,5,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,119,4031890,Palworld: Palfarm,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/4031890/Palworld_Palfarm/,5,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,120,1416070,beta decay,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1416070/beta_decay/,5,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,121,2776090,Lay of the Land,"Apr 8, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2776090/Lay_of_the_Land/,5,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,122,2828710,Valor Mortis,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2828710/Valor_Mortis/,5,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,123,3276050,SpaceCraft,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3276050/SpaceCraft/,5,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,124,2617340,Terminator: Survivors,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2617340/Terminator_Survivors/,5,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,125,2318330,Neverway,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2318330/Neverway/,5,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,126,3516100,Tenebyss,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3516100/Tenebyss/,6,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,127,3230430,The CUBE,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3230430/The_CUBE/,6,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,128,3199500,My Time at Evershine,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3199500/My_Time_at_Evershine/,6,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,129,2705130,Exoborne,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2705130/Exoborne/,6,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,130,1867240,WARDOGS,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1867240/WARDOGS/,6,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,131,2569760,The Mound: Omen of Cthulhu,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2569760/The_Mound_Omen_of_Cthulhu/,6,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,132,4078430,STAR WARS: Galactic Racer™,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/4078430/STAR_WARS_Galactic_Racer/,6,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,133,3767320,Animula Nook,To be announced,Free,https://store.steampowered.com/app/3767320/Animula_Nook/,6,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,134,4126040,Aniimo,Coming soon,Free,https://store.steampowered.com/app/4126040/Aniimo/,6,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,135,2806050,Halo: Campaign Evolved,Coming soon,Free,https://store.steampowered.com/app/2806050/Halo_Campaign_Evolved/,6,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,136,3218230,ArcheAge Chronicles,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3218230/ArcheAge_Chronicles/,6,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,137,4198090,Bradley the Badger,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/4198090/Bradley_the_Badger/,6,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,138,4146000,GANG OF DRAGON,Coming soon,Free,https://store.steampowered.com/app/4146000/GANG_OF_DRAGON/,6,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,139,2295170,Emberville,Q3 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2295170/Emberville/,6,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,140,3283240,THE LIFT: Supernatural Handyman Simulator,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3283240/THE_LIFT_Supernatural_Handyman_Simulator/,6,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,141,3517740,Frostrail,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3517740/Frostrail/,6,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,142,2179480,Ardem,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2179480/Ardem/,6,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,143,3282300,Mistfall Hunter,July 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3282300/Mistfall_Hunter/,6,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,144,1701840,ExeKiller,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1701840/ExeKiller/,6,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,145,2254950,The Eternal Life of Goldman,Coming soon,Free,https://store.steampowered.com/app/2254950/The_Eternal_Life_of_Goldman/,6,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,146,2208810,Jurassic Park: Survival,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2208810/Jurassic_Park_Survival/,6,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,147,2863680,ZERO PARADES: For Dead Spies,"May 21, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2863680/ZERO_PARADES_For_Dead_Spies/,6,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,148,3110760,Alabaster Dawn,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3110760/Alabaster_Dawn/,6,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,149,1501310,The Ranchers,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1501310/The_Ranchers/,6,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,150,4348760,Totally Secure Airport,Coming soon,Free,https://store.steampowered.com/app/4348760/Totally_Secure_Airport/,6,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,151,3590650,OKU,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3590650/OKU/,7,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,152,590830,s&box,"Apr 28, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/590830/sbox/,7,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,153,2376260,Mariachi Legends,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2376260/Mariachi_Legends/,7,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,154,2412960,Breathedge 2,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2412960/Breathedge_2/,7,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,155,3812600,ReStory: Chill Electronics Repairs,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3812600/ReStory_Chill_Electronics_Repairs/,7,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,156,2532480,"Warhammer 40,000: Mechanicus II",2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2532480/Warhammer_40000_Mechanicus_II/,7,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,157,2584270,Mortal Shell II,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2584270/Mortal_Shell_II/,7,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,158,1559720,We Harvest Shadows,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1559720/We_Harvest_Shadows/,7,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,159,3230960,EXODUS,2027,Free,https://store.steampowered.com/app/3230960/EXODUS/,7,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,160,3571870,Darkhaven,Coming soon,Free,https://store.steampowered.com/app/3571870/Darkhaven/,7,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,161,3634520,Samson,"Apr 8, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3634520/Samson/,7,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,162,3970690,Project Shadowglass,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3970690/Project_Shadowglass/,7,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,163,1203170,Darksiders 4,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1203170/Darksiders_4/,7,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,164,2610770,Dust Front RTS,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2610770/Dust_Front_RTS/,7,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,165,3126410,Expedition: Into Darkness,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3126410/Expedition_Into_Darkness/,7,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,166,4231820,Castlevania: Belmont's Curse,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/4231820/Castlevania_Belmonts_Curse/,7,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,167,1731290,SPINE - This is Gun Fu,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1731290/SPINE__This_is_Gun_Fu/,7,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,168,2359600,Perfect New World,Coming soon,Free,https://store.steampowered.com/app/2359600/Perfect_New_World/,7,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,169,2830030,MOTORSLICE,May 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2830030/MOTORSLICE/,7,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,170,2209900,Moonlight Peaks,"Jul 7, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2209900/Moonlight_Peaks/,7,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,171,2244210,Echoes of Aincrad,"Jul 9, 2026",$69.99,https://store.steampowered.com/app/2244210/Echoes_of_Aincrad/,7,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,172,3041680,Coven of the Chicken Foot,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3041680/Coven_of_the_Chicken_Foot/,7,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,173,3526710,Everything is Crab: The Animal Evolution Roguelite,"May 8, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3526710/Everything_is_Crab_The_Animal_Evolution_Roguelite/,7,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,174,1739080,Sword Hero,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1739080/Sword_Hero/,7,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,175,2141130,Road Kings,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2141130/Road_Kings/,7,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,176,1401370,Viking City Builder,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1401370/Viking_City_Builder/,8,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,177,2679100,Witchspire,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2679100/Witchspire/,8,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,178,1181550,Carnival Hunt,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1181550/Carnival_Hunt/,8,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,179,1373530,Militsioner,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1373530/Militsioner/,8,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,180,3401960,JOIN US,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3401960/JOIN_US/,8,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,181,1670650,Espiocracy,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1670650/Espiocracy/,8,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,182,2871520,Deep Dish Dungeon,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2871520/Deep_Dish_Dungeon/,8,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,183,1685310,The Wayward Realms,Coming soon,Free,https://store.steampowered.com/app/1685310/The_Wayward_Realms/,8,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,184,3633680,Sea of Remnants,2026,Free,https://store.steampowered.com/app/3633680/Sea_of_Remnants/,8,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,185,1209970,Blind Descent,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1209970/Blind_Descent/,8,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,186,895160,Autonomica,Coming soon,Free,https://store.steampowered.com/app/895160/Autonomica/,8,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,187,3796990,Euro Truck Simulator 2 - Iceland,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3796990/Euro_Truck_Simulator_2__Iceland/,8,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,188,3620480,Pal♡world! ~More Than Just Pals~,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3620480/Palworld_More_Than_Just_Pals/,8,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,189,2470010,DEFECT,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2470010/DEFECT/,8,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,190,2595260,RECUR,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2595260/RECUR/,8,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,191,2339840,Enter the Gungeon 2,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2339840/Enter_the_Gungeon_2/,8,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,192,4258290,We Are So Cooked,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/4258290/We_Are_So_Cooked/,8,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,193,2255370,Directive 8020,"May 12, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2255370/Directive_8020/,8,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,194,2914150,Yunyun Syndrome!? Rhythm Psychosis,"Apr 23, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2914150/Yunyun_Syndrome_Rhythm_Psychosis/,8,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,195,2131860,Ashfall,Coming soon,Free,https://store.steampowered.com/app/2131860/Ashfall/,8,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,196,2413950,Final Sentence,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2413950/Final_Sentence/,8,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,197,1723610,The Parasites,Coming soon,Free,https://store.steampowered.com/app/1723610/The_Parasites/,8,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,198,3079190,PACS - Post Apocalypse Courier Service: Co-op Delivery Simulator,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3079190/PACS__Post_Apocalypse_Courier_Service_Coop_Delivery_Simulator/,8,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,199,3751230,Danganronpa 2x2,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3751230/Danganronpa_2x2/,8,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,200,1728620,IKUMA - The Frozen Compass,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1728620/IKUMA__The_Frozen_Compass/,8,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,201,2768300,SCP,Coming soon,Free,https://store.steampowered.com/app/2768300/SCP/,9,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,202,1672320,Fragile Existence,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1672320/Fragile_Existence/,9,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,203,3260750,Stage Fright,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3260750/Stage_Fright/,9,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,204,1805320,Romestead,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1805320/Romestead/,9,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,205,1173980,Shadow of the Road,Coming soon,Free,https://store.steampowered.com/app/1173980/Shadow_of_the_Road/,9,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,206,914210,N1RV Ann-A: Cyberpunk Bartender Action,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/914210/N1RV_AnnA_Cyberpunk_Bartender_Action/,9,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,207,3875690,Totally Legit Wheeler Seller,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3875690/Totally_Legit_Wheeler_Seller/,9,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,208,3209660,Golf With Your Friends 2,Coming soon,Free,https://store.steampowered.com/app/3209660/Golf_With_Your_Friends_2/,9,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,209,4012810,STEINS;GATE RE:BOOT,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/4012810/STEINSGATE_REBOOT/,9,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,210,612400,The Last Night,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/612400/The_Last_Night/,9,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,211,1116050,Starminer,Coming soon,Free,https://store.steampowered.com/app/1116050/Starminer/,9,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,212,3973300,Dark Craft,To be announced,Free,https://store.steampowered.com/app/3973300/Dark_Craft/,9,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,213,2838950,Game of Thrones: War for Westeros,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2838950/Game_of_Thrones_War_for_Westeros/,9,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,214,2828020,Citystate Metropolis,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2828020/Citystate_Metropolis/,9,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,215,2713000,Resonance: A Plague Tale Legacy,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2713000/Resonance_A_Plague_Tale_Legacy/,9,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,216,1327040,Truck World: Australia,Coming soon,Free,https://store.steampowered.com/app/1327040/Truck_World_Australia/,9,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,217,1875580,Mina the Hollower,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1875580/Mina_the_Hollower/,9,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,218,1977610,Long Gone,Coming soon,Free,https://store.steampowered.com/app/1977610/Long_Gone/,9,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,219,2723430,inKONBINI: One Store. Many Stories,"Apr 30, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2723430/inKONBINI_One_Store_Many_Stories/,9,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,220,2192380,Begone Beast,Coming soon,Free,https://store.steampowered.com/app/2192380/Begone_Beast/,9,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,221,2004680,Voidling Bound,"Jun 9, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2004680/Voidling_Bound/,9,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,222,2411280,The Bornless,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2411280/The_Bornless/,9,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,223,2950790,IRON NEST: Heavy Turret Simulator,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2950790/IRON_NEST_Heavy_Turret_Simulator/,9,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,224,2536510,The God Slayer,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2536510/The_God_Slayer/,9,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,225,3787240,MARVEL Tōkon: Fighting Souls,"Aug 6, 2026",$59.99,https://store.steampowered.com/app/3787240/MARVEL_Tkon_Fighting_Souls/,9,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,226,2701030,MINDWAVE,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2701030/MINDWAVE/,10,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,227,311810,Operation: Black Mesa,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/311810/Operation_Black_Mesa/,10,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,228,2948730,THE JOY OF CREATION,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2948730/THE_JOY_OF_CREATION/,10,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,229,3023930,UFL™,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3023930/UFL/,10,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,230,2017940,Pony Island 2: Panda Circus,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2017940/Pony_Island_2_Panda_Circus/,10,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,231,1798230,ATMOSFAR,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1798230/ATMOSFAR/,10,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,232,1967610,Turok: Origins,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1967610/Turok_Origins/,10,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,233,1067360,Pax Autocratica,"May 7, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/1067360/Pax_Autocratica/,10,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,234,3031890,Acts of Blood,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3031890/Acts_of_Blood/,10,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,235,2295060,Beyond These Stars,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2295060/Beyond_These_Stars/,10,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,236,1551980,Clive Barker's Hellraiser: Revival,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1551980/Clive_Barkers_Hellraiser_Revival/,10,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,237,1636440,SILENT HILL: Townfall,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1636440/SILENT_HILL_Townfall/,10,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,238,2708860,Canyons,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2708860/Canyons/,10,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,239,1454370,STARSEEKER: Astroneer Expeditions,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1454370/STARSEEKER_Astroneer_Expeditions/,10,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,240,2388620,D.O.R.F. Real-Time Strategic Conflict,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2388620/DORF_RealTime_Strategic_Conflict/,10,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,241,306910,Vaultbreakers,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/306910/Vaultbreakers/,10,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,242,3967470,We Gotta Go,"Apr 14, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3967470/We_Gotta_Go/,10,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,243,763310,Projekt Z: Beyond Order,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/763310/Projekt_Z_Beyond_Order/,10,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,244,1727760,Mars Tactics,May 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1727760/Mars_Tactics/,10,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,245,2239670,Glory To The Heroes™,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2239670/Glory_To_The_Heroes/,10,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,246,3859630,METAL GEAR SOLID: MASTER COLLECTION Vol.2,"Aug 27, 2026",$49.99,https://store.steampowered.com/app/3859630/METAL_GEAR_SOLID_MASTER_COLLECTION_Vol2/,10,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,247,3333850,Arkheron,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3333850/Arkheron/,10,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,248,3934270,How Many Dudes?,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3934270/How_Many_Dudes/,10,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,249,2437390,Enginefall,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2437390/Enginefall/,10,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,250,939530,The Free Shepherd,2027,Free,https://store.steampowered.com/app/939530/The_Free_Shepherd/,10,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,251,1661330,SacriFire,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1661330/SacriFire/,11,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,252,3115160,"Warhammer 40,000: Boltgun 2",2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3115160/Warhammer_40000_Boltgun_2/,11,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,253,3729700,Kaiju Cleanup,Coming soon,Free,https://store.steampowered.com/app/3729700/Kaiju_Cleanup/,11,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,254,1898920,War of the Worlds,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1898920/War_of_the_Worlds/,11,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,255,3183760,SpeedRunners 2: King of Speed,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3183760/SpeedRunners_2_King_of_Speed/,11,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,256,3371050,Zeverland,Coming soon,Free,https://store.steampowered.com/app/3371050/Zeverland/,11,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,257,3238940,A Simple Life with My Unobtrusive Sister,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3238940/A_Simple_Life_with_My_Unobtrusive_Sister/,11,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,258,3144860,WILL: Follow The Light,"Apr 28, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3144860/WILL_Follow_The_Light/,11,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,259,3959890,Tap Tap Loot,Coming soon,Free,https://store.steampowered.com/app/3959890/Tap_Tap_Loot/,11,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,260,2524850,Denshattack!,"Jun 17, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2524850/Denshattack/,11,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,261,3677050,HABROMANIA,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3677050/HABROMANIA/,11,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,262,2365790,Let's Build a Dungeon,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2365790/Lets_Build_a_Dungeon/,11,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,263,4328440,Cat Parents,Coming soon,Free,https://store.steampowered.com/app/4328440/Cat_Parents/,11,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,264,3345210,The Hidden Ones,Coming soon,Free,https://store.steampowered.com/app/3345210/The_Hidden_Ones/,11,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,265,2193600,Paranormal Tales,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2193600/Paranormal_Tales/,11,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,266,1994000,Rogue Soulstone,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1994000/Rogue_Soulstone/,11,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,267,3660710,Armatus,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3660710/Armatus/,11,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,268,2550530,The Legend of California,Coming soon,Free,https://store.steampowered.com/app/2550530/The_Legend_of_California/,11,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,269,1510440,Honeycomb: The World Beyond,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1510440/Honeycomb_The_World_Beyond/,11,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,270,2885380,Gold Mining Simulator 2,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2885380/Gold_Mining_Simulator_2/,11,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,271,1490930,Capital Command,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1490930/Capital_Command/,11,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,272,2760560,Cthulhu: The Cosmic Abyss,"Apr 16, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2760560/Cthulhu_The_Cosmic_Abyss/,11,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,273,3355360,4:LOOP,Coming soon,Free,https://store.steampowered.com/app/3355360/4LOOP/,11,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,274,2024600,Into The Unwell,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2024600/Into_The_Unwell/,11,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,275,3219630,Halloween,"Sep 8, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3219630/Halloween/,11,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,276,1059220,'83,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1059220/83/,12,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,277,2904040,Cheap Car Repair,"May 28, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2904040/Cheap_Car_Repair/,12,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,278,2675650,Decrepit,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2675650/Decrepit/,12,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,279,2796640,The Magus Circle,Coming soon,Free,https://store.steampowered.com/app/2796640/The_Magus_Circle/,12,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,280,2320980,Loftia,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2320980/Loftia/,12,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,281,3423280,Shark Dentist,Coming soon,Free,https://store.steampowered.com/app/3423280/Shark_Dentist/,12,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,282,3669620,Warhammer Survivors,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3669620/Warhammer_Survivors/,12,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,283,3132870,DarkSwitch,"Apr 9, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3132870/DarkSwitch/,12,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,284,3564490,Hell Express,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3564490/Hell_Express/,12,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,285,2400840,Phantom Line,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2400840/Phantom_Line/,12,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,286,4221910,Plague Doctor: Life in Pestilence,Coming soon,Free,https://store.steampowered.com/app/4221910/Plague_Doctor_Life_in_Pestilence/,12,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,287,2582320,Mixtape,"May 7, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2582320/Mixtape/,12,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,288,1637460,TankRat,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1637460/TankRat/,12,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,289,3165650,Masters of Albion,"Apr 22, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3165650/Masters_of_Albion/,12,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,290,1363940,Tenjutsu,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1363940/Tenjutsu/,12,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,291,2977260,The Guild - Europa 1410,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2977260/The_Guild__Europa_1410/,12,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,292,2327720,City Car Driving 2.0,Coming soon,Free,https://store.steampowered.com/app/2327720/City_Car_Driving_20/,12,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,293,2383130,Project: Mist,Coming soon,Free,https://store.steampowered.com/app/2383130/Project_Mist/,12,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,294,3983000,Parasite Mutant,Coming soon,Free,https://store.steampowered.com/app/3983000/Parasite_Mutant/,12,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,295,3486530,Stupid Never Dies,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3486530/Stupid_Never_Dies/,12,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,296,3512480,Drownlight,Coming soon,Free,https://store.steampowered.com/app/3512480/Drownlight/,12,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,297,2154070,INDUSTRIA 2,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2154070/INDUSTRIA_2/,12,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,298,3062170,The Enigma Cases,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3062170/The_Enigma_Cases/,12,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,299,1947910,OPUS: Prism Peak,"Apr 16, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/1947910/OPUS_Prism_Peak/,12,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,300,3894440,NO BACKUP,April 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3894440/NO_BACKUP/,12,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,301,3271280,Shroom and Gloom,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3271280/Shroom_and_Gloom/,13,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,302,1699050,Sanctuary: Shattered Sun,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1699050/Sanctuary_Shattered_Sun/,13,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,303,2872300,ABYSS X ZERO,Coming soon,Free,https://store.steampowered.com/app/2872300/ABYSS_X_ZERO/,13,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,304,2177510,EthrA,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2177510/EthrA/,13,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,305,1442520,Akatori,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1442520/Akatori/,13,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,306,3617830,Scary Cargo,Coming soon,Free,https://store.steampowered.com/app/3617830/Scary_Cargo/,13,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,307,3509230,Gambonanza,"May 1, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3509230/Gambonanza/,13,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,308,2146290,The Big Catch,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2146290/The_Big_Catch/,13,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,309,1853440,Tropico 7,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1853440/Tropico_7/,13,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,310,1340380,Kitori Academy,Coming soon,Free,https://store.steampowered.com/app/1340380/Kitori_Academy/,13,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,311,1051440,Ship Builder,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1051440/Ship_Builder/,13,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,312,3245140,Hello Sunshine,Coming soon,Free,https://store.steampowered.com/app/3245140/Hello_Sunshine/,13,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,313,1675680,INSTINCTION,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1675680/INSTINCTION/,13,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,314,2753930,Vikings Dynasty,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2753930/Vikings_Dynasty/,13,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,315,2947860,Untitled John Wick Game,Coming soon,Free,https://store.steampowered.com/app/2947860/Untitled_John_Wick_Game/,13,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,316,1883810,Bloodstained: The Scarlet Engagement,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1883810/Bloodstained_The_Scarlet_Engagement/,13,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,317,3077640,MIGHTREYA,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3077640/MIGHTREYA/,13,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,318,3341000,Thick As Thieves,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3341000/Thick_As_Thieves/,13,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,319,2190700,Altered Alma,Coming soon,Free,https://store.steampowered.com/app/2190700/Altered_Alma/,13,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,320,1799840,Queen's Domain,Coming soon,Free,https://store.steampowered.com/app/1799840/Queens_Domain/,13,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,321,1332100,Starship Simulator,To be announced,Free,https://store.steampowered.com/app/1332100/Starship_Simulator/,13,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,322,2512880,CrisisX,2026,Free,https://store.steampowered.com/app/2512880/CrisisX/,13,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,323,2353060,Invincible VS,"Apr 30, 2026",$49.99,https://store.steampowered.com/app/2353060/Invincible_VS/,13,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,324,1845250,Rubinite,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1845250/Rubinite/,13,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,325,3196440,Vacation Cafe Simulator,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3196440/Vacation_Cafe_Simulator/,13,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,326,1255460,Space Station 14,Coming soon,Free,https://store.steampowered.com/app/1255460/Space_Station_14/,14,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,327,3708010,Darkwood 2,Coming soon,Free,https://store.steampowered.com/app/3708010/Darkwood_2/,14,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,328,2786710,Zarya,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2786710/Zarya/,14,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,329,2213700,Sintopia,"Apr 16, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2213700/Sintopia/,14,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,330,3757140,Of Peaks and Tides,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3757140/Of_Peaks_and_Tides/,14,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,331,2326200,NEO BERLIN 2087,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2326200/NEO_BERLIN_2087/,14,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,332,3000460,The Path Into The Abyss,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3000460/The_Path_Into_The_Abyss/,14,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,333,2387670,As One We Survive,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2387670/As_One_We_Survive/,14,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,334,3793200,American Truck Simulator - Ford Car Pack,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3793200/American_Truck_Simulator__Ford_Car_Pack/,14,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,335,2551550,Goodbye Seoul,Coming soon,Free,https://store.steampowered.com/app/2551550/Goodbye_Seoul/,14,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,336,2889030,MUDANG: Two Hearts,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2889030/MUDANG_Two_Hearts/,14,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,337,3816030,DayZ Badlands,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3816030/DayZ_Badlands/,14,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,338,3088070,Dark Light: Survivor,April 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3088070/Dark_Light_Survivor/,14,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,339,3545560,Ironclad,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3545560/Ironclad/,14,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,340,2638690,Empire Eternal,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2638690/Empire_Eternal/,14,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,341,2424420,Avatar Legends: The Fighting Game,"Jul 2, 2026",$29.99,https://store.steampowered.com/app/2424420/Avatar_Legends_The_Fighting_Game/,14,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,342,3394840,Clawed,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3394840/Clawed/,14,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,343,4187140,Don't Panic! It is Just Turbulence,Coming soon,Free,https://store.steampowered.com/app/4187140/Dont_Panic_It_is_Just_Turbulence/,14,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,344,2315050,We Were Here Tomorrow,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2315050/We_Were_Here_Tomorrow/,14,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,345,3636770,Servant of the Lake,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3636770/Servant_of_the_Lake/,14,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,346,2825860,The Sinking City 2,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2825860/The_Sinking_City_2/,14,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,347,1912410,Minecraft Dungeons II,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1912410/Minecraft_Dungeons_II/,14,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,348,3647010,DRUG Schedule,2026,Free,https://store.steampowered.com/app/3647010/DRUG_Schedule/,14,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,349,2692660,Car Mechanic Simulator 2026,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2692660/Car_Mechanic_Simulator_2026/,14,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,350,3905450,WheelMates,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3905450/WheelMates/,14,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,351,3131640,Deus Ex Remastered,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3131640/Deus_Ex_Remastered/,15,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,352,2302470,Full Fathom,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2302470/Full_Fathom/,15,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,353,888780,Adapt,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/888780/Adapt/,15,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,354,1605850,ZeroSpace,Q3 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1605850/ZeroSpace/,15,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,355,2185510,TOUCHSTARVED,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2185510/TOUCHSTARVED/,15,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,356,1290760,Gecko Gods,"Apr 16, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/1290760/Gecko_Gods/,15,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,357,4212050,Supreme Experiment,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/4212050/Supreme_Experiment/,15,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,358,2578510,20MTD: Emberpath,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2578510/20MTD_Emberpath/,15,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,359,3714450,Barotrauma - Home & Harbor Expansion,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3714450/Barotrauma__Home__Harbor_Expansion/,15,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,360,3086590,"Gods, Death & Reapers",2026,Free,https://store.steampowered.com/app/3086590/Gods_Death__Reapers/,15,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,361,3333990,Covenant,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3333990/Covenant/,15,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,362,2175840,Sunkissed City,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2175840/Sunkissed_City/,15,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,363,3851260,Euro Truck Simulator 2 - Isle of Ireland,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3851260/Euro_Truck_Simulator_2__Isle_of_Ireland/,15,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,364,4225980,Trails in the Sky 2nd Chapter,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/4225980/Trails_in_the_Sky_2nd_Chapter/,15,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,365,3270430,Systemic War,Q4 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3270430/Systemic_War/,15,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,366,4213030,Deadhikers,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/4213030/Deadhikers/,15,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,367,1374860,Nocturne,"Jun 30, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/1374860/Nocturne/,15,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,368,3892270,Gamble With Your Friends,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3892270/Gamble_With_Your_Friends/,15,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,369,1792460,We Kill Monsters,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1792460/We_Kill_Monsters/,15,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,370,950660,WRAITH OPS,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/950660/WRAITH_OPS/,15,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,371,3014650,.45 PARABELLUM BLOODHOUND - Cyberpunk Active Time Action,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3014650/45_PARABELLUM_BLOODHOUND__Cyberpunk_Active_Time_Action/,15,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,372,3629430,DREADMOOR,Q4 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3629430/DREADMOOR/,15,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,373,1840880,Freaked Fleapit,Coming soon,Free,https://store.steampowered.com/app/1840880/Freaked_Fleapit/,15,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,374,3583210,Crashout Crew,Coming soon,Free,https://store.steampowered.com/app/3583210/Crashout_Crew/,15,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,375,1675260,Among the Trolls,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1675260/Among_the_Trolls/,15,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,376,2967950,The Witch's Bakery,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2967950/The_Witchs_Bakery/,16,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,377,2333000,Silver Pines,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2333000/Silver_Pines/,16,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,378,1787230,Ahoy,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1787230/Ahoy/,16,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,379,2474770,Momento,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2474770/Momento/,16,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,380,3385970,Beyond Sandbox,Coming soon,Free,https://store.steampowered.com/app/3385970/Beyond_Sandbox/,16,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,381,2121510,Tenebris Somnia,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2121510/Tenebris_Somnia/,16,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,382,2678080,Tides of Tomorrow 🌊,"Apr 22, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2678080/Tides_of_Tomorrow/,16,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,383,1540720,Forgery Craft,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1540720/Forgery_Craft/,16,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,384,3910680,INARI,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3910680/INARI/,16,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,385,1933000,Luna Abyss,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1933000/Luna_Abyss/,16,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,386,1976830,Vivaland,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1976830/Vivaland/,16,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,387,1826420,CarX Drift Racing Online 2,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1826420/CarX_Drift_Racing_Online_2/,16,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,388,2805070,Screenbound,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2805070/Screenbound/,16,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,389,3139440,GunZ: The Duel Remastered,2026,Free,https://store.steampowered.com/app/3139440/GunZ_The_Duel_Remastered/,16,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,390,1631920,Super Zoo Story,Coming soon,Free,https://store.steampowered.com/app/1631920/Super_Zoo_Story/,16,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,391,3763840,Felt That: Boxing,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3763840/Felt_That_Boxing/,16,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,392,1752990,Class Zero Seven,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1752990/Class_Zero_Seven/,16,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,393,2439770,PROJECT MIX,Q1 2027,Free,https://store.steampowered.com/app/2439770/PROJECT_MIX/,16,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,394,3090810,Truckful,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3090810/Truckful/,16,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,395,1747470,Road Diner Simulator,Q3 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1747470/Road_Diner_Simulator/,16,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,396,3522600,Demon Bluff,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3522600/Demon_Bluff/,16,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,397,3569420,Chained Beasts,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3569420/Chained_Beasts/,16,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,398,3218570,TANUKI: Pon's Summer,Coming soon,Free,https://store.steampowered.com/app/3218570/TANUKI_Pons_Summer/,16,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,399,3730310,Fractured Blooms,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3730310/Fractured_Blooms/,16,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,400,3218350,Melvor Idle 2,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3218350/Melvor_Idle_2/,16,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,401,3509420,Planetbase 2,Q1 2027,Free,https://store.steampowered.com/app/3509420/Planetbase_2/,17,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,402,792610,King of the Dwarves: Underground City Builder,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/792610/King_of_the_Dwarves_Underground_City_Builder/,17,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,403,2587620,Dinolords,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2587620/Dinolords/,17,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,404,2239640,Earthblade,Coming soon,Free,https://store.steampowered.com/app/2239640/Earthblade/,17,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,405,1166890,Necrofugitive,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1166890/Necrofugitive/,17,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,406,3562580,Agefield High: Rock the School,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3562580/Agefield_High_Rock_the_School/,17,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,407,2261430,LumenTale: Memories of Trey,"May 26, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2261430/LumenTale_Memories_of_Trey/,17,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,408,2421750,Gunman Contracts - Stand Alone,Coming soon,Free,https://store.steampowered.com/app/2421750/Gunman_Contracts__Stand_Alone/,17,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,409,2572040,Woodo,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2572040/Woodo/,17,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,410,499170,Order of the Sinking Star,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/499170/Order_of_the_Sinking_Star/,17,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,411,3426150,I Have No Change,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3426150/I_Have_No_Change/,17,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,412,2526570,Band of Crusaders,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2526570/Band_of_Crusaders/,17,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,413,3486960,American Truck Simulator - Illinois,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3486960/American_Truck_Simulator__Illinois/,17,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,414,2574970,Crystalfall,"Apr 10, 2026",Free,https://store.steampowered.com/app/2574970/Crystalfall/,17,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,415,3956640,Another Hero's Adventure,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3956640/Another_Heros_Adventure/,17,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,416,2721340,Last Flag,"Apr 14, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2721340/Last_Flag/,17,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,417,3672400,Farever,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3672400/Farever/,17,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,418,4162340,Verdant,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/4162340/Verdant/,17,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,419,3645160,Frostpunk: 1886,2027,Free,https://store.steampowered.com/app/3645160/Frostpunk_1886/,17,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,420,1578940,Vampire Clans,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1578940/Vampire_Clans/,17,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,421,2957360,NIGHTMARE OPERATOR,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2957360/NIGHTMARE_OPERATOR/,17,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,422,3424730,ORMOD: Directive,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3424730/ORMOD_Directive/,17,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,423,3274530,Epitome,Coming soon,Free,https://store.steampowered.com/app/3274530/Epitome/,17,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,424,2785740,Diesel Knights,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2785740/Diesel_Knights/,17,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,425,1891280,Everbloom,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1891280/Everbloom/,17,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,426,951770,Forsaken Realms: Vahrin's Call,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/951770/Forsaken_Realms_Vahrins_Call/,18,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,427,2646720,Dead Weight,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2646720/Dead_Weight/,18,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,428,3886530,Westlanders,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3886530/Westlanders/,18,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,429,2362260,Decadent,Coming soon,Free,https://store.steampowered.com/app/2362260/Decadent/,18,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,430,1561740,Kriegsfront Tactics,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1561740/Kriegsfront_Tactics/,18,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,431,1872800,EVE Vanguard,Q3 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1872800/EVE_Vanguard/,18,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,432,2556470,Fantastic Haven,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2556470/Fantastic_Haven/,18,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,433,1146670,Beauty And Violence: Valkyries,Coming soon,Free,https://store.steampowered.com/app/1146670/Beauty_And_Violence_Valkyries/,18,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,434,4253010,Scars of Honor,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/4253010/Scars_of_Honor/,18,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,435,3119540,Scriptorium: Master of Manuscripts,"Apr 16, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3119540/Scriptorium_Master_of_Manuscripts/,18,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,436,3211720,Erosion,Coming soon,Free,https://store.steampowered.com/app/3211720/Erosion/,18,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,437,3295000,ReVamp,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3295000/ReVamp/,18,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,438,3710210,Mandrake,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3710210/Mandrake/,18,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,439,3749870,American Truck Simulator - South Dakota,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3749870/American_Truck_Simulator__South_Dakota/,18,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,440,1159390,Taxi Simulator,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1159390/Taxi_Simulator/,18,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,441,2975260,PRISON OF HUSKS,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2975260/PRISON_OF_HUSKS/,18,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,442,3582810,Dandelion Void,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3582810/Dandelion_Void/,18,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,443,2566700,The Last General,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2566700/The_Last_General/,18,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,444,3166050,Quite a Ride,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3166050/Quite_a_Ride/,18,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,445,2764460,Sandustry,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2764460/Sandustry/,18,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,446,1593010,The Store is Closed,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1593010/The_Store_is_Closed/,18,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,447,1574480,Agent 64: Spies Never Die,Coming soon,Free,https://store.steampowered.com/app/1574480/Agent_64_Spies_Never_Die/,18,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,448,3281970,Deep Snow Delivery,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3281970/Deep_Snow_Delivery/,18,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,449,3102780,C-Beams,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3102780/CBeams/,18,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,450,3224600,Am I Nima,Coming soon,Free,https://store.steampowered.com/app/3224600/Am_I_Nima/,18,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,451,3749580,He-Man and the Masters of the Universe™: Dragon Pearl of Destruction,"Apr 28, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3749580/HeMan_and_the_Masters_of_the_Universe_Dragon_Pearl_of_Destruction/,19,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,452,1256270,Kinstrife,Coming soon,Free,https://store.steampowered.com/app/1256270/Kinstrife/,19,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,453,3256150,Moomintroll: Winter's Warmth,"Apr 27, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3256150/Moomintroll_Winters_Warmth/,19,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,454,3668850,Suikoden STAR LEAP,To be announced,Free,https://store.steampowered.com/app/3668850/Suikoden_STAR_LEAP/,19,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,455,1547540,They Are Here: Alien Abduction Horror,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/1547540/They_Are_Here_Alien_Abduction_Horror/,19,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,456,3596700,TerraTech Legion,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3596700/TerraTech_Legion/,19,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,457,2210520,COPA CITY,"May 21, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2210520/COPA_CITY/,19,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,458,3299920,Liminal Point,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3299920/Liminal_Point/,19,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,459,2303200,DarkSwarm,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2303200/DarkSwarm/,19,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,460,3091140,Lootbound,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3091140/Lootbound/,19,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,461,2189430,Gilded Destiny,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2189430/Gilded_Destiny/,19,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,462,3001740,Pelican Harbor,Coming soon,Free,https://store.steampowered.com/app/3001740/Pelican_Harbor/,19,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,463,3051160,Black State,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3051160/Black_State/,19,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,464,3702100,The Secret of Weepstone,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3702100/The_Secret_of_Weepstone/,19,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,465,2601540,Drowned Lake,Coming soon,Free,https://store.steampowered.com/app/2601540/Drowned_Lake/,19,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,466,4128580,BidKing:竞拍之王,Coming soon,Free,https://store.steampowered.com/app/4128580/BidKing/,19,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,467,3499790,Ashes of the Singularity II,Coming soon,Free,https://store.steampowered.com/app/3499790/Ashes_of_the_Singularity_II/,19,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,468,2796220,Apogea,To be announced,Free,https://store.steampowered.com/app/2796220/Apogea/,19,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,469,4005900,Froggin' Around,Coming soon,Free,https://store.steampowered.com/app/4005900/Froggin_Around/,19,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,470,2680280,PAPERHEAD,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2680280/PAPERHEAD/,19,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,471,3707530,The Vernyhorn,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3707530/The_Vernyhorn/,19,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,472,1113400,Alliance of the Sacred Suns,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1113400/Alliance_of_the_Sacred_Suns/,19,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,473,3703360,WORLD OF DOGS,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3703360/WORLD_OF_DOGS/,19,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,474,3712080,Funnel Runners,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3712080/Funnel_Runners/,19,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,475,2559370,The Scramble Vice,Coming soon,Free,https://store.steampowered.com/app/2559370/The_Scramble_Vice/,19,25
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,476,2287430,Metropolis 1998,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2287430/Metropolis_1998/,20,1
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,477,2852700,BUS: Bro u Survived,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2852700/BUS_Bro_u_Survived/,20,2
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,478,3184960,The Defiant,Coming soon,Free,https://store.steampowered.com/app/3184960/The_Defiant/,20,3
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,479,2088020,UNDEFEATED: Genesis,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2088020/UNDEFEATED_Genesis/,20,4
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,480,2535950,Battlestar Galactica: Scattered Hopes,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2535950/Battlestar_Galactica_Scattered_Hopes/,20,5
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,481,2968010,Mafia Simulator,Coming soon,Free,https://store.steampowered.com/app/2968010/Mafia_Simulator/,20,6
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,482,3031880,Car Park Capital,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3031880/Car_Park_Capital/,20,7
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,483,3222640,Wild West Pioneers,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3222640/Wild_West_Pioneers/,20,8
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,484,1053900,Radio the Universe,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1053900/Radio_the_Universe/,20,9
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,485,3065940,Gallipoli,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3065940/Gallipoli/,20,10
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,486,1315180,Spark in the Dark,"Apr 7, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/1315180/Spark_in_the_Dark/,20,11
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,487,2669060,Beyond Astra,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2669060/Beyond_Astra/,20,12
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,488,3009300,Teamfight Manager 2,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3009300/Teamfight_Manager_2/,20,13
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,489,3710840,House Flipper Remastered Collection,Q2 2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3710840/House_Flipper_Remastered_Collection/,20,14
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,490,1979810,AdventureQuest Worlds: Infinity,Coming soon,Free,https://store.steampowered.com/app/1979810/AdventureQuest_Worlds_Infinity/,20,15
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,491,2542020,Duskfade,Coming soon,Free,https://store.steampowered.com/app/2542020/Duskfade/,20,16
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,492,2988030,Into the Fire,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2988030/Into_the_Fire/,20,17
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,493,3840230,Adorable Adventures,"Apr 30, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/3840230/Adorable_Adventures/,20,18
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,494,3710850,Become,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/3710850/Become/,20,19
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,495,2509360,Water Me & You,2026,Unpriced (Coming Soon),https://store.steampowered.com/app/2509360/Water_Me__You/,20,20
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,496,2808550,Sudden Strike 5,"Apr 23, 2026",Unpriced (Coming Soon),https://store.steampowered.com/app/2808550/Sudden_Strike_5/,20,21
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,497,1906190,BackRooms,Coming soon,Free,https://store.steampowered.com/app/1906190/BackRooms/,20,22
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,498,2261380,Croakwood,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/2261380/Croakwood/,20,23
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,499,3581730,SHADE Protocol,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/3581730/SHADE_Protocol/,20,24
+e40954dc-26ba-4e75-9876-1f0be8697b66,2026-04-03T18:24:25.589508+00:00,500,1706510,Songs of Glimmerwick,To be announced,Unpriced (Coming Soon),https://store.steampowered.com/app/1706510/Songs_of_Glimmerwick/,20,25

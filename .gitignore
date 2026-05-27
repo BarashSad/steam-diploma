@@ -1,6 +1,13 @@
-config.json
-*.log
-logs/
-debug_html/
 __pycache__/
 .ipynb_checkpoints/
+debug_html/
+*.pyc
+.DS_Store
+
+data/snapshots_aux/
+data/snapshots/snapshot_extra_*
+data/snapshots/duplicates_report_*
+data/snapshots/validation_report_*
+data/snapshots/*.metadata.json
+data/snapshots/_in_progress/
+data/snapshots/old/
