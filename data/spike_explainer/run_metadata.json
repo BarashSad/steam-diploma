@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-05-27T07:45:38.081029+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260527_072106/rank_changes.csv",
-    "selected_appid": "4094350",
-    "selected_game_title": "Online: 404",
+    "started_at": "2026-05-27T09:11:35.726314+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260527_084622/rank_changes.csv",
+    "selected_appid": "4508570",
+    "selected_game_title": "Veritas Tales: Witch of the Dark Castle",
     "top_n": 1,
     "old_snapshot_date": "2026-05-24",
     "new_snapshot_date": "2026-05-27",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-05-27T07:45:38.081043+00:00",
+    "finished_at": "2026-05-27T09:11:35.726326+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
