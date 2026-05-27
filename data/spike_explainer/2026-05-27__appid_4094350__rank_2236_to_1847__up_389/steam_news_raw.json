@@ -1,0 +1,21 @@
+{
+    "appnews": {
+        "appid": 4094350,
+        "newsitems": [
+            {
+                "gid": "1831432155565534",
+                "title": "News: Demo in June and release in July",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155565534",
+                "is_external_url": true,
+                "author": "CG Team",
+                "contents": "Hi!We\u2019re a team of developers, and we\u2019re very glad to see you here. Let\u2019s get to know each other.We\u2019re a married couple with four cats, and for over a year now we\u2019ve been spending all our free time working on Online: 404. Before that, we spent several thousand hours playing The Forest, Valheim, Rust, ARK, Raft, and Conan Exiles. Then we decided it was time to create something of our own.Online: 404 is our take on a non-trivial open-world survival experience. It\u2019s a story-driven game that you can complete solo or in a team of up to four players, joining your friends. As usual, you can follow the story or explore the world in search of items that will help you survive. The abandoned district spans about 4 square kilometers. Within this area, you\u2019ll find a town and many points of interest designed to make exploration engaging.For sure, the game includes base building, crafting, hunting, and even zombies (though it turns out they\u2019re quite unusual), along with raids on your base. But the core gameplay feature of our game is your smartphone.In Online: 404, your character\u2019s smartphone is the main survival tool. Want to learn how to craft an item? Search the in-game Internet, you might find something useful. Need to fix a car? Figure out which mushrooms are safe to eat? Learn how to butcher an animal after a hunt? All the information is available online. But it won\u2019t be easy: the modern internet isn\u2019t for the faint of heart. On your path to survival, you\u2019ll have to navigate through tempting ads, annoying CAPTCHAs, and constant attempts of the network to grab your attention and distract you from your main goal - just like in the real Internet.But let\u2019s get to the point.We\u2019re releasing a free demo in early June 2026, and you\u2019ll be able to experience the doubtful solitude of the abandoned Leminsgale district. Then, at the end of July 2026, Online: 404 will launch in Early Access.We invite you to add the game to your Wishlist so you don\u2019t miss the demo release, and we\u2019ll do our best to share more updates with you as we approach the final stages of development.See you soon!",
+                "feedlabel": "Community Announcements",
+                "date": 1777476316,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4094350
+            }
+        ],
+        "count": 1
+    }
+}

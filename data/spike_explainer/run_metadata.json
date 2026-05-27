@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-05-26T19:47:13.306392+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260526_192151/rank_changes.csv",
-    "selected_appid": "4664240",
-    "selected_game_title": "Hard Worker",
+    "started_at": "2026-05-27T07:45:38.081029+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260527_072106/rank_changes.csv",
+    "selected_appid": "4094350",
+    "selected_game_title": "Online: 404",
     "top_n": 1,
-    "old_snapshot_date": "2026-05-23",
-    "new_snapshot_date": "2026-05-26",
+    "old_snapshot_date": "2026-05-24",
+    "new_snapshot_date": "2026-05-27",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-05-26T19:47:13.306405+00:00",
+    "finished_at": "2026-05-27T07:45:38.081043+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3678970,TBH: Task Bar Hero,TBH: Task Bar Hero,2186,1950,236,236,up,upward_spike,Free,Free,False,"May 26, 2026",Coming soon,True
+2646720,Dead Weight,Dead Weight,385,384,1,1,up,none,Unpriced (Coming Soon),Free,True,Q2 2026,Coming soon,True
+1818660,Kalyskah,Kalyskah,998,999,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q2 2026,2026,True

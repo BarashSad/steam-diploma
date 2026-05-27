@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4094350,Online: 404,"""Online: 404"" Steam",general,1,tavily,True,,5
+4094350,Online: 404,"""Online: 404"" trailer",general,1,tavily,True,,5
+4094350,Online: 404,"""Online: 404"" gameplay",general,1,tavily,True,,5
+4094350,Online: 404,"""Online: 404"" demo",general,1,tavily,True,,5
+4094350,Online: 404,"""Online: 404"" release date",general,1,tavily,True,,5
+4094350,Online: 404,"""Online: 404"" announcement",general,1,tavily,True,,5
+4094350,Online: 404,"""Online: 404"" preview",general,1,tavily,True,,5
+4094350,Online: 404,"""Online: 404"" review",general,1,tavily,True,,5
+4094350,Online: 404,"""Online: 404"" publisher",general,1,tavily,True,,5
+4094350,Online: 404,"""Online: 404"" developer",general,1,tavily,True,,5
+4094350,Online: 404,"site:pcgamer.com ""Online: 404""",press,2,tavily,False,General budget exhausted,0
+4094350,Online: 404,"site:rockpapershotgun.com ""Online: 404""",press,2,tavily,False,General budget exhausted,0
+4094350,Online: 404,"site:ign.com ""Online: 404""",press,2,tavily,False,General budget exhausted,0
+4094350,Online: 404,"site:gamespot.com ""Online: 404""",press,2,tavily,False,General budget exhausted,0
+4094350,Online: 404,"site:game8.co ""Online: 404""",press,2,tavily,False,General budget exhausted,0
+4094350,Online: 404,"site:reddit.com ""Online: 404""",social,3,tavily,True,,4
+4094350,Online: 404,"site:tiktok.com ""Online: 404""",social,4,tavily,True,,5
+4094350,Online: 404,"site:instagram.com ""Online: 404""",social,4,tavily,True,,5
+4094350,Online: 404,"site:x.com ""Online: 404""",social,4,tavily,True,,5
+4094350,Online: 404,"site: ""Online: 404""",social,4,tavily,True,,5
