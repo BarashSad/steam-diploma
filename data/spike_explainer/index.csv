@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-05-28T04:32:17.416395+00:00,4093640,Psych Rift,data/spike_explainer/2026-05-28__appid_4093640__rank_2558_to_2068__up_490,490,85,data/spike_explainer/2026-05-28__appid_4093640__rank_2558_to_2068__up_490/llm_summary_input.md
+2026-05-28T16:36:24.478429+00:00,4508570,Veritas Tales: Witch of the Dark Castle,data/spike_explainer/2026-05-28__appid_4508570__rank_2021_to_1829__up_192,192,85,data/spike_explainer/2026-05-28__appid_4508570__rank_2021_to_1829__up_192/llm_summary_input.md
