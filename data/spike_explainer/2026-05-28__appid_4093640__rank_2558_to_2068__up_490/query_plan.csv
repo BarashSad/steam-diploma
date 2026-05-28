@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4093640,Psych Rift,"""Psych Rift"" Steam",general,1,tavily,True,,5
+4093640,Psych Rift,"""Psych Rift"" trailer",general,1,tavily,True,,5
+4093640,Psych Rift,"""Psych Rift"" gameplay",general,1,tavily,True,,5
+4093640,Psych Rift,"""Psych Rift"" demo",general,1,tavily,True,,5
+4093640,Psych Rift,"""Psych Rift"" release date",general,1,tavily,True,,5
+4093640,Psych Rift,"""Psych Rift"" announcement",general,1,tavily,True,,5
+4093640,Psych Rift,"""Psych Rift"" preview",general,1,tavily,True,,5
+4093640,Psych Rift,"""Psych Rift"" review",general,1,tavily,True,,5
+4093640,Psych Rift,"""Psych Rift"" publisher",general,1,tavily,True,,5
+4093640,Psych Rift,"""Psych Rift"" developer",general,1,tavily,True,,5
+4093640,Psych Rift,"site:pcgamer.com ""Psych Rift""",press,2,tavily,False,General budget exhausted,0
+4093640,Psych Rift,"site:rockpapershotgun.com ""Psych Rift""",press,2,tavily,False,General budget exhausted,0
+4093640,Psych Rift,"site:ign.com ""Psych Rift""",press,2,tavily,False,General budget exhausted,0
+4093640,Psych Rift,"site:gamespot.com ""Psych Rift""",press,2,tavily,False,General budget exhausted,0
+4093640,Psych Rift,"site:game8.co ""Psych Rift""",press,2,tavily,False,General budget exhausted,0
+4093640,Psych Rift,"site:reddit.com ""Psych Rift""",social,3,tavily,True,,5
+4093640,Psych Rift,"site:tiktok.com ""Psych Rift""",social,4,tavily,True,,5
+4093640,Psych Rift,"site:instagram.com ""Psych Rift""",social,4,tavily,True,,5
+4093640,Psych Rift,"site:x.com ""Psych Rift""",social,4,tavily,True,,5
+4093640,Psych Rift,"site: ""Psych Rift""",social,4,tavily,True,,5
