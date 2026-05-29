@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-05-29T04:35:14.902481+00:00,3219030,Planet Zoo 2,data/spike_explainer/2026-05-29__appid_3219030__rank_1858_to_769__up_1089,1089,90,data/spike_explainer/2026-05-29__appid_3219030__rank_1858_to_769__up_1089/llm_summary_input.md
+2026-05-29T16:16:56.984905+00:00,3847920,Wild n Chill,data/spike_explainer/2026-05-29__appid_3847920__rank_2038_to_1373__up_665,665,85,data/spike_explainer/2026-05-29__appid_3847920__rank_2038_to_1373__up_665/llm_summary_input.md

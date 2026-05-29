@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3847920,Wild n Chill,"""Wild n Chill"" Steam",general,1,tavily,True,,5
+3847920,Wild n Chill,"""Wild n Chill"" trailer",general,1,tavily,True,,5
+3847920,Wild n Chill,"""Wild n Chill"" gameplay",general,1,tavily,True,,5
+3847920,Wild n Chill,"""Wild n Chill"" demo",general,1,tavily,True,,5
+3847920,Wild n Chill,"""Wild n Chill"" release date",general,1,tavily,True,,5
+3847920,Wild n Chill,"""Wild n Chill"" announcement",general,1,tavily,True,,5
+3847920,Wild n Chill,"""Wild n Chill"" preview",general,1,tavily,True,,5
+3847920,Wild n Chill,"""Wild n Chill"" review",general,1,tavily,True,,5
+3847920,Wild n Chill,"""Wild n Chill"" publisher",general,1,tavily,True,,5
+3847920,Wild n Chill,"""Wild n Chill"" developer",general,1,tavily,True,,5
+3847920,Wild n Chill,"site:pcgamer.com ""Wild n Chill""",press,2,tavily,False,General budget exhausted,0
+3847920,Wild n Chill,"site:rockpapershotgun.com ""Wild n Chill""",press,2,tavily,False,General budget exhausted,0
+3847920,Wild n Chill,"site:ign.com ""Wild n Chill""",press,2,tavily,False,General budget exhausted,0
+3847920,Wild n Chill,"site:gamespot.com ""Wild n Chill""",press,2,tavily,False,General budget exhausted,0
+3847920,Wild n Chill,"site:game8.co ""Wild n Chill""",press,2,tavily,False,General budget exhausted,0
+3847920,Wild n Chill,"site:reddit.com ""Wild n Chill""",social,3,tavily,True,,5
+3847920,Wild n Chill,"site:tiktok.com ""Wild n Chill""",social,4,tavily,True,,5
+3847920,Wild n Chill,"site:instagram.com ""Wild n Chill""",social,4,tavily,True,,5
+3847920,Wild n Chill,"site:x.com ""Wild n Chill""",social,4,tavily,True,,5
+3847920,Wild n Chill,"site: ""Wild n Chill""",social,4,tavily,True,,5

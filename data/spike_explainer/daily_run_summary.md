@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Planet Zoo 2
+Analyzed: Wild n Chill
 Tavily Budget Used: 15
 Errors: 0
