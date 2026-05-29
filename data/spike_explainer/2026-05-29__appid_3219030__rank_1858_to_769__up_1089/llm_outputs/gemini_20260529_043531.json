@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-05-29T04:35:31.030817+00:00",
+    "timestamp": "20260529_043531",
+    "input_file": "data/spike_explainer/2026-05-29__appid_3219030__rank_1858_to_769__up_1089/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-05-29__appid_3219030__rank_1858_to_769__up_1089/llm_outputs/gemini_20260529_043531.md",
+    "game_title": "Planet Zoo 2",
+    "appid": "3219030",
+    "duration_sec": 16.3,
+    "response_length": 5673,
+    "error": null
+}

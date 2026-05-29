@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-05-28T16:36:40.104656+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260528_161309/rank_changes.csv",
-    "selected_appid": "4508570",
-    "selected_game_title": "Veritas Tales: Witch of the Dark Castle",
+    "started_at": "2026-05-29T04:35:30.913507+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260529_041019/rank_changes.csv",
+    "selected_appid": "3219030",
+    "selected_game_title": "Planet Zoo 2",
     "top_n": 1,
-    "old_snapshot_date": "2026-05-25",
-    "new_snapshot_date": "2026-05-28",
+    "old_snapshot_date": "2026-05-26",
+    "new_snapshot_date": "2026-05-29",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-05-28T16:36:40.104675+00:00",
+    "finished_at": "2026-05-29T04:35:30.913552+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

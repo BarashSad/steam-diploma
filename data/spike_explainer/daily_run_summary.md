@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Veritas Tales: Witch of the Dark Castle
+Analyzed: Planet Zoo 2
 Tavily Budget Used: 15
 Errors: 0
