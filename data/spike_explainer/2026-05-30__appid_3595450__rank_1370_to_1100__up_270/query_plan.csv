@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3595450,Object Impermanence,"""Object Impermanence"" Steam",general,1,tavily,True,,5
+3595450,Object Impermanence,"""Object Impermanence"" trailer",general,1,tavily,True,,5
+3595450,Object Impermanence,"""Object Impermanence"" gameplay",general,1,tavily,True,,5
+3595450,Object Impermanence,"""Object Impermanence"" demo",general,1,tavily,True,,5
+3595450,Object Impermanence,"""Object Impermanence"" release date",general,1,tavily,True,,5
+3595450,Object Impermanence,"""Object Impermanence"" announcement",general,1,tavily,True,,5
+3595450,Object Impermanence,"""Object Impermanence"" preview",general,1,tavily,True,,5
+3595450,Object Impermanence,"""Object Impermanence"" review",general,1,tavily,True,,5
+3595450,Object Impermanence,"""Object Impermanence"" publisher",general,1,tavily,True,,5
+3595450,Object Impermanence,"""Object Impermanence"" developer",general,1,tavily,True,,5
+3595450,Object Impermanence,"site:pcgamer.com ""Object Impermanence""",press,2,tavily,False,General budget exhausted,0
+3595450,Object Impermanence,"site:rockpapershotgun.com ""Object Impermanence""",press,2,tavily,False,General budget exhausted,0
+3595450,Object Impermanence,"site:ign.com ""Object Impermanence""",press,2,tavily,False,General budget exhausted,0
+3595450,Object Impermanence,"site:gamespot.com ""Object Impermanence""",press,2,tavily,False,General budget exhausted,0
+3595450,Object Impermanence,"site:game8.co ""Object Impermanence""",press,2,tavily,False,General budget exhausted,0
+3595450,Object Impermanence,"site:reddit.com ""Object Impermanence""",social,3,tavily,True,,5
+3595450,Object Impermanence,"site:tiktok.com ""Object Impermanence""",social,4,tavily,True,,5
+3595450,Object Impermanence,"site:instagram.com ""Object Impermanence""",social,4,tavily,True,,5
+3595450,Object Impermanence,"site:x.com ""Object Impermanence""",social,4,tavily,True,,5
+3595450,Object Impermanence,"site: ""Object Impermanence""",social,4,tavily,True,,5

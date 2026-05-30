@@ -1,0 +1,53 @@
+{
+    "appnews": {
+        "appid": 3595450,
+        "newsitems": [
+            {
+                "gid": "1824644522838275",
+                "title": "The playtest has ended!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522838275",
+                "is_external_url": true,
+                "author": "lukas.freijd",
+                "contents": "\ud83c\udf89 Our very first public playtest has ended!!!! \ud83c\udf89Thank you so freaking much to all 1900 who took their time and gave our little game a try!! ",
+                "feedlabel": "Community Announcements",
+                "date": 1770968344,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3595450
+            },
+            {
+                "gid": "1823825466494596",
+                "title": "First Playtest: Feb 5\u20138th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466494596",
+                "is_external_url": true,
+                "author": "lukas.freijd",
+                "contents": "Time for the first round of playtests! This Playtest will run from February 5th to February 8th:Starts Feb 5 @ 19:00 CETEnds Feb 8 @ 07:00 AM CETIf you haven't already, head over to our store page and hit the \"Request Access\" button. We will begin letting people in on Feb 5 @ 19:00 CET so you can get the build downloaded and jump in!What to expectYou will get to play the beginning of the game, where the core mechanics are taught and the world is introduced. This is a small part of the world we've been building for a while now, and these areas will be part of an upcoming demo we are working hard on! Please keep in mind the game is far from in a finished state.Your feedback matters!We want you to break the game. This is our first big open playtest, so every bug report and feedback about the game will be incredibly valuable to us. To help us make the game the best it can be, please:Fill out the Google Form (You will find a link within the game menu)Come chat with us and give direct feedback in our Discord!Thank you all for being part of this journey, and for all the incredible support so far (over 10000 wishlists!!!!!) Let's make the game awesome together! //Slugware",
+                "feedlabel": "Community Announcements",
+                "date": 1770224626,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3595450,
+                "tags": [
+                    "workshop"
+                ]
+            },
+            {
+                "gid": "1811772772446851",
+                "title": "\ud83d\udc41\ufe0fLooking for Playtesters",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772446851",
+                "is_external_url": true,
+                "author": "lukas.freijd",
+                "contents": "First off, thank you all 1500+!! who have already wishlisted our game! It's actually surreal to see so many people excited about the thing we've been working away in our lonesome at for years. ",
+                "feedlabel": "Community Announcements",
+                "date": 1759334408,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3595450,
+                "tags": [
+                    "workshop"
+                ]
+            }
+        ],
+        "count": 3
+    }
+}

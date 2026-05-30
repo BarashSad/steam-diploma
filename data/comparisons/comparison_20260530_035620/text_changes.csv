@@ -1,0 +1,3 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2846530,BrokenLore: FOLLOW,BrokenLore: FOLLOW,1773,1721,52,52,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"May 31, 2026","May 30, 2026",True
+1167820,Airport Contraband,Airport Contraband,754,755,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q2 2026,Q3 2026,True
