@@ -1,0 +1,8 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2513270,UvsU: You vs You,UvsU: You vs You,1113,1108,5,5,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,2026,True
+3894850,Nothing To Declare,Nothing To Declare,1445,1447,-2,2,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Aug 1, 2026",True
+2540650,Keyframes,Keyframes,2393,2395,-2,2,down,none,Free,Free,False,To be announced,Q3 2026,True
+3938640,Ugoku Sushi Bar,Ugoku Sushi Bar,1706,1707,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Aug 1, 2026",True
+4312850,FISH,FISH,1880,1881,-1,1,down,none,Free,Unpriced (Coming Soon),True,Coming soon,"Jun 22, 2026",True
+3979330,nophenia,nophenia,1894,1893,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,June 2026,"Jun 25, 2026",True
+1540720,Forgery Craft,Forgery Craft,342,342,0,0,stable,none,Unpriced (Coming Soon),Free,True,To be announced,Q4 2027,True

@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-05-30T14:17:03.269052+00:00",
+    "timestamp": "20260530_141703",
+    "input_file": "data/spike_explainer/2026-05-30__appid_4731620__rank_2689_to_2365__up_324/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-05-30__appid_4731620__rank_2689_to_2365__up_324/llm_outputs/gemini_20260530_141703.md",
+    "game_title": "Fortune Mill",
+    "appid": "4731620",
+    "duration_sec": 23.18,
+    "response_length": 5834,
+    "error": null
+}

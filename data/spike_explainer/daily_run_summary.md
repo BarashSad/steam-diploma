@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Object Impermanence
+Analyzed: Fortune Mill
 Tavily Budget Used: 15
 Errors: 0

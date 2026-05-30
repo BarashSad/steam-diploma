@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4731620,Fortune Mill,"""Fortune Mill"" Steam",general,1,tavily,True,,5
+4731620,Fortune Mill,"""Fortune Mill"" trailer",general,1,tavily,True,,5
+4731620,Fortune Mill,"""Fortune Mill"" gameplay",general,1,tavily,True,,5
+4731620,Fortune Mill,"""Fortune Mill"" demo",general,1,tavily,True,,5
+4731620,Fortune Mill,"""Fortune Mill"" release date",general,1,tavily,True,,5
+4731620,Fortune Mill,"""Fortune Mill"" announcement",general,1,tavily,True,,5
+4731620,Fortune Mill,"""Fortune Mill"" preview",general,1,tavily,True,,5
+4731620,Fortune Mill,"""Fortune Mill"" review",general,1,tavily,True,,5
+4731620,Fortune Mill,"""Fortune Mill"" publisher",general,1,tavily,True,,5
+4731620,Fortune Mill,"""Fortune Mill"" developer",general,1,tavily,True,,5
+4731620,Fortune Mill,"site:pcgamer.com ""Fortune Mill""",press,2,tavily,False,General budget exhausted,0
+4731620,Fortune Mill,"site:rockpapershotgun.com ""Fortune Mill""",press,2,tavily,False,General budget exhausted,0
+4731620,Fortune Mill,"site:ign.com ""Fortune Mill""",press,2,tavily,False,General budget exhausted,0
+4731620,Fortune Mill,"site:gamespot.com ""Fortune Mill""",press,2,tavily,False,General budget exhausted,0
+4731620,Fortune Mill,"site:game8.co ""Fortune Mill""",press,2,tavily,False,General budget exhausted,0
+4731620,Fortune Mill,"site:reddit.com ""Fortune Mill""",social,3,tavily,True,,5
+4731620,Fortune Mill,"site:tiktok.com ""Fortune Mill""",social,4,tavily,True,,5
+4731620,Fortune Mill,"site:instagram.com ""Fortune Mill""",social,4,tavily,True,,4
+4731620,Fortune Mill,"site:x.com ""Fortune Mill""",social,4,tavily,True,,5
+4731620,Fortune Mill,"site: ""Fortune Mill""",social,4,tavily,True,,5

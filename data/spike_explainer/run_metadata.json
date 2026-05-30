@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-05-30T04:22:27.730389+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260530_035620/rank_changes.csv",
-    "selected_appid": "3595450",
-    "selected_game_title": "Object Impermanence",
+    "started_at": "2026-05-30T14:17:03.153612+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260530_135201/rank_changes.csv",
+    "selected_appid": "4731620",
+    "selected_game_title": "Fortune Mill",
     "top_n": 1,
     "old_snapshot_date": "2026-05-27",
     "new_snapshot_date": "2026-05-30",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-05-30T04:22:27.730429+00:00",
+    "finished_at": "2026-05-30T14:17:03.153627+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

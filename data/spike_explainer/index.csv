@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-05-30T04:22:10.838116+00:00,3595450,Object Impermanence,data/spike_explainer/2026-05-30__appid_3595450__rank_1370_to_1100__up_270,270,65,data/spike_explainer/2026-05-30__appid_3595450__rank_1370_to_1100__up_270/llm_summary_input.md
+2026-05-30T14:16:49.024206+00:00,4731620,Fortune Mill,data/spike_explainer/2026-05-30__appid_4731620__rank_2689_to_2365__up_324,324,50,data/spike_explainer/2026-05-30__appid_4731620__rank_2689_to_2365__up_324/llm_summary_input.md
