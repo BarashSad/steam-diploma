@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-05-30T14:17:03.153612+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260530_135201/rank_changes.csv",
-    "selected_appid": "4731620",
-    "selected_game_title": "Fortune Mill",
+    "started_at": "2026-05-31T04:46:06.609677+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260531_042131/rank_changes.csv",
+    "selected_appid": "4450620",
+    "selected_game_title": "GRAIN ROT",
     "top_n": 1,
-    "old_snapshot_date": "2026-05-27",
-    "new_snapshot_date": "2026-05-30",
+    "old_snapshot_date": "2026-05-28",
+    "new_snapshot_date": "2026-05-31",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-05-30T14:17:03.153627+00:00",
+    "finished_at": "2026-05-31T04:46:06.609691+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

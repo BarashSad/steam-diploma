@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-05-31T04:46:06.713753+00:00",
+    "timestamp": "20260531_044606",
+    "input_file": "data/spike_explainer/2026-05-31__appid_4450620__rank_2963_to_2316__up_647/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-05-31__appid_4450620__rank_2963_to_2316__up_647/llm_outputs/gemini_20260531_044606.md",
+    "game_title": "GRAIN ROT",
+    "appid": "4450620",
+    "duration_sec": 18.06,
+    "response_length": 5439,
+    "error": null
+}

@@ -1,0 +1,3 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4513060,Yandere Virus,Yandere Virus,2515,2505,10,10,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 6, 2026","Aug 18, 2026",True
+3394840,Clawed,Clawed,321,321,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q2 2026,"Jul 23, 2026",True

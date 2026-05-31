@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4450620,GRAIN ROT,"""GRAIN ROT"" Steam",general,1,tavily,True,,5
+4450620,GRAIN ROT,"""GRAIN ROT"" trailer",general,1,tavily,True,,5
+4450620,GRAIN ROT,"""GRAIN ROT"" gameplay",general,1,tavily,True,,5
+4450620,GRAIN ROT,"""GRAIN ROT"" demo",general,1,tavily,True,,5
+4450620,GRAIN ROT,"""GRAIN ROT"" release date",general,1,tavily,True,,5
+4450620,GRAIN ROT,"""GRAIN ROT"" announcement",general,1,tavily,True,,5
+4450620,GRAIN ROT,"""GRAIN ROT"" preview",general,1,tavily,True,,5
+4450620,GRAIN ROT,"""GRAIN ROT"" review",general,1,tavily,True,,5
+4450620,GRAIN ROT,"""GRAIN ROT"" publisher",general,1,tavily,True,,5
+4450620,GRAIN ROT,"""GRAIN ROT"" developer",general,1,tavily,True,,5
+4450620,GRAIN ROT,"site:pcgamer.com ""GRAIN ROT""",press,2,tavily,False,General budget exhausted,0
+4450620,GRAIN ROT,"site:rockpapershotgun.com ""GRAIN ROT""",press,2,tavily,False,General budget exhausted,0
+4450620,GRAIN ROT,"site:ign.com ""GRAIN ROT""",press,2,tavily,False,General budget exhausted,0
+4450620,GRAIN ROT,"site:gamespot.com ""GRAIN ROT""",press,2,tavily,False,General budget exhausted,0
+4450620,GRAIN ROT,"site:game8.co ""GRAIN ROT""",press,2,tavily,False,General budget exhausted,0
+4450620,GRAIN ROT,"site:reddit.com ""GRAIN ROT""",social,3,tavily,True,,5
+4450620,GRAIN ROT,"site:tiktok.com ""GRAIN ROT""",social,4,tavily,True,,5
+4450620,GRAIN ROT,"site:instagram.com ""GRAIN ROT""",social,4,tavily,True,,5
+4450620,GRAIN ROT,"site:x.com ""GRAIN ROT""",social,4,tavily,True,,5
+4450620,GRAIN ROT,"site: ""GRAIN ROT""",social,4,tavily,True,,5

@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-05-30T14:16:49.024206+00:00,4731620,Fortune Mill,data/spike_explainer/2026-05-30__appid_4731620__rank_2689_to_2365__up_324,324,50,data/spike_explainer/2026-05-30__appid_4731620__rank_2689_to_2365__up_324/llm_summary_input.md
+2026-05-31T04:45:50.855973+00:00,4450620,GRAIN ROT,data/spike_explainer/2026-05-31__appid_4450620__rank_2963_to_2316__up_647,647,70,data/spike_explainer/2026-05-31__appid_4450620__rank_2963_to_2316__up_647/llm_summary_input.md
