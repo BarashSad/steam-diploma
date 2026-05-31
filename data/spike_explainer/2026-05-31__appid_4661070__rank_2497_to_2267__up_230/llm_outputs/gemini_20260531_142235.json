@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-05-31T14:22:35.809966+00:00",
+    "timestamp": "20260531_142235",
+    "input_file": "data/spike_explainer/2026-05-31__appid_4661070__rank_2497_to_2267__up_230/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-05-31__appid_4661070__rank_2497_to_2267__up_230/llm_outputs/gemini_20260531_142235.md",
+    "game_title": "HANDS OVER",
+    "appid": "4661070",
+    "duration_sec": 19.46,
+    "response_length": 5445,
+    "error": null
+}

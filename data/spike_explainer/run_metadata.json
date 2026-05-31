@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-05-31T04:46:06.609677+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260531_042131/rank_changes.csv",
-    "selected_appid": "4450620",
-    "selected_game_title": "GRAIN ROT",
+    "started_at": "2026-05-31T14:22:35.708130+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260531_135746/rank_changes.csv",
+    "selected_appid": "4661070",
+    "selected_game_title": "HANDS OVER",
     "top_n": 1,
     "old_snapshot_date": "2026-05-28",
     "new_snapshot_date": "2026-05-31",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-05-31T04:46:06.609691+00:00",
+    "finished_at": "2026-05-31T14:22:35.708145+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
