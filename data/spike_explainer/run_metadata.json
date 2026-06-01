@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-05-31T14:22:35.708130+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260531_135746/rank_changes.csv",
+    "started_at": "2026-06-01T05:14:27.934214+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260601_045029/rank_changes.csv",
     "selected_appid": "4661070",
     "selected_game_title": "HANDS OVER",
     "top_n": 1,
-    "old_snapshot_date": "2026-05-28",
-    "new_snapshot_date": "2026-05-31",
+    "old_snapshot_date": "2026-05-29",
+    "new_snapshot_date": "2026-06-01",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-05-31T14:22:35.708145+00:00",
+    "finished_at": "2026-06-01T05:14:27.934229+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
