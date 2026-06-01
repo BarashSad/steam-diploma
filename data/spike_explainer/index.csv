@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-01T05:14:12.037035+00:00,4661070,HANDS OVER,data/spike_explainer/2026-06-01__appid_4661070__rank_2267_to_1925__up_342,342,75,data/spike_explainer/2026-06-01__appid_4661070__rank_2267_to_1925__up_342/llm_summary_input.md
+2026-06-01T18:17:02.477097+00:00,4661070,HANDS OVER,data/spike_explainer/2026-06-01__appid_4661070__rank_1925_to_1714__up_211,211,75,data/spike_explainer/2026-06-01__appid_4661070__rank_1925_to_1714__up_211/llm_summary_input.md

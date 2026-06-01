@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4661070,HANDS OVER,"""HANDS OVER"" Steam",general,1,tavily,True,,5
+4661070,HANDS OVER,"""HANDS OVER"" trailer",general,1,tavily,True,,5
+4661070,HANDS OVER,"""HANDS OVER"" gameplay",general,1,tavily,True,,5
+4661070,HANDS OVER,"""HANDS OVER"" demo",general,1,tavily,True,,5
+4661070,HANDS OVER,"""HANDS OVER"" release date",general,1,tavily,True,,5
+4661070,HANDS OVER,"""HANDS OVER"" announcement",general,1,tavily,True,,5
+4661070,HANDS OVER,"""HANDS OVER"" preview",general,1,tavily,True,,5
+4661070,HANDS OVER,"""HANDS OVER"" review",general,1,tavily,True,,5
+4661070,HANDS OVER,"""HANDS OVER"" publisher",general,1,tavily,True,,5
+4661070,HANDS OVER,"""HANDS OVER"" developer",general,1,tavily,True,,5
+4661070,HANDS OVER,"site:pcgamer.com ""HANDS OVER""",press,2,tavily,False,General budget exhausted,0
+4661070,HANDS OVER,"site:rockpapershotgun.com ""HANDS OVER""",press,2,tavily,False,General budget exhausted,0
+4661070,HANDS OVER,"site:ign.com ""HANDS OVER""",press,2,tavily,False,General budget exhausted,0
+4661070,HANDS OVER,"site:gamespot.com ""HANDS OVER""",press,2,tavily,False,General budget exhausted,0
+4661070,HANDS OVER,"site:game8.co ""HANDS OVER""",press,2,tavily,False,General budget exhausted,0
+4661070,HANDS OVER,"site:reddit.com ""HANDS OVER""",social,3,tavily,True,,5
+4661070,HANDS OVER,"site:tiktok.com ""HANDS OVER""",social,4,tavily,True,,5
+4661070,HANDS OVER,"site:instagram.com ""HANDS OVER""",social,4,tavily,True,,5
+4661070,HANDS OVER,"site:x.com ""HANDS OVER""",social,4,tavily,True,,5
+4661070,HANDS OVER,"site: ""HANDS OVER""",social,4,tavily,True,,5
