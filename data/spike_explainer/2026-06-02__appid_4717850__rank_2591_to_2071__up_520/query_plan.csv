@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4717850,Magical Girl: Taboo Village,"""Magical Girl: Taboo Village"" Steam",general,1,tavily,True,,5
+4717850,Magical Girl: Taboo Village,"""Magical Girl: Taboo Village"" trailer",general,1,tavily,True,,5
+4717850,Magical Girl: Taboo Village,"""Magical Girl: Taboo Village"" gameplay",general,1,tavily,True,,5
+4717850,Magical Girl: Taboo Village,"""Magical Girl: Taboo Village"" demo",general,1,tavily,True,,5
+4717850,Magical Girl: Taboo Village,"""Magical Girl: Taboo Village"" release date",general,1,tavily,True,,5
+4717850,Magical Girl: Taboo Village,"""Magical Girl: Taboo Village"" announcement",general,1,tavily,True,,5
+4717850,Magical Girl: Taboo Village,"""Magical Girl: Taboo Village"" preview",general,1,tavily,True,,5
+4717850,Magical Girl: Taboo Village,"""Magical Girl: Taboo Village"" review",general,1,tavily,True,,5
+4717850,Magical Girl: Taboo Village,"""Magical Girl: Taboo Village"" publisher",general,1,tavily,True,,5
+4717850,Magical Girl: Taboo Village,"""Magical Girl: Taboo Village"" developer",general,1,tavily,True,,5
+4717850,Magical Girl: Taboo Village,"site:pcgamer.com ""Magical Girl: Taboo Village""",press,2,tavily,False,General budget exhausted,0
+4717850,Magical Girl: Taboo Village,"site:rockpapershotgun.com ""Magical Girl: Taboo Village""",press,2,tavily,False,General budget exhausted,0
+4717850,Magical Girl: Taboo Village,"site:ign.com ""Magical Girl: Taboo Village""",press,2,tavily,False,General budget exhausted,0
+4717850,Magical Girl: Taboo Village,"site:gamespot.com ""Magical Girl: Taboo Village""",press,2,tavily,False,General budget exhausted,0
+4717850,Magical Girl: Taboo Village,"site:game8.co ""Magical Girl: Taboo Village""",press,2,tavily,False,General budget exhausted,0
+4717850,Magical Girl: Taboo Village,"site:reddit.com ""Magical Girl: Taboo Village""",social,3,tavily,True,,5
+4717850,Magical Girl: Taboo Village,"site:tiktok.com ""Magical Girl: Taboo Village""",social,4,tavily,True,,5
+4717850,Magical Girl: Taboo Village,"site:instagram.com ""Magical Girl: Taboo Village""",social,4,tavily,True,,5
+4717850,Magical Girl: Taboo Village,"site:x.com ""Magical Girl: Taboo Village""",social,4,tavily,True,,5
+4717850,Magical Girl: Taboo Village,"site: ""Magical Girl: Taboo Village""",social,4,tavily,True,,5

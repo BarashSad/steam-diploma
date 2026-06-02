@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: HANDS OVER
+Analyzed: Magical Girl: Taboo Village
 Tavily Budget Used: 15
 Errors: 0

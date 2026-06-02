@@ -1,0 +1,40 @@
+{
+    "appid": "4717850",
+    "game_title": "Magical Girl: Taboo Village",
+    "safe_slug": "magical_girl_taboo_village",
+    "analysis_date_utc": "2026-06-02T05:02:35.313457+00:00",
+    "spike_window_start": "2026-05-30T00:00:00+00:00",
+    "spike_window_end": "2026-06-02T00:00:00+00:00",
+    "extended_window_start": "2026-04-15T00:00:00+00:00",
+    "extended_window_end": "2026-06-05T00:00:00+00:00",
+    "dt_start": "2026-05-30 00:00:00+00:00",
+    "dt_end": "2026-06-02 00:00:00+00:00",
+    "ext_start": "2026-04-15 00:00:00+00:00",
+    "ext_end": "2026-06-05 00:00:00+00:00",
+    "window_inferred_fallback": false,
+    "prev_rank": 2591,
+    "curr_rank": 2071,
+    "rank_delta": 520,
+    "movement_score": 0,
+    "is_new_entry": false,
+    "changed_fields_detected": [
+        "title"
+    ],
+    "input_diff_row": {
+        "appid": 4717850,
+        "title_old": "\u9b54\u6cd5\u5c11\u5973\u30ce\u56e0\u7fd2\u6751",
+        "curr_title": "Magical Girl: Taboo Village",
+        "prev_rank": 2591,
+        "curr_rank": 2071,
+        "rank_delta": 520,
+        "abs_rank_delta": 520,
+        "movement_type": "up",
+        "spike_type": "upward_spike",
+        "price_text_old": "Unpriced (Coming Soon)",
+        "price_text_new": "Unpriced (Coming Soon)",
+        "price_changed": false,
+        "release_text_old": "2026",
+        "release_text_new": "2026",
+        "release_changed": false
+    }
+}

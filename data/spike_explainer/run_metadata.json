@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-06-01T18:17:18.422151+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260601_175328/rank_changes.csv",
-    "selected_appid": "4661070",
-    "selected_game_title": "HANDS OVER",
+    "started_at": "2026-06-02T05:02:50.591441+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260602_043945/rank_changes.csv",
+    "selected_appid": "4717850",
+    "selected_game_title": "Magical Girl: Taboo Village",
     "top_n": 1,
-    "old_snapshot_date": "2026-05-29",
-    "new_snapshot_date": "2026-06-01",
+    "old_snapshot_date": "2026-05-30",
+    "new_snapshot_date": "2026-06-02",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-01T18:17:18.422166+00:00",
+    "finished_at": "2026-06-02T05:02:50.591459+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
