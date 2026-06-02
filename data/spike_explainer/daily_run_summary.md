@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Magical Girl: Taboo Village
+Analyzed: Gravity Circuit 2
 Tavily Budget Used: 15
 Errors: 0

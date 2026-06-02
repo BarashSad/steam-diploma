@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3447460,Gravity Circuit 2,"""Gravity Circuit 2"" Steam",general,1,tavily,True,,5
+3447460,Gravity Circuit 2,"""Gravity Circuit 2"" trailer",general,1,tavily,True,,5
+3447460,Gravity Circuit 2,"""Gravity Circuit 2"" gameplay",general,1,tavily,True,,5
+3447460,Gravity Circuit 2,"""Gravity Circuit 2"" demo",general,1,tavily,True,,5
+3447460,Gravity Circuit 2,"""Gravity Circuit 2"" release date",general,1,tavily,True,,5
+3447460,Gravity Circuit 2,"""Gravity Circuit 2"" announcement",general,1,tavily,True,,5
+3447460,Gravity Circuit 2,"""Gravity Circuit 2"" preview",general,1,tavily,True,,5
+3447460,Gravity Circuit 2,"""Gravity Circuit 2"" review",general,1,tavily,True,,5
+3447460,Gravity Circuit 2,"""Gravity Circuit 2"" publisher",general,1,tavily,True,,5
+3447460,Gravity Circuit 2,"""Gravity Circuit 2"" developer",general,1,tavily,True,,5
+3447460,Gravity Circuit 2,"site:pcgamer.com ""Gravity Circuit 2""",press,2,tavily,False,General budget exhausted,0
+3447460,Gravity Circuit 2,"site:rockpapershotgun.com ""Gravity Circuit 2""",press,2,tavily,False,General budget exhausted,0
+3447460,Gravity Circuit 2,"site:ign.com ""Gravity Circuit 2""",press,2,tavily,False,General budget exhausted,0
+3447460,Gravity Circuit 2,"site:gamespot.com ""Gravity Circuit 2""",press,2,tavily,False,General budget exhausted,0
+3447460,Gravity Circuit 2,"site:game8.co ""Gravity Circuit 2""",press,2,tavily,False,General budget exhausted,0
+3447460,Gravity Circuit 2,"site:reddit.com ""Gravity Circuit 2""",social,3,tavily,True,,5
+3447460,Gravity Circuit 2,"site:tiktok.com ""Gravity Circuit 2""",social,4,tavily,True,,5
+3447460,Gravity Circuit 2,"site:instagram.com ""Gravity Circuit 2""",social,4,tavily,True,,5
+3447460,Gravity Circuit 2,"site:x.com ""Gravity Circuit 2""",social,4,tavily,True,,5
+3447460,Gravity Circuit 2,"site: ""Gravity Circuit 2""",social,4,tavily,True,,5

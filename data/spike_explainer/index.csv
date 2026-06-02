@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-02T05:02:35.313457+00:00,4717850,Magical Girl: Taboo Village,data/spike_explainer/2026-06-02__appid_4717850__rank_2591_to_2071__up_520,520,40,data/spike_explainer/2026-06-02__appid_4717850__rank_2591_to_2071__up_520/llm_summary_input.md
+2026-06-02T17:08:23.704644+00:00,3447460,Gravity Circuit 2,data/spike_explainer/2026-06-02__appid_3447460__rank_2423_to_1863__up_560,560,85,data/spike_explainer/2026-06-02__appid_3447460__rank_2423_to_1863__up_560/llm_summary_input.md
