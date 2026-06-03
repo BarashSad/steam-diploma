@@ -1,0 +1,34 @@
+{
+    "appnews": {
+        "appid": 3596430,
+        "newsitems": [
+            {
+                "gid": "1834602721184088",
+                "title": "Bancho the Chef announced as a Dave the Diver prequel focused on cooking",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1834602721184088",
+                "is_external_url": true,
+                "author": "",
+                "contents": "As part of Sony's PlayStation State of Play showcase, Mintrocket, the team behind Dave the Diver revealed a prequel spin-off with Bancho the Chef. Read the full article here: https://www.gamingonlinux.com/2026/06/bancho-the-chef-announced-as-a-dave-the-diver-prequel-focused-on-cooking/ ",
+                "feedlabel": "GamingOnLinux",
+                "date": 1780471528,
+                "feedname": "GamingOnLinux",
+                "feed_type": 0,
+                "appid": 3596430
+            },
+            {
+                "gid": "1834602721183204",
+                "title": "Bancho the Chef Announce Trailer Out Now!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721183204",
+                "is_external_url": true,
+                "author": "DAVE_CM",
+                "contents": "A new game from Mintrocket starring Bancho, the master chef from \u201cDave the Diver!\u201dThe announce trailer for Bancho the Chef is here!The thrill of cooking and serving dish after dish yourself, plus the story of Bancho becoming the chef he is today as he travels across Asia!We'd love to see your support! To make sure you don't miss any launch news, add it to your Wishlist right now!",
+                "feedlabel": "Community Announcements",
+                "date": 1780440670,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3596430
+            }
+        ],
+        "count": 2
+    }
+}

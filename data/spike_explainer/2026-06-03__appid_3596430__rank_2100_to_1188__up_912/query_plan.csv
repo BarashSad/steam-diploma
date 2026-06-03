@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3596430,Bancho the Chef,"""Bancho the Chef"" Steam",general,1,tavily,True,,5
+3596430,Bancho the Chef,"""Bancho the Chef"" trailer",general,1,tavily,True,,5
+3596430,Bancho the Chef,"""Bancho the Chef"" gameplay",general,1,tavily,True,,5
+3596430,Bancho the Chef,"""Bancho the Chef"" demo",general,1,tavily,True,,5
+3596430,Bancho the Chef,"""Bancho the Chef"" release date",general,1,tavily,True,,5
+3596430,Bancho the Chef,"""Bancho the Chef"" announcement",general,1,tavily,True,,5
+3596430,Bancho the Chef,"""Bancho the Chef"" preview",general,1,tavily,True,,5
+3596430,Bancho the Chef,"""Bancho the Chef"" review",general,1,tavily,True,,5
+3596430,Bancho the Chef,"""Bancho the Chef"" publisher",general,1,tavily,True,,5
+3596430,Bancho the Chef,"""Bancho the Chef"" developer",general,1,tavily,True,,5
+3596430,Bancho the Chef,"site:pcgamer.com ""Bancho the Chef""",press,2,tavily,False,General budget exhausted,0
+3596430,Bancho the Chef,"site:rockpapershotgun.com ""Bancho the Chef""",press,2,tavily,False,General budget exhausted,0
+3596430,Bancho the Chef,"site:ign.com ""Bancho the Chef""",press,2,tavily,False,General budget exhausted,0
+3596430,Bancho the Chef,"site:gamespot.com ""Bancho the Chef""",press,2,tavily,False,General budget exhausted,0
+3596430,Bancho the Chef,"site:game8.co ""Bancho the Chef""",press,2,tavily,False,General budget exhausted,0
+3596430,Bancho the Chef,"site:reddit.com ""Bancho the Chef""",social,3,tavily,True,,3
+3596430,Bancho the Chef,"site:tiktok.com ""Bancho the Chef""",social,4,tavily,True,,5
+3596430,Bancho the Chef,"site:instagram.com ""Bancho the Chef""",social,4,tavily,True,,4
+3596430,Bancho the Chef,"site:x.com ""Bancho the Chef""",social,4,tavily,True,,5
+3596430,Bancho the Chef,"site: ""Bancho the Chef""",social,4,tavily,True,,5

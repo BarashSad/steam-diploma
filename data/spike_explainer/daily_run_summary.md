@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Dungeon Lurker
+Analyzed: Bancho the Chef
 Tavily Budget Used: 15
 Errors: 0

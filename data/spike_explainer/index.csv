@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-03T05:12:30.909279+00:00,4669960,Dungeon Lurker,data/spike_explainer/2026-06-03__appid_4669960__rank_2467_to_1896__up_571,571,85,data/spike_explainer/2026-06-03__appid_4669960__rank_2467_to_1896__up_571/llm_summary_input.md
+2026-06-03T17:25:27.753540+00:00,3596430,Bancho the Chef,data/spike_explainer/2026-06-03__appid_3596430__rank_2100_to_1188__up_912,912,90,data/spike_explainer/2026-06-03__appid_3596430__rank_2100_to_1188__up_912/llm_summary_input.md

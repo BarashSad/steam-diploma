@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-03T17:25:45.840404+00:00",
+    "timestamp": "20260603_172545",
+    "input_file": "data/spike_explainer/2026-06-03__appid_3596430__rank_2100_to_1188__up_912/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-03__appid_3596430__rank_2100_to_1188__up_912/llm_outputs/gemini_20260603_172545.md",
+    "game_title": "Bancho the Chef",
+    "appid": "3596430",
+    "duration_sec": 16.16,
+    "response_length": 5173,
+    "error": null
+}
