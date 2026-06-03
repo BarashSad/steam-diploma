@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4669960,Dungeon Lurker,"""Dungeon Lurker"" Steam",general,1,tavily,True,,5
+4669960,Dungeon Lurker,"""Dungeon Lurker"" trailer",general,1,tavily,True,,5
+4669960,Dungeon Lurker,"""Dungeon Lurker"" gameplay",general,1,tavily,True,,5
+4669960,Dungeon Lurker,"""Dungeon Lurker"" demo",general,1,tavily,True,,5
+4669960,Dungeon Lurker,"""Dungeon Lurker"" release date",general,1,tavily,True,,5
+4669960,Dungeon Lurker,"""Dungeon Lurker"" announcement",general,1,tavily,True,,5
+4669960,Dungeon Lurker,"""Dungeon Lurker"" preview",general,1,tavily,True,,5
+4669960,Dungeon Lurker,"""Dungeon Lurker"" review",general,1,tavily,True,,5
+4669960,Dungeon Lurker,"""Dungeon Lurker"" publisher",general,1,tavily,True,,5
+4669960,Dungeon Lurker,"""Dungeon Lurker"" developer",general,1,tavily,True,,5
+4669960,Dungeon Lurker,"site:pcgamer.com ""Dungeon Lurker""",press,2,tavily,False,General budget exhausted,0
+4669960,Dungeon Lurker,"site:rockpapershotgun.com ""Dungeon Lurker""",press,2,tavily,False,General budget exhausted,0
+4669960,Dungeon Lurker,"site:ign.com ""Dungeon Lurker""",press,2,tavily,False,General budget exhausted,0
+4669960,Dungeon Lurker,"site:gamespot.com ""Dungeon Lurker""",press,2,tavily,False,General budget exhausted,0
+4669960,Dungeon Lurker,"site:game8.co ""Dungeon Lurker""",press,2,tavily,False,General budget exhausted,0
+4669960,Dungeon Lurker,"site:reddit.com ""Dungeon Lurker""",social,3,tavily,True,,5
+4669960,Dungeon Lurker,"site:tiktok.com ""Dungeon Lurker""",social,4,tavily,True,,5
+4669960,Dungeon Lurker,"site:instagram.com ""Dungeon Lurker""",social,4,tavily,True,,5
+4669960,Dungeon Lurker,"site:x.com ""Dungeon Lurker""",social,4,tavily,True,,5
+4669960,Dungeon Lurker,"site: ""Dungeon Lurker""",social,4,tavily,True,,5

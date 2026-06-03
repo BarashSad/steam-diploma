@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-03T05:12:46.950653+00:00",
+    "timestamp": "20260603_051246",
+    "input_file": "data/spike_explainer/2026-06-03__appid_4669960__rank_2467_to_1896__up_571/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-03__appid_4669960__rank_2467_to_1896__up_571/llm_outputs/gemini_20260603_051246.md",
+    "game_title": "Dungeon Lurker",
+    "appid": "4669960",
+    "duration_sec": 22.32,
+    "response_length": 5373,
+    "error": null
+}
