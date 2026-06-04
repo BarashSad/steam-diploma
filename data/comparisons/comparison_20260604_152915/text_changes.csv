@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3825600,Culdcept The First,Culdcept The First,2361,2211,150,150,up,upward_spike,Free,Unpriced (Coming Soon),True,Coming soon,"Jul 30, 2026",True
+1281640,Medic: Pacific War,Medic: Pacific War,580,577,3,3,up,none,Unpriced (Coming Soon),Free,True,"Jun 4, 2026",Coming soon,True
+3683770,Boba Cafe Simulator,Boba Cafe Simulator,1137,1134,3,3,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,July 2026,True
+3075410,Hordes of Fate : A Hand of Fate Adventure,Hand of Fate: Hordes,1511,1509,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q2 2026,"Jul 22, 2026",True
+2524850,Denshattack!,Denshattack!,245,245,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Jul 15, 2026",True

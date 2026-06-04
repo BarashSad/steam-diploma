@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-04T15:53:42.645178+00:00",
+    "timestamp": "20260604_155342",
+    "input_file": "data/spike_explainer/2026-06-04__appid_4117830__rank_2966_to_2704__up_262/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-04__appid_4117830__rank_2966_to_2704__up_262/llm_outputs/gemini_20260604_155342.md",
+    "game_title": "Your Painting, Sir",
+    "appid": "4117830",
+    "duration_sec": 14.58,
+    "response_length": 4496,
+    "error": null
+}

@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-06-04T05:06:48.607713+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260604_044244/rank_changes.csv",
-    "selected_appid": "2487330",
-    "selected_game_title": "Stuntman: Hollywood",
+    "started_at": "2026-06-04T15:53:42.538449+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260604_152915/rank_changes.csv",
+    "selected_appid": "4117830",
+    "selected_game_title": "Your Painting, Sir",
     "top_n": 1,
     "old_snapshot_date": "2026-06-01",
     "new_snapshot_date": "2026-06-04",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-04T05:06:48.607755+00:00",
+    "finished_at": "2026-06-04T15:53:42.538464+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

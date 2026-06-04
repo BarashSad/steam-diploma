@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Stuntman: Hollywood
+Analyzed: Your Painting, Sir
 Tavily Budget Used: 15
 Errors: 0

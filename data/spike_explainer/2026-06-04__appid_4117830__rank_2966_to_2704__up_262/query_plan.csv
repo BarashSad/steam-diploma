@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4117830,"Your Painting, Sir","""Your Painting, Sir"" Steam",general,1,tavily,True,,5
+4117830,"Your Painting, Sir","""Your Painting, Sir"" trailer",general,1,tavily,True,,5
+4117830,"Your Painting, Sir","""Your Painting, Sir"" gameplay",general,1,tavily,True,,5
+4117830,"Your Painting, Sir","""Your Painting, Sir"" demo",general,1,tavily,True,,5
+4117830,"Your Painting, Sir","""Your Painting, Sir"" release date",general,1,tavily,True,,5
+4117830,"Your Painting, Sir","""Your Painting, Sir"" announcement",general,1,tavily,True,,5
+4117830,"Your Painting, Sir","""Your Painting, Sir"" preview",general,1,tavily,True,,5
+4117830,"Your Painting, Sir","""Your Painting, Sir"" review",general,1,tavily,True,,5
+4117830,"Your Painting, Sir","""Your Painting, Sir"" publisher",general,1,tavily,True,,5
+4117830,"Your Painting, Sir","""Your Painting, Sir"" developer",general,1,tavily,True,,5
+4117830,"Your Painting, Sir","site:pcgamer.com ""Your Painting, Sir""",press,2,tavily,False,General budget exhausted,0
+4117830,"Your Painting, Sir","site:rockpapershotgun.com ""Your Painting, Sir""",press,2,tavily,False,General budget exhausted,0
+4117830,"Your Painting, Sir","site:ign.com ""Your Painting, Sir""",press,2,tavily,False,General budget exhausted,0
+4117830,"Your Painting, Sir","site:gamespot.com ""Your Painting, Sir""",press,2,tavily,False,General budget exhausted,0
+4117830,"Your Painting, Sir","site:game8.co ""Your Painting, Sir""",press,2,tavily,False,General budget exhausted,0
+4117830,"Your Painting, Sir","site:reddit.com ""Your Painting, Sir""",social,3,tavily,True,,5
+4117830,"Your Painting, Sir","site:tiktok.com ""Your Painting, Sir""",social,4,tavily,True,,5
+4117830,"Your Painting, Sir","site:instagram.com ""Your Painting, Sir""",social,4,tavily,True,,5
+4117830,"Your Painting, Sir","site:x.com ""Your Painting, Sir""",social,4,tavily,True,,5
+4117830,"Your Painting, Sir","site: ""Your Painting, Sir""",social,4,tavily,True,,5
