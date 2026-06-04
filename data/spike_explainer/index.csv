@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-03T17:25:27.753540+00:00,3596430,Bancho the Chef,data/spike_explainer/2026-06-03__appid_3596430__rank_2100_to_1188__up_912,912,90,data/spike_explainer/2026-06-03__appid_3596430__rank_2100_to_1188__up_912/llm_summary_input.md
+2026-06-04T05:06:34.145322+00:00,2487330,Stuntman: Hollywood,data/spike_explainer/2026-06-04__appid_2487330__rank_1857_to_1546__up_311,311,85,data/spike_explainer/2026-06-04__appid_2487330__rank_1857_to_1546__up_311/llm_summary_input.md

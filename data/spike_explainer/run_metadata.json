@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-06-03T17:25:45.729428+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260603_170046/rank_changes.csv",
-    "selected_appid": "3596430",
-    "selected_game_title": "Bancho the Chef",
+    "started_at": "2026-06-04T05:06:48.607713+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260604_044244/rank_changes.csv",
+    "selected_appid": "2487330",
+    "selected_game_title": "Stuntman: Hollywood",
     "top_n": 1,
-    "old_snapshot_date": "2026-05-31",
-    "new_snapshot_date": "2026-06-03",
+    "old_snapshot_date": "2026-06-01",
+    "new_snapshot_date": "2026-06-04",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-03T17:25:45.729451+00:00",
+    "finished_at": "2026-06-04T05:06:48.607755+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

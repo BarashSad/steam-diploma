@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Bancho the Chef
+Analyzed: Stuntman: Hollywood
 Tavily Budget Used: 15
 Errors: 0

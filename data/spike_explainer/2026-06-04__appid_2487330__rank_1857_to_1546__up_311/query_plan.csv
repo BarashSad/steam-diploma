@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+2487330,Stuntman: Hollywood,"""Stuntman: Hollywood"" Steam",general,1,tavily,True,,5
+2487330,Stuntman: Hollywood,"""Stuntman: Hollywood"" trailer",general,1,tavily,True,,5
+2487330,Stuntman: Hollywood,"""Stuntman: Hollywood"" gameplay",general,1,tavily,True,,5
+2487330,Stuntman: Hollywood,"""Stuntman: Hollywood"" demo",general,1,tavily,True,,5
+2487330,Stuntman: Hollywood,"""Stuntman: Hollywood"" release date",general,1,tavily,True,,5
+2487330,Stuntman: Hollywood,"""Stuntman: Hollywood"" announcement",general,1,tavily,True,,5
+2487330,Stuntman: Hollywood,"""Stuntman: Hollywood"" preview",general,1,tavily,True,,5
+2487330,Stuntman: Hollywood,"""Stuntman: Hollywood"" review",general,1,tavily,True,,5
+2487330,Stuntman: Hollywood,"""Stuntman: Hollywood"" publisher",general,1,tavily,True,,5
+2487330,Stuntman: Hollywood,"""Stuntman: Hollywood"" developer",general,1,tavily,True,,5
+2487330,Stuntman: Hollywood,"site:pcgamer.com ""Stuntman: Hollywood""",press,2,tavily,False,General budget exhausted,0
+2487330,Stuntman: Hollywood,"site:rockpapershotgun.com ""Stuntman: Hollywood""",press,2,tavily,False,General budget exhausted,0
+2487330,Stuntman: Hollywood,"site:ign.com ""Stuntman: Hollywood""",press,2,tavily,False,General budget exhausted,0
+2487330,Stuntman: Hollywood,"site:gamespot.com ""Stuntman: Hollywood""",press,2,tavily,False,General budget exhausted,0
+2487330,Stuntman: Hollywood,"site:game8.co ""Stuntman: Hollywood""",press,2,tavily,False,General budget exhausted,0
+2487330,Stuntman: Hollywood,"site:reddit.com ""Stuntman: Hollywood""",social,3,tavily,True,,5
+2487330,Stuntman: Hollywood,"site:tiktok.com ""Stuntman: Hollywood""",social,4,tavily,True,,5
+2487330,Stuntman: Hollywood,"site:instagram.com ""Stuntman: Hollywood""",social,4,tavily,True,,5
+2487330,Stuntman: Hollywood,"site:x.com ""Stuntman: Hollywood""",social,4,tavily,True,,5
+2487330,Stuntman: Hollywood,"site: ""Stuntman: Hollywood""",social,4,tavily,True,,5

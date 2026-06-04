@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3470550,"We, Junk Artists","We, Junk Artists",1977,1981,-4,4,down,none,Free,Unpriced (Coming Soon),True,Coming soon,August 2026,True
+3947460,Creator Chronicles,Creator Chronicles,1470,1472,-2,2,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q2 2026,Q3 2026,True
+4380740,Butcher Shop Simulator,Butcher Shop Simulator,2043,2044,-1,1,down,none,Unpriced (Coming Soon),Free,True,Q2 2026,Q3 2026,True
+2424420,Avatar Legends: The Fighting Game,Avatar Legends: The Fighting Game,251,251,0,0,stable,none,$29.99,$29.99,False,"Jul 2, 2026","Jul 23, 2026",True

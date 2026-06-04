@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-04T05:06:48.731186+00:00",
+    "timestamp": "20260604_050648",
+    "input_file": "data/spike_explainer/2026-06-04__appid_2487330__rank_1857_to_1546__up_311/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-04__appid_2487330__rank_1857_to_1546__up_311/llm_outputs/gemini_20260604_050648.md",
+    "game_title": "Stuntman: Hollywood",
+    "appid": "2487330",
+    "duration_sec": 13.95,
+    "response_length": 5450,
+    "error": null
+}
