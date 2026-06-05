@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-04T15:53:22.734536+00:00,4117830,"Your Painting, Sir",data/spike_explainer/2026-06-04__appid_4117830__rank_2966_to_2704__up_262,262,90,data/spike_explainer/2026-06-04__appid_4117830__rank_2966_to_2704__up_262/llm_summary_input.md
+2026-06-05T04:29:24.107843+00:00,4261650,MASAKRE,data/spike_explainer/2026-06-05__appid_4261650__rank_2870_to_214__up_2656,2656,85,data/spike_explainer/2026-06-05__appid_4261650__rank_2870_to_214__up_2656/llm_summary_input.md

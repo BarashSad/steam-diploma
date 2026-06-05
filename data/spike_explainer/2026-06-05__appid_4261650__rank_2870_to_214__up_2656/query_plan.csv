@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4261650,MASAKRE,"""MASAKRE"" Steam",general,1,tavily,True,,5
+4261650,MASAKRE,"""MASAKRE"" trailer",general,1,tavily,True,,5
+4261650,MASAKRE,"""MASAKRE"" gameplay",general,1,tavily,True,,5
+4261650,MASAKRE,"""MASAKRE"" demo",general,1,tavily,True,,5
+4261650,MASAKRE,"""MASAKRE"" release date",general,1,tavily,True,,5
+4261650,MASAKRE,"""MASAKRE"" announcement",general,1,tavily,True,,5
+4261650,MASAKRE,"""MASAKRE"" preview",general,1,tavily,True,,5
+4261650,MASAKRE,"""MASAKRE"" review",general,1,tavily,True,,5
+4261650,MASAKRE,"""MASAKRE"" publisher",general,1,tavily,True,,5
+4261650,MASAKRE,"""MASAKRE"" developer",general,1,tavily,True,,5
+4261650,MASAKRE,"site:pcgamer.com ""MASAKRE""",press,2,tavily,False,General budget exhausted,0
+4261650,MASAKRE,"site:rockpapershotgun.com ""MASAKRE""",press,2,tavily,False,General budget exhausted,0
+4261650,MASAKRE,"site:ign.com ""MASAKRE""",press,2,tavily,False,General budget exhausted,0
+4261650,MASAKRE,"site:gamespot.com ""MASAKRE""",press,2,tavily,False,General budget exhausted,0
+4261650,MASAKRE,"site:game8.co ""MASAKRE""",press,2,tavily,False,General budget exhausted,0
+4261650,MASAKRE,"site:reddit.com ""MASAKRE""",social,3,tavily,True,,5
+4261650,MASAKRE,"site:tiktok.com ""MASAKRE""",social,4,tavily,True,,5
+4261650,MASAKRE,"site:instagram.com ""MASAKRE""",social,4,tavily,True,,0
+4261650,MASAKRE,"site:x.com ""MASAKRE""",social,4,tavily,True,,5
+4261650,MASAKRE,"site: ""MASAKRE""",social,4,tavily,True,,5

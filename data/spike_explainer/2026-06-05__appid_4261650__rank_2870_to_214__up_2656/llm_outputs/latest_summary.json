@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-05T04:29:41.659405+00:00",
+    "timestamp": "20260605_042941",
+    "input_file": "data/spike_explainer/2026-06-05__appid_4261650__rank_2870_to_214__up_2656/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-05__appid_4261650__rank_2870_to_214__up_2656/llm_outputs/gemini_20260605_042941.md",
+    "game_title": "MASAKRE",
+    "appid": "4261650",
+    "duration_sec": 20.72,
+    "response_length": 5594,
+    "error": null
+}

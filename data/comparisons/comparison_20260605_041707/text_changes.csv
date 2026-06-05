@@ -1,0 +1,10 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4039900,ZOMBUTCHER: Monster Business Simulator,ZOMBUTCHER: Monster Business Simulator,2633,565,2068,2068,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jun 10, 2026","Jun 11, 2026",True
+3488640,Magical Blush,Magical Blush,2015,736,1279,1279,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,September 2026,True
+3227240,MineGeon: Renegades,MineGeon: Renegades,1915,1057,858,858,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,July 2026,"Jul 13, 2026",True
+2288520,The Quiet Things,The Quiet Things,2075,1280,795,795,up,upward_spike,Unpriced (Coming Soon),Free,True,"Jun 4, 2026",Coming soon,True
+2223980,Nomad Drive,Nomad Drive,816,413,403,403,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q2 2026,Q3 2026,True
+4121170,Fears to Fathom® - Scratch Creek,Fears to Fathom® - Scratch Creek,516,118,398,398,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,June 2026,"Jun 10, 2026",True
+2527160,Desktop Explorer,Desktop Explorer,919,552,367,367,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Jul 17, 2026",True
+3470500,Ember and Blade,Ember and Blade,804,922,-118,118,down,downward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,Q4 2026,True
+3808690,Pathogenic,Pathogenic,722,658,64,64,up,upward_spike,Free,Unpriced (Coming Soon),True,Coming soon,"Jul 16, 2026",True
