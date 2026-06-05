@@ -1,0 +1,10 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2902170,Kernel Hearts,Kernel Hearts,445,312,133,133,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,September 2026,True
+3989550,Fallosophy,Fallosophy,1281,1165,116,116,up,upward_spike,Free,Unpriced (Coming Soon),True,Coming soon,Q3 2026,True
+3778610,Colorbound,Colorbound,631,551,80,80,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,August 2026,True
+2825860,The Sinking City 2,The Sinking City 2,405,330,75,75,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,2026,True
+4263170,Union Of Rivals,Union Of Rivals,1450,1507,-57,57,down,downward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,July 2026,"Jul 17, 2026",True
+4413070,Red Chat Ritual  – TSUMIMI TIME,Red Chat Ritual  – TSUMIMI TIME,1007,1062,-55,55,down,downward_spike,Free,Unpriced (Coming Soon),True,Coming soon,October 2026,True
+2397320,Bus Simulator 27,Bus Simulator 27,832,798,34,34,up,upward_spike,Unpriced (Coming Soon),$29.99,True,To be announced,To be announced,False
+3840260,Forgotten Playland: Party Edition,Forgotten Playland: Party Edition,788,807,-19,19,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q2 2026,July 2026,True
+3581230,Cozy Game Restoration,Cozy Game Restoration,63,59,4,4,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,Q3 2026,True

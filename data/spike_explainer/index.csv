@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-05T04:29:24.107843+00:00,4261650,MASAKRE,data/spike_explainer/2026-06-05__appid_4261650__rank_2870_to_214__up_2656,2656,85,data/spike_explainer/2026-06-05__appid_4261650__rank_2870_to_214__up_2656/llm_summary_input.md
+2026-06-05T15:31:35.992305+00:00,3959900,BE LOST,data/spike_explainer/2026-06-05__appid_3959900__rank_1327_to_790__up_537,537,55,data/spike_explainer/2026-06-05__appid_3959900__rank_1327_to_790__up_537/llm_summary_input.md

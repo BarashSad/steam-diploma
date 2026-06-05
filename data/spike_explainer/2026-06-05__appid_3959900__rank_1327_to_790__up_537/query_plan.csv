@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3959900,BE LOST,"""BE LOST"" Steam",general,1,tavily,True,,5
+3959900,BE LOST,"""BE LOST"" trailer",general,1,tavily,True,,5
+3959900,BE LOST,"""BE LOST"" gameplay",general,1,tavily,True,,5
+3959900,BE LOST,"""BE LOST"" demo",general,1,tavily,True,,5
+3959900,BE LOST,"""BE LOST"" release date",general,1,tavily,True,,5
+3959900,BE LOST,"""BE LOST"" announcement",general,1,tavily,True,,5
+3959900,BE LOST,"""BE LOST"" preview",general,1,tavily,True,,5
+3959900,BE LOST,"""BE LOST"" review",general,1,tavily,True,,5
+3959900,BE LOST,"""BE LOST"" publisher",general,1,tavily,True,,5
+3959900,BE LOST,"""BE LOST"" developer",general,1,tavily,True,,5
+3959900,BE LOST,"site:pcgamer.com ""BE LOST""",press,2,tavily,False,General budget exhausted,0
+3959900,BE LOST,"site:rockpapershotgun.com ""BE LOST""",press,2,tavily,False,General budget exhausted,0
+3959900,BE LOST,"site:ign.com ""BE LOST""",press,2,tavily,False,General budget exhausted,0
+3959900,BE LOST,"site:gamespot.com ""BE LOST""",press,2,tavily,False,General budget exhausted,0
+3959900,BE LOST,"site:game8.co ""BE LOST""",press,2,tavily,False,General budget exhausted,0
+3959900,BE LOST,"site:reddit.com ""BE LOST""",social,3,tavily,True,,5
+3959900,BE LOST,"site:tiktok.com ""BE LOST""",social,4,tavily,True,,5
+3959900,BE LOST,"site:instagram.com ""BE LOST""",social,4,tavily,True,,5
+3959900,BE LOST,"site:x.com ""BE LOST""",social,4,tavily,True,,5
+3959900,BE LOST,"site: ""BE LOST""",social,4,tavily,True,,5

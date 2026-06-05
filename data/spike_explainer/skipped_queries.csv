@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-4261650,MASAKRE,"site:pcgamer.com ""MASAKRE""",press,2,tavily,False,General budget exhausted,0
-4261650,MASAKRE,"site:rockpapershotgun.com ""MASAKRE""",press,2,tavily,False,General budget exhausted,0
-4261650,MASAKRE,"site:ign.com ""MASAKRE""",press,2,tavily,False,General budget exhausted,0
-4261650,MASAKRE,"site:gamespot.com ""MASAKRE""",press,2,tavily,False,General budget exhausted,0
-4261650,MASAKRE,"site:game8.co ""MASAKRE""",press,2,tavily,False,General budget exhausted,0
+3959900,BE LOST,"site:pcgamer.com ""BE LOST""",press,2,tavily,False,General budget exhausted,0
+3959900,BE LOST,"site:rockpapershotgun.com ""BE LOST""",press,2,tavily,False,General budget exhausted,0
+3959900,BE LOST,"site:ign.com ""BE LOST""",press,2,tavily,False,General budget exhausted,0
+3959900,BE LOST,"site:gamespot.com ""BE LOST""",press,2,tavily,False,General budget exhausted,0
+3959900,BE LOST,"site:game8.co ""BE LOST""",press,2,tavily,False,General budget exhausted,0
