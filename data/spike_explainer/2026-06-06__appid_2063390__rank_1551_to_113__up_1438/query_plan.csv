@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+2063390,V.A Proxy,"""V.A Proxy"" Steam",general,1,tavily,True,,5
+2063390,V.A Proxy,"""V.A Proxy"" trailer",general,1,tavily,True,,5
+2063390,V.A Proxy,"""V.A Proxy"" gameplay",general,1,tavily,True,,5
+2063390,V.A Proxy,"""V.A Proxy"" demo",general,1,tavily,True,,5
+2063390,V.A Proxy,"""V.A Proxy"" release date",general,1,tavily,True,,5
+2063390,V.A Proxy,"""V.A Proxy"" announcement",general,1,tavily,True,,5
+2063390,V.A Proxy,"""V.A Proxy"" preview",general,1,tavily,True,,5
+2063390,V.A Proxy,"""V.A Proxy"" review",general,1,tavily,True,,5
+2063390,V.A Proxy,"""V.A Proxy"" publisher",general,1,tavily,True,,5
+2063390,V.A Proxy,"""V.A Proxy"" developer",general,1,tavily,True,,5
+2063390,V.A Proxy,"site:pcgamer.com ""V.A Proxy""",press,2,tavily,False,General budget exhausted,0
+2063390,V.A Proxy,"site:rockpapershotgun.com ""V.A Proxy""",press,2,tavily,False,General budget exhausted,0
+2063390,V.A Proxy,"site:ign.com ""V.A Proxy""",press,2,tavily,False,General budget exhausted,0
+2063390,V.A Proxy,"site:gamespot.com ""V.A Proxy""",press,2,tavily,False,General budget exhausted,0
+2063390,V.A Proxy,"site:game8.co ""V.A Proxy""",press,2,tavily,False,General budget exhausted,0
+2063390,V.A Proxy,"site:reddit.com ""V.A Proxy""",social,3,tavily,True,,5
+2063390,V.A Proxy,"site:tiktok.com ""V.A Proxy""",social,4,tavily,True,,4
+2063390,V.A Proxy,"site:instagram.com ""V.A Proxy""",social,4,tavily,True,,5
+2063390,V.A Proxy,"site:x.com ""V.A Proxy""",social,4,tavily,True,,5
+2063390,V.A Proxy,"site: ""V.A Proxy""",social,4,tavily,True,,5

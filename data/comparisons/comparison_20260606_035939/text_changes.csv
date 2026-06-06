@@ -1,0 +1,11 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4117830,"Your Painting, Sir","Your Painting, Sir",232,2101,-1869,1869,down,downward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,Q4 2026,True
+3639470,Besiege: The Broken Beyond,Besiege: The Broken Beyond,730,1323,-593,593,down,downward_spike,Free,Unpriced (Coming Soon),True,Coming soon,"Jun 22, 2026",True
+1431300,SAND: Raiders of Sophie,SAND: Raiders of Sophie,491,38,453,453,up,upward_spike,Free,Unpriced (Coming Soon),True,Coming soon,"Jun 10, 2026",True
+958520,33 Immortals,33 Immortals,311,641,-330,330,down,downward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Jun 10, 2026",True
+4112070,An Eggstremely Hard Game,An Eggstremely Hard Game,574,717,-143,143,down,downward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q2 2026,"Jul 24, 2026",True
+3393110,AION 2,AION 2,101,242,-141,141,down,downward_spike,Free,Free,False,2026,September 2026,True
+2075800,STAR WARS Zero Company™,STAR WARS Zero Company™,197,71,126,126,up,upward_spike,Free,$49.99,True,Coming soon,"Aug 27, 2026",True
+4260840,STRANGER THAN HEAVEN,STRANGER THAN HEAVEN,27,151,-124,124,down,downward_spike,Free,$69.99,True,Coming soon,"Jan 14, 2027",True
+3255110,Grave Seasons,Grave Seasons,105,60,45,45,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 14, 2026",2026,True
+2121510,Tenebris Somnia,Tenebris Somnia,332,348,-16,16,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Oct 16, 2026",True

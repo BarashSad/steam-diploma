@@ -1,0 +1,60 @@
+{
+    "appnews": {
+        "appid": 2063390,
+        "newsitems": [
+            {
+                "gid": "6211118320238706458",
+                "title": "VAproxy demo v0.3 is live",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6211118320238706458",
+                "is_external_url": true,
+                "author": "pyrolith69",
+                "contents": "This update majorly improved performance, movement, combat and wildlife AI and more listed below: New Scythe Weapon (Udex Usurper) New Spear Weapon (Udex Loyalty) New hacking/Grapple hook (Saint tether) Old weapons reworked and improved Better air control and mobility Camera reworked New and improved AI for all dynamic machines Dynamic Machines density and activity is doubled Menus changed for controller support Major performance improvement New training mode New Enemies and machine types New Drone Projectiles All bosses reworked to handle the new combat New NPCs Many microadjustments to gameplay/movement of the player and enemies/Bosses Lots of old Bugs were fixed Thank you all for waiting, this update was gameplay focused and I hope you can see the improvements.",
+                "feedlabel": "Community Announcements",
+                "date": 1728931480,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2063390
+            },
+            {
+                "gid": "5762994032409749978",
+                "title": "New VAproxy demo v0.2 is live",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5762994032409749978",
+                "is_external_url": true,
+                "author": "pyrolith69",
+                "contents": "This demo overhaul all the systems from the previous version and introduce new ones, here some of the noticeable change: New mercury machines Scrap can be used as a weapon Birds have new AI behavior Scavengers AI and weapons improved Camera and lock on reworked drone have multiple new weapons New NPCs + new dialogues Executors mini boss have new improved moves and drop items death warp bugs fixed performance improved + new performance options menu reworked new save slots system Heal fly glitch patched blacksmith anvil does damage now new ending + cutscenes cutscenes bugs removed ERI boss fight reworked Sin boss fight reworked elevator bugs patched new shop system new area and new boss ladders bugs fixed new starting items and abilities new fps independent timer for speed runs new compass for navigation new dream mechanic Bottomless areas respawn fixed new currency new lenses new slot based ability system new smoother movement system ground parrying improved combat system improved parrying new charged abilities better anti clip measures enemy respawn system new input remapping system new secret outfit new secret masks improved visuals there's more minor and too technical changes, so I'll spare you. Thanks for your patience and have fun",
+                "feedlabel": "Community Announcements",
+                "date": 1713893597,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2063390
+            },
+            {
+                "gid": "5397065151386386662",
+                "title": "V.A Proxy is a Nier Automata-like that's on a mission to parry everything, and now it has a demo",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/5397065151386386662",
+                "is_external_url": true,
+                "author": "",
+                "contents": "A good parry mechanic is a kind of redemption. Where blocking - aka holding a button to avoid damage - is a concession to the tedious attritional undertow of many <a href=\"https://www.rockpapershotgun.com/best-action-games\">action games</a>, parrying - aka pressing a button on cue to cancel damage and often, prep a counter - is the act of cutting through the bullshit. It passively reduces any and all visual and thematic overwhelm the game would have you experience to a question of timing. In the face of a good parry mechanic, the grandest of bosses are equivalent to rank-and-file mobs. You're a monster the size of a building? You're the demonic manifestation of a protagonist's mother issues? You're capitalism incarnate? You're wielding eight chainsaws at once? Ehhh. I'm not just going to survive your onslaught. I'm going to <em>dismiss</em> it. All of it: your absurd DPS, your multiple elemental modifiers, your screen-blanketing special effects, your overcooked core concept, the very laws of physics - poof, gone, as though they had never been. Blocking is akin to maintaining a poker face while you're being harangued by your boss over Zoom. Parrying is politely pointing out that your boss has left his camera on, and that he should probably wear trousers when he's at work. It is \"nope\" said so quietly that it shuts everything else up. <a href=\"https://www.rockpapershotgun.com/va-proxy-is-a-nier-automata-like-thats-on-a-mission-to-parry-everything-and-now-it-has-a-demo\">Read more</a> ",
+                "feedlabel": "Rock, Paper, Shotgun",
+                "date": 1702482088,
+                "feedname": "Rock, Paper, Shotgun",
+                "feed_type": 0,
+                "appid": 2063390
+            },
+            {
+                "gid": "5159491482908651095",
+                "title": "Watch a robot parry a nuke in this Nier and Devil May Cry-influenced indie actioner",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/5159491482908651095",
+                "is_external_url": true,
+                "author": "",
+                "contents": "I like to think that I'm above the lure of Cool Violent Thing in Videogame these days, but when I see a lanky robot parry a nuclear shockwave with a katana as though swatting a wasp, I find myself Enthused. The videogame in question is Pyrolith's V.A. Proxy, which I've had my eye on for a while, on account of it being inspired by <a href=\"https://www.rockpapershotgun.com/nier-automata-review\">Nier: Automata</a> and <a href=\"https://www.rockpapershotgun.com/games/devil-may-cry-5\">Devil May Cry</a>, with a landscape of megastructures and bruised and rusty art direction that calls to mind <a href=\"https://www.rockpapershotgun.com/games/the-signal-from-tolva\">The Signal from T\u00f6lva</a>. In this moody open world action game, you play one of three robots who awaken to find their memories gone, and promptly set out in search of their creator. It'd be an eye-catcher even without the atomic parry, which you can witness for yourself in the embedded clip below. <a href=\"https://www.rockpapershotgun.com/watch-a-robot-parry-a-nuke-in-this-nier-and-devil-may-cry-influenced-indie-actioner\">Read more</a> ",
+                "feedlabel": "Rock, Paper, Shotgun",
+                "date": 1694084760,
+                "feedname": "Rock, Paper, Shotgun",
+                "feed_type": 0,
+                "appid": 2063390
+            }
+        ],
+        "count": 4
+    }
+}

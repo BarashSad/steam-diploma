@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-06T04:23:07.605115+00:00",
+    "timestamp": "20260606_042307",
+    "input_file": "data/spike_explainer/2026-06-06__appid_2063390__rank_1551_to_113__up_1438/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-06__appid_2063390__rank_1551_to_113__up_1438/llm_outputs/gemini_20260606_042307.md",
+    "game_title": "V.A Proxy",
+    "appid": "2063390",
+    "duration_sec": 25.6,
+    "response_length": 6980,
+    "error": null
+}
