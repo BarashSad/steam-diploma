@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+2916700,Attack on Titan 3 - A.O.T.3,"""Attack on Titan 3 - A.O.T.3"" Steam",general,1,tavily,True,,5
+2916700,Attack on Titan 3 - A.O.T.3,"""Attack on Titan 3 - A.O.T.3"" trailer",general,1,tavily,True,,5
+2916700,Attack on Titan 3 - A.O.T.3,"""Attack on Titan 3 - A.O.T.3"" gameplay",general,1,tavily,True,,5
+2916700,Attack on Titan 3 - A.O.T.3,"""Attack on Titan 3 - A.O.T.3"" demo",general,1,tavily,True,,5
+2916700,Attack on Titan 3 - A.O.T.3,"""Attack on Titan 3 - A.O.T.3"" release date",general,1,tavily,True,,5
+2916700,Attack on Titan 3 - A.O.T.3,"""Attack on Titan 3 - A.O.T.3"" announcement",general,1,tavily,True,,5
+2916700,Attack on Titan 3 - A.O.T.3,"""Attack on Titan 3 - A.O.T.3"" preview",general,1,tavily,True,,5
+2916700,Attack on Titan 3 - A.O.T.3,"""Attack on Titan 3 - A.O.T.3"" review",general,1,tavily,True,,5
+2916700,Attack on Titan 3 - A.O.T.3,"""Attack on Titan 3 - A.O.T.3"" publisher",general,1,tavily,True,,5
+2916700,Attack on Titan 3 - A.O.T.3,"""Attack on Titan 3 - A.O.T.3"" developer",general,1,tavily,True,,5
+2916700,Attack on Titan 3 - A.O.T.3,"site:pcgamer.com ""Attack on Titan 3 - A.O.T.3""",press,2,tavily,False,General budget exhausted,0
+2916700,Attack on Titan 3 - A.O.T.3,"site:rockpapershotgun.com ""Attack on Titan 3 - A.O.T.3""",press,2,tavily,False,General budget exhausted,0
+2916700,Attack on Titan 3 - A.O.T.3,"site:ign.com ""Attack on Titan 3 - A.O.T.3""",press,2,tavily,False,General budget exhausted,0
+2916700,Attack on Titan 3 - A.O.T.3,"site:gamespot.com ""Attack on Titan 3 - A.O.T.3""",press,2,tavily,False,General budget exhausted,0
+2916700,Attack on Titan 3 - A.O.T.3,"site:game8.co ""Attack on Titan 3 - A.O.T.3""",press,2,tavily,False,General budget exhausted,0
+2916700,Attack on Titan 3 - A.O.T.3,"site:reddit.com ""Attack on Titan 3 - A.O.T.3""",social,3,tavily,True,,4
+2916700,Attack on Titan 3 - A.O.T.3,"site:tiktok.com ""Attack on Titan 3 - A.O.T.3""",social,4,tavily,True,,4
+2916700,Attack on Titan 3 - A.O.T.3,"site:instagram.com ""Attack on Titan 3 - A.O.T.3""",social,4,tavily,True,,5
+2916700,Attack on Titan 3 - A.O.T.3,"site:x.com ""Attack on Titan 3 - A.O.T.3""",social,4,tavily,True,,5
+2916700,Attack on Titan 3 - A.O.T.3,"site: ""Attack on Titan 3 - A.O.T.3""",social,4,tavily,True,,5

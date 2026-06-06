@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-06-06T04:23:07.489760+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260606_035939/rank_changes.csv",
-    "selected_appid": "2063390",
-    "selected_game_title": "V.A Proxy",
+    "started_at": "2026-06-06T14:20:50.577815+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260606_135550/rank_changes.csv",
+    "selected_appid": "2916700",
+    "selected_game_title": "Attack on Titan 3 - A.O.T.3",
     "top_n": 1,
     "old_snapshot_date": "2026-06-03",
     "new_snapshot_date": "2026-06-06",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-06T04:23:07.489775+00:00",
+    "finished_at": "2026-06-06T14:20:50.577834+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
