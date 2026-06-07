@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Attack on Titan 3 - A.O.T.3
+Analyzed: Apple Crumble
 Tavily Budget Used: 15
 Errors: 0

@@ -1,0 +1,26 @@
+{
+    "appnews": {
+        "appid": 4110770,
+        "newsitems": [
+            {
+                "gid": "1834602721192551",
+                "title": "Apple Crumble is announced!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721192551",
+                "is_external_url": true,
+                "author": "Joni",
+                "contents": "Hello,You are cordially invited to your grandma\u2019s 84th birthday party. The only problem? Someone is here to murder her...But WHO?---That\u2019s the premise of our next game Apple Crumble, announced today!\u00a0After having a ton of fun making two Duck Detective cases, we wanted to create a thriller set in a fresh setting, all while keeping the core elements that we love in our games: sharp writing, quirky but loveable characters, and of course solving mysteries!So this time we are making a Knives Out-inspired mystery thriller. Set during a chaotic family birthday gathering, you need to work the room, reconnect with your family, and figure out who\u2019s here to knife your nan.The guestlist includes:Your beloved grandmaYour stressed-out mumYour midlife crisis uncleThe weird man in your bedroomYou Just like Duck Detective, our new game will be between 60 and 90 minutes long and fully voiced with an amazing voice cast \ud83d\ude42Today we showed the first teaser trailer of Apple Crumble in Day of the Devs. Stay tuned - we\u2019ve got further surprises coming :D\u00a0We also now have a newsletter, so if you want just the most important info you can subscribe here: https://preview.mailerlite.io/forms/2100347/178937266199070278/share\u00a0We can\u2019t wait to show you more! In the meantime, stay sharp.~ Happy Broccoli Team",
+                "feedlabel": "Community Announcements",
+                "date": 1780703457,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4110770,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1866137740_1780708292_0",
+                    "mod_require_rereview"
+                ]
+            }
+        ],
+        "count": 1
+    }
+}

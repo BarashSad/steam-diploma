@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4110770,Apple Crumble,"""Apple Crumble"" Steam",general,1,tavily,True,,5
+4110770,Apple Crumble,"""Apple Crumble"" trailer",general,1,tavily,True,,5
+4110770,Apple Crumble,"""Apple Crumble"" gameplay",general,1,tavily,True,,5
+4110770,Apple Crumble,"""Apple Crumble"" demo",general,1,tavily,True,,5
+4110770,Apple Crumble,"""Apple Crumble"" release date",general,1,tavily,True,,5
+4110770,Apple Crumble,"""Apple Crumble"" announcement",general,1,tavily,True,,5
+4110770,Apple Crumble,"""Apple Crumble"" preview",general,1,tavily,True,,5
+4110770,Apple Crumble,"""Apple Crumble"" review",general,1,tavily,True,,5
+4110770,Apple Crumble,"""Apple Crumble"" publisher",general,1,tavily,True,,5
+4110770,Apple Crumble,"""Apple Crumble"" developer",general,1,tavily,True,,5
+4110770,Apple Crumble,"site:pcgamer.com ""Apple Crumble""",press,2,tavily,False,General budget exhausted,0
+4110770,Apple Crumble,"site:rockpapershotgun.com ""Apple Crumble""",press,2,tavily,False,General budget exhausted,0
+4110770,Apple Crumble,"site:ign.com ""Apple Crumble""",press,2,tavily,False,General budget exhausted,0
+4110770,Apple Crumble,"site:gamespot.com ""Apple Crumble""",press,2,tavily,False,General budget exhausted,0
+4110770,Apple Crumble,"site:game8.co ""Apple Crumble""",press,2,tavily,False,General budget exhausted,0
+4110770,Apple Crumble,"site:reddit.com ""Apple Crumble""",social,3,tavily,True,,5
+4110770,Apple Crumble,"site:tiktok.com ""Apple Crumble""",social,4,tavily,True,,5
+4110770,Apple Crumble,"site:instagram.com ""Apple Crumble""",social,4,tavily,True,,5
+4110770,Apple Crumble,"site:x.com ""Apple Crumble""",social,4,tavily,True,,5
+4110770,Apple Crumble,"site: ""Apple Crumble""",social,4,tavily,True,,5

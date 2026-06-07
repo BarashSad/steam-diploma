@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-06-06T14:20:50.577815+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260606_135550/rank_changes.csv",
-    "selected_appid": "2916700",
-    "selected_game_title": "Attack on Titan 3 - A.O.T.3",
+    "started_at": "2026-06-07T04:49:23.558177+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260607_042604/rank_changes.csv",
+    "selected_appid": "4110770",
+    "selected_game_title": "Apple Crumble",
     "top_n": 1,
-    "old_snapshot_date": "2026-06-03",
-    "new_snapshot_date": "2026-06-06",
+    "old_snapshot_date": "2026-06-04",
+    "new_snapshot_date": "2026-06-07",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-06T14:20:50.577834+00:00",
+    "finished_at": "2026-06-07T04:49:23.558192+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
