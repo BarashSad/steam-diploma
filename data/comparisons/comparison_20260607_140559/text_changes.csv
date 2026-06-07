@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4019220,Dressmaker,Dressmaker,827,759,68,68,up,upward_spike,Free,Unpriced (Coming Soon),True,Coming soon,September 2026,True
+4021890,Pizzapocalypse 2,Pizzapocalypse 2,2769,2782,-13,13,down,none,Unpriced (Coming Soon),Free,True,2026,Coming soon,True
+1742440,COP BASTARD,COP BASTARD,1288,1292,-4,4,down,none,Unpriced (Coming Soon),Free,True,Q2 2026,Coming soon,True
+2710040,Delverium,Delverium,625,628,-3,3,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q2 2026,Q3 2026,True
+3789230,Kalit,Kalit,1791,1793,-2,2,down,none,Free,Free,False,Coming soon,2027,True

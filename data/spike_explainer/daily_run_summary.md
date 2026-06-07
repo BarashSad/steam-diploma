@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Apple Crumble
+Analyzed: Vampire Survivors: Legacy of the Bloodmoon
 Tavily Budget Used: 15
 Errors: 0
