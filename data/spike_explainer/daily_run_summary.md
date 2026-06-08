@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Vampire Survivors: Legacy of the Bloodmoon
+Analyzed: AfterQuest
 Tavily Budget Used: 15
 Errors: 0

@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-06-07T14:30:02.629159+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260607_140559/rank_changes.csv",
-    "selected_appid": "4781330",
-    "selected_game_title": "Vampire Survivors: Legacy of the Bloodmoon",
+    "started_at": "2026-06-08T05:05:06.393757+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260608_044211/rank_changes.csv",
+    "selected_appid": "3484950",
+    "selected_game_title": "AfterQuest",
     "top_n": 1,
-    "old_snapshot_date": "2026-06-04",
-    "new_snapshot_date": "2026-06-07",
+    "old_snapshot_date": "2026-06-05",
+    "new_snapshot_date": "2026-06-08",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-07T14:30:02.629179+00:00",
+    "finished_at": "2026-06-08T05:05:06.393771+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

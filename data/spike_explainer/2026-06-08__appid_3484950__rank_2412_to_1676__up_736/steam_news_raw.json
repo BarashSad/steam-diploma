@@ -1,0 +1,21 @@
+{
+    "appnews": {
+        "appid": 3484950,
+        "newsitems": [
+            {
+                "gid": "1813041031247838",
+                "title": "Dev Update: Our first post!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813041031247838",
+                "is_external_url": true,
+                "author": "hello",
+                "contents": "Hi Friend, Chad, here, Founder & Creative Director at Ember Arcade. First things first: thank you from the bottom of my heart for wishlisting our very first game, AfterQuest. Like you, I love video games, especially ones like AfterQuest that are handmade with care and a reverence for the art and joy of gaming. The team and I have been quiet, working behind the scenes building and refining the game to capture our vision, a game that blends the nostalgia, depth and charm of the classics that inspired us, with the accessibility of modern design ideas. Building a game from scratch as a small self-funded team has been a journey, to say the least, and I want to bring you all along for the ride. Read on to learn what we've been up to and how game development is progressing. TL;DR? We're ready to move into full scale production, and have decided on a path that will bring AfterQuest to you in the most polished and complete state possible. More info coming very soon, so please stay tuned. So, what have we been up to?Over the past few months we\u2019ve been refining the dungeon-crawling framework that ties everything together. I'm very excited with how this portion of the game loop is now feeling. Take a look below for a tease at what we\u2019ve been building:We\u2019ve also been fleshing out the game\u2019s meta-progression systems, another key piece of the roguelite loop. Without revealing too much just yet, this next image offers a hint at what\u2019s to come:And of course, new spells continue to make their way into the game, each one fully hand-animated and crafted to feel distinct, and designed with tons of modifiers and synergies in mind:There\u2019s still plenty left to share, and we\u2019re getting close to a big milestone, one we\u2019ll be announcing very soon.Keep an eye out for more updates in the coming weeks, and again, thank you for taking part in this journey. \u2014 Chad",
+                "feedlabel": "Community Announcements",
+                "date": 1760118662,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3484950
+            }
+        ],
+        "count": 1
+    }
+}

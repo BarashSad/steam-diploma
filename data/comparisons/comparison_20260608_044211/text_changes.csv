@@ -1,0 +1,21 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4323990,EMPULSE,EMPULSE,1188,978,210,210,up,upward_spike,Free,Unpriced (Coming Soon),True,Coming soon,"Jun 24, 2026",True
+1725710,Demi and the Fractured Dream,Demi and the Fractured Dream,2349,2204,145,145,up,upward_spike,Unpriced (Coming Soon),Free,True,2026,February 2027,True
+3546610,Wielders of the Essence,Wielders of the Essence,1227,1149,78,78,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Nov 5, 2026",True
+2644100,Allogloom,Allogloom,2903,2840,63,63,up,upward_spike,Free,Unpriced (Coming Soon),True,Coming soon,"Sep 23, 2026",True
+4094660,Rivage,Rivage,567,512,55,55,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Aug 13, 2026",True
+1101370,Wind Runners,Wind Runners,804,760,44,44,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Sep 23, 2026",True
+2713000,Resonance: A Plague Tale Legacy,Resonance: A Plague Tale Legacy,208,192,16,16,up,none,Unpriced (Coming Soon),$49.99,True,2026,"Aug 27, 2026",True
+2819470,Aquapark Tycoon,Aquapark Tycoon,1124,1108,16,16,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Jul 22, 2026",True
+4231820,Castlevania: Belmont's Curse,Castlevania: Belmont's Curse,101,86,15,15,up,none,Unpriced (Coming Soon),$29.99,True,2026,"Oct 14, 2026",True
+2806050,Halo: Campaign Evolved,Halo: Campaign Evolved,84,72,12,12,up,none,Free,$49.99,True,Coming soon,"Jul 28, 2026",True
+3401960,JOIN US,JOIN US,169,157,12,12,up,none,Unpriced (Coming Soon),Free,True,2026,March 2027,True
+3271280,Shroom and Gloom,Shroom and Gloom,285,273,12,12,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,Q3 2026,True
+3010850,Gears of War: E-Day,Gears of War: E-Day,82,71,11,11,up,none,Free,$69.99,True,Coming soon,"Oct 6, 2026",True
+1912410,Minecraft Dungeons II,Minecraft Dungeons II,224,216,8,8,up,none,Unpriced (Coming Soon),$29.99,True,2026,"Sep 29, 2026",True
+1181550,Carnival Hunt,Carnival Hunt,184,182,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Jul 23, 2026",True
+3581230,Cozy Game Restoration,Cozy Game Restoration,258,256,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Sep 24, 2026",True
+1215940,Forever Ago,Forever Ago,520,518,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Oct 8, 2026",True
+2828710,Valor Mortis,Valor Mortis,75,74,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Sep 24, 2026",True
+2749950,Esports Manager 2026,Esports Manager 2026,478,479,-1,1,down,none,Free,Unpriced (Coming Soon),True,Coming soon,"Jul 6, 2026",True
+2769570,Fable,Fable,4,4,0,0,stable,none,Unpriced (Coming Soon),$69.99,True,To be announced,"Feb 23, 2027",True

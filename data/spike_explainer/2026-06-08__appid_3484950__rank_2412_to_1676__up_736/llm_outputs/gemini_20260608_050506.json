@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-08T05:05:06.505959+00:00",
+    "timestamp": "20260608_050506",
+    "input_file": "data/spike_explainer/2026-06-08__appid_3484950__rank_2412_to_1676__up_736/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-08__appid_3484950__rank_2412_to_1676__up_736/llm_outputs/gemini_20260608_050506.md",
+    "game_title": "AfterQuest",
+    "appid": "3484950",
+    "duration_sec": 24.26,
+    "response_length": 5167,
+    "error": null
+}

@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3484950,AfterQuest,"""AfterQuest"" Steam",general,1,tavily,True,,5
+3484950,AfterQuest,"""AfterQuest"" trailer",general,1,tavily,True,,5
+3484950,AfterQuest,"""AfterQuest"" gameplay",general,1,tavily,True,,5
+3484950,AfterQuest,"""AfterQuest"" demo",general,1,tavily,True,,5
+3484950,AfterQuest,"""AfterQuest"" release date",general,1,tavily,True,,5
+3484950,AfterQuest,"""AfterQuest"" announcement",general,1,tavily,True,,5
+3484950,AfterQuest,"""AfterQuest"" preview",general,1,tavily,True,,5
+3484950,AfterQuest,"""AfterQuest"" review",general,1,tavily,True,,5
+3484950,AfterQuest,"""AfterQuest"" publisher",general,1,tavily,True,,5
+3484950,AfterQuest,"""AfterQuest"" developer",general,1,tavily,True,,5
+3484950,AfterQuest,"site:pcgamer.com ""AfterQuest""",press,2,tavily,False,General budget exhausted,0
+3484950,AfterQuest,"site:rockpapershotgun.com ""AfterQuest""",press,2,tavily,False,General budget exhausted,0
+3484950,AfterQuest,"site:ign.com ""AfterQuest""",press,2,tavily,False,General budget exhausted,0
+3484950,AfterQuest,"site:gamespot.com ""AfterQuest""",press,2,tavily,False,General budget exhausted,0
+3484950,AfterQuest,"site:game8.co ""AfterQuest""",press,2,tavily,False,General budget exhausted,0
+3484950,AfterQuest,"site:reddit.com ""AfterQuest""",social,3,tavily,True,,5
+3484950,AfterQuest,"site:tiktok.com ""AfterQuest""",social,4,tavily,True,,5
+3484950,AfterQuest,"site:instagram.com ""AfterQuest""",social,4,tavily,True,,5
+3484950,AfterQuest,"site:x.com ""AfterQuest""",social,4,tavily,True,,5
+3484950,AfterQuest,"site: ""AfterQuest""",social,4,tavily,True,,5
