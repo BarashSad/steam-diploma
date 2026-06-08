@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-08T05:04:51.834540+00:00,3484950,AfterQuest,data/spike_explainer/2026-06-08__appid_3484950__rank_2412_to_1676__up_736,736,85,data/spike_explainer/2026-06-08__appid_3484950__rank_2412_to_1676__up_736/llm_summary_input.md
+2026-06-08T16:29:11.382195+00:00,3247960,Bergfried,data/spike_explainer/2026-06-08__appid_3247960__rank_2789_to_1935__up_854,854,85,data/spike_explainer/2026-06-08__appid_3247960__rank_2789_to_1935__up_854/llm_summary_input.md

@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: AfterQuest
+Analyzed: Bergfried
 Tavily Budget Used: 15
 Errors: 0

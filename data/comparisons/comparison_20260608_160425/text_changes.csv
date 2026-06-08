@@ -1,0 +1,20 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3884970,Layer Land,Layer Land,2218,2149,69,69,up,upward_spike,Unpriced (Coming Soon),Free,True,"Jun 8, 2026",Coming soon,True
+4271520,The Pines,The Pines,1038,1016,22,22,up,upward_spike,Free,Free,False,Coming soon,2027,True
+3914860,Moss: The Forgotten Relic,Moss: The Forgotten Relic,1106,1086,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Jul 16, 2026",True
+3255500,Ved: Recure,Ved: Recure,1039,1023,16,16,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,Q3 2026,True
+3572800,Duo Quest,Duo Quest,2007,1995,12,12,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Sep 16, 2026",True
+2805850,Atre: Dominance Wars,Atre: Dominance Wars,872,861,11,11,up,none,Unpriced (Coming Soon),Free,True,"Jun 8, 2026",Coming soon,True
+3470850,Void Martyrs,Void Martyrs,746,737,9,9,up,none,Free,Unpriced (Coming Soon),True,Coming soon,To be announced,True
+4286120,Photomaly,Photomaly,2427,2434,-7,7,down,none,Free,Unpriced (Coming Soon),True,Coming soon,"Jul 21, 2026",True
+3105190,CHILDREN OF SATURN,CHILDREN OF SATURN,2442,2435,7,7,up,none,Unpriced (Coming Soon),Free,True,To be announced,Q1 2027,True
+2975260,PRISON OF HUSKS,PRISON OF HUSKS,338,332,6,6,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,2026,True
+3450100,Gretel's Honesty,Gretel's Honesty,2953,2959,-6,6,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,June 2026,"Sep 29, 2026",True
+864170,Midnight Horde,Midnight Horde,2213,2218,-5,5,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,Q4 2026,True
+3435610,Exark,Exark,2547,2544,3,3,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q2 2026,Q3 2026,True
+2590240,METRO 2039,METRO 2039,30,28,2,2,up,none,Unpriced (Coming Soon),Free,True,To be announced,February 2027,True
+1327040,Truck World: Australia,Truck World: Australia,208,206,2,2,up,none,Free,Unpriced (Coming Soon),True,Coming soon,To be announced,True
+2141130,Road Kings,Road Kings,164,163,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,To be announced,True
+4252290,Meowgic,Meowgic,716,715,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Jul 20, 2026",True
+2397320,Bus Simulator 27,Bus Simulator 27,801,800,1,1,up,none,$29.99,$29.99,False,To be announced,"Sep 8, 2026",True
+3555780,Bookbinding – Dark Cozy Sim,Bookbinding – Dark Cozy Sim,1597,1597,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,July 2026,"Jul 16, 2026",True

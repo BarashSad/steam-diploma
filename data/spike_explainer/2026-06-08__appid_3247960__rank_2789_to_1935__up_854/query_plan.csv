@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3247960,Bergfried,"""Bergfried"" Steam",general,1,tavily,True,,5
+3247960,Bergfried,"""Bergfried"" trailer",general,1,tavily,True,,5
+3247960,Bergfried,"""Bergfried"" gameplay",general,1,tavily,True,,5
+3247960,Bergfried,"""Bergfried"" demo",general,1,tavily,True,,5
+3247960,Bergfried,"""Bergfried"" release date",general,1,tavily,True,,5
+3247960,Bergfried,"""Bergfried"" announcement",general,1,tavily,True,,5
+3247960,Bergfried,"""Bergfried"" preview",general,1,tavily,True,,5
+3247960,Bergfried,"""Bergfried"" review",general,1,tavily,True,,5
+3247960,Bergfried,"""Bergfried"" publisher",general,1,tavily,True,,5
+3247960,Bergfried,"""Bergfried"" developer",general,1,tavily,True,,5
+3247960,Bergfried,"site:pcgamer.com ""Bergfried""",press,2,tavily,False,General budget exhausted,0
+3247960,Bergfried,"site:rockpapershotgun.com ""Bergfried""",press,2,tavily,False,General budget exhausted,0
+3247960,Bergfried,"site:ign.com ""Bergfried""",press,2,tavily,False,General budget exhausted,0
+3247960,Bergfried,"site:gamespot.com ""Bergfried""",press,2,tavily,False,General budget exhausted,0
+3247960,Bergfried,"site:game8.co ""Bergfried""",press,2,tavily,False,General budget exhausted,0
+3247960,Bergfried,"site:reddit.com ""Bergfried""",social,3,tavily,True,,5
+3247960,Bergfried,"site:tiktok.com ""Bergfried""",social,4,tavily,True,,5
+3247960,Bergfried,"site:instagram.com ""Bergfried""",social,4,tavily,True,,4
+3247960,Bergfried,"site:x.com ""Bergfried""",social,4,tavily,True,,5
+3247960,Bergfried,"site: ""Bergfried""",social,4,tavily,True,,5
