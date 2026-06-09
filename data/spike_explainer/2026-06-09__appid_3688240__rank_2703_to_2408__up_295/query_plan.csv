@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3688240,Pipes.exe,"""Pipes.exe"" Steam",general,1,tavily,True,,5
+3688240,Pipes.exe,"""Pipes.exe"" trailer",general,1,tavily,True,,5
+3688240,Pipes.exe,"""Pipes.exe"" gameplay",general,1,tavily,True,,5
+3688240,Pipes.exe,"""Pipes.exe"" demo",general,1,tavily,True,,5
+3688240,Pipes.exe,"""Pipes.exe"" release date",general,1,tavily,True,,5
+3688240,Pipes.exe,"""Pipes.exe"" announcement",general,1,tavily,True,,5
+3688240,Pipes.exe,"""Pipes.exe"" preview",general,1,tavily,True,,5
+3688240,Pipes.exe,"""Pipes.exe"" review",general,1,tavily,True,,5
+3688240,Pipes.exe,"""Pipes.exe"" publisher",general,1,tavily,True,,5
+3688240,Pipes.exe,"""Pipes.exe"" developer",general,1,tavily,True,,5
+3688240,Pipes.exe,"site:pcgamer.com ""Pipes.exe""",press,2,tavily,False,General budget exhausted,0
+3688240,Pipes.exe,"site:rockpapershotgun.com ""Pipes.exe""",press,2,tavily,False,General budget exhausted,0
+3688240,Pipes.exe,"site:ign.com ""Pipes.exe""",press,2,tavily,False,General budget exhausted,0
+3688240,Pipes.exe,"site:gamespot.com ""Pipes.exe""",press,2,tavily,False,General budget exhausted,0
+3688240,Pipes.exe,"site:game8.co ""Pipes.exe""",press,2,tavily,False,General budget exhausted,0
+3688240,Pipes.exe,"site:reddit.com ""Pipes.exe""",social,3,tavily,True,,5
+3688240,Pipes.exe,"site:tiktok.com ""Pipes.exe""",social,4,tavily,True,,5
+3688240,Pipes.exe,"site:instagram.com ""Pipes.exe""",social,4,tavily,True,,5
+3688240,Pipes.exe,"site:x.com ""Pipes.exe""",social,4,tavily,True,,5
+3688240,Pipes.exe,"site: ""Pipes.exe""",social,4,tavily,True,,5

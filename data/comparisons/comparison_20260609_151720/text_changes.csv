@@ -1,0 +1,8 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4134600,EverRail,EverRail,1055,1045,10,10,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q2 2026,Q3 2026,True
+2665250,Rancher: A new life,Rancher: A new life,1113,1111,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,June 2026,2026,True
+2760720,Bestiario,Bestiario,2675,2673,2,2,up,none,Free,Free,False,Q1 2027,2027,True
+2556470,Fantastic Haven,Fantastic Haven,446,445,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q2 2026,Q4 2026,True
+1891280,Everbloom,Everbloom,460,461,-1,1,down,none,Unpriced (Coming Soon),Free,True,To be announced,2027,True
+2819400,Disc Golf Masters,Disc Golf Masters,2011,2012,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Jun 23, 2026",True
+1478500,Big Walk,Big Walk,57,57,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Aug 4, 2026",True

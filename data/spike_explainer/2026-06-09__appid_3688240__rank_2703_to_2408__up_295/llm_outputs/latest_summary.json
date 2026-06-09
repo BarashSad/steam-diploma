@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-09T15:42:56.453451+00:00",
+    "timestamp": "20260609_154256",
+    "input_file": "data/spike_explainer/2026-06-09__appid_3688240__rank_2703_to_2408__up_295/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-09__appid_3688240__rank_2703_to_2408__up_295/llm_outputs/gemini_20260609_154256.md",
+    "game_title": "Pipes.exe",
+    "appid": "3688240",
+    "duration_sec": 21.8,
+    "response_length": 6185,
+    "error": null
+}
