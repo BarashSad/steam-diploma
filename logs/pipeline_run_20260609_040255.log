@@ -1,0 +1,402 @@
+2026-06-09 04:02:55,465 [INFO] --- STARTING PIPELINE RUN: 20260609_040255 ---
+2026-06-09 04:02:55,465 [INFO] [COLLECTOR] Executing: /opt/hostedtoolcache/Python/3.11.15/x64/bin/python src/snapshot_collector.py --base-dir . --work-dir data/snapshots --max-games 3000 --speed-mode fast
+2026-06-09 04:27:06,680 [INFO] [COLLECTOR] STDOUT:
+2026-06-09 04:02:56,068 [INFO] Steam Snapshot Collector Started.
+2026-06-09 04:02:56,068 [INFO] Speed Mode: fast
+2026-06-09 04:02:56,068 [INFO] Work Dir: /home/runner/work/steam-diploma/steam-diploma/data/snapshots
+2026-06-09 04:02:56,069 [INFO] Base Output Dir: .
+2026-06-09 04:02:56,069 [INFO] Page 1 | Collected: 0
+2026-06-09 04:02:56,489 [INFO] Pacing: sleep 1.2s
+2026-06-09 04:02:57,654 [INFO] Page 2 | Collected: 0
+2026-06-09 04:02:57,945 [INFO] Pacing: sleep 1.2s
+2026-06-09 04:02:59,189 [INFO] Page 3 | Collected: 0
+2026-06-09 04:02:59,459 [INFO] Pacing: sleep 0.7s
+2026-06-09 04:03:00,191 [INFO] Page 4 | Collected: 0
+2026-06-09 04:03:00,506 [INFO] Pacing: sleep 0.8s
+2026-06-09 04:03:01,346 [INFO] Page 5 | Collected: 0
+2026-06-09 04:03:01,643 [INFO] Pacing: sleep 0.9s
+2026-06-09 04:03:02,519 [INFO] Page 6 | Collected: 0
+2026-06-09 04:03:02,986 [INFO] Pacing: sleep 1.2s
+2026-06-09 04:03:04,185 [INFO] Page 7 | Collected: 0
+2026-06-09 04:03:04,539 [INFO] Pacing: sleep 0.6s
+2026-06-09 04:03:05,147 [INFO] Page 8 | Collected: 0
+2026-06-09 04:03:05,414 [INFO] Pacing: sleep 1.1s
+2026-06-09 04:03:06,480 [INFO] Page 9 | Collected: 0
+2026-06-09 04:03:06,789 [INFO] Pacing: sleep 1.3s
+2026-06-09 04:03:08,113 [INFO] Page 10 | Collected: 0
+2026-06-09 04:03:08,400 [INFO] Pacing: sleep 1.2s
+2026-06-09 04:03:09,605 [INFO] Page 11 | Collected: 250
+2026-06-09 04:03:09,900 [INFO] Pacing: sleep 0.6s
+2026-06-09 04:03:10,547 [INFO] Page 12 | Collected: 250
+2026-06-09 04:03:10,860 [INFO] Pacing: sleep 1.1s
+2026-06-09 04:03:11,989 [INFO] Page 13 | Collected: 250
+2026-06-09 04:03:12,241 [INFO] Pacing: sleep 1.2s
+2026-06-09 04:03:13,481 [INFO] Page 14 | Collected: 250
+2026-06-09 04:03:13,736 [INFO] Pacing: sleep 1.3s
+2026-06-09 04:03:15,000 [INFO] Page 15 | Collected: 250
+2026-06-09 04:03:15,330 [INFO] Pacing: sleep 1.0s
+2026-06-09 04:03:16,302 [INFO] Page 16 | Collected: 250
+2026-06-09 04:03:16,579 [INFO] Pacing: sleep 1.5s
+2026-06-09 04:03:18,069 [INFO] Page 17 | Collected: 250
+2026-06-09 04:03:18,386 [INFO] Pacing: sleep 1.1s
+2026-06-09 04:03:19,497 [INFO] Page 18 | Collected: 250
+2026-06-09 04:03:19,747 [INFO] Pacing: sleep 0.9s
+2026-06-09 04:03:20,640 [INFO] Page 19 | Collected: 250
+2026-06-09 04:03:20,896 [INFO] Pacing: sleep 1.4s
+2026-06-09 04:03:22,337 [INFO] Page 20 | Collected: 250
+2026-06-09 04:03:22,694 [INFO] Pacing: sleep 1.0s
+2026-06-09 04:03:23,706 [INFO] Page 21 | Collected: 500
+2026-06-09 04:03:23,990 [INFO] Pacing: sleep 0.8s
+2026-06-09 04:03:24,813 [INFO] Page 22 | Collected: 500
+2026-06-09 04:03:25,137 [INFO] Pacing: sleep 1.1s
+2026-06-09 04:03:26,263 [INFO] Page 23 | Collected: 500
+2026-06-09 04:03:26,533 [INFO] Pacing: sleep 0.7s
+2026-06-09 04:03:27,239 [INFO] Page 24 | Collected: 500
+2026-06-09 04:03:27,476 [INFO] Pacing: sleep 0.7s
+2026-06-09 04:03:28,138 [INFO] Page 25 | Collected: 500
+2026-06-09 04:03:28,464 [INFO] Pacing: sleep 1.1s
+2026-06-09 04:03:29,590 [INFO] Page 26 | Collected: 500
+2026-06-09 04:03:29,806 [INFO] Pacing: sleep 0.7s
+2026-06-09 04:03:30,547 [INFO] Page 27 | Collected: 500
+2026-06-09 04:03:30,861 [INFO] Pacing: sleep 1.1s
+2026-06-09 04:03:31,975 [INFO] Page 28 | Collected: 500
+2026-06-09 04:03:32,226 [INFO] Pacing: sleep 0.5s
+2026-06-09 04:03:32,759 [INFO] Page 29 | Collected: 500
+2026-06-09 04:03:33,016 [INFO] Pacing: sleep 1.4s
+2026-06-09 04:03:34,404 [INFO] Page 30 | Collected: 500
+2026-06-09 04:03:34,751 [INFO] Pacing: sleep 1.0s
+2026-06-09 04:03:35,791 [INFO] Page 31 | Collected: 750
+2026-06-09 04:03:35,836 [WARNING] Block detected on page 31: HTTP 429
+2026-06-09 04:03:35,836 [INFO] Saved raw HTML for debugging: blocked_0031.html
+2026-06-09 04:03:35,836 [WARNING] Initiating ADAPTIVE THROTTLING. Sleeping 180s, switching to SAFE mode.
+2026-06-09 04:06:35,836 [INFO] Pacing: sleep 58.1s | Short Cooldown: 51.8s
+2026-06-09 04:07:33,971 [INFO] Page 31 | Collected: 750
+2026-06-09 04:07:34,210 [INFO] Pacing: sleep 4.6s
+2026-06-09 04:07:38,827 [INFO] Page 32 | Collected: 750
+2026-06-09 04:07:39,058 [INFO] Pacing: sleep 5.4s
+2026-06-09 04:07:44,439 [INFO] Page 33 | Collected: 750
+2026-06-09 04:07:44,791 [INFO] Pacing: sleep 6.3s
+2026-06-09 04:07:51,055 [INFO] Page 34 | Collected: 750
+2026-06-09 04:07:51,362 [INFO] Pacing: sleep 5.1s
+2026-06-09 04:07:56,476 [INFO] Page 35 | Collected: 750
+2026-06-09 04:07:56,786 [INFO] Pacing: sleep 6.8s
+2026-06-09 04:08:03,543 [INFO] Page 36 | Collected: 750
+2026-06-09 04:08:03,788 [INFO] Pacing: sleep 6.8s
+2026-06-09 04:08:10,601 [INFO] Page 37 | Collected: 750
+2026-06-09 04:08:10,882 [INFO] Pacing: sleep 5.3s
+2026-06-09 04:08:16,138 [INFO] Page 38 | Collected: 750
+2026-06-09 04:08:16,503 [INFO] Pacing: sleep 4.8s
+2026-06-09 04:08:21,331 [INFO] Page 39 | Collected: 750
+2026-06-09 04:08:21,588 [INFO] Pacing: sleep 6.2s
+2026-06-09 04:08:27,790 [INFO] Page 40 | Collected: 750
+2026-06-09 04:08:28,129 [INFO] Pacing: sleep 158.2s | Long Cooldown: 152.5s
+2026-06-09 04:11:06,296 [INFO] Page 41 | Collected: 1000
+2026-06-09 04:11:06,611 [INFO] Pacing: sleep 7.7s
+2026-06-09 04:11:14,351 [INFO] Page 42 | Collected: 1000
+2026-06-09 04:11:14,636 [INFO] Pacing: sleep 7.5s
+2026-06-09 04:11:22,158 [INFO] Page 43 | Collected: 1000
+2026-06-09 04:11:22,487 [INFO] Pacing: sleep 6.7s
+2026-06-09 04:11:29,200 [INFO] Page 44 | Collected: 1000
+2026-06-09 04:11:29,442 [INFO] Pacing: sleep 4.3s
+2026-06-09 04:11:33,748 [INFO] Page 45 | Collected: 1000
+2026-06-09 04:11:34,048 [INFO] Pacing: sleep 6.1s
+2026-06-09 04:11:40,173 [INFO] Page 46 | Collected: 1000
+2026-06-09 04:11:40,414 [INFO] Pacing: sleep 7.9s
+2026-06-09 04:11:48,285 [INFO] Page 47 | Collected: 1000
+2026-06-09 04:11:48,526 [INFO] Pacing: sleep 5.9s
+2026-06-09 04:11:54,397 [INFO] Page 48 | Collected: 1000
+2026-06-09 04:11:54,733 [INFO] Pacing: sleep 5.1s
+2026-06-09 04:11:59,808 [INFO] Page 49 | Collected: 1000
+2026-06-09 04:12:00,033 [INFO] Pacing: sleep 7.6s
+2026-06-09 04:12:07,647 [INFO] Page 50 | Collected: 1000
+2026-06-09 04:12:07,894 [INFO] Pacing: sleep 41.5s | Short Cooldown: 33.8s
+2026-06-09 04:12:49,362 [INFO] Page 51 | Collected: 1250
+2026-06-09 04:12:49,703 [INFO] Pacing: sleep 6.3s
+2026-06-09 04:12:55,958 [INFO] Page 52 | Collected: 1250
+2026-06-09 04:12:56,242 [INFO] Pacing: sleep 4.0s
+2026-06-09 04:13:00,255 [INFO] Page 53 | Collected: 1250
+2026-06-09 04:13:00,621 [INFO] Pacing: sleep 6.5s
+2026-06-09 04:13:07,096 [INFO] Page 54 | Collected: 1250
+2026-06-09 04:13:07,366 [INFO] Pacing: sleep 7.5s
+2026-06-09 04:13:14,895 [INFO] Page 55 | Collected: 1250
+2026-06-09 04:13:15,220 [INFO] Pacing: sleep 4.1s
+2026-06-09 04:13:19,346 [INFO] Page 56 | Collected: 1250
+2026-06-09 04:13:19,716 [INFO] Pacing: sleep 6.1s
+2026-06-09 04:13:25,835 [INFO] Page 57 | Collected: 1250
+2026-06-09 04:13:26,080 [INFO] Pacing: sleep 5.6s
+2026-06-09 04:13:31,703 [INFO] Page 58 | Collected: 1250
+2026-06-09 04:13:32,031 [INFO] Pacing: sleep 6.2s
+2026-06-09 04:13:38,247 [INFO] Page 59 | Collected: 1250
+2026-06-09 04:13:38,494 [INFO] Pacing: sleep 4.6s
+2026-06-09 04:13:43,118 [INFO] Page 60 | Collected: 1250
+2026-06-09 04:13:43,374 [INFO] Pacing: sleep 55.9s | Short Cooldown: 50.6s
+2026-06-09 04:14:39,307 [INFO] Page 61 | Collected: 1500
+2026-06-09 04:14:39,621 [INFO] Pacing: sleep 6.0s
+2026-06-09 04:14:45,665 [INFO] Page 62 | Collected: 1500
+2026-06-09 04:14:45,911 [INFO] Pacing: sleep 5.7s
+2026-06-09 04:14:51,653 [INFO] Page 63 | Collected: 1500
+2026-06-09 04:14:51,978 [INFO] Pacing: sleep 6.8s
+2026-06-09 04:14:58,759 [INFO] Page 64 | Collected: 1500
+2026-06-09 04:14:59,057 [INFO] Pacing: sleep 7.3s
+2026-06-09 04:15:06,382 [INFO] Page 65 | Collected: 1500
+2026-06-09 04:15:06,615 [INFO] Pacing: sleep 6.5s
+2026-06-09 04:15:13,084 [INFO] Page 66 | Collected: 1500
+2026-06-09 04:15:13,415 [INFO] Pacing: sleep 7.7s
+2026-06-09 04:15:21,071 [INFO] Page 67 | Collected: 1500
+2026-06-09 04:15:21,362 [INFO] Pacing: sleep 5.6s
+2026-06-09 04:15:27,000 [INFO] Page 68 | Collected: 1500
+2026-06-09 04:15:27,243 [INFO] Pacing: sleep 5.6s
+2026-06-09 04:15:32,860 [INFO] Page 69 | Collected: 1500
+2026-06-09 04:15:33,191 [INFO] Pacing: sleep 4.3s
+2026-06-09 04:15:37,530 [INFO] Page 70 | Collected: 1500
+2026-06-09 04:15:37,799 [INFO] Pacing: sleep 40.2s | Short Cooldown: 36.0s
+2026-06-09 04:16:17,983 [INFO] Page 71 | Collected: 1750
+2026-06-09 04:16:18,294 [INFO] Pacing: sleep 7.9s
+2026-06-09 04:16:26,171 [INFO] Page 72 | Collected: 1750
+2026-06-09 04:16:26,412 [INFO] Pacing: sleep 7.1s
+2026-06-09 04:16:33,548 [INFO] Page 73 | Collected: 1750
+2026-06-09 04:16:33,780 [INFO] Pacing: sleep 7.5s
+2026-06-09 04:16:41,269 [INFO] Page 74 | Collected: 1750
+2026-06-09 04:16:41,576 [INFO] Pacing: sleep 4.5s
+2026-06-09 04:16:46,042 [INFO] Page 75 | Collected: 1750
+2026-06-09 04:16:46,261 [INFO] Pacing: sleep 7.3s
+2026-06-09 04:16:53,559 [INFO] Page 76 | Collected: 1750
+2026-06-09 04:16:53,903 [INFO] Pacing: sleep 7.4s
+2026-06-09 04:17:01,290 [INFO] Page 77 | Collected: 1750
+2026-06-09 04:17:01,516 [INFO] Pacing: sleep 4.5s
+2026-06-09 04:17:06,066 [INFO] Page 78 | Collected: 1750
+2026-06-09 04:17:06,306 [INFO] Pacing: sleep 4.8s
+2026-06-09 04:17:11,074 [INFO] Page 79 | Collected: 1750
+2026-06-09 04:17:11,453 [INFO] Pacing: sleep 5.0s
+2026-06-09 04:17:16,408 [INFO] Page 80 | Collected: 1750
+2026-06-09 04:17:16,661 [INFO] Pacing: sleep 219.3s | Long Cooldown: 212.9s
+2026-06-09 04:20:55,935 [INFO] Page 81 | Collected: 2000
+2026-06-09 04:20:56,299 [INFO] Pacing: sleep 4.7s
+2026-06-09 04:21:00,981 [INFO] Page 82 | Collected: 2000
+2026-06-09 04:21:01,217 [INFO] Pacing: sleep 7.7s
+2026-06-09 04:21:08,906 [INFO] Page 83 | Collected: 2000
+2026-06-09 04:21:09,138 [INFO] Pacing: sleep 4.9s
+2026-06-09 04:21:14,056 [INFO] Page 84 | Collected: 2000
+2026-06-09 04:21:14,385 [INFO] Pacing: sleep 5.2s
+2026-06-09 04:21:19,557 [INFO] Page 85 | Collected: 2000
+2026-06-09 04:21:19,778 [INFO] Pacing: sleep 4.6s
+2026-06-09 04:21:24,371 [INFO] Page 86 | Collected: 2000
+2026-06-09 04:21:24,619 [INFO] Pacing: sleep 5.2s
+2026-06-09 04:21:29,782 [INFO] Page 87 | Collected: 2000
+2026-06-09 04:21:30,114 [INFO] Pacing: sleep 6.6s
+2026-06-09 04:21:36,750 [INFO] Page 88 | Collected: 2000
+2026-06-09 04:21:36,992 [INFO] Pacing: sleep 6.3s
+2026-06-09 04:21:43,273 [INFO] Page 89 | Collected: 2000
+2026-06-09 04:21:43,592 [INFO] Pacing: sleep 5.8s
+2026-06-09 04:21:49,410 [INFO] Page 90 | Collected: 2000
+2026-06-09 04:21:49,669 [INFO] Pacing: sleep 40.8s | Short Cooldown: 35.9s
+2026-06-09 04:22:30,491 [INFO] Page 91 | Collected: 2250
+2026-06-09 04:22:30,715 [INFO] Pacing: sleep 4.3s
+2026-06-09 04:22:35,003 [INFO] Page 92 | Collected: 2250
+2026-06-09 04:22:35,343 [INFO] Pacing: sleep 7.4s
+2026-06-09 04:22:42,783 [INFO] Page 93 | Collected: 2250
+2026-06-09 04:22:43,042 [INFO] Pacing: sleep 6.5s
+2026-06-09 04:22:49,556 [INFO] Page 94 | Collected: 2250
+2026-06-09 04:22:49,870 [INFO] Pacing: sleep 4.3s
+2026-06-09 04:22:54,124 [INFO] Page 95 | Collected: 2250
+2026-06-09 04:22:54,384 [INFO] Pacing: sleep 5.2s
+2026-06-09 04:22:59,568 [INFO] Page 96 | Collected: 2250
+2026-06-09 04:22:59,820 [INFO] Pacing: sleep 7.6s
+2026-06-09 04:23:07,451 [INFO] Page 97 | Collected: 2250
+2026-06-09 04:23:07,848 [INFO] Pacing: sleep 4.6s
+2026-06-09 04:23:12,465 [INFO] Page 98 | Collected: 2250
+2026-06-09 04:23:12,689 [INFO] Pacing: sleep 7.9s
+2026-06-09 04:23:20,618 [INFO] Page 99 | Collected: 2250
+2026-06-09 04:23:20,935 [INFO] Pacing: sleep 4.2s
+2026-06-09 04:23:25,142 [INFO] Page 100 | Collected: 2250
+2026-06-09 04:23:25,397 [INFO] Pacing: sleep 43.9s | Short Cooldown: 38.4s
+2026-06-09 04:24:09,302 [INFO] Page 101 | Collected: 2500
+2026-06-09 04:24:09,544 [INFO] Pacing: sleep 4.9s
+2026-06-09 04:24:14,435 [INFO] Page 102 | Collected: 2500
+2026-06-09 04:24:14,766 [INFO] Pacing: sleep 4.6s
+2026-06-09 04:24:19,355 [INFO] Page 103 | Collected: 2500
+2026-06-09 04:24:19,644 [INFO] Pacing: sleep 6.4s
+2026-06-09 04:24:26,008 [INFO] Page 104 | Collected: 2500
+2026-06-09 04:24:26,258 [INFO] Pacing: sleep 4.3s
+2026-06-09 04:24:30,573 [INFO] Page 105 | Collected: 2500
+2026-06-09 04:24:30,942 [INFO] Pacing: sleep 6.9s
+2026-06-09 04:24:37,795 [INFO] Page 106 | Collected: 2500
+2026-06-09 04:24:38,063 [INFO] Pacing: sleep 4.4s
+2026-06-09 04:24:42,508 [INFO] Page 107 | Collected: 2500
+2026-06-09 04:24:42,877 [INFO] Pacing: sleep 7.1s
+2026-06-09 04:24:50,006 [INFO] Page 108 | Collected: 2500
+2026-06-09 04:24:50,312 [INFO] Pacing: sleep 5.2s
+2026-06-09 04:24:55,473 [INFO] Page 109 | Collected: 2500
+2026-06-09 04:24:55,729 [INFO] Pacing: sleep 5.1s
+2026-06-09 04:25:00,870 [INFO] Page 110 | Collected: 2500
+2026-06-09 04:25:01,301 [INFO] Pacing: sleep 62.9s | Short Cooldown: 54.9s
+2026-06-09 04:26:04,212 [INFO] Page 111 | Collected: 2750
+2026-06-09 04:26:04,509 [INFO] Pacing: sleep 8.0s
+2026-06-09 04:26:12,482 [INFO] Page 112 | Collected: 2750
+2026-06-09 04:26:12,810 [INFO] Pacing: sleep 6.2s
+2026-06-09 04:26:18,975 [INFO] Page 113 | Collected: 2750
+2026-06-09 04:26:19,255 [INFO] Pacing: sleep 6.4s
+2026-06-09 04:26:25,616 [INFO] Page 114 | Collected: 2750
+2026-06-09 04:26:25,918 [INFO] Pacing: sleep 7.8s
+2026-06-09 04:26:33,732 [INFO] Page 115 | Collected: 2750
+2026-06-09 04:26:34,093 [INFO] Pacing: sleep 5.6s
+2026-06-09 04:26:39,707 [INFO] Page 116 | Collected: 2750
+2026-06-09 04:26:40,026 [INFO] Pacing: sleep 5.0s
+2026-06-09 04:26:45,035 [INFO] Page 117 | Collected: 2750
+2026-06-09 04:26:45,342 [INFO] Pacing: sleep 5.4s
+2026-06-09 04:26:50,731 [INFO] Page 118 | Collected: 2750
+2026-06-09 04:26:51,078 [INFO] Pacing: sleep 7.1s
+2026-06-09 04:26:58,165 [INFO] Page 119 | Collected: 2750
+2026-06-09 04:26:58,428 [INFO] Pacing: sleep 7.8s
+2026-06-09 04:27:06,183 [INFO] Page 120 | Collected: 2750
+2026-06-09 04:27:06,530 [INFO] Crawl stopped. Reason: max_games_reached. Finalizing...
+2026-06-09 04:27:06,530 [INFO] Merging intermediate pages from work_dir: /home/runner/work/steam-diploma/steam-diploma/data/snapshots/data/snapshots/_in_progress/c0f82e29-c4b2-4c35-911e-feb932a9f279
+
+--------------------------------------------------
+FINAL_SNAPSHOT_CSV=data/snapshots/snapshot_main_20260609_040256.csv
+ROWS: 3000
+COLUMNS: ['snapshot_id', 'captured_at_utc', 'rank', 'appid', 'title', 'release_text', 'price_text', 'game_url', 'page_number', 'position_on_page']
+SCHEMA_COMPATIBLE: True
+RANK_SEQUENCE_OK: True
+DUPLICATE_APPIDS: 0
+--------------------------------------------------
+
+2026-06-09 04:27:06,583 [INFO] Total time elapsed: 1450.52s
+2026-06-09 04:27:06,681 [INFO] Snapshot candidates found:
+2026-06-09 04:27:06,681 [INFO]  - snapshot_main_20260331_212827.csv
+2026-06-09 04:27:06,681 [INFO]  - snapshot_main_20260402_134016.csv
+2026-06-09 04:27:06,681 [INFO]  - snapshot_main_20260403_182425.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260408_104841.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260407_170614.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260401_120957.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260401_110251.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260409_105930.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260410_074539.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260409_111021.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260516_122335.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260516_182327.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260516_154629.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260516_182550.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260516_184342.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260518_151114.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260519_163409.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260521_142540.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260520_160747.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260525_163106.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260523_174858.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260526_142355.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260526_170415.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260526_192152.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260527_092427.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260527_072107.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260527_084623.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260528_040815.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260527_155848.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260528_161309.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260529_155430.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260529_041020.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260530_035620.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260530_135202.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260531_042132.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260531_135747.csv
+2026-06-09 04:27:06,682 [INFO]  - snapshot_main_20260601_045029.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260601_175328.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260602_043945.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260602_164415.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260603_044822.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260603_170047.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260604_044245.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260604_152916.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260605_041707.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260605_151927.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260606_135550.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260606_035940.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260607_042605.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260607_140600.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260608_044212.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260608_160425.csv
+2026-06-09 04:27:06,683 [INFO]  - snapshot_main_20260609_040256.csv
+2026-06-09 04:27:06,683 [INFO] Selected Old Snapshot: snapshot_main_20260608_160425.csv
+2026-06-09 04:27:06,683 [INFO] Selected New Snapshot: snapshot_main_20260609_040256.csv
+2026-06-09 04:27:06,683 [INFO] [COMPARATOR] Executing: /opt/hostedtoolcache/Python/3.11.15/x64/bin/python src/compare_snapshots.py --snapshot-dir data/snapshots --latest-n 2 --outdir data/comparisons/comparison_20260609_040255 --top-limit 3000
+2026-06-09 04:27:08,294 [INFO] [COMPARATOR] STDOUT:
+[INFO] Selected snapshots:
+  2026-06-08T16:04:25.956100+00:00 -> snapshot_main_20260608_160425.csv
+  2026-06-09T04:02:56.069184+00:00 -> snapshot_main_20260609_040256.csv
+
+============================================================
+ STEAM RANKING LONGITUDINAL COMPARISON REPORT
+============================================================
+Snapshots Compared : 2
+Start Window       : 2026-06-08T16:04:25.956100+00:00
+End Window         : 2026-06-09T04:02:56.069184+00:00
+------------------------------------------------------------
+Games Present in Both : 2990
+New Entries Found     : 10
+Dropped Entries       : 9
+------------------------------------------------------------
+Moved Up   : 449
+Moved Down : 2290
+Stable     : 251
+------------------------------------------------------------
+Upward Spikes   : 141
+Downward Spikes : 0
+Price Changes   : 5
+Release Changes : 13
+------------------------------------------------------------
+Biggest Up : +451 ranks | Age of Empires IV: Raiders of the North (4336170)
+
+NOTABLE PRICE/RELEASE CHANGES (First 5):
+[2584400] Beaten Path
+   Price: 'Unpriced (Coming Soon)' -> 'Free'
+   Release: '2026' -> 'Coming soon'
+[4465980] The Declutterers : No Dumpster
+   Release: 'Q2 2026' -> 'Coming soon'
+[2776270] Beetleball
+   Release: 'July 2026' -> 'Jul 30, 2026'
+[3694190] Deep Pixel Melancholy
+   Release: 'Q3 2026' -> '2026'
+[2387670] As One We Survive
+   Price: 'Unpriced (Coming Soon)' -> 'Free'
+   Release: 'Q2 2026' -> 'Q1 2027'
+
+Outputs and charts saved successfully.
+2026-06-09 04:27:08,294 [WARNING] [COMPARATOR] STDERR:
+2026-06-09 04:27:07 [INFO] Comparison output directory: data/comparisons/comparison_20260609_040255
+2026-06-09 04:27:07 [INFO] Loading 2 DataFrames...
+2026-06-09 04:27:07 [INFO] --- Validation: File 1 (snapshot_main_20260608_160425.csv) ---
+2026-06-09 04:27:07 [INFO] Total rows: 2999
+2026-06-09 04:27:07 [INFO] --- Validation: File 2 (snapshot_main_20260609_040256.csv) ---
+2026-06-09 04:27:07 [INFO] Total rows: 3000
+2026-06-09 04:27:07 [INFO] Analyzing snapshots across time...
+2026-06-09 04:27:07 [INFO] Generating charts...
+2026-06-09 04:27:08 [INFO] Generated rank movement diagram at: data/comparisons/comparison_20260609_040255/trajectory_chart.png
+2026-06-09 04:27:08 [INFO] Writing outputs to data/comparisons/comparison_20260609_040255...
+2026-06-09 04:27:08,294 [INFO] Selected Comparison Folder: comparison_20260609_040255
+2026-06-09 04:27:08,294 [INFO] Selected Top Movers CSV: spikes_up.csv
+2026-06-09 04:27:08,295 [INFO] [SPIKE_EXPLAINER] Executing: /opt/hostedtoolcache/Python/3.11.15/x64/bin/python src/spike_explainer.py --diff-csv latest --comparisons-dir data/comparisons --output-dir data/spike_explainer --top-n 1 --old-snapshot-date 2026-06-06 --new-snapshot-date 2026-06-09 --search-provider tavily --tavily-api-key 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 --youtube-api-key AIzaSyBM5eMXToJ0uBkMDxEmTP2Is9DMDonKqt8
+2026-06-09 04:27:25,619 [WARNING] [SPIKE_EXPLAINER] STDERR:
+2026-06-09 04:27:08 [INFO] Starting Daily Spike Explainer Prototype...
+2026-06-09 04:27:08 [INFO] Using latest comparison folder: data/comparisons/comparison_20260609_040255
+2026-06-09 04:27:08 [INFO] Using diff CSV: data/comparisons/comparison_20260609_040255/rank_changes.csv
+2026-06-09 04:27:08 [INFO] Analyzing Top Spike: [4336170] Age of Empires IV: Raiders of the North (+451 ranks)
+2026-06-09 04:27:25 [INFO] Daily Prototype Run Complete. Evaluated 1 spikes. Errors: 0
+2026-06-09 04:27:25,619 [INFO] [LLM_GENERATOR] Executing: /opt/hostedtoolcache/Python/3.11.15/x64/bin/python src/llm_report_generator.py --provider gemini --language ru --input-dir data/spike_explainer --input-folder data/spike_explainer/2026-06-09__appid_4336170__rank_2728_to_2277__up_451 --model gemini-2.5-flash --overwrite
+2026-06-09 04:27:27,303 [WARNING] [LLM_GENERATOR] STDERR:
+2026-06-09 04:27:25 [INFO] Starting LLM Report Generator (Provider: gemini)
+2026-06-09 04:27:25 [INFO] [MODE] single folder
+2026-06-09 04:27:25 [INFO] Found 1 valid targets to process.
+2026-06-09 04:27:25 [INFO] Processing: [4336170] Age of Empires IV: Raiders of the North
+2026-06-09 04:27:25 [INFO] Sending request to provider: gemini
+2026-06-09 04:27:26 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-09 04:27:27 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-06-09 04:27:27 [ERROR] Failed to process 2026-06-09__appid_4336170__rank_2728_to_2277__up_451: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-06-09 04:27:27 [INFO] Finished. Processed: 1 | Errors: 1
+2026-06-09 04:27:27,303 [INFO] ==================================================
+2026-06-09 04:27:27,303 [INFO] PIPELINE RUN COMPLETE
+2026-06-09 04:27:27,303 [INFO] ==================================================
+2026-06-09 04:27:27,303 [INFO] Log File Saved: logs/pipeline_run_20260609_040255.log
+2026-06-09 04:27:27,303 [INFO] Latest Snapshot: data/snapshots/snapshot_main_20260609_040256.csv
+2026-06-09 04:27:27,303 [INFO] Top Movers CSV: data/comparisons/comparison_20260609_040255/spikes_up.csv
+2026-06-09 04:27:27,303 [INFO] Spike Explainer Dir: data/spike_explainer
+2026-06-09 04:27:27,303 [INFO] ==================================================

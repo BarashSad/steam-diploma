@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-08T16:29:11.382195+00:00,3247960,Bergfried,data/spike_explainer/2026-06-08__appid_3247960__rank_2789_to_1935__up_854,854,85,data/spike_explainer/2026-06-08__appid_3247960__rank_2789_to_1935__up_854/llm_summary_input.md
+2026-06-09T04:27:08.682781+00:00,4336170,Age of Empires IV: Raiders of the North,data/spike_explainer/2026-06-09__appid_4336170__rank_2728_to_2277__up_451,451,85,data/spike_explainer/2026-06-09__appid_4336170__rank_2728_to_2277__up_451/llm_summary_input.md

@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4336170,Age of Empires IV: Raiders of the North,"""Age of Empires IV: Raiders of the North"" Steam",general,1,tavily,True,,5
+4336170,Age of Empires IV: Raiders of the North,"""Age of Empires IV: Raiders of the North"" trailer",general,1,tavily,True,,5
+4336170,Age of Empires IV: Raiders of the North,"""Age of Empires IV: Raiders of the North"" gameplay",general,1,tavily,True,,5
+4336170,Age of Empires IV: Raiders of the North,"""Age of Empires IV: Raiders of the North"" demo",general,1,tavily,True,,5
+4336170,Age of Empires IV: Raiders of the North,"""Age of Empires IV: Raiders of the North"" release date",general,1,tavily,True,,5
+4336170,Age of Empires IV: Raiders of the North,"""Age of Empires IV: Raiders of the North"" announcement",general,1,tavily,True,,5
+4336170,Age of Empires IV: Raiders of the North,"""Age of Empires IV: Raiders of the North"" preview",general,1,tavily,True,,5
+4336170,Age of Empires IV: Raiders of the North,"""Age of Empires IV: Raiders of the North"" review",general,1,tavily,True,,5
+4336170,Age of Empires IV: Raiders of the North,"""Age of Empires IV: Raiders of the North"" publisher",general,1,tavily,True,,5
+4336170,Age of Empires IV: Raiders of the North,"""Age of Empires IV: Raiders of the North"" developer",general,1,tavily,True,,5
+4336170,Age of Empires IV: Raiders of the North,"site:pcgamer.com ""Age of Empires IV: Raiders of the North""",press,2,tavily,False,General budget exhausted,0
+4336170,Age of Empires IV: Raiders of the North,"site:rockpapershotgun.com ""Age of Empires IV: Raiders of the North""",press,2,tavily,False,General budget exhausted,0
+4336170,Age of Empires IV: Raiders of the North,"site:ign.com ""Age of Empires IV: Raiders of the North""",press,2,tavily,False,General budget exhausted,0
+4336170,Age of Empires IV: Raiders of the North,"site:gamespot.com ""Age of Empires IV: Raiders of the North""",press,2,tavily,False,General budget exhausted,0
+4336170,Age of Empires IV: Raiders of the North,"site:game8.co ""Age of Empires IV: Raiders of the North""",press,2,tavily,False,General budget exhausted,0
+4336170,Age of Empires IV: Raiders of the North,"site:reddit.com ""Age of Empires IV: Raiders of the North""",social,3,tavily,True,,5
+4336170,Age of Empires IV: Raiders of the North,"site:tiktok.com ""Age of Empires IV: Raiders of the North""",social,4,tavily,True,,5
+4336170,Age of Empires IV: Raiders of the North,"site:instagram.com ""Age of Empires IV: Raiders of the North""",social,4,tavily,True,,5
+4336170,Age of Empires IV: Raiders of the North,"site:x.com ""Age of Empires IV: Raiders of the North""",social,4,tavily,True,,5
+4336170,Age of Empires IV: Raiders of the North,"site: ""Age of Empires IV: Raiders of the North""",social,4,tavily,True,,5
