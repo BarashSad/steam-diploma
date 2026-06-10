@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-10T16:14:38.751348+00:00",
+    "timestamp": "20260610_161438",
+    "input_file": "data/spike_explainer/2026-06-10__appid_2676350__rank_2779_to_2287__up_492/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-10__appid_2676350__rank_2779_to_2287__up_492/llm_outputs/gemini_20260610_161438.md",
+    "game_title": "Pikuniku 2",
+    "appid": "2676350",
+    "duration_sec": 18.49,
+    "response_length": 5183,
+    "error": null
+}

@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Muramasa: Revenant Blades
+Analyzed: Pikuniku 2
 Tavily Budget Used: 15
 Errors: 0

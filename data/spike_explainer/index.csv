@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-10T04:36:48.920546+00:00,4253770,Muramasa: Revenant Blades,data/spike_explainer/2026-06-10__appid_4253770__rank_2399_to_917__up_1482,1482,90,data/spike_explainer/2026-06-10__appid_4253770__rank_2399_to_917__up_1482/llm_summary_input.md
+2026-06-10T16:14:21.957153+00:00,2676350,Pikuniku 2,data/spike_explainer/2026-06-10__appid_2676350__rank_2779_to_2287__up_492,492,85,data/spike_explainer/2026-06-10__appid_2676350__rank_2779_to_2287__up_492/llm_summary_input.md
