@@ -1,0 +1,19 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4414620,Book Nook,Book Nook,1803,1746,57,57,up,upward_spike,Free,Unpriced (Coming Soon),True,Coming soon,2026,True
+4004820,FreeStyle Football 2,FreeStyle Football 2,2793,2746,47,47,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,Q4 2026,True
+672890,Sparkball,Sparkball,2480,2489,-9,9,down,none,Free,Unpriced (Coming Soon),True,Q2 2026,Q2 2026,False
+2054520,Gawr Gura: Quest for Bread,Gawr Gura: Quest for Bread,2735,2744,-9,9,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,July 2026,True
+2477710,Nimbit Frontier,Nimbit Frontier,2278,2284,-6,6,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,August 2026,True
+3846580,Lost in Tandem,Lost in Tandem,2963,2957,6,6,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Jul 22, 2026",True
+3560670,OpenFront,OpenFront,473,468,5,5,up,none,Free,Unpriced (Coming Soon),True,2026,2026,False
+3738830,Bodycam Onrecord,Bodycam Onrecord,2274,2278,-4,4,down,none,Free,Unpriced (Coming Soon),True,Coming soon,"Jul 17, 2026",True
+2514330,The Rabbit Haul,The Rabbit Haul,2036,2039,-3,3,down,none,Free,Unpriced (Coming Soon),True,Coming soon,2026,True
+3152750,Taival,Taival,2708,2711,-3,3,down,none,Free,Unpriced (Coming Soon),True,Coming soon,2026,True
+4335460,BOXROOM,BOXROOM,771,773,-2,2,down,none,Free,Unpriced (Coming Soon),True,Coming soon,"Jun 11, 2026",True
+1431300,SAND: Raiders of Sophie,SAND: Raiders of Sophie,36,37,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jun 10, 2026","Jun 22, 2026",True
+3712080,Funnel Runners,Funnel Runners,320,321,-1,1,down,none,Unpriced (Coming Soon),Free,True,Q2 2026,Coming soon,True
+2420570,Portal BAGLEY,Portal BAGLEY,816,817,-1,1,down,none,Free,Unpriced (Coming Soon),True,To be announced,To be announced,False
+3866080,Stick A Round,Stick A Round,1873,1874,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,2026,True
+2963950,Persona 4 Revival,Persona 4 Revival,21,21,0,0,stable,none,$69.99,$69.99,False,"Feb 18, 2027","Feb 17, 2027",True
+3558600,Leafy Corner,Leafy Corner,809,809,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Jul 30, 2026",True
+1722800,Colossus - Eternal Blight,Colossus - Eternal Blight,2933,2933,0,0,stable,none,Unpriced (Coming Soon),Free,True,To be announced,Coming soon,True

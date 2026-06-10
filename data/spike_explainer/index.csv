@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-09T15:42:40.650366+00:00,3688240,Pipes.exe,data/spike_explainer/2026-06-09__appid_3688240__rank_2703_to_2408__up_295,295,85,data/spike_explainer/2026-06-09__appid_3688240__rank_2703_to_2408__up_295/llm_summary_input.md
+2026-06-10T04:36:48.920546+00:00,4253770,Muramasa: Revenant Blades,data/spike_explainer/2026-06-10__appid_4253770__rank_2399_to_917__up_1482,1482,90,data/spike_explainer/2026-06-10__appid_4253770__rank_2399_to_917__up_1482/llm_summary_input.md

@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Pipes.exe
+Analyzed: Muramasa: Revenant Blades
 Tavily Budget Used: 15
 Errors: 0

@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4253770,Muramasa: Revenant Blades,"""Muramasa: Revenant Blades"" Steam",general,1,tavily,True,,5
+4253770,Muramasa: Revenant Blades,"""Muramasa: Revenant Blades"" trailer",general,1,tavily,True,,5
+4253770,Muramasa: Revenant Blades,"""Muramasa: Revenant Blades"" gameplay",general,1,tavily,True,,5
+4253770,Muramasa: Revenant Blades,"""Muramasa: Revenant Blades"" demo",general,1,tavily,True,,5
+4253770,Muramasa: Revenant Blades,"""Muramasa: Revenant Blades"" release date",general,1,tavily,True,,5
+4253770,Muramasa: Revenant Blades,"""Muramasa: Revenant Blades"" announcement",general,1,tavily,True,,5
+4253770,Muramasa: Revenant Blades,"""Muramasa: Revenant Blades"" preview",general,1,tavily,True,,5
+4253770,Muramasa: Revenant Blades,"""Muramasa: Revenant Blades"" review",general,1,tavily,True,,5
+4253770,Muramasa: Revenant Blades,"""Muramasa: Revenant Blades"" publisher",general,1,tavily,True,,5
+4253770,Muramasa: Revenant Blades,"""Muramasa: Revenant Blades"" developer",general,1,tavily,True,,5
+4253770,Muramasa: Revenant Blades,"site:pcgamer.com ""Muramasa: Revenant Blades""",press,2,tavily,False,General budget exhausted,0
+4253770,Muramasa: Revenant Blades,"site:rockpapershotgun.com ""Muramasa: Revenant Blades""",press,2,tavily,False,General budget exhausted,0
+4253770,Muramasa: Revenant Blades,"site:ign.com ""Muramasa: Revenant Blades""",press,2,tavily,False,General budget exhausted,0
+4253770,Muramasa: Revenant Blades,"site:gamespot.com ""Muramasa: Revenant Blades""",press,2,tavily,False,General budget exhausted,0
+4253770,Muramasa: Revenant Blades,"site:game8.co ""Muramasa: Revenant Blades""",press,2,tavily,False,General budget exhausted,0
+4253770,Muramasa: Revenant Blades,"site:reddit.com ""Muramasa: Revenant Blades""",social,3,tavily,True,,4
+4253770,Muramasa: Revenant Blades,"site:tiktok.com ""Muramasa: Revenant Blades""",social,4,tavily,True,,5
+4253770,Muramasa: Revenant Blades,"site:instagram.com ""Muramasa: Revenant Blades""",social,4,tavily,True,,5
+4253770,Muramasa: Revenant Blades,"site:x.com ""Muramasa: Revenant Blades""",social,4,tavily,True,,5
+4253770,Muramasa: Revenant Blades,"site: ""Muramasa: Revenant Blades""",social,4,tavily,True,,5

@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-06-09T15:42:56.353066+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260609_151720/rank_changes.csv",
-    "selected_appid": "3688240",
-    "selected_game_title": "Pipes.exe",
+    "started_at": "2026-06-10T04:37:01.547497+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260610_041422/rank_changes.csv",
+    "selected_appid": "4253770",
+    "selected_game_title": "Muramasa: Revenant Blades",
     "top_n": 1,
-    "old_snapshot_date": "2026-06-06",
-    "new_snapshot_date": "2026-06-09",
+    "old_snapshot_date": "2026-06-07",
+    "new_snapshot_date": "2026-06-10",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-09T15:42:56.353079+00:00",
+    "finished_at": "2026-06-10T04:37:01.547540+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
