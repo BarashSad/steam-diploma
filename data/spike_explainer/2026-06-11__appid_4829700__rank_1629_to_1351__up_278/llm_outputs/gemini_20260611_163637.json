@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-11T16:36:37.120421+00:00",
+    "timestamp": "20260611_163637",
+    "input_file": "data/spike_explainer/2026-06-11__appid_4829700__rank_1629_to_1351__up_278/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-11__appid_4829700__rank_1629_to_1351__up_278/llm_outputs/gemini_20260611_163637.md",
+    "game_title": "Monster Hunter Wilds: Ascendance",
+    "appid": "4829700",
+    "duration_sec": 22.64,
+    "response_length": 5799,
+    "error": null
+}

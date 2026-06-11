@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-11T04:51:48.935722+00:00,4829700,Monster Hunter Wilds: Ascendance,data/spike_explainer/2026-06-11__appid_4829700__rank_2379_to_1629__up_750,750,70,data/spike_explainer/2026-06-11__appid_4829700__rank_2379_to_1629__up_750/llm_summary_input.md
+2026-06-11T16:36:20.753478+00:00,4829700,Monster Hunter Wilds: Ascendance,data/spike_explainer/2026-06-11__appid_4829700__rank_1629_to_1351__up_278,278,70,data/spike_explainer/2026-06-11__appid_4829700__rank_1629_to_1351__up_278/llm_summary_input.md
