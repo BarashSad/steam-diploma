@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-06-10T16:14:38.647390+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260610_155133/rank_changes.csv",
-    "selected_appid": "2676350",
-    "selected_game_title": "Pikuniku 2",
+    "started_at": "2026-06-11T04:52:08.518608+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260611_042644/rank_changes.csv",
+    "selected_appid": "4829700",
+    "selected_game_title": "Monster Hunter Wilds: Ascendance",
     "top_n": 1,
-    "old_snapshot_date": "2026-06-07",
-    "new_snapshot_date": "2026-06-10",
+    "old_snapshot_date": "2026-06-08",
+    "new_snapshot_date": "2026-06-11",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-10T16:14:38.647404+00:00",
+    "finished_at": "2026-06-11T04:52:08.518631+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4829700,Monster Hunter Wilds: Ascendance,"""Monster Hunter Wilds: Ascendance"" Steam",general,1,tavily,True,,5
+4829700,Monster Hunter Wilds: Ascendance,"""Monster Hunter Wilds: Ascendance"" trailer",general,1,tavily,True,,5
+4829700,Monster Hunter Wilds: Ascendance,"""Monster Hunter Wilds: Ascendance"" gameplay",general,1,tavily,True,,5
+4829700,Monster Hunter Wilds: Ascendance,"""Monster Hunter Wilds: Ascendance"" demo",general,1,tavily,True,,5
+4829700,Monster Hunter Wilds: Ascendance,"""Monster Hunter Wilds: Ascendance"" release date",general,1,tavily,True,,5
+4829700,Monster Hunter Wilds: Ascendance,"""Monster Hunter Wilds: Ascendance"" announcement",general,1,tavily,True,,5
+4829700,Monster Hunter Wilds: Ascendance,"""Monster Hunter Wilds: Ascendance"" preview",general,1,tavily,True,,5
+4829700,Monster Hunter Wilds: Ascendance,"""Monster Hunter Wilds: Ascendance"" review",general,1,tavily,True,,5
+4829700,Monster Hunter Wilds: Ascendance,"""Monster Hunter Wilds: Ascendance"" publisher",general,1,tavily,True,,5
+4829700,Monster Hunter Wilds: Ascendance,"""Monster Hunter Wilds: Ascendance"" developer",general,1,tavily,True,,5
+4829700,Monster Hunter Wilds: Ascendance,"site:pcgamer.com ""Monster Hunter Wilds: Ascendance""",press,2,tavily,False,General budget exhausted,0
+4829700,Monster Hunter Wilds: Ascendance,"site:rockpapershotgun.com ""Monster Hunter Wilds: Ascendance""",press,2,tavily,False,General budget exhausted,0
+4829700,Monster Hunter Wilds: Ascendance,"site:ign.com ""Monster Hunter Wilds: Ascendance""",press,2,tavily,False,General budget exhausted,0
+4829700,Monster Hunter Wilds: Ascendance,"site:gamespot.com ""Monster Hunter Wilds: Ascendance""",press,2,tavily,False,General budget exhausted,0
+4829700,Monster Hunter Wilds: Ascendance,"site:game8.co ""Monster Hunter Wilds: Ascendance""",press,2,tavily,False,General budget exhausted,0
+4829700,Monster Hunter Wilds: Ascendance,"site:reddit.com ""Monster Hunter Wilds: Ascendance""",social,3,tavily,True,,5
+4829700,Monster Hunter Wilds: Ascendance,"site:tiktok.com ""Monster Hunter Wilds: Ascendance""",social,4,tavily,True,,5
+4829700,Monster Hunter Wilds: Ascendance,"site:instagram.com ""Monster Hunter Wilds: Ascendance""",social,4,tavily,True,,4
+4829700,Monster Hunter Wilds: Ascendance,"site:x.com ""Monster Hunter Wilds: Ascendance""",social,4,tavily,True,,5
+4829700,Monster Hunter Wilds: Ascendance,"site: ""Monster Hunter Wilds: Ascendance""",social,4,tavily,True,,5
