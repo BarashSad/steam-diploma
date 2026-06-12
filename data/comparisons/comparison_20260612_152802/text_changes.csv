@@ -1,0 +1,9 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+1617120,Good Heavens!,Good Heavens!,2285,2272,13,13,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,July 2026,August 2026,True
+3886530,Westlanders,Westlanders,414,410,4,4,up,none,Unpriced (Coming Soon),Free,True,2026,2027,True
+1040240,Transformice Adventures,Transformice Adventures,1786,1784,2,2,up,none,Unpriced (Coming Soon),Free,True,To be announced,To be announced,False
+3683940,Replay Value: Second Hand Games,Replay Value: Second Hand Games,2719,2717,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Jul 14, 2026",True
+2219390,Imperial Ambitions,Imperial Ambitions,2101,2102,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Jul 13, 2026",True
+1940080,Rooted,Rooted,29,29,0,0,stable,none,Unpriced (Coming Soon),Free,True,To be announced,2027,True
+1501310,The Ranchers,The Ranchers,155,155,0,0,stable,none,Free,Unpriced (Coming Soon),True,Coming soon,"Jul 30, 2026",True
+3444260,NeverLight,NeverLight,2874,2874,0,0,stable,none,Unpriced (Coming Soon),Free,True,2026,Coming soon,True

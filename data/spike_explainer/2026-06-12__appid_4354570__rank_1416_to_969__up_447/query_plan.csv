@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4354570,FINAL FANTASY VII REVELATION,"""FINAL FANTASY VII REVELATION"" Steam",general,1,tavily,True,,5
+4354570,FINAL FANTASY VII REVELATION,"""FINAL FANTASY VII REVELATION"" trailer",general,1,tavily,True,,5
+4354570,FINAL FANTASY VII REVELATION,"""FINAL FANTASY VII REVELATION"" gameplay",general,1,tavily,True,,5
+4354570,FINAL FANTASY VII REVELATION,"""FINAL FANTASY VII REVELATION"" demo",general,1,tavily,True,,5
+4354570,FINAL FANTASY VII REVELATION,"""FINAL FANTASY VII REVELATION"" release date",general,1,tavily,True,,5
+4354570,FINAL FANTASY VII REVELATION,"""FINAL FANTASY VII REVELATION"" announcement",general,1,tavily,True,,5
+4354570,FINAL FANTASY VII REVELATION,"""FINAL FANTASY VII REVELATION"" preview",general,1,tavily,True,,5
+4354570,FINAL FANTASY VII REVELATION,"""FINAL FANTASY VII REVELATION"" review",general,1,tavily,True,,5
+4354570,FINAL FANTASY VII REVELATION,"""FINAL FANTASY VII REVELATION"" publisher",general,1,tavily,True,,5
+4354570,FINAL FANTASY VII REVELATION,"""FINAL FANTASY VII REVELATION"" developer",general,1,tavily,True,,5
+4354570,FINAL FANTASY VII REVELATION,"site:pcgamer.com ""FINAL FANTASY VII REVELATION""",press,2,tavily,False,General budget exhausted,0
+4354570,FINAL FANTASY VII REVELATION,"site:rockpapershotgun.com ""FINAL FANTASY VII REVELATION""",press,2,tavily,False,General budget exhausted,0
+4354570,FINAL FANTASY VII REVELATION,"site:ign.com ""FINAL FANTASY VII REVELATION""",press,2,tavily,False,General budget exhausted,0
+4354570,FINAL FANTASY VII REVELATION,"site:gamespot.com ""FINAL FANTASY VII REVELATION""",press,2,tavily,False,General budget exhausted,0
+4354570,FINAL FANTASY VII REVELATION,"site:game8.co ""FINAL FANTASY VII REVELATION""",press,2,tavily,False,General budget exhausted,0
+4354570,FINAL FANTASY VII REVELATION,"site:reddit.com ""FINAL FANTASY VII REVELATION""",social,3,tavily,True,,5
+4354570,FINAL FANTASY VII REVELATION,"site:tiktok.com ""FINAL FANTASY VII REVELATION""",social,4,tavily,True,,5
+4354570,FINAL FANTASY VII REVELATION,"site:instagram.com ""FINAL FANTASY VII REVELATION""",social,4,tavily,True,,5
+4354570,FINAL FANTASY VII REVELATION,"site:x.com ""FINAL FANTASY VII REVELATION""",social,4,tavily,True,,5
+4354570,FINAL FANTASY VII REVELATION,"site: ""FINAL FANTASY VII REVELATION""",social,4,tavily,True,,5

@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Pikuniku 2
+Analyzed: FINAL FANTASY VII REVELATION
 Tavily Budget Used: 15
 Errors: 0

@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-12T05:04:21.575279+00:00,2676350,Pikuniku 2,data/spike_explainer/2026-06-12__appid_2676350__rank_1870_to_1602__up_268,268,85,data/spike_explainer/2026-06-12__appid_2676350__rank_1870_to_1602__up_268/llm_summary_input.md
+2026-06-12T15:53:30.107284+00:00,4354570,FINAL FANTASY VII REVELATION,data/spike_explainer/2026-06-12__appid_4354570__rank_1416_to_969__up_447,447,70,data/spike_explainer/2026-06-12__appid_4354570__rank_1416_to_969__up_447/llm_summary_input.md

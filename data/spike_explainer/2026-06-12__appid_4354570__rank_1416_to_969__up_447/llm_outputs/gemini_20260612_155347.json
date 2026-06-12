@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-12T15:53:47.324263+00:00",
+    "timestamp": "20260612_155347",
+    "input_file": "data/spike_explainer/2026-06-12__appid_4354570__rank_1416_to_969__up_447/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-12__appid_4354570__rank_1416_to_969__up_447/llm_outputs/gemini_20260612_155347.md",
+    "game_title": "FINAL FANTASY VII REVELATION",
+    "appid": "4354570",
+    "duration_sec": 26.6,
+    "response_length": 7369,
+    "error": null
+}

@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-06-12T05:04:36.978457+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260612_043924/rank_changes.csv",
-    "selected_appid": "2676350",
-    "selected_game_title": "Pikuniku 2",
+    "started_at": "2026-06-12T15:53:47.224034+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260612_152802/rank_changes.csv",
+    "selected_appid": "4354570",
+    "selected_game_title": "FINAL FANTASY VII REVELATION",
     "top_n": 1,
     "old_snapshot_date": "2026-06-09",
     "new_snapshot_date": "2026-06-12",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-12T05:04:36.978472+00:00",
+    "finished_at": "2026-06-12T15:53:47.224056+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
