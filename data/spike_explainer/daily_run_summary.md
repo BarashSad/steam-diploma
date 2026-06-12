@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Monster Hunter Wilds: Ascendance
+Analyzed: Pikuniku 2
 Tavily Budget Used: 15
 Errors: 0
