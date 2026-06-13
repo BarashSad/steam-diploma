@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-13T04:41:21.238360+00:00",
+    "timestamp": "20260613_044121",
+    "input_file": "data/spike_explainer/2026-06-13__appid_3453910__rank_2395_to_1912__up_483/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-13__appid_3453910__rank_2395_to_1912__up_483/llm_outputs/gemini_20260613_044121.md",
+    "game_title": "Happy's Humble BURGATORY",
+    "appid": "3453910",
+    "duration_sec": 20.85,
+    "response_length": 5702,
+    "error": null
+}

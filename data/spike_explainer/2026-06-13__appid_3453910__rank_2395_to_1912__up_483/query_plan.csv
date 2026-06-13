@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3453910,Happy's Humble BURGATORY,"""Happy's Humble BURGATORY"" Steam",general,1,tavily,True,,5
+3453910,Happy's Humble BURGATORY,"""Happy's Humble BURGATORY"" trailer",general,1,tavily,True,,5
+3453910,Happy's Humble BURGATORY,"""Happy's Humble BURGATORY"" gameplay",general,1,tavily,True,,5
+3453910,Happy's Humble BURGATORY,"""Happy's Humble BURGATORY"" demo",general,1,tavily,True,,5
+3453910,Happy's Humble BURGATORY,"""Happy's Humble BURGATORY"" release date",general,1,tavily,True,,5
+3453910,Happy's Humble BURGATORY,"""Happy's Humble BURGATORY"" announcement",general,1,tavily,True,,5
+3453910,Happy's Humble BURGATORY,"""Happy's Humble BURGATORY"" preview",general,1,tavily,True,,5
+3453910,Happy's Humble BURGATORY,"""Happy's Humble BURGATORY"" review",general,1,tavily,True,,5
+3453910,Happy's Humble BURGATORY,"""Happy's Humble BURGATORY"" publisher",general,1,tavily,True,,5
+3453910,Happy's Humble BURGATORY,"""Happy's Humble BURGATORY"" developer",general,1,tavily,True,,5
+3453910,Happy's Humble BURGATORY,"site:pcgamer.com ""Happy's Humble BURGATORY""",press,2,tavily,False,General budget exhausted,0
+3453910,Happy's Humble BURGATORY,"site:rockpapershotgun.com ""Happy's Humble BURGATORY""",press,2,tavily,False,General budget exhausted,0
+3453910,Happy's Humble BURGATORY,"site:ign.com ""Happy's Humble BURGATORY""",press,2,tavily,False,General budget exhausted,0
+3453910,Happy's Humble BURGATORY,"site:gamespot.com ""Happy's Humble BURGATORY""",press,2,tavily,False,General budget exhausted,0
+3453910,Happy's Humble BURGATORY,"site:game8.co ""Happy's Humble BURGATORY""",press,2,tavily,False,General budget exhausted,0
+3453910,Happy's Humble BURGATORY,"site:reddit.com ""Happy's Humble BURGATORY""",social,3,tavily,True,,5
+3453910,Happy's Humble BURGATORY,"site:tiktok.com ""Happy's Humble BURGATORY""",social,4,tavily,True,,5
+3453910,Happy's Humble BURGATORY,"site:instagram.com ""Happy's Humble BURGATORY""",social,4,tavily,True,,5
+3453910,Happy's Humble BURGATORY,"site:x.com ""Happy's Humble BURGATORY""",social,4,tavily,True,,5
+3453910,Happy's Humble BURGATORY,"site: ""Happy's Humble BURGATORY""",social,4,tavily,True,,5

@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-06-12T15:53:47.224034+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260612_152802/rank_changes.csv",
-    "selected_appid": "4354570",
-    "selected_game_title": "FINAL FANTASY VII REVELATION",
+    "started_at": "2026-06-13T04:41:21.131941+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260613_041811/rank_changes.csv",
+    "selected_appid": "3453910",
+    "selected_game_title": "Happy's Humble BURGATORY",
     "top_n": 1,
-    "old_snapshot_date": "2026-06-09",
-    "new_snapshot_date": "2026-06-12",
+    "old_snapshot_date": "2026-06-10",
+    "new_snapshot_date": "2026-06-13",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-12T15:53:47.224056+00:00",
+    "finished_at": "2026-06-13T04:41:21.131983+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
