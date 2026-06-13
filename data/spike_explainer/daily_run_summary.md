@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Happy's Humble BURGATORY
+Analyzed: Medieval Dynasty - The Backwood
 Tavily Budget Used: 15
 Errors: 0

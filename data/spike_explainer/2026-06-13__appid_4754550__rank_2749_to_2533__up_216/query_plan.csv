@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4754550,Medieval Dynasty - The Backwood,"""Medieval Dynasty - The Backwood"" Steam",general,1,tavily,True,,5
+4754550,Medieval Dynasty - The Backwood,"""Medieval Dynasty - The Backwood"" trailer",general,1,tavily,True,,5
+4754550,Medieval Dynasty - The Backwood,"""Medieval Dynasty - The Backwood"" gameplay",general,1,tavily,True,,5
+4754550,Medieval Dynasty - The Backwood,"""Medieval Dynasty - The Backwood"" demo",general,1,tavily,True,,5
+4754550,Medieval Dynasty - The Backwood,"""Medieval Dynasty - The Backwood"" release date",general,1,tavily,True,,5
+4754550,Medieval Dynasty - The Backwood,"""Medieval Dynasty - The Backwood"" announcement",general,1,tavily,True,,5
+4754550,Medieval Dynasty - The Backwood,"""Medieval Dynasty - The Backwood"" preview",general,1,tavily,True,,5
+4754550,Medieval Dynasty - The Backwood,"""Medieval Dynasty - The Backwood"" review",general,1,tavily,True,,5
+4754550,Medieval Dynasty - The Backwood,"""Medieval Dynasty - The Backwood"" publisher",general,1,tavily,True,,5
+4754550,Medieval Dynasty - The Backwood,"""Medieval Dynasty - The Backwood"" developer",general,1,tavily,True,,5
+4754550,Medieval Dynasty - The Backwood,"site:pcgamer.com ""Medieval Dynasty - The Backwood""",press,2,tavily,False,General budget exhausted,0
+4754550,Medieval Dynasty - The Backwood,"site:rockpapershotgun.com ""Medieval Dynasty - The Backwood""",press,2,tavily,False,General budget exhausted,0
+4754550,Medieval Dynasty - The Backwood,"site:ign.com ""Medieval Dynasty - The Backwood""",press,2,tavily,False,General budget exhausted,0
+4754550,Medieval Dynasty - The Backwood,"site:gamespot.com ""Medieval Dynasty - The Backwood""",press,2,tavily,False,General budget exhausted,0
+4754550,Medieval Dynasty - The Backwood,"site:game8.co ""Medieval Dynasty - The Backwood""",press,2,tavily,False,General budget exhausted,0
+4754550,Medieval Dynasty - The Backwood,"site:reddit.com ""Medieval Dynasty - The Backwood""",social,3,tavily,True,,5
+4754550,Medieval Dynasty - The Backwood,"site:tiktok.com ""Medieval Dynasty - The Backwood""",social,4,tavily,True,,5
+4754550,Medieval Dynasty - The Backwood,"site:instagram.com ""Medieval Dynasty - The Backwood""",social,4,tavily,True,,5
+4754550,Medieval Dynasty - The Backwood,"site:x.com ""Medieval Dynasty - The Backwood""",social,4,tavily,True,,5
+4754550,Medieval Dynasty - The Backwood,"site: ""Medieval Dynasty - The Backwood""",social,4,tavily,True,,5

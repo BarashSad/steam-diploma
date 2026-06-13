@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-06-13T04:41:21.131941+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260613_041811/rank_changes.csv",
-    "selected_appid": "3453910",
-    "selected_game_title": "Happy's Humble BURGATORY",
+    "started_at": "2026-06-13T14:38:58.931598+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260613_141207/rank_changes.csv",
+    "selected_appid": "4754550",
+    "selected_game_title": "Medieval Dynasty - The Backwood",
     "top_n": 1,
     "old_snapshot_date": "2026-06-10",
     "new_snapshot_date": "2026-06-13",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-13T04:41:21.131983+00:00",
+    "finished_at": "2026-06-13T14:38:58.931622+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
