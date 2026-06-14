@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-13T14:38:41.338617+00:00,4754550,Medieval Dynasty - The Backwood,data/spike_explainer/2026-06-13__appid_4754550__rank_2749_to_2533__up_216,216,65,data/spike_explainer/2026-06-13__appid_4754550__rank_2749_to_2533__up_216/llm_summary_input.md
+2026-06-14T05:10:11.906210+00:00,4754550,Medieval Dynasty - The Backwood,data/spike_explainer/2026-06-14__appid_4754550__rank_2533_to_2312__up_221,221,65,data/spike_explainer/2026-06-14__appid_4754550__rank_2533_to_2312__up_221/llm_summary_input.md

@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-14T05:10:27.645499+00:00",
+    "timestamp": "20260614_051027",
+    "input_file": "data/spike_explainer/2026-06-14__appid_4754550__rank_2533_to_2312__up_221/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-14__appid_4754550__rank_2533_to_2312__up_221/llm_outputs/gemini_20260614_051027.md",
+    "game_title": "Medieval Dynasty - The Backwood",
+    "appid": "4754550",
+    "duration_sec": 17.7,
+    "response_length": 6248,
+    "error": null
+}
