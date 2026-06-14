@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-06-14T05:10:27.522889+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260614_044526/rank_changes.csv",
-    "selected_appid": "4754550",
-    "selected_game_title": "Medieval Dynasty - The Backwood",
+    "started_at": "2026-06-14T14:42:58.608999+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260614_141659/rank_changes.csv",
+    "selected_appid": "3946810",
+    "selected_game_title": "The seven days i spent with you",
     "top_n": 1,
     "old_snapshot_date": "2026-06-11",
     "new_snapshot_date": "2026-06-14",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-14T05:10:27.522906+00:00",
+    "finished_at": "2026-06-14T14:42:58.609013+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

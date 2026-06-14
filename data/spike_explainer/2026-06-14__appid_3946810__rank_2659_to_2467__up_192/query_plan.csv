@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3946810,The seven days i spent with you,"""The seven days i spent with you"" Steam",general,1,tavily,True,,5
+3946810,The seven days i spent with you,"""The seven days i spent with you"" trailer",general,1,tavily,True,,5
+3946810,The seven days i spent with you,"""The seven days i spent with you"" gameplay",general,1,tavily,True,,5
+3946810,The seven days i spent with you,"""The seven days i spent with you"" demo",general,1,tavily,True,,5
+3946810,The seven days i spent with you,"""The seven days i spent with you"" release date",general,1,tavily,True,,5
+3946810,The seven days i spent with you,"""The seven days i spent with you"" announcement",general,1,tavily,True,,5
+3946810,The seven days i spent with you,"""The seven days i spent with you"" preview",general,1,tavily,True,,5
+3946810,The seven days i spent with you,"""The seven days i spent with you"" review",general,1,tavily,True,,5
+3946810,The seven days i spent with you,"""The seven days i spent with you"" publisher",general,1,tavily,True,,5
+3946810,The seven days i spent with you,"""The seven days i spent with you"" developer",general,1,tavily,True,,5
+3946810,The seven days i spent with you,"site:pcgamer.com ""The seven days i spent with you""",press,2,tavily,False,General budget exhausted,0
+3946810,The seven days i spent with you,"site:rockpapershotgun.com ""The seven days i spent with you""",press,2,tavily,False,General budget exhausted,0
+3946810,The seven days i spent with you,"site:ign.com ""The seven days i spent with you""",press,2,tavily,False,General budget exhausted,0
+3946810,The seven days i spent with you,"site:gamespot.com ""The seven days i spent with you""",press,2,tavily,False,General budget exhausted,0
+3946810,The seven days i spent with you,"site:game8.co ""The seven days i spent with you""",press,2,tavily,False,General budget exhausted,0
+3946810,The seven days i spent with you,"site:reddit.com ""The seven days i spent with you""",social,3,tavily,True,,4
+3946810,The seven days i spent with you,"site:tiktok.com ""The seven days i spent with you""",social,4,tavily,True,,5
+3946810,The seven days i spent with you,"site:instagram.com ""The seven days i spent with you""",social,4,tavily,True,,4
+3946810,The seven days i spent with you,"site:x.com ""The seven days i spent with you""",social,4,tavily,True,,5
+3946810,The seven days i spent with you,"site: ""The seven days i spent with you""",social,4,tavily,True,,5
