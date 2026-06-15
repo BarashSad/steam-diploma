@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4183580,Stationbreak,"""Stationbreak"" Steam",general,1,tavily,True,,5
+4183580,Stationbreak,"""Stationbreak"" trailer",general,1,tavily,True,,5
+4183580,Stationbreak,"""Stationbreak"" gameplay",general,1,tavily,True,,5
+4183580,Stationbreak,"""Stationbreak"" demo",general,1,tavily,True,,5
+4183580,Stationbreak,"""Stationbreak"" release date",general,1,tavily,True,,5
+4183580,Stationbreak,"""Stationbreak"" announcement",general,1,tavily,True,,5
+4183580,Stationbreak,"""Stationbreak"" preview",general,1,tavily,True,,5
+4183580,Stationbreak,"""Stationbreak"" review",general,1,tavily,True,,5
+4183580,Stationbreak,"""Stationbreak"" publisher",general,1,tavily,True,,5
+4183580,Stationbreak,"""Stationbreak"" developer",general,1,tavily,True,,5
+4183580,Stationbreak,"site:pcgamer.com ""Stationbreak""",press,2,tavily,False,General budget exhausted,0
+4183580,Stationbreak,"site:rockpapershotgun.com ""Stationbreak""",press,2,tavily,False,General budget exhausted,0
+4183580,Stationbreak,"site:ign.com ""Stationbreak""",press,2,tavily,False,General budget exhausted,0
+4183580,Stationbreak,"site:gamespot.com ""Stationbreak""",press,2,tavily,False,General budget exhausted,0
+4183580,Stationbreak,"site:game8.co ""Stationbreak""",press,2,tavily,False,General budget exhausted,0
+4183580,Stationbreak,"site:reddit.com ""Stationbreak""",social,3,tavily,True,,5
+4183580,Stationbreak,"site:tiktok.com ""Stationbreak""",social,4,tavily,True,,5
+4183580,Stationbreak,"site:instagram.com ""Stationbreak""",social,4,tavily,True,,5
+4183580,Stationbreak,"site:x.com ""Stationbreak""",social,4,tavily,True,,5
+4183580,Stationbreak,"site: ""Stationbreak""",social,4,tavily,True,,5

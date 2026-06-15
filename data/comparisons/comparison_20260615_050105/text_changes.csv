@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3883570,Invokyr,Invokyr,568,558,10,10,up,none,Free,Unpriced (Coming Soon),True,Coming soon,2026,True
+4094350,Online: 404,Online: 404,483,477,6,6,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,July 2026,"Jul 30, 2026",True
+3504310,Ghost Sector,Ghost Sector,2786,2781,5,5,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q2 2026,2026,True
+3967280,Furry Adventure Club and the Temple of Pawsion 🐱,Furry Adventure Club and the Temple of Pawsion 🐱,2908,2910,-2,2,down,none,Free,Unpriced (Coming Soon),True,Coming soon,Q3 2026,True
+3685570,FIGHT-QUEST,FIGHT-QUEST,944,945,-1,1,down,none,Free,Unpriced (Coming Soon),True,Coming soon,Q4 2026,True

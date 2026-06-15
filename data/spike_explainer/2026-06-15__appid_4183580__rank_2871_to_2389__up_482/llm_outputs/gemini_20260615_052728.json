@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-15T05:27:28.497956+00:00",
+    "timestamp": "20260615_052728",
+    "input_file": "data/spike_explainer/2026-06-15__appid_4183580__rank_2871_to_2389__up_482/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-15__appid_4183580__rank_2871_to_2389__up_482/llm_outputs/gemini_20260615_052728.md",
+    "game_title": "Stationbreak",
+    "appid": "4183580",
+    "duration_sec": 15.01,
+    "response_length": 4935,
+    "error": null
+}
