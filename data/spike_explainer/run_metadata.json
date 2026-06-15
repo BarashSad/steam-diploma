@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-06-15T05:27:28.394607+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260615_050105/rank_changes.csv",
-    "selected_appid": "4183580",
-    "selected_game_title": "Stationbreak",
+    "started_at": "2026-06-15T17:47:00.830655+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260615_172212/rank_changes.csv",
+    "selected_appid": "3765010",
+    "selected_game_title": "Forensics: Crime Scene Detective",
     "top_n": 1,
     "old_snapshot_date": "2026-06-12",
     "new_snapshot_date": "2026-06-15",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-15T05:27:28.394621+00:00",
+    "finished_at": "2026-06-15T17:47:00.830672+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

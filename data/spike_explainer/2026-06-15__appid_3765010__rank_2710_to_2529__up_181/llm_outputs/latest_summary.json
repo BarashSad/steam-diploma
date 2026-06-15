@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-15T17:47:00.941992+00:00",
+    "timestamp": "20260615_174700",
+    "input_file": "data/spike_explainer/2026-06-15__appid_3765010__rank_2710_to_2529__up_181/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-15__appid_3765010__rank_2710_to_2529__up_181/llm_outputs/gemini_20260615_174700.md",
+    "game_title": "Forensics: Crime Scene Detective",
+    "appid": "3765010",
+    "duration_sec": 28.13,
+    "response_length": 4943,
+    "error": null
+}

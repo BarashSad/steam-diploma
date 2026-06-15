@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-15T05:27:12.384191+00:00,4183580,Stationbreak,data/spike_explainer/2026-06-15__appid_4183580__rank_2871_to_2389__up_482,482,85,data/spike_explainer/2026-06-15__appid_4183580__rank_2871_to_2389__up_482/llm_summary_input.md
+2026-06-15T17:46:44.879557+00:00,3765010,Forensics: Crime Scene Detective,data/spike_explainer/2026-06-15__appid_3765010__rank_2710_to_2529__up_181,181,85,data/spike_explainer/2026-06-15__appid_3765010__rank_2710_to_2529__up_181/llm_summary_input.md
