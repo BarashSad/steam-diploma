@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-06-16T05:28:21.584631+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260616_050239/rank_changes.csv",
-    "selected_appid": "4824220",
-    "selected_game_title": "Meltdown Crew",
+    "started_at": "2026-06-16T17:31:34.870661+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260616_170546/rank_changes.csv",
+    "selected_appid": "3983860",
+    "selected_game_title": "Nightwater",
     "top_n": 1,
     "old_snapshot_date": "2026-06-13",
     "new_snapshot_date": "2026-06-16",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-16T05:28:21.584645+00:00",
+    "finished_at": "2026-06-16T17:31:34.870681+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

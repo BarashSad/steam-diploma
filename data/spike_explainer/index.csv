@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-16T05:28:04.988493+00:00,4824220,Meltdown Crew,data/spike_explainer/2026-06-16__appid_4824220__rank_2858_to_2686__up_172,172,55,data/spike_explainer/2026-06-16__appid_4824220__rank_2858_to_2686__up_172/llm_summary_input.md
+2026-06-16T17:31:17.299914+00:00,3983860,Nightwater,data/spike_explainer/2026-06-16__appid_3983860__rank_2925_to_2519__up_406,406,90,data/spike_explainer/2026-06-16__appid_3983860__rank_2925_to_2519__up_406/llm_summary_input.md
