@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4824220,Meltdown Crew,"""Meltdown Crew"" Steam",general,1,tavily,True,,5
+4824220,Meltdown Crew,"""Meltdown Crew"" trailer",general,1,tavily,True,,5
+4824220,Meltdown Crew,"""Meltdown Crew"" gameplay",general,1,tavily,True,,5
+4824220,Meltdown Crew,"""Meltdown Crew"" demo",general,1,tavily,True,,5
+4824220,Meltdown Crew,"""Meltdown Crew"" release date",general,1,tavily,True,,5
+4824220,Meltdown Crew,"""Meltdown Crew"" announcement",general,1,tavily,True,,5
+4824220,Meltdown Crew,"""Meltdown Crew"" preview",general,1,tavily,True,,5
+4824220,Meltdown Crew,"""Meltdown Crew"" review",general,1,tavily,True,,5
+4824220,Meltdown Crew,"""Meltdown Crew"" publisher",general,1,tavily,True,,5
+4824220,Meltdown Crew,"""Meltdown Crew"" developer",general,1,tavily,True,,5
+4824220,Meltdown Crew,"site:pcgamer.com ""Meltdown Crew""",press,2,tavily,False,General budget exhausted,0
+4824220,Meltdown Crew,"site:rockpapershotgun.com ""Meltdown Crew""",press,2,tavily,False,General budget exhausted,0
+4824220,Meltdown Crew,"site:ign.com ""Meltdown Crew""",press,2,tavily,False,General budget exhausted,0
+4824220,Meltdown Crew,"site:gamespot.com ""Meltdown Crew""",press,2,tavily,False,General budget exhausted,0
+4824220,Meltdown Crew,"site:game8.co ""Meltdown Crew""",press,2,tavily,False,General budget exhausted,0
+4824220,Meltdown Crew,"site:reddit.com ""Meltdown Crew""",social,3,tavily,True,,5
+4824220,Meltdown Crew,"site:tiktok.com ""Meltdown Crew""",social,4,tavily,True,,5
+4824220,Meltdown Crew,"site:instagram.com ""Meltdown Crew""",social,4,tavily,True,,5
+4824220,Meltdown Crew,"site:x.com ""Meltdown Crew""",social,4,tavily,True,,5
+4824220,Meltdown Crew,"site: ""Meltdown Crew""",social,4,tavily,True,,5

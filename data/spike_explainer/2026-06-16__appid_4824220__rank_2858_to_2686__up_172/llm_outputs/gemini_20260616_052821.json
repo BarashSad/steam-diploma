@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-16T05:28:21.685279+00:00",
+    "timestamp": "20260616_052821",
+    "input_file": "data/spike_explainer/2026-06-16__appid_4824220__rank_2858_to_2686__up_172/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-16__appid_4824220__rank_2858_to_2686__up_172/llm_outputs/gemini_20260616_052821.md",
+    "game_title": "Meltdown Crew",
+    "appid": "4824220",
+    "duration_sec": 29.36,
+    "response_length": 5439,
+    "error": null
+}
