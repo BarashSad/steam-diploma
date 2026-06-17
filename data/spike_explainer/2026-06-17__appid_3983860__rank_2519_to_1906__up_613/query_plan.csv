@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3983860,Nightwater,"""Nightwater"" Steam",general,1,tavily,True,,5
+3983860,Nightwater,"""Nightwater"" trailer",general,1,tavily,True,,5
+3983860,Nightwater,"""Nightwater"" gameplay",general,1,tavily,True,,5
+3983860,Nightwater,"""Nightwater"" demo",general,1,tavily,True,,5
+3983860,Nightwater,"""Nightwater"" release date",general,1,tavily,True,,5
+3983860,Nightwater,"""Nightwater"" announcement",general,1,tavily,True,,5
+3983860,Nightwater,"""Nightwater"" preview",general,1,tavily,True,,5
+3983860,Nightwater,"""Nightwater"" review",general,1,tavily,True,,5
+3983860,Nightwater,"""Nightwater"" publisher",general,1,tavily,True,,5
+3983860,Nightwater,"""Nightwater"" developer",general,1,tavily,True,,5
+3983860,Nightwater,"site:pcgamer.com ""Nightwater""",press,2,tavily,False,General budget exhausted,0
+3983860,Nightwater,"site:rockpapershotgun.com ""Nightwater""",press,2,tavily,False,General budget exhausted,0
+3983860,Nightwater,"site:ign.com ""Nightwater""",press,2,tavily,False,General budget exhausted,0
+3983860,Nightwater,"site:gamespot.com ""Nightwater""",press,2,tavily,False,General budget exhausted,0
+3983860,Nightwater,"site:game8.co ""Nightwater""",press,2,tavily,False,General budget exhausted,0
+3983860,Nightwater,"site:reddit.com ""Nightwater""",social,3,tavily,True,,5
+3983860,Nightwater,"site:tiktok.com ""Nightwater""",social,4,tavily,True,,5
+3983860,Nightwater,"site:instagram.com ""Nightwater""",social,4,tavily,True,,5
+3983860,Nightwater,"site:x.com ""Nightwater""",social,4,tavily,True,,5
+3983860,Nightwater,"site: ""Nightwater""",social,4,tavily,True,,5

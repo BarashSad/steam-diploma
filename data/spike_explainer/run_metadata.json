@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-06-16T17:31:34.870661+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260616_170546/rank_changes.csv",
+    "started_at": "2026-06-17T05:08:30.027621+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260617_044541/rank_changes.csv",
     "selected_appid": "3983860",
     "selected_game_title": "Nightwater",
     "top_n": 1,
-    "old_snapshot_date": "2026-06-13",
-    "new_snapshot_date": "2026-06-16",
+    "old_snapshot_date": "2026-06-14",
+    "new_snapshot_date": "2026-06-17",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-16T17:31:34.870681+00:00",
+    "finished_at": "2026-06-17T05:08:30.027643+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

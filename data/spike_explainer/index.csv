@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-16T17:31:17.299914+00:00,3983860,Nightwater,data/spike_explainer/2026-06-16__appid_3983860__rank_2925_to_2519__up_406,406,90,data/spike_explainer/2026-06-16__appid_3983860__rank_2925_to_2519__up_406/llm_summary_input.md
+2026-06-17T05:08:09.908494+00:00,3983860,Nightwater,data/spike_explainer/2026-06-17__appid_3983860__rank_2519_to_1906__up_613,613,90,data/spike_explainer/2026-06-17__appid_3983860__rank_2519_to_1906__up_613/llm_summary_input.md

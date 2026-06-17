@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4412000,Zad Archery,Zad Archery,2434,2420,14,14,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Jul 31, 2026",True
+2402680,Dimraeth,Dimraeth,678,668,10,10,up,none,Free,Unpriced (Coming Soon),True,Coming soon,Q3 2026,True
+3767850,SpiritVale,SpiritVale,786,783,3,3,up,none,Free,Unpriced (Coming Soon),True,"Jul 15, 2026","Jul 15, 2026",False
+672890,Sparkball,Sparkball,2529,2532,-3,3,down,none,Free,Unpriced (Coming Soon),True,Q2 2026,Q2 2026,False
