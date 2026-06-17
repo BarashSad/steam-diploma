@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-17T16:13:43.044891+00:00",
+    "timestamp": "20260617_161343",
+    "input_file": "data/spike_explainer/2026-06-17__appid_3983860__rank_1906_to_1617__up_289/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-17__appid_3983860__rank_1906_to_1617__up_289/llm_outputs/gemini_20260617_161343.md",
+    "game_title": "Nightwater",
+    "appid": "3983860",
+    "duration_sec": 24.65,
+    "response_length": 5759,
+    "error": null
+}
