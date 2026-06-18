@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-17T16:13:22.670009+00:00,3983860,Nightwater,data/spike_explainer/2026-06-17__appid_3983860__rank_1906_to_1617__up_289,289,90,data/spike_explainer/2026-06-17__appid_3983860__rank_1906_to_1617__up_289/llm_summary_input.md
+2026-06-18T05:03:56.666867+00:00,3765010,Forensics: Crime Scene Detective,data/spike_explainer/2026-06-18__appid_3765010__rank_2060_to_1837__up_223,223,90,data/spike_explainer/2026-06-18__appid_3765010__rank_2060_to_1837__up_223/llm_summary_input.md

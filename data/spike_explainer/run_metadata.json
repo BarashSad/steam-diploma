@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-06-17T16:13:42.929868+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260617_155017/rank_changes.csv",
-    "selected_appid": "3983860",
-    "selected_game_title": "Nightwater",
+    "started_at": "2026-06-18T05:04:11.129940+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260618_043944/rank_changes.csv",
+    "selected_appid": "3765010",
+    "selected_game_title": "Forensics: Crime Scene Detective",
     "top_n": 1,
-    "old_snapshot_date": "2026-06-14",
-    "new_snapshot_date": "2026-06-17",
+    "old_snapshot_date": "2026-06-15",
+    "new_snapshot_date": "2026-06-18",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-17T16:13:42.929884+00:00",
+    "finished_at": "2026-06-18T05:04:11.129956+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

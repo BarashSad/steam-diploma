@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3765010,Forensics: Crime Scene Detective,"""Forensics: Crime Scene Detective"" Steam",general,1,tavily,True,,5
+3765010,Forensics: Crime Scene Detective,"""Forensics: Crime Scene Detective"" trailer",general,1,tavily,True,,5
+3765010,Forensics: Crime Scene Detective,"""Forensics: Crime Scene Detective"" gameplay",general,1,tavily,True,,5
+3765010,Forensics: Crime Scene Detective,"""Forensics: Crime Scene Detective"" demo",general,1,tavily,True,,5
+3765010,Forensics: Crime Scene Detective,"""Forensics: Crime Scene Detective"" release date",general,1,tavily,True,,5
+3765010,Forensics: Crime Scene Detective,"""Forensics: Crime Scene Detective"" announcement",general,1,tavily,True,,5
+3765010,Forensics: Crime Scene Detective,"""Forensics: Crime Scene Detective"" preview",general,1,tavily,True,,5
+3765010,Forensics: Crime Scene Detective,"""Forensics: Crime Scene Detective"" review",general,1,tavily,True,,5
+3765010,Forensics: Crime Scene Detective,"""Forensics: Crime Scene Detective"" publisher",general,1,tavily,True,,5
+3765010,Forensics: Crime Scene Detective,"""Forensics: Crime Scene Detective"" developer",general,1,tavily,True,,5
+3765010,Forensics: Crime Scene Detective,"site:pcgamer.com ""Forensics: Crime Scene Detective""",press,2,tavily,False,General budget exhausted,0
+3765010,Forensics: Crime Scene Detective,"site:rockpapershotgun.com ""Forensics: Crime Scene Detective""",press,2,tavily,False,General budget exhausted,0
+3765010,Forensics: Crime Scene Detective,"site:ign.com ""Forensics: Crime Scene Detective""",press,2,tavily,False,General budget exhausted,0
+3765010,Forensics: Crime Scene Detective,"site:gamespot.com ""Forensics: Crime Scene Detective""",press,2,tavily,False,General budget exhausted,0
+3765010,Forensics: Crime Scene Detective,"site:game8.co ""Forensics: Crime Scene Detective""",press,2,tavily,False,General budget exhausted,0
+3765010,Forensics: Crime Scene Detective,"site:reddit.com ""Forensics: Crime Scene Detective""",social,3,tavily,True,,5
+3765010,Forensics: Crime Scene Detective,"site:tiktok.com ""Forensics: Crime Scene Detective""",social,4,tavily,True,,5
+3765010,Forensics: Crime Scene Detective,"site:instagram.com ""Forensics: Crime Scene Detective""",social,4,tavily,True,,5
+3765010,Forensics: Crime Scene Detective,"site:x.com ""Forensics: Crime Scene Detective""",social,4,tavily,True,,5
+3765010,Forensics: Crime Scene Detective,"site: ""Forensics: Crime Scene Detective""",social,4,tavily,True,,5

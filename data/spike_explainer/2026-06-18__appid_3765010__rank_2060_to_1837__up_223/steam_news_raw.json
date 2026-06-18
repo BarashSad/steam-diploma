@@ -1,0 +1,112 @@
+{
+    "appnews": {
+        "appid": 3765010,
+        "newsitems": [
+            {
+                "gid": "1835871199299785",
+                "title": "Devblog 3 - Incorporating Your Feedback",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199299785",
+                "is_external_url": true,
+                "author": "laura [aerosoft]",
+                "contents": "Thank You for Your Feedback!First of all, thank you to everyone who has downloaded, played, streamed, and shared feedback on the Forensics: Crime Scene Detective demo during Steam Next Fest so far. Seeing so many people jump into the game and take the time to tell us about their experience has been great.One of the main reasons we participate in events like Steam Next Fest is simple: watching players interact with our game teaches us things that no internal playtest ever could. Since the demo of Forensics Crime Scene Detective became available , we have received a lot of valuable feedback. One topic came up again and again in your comments, videos, and discussions: the desoldering station.The good news? Most players didn't dislike the mechanic itself. The objective was clear: carefully remove a chip from a damaged phone and secure it as evidence. The challenge was understanding exactly what was happening while doing it.How the Desoldering Station Worked The process was relatively straightforward. You place a damaged phone into the workstation. Then apply hot air to the chip. A thermal camera view in the top left corner displays the chip temperature. Messages on the left side of the screen inform when the chip has become detached or when it has been destroyed. Once detached, you select the vacuum tool and place the chip into the evidence container. On paper, all required information was available. In practice, many players struggled with the process.What Players Told Us After reviewing gameplay footage, comments, and direct feedback, several recurring issues became apparent. Many players found it difficult to judge the chip's temperature, see exactly where the hot air was being applied, or understand when the chip was getting close to being damaged. Some also felt that the chip overheated too quickly.What all of this feedback had in common was communication. The mechanic itself was working as intended, but the game wasn't providing enough clear visual feedback to help players understand what was happening.What We've ImprovedOur first goal was to make temperature easier to understand at a glance. We introduced a new thermal color scale:Blue tones now clearly indicate that the chip is still too coldRed shows the ideal temperature range for an extractionOrange, yellow, and white tones warn that the chip is becoming dangerously hotA new LED indicator on the hot air tool makes it much easier to see exactly where you're aiming.To make temperature management more forgiving, we adjusted the cooling behavior. Very hot chips now cool down faster than before, allowing you to recover more easily from overheating situations. We also reduced the heating area of the hot air tool, making it easier to target specific components with precision. Finally, we expanded the successful extraction window. You now have a larger margin in which a chip can be safely removed after reaching the correct temperature. Why We Love Steam Next Fest The desoldering station is a perfect example of why public demos are so valuable. As developers, it is easy to become familiar with systems we have worked on for months. What feels obvious to us is often not obvious to someone experiencing the mechanic for the very first time. Player feedback helps us identify these blind spots. The goal is not simply to react to every suggestion. It is to understand the underlying problem and improve the experience in a way that benefits everyone. In this case, the feedback was not really about temperature values or destruction timers. It was about communication. And thanks to the players who tried the demo and shared their experiences, the desoldering station is already significantly better than it was yesterday.We\u2019re looking forward to hearing more from you during Steam Next Fest. Happy investigating!",
+                "feedlabel": "Community Announcements",
+                "date": 1781680963,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3765010
+            },
+            {
+                "gid": "1835236783571351",
+                "title": "Play the free demo of \"Forensics: Crime Scene Detective\" now! \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783571351",
+                "is_external_url": true,
+                "author": "Bekka",
+                "contents": "\ud83d\udd0e Steam Next Fest just started! We're excited to be participating with Forensics: Crime Scene Detective and you can play the free demo right now!Investigate crime scenes, analyze evidence, connect the clues, and uncover the truth behind every case.We can't wait to hear your feedback. Happy investigating! \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83d\udd2c",
+                "feedlabel": "Community Announcements",
+                "date": 1781542823,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3765010
+            },
+            {
+                "gid": "1835236783563940",
+                "title": "Forensics: Crime Scene Detective releases July 13th!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783563940",
+                "is_external_url": true,
+                "author": "Bekka",
+                "contents": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Forensics: Crime Scene Detective releases July 13th on Steam!Uncover what others miss and reconstruct the truth. \ud83d\udd0dStep into the role of a forensic specialist in a realistic crime lab simulator. Investigate crime scenes, collect microscopic evidence, and identify perpetrators through DNA testing and digital forensics. \ud83d\udcbbBased on the experience and insights of experts from the State Criminal Police Office Rhineland-Palatinate. \ud83d\udc6e\u200d\u2642\ufe0f\ud83d\udd17 Release Date Trailer: ",
+                "feedlabel": "Community Announcements",
+                "date": 1781280036,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3765010
+            },
+            {
+                "gid": "1833968530900723",
+                "title": "From an empty space to a crime scene: how we bring our scenes to life",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900723",
+                "is_external_url": true,
+                "author": "laura [aerosoft]",
+                "contents": "Anyone who has ever opened an empty 3D scene in a game engine knows the problem: technically, everything is there. The walls are up, the furniture is placed, and the lighting works. And yet the space still feels sterile and somehow wrong. Real places don\u2019t look like that.That\u2019s exactly why, in the development of Forensics: Crime Scene Detective, we spend a surprisingly large amount of time \u201cdressing\u201d our scenes. This step is especially important for our crime scenes. After all, we don\u2019t want players to feel like they\u2019re moving through a level, but rather like they\u2019re investigating a real location.A good example of this is the apartment crime scene from our tutorial, shown in the current screenshots.At the beginning, the apartment only contained the essential elements: walls, doors, windows, and the furniture relevant to the case. Functionally, the scene was already playable. However, that alone is not enough to create a believable crime scene.The next step is what we call cluttering. This involves scattering a large number of small objects throughout the environment: books on shelves, cables behind furniture, half-empty coffee cups, remote controls, mail on the dining table, or a pair of shoes in the hallway. Most of these objects have no relevance to the actual case. And that\u2019s precisely why they matter.In reality, a room is never made up only of things that are relevant to an investigation. People leave behind countless small traces of their everyday lives. These details help make an environment feel believable.It\u2019s not just about the number of objects, but also about how they are placed. Spaces quickly feel artificial if everything is perfectly aligned and neatly arranged. That\u2019s why we deliberately introduce small imperfections. A chair is slightly askew, a stack of magazines isn\u2019t perfectly parallel to the edge of a table, or a charging cable disappears halfway under a cabinet.In a forensics game in particular, this creates an interesting challenge. On the one hand, we want to build realistic, lived-in environments. On the other hand, important clues must remain clearly readable for gameplay. Too much clutter can easily cause players to miss relevant evidence or become frustrated.That\u2019s why we always try to strike a balance for each crime scene. The environment should feel believable without obscuring the readability of the actual evidence. You could say: the apartment should look like someone actually lived there, not like a level designer carefully placed every object for the camera.The tutorial apartment is a good example of this process. Many of the objects in the current screenshots were added relatively late in development. They don\u2019t change the gameplay or the solution to the case. And yet they play a crucial role in making the apartment feel like a real place.And that is ultimately the goal: before players secure their first piece of evidence or analyze their first fingerprint, they should feel like they are stepping into a real crime scene.",
+                "feedlabel": "Community Announcements",
+                "date": 1780412342,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3765010
+            },
+            {
+                "gid": "1832700592801154",
+                "title": "At the Crime Scene every detail tells a story \ud83d\udd0d\ud83d\udcf8",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801154",
+                "is_external_url": true,
+                "author": "laura [aerosoft]",
+                "contents": "Crime scene investigators work with precision, teamwork, and professionalism to secure evidence, document every trace, and reconstruct events piece by piece. Because at a crime scene, even the smallest detail can make the difference between unanswered questions and justice served.Become a forensic specialist yourself in Forensics: Crime Scene Detective!In collaboration with the State Criminal Police Office Rhineland Palatinate \ud83e\udd1d",
+                "feedlabel": "Community Announcements",
+                "date": 1779201176,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3765010
+            },
+            {
+                "gid": "1832700592786829",
+                "title": "DevBlog 1 | Workshops at the State Criminal Police Office Rhineland Palatinate",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786829",
+                "is_external_url": true,
+                "author": "laura [aerosoft]",
+                "contents": "Together with the State Criminal Police Office (LKA), we conducted several workshops to design our gameplay mechanics as closely as possible to real investigative procedures. The focus was to understand how investigative work actually functions when evidence must hold up in court. One of the key takeaways was the strict order of investigative steps: a crime scene is not simply \u201cworked through,\u201d but systematically read and analyzed. Many actions only make sense \u2014 or are even legally permissible \u2014 if they happen in the correct sequence. In the end, this determines whether evidence remains admissible under the German Code of Criminal Procedure (StPO), meaning it can contribute both to incriminating and exonerating a suspect.What we specifically learned during these workshops:How crime scenes are systematically documented and \u201cread\u201dWhy order, documentation, and precision are criticalHow small mistakes or shortcuts can affect the admissibility of evidenceThe importance of standardized procedures to ensure cases remain traceable and understandable later on Fingerprints, Evidence Photography, and Proper DocumentationA large part of the workshops focused on the practical handling of evidence: we learned how fingerprints are revealed, collected, and processed, and which details truly matter during the process. This includes working with lighting, contrast, powders, lifting tape, and above all the question: what do I document, when, and how?Evidence photography was just as important \u2014 not as a \u201cnice to have,\u201d but as the foundation for reconstructing a crime scene later on. In the game, crime scene photography is therefore not just a feature, but a core mechanic: you can still collect and use evidence without photographing it first, but altering the scene before proper photo documentation comes with consequences. Important: Gameplay Mechanics vs. RealityIn real forensic work, there is no \u201cscoring system\u201d in the sense of losing points. Instead, evidence may become unusable, or the evidentiary value of a trace may significantly decrease. In the game, we translate this concept into a rating system because it makes the principle easier for players to understand and rewards proper investigative work. What is directly reflected in the gameplay:Crime scene photography before altering the sceneMarking evidence and maintaining proper documentationFingerprint visualization and collection as a process, not a simple \u201cone-click\u201d interactionConsequences for improper investigative order (represented through gameplay evaluation)Why We Cannot Show Workshop Photos \u2014 and What We Did Instead We would have loved to share photos from the workshops, but they took place inside the facilities and staged training apartments of the Police University. This means that many details are not intended for public release due to security and contextual reasons.Even so, the knowledge we gained was invaluablea and the workshops helped us design cases that feel realistic.The Game\u2019s Tone and AtmosphereOur conversations with investigators, officers, and forensic specialists were not only professionally insightful, but also shaped our understanding of what \u201cforensics\u201d really means: often quiet, methodical, patient, and full of details.For us, Forensics: Crime Scene Detective is therefore a deliberately slow-paced experience. It is about careful observation, critical thinking, and precise work. You gradually dig deeper into a case step by step, rather than rushing through it. And this direct collaboration with the LKA is one of the reasons why the project feels so special to us.",
+                "feedlabel": "Community Announcements",
+                "date": 1778688036,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3765010
+            },
+            {
+                "gid": "1828894815560408",
+                "title": "What if your DNA could solve the case? \ud83e\uddec\ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815560408",
+                "is_external_url": true,
+                "author": "laura [aerosoft]",
+                "contents": "DNA analysis is a key part of forensic investigations. DNA, found in nearly all human cells, is unique to each individual. At crime scenes, it can be collected from blood, saliva, hair (with roots), or skin cells. In the lab, experts create a DNA profile, which can then be compared to databases or suspects. A match can strongly link a person to the evidence.Curious how forensics works in a real lab?\u27a1 Read more!\ud83e\udd1d In collaboration with the State Criminal Police Office Rhineland-Palatinate.",
+                "feedlabel": "Community Announcements",
+                "date": 1775224846,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3765010
+            },
+            {
+                "gid": "1827626365766040",
+                "title": "Have you ever heard of Dactyloscopy? \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83d\udcc2",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365766040",
+                "is_external_url": true,
+                "author": "laura [aerosoft]",
+                "contents": "For forensic experts, it\u2019s an essential part of their daily work. Dactyloscopy is used to identify or rule out people based on their unique fingerprints. Fingerprints are made visible at the crime scene, collected, and compared with databases.If characteristic features match, a person can be identified as the source of the evidence. Curious how forensics works in a real lab?\u27a1 Read more! \ud83e\udd1d In collaboration with the State Criminal Police Office Rhineland-Palatinate.",
+                "feedlabel": "Community Announcements",
+                "date": 1774365165,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3765010
+            }
+        ],
+        "count": 8
+    }
+}
