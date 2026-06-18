@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Forensics: Crime Scene Detective
+Analyzed: Cat Mail Co.
 Tavily Budget Used: 15
 Errors: 0

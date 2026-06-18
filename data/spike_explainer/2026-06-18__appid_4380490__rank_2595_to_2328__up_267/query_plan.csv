@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4380490,Cat Mail Co.,"""Cat Mail Co."" Steam",general,1,tavily,True,,5
+4380490,Cat Mail Co.,"""Cat Mail Co."" trailer",general,1,tavily,True,,5
+4380490,Cat Mail Co.,"""Cat Mail Co."" gameplay",general,1,tavily,True,,5
+4380490,Cat Mail Co.,"""Cat Mail Co."" demo",general,1,tavily,True,,5
+4380490,Cat Mail Co.,"""Cat Mail Co."" release date",general,1,tavily,True,,5
+4380490,Cat Mail Co.,"""Cat Mail Co."" announcement",general,1,tavily,True,,5
+4380490,Cat Mail Co.,"""Cat Mail Co."" preview",general,1,tavily,True,,5
+4380490,Cat Mail Co.,"""Cat Mail Co."" review",general,1,tavily,True,,5
+4380490,Cat Mail Co.,"""Cat Mail Co."" publisher",general,1,tavily,True,,5
+4380490,Cat Mail Co.,"""Cat Mail Co."" developer",general,1,tavily,True,,5
+4380490,Cat Mail Co.,"site:pcgamer.com ""Cat Mail Co.""",press,2,tavily,False,General budget exhausted,0
+4380490,Cat Mail Co.,"site:rockpapershotgun.com ""Cat Mail Co.""",press,2,tavily,False,General budget exhausted,0
+4380490,Cat Mail Co.,"site:ign.com ""Cat Mail Co.""",press,2,tavily,False,General budget exhausted,0
+4380490,Cat Mail Co.,"site:gamespot.com ""Cat Mail Co.""",press,2,tavily,False,General budget exhausted,0
+4380490,Cat Mail Co.,"site:game8.co ""Cat Mail Co.""",press,2,tavily,False,General budget exhausted,0
+4380490,Cat Mail Co.,"site:reddit.com ""Cat Mail Co.""",social,3,tavily,True,,5
+4380490,Cat Mail Co.,"site:tiktok.com ""Cat Mail Co.""",social,4,tavily,True,,5
+4380490,Cat Mail Co.,"site:instagram.com ""Cat Mail Co.""",social,4,tavily,True,,5
+4380490,Cat Mail Co.,"site:x.com ""Cat Mail Co.""",social,4,tavily,True,,5
+4380490,Cat Mail Co.,"site: ""Cat Mail Co.""",social,4,tavily,True,,5

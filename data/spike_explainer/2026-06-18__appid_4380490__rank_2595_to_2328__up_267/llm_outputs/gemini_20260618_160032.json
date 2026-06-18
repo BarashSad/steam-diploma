@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-18T16:00:32.226862+00:00",
+    "timestamp": "20260618_160032",
+    "input_file": "data/spike_explainer/2026-06-18__appid_4380490__rank_2595_to_2328__up_267/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-18__appid_4380490__rank_2595_to_2328__up_267/llm_outputs/gemini_20260618_160032.md",
+    "game_title": "Cat Mail Co.",
+    "appid": "4380490",
+    "duration_sec": 25.18,
+    "response_length": 4790,
+    "error": null
+}
