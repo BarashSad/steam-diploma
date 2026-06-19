@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3100970,Isle of Reveries,Isle of Reveries,2449,2457,-8,8,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,September 2026,"Sep 4, 2026",True
+672890,Sparkball,Sparkball,2551,2556,-5,5,down,none,Free,Unpriced (Coming Soon),True,Q2 2026,Q2 2026,False
+1996090,Vapor World: Over The Mind,Vapor World: Over The Mind,1024,1026,-2,2,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q2 2026,Q3 2026,True
+3470850,Void Martyrs,Void Martyrs,731,732,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 28, 2026",To be announced,True
