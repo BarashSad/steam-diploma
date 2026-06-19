@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-19T05:20:45.995392+00:00,4380490,Cat Mail Co.,data/spike_explainer/2026-06-19__appid_4380490__rank_2328_to_2054__up_274,274,85,data/spike_explainer/2026-06-19__appid_4380490__rank_2328_to_2054__up_274/llm_summary_input.md
+2026-06-19T15:52:47.084611+00:00,4380490,Cat Mail Co.,data/spike_explainer/2026-06-19__appid_4380490__rank_2054_to_1902__up_152,152,85,data/spike_explainer/2026-06-19__appid_4380490__rank_2054_to_1902__up_152/llm_summary_input.md
