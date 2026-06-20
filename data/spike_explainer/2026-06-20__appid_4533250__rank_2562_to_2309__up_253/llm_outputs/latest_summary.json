@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-20T04:32:57.346615+00:00",
+    "timestamp": "20260620_043257",
+    "input_file": "data/spike_explainer/2026-06-20__appid_4533250__rank_2562_to_2309__up_253/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-20__appid_4533250__rank_2562_to_2309__up_253/llm_outputs/gemini_20260620_043257.md",
+    "game_title": "GrassChopper",
+    "appid": "4533250",
+    "duration_sec": 15.27,
+    "response_length": 5162,
+    "error": null
+}

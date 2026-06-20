@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4533250,GrassChopper,"""GrassChopper"" Steam",general,1,tavily,True,,5
+4533250,GrassChopper,"""GrassChopper"" trailer",general,1,tavily,True,,5
+4533250,GrassChopper,"""GrassChopper"" gameplay",general,1,tavily,True,,5
+4533250,GrassChopper,"""GrassChopper"" demo",general,1,tavily,True,,5
+4533250,GrassChopper,"""GrassChopper"" release date",general,1,tavily,True,,5
+4533250,GrassChopper,"""GrassChopper"" announcement",general,1,tavily,True,,5
+4533250,GrassChopper,"""GrassChopper"" preview",general,1,tavily,True,,5
+4533250,GrassChopper,"""GrassChopper"" review",general,1,tavily,True,,5
+4533250,GrassChopper,"""GrassChopper"" publisher",general,1,tavily,True,,5
+4533250,GrassChopper,"""GrassChopper"" developer",general,1,tavily,True,,5
+4533250,GrassChopper,"site:pcgamer.com ""GrassChopper""",press,2,tavily,False,General budget exhausted,0
+4533250,GrassChopper,"site:rockpapershotgun.com ""GrassChopper""",press,2,tavily,False,General budget exhausted,0
+4533250,GrassChopper,"site:ign.com ""GrassChopper""",press,2,tavily,False,General budget exhausted,0
+4533250,GrassChopper,"site:gamespot.com ""GrassChopper""",press,2,tavily,False,General budget exhausted,0
+4533250,GrassChopper,"site:game8.co ""GrassChopper""",press,2,tavily,False,General budget exhausted,0
+4533250,GrassChopper,"site:reddit.com ""GrassChopper""",social,3,tavily,True,,5
+4533250,GrassChopper,"site:tiktok.com ""GrassChopper""",social,4,tavily,True,,4
+4533250,GrassChopper,"site:instagram.com ""GrassChopper""",social,4,tavily,True,,5
+4533250,GrassChopper,"site:x.com ""GrassChopper""",social,4,tavily,True,,5
+4533250,GrassChopper,"site: ""GrassChopper""",social,4,tavily,True,,5

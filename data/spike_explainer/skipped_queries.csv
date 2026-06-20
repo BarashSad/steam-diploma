@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-4380490,Cat Mail Co.,"site:pcgamer.com ""Cat Mail Co.""",press,2,tavily,False,General budget exhausted,0
-4380490,Cat Mail Co.,"site:rockpapershotgun.com ""Cat Mail Co.""",press,2,tavily,False,General budget exhausted,0
-4380490,Cat Mail Co.,"site:ign.com ""Cat Mail Co.""",press,2,tavily,False,General budget exhausted,0
-4380490,Cat Mail Co.,"site:gamespot.com ""Cat Mail Co.""",press,2,tavily,False,General budget exhausted,0
-4380490,Cat Mail Co.,"site:game8.co ""Cat Mail Co.""",press,2,tavily,False,General budget exhausted,0
+4533250,GrassChopper,"site:pcgamer.com ""GrassChopper""",press,2,tavily,False,General budget exhausted,0
+4533250,GrassChopper,"site:rockpapershotgun.com ""GrassChopper""",press,2,tavily,False,General budget exhausted,0
+4533250,GrassChopper,"site:ign.com ""GrassChopper""",press,2,tavily,False,General budget exhausted,0
+4533250,GrassChopper,"site:gamespot.com ""GrassChopper""",press,2,tavily,False,General budget exhausted,0
+4533250,GrassChopper,"site:game8.co ""GrassChopper""",press,2,tavily,False,General budget exhausted,0

@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Cat Mail Co.
+Analyzed: GrassChopper
 Tavily Budget Used: 15
 Errors: 0

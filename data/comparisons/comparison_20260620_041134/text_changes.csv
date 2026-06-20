@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4250680,AGX GP,AGX GP,1801,1774,27,27,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,Q4 2026,True
+4281060,Police Officer,Police Officer,2299,2304,-5,5,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Jul 23, 2026",True
+2542310,Fatal Run 2089,Fatal Run 2089,1323,1324,-1,1,down,none,Free,Unpriced (Coming Soon),True,Coming soon,2026,True

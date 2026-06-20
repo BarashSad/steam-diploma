@@ -1,0 +1,102 @@
+{
+    "appnews": {
+        "appid": 4533250,
+        "newsitems": [
+            {
+                "gid": "1835236783569210",
+                "title": "Demo Hotfix #3",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783569210",
+                "is_external_url": true,
+                "author": "P.T",
+                "contents": "A quick hotfix addressing a few issues from the last update:Reverted to the previous oxygen grass visualsBrought back a missing sprite in the attack critical VFXFixed a bug where having the exact amount of money required wouldn't count as enoughRemoved the no-O2 sign still showing after the boss Thanks for the quick reports! keep it coming!",
+                "feedlabel": "Community Announcements",
+                "date": 1781504884,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4533250,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1835236783568451",
+                "title": "Demo Update #2 - Polish & Balance",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783568451",
+                "is_external_url": true,
+                "author": "P.T",
+                "contents": "Thanks to everyone testing the demo and sending feedback \u2014 here's what's new in today's update:NewImproved Field Magnetism skill \u2014 should now be a lot strongerNew oxygen grass visuals (design + idle animation)New critical hit particle effectNew UI for dialogues + new dialogue fontNew UI for skill tooltipsNew descriptions for all upgrades, with highlighted key wordsAdded a keyboard keybind for Boomerang (C)Added charge usage note to the Boomerang reward popupFixesFixed boomerang animation not firing on quick clickFixed boomerang not activating if the button was pressed before the charge was fullFixed sprites that weren't connected on the ending popupFixed some typos in dialogues and skill descriptionsChanged the color of the word \"Charge\" in all dialogues to yellowishBalancingSeed drop upgrade cost increased overall (starting from Tier 3)Gold drop amount from all farm grass reducedAdjusted some item stack limits for a more balanced experienceGrowth speed upgrade pricing increased, with an extra level added (5 instead of 4)Keep the feedback coming \u2014 it's directly shaping the demo. Join us on Discord if you want to chat: Grass Chopper Discord",
+                "feedlabel": "Community Announcements",
+                "date": 1781467590,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4533250
+            },
+            {
+                "gid": "1834602721201445",
+                "title": "Demo Hotfix #2",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721201445",
+                "is_external_url": true,
+                "author": "P.T",
+                "contents": "Thanks to everyone testing the demo and sending feedback - here's what's new in today's update:FixesFixed farm outline before buying itFixed Tier 2 seed dialog orderImproved seed particles pulled to the Seedbox chestInversed panning in the Skill Tree for controller onlyFew typo fixesKeep the feedback coming - it's directly shaping the demo before Next Fest. Join us on Discord if you want to chat: Grass Chopper Discord",
+                "feedlabel": "Community Announcements",
+                "date": 1781003065,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4533250,
+                "tags": [
+                    "patchnotes",
+                    "mod_reviewed",
+                    "ModAct_1294976491_1781005641_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1834602721200365",
+                "title": "The \"You Finished The Demo\" Update",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721200365",
+                "is_external_url": true,
+                "author": "P.T",
+                "contents": "Hey everyone! This one's a big one. We've been working on two things we're really proud of and wanted to give them the spotlight they deserve.Full Controller SupportIt's here. Plug in and play - full controller support is now live across the entire demo including the skill tree, farm, conversion screen and all menus. We know a lot of you were waiting for this. It's still fresh so if anything feels off, let us know and we'll fix it fast.4 Secret End-Game Seeds Love the demo but want more to do? We hear you. We've added 4 new secret seed types that unlock after you finish the demo content. Each one grows into a unique grass type you won't find anywhere on the frontier. We're not going to spoil them. Find them yourself. Everything Else Auto-Collect Seeds upgrade addedFarm Grass Speed upgrade addedSeeds in inventory can now be planted directly in the FarmSeedbox now stacks seeds... Sadly each seed can only stack up to 2 billion. Good luck.Oxygen and slowness now scale with grass density - fairer and more readableImproved Dash responsivenessFewer unfair instant-death situationsNew SFX + improved existing onesVarious UI, visual, and bug fixes ",
+                "feedlabel": "Community Announcements",
+                "date": 1780959750,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4533250
+            },
+            {
+                "gid": "1834602721192192",
+                "title": "Demo Hotfix #1",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721192192",
+                "is_external_url": true,
+                "author": "P.T",
+                "contents": "Thanks to everyone testing the demo and sending feedback - here's what's new in today's update: New - Added a seed deposit (seedbox) right next to the farm for easier planting Fixes - Fixed some UI input issues - Fixed the Farm Unlock skill not being auto-purchased in the skill tree - Fixed the Farm unlock reward popup - Fixed highlights on objects Keep the feedback coming - it's directly shaping the demo before the Next Fest. Join us on Discord if you want to chat: Grass Chopper Discord",
+                "feedlabel": "Community Announcements",
+                "date": 1780697337,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4533250,
+                "tags": [
+                    "patchnotes",
+                    "mod_reviewed",
+                    "ModAct_1896160435_1780701033_0",
+                    "ModAct_1294976491_1781005479_4",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1834602721191799",
+                "title": "Welcome to the Grass Chopper Community",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721191799",
+                "is_external_url": true,
+                "author": "P.T",
+                "contents": "Welcome to the Grass Chopper community! If you're here, you've played (or about to play) the demo - and that means a lot to us. We're a small two person team and every person testing the game genuinely helps us make it better. If something felt off, too hard, too easy, or just weird (in a bad way), we want to hear it. The best place to share feedback, report bugs, or just talk about the game is our Discord - Come join us there, you'll be among the first. Grass Chopper Discord We'll be updating the demo over the coming days leading up to Steam Next Fest, so keep it installed - it'll keep getting better. Your feedback directly shapes what we fix and improve before the fest, so don't hold back. Thanks for chopping. See you in the deep grass...!",
+                "feedlabel": "Community Announcements",
+                "date": 1780687384,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4533250
+            }
+        ],
+        "count": 6
+    }
+}
