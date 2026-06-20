@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3908940,Inferno Protocol,"""Inferno Protocol"" Steam",general,1,tavily,True,,5
+3908940,Inferno Protocol,"""Inferno Protocol"" trailer",general,1,tavily,True,,5
+3908940,Inferno Protocol,"""Inferno Protocol"" gameplay",general,1,tavily,True,,5
+3908940,Inferno Protocol,"""Inferno Protocol"" demo",general,1,tavily,True,,5
+3908940,Inferno Protocol,"""Inferno Protocol"" release date",general,1,tavily,True,,5
+3908940,Inferno Protocol,"""Inferno Protocol"" announcement",general,1,tavily,True,,5
+3908940,Inferno Protocol,"""Inferno Protocol"" preview",general,1,tavily,True,,5
+3908940,Inferno Protocol,"""Inferno Protocol"" review",general,1,tavily,True,,5
+3908940,Inferno Protocol,"""Inferno Protocol"" publisher",general,1,tavily,True,,5
+3908940,Inferno Protocol,"""Inferno Protocol"" developer",general,1,tavily,True,,5
+3908940,Inferno Protocol,"site:pcgamer.com ""Inferno Protocol""",press,2,tavily,False,General budget exhausted,0
+3908940,Inferno Protocol,"site:rockpapershotgun.com ""Inferno Protocol""",press,2,tavily,False,General budget exhausted,0
+3908940,Inferno Protocol,"site:ign.com ""Inferno Protocol""",press,2,tavily,False,General budget exhausted,0
+3908940,Inferno Protocol,"site:gamespot.com ""Inferno Protocol""",press,2,tavily,False,General budget exhausted,0
+3908940,Inferno Protocol,"site:game8.co ""Inferno Protocol""",press,2,tavily,False,General budget exhausted,0
+3908940,Inferno Protocol,"site:reddit.com ""Inferno Protocol""",social,3,tavily,True,,5
+3908940,Inferno Protocol,"site:tiktok.com ""Inferno Protocol""",social,4,tavily,True,,5
+3908940,Inferno Protocol,"site:instagram.com ""Inferno Protocol""",social,4,tavily,True,,5
+3908940,Inferno Protocol,"site:x.com ""Inferno Protocol""",social,4,tavily,True,,5
+3908940,Inferno Protocol,"site: ""Inferno Protocol""",social,4,tavily,True,,5

@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: GrassChopper
+Analyzed: Inferno Protocol
 Tavily Budget Used: 15
 Errors: 0

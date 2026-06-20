@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-20T14:37:37.624968+00:00",
+    "timestamp": "20260620_143737",
+    "input_file": "data/spike_explainer/2026-06-20__appid_3908940__rank_2150_to_2001__up_149/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-20__appid_3908940__rank_2150_to_2001__up_149/llm_outputs/gemini_20260620_143737.md",
+    "game_title": "Inferno Protocol",
+    "appid": "3908940",
+    "duration_sec": 18.12,
+    "response_length": 6706,
+    "error": null
+}
