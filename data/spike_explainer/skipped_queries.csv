@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-3908940,Inferno Protocol,"site:pcgamer.com ""Inferno Protocol""",press,2,tavily,False,General budget exhausted,0
-3908940,Inferno Protocol,"site:rockpapershotgun.com ""Inferno Protocol""",press,2,tavily,False,General budget exhausted,0
-3908940,Inferno Protocol,"site:ign.com ""Inferno Protocol""",press,2,tavily,False,General budget exhausted,0
-3908940,Inferno Protocol,"site:gamespot.com ""Inferno Protocol""",press,2,tavily,False,General budget exhausted,0
-3908940,Inferno Protocol,"site:game8.co ""Inferno Protocol""",press,2,tavily,False,General budget exhausted,0
+4468030,OFFBEAT,"site:pcgamer.com ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0
+4468030,OFFBEAT,"site:rockpapershotgun.com ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0
+4468030,OFFBEAT,"site:ign.com ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0
+4468030,OFFBEAT,"site:gamespot.com ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0
+4468030,OFFBEAT,"site:game8.co ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0

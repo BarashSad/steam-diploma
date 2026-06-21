@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-20T14:37:21.239063+00:00,3908940,Inferno Protocol,data/spike_explainer/2026-06-20__appid_3908940__rank_2150_to_2001__up_149,149,85,data/spike_explainer/2026-06-20__appid_3908940__rank_2150_to_2001__up_149/llm_summary_input.md
+2026-06-21T05:15:01.672031+00:00,4468030,OFFBEAT,data/spike_explainer/2026-06-21__appid_4468030__rank_2511_to_2282__up_229,229,90,data/spike_explainer/2026-06-21__appid_4468030__rank_2511_to_2282__up_229/llm_summary_input.md

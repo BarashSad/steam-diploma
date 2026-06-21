@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Inferno Protocol
+Analyzed: OFFBEAT
 Tavily Budget Used: 15
 Errors: 0
