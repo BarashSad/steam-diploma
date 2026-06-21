@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-06-21T05:15:15.969106+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260621_045320/rank_changes.csv",
-    "selected_appid": "4468030",
-    "selected_game_title": "OFFBEAT",
+    "started_at": "2026-06-21T14:43:22.661226+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260621_142255/rank_changes.csv",
+    "selected_appid": "4252830",
+    "selected_game_title": "Type or Die",
     "top_n": 1,
     "old_snapshot_date": "2026-06-18",
     "new_snapshot_date": "2026-06-21",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-21T05:15:15.969124+00:00",
+    "finished_at": "2026-06-21T14:43:22.661240+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

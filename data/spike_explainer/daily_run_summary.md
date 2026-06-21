@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: OFFBEAT
+Analyzed: Type or Die
 Tavily Budget Used: 15
 Errors: 0

@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-4468030,OFFBEAT,"site:pcgamer.com ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0
-4468030,OFFBEAT,"site:rockpapershotgun.com ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0
-4468030,OFFBEAT,"site:ign.com ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0
-4468030,OFFBEAT,"site:gamespot.com ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0
-4468030,OFFBEAT,"site:game8.co ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0
+4252830,Type or Die,"site:pcgamer.com ""Type or Die""",press,2,tavily,False,General budget exhausted,0
+4252830,Type or Die,"site:rockpapershotgun.com ""Type or Die""",press,2,tavily,False,General budget exhausted,0
+4252830,Type or Die,"site:ign.com ""Type or Die""",press,2,tavily,False,General budget exhausted,0
+4252830,Type or Die,"site:gamespot.com ""Type or Die""",press,2,tavily,False,General budget exhausted,0
+4252830,Type or Die,"site:game8.co ""Type or Die""",press,2,tavily,False,General budget exhausted,0

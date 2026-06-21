@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4252830,Type or Die,"""Type or Die"" Steam",general,1,tavily,True,,5
+4252830,Type or Die,"""Type or Die"" trailer",general,1,tavily,True,,5
+4252830,Type or Die,"""Type or Die"" gameplay",general,1,tavily,True,,5
+4252830,Type or Die,"""Type or Die"" demo",general,1,tavily,True,,5
+4252830,Type or Die,"""Type or Die"" release date",general,1,tavily,True,,5
+4252830,Type or Die,"""Type or Die"" announcement",general,1,tavily,True,,5
+4252830,Type or Die,"""Type or Die"" preview",general,1,tavily,True,,5
+4252830,Type or Die,"""Type or Die"" review",general,1,tavily,True,,5
+4252830,Type or Die,"""Type or Die"" publisher",general,1,tavily,True,,5
+4252830,Type or Die,"""Type or Die"" developer",general,1,tavily,True,,5
+4252830,Type or Die,"site:pcgamer.com ""Type or Die""",press,2,tavily,False,General budget exhausted,0
+4252830,Type or Die,"site:rockpapershotgun.com ""Type or Die""",press,2,tavily,False,General budget exhausted,0
+4252830,Type or Die,"site:ign.com ""Type or Die""",press,2,tavily,False,General budget exhausted,0
+4252830,Type or Die,"site:gamespot.com ""Type or Die""",press,2,tavily,False,General budget exhausted,0
+4252830,Type or Die,"site:game8.co ""Type or Die""",press,2,tavily,False,General budget exhausted,0
+4252830,Type or Die,"site:reddit.com ""Type or Die""",social,3,tavily,True,,5
+4252830,Type or Die,"site:tiktok.com ""Type or Die""",social,4,tavily,True,,4
+4252830,Type or Die,"site:instagram.com ""Type or Die""",social,4,tavily,True,,4
+4252830,Type or Die,"site:x.com ""Type or Die""",social,4,tavily,True,,5
+4252830,Type or Die,"site: ""Type or Die""",social,4,tavily,True,,5
