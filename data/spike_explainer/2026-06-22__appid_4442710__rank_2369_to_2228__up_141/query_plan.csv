@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4442710,Spirit Dungeon,"""Spirit Dungeon"" Steam",general,1,tavily,True,,5
+4442710,Spirit Dungeon,"""Spirit Dungeon"" trailer",general,1,tavily,True,,5
+4442710,Spirit Dungeon,"""Spirit Dungeon"" gameplay",general,1,tavily,True,,5
+4442710,Spirit Dungeon,"""Spirit Dungeon"" demo",general,1,tavily,True,,5
+4442710,Spirit Dungeon,"""Spirit Dungeon"" release date",general,1,tavily,True,,5
+4442710,Spirit Dungeon,"""Spirit Dungeon"" announcement",general,1,tavily,True,,5
+4442710,Spirit Dungeon,"""Spirit Dungeon"" preview",general,1,tavily,True,,5
+4442710,Spirit Dungeon,"""Spirit Dungeon"" review",general,1,tavily,True,,5
+4442710,Spirit Dungeon,"""Spirit Dungeon"" publisher",general,1,tavily,True,,5
+4442710,Spirit Dungeon,"""Spirit Dungeon"" developer",general,1,tavily,True,,5
+4442710,Spirit Dungeon,"site:pcgamer.com ""Spirit Dungeon""",press,2,tavily,False,General budget exhausted,0
+4442710,Spirit Dungeon,"site:rockpapershotgun.com ""Spirit Dungeon""",press,2,tavily,False,General budget exhausted,0
+4442710,Spirit Dungeon,"site:ign.com ""Spirit Dungeon""",press,2,tavily,False,General budget exhausted,0
+4442710,Spirit Dungeon,"site:gamespot.com ""Spirit Dungeon""",press,2,tavily,False,General budget exhausted,0
+4442710,Spirit Dungeon,"site:game8.co ""Spirit Dungeon""",press,2,tavily,False,General budget exhausted,0
+4442710,Spirit Dungeon,"site:reddit.com ""Spirit Dungeon""",social,3,tavily,True,,5
+4442710,Spirit Dungeon,"site:tiktok.com ""Spirit Dungeon""",social,4,tavily,True,,5
+4442710,Spirit Dungeon,"site:instagram.com ""Spirit Dungeon""",social,4,tavily,True,,4
+4442710,Spirit Dungeon,"site:x.com ""Spirit Dungeon""",social,4,tavily,True,,5
+4442710,Spirit Dungeon,"site: ""Spirit Dungeon""",social,4,tavily,True,,5

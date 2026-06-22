@@ -1,0 +1,8 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+1818470,Desolation Seed,Desolation Seed,1951,1910,41,41,up,upward_spike,Unpriced (Coming Soon),Free,True,"Jun 22, 2026",Coming soon,True
+4163030,Cat Chess,Cat Chess,1212,1184,28,28,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 22, 2026","Jul 8, 2026",True
+1368180,Wildekin,Wildekin,1919,1917,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,To be announced,True
+1431300,SAND: Raiders of Sophie,SAND: Raiders of Sophie,28,27,1,1,up,none,Unpriced (Coming Soon),Free,True,"Jun 22, 2026",Coming soon,True
+1913120,Tears of Metal,Tears of Metal,104,105,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Jul 22, 2026",True
+4165910,Steam Machine,Steam Machine,8,8,0,0,stable,none,Free,"$1,049.00",True,Coming soon,"Jun 30, 2026",True
+3432480,Shards of Order,Shards of Order,1723,1723,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Jul 28, 2026",True

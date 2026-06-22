@@ -1,0 +1,63 @@
+{
+    "appnews": {
+        "appid": 4442710,
+        "newsitems": [
+            {
+                "gid": "1835871199310872",
+                "title": "Demo v1.4.0 \u2014 and what comes next",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310872",
+                "is_external_url": true,
+                "author": "Nemora",
+                "contents": "Demo v1.4.0 \u2014 and what comes next This is Nemora Games. Thank you so much to everyone who played the demo, and to those who shared their thoughts and bug reports. Our wishlist has also passed 13,000. I've been amazed that so many people have taken an interest \u2014 it truly means a lot to me. At the same time, I left too little time between Steam Next Fest and the Early Access launch, and I wasn't able to act on as much of your feedback as I'd hoped before launch. With the Early Access launch coming up on June 26, I'd like to share a little about what I've already changed, what I feel still needs work, and where things are headed. Demo v1.4.0 changes Updated with your feedback in mind. New Added a spirit leveling & EXP system \u2014 spirits now grow as they fight. This is just a first step, and I'll keep refining the balance and how it works over time. Adjustments Tuned the early-game balance. You can now cancel when releasing a spirit. Improved Korean and Chinese (Simplified / Traditional) font readability. Adjusted the flee confirmation and some other display and control details. Fixes Fixed an issue where parts of the UI could stop responding to input. Made various stability improvements. A few things I'd like to be open about As the game heads into Early Access, there are a few things I'd like to share openly. The core experience \u2014 party building, deckbuilding, auto-battle, dungeon exploration, and boss fights \u2014 is playable from beginning to end. But as many of you noted, some parts aren't as polished as I'd like just yet: Combat and exploration can feel repetitive. Cards and spirit synergies don't offer enough interesting, difficult choices. There's little to do with the resources you earn, such as currency and energy. Dungeon exploration and the home base are still shallow. Your feedback helped me see these more clearly, and I'd like to take care of them, one at a time. What I'd like to work on next I think there's still a lot of potential in this game. Here's what I'm hoping to improve: Reducing the overall sense of repetition. Making dungeon exploration genuinely enjoyable. Building out the home base. These are all connected, so the systems around currency and resources will be revisited along the way. The details are still coming together, but I'll start with the bigger things \u2014 the repetition, and how thin exploration and the base feel right now. If you're thinking about buying The game is still in development, and adjustments and improvements will continue for some time. If you'd rather wait for a more complete experience, I'd be really happy if you added it to your wishlist and followed along. Hearing what you'd like to see improved is a huge help. And if you'd enjoy following the game as it grows from this early stage, I'd love to have you along. Anything you choose to share will be a valuable reference for me as I keep working on it. I've tried to describe where things stand as honestly as I can, so you can enjoy the game in whatever way suits you best. I'll keep working on Spirit Dungeon, making it better step by step. I'd be glad to have you watch that journey unfold alongside me, and I hope you'll look forward to what's ahead. \u2014 Nemora Games",
+                "feedlabel": "Community Announcements",
+                "date": 1782045437,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4442710
+            },
+            {
+                "gid": "1835236783569979",
+                "title": "Demo v1.3.2 Patch Notes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783569979",
+                "is_external_url": true,
+                "author": "Nemora",
+                "contents": "Fixes Fixed a crash that occurred when using a draw effect with an empty deck and discard pile Fixed an issue where the game could become unresponsive after menu operations in certain situations Optimized wall collision to reduce snagging during movement on the map Thank you for playing the demo! A huge thanks to everyone who took the time to report issues. We'll keep improving the game so that everyone can enjoy it to the fullest. Thank you for your continued support.",
+                "feedlabel": "Community Announcements",
+                "date": 1781524080,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4442710,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1834602721201527",
+                "title": "Spirit Dungeon Releases in Early Access on June 26, 2026!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721201527",
+                "is_external_url": true,
+                "author": "Nemora",
+                "contents": "Spirit Dungeon launches in Early Access on Steam on June 26, 2026. Thank you so much to everyone who has supported the game so far. After nearly two years of development, we've finally reached the point where Early Access can begin. Price: $9.99 USD. A launch discount is also planned. Thank you for your continued support, and we look forward to release day.",
+                "feedlabel": "Community Announcements",
+                "date": 1781005278,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4442710
+            },
+            {
+                "gid": "1833334318573279",
+                "title": "Joining Steam Next Fest! Demo v1.2.0 Major Update Released",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318573279",
+                "is_external_url": true,
+                "author": "Nemora",
+                "contents": "Joining Steam Next Fest! Hello! I'm Nemora, the developer of Spirit Dungeon. I'm excited to announce that Spirit Dungeon will be participating in the Steam Next Fest June 2026 Edition, running from June 15-22! This is my first announcement since the demo launch. To celebrate joining the Next Fest, I'd like to share the Demo v1.2.0 major update released today, along with the key improvements I've made over time. Demo v1.2.0: Xbox Controller Support Added The Demo v1.2.0 update released today adds Xbox controller support. All UIs support gamepad input - from the title screen, battles, dungeon exploration, catalog, deck building, to the inventory Refreshed player character sprites and animations If you've been waiting to play with a controller, please give this major update a try! Major Updates So Far Thank you to everyone who has played the demo. I've made many improvements along the way. Here are the highlights you can check out during the Next Fest. Dungeon Dash Added a dash function that lets you move quickly through dungeons. Exploration is now much smoother. Expanded Language Support Added 5 new languages (Russian, Spanish, Portuguese (Brazil), German, French) for a total of 10 supported languages. Battle Target Highlighting Added a highlight indicator so the attack target is immediately clear. Other Improvements Tutorial improvements Enhanced wind effects on decorations (for a more lively world) Improved inventory controls Numerous bug fixes and stability improvements See You at the Next Fest! During the Steam Next Fest from June 15-22, please try out the updated demo! Your feedback in the community hub or store reviews would be greatly appreciated and helps motivate future development. A wishlist add would mean a lot too!",
+                "feedlabel": "Community Announcements",
+                "date": 1779506104,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4442710
+            }
+        ],
+        "count": 4
+    }
+}
