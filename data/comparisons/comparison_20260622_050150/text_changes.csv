@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3950130,Database Detective: Minor Crimes Division,Database Detective: Minor Crimes Division,2197,2138,59,59,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,July 2026,"Jul 17, 2026",True
+3825390,BLUE REFLECTION Quartet,BLUE REFLECTION Quartet,1604,1589,15,15,up,none,Unpriced (Coming Soon),$49.99,True,"Jul 29, 2026","Jul 29, 2026",False
+2950790,IRON NEST: Heavy Turret Simulator,IRON NEST: Heavy Turret Simulator,72,67,5,5,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,August 2026,True

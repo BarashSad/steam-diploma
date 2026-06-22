@@ -1,0 +1,25 @@
+{
+    "appnews": {
+        "appid": 4834070,
+        "newsitems": [
+            {
+                "gid": "1835236783575203",
+                "title": "Launch On June 26 (Thank you for Wishlisting!)",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783575203",
+                "is_external_url": true,
+                "author": "DopplerGhost",
+                "contents": "Ahoy Shipmates!\u00a0\ud83c\udfdd\ufe0f'Don't Sleep With The Fishes' has a Steam Launch date:June 26!This will include a patch (1.1.3) that updates the game in small ways to get it ready for the Steam release, including a slight balance change to difficulty, a fast-forward option to speed up the starting cutscenes for Night events, and a new opportunity to make your shipmates helpful! Note: People who already own a version of the game may receive Steam Achievements on startup based on how much progress they have already made in the game. We are nearly at 10,000 wishlists already!! I cannot thank everyone enough who has already wishlisted the game on Steam! You guys are the best. Until then,- Taiki (DopplerGhost) ",
+                "feedlabel": "Community Announcements",
+                "date": 1781633292,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4834070,
+                "tags": [
+                    "hide_library_overview",
+                    "hide_library_detail"
+                ]
+            }
+        ],
+        "count": 1
+    }
+}

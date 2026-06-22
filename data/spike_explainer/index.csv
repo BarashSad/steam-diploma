@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-21T14:43:06.275073+00:00,4252830,Type or Die,data/spike_explainer/2026-06-21__appid_4252830__rank_2042_to_1919__up_123,123,85,data/spike_explainer/2026-06-21__appid_4252830__rank_2042_to_1919__up_123/llm_summary_input.md
+2026-06-22T05:23:49.161730+00:00,4834070,Don't Sleep With The Fishes,data/spike_explainer/2026-06-22__appid_4834070__rank_2155_to_1890__up_265,265,70,data/spike_explainer/2026-06-22__appid_4834070__rank_2155_to_1890__up_265/llm_summary_input.md

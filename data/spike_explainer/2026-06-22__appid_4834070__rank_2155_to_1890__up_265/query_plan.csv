@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4834070,Don't Sleep With The Fishes,"""Don't Sleep With The Fishes"" Steam",general,1,tavily,True,,5
+4834070,Don't Sleep With The Fishes,"""Don't Sleep With The Fishes"" trailer",general,1,tavily,True,,5
+4834070,Don't Sleep With The Fishes,"""Don't Sleep With The Fishes"" gameplay",general,1,tavily,True,,5
+4834070,Don't Sleep With The Fishes,"""Don't Sleep With The Fishes"" demo",general,1,tavily,True,,5
+4834070,Don't Sleep With The Fishes,"""Don't Sleep With The Fishes"" release date",general,1,tavily,True,,5
+4834070,Don't Sleep With The Fishes,"""Don't Sleep With The Fishes"" announcement",general,1,tavily,True,,5
+4834070,Don't Sleep With The Fishes,"""Don't Sleep With The Fishes"" preview",general,1,tavily,True,,5
+4834070,Don't Sleep With The Fishes,"""Don't Sleep With The Fishes"" review",general,1,tavily,True,,5
+4834070,Don't Sleep With The Fishes,"""Don't Sleep With The Fishes"" publisher",general,1,tavily,True,,5
+4834070,Don't Sleep With The Fishes,"""Don't Sleep With The Fishes"" developer",general,1,tavily,True,,5
+4834070,Don't Sleep With The Fishes,"site:pcgamer.com ""Don't Sleep With The Fishes""",press,2,tavily,False,General budget exhausted,0
+4834070,Don't Sleep With The Fishes,"site:rockpapershotgun.com ""Don't Sleep With The Fishes""",press,2,tavily,False,General budget exhausted,0
+4834070,Don't Sleep With The Fishes,"site:ign.com ""Don't Sleep With The Fishes""",press,2,tavily,False,General budget exhausted,0
+4834070,Don't Sleep With The Fishes,"site:gamespot.com ""Don't Sleep With The Fishes""",press,2,tavily,False,General budget exhausted,0
+4834070,Don't Sleep With The Fishes,"site:game8.co ""Don't Sleep With The Fishes""",press,2,tavily,False,General budget exhausted,0
+4834070,Don't Sleep With The Fishes,"site:reddit.com ""Don't Sleep With The Fishes""",social,3,tavily,True,,5
+4834070,Don't Sleep With The Fishes,"site:tiktok.com ""Don't Sleep With The Fishes""",social,4,tavily,True,,5
+4834070,Don't Sleep With The Fishes,"site:instagram.com ""Don't Sleep With The Fishes""",social,4,tavily,True,,5
+4834070,Don't Sleep With The Fishes,"site:x.com ""Don't Sleep With The Fishes""",social,4,tavily,True,,5
+4834070,Don't Sleep With The Fishes,"site: ""Don't Sleep With The Fishes""",social,4,tavily,True,,5

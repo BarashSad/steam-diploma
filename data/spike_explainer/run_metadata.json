@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-06-21T14:43:22.661226+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260621_142255/rank_changes.csv",
-    "selected_appid": "4252830",
-    "selected_game_title": "Type or Die",
+    "started_at": "2026-06-22T05:24:04.041458+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260622_050150/rank_changes.csv",
+    "selected_appid": "4834070",
+    "selected_game_title": "Don't Sleep With The Fishes",
     "top_n": 1,
-    "old_snapshot_date": "2026-06-18",
-    "new_snapshot_date": "2026-06-21",
+    "old_snapshot_date": "2026-06-19",
+    "new_snapshot_date": "2026-06-22",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-21T14:43:22.661240+00:00",
+    "finished_at": "2026-06-22T05:24:04.041471+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
