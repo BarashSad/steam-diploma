@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-06-23T04:23:41.856352+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260623_040130/rank_changes.csv",
-    "selected_appid": "4562150",
-    "selected_game_title": "How To Grow a Black Hole",
+    "started_at": "2026-06-23T15:35:13.167181+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260623_151345/rank_changes.csv",
+    "selected_appid": "4123070",
+    "selected_game_title": "MonCraft 199X",
     "top_n": 1,
     "old_snapshot_date": "2026-06-20",
     "new_snapshot_date": "2026-06-23",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-23T04:23:41.856372+00:00",
+    "finished_at": "2026-06-23T15:35:13.167195+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

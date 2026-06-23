@@ -1,0 +1,7 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2837780,KARJALA,KARJALA,2172,2061,111,111,up,upward_spike,Unpriced (Coming Soon),Free,True,"Jun 23, 2026",Coming soon,True
+3372060,Hell Maiden,Hell Maiden,636,630,6,6,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Jul 16, 2026",True
+3743140,Battleplan,Battleplan,772,766,6,6,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 14, 2026",Q3 2026,True
+4074010,"Dig, Dig, Die","Dig, Dig, Die",899,893,6,6,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,July 2026,"Aug 6, 2026",True
+4061090,Rift Fishing,Rift Fishing,784,779,5,5,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,Q4 2026,True
+4502750,Infamous Keepers,Infamous Keepers,563,561,2,2,up,none,Free,Free,False,Q1 2027,2027,True

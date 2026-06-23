@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4123070,MonCraft 199X,"""MonCraft 199X"" Steam",general,1,tavily,True,,5
+4123070,MonCraft 199X,"""MonCraft 199X"" trailer",general,1,tavily,True,,5
+4123070,MonCraft 199X,"""MonCraft 199X"" gameplay",general,1,tavily,True,,5
+4123070,MonCraft 199X,"""MonCraft 199X"" demo",general,1,tavily,True,,5
+4123070,MonCraft 199X,"""MonCraft 199X"" release date",general,1,tavily,True,,5
+4123070,MonCraft 199X,"""MonCraft 199X"" announcement",general,1,tavily,True,,5
+4123070,MonCraft 199X,"""MonCraft 199X"" preview",general,1,tavily,True,,5
+4123070,MonCraft 199X,"""MonCraft 199X"" review",general,1,tavily,True,,5
+4123070,MonCraft 199X,"""MonCraft 199X"" publisher",general,1,tavily,True,,5
+4123070,MonCraft 199X,"""MonCraft 199X"" developer",general,1,tavily,True,,5
+4123070,MonCraft 199X,"site:pcgamer.com ""MonCraft 199X""",press,2,tavily,False,General budget exhausted,0
+4123070,MonCraft 199X,"site:rockpapershotgun.com ""MonCraft 199X""",press,2,tavily,False,General budget exhausted,0
+4123070,MonCraft 199X,"site:ign.com ""MonCraft 199X""",press,2,tavily,False,General budget exhausted,0
+4123070,MonCraft 199X,"site:gamespot.com ""MonCraft 199X""",press,2,tavily,False,General budget exhausted,0
+4123070,MonCraft 199X,"site:game8.co ""MonCraft 199X""",press,2,tavily,False,General budget exhausted,0
+4123070,MonCraft 199X,"site:reddit.com ""MonCraft 199X""",social,3,tavily,True,,4
+4123070,MonCraft 199X,"site:tiktok.com ""MonCraft 199X""",social,4,tavily,True,,5
+4123070,MonCraft 199X,"site:instagram.com ""MonCraft 199X""",social,4,tavily,True,,5
+4123070,MonCraft 199X,"site:x.com ""MonCraft 199X""",social,4,tavily,True,,5
+4123070,MonCraft 199X,"site: ""MonCraft 199X""",social,4,tavily,True,,5

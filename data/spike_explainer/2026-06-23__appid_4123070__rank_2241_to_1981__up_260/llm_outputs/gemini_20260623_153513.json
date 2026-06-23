@@ -1,0 +1,15 @@
+{
+    "status": "error_api_failure",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-23T15:35:13.265148+00:00",
+    "timestamp": "20260623_153513",
+    "input_file": "data/spike_explainer/2026-06-23__appid_4123070__rank_2241_to_1981__up_260/llm_summary_input.md",
+    "output_path": "",
+    "game_title": "MonCraft 199X",
+    "appid": "4123070",
+    "duration_sec": 0.0,
+    "response_length": 0,
+    "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+}
