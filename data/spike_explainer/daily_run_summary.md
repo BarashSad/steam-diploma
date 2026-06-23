@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Spirit Dungeon
+Analyzed: How To Grow a Black Hole
 Tavily Budget Used: 15
 Errors: 0

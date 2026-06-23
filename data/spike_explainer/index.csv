@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-22T17:26:54.332008+00:00,4442710,Spirit Dungeon,data/spike_explainer/2026-06-22__appid_4442710__rank_2369_to_2228__up_141,141,75,data/spike_explainer/2026-06-22__appid_4442710__rank_2369_to_2228__up_141/llm_summary_input.md
+2026-06-23T04:23:25.812019+00:00,4562150,How To Grow a Black Hole,data/spike_explainer/2026-06-23__appid_4562150__rank_2424_to_2092__up_332,332,75,data/spike_explainer/2026-06-23__appid_4562150__rank_2424_to_2092__up_332/llm_summary_input.md

@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-23T04:23:41.973068+00:00",
+    "timestamp": "20260623_042341",
+    "input_file": "data/spike_explainer/2026-06-23__appid_4562150__rank_2424_to_2092__up_332/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-23__appid_4562150__rank_2424_to_2092__up_332/llm_outputs/gemini_20260623_042341.md",
+    "game_title": "How To Grow a Black Hole",
+    "appid": "4562150",
+    "duration_sec": 22.7,
+    "response_length": 6772,
+    "error": null
+}

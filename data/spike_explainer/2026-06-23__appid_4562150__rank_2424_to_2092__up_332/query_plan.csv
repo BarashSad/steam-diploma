@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4562150,How To Grow a Black Hole,"""How To Grow a Black Hole"" Steam",general,1,tavily,True,,5
+4562150,How To Grow a Black Hole,"""How To Grow a Black Hole"" trailer",general,1,tavily,True,,5
+4562150,How To Grow a Black Hole,"""How To Grow a Black Hole"" gameplay",general,1,tavily,True,,5
+4562150,How To Grow a Black Hole,"""How To Grow a Black Hole"" demo",general,1,tavily,True,,5
+4562150,How To Grow a Black Hole,"""How To Grow a Black Hole"" release date",general,1,tavily,True,,5
+4562150,How To Grow a Black Hole,"""How To Grow a Black Hole"" announcement",general,1,tavily,True,,5
+4562150,How To Grow a Black Hole,"""How To Grow a Black Hole"" preview",general,1,tavily,True,,5
+4562150,How To Grow a Black Hole,"""How To Grow a Black Hole"" review",general,1,tavily,True,,5
+4562150,How To Grow a Black Hole,"""How To Grow a Black Hole"" publisher",general,1,tavily,True,,5
+4562150,How To Grow a Black Hole,"""How To Grow a Black Hole"" developer",general,1,tavily,True,,5
+4562150,How To Grow a Black Hole,"site:pcgamer.com ""How To Grow a Black Hole""",press,2,tavily,False,General budget exhausted,0
+4562150,How To Grow a Black Hole,"site:rockpapershotgun.com ""How To Grow a Black Hole""",press,2,tavily,False,General budget exhausted,0
+4562150,How To Grow a Black Hole,"site:ign.com ""How To Grow a Black Hole""",press,2,tavily,False,General budget exhausted,0
+4562150,How To Grow a Black Hole,"site:gamespot.com ""How To Grow a Black Hole""",press,2,tavily,False,General budget exhausted,0
+4562150,How To Grow a Black Hole,"site:game8.co ""How To Grow a Black Hole""",press,2,tavily,False,General budget exhausted,0
+4562150,How To Grow a Black Hole,"site:reddit.com ""How To Grow a Black Hole""",social,3,tavily,True,,5
+4562150,How To Grow a Black Hole,"site:tiktok.com ""How To Grow a Black Hole""",social,4,tavily,True,,4
+4562150,How To Grow a Black Hole,"site:instagram.com ""How To Grow a Black Hole""",social,4,tavily,True,,5
+4562150,How To Grow a Black Hole,"site:x.com ""How To Grow a Black Hole""",social,4,tavily,True,,5
+4562150,How To Grow a Black Hole,"site: ""How To Grow a Black Hole""",social,4,tavily,True,,5

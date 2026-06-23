@@ -1,0 +1,171 @@
+{
+    "appnews": {
+        "appid": 4562150,
+        "newsitems": [
+            {
+                "gid": "1835871199313461",
+                "title": "Next Fest is over!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313461",
+                "is_external_url": true,
+                "author": "Retep",
+                "contents": "Hello everyone! First off, I just want to say that this past week has easily been one of the most exciting weeks of my life. I\u2019ve always wanted to create games. Over the past few years, I\u2019ve been working a lot, learning even more, and slowly trying to turn that dream into something real. And now, I finally did it. I made a game, and that game releases tomorrow at 10 AM. The game will be available for $3.99, with a 15% launch discount for the first week, bringing it down to $3.39! This whole thing still feels completely surreal to me. I never really expected this game to become popular, or honestly even be enjoyed by this many people. To me, it was just a dream, quite literally, that I decided to turn into reality because I thought it would be fun to make and fun to play. But as of writing this, the game has passed 15,000 wishlists, and it could very likely hit 20,000 today. Not only that, but the game is currently in the top 600 for wishlist activity and in the top 2,000 most wishlisted games on Steam. That is just\u2026 insane. So many people from all around the world have played the demo, given feedback, shared really good advice, helped me find and squash bugs, and most importantly, gotten excited for what\u2019s next. At launch, the game will include a handful of things that were missing from the demo, including color-coded feed particles, better visual feedback from the black hole, and a few more things I\u2019m finishing up today. I am also writing this while 100% sleep deprived. There have been a lot of sleepless nights and a lot of very, very, veryyy late nights this past week, all to make sure everyone has the best experience possible when the full game launches. I also have a lot planned for future updates. I want to keep working with the community, listen to your ideas, and build this into a game that not only I enjoy, but you all enjoy too. And this will not be my only game. More on that later. At this point, I\u2019m kind of rambling, so I\u2019ll just say this: THANK YOU. To every single person who played the demo, wishlisted the game, told their friends, gave feedback, or even just watched from the sidelines, thank you. You are all actually so awesome, and I cannot wait to see everyone play the full game and compete across the globe for the title of WORLD\u2019S BIGGEST BLACK HOLE!! Next Fest has been the most amazing week of my life, and I\u2019m going to be chasing this feeling for the rest of my life. Thanks, Noah P.S. The grapefruit is still contained. No need to worry :) {STEAM_CLAN_IMAGE}/46094952/b0761b2b34c03e7d30c9f93a6334837ad2858340.png",
+                "feedlabel": "Community Announcements",
+                "date": 1782146071,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4562150
+            },
+            {
+                "gid": "1835871199310731",
+                "title": "How To Grow a Black Hole Update",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310731",
+                "is_external_url": true,
+                "author": "Retep",
+                "contents": "FixedFixed an issue where feed sources \"X AE required to unlock\" would not update unless the user interacted with the game.Fixed an issue where the info cards on upgrades would not update until the user hovered off and then hovered back over. Stats will now update in real time.Fixed an issue with the research screen and progression page clipping out of the game while windowed.Fixed an issue that would occur on very specific systems and cause bad screen tearing. This should now be resolved.TweakedAdded stat info to feed source upgrades, users can now see how much the next upgrade will improve the feed source.Improved the visual of the research progress bar, it now looks much better.Music now plays more frequently at random intervals between 8-28 seconds, instead of 45 seconds to 2 minutes. An option for continuous music will be included in the next update!",
+                "feedlabel": "Community Announcements",
+                "date": 1782038215,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4562150,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1835871199310454",
+                "title": "8000 WISHLISTS!!!!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310454",
+                "is_external_url": true,
+                "author": "Retep",
+                "contents": "Today we hit 8000 wishlists and climbing! Thank you so much to everyone who has wishlisted the game, played the demo, filled out the survey, or shared feedback. I genuinely never expected this game to get this much attention. What started as a small side project I was making in my free time has now reached 8,000 wishlists, and at the current rate, it may even hit 10,000 wishlists tomorrow. That is honestly insane. I\u2019m really excited, and also a bit nervous for everyone to get their hands on the full game this Tuesday.What\u2019s Next?? Over the last two weeks, the game has been my main focus. I\u2019ve been fixing bugs, reading community feedback, and writing down ideas that I want to add in future updates. Some of the things I\u2019m planning include: Improved gameplay feedback! Clearer visuals for what is happening, such as numbers popping up when particles enter the black hole. Among other things to make the game feel more tactile and satisfying. Colored particles! Different feed sources will have different particle colors, making things easier to read at a glance. A better tutorial! The current tutorial is pretty rough and is mostly just a wall of text. I made it early in development and neglected it more than I should have. Sorry about that haha. UI improvements! I\u2019ve been concepting ideas for a cleaner and more useful UI, and I\u2019ll share more on that soon. Alongside improvements for smaller screens. I also noted a lot of people wanted a way to have the game on the screen so they can do things like work or whatever while the game runs as like a companion. Which is a cool idea I plan on looking into. More roguelike features! I want to add things like chaos modifiers that can change each run and make the game more replayable. Alongside some sort of mini game or random events that can happen. Improved sound effects, and new music! I really enjoyed making the music and sound effects for this game and plan on improving these in the future as well. The response from you guys regarding the music is really cool and I think you guy will love the songs I plan on adding in the future! I'll also add the option for continuous music here soon, as some people have mentioned the game can be silent. And much much more over time.Thank You!!!! Seriously, thank you. The feedback has been overwhelming in the best way, and it has made me even more motivated to keep improving the game. I know there are still things I need to work on, and I\u2019m taking the feedback seriously. I\u2019m really excited for the future of this game.Join the Community If you want to be more involved, I made a Discord that you can join by clicking the image below. It\u2019s still a little rough right now, but I\u2019ll improve it when I get the chance. See you guys there! {STEAM_CLAN_IMAGE}/46094952/b0761b2b34c03e7d30c9f93a6334837ad2858340.png The Grapefruit attempted a containment breach at 0400 hours today. O.G.R.E., the Office of Gravitational Research and Enforcement, has classified the incident as \u201cslightly sour.\u201d",
+                "feedlabel": "Community Announcements",
+                "date": 1782020595,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4562150
+            },
+            {
+                "gid": "1835871199309251",
+                "title": "How To Grow a Black Hole Update",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199309251",
+                "is_external_url": true,
+                "author": "Retep",
+                "contents": "AddedAdded the option to skip the collapse sequence by holding LMB.TweakedTweaked the survey to include a new question regarding purchasing the game.FixedFixed bug that caused the game to create ghost duplicate while alt-tabbing out of the game.",
+                "feedlabel": "Community Announcements",
+                "date": 1781958586,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4562150,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1835871199307657",
+                "title": "The Much Needed Update",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199307657",
+                "is_external_url": true,
+                "author": "Retep",
+                "contents": "Beautiful Celestial Beings!Thank you to everyone around the world who has been completing the survey. The feedback has been astonishing, insightful, and extremely motivating. You guys are amazing.This update focuses on fixing several issues reported through the survey, along with improvements to UI scaling, display settings, particle behavior, and music frequency.I also added two new ambient songs: \u201cSequence1\u201d and \u201cDots in the Sky.\u201d I hope you enjoy the update. There is much more to come soon. ",
+                "feedlabel": "Community Announcements",
+                "date": 1781886194,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4562150,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1751692459_1781899729_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1835236783556540",
+                "title": "How To Grow a Black Hole Update",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783556540",
+                "is_external_url": true,
+                "author": "Retep",
+                "contents": "TweakedReworked the collapse sequence visuals.Improved performance significantly during heavy particle load, collapses, and UI overlays.FixedFixed an issue where the accretion disk could reset or disappear during collapses.Fixed an issue where the black hole scene could freeze while the progression panel was open.",
+                "feedlabel": "Community Announcements",
+                "date": 1781066988,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4562150,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1834602721200286",
+                "title": "How To Grow a Black Hole Launches June 23rd!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721200286",
+                "is_external_url": true,
+                "author": "Retep",
+                "contents": "I\u2019m excited to officially announce that How To Grow a Black Hole will release on June 23rd, 2026.The game will launch on Steam for $3.99 USD.Release DetailsRelease Date: June 23rd, 2026 Launch Time: 10:00 AM PDT Platform: Steam Price: $3.99 USDGlobal Launch TimesHow To Grow a Black Hole will unlock globally on June 23rd, 2026 at 10:00 AM PDT.For players outside of the Pacific time zone, the launch time will be:CityLocal Release TimeLos AngelesJune 23, 10:00 AM PDTNew YorkJune 23, 1:00 PM EDTLondonJune 23, 6:00 PM BSTMoscowJune 23, 8:00 PM MSKNew DelhiJune 23, 10:30 PM ISTTokyoJune 24, 2:00 AM JSTSydneyJune 24, 3:00 AM AEST Launch PriceHow To Grow a Black Hole will launch for $3.99 USD, with regional pricing available across supported Steam regions.A few of the major launch prices include:CurrencyPriceUSD$3.99EUR\u20ac4,15GBP\u00a33.59JPY\u00a5530CADCDN$4.59AUDA$5.75About the GameHow To Grow a Black Hole is a chill incremental game about feeding, upgrading, researching, and barely controlling the most dangerous cosmic object imaginable.Start small, increase your mass, unlock new ways to grow, and push the numbers higher and higher until everything starts getting completely unreasonable.It is simple, strange, satisfying, and built around one important question:How big can you make it before everything goes wrong?Feed. Upgrade. Barely Keep Control.Start with a tiny black hole.Feed it.Grow its mass.Unlock stronger upgrades.Research new systems.Push the numbers higher.Try to keep it stable.Watch everything get completely unreasonable.Play the Demo Before LaunchThe demo for How To Grow a Black Hole is available now on Steam.If you haven\u2019t played it yet, you can jump in before launch and try the core gameplay loop for yourself. The demo gives you an early look at the growth, upgrade, and run-based progression systems that the full game is built around.Built as a Solo Dev ProjectHow To Grow a Black Hole has been developed as a solo dev project, so every wishlist, demo playthrough, bug report, comment, and piece of feedback has made a real difference.Thank you to everyone who has played the demo, followed development, shared feedback, or added the game to their wishlist. Seeing people try the game and respond to it has been incredibly motivating.Wishlist NowIf you\u2019re interested in the game, wishlisting How To Grow a Black Hole helps a lot. It also makes sure you\u2019ll be notified when the game releases on June 23rd.Thank you again for the support.How To Grow a Black Hole releases on Steam June 23rd, 2026 for $3.99 USD. {STEAM_CLAN_IMAGE}/46094952/b0761b2b34c03e7d30c9f93a6334837ad2858340.png",
+                "feedlabel": "Community Announcements",
+                "date": 1780957162,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4562150,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1751555285_1780957858_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1833968530899217",
+                "title": "How To Grow a Black Hole Demo - Out Now!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530899217",
+                "is_external_url": true,
+                "author": "Retep",
+                "contents": "The demo for How To Grow a Black Hole is officially available now on Steam.Jump in, start growing your black hole, and see how far you can push the limits before everything spirals out of control.Play the DemoThe demo gives you an early look at the core gameplay, progression, and chaotic growth systems we\u2019ve been working on. We\u2019re excited to finally let players try it for themselves.What to ExpectGrow your black hole from a small anomaly into something far more destructiveExperiment with upgrades and progressionConsume, expand, and push your run as far as possibleGet an early feel for the systems we\u2019re building for the full gameWe Want Your FeedbackThis demo is an important step for us, and player feedback will help shape the game moving forward.After you play, let us know what you think. We\u2019re especially interested in feedback on:Game feelProgression pacingUpgrade balanceClarity and onboardingBugs or technical issuesAnything you want to see expanded in the full gameWishlist the Full GameIf you enjoy the demo, please consider wishlisting How To Grow a Black Hole. Wishlists help a lot and make it easier for us to keep building, improving, and expanding the game.Thank you for checking out the demo. We hope you have fun growing something deeply unstable.Play the demo now and let us know what you think. {STEAM_CLAN_IMAGE}/46094952/b0761b2b34c03e7d30c9f93a6334837ad2858340.png",
+                "feedlabel": "Community Announcements",
+                "date": 1780366269,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4562150,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1415716708_1780366496_0",
+                    "ModAct_1751555285_1780950216_4",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1833334318579573",
+                "title": "The Big Hud Update",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579573",
+                "is_external_url": true,
+                "author": "Retep",
+                "contents": "AddedAdded frost-style panels across the top bar, feed and upgrade rails, and the bottom dock.Added a starfield backdrop on the research screen, plus a grid layout and a Curvature balance readout in the corner.Research details has been reworked to be more visually compelling and easier to read.Progression, Settings, Leaderboard, Welcome Back, and Patch Notes all share the same look as the in-game HUD.Its a pretty nice change.FixedSmoother play during long sessions, with less hitchiness when the simulation is running hot.The black hole scene now updates disk and pressure visuals without redrawing the whole 3D view every tick.Matter captures now batch together so late-game particle storms do not stutter the UI.Hold-to-feed no longer spams fire sound loads. Those clips are ready when you need them.Opening Patch Notes no longer risks a crash when certain visual effects are enabled.Grapefruits are no longer larger than the observable universe. The grapefruit has been contained.TweakedBottom dock, upgrade rail, and celebration toasts now match the new frost HUD style.Research header, filters, and detail panel now use the same dividers and flat cards as the rest of the UI.Patch Notes use a cleaner layout, and older versions stay listed in Settings.Welcome Back screen lays out your away-time stats more clearly.HUD refresh timing adjusted so rate readouts stay smooth without hogging the main thread. I hope these changes make the game feel a little cleaner, and more enjoyable. As always, if something feels unstable, breaks, or just does not feel right, leave a comment or reach out and I\u2019ll take a look. Thanks for playing, and happy growing. - Noah {STEAM_CLAN_IMAGE}/46094952/b0761b2b34c03e7d30c9f93a6334837ad2858340.png",
+                "feedlabel": "Community Announcements",
+                "date": 1779807122,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4562150,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1847323374_1779809292_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1832065502823837",
+                "title": "How To Grow a Black Hole Update",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823837",
+                "is_external_url": true,
+                "author": "Retep",
+                "contents": "AddedAdded a larger, scrollable Patch Notes view that can be opened from Settings.Added company splash music support at launch.Added a new splash sequence that fades from stars into warp speed, then reveals the black hole and game title.Added two research upgrades: Feed Lane Controls and Reversible Upgrade Paths.FixedSplash music now starts with the splash sequence in the Electron game shell instead of waiting for a click.Collapse music no longer cuts off early. Tracks now play through with their intended fade.Fixed upgrade row highlights that could stick after a purchase.Fixed downgrade and sell pulses so they play on the correct action.Fixed upgrade tier bar spacing and milestone labels.Fixed upgrade affordability states so unaffordable upgrades are clearly dimmed.Fixed the feed source cost reduction research info so it shows the full-stack discount instead of a source price.TweakedReworked research descriptions, effects, and improvement text so upgrades are easier to understand.Improved splash title readability with a darker, blurrier overlay that eases into the live game scene.Cleaned up Settings actions so Patch Notes lives with build info instead of the save/session controls.The changelog, Welcome Back, and offline review modals now close with Escape.Updated UI text across the game to be more consistent and easier to read.",
+                "feedlabel": "Community Announcements",
+                "date": 1778591077,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4562150,
+                "tags": [
+                    "patchnotes"
+                ]
+            }
+        ],
+        "count": 10
+    }
+}
