@@ -1,0 +1,21 @@
+{
+    "appnews": {
+        "appid": 4123070,
+        "newsitems": [
+            {
+                "gid": "1835871199314883",
+                "title": "Y2K destroyed everything in the monster taming survival game MonCraft 199X",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1835871199314883",
+                "is_external_url": true,
+                "author": "",
+                "contents": "The \"Y2Katastrophe\" destroyed civilization in MonCraft 199X, an alternate history monster catching survival game that looks and sounds pretty great. Read the full article here: https://www.gamingonlinux.com/2026/06/y2k-destroyed-everything-in-the-monster-taming-survival-game-moncraft-199x/ ",
+                "feedlabel": "GamingOnLinux",
+                "date": 1782201719,
+                "feedname": "GamingOnLinux",
+                "feed_type": 0,
+                "appid": 4123070
+            }
+        ],
+        "count": 1
+    }
+}
