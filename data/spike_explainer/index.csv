@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-24T04:25:02.939263+00:00,4123070,MonCraft 199X,data/spike_explainer/2026-06-24__appid_4123070__rank_1981_to_1769__up_212,212,85,data/spike_explainer/2026-06-24__appid_4123070__rank_1981_to_1769__up_212/llm_summary_input.md
+2026-06-24T15:03:12.470685+00:00,4119710,Give Us A Sign,data/spike_explainer/2026-06-24__appid_4119710__rank_2019_to_1912__up_107,107,90,data/spike_explainer/2026-06-24__appid_4119710__rank_2019_to_1912__up_107/llm_summary_input.md

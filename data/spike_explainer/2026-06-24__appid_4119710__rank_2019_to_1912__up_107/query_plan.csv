@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4119710,Give Us A Sign,"""Give Us A Sign"" Steam",general,1,tavily,True,,5
+4119710,Give Us A Sign,"""Give Us A Sign"" trailer",general,1,tavily,True,,5
+4119710,Give Us A Sign,"""Give Us A Sign"" gameplay",general,1,tavily,True,,5
+4119710,Give Us A Sign,"""Give Us A Sign"" demo",general,1,tavily,True,,5
+4119710,Give Us A Sign,"""Give Us A Sign"" release date",general,1,tavily,True,,5
+4119710,Give Us A Sign,"""Give Us A Sign"" announcement",general,1,tavily,True,,5
+4119710,Give Us A Sign,"""Give Us A Sign"" preview",general,1,tavily,True,,5
+4119710,Give Us A Sign,"""Give Us A Sign"" review",general,1,tavily,True,,5
+4119710,Give Us A Sign,"""Give Us A Sign"" publisher",general,1,tavily,True,,5
+4119710,Give Us A Sign,"""Give Us A Sign"" developer",general,1,tavily,True,,5
+4119710,Give Us A Sign,"site:pcgamer.com ""Give Us A Sign""",press,2,tavily,False,General budget exhausted,0
+4119710,Give Us A Sign,"site:rockpapershotgun.com ""Give Us A Sign""",press,2,tavily,False,General budget exhausted,0
+4119710,Give Us A Sign,"site:ign.com ""Give Us A Sign""",press,2,tavily,False,General budget exhausted,0
+4119710,Give Us A Sign,"site:gamespot.com ""Give Us A Sign""",press,2,tavily,False,General budget exhausted,0
+4119710,Give Us A Sign,"site:game8.co ""Give Us A Sign""",press,2,tavily,False,General budget exhausted,0
+4119710,Give Us A Sign,"site:reddit.com ""Give Us A Sign""",social,3,tavily,True,,0
+4119710,Give Us A Sign,"site:tiktok.com ""Give Us A Sign""",social,4,tavily,True,,4
+4119710,Give Us A Sign,"site:instagram.com ""Give Us A Sign""",social,4,tavily,True,,5
+4119710,Give Us A Sign,"site:x.com ""Give Us A Sign""",social,4,tavily,True,,5
+4119710,Give Us A Sign,"site: ""Give Us A Sign""",social,4,tavily,True,,5

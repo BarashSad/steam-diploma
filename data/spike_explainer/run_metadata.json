@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-06-24T04:25:17.916491+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260624_040402/rank_changes.csv",
-    "selected_appid": "4123070",
-    "selected_game_title": "MonCraft 199X",
+    "started_at": "2026-06-24T15:03:28.295750+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260624_144335/rank_changes.csv",
+    "selected_appid": "4119710",
+    "selected_game_title": "Give Us A Sign",
     "top_n": 1,
     "old_snapshot_date": "2026-06-21",
     "new_snapshot_date": "2026-06-24",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-24T04:25:17.916506+00:00",
+    "finished_at": "2026-06-24T15:03:28.295764+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
