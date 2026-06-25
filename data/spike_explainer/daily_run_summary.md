@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Give Us A Sign
+Analyzed: Jeffrey Eggstein
 Tavily Budget Used: 15
 Errors: 0

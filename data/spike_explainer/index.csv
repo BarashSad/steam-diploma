@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-24T15:03:12.470685+00:00,4119710,Give Us A Sign,data/spike_explainer/2026-06-24__appid_4119710__rank_2019_to_1912__up_107,107,90,data/spike_explainer/2026-06-24__appid_4119710__rank_2019_to_1912__up_107/llm_summary_input.md
+2026-06-25T04:22:53.467631+00:00,4775410,Jeffrey Eggstein,data/spike_explainer/2026-06-25__appid_4775410__rank_2182_to_1992__up_190,190,70,data/spike_explainer/2026-06-25__appid_4775410__rank_2182_to_1992__up_190/llm_summary_input.md

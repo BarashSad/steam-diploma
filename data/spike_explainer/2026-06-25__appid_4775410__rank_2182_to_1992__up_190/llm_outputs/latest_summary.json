@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-25T04:23:20.314211+00:00",
+    "timestamp": "20260625_042320",
+    "input_file": "data/spike_explainer/2026-06-25__appid_4775410__rank_2182_to_1992__up_190/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-25__appid_4775410__rank_2182_to_1992__up_190/llm_outputs/gemini_20260625_042320.md",
+    "game_title": "Jeffrey Eggstein",
+    "appid": "4775410",
+    "duration_sec": 27.27,
+    "response_length": 6412,
+    "error": null
+}
