@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-06-25T04:23:20.188140+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260625_040432/rank_changes.csv",
-    "selected_appid": "4775410",
-    "selected_game_title": "Jeffrey Eggstein",
+    "started_at": "2026-06-25T15:00:31.308252+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260625_144244/rank_changes.csv",
+    "selected_appid": "4713940",
+    "selected_game_title": "Monster Fantasy",
     "top_n": 1,
     "old_snapshot_date": "2026-06-22",
     "new_snapshot_date": "2026-06-25",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-25T04:23:20.188162+00:00",
+    "finished_at": "2026-06-25T15:00:31.308285+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

@@ -1,0 +1,15 @@
+{
+    "status": "error_api_failure",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-25T15:00:31.412642+00:00",
+    "timestamp": "20260625_150031",
+    "input_file": "data/spike_explainer/2026-06-25__appid_4713940__rank_1839_to_1573__up_266/llm_summary_input.md",
+    "output_path": "",
+    "game_title": "Monster Fantasy",
+    "appid": "4713940",
+    "duration_sec": 0.0,
+    "response_length": 0,
+    "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+}
