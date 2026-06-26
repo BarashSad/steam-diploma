@@ -1,0 +1,3 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4246860,Security 51,Security 51,982,972,10,10,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Jul 27, 2026",True
+3167920,Low-Budget Repairs,Low-Budget Repairs,55,56,-1,1,down,none,Free,Unpriced (Coming Soon),True,Coming soon,"Aug 13, 2026",True

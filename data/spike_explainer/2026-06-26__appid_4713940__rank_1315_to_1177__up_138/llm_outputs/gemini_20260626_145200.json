@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-26T14:52:00.649187+00:00",
+    "timestamp": "20260626_145200",
+    "input_file": "data/spike_explainer/2026-06-26__appid_4713940__rank_1315_to_1177__up_138/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-26__appid_4713940__rank_1315_to_1177__up_138/llm_outputs/gemini_20260626_145200.md",
+    "game_title": "Monster Fantasy",
+    "appid": "4713940",
+    "duration_sec": 19.74,
+    "response_length": 6396,
+    "error": null
+}
