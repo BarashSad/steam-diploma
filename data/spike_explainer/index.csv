@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-25T15:00:13.229128+00:00,4713940,Monster Fantasy,data/spike_explainer/2026-06-25__appid_4713940__rank_1839_to_1573__up_266,266,85,data/spike_explainer/2026-06-25__appid_4713940__rank_1839_to_1573__up_266/llm_summary_input.md
+2026-06-26T04:25:50.855577+00:00,4713940,Monster Fantasy,data/spike_explainer/2026-06-26__appid_4713940__rank_1573_to_1315__up_258,258,85,data/spike_explainer/2026-06-26__appid_4713940__rank_1573_to_1315__up_258/llm_summary_input.md

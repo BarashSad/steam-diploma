@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4713940,Monster Fantasy,"""Monster Fantasy"" Steam",general,1,tavily,True,,5
+4713940,Monster Fantasy,"""Monster Fantasy"" trailer",general,1,tavily,True,,5
+4713940,Monster Fantasy,"""Monster Fantasy"" gameplay",general,1,tavily,True,,5
+4713940,Monster Fantasy,"""Monster Fantasy"" demo",general,1,tavily,True,,5
+4713940,Monster Fantasy,"""Monster Fantasy"" release date",general,1,tavily,True,,5
+4713940,Monster Fantasy,"""Monster Fantasy"" announcement",general,1,tavily,True,,5
+4713940,Monster Fantasy,"""Monster Fantasy"" preview",general,1,tavily,True,,5
+4713940,Monster Fantasy,"""Monster Fantasy"" review",general,1,tavily,True,,5
+4713940,Monster Fantasy,"""Monster Fantasy"" publisher",general,1,tavily,True,,5
+4713940,Monster Fantasy,"""Monster Fantasy"" developer",general,1,tavily,True,,5
+4713940,Monster Fantasy,"site:pcgamer.com ""Monster Fantasy""",press,2,tavily,False,General budget exhausted,0
+4713940,Monster Fantasy,"site:rockpapershotgun.com ""Monster Fantasy""",press,2,tavily,False,General budget exhausted,0
+4713940,Monster Fantasy,"site:ign.com ""Monster Fantasy""",press,2,tavily,False,General budget exhausted,0
+4713940,Monster Fantasy,"site:gamespot.com ""Monster Fantasy""",press,2,tavily,False,General budget exhausted,0
+4713940,Monster Fantasy,"site:game8.co ""Monster Fantasy""",press,2,tavily,False,General budget exhausted,0
+4713940,Monster Fantasy,"site:reddit.com ""Monster Fantasy""",social,3,tavily,True,,5
+4713940,Monster Fantasy,"site:tiktok.com ""Monster Fantasy""",social,4,tavily,True,,5
+4713940,Monster Fantasy,"site:instagram.com ""Monster Fantasy""",social,4,tavily,True,,5
+4713940,Monster Fantasy,"site:x.com ""Monster Fantasy""",social,4,tavily,True,,5
+4713940,Monster Fantasy,"site: ""Monster Fantasy""",social,4,tavily,True,,5
