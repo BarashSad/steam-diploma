@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4745600,Motorsport Manager 2,"""Motorsport Manager 2"" Steam",general,1,tavily,True,,5
+4745600,Motorsport Manager 2,"""Motorsport Manager 2"" trailer",general,1,tavily,True,,5
+4745600,Motorsport Manager 2,"""Motorsport Manager 2"" gameplay",general,1,tavily,True,,5
+4745600,Motorsport Manager 2,"""Motorsport Manager 2"" demo",general,1,tavily,True,,5
+4745600,Motorsport Manager 2,"""Motorsport Manager 2"" release date",general,1,tavily,True,,5
+4745600,Motorsport Manager 2,"""Motorsport Manager 2"" announcement",general,1,tavily,True,,5
+4745600,Motorsport Manager 2,"""Motorsport Manager 2"" preview",general,1,tavily,True,,5
+4745600,Motorsport Manager 2,"""Motorsport Manager 2"" review",general,1,tavily,True,,5
+4745600,Motorsport Manager 2,"""Motorsport Manager 2"" publisher",general,1,tavily,True,,5
+4745600,Motorsport Manager 2,"""Motorsport Manager 2"" developer",general,1,tavily,True,,5
+4745600,Motorsport Manager 2,"site:pcgamer.com ""Motorsport Manager 2""",press,2,tavily,False,General budget exhausted,0
+4745600,Motorsport Manager 2,"site:rockpapershotgun.com ""Motorsport Manager 2""",press,2,tavily,False,General budget exhausted,0
+4745600,Motorsport Manager 2,"site:ign.com ""Motorsport Manager 2""",press,2,tavily,False,General budget exhausted,0
+4745600,Motorsport Manager 2,"site:gamespot.com ""Motorsport Manager 2""",press,2,tavily,False,General budget exhausted,0
+4745600,Motorsport Manager 2,"site:game8.co ""Motorsport Manager 2""",press,2,tavily,False,General budget exhausted,0
+4745600,Motorsport Manager 2,"site:reddit.com ""Motorsport Manager 2""",social,3,tavily,True,,5
+4745600,Motorsport Manager 2,"site:tiktok.com ""Motorsport Manager 2""",social,4,tavily,True,,5
+4745600,Motorsport Manager 2,"site:instagram.com ""Motorsport Manager 2""",social,4,tavily,True,,5
+4745600,Motorsport Manager 2,"site:x.com ""Motorsport Manager 2""",social,4,tavily,True,,5
+4745600,Motorsport Manager 2,"site: ""Motorsport Manager 2""",social,4,tavily,True,,5

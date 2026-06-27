@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-06-26T14:52:00.529214+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260626_143602/rank_changes.csv",
-    "selected_appid": "4713940",
-    "selected_game_title": "Monster Fantasy",
+    "started_at": "2026-06-27T04:11:38.975892+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260627_035715/rank_changes.csv",
+    "selected_appid": "4745600",
+    "selected_game_title": "Motorsport Manager 2",
     "top_n": 1,
-    "old_snapshot_date": "2026-06-23",
-    "new_snapshot_date": "2026-06-26",
+    "old_snapshot_date": "2026-06-24",
+    "new_snapshot_date": "2026-06-27",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-26T14:52:00.529228+00:00",
+    "finished_at": "2026-06-27T04:11:38.975905+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

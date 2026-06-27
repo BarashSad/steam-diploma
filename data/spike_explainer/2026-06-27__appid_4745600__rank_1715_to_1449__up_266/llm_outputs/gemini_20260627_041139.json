@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-27T04:11:39.077499+00:00",
+    "timestamp": "20260627_041139",
+    "input_file": "data/spike_explainer/2026-06-27__appid_4745600__rank_1715_to_1449__up_266/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-27__appid_4745600__rank_1715_to_1449__up_266/llm_outputs/gemini_20260627_041139.md",
+    "game_title": "Motorsport Manager 2",
+    "appid": "4745600",
+    "duration_sec": 16.5,
+    "response_length": 4543,
+    "error": null
+}

@@ -1,0 +1,3 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3315060,Ledgerbound,Ledgerbound,1181,1172,9,9,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 14, 2026","Aug 11, 2026",True
+2019620,GERONIMO,GERONIMO,815,807,8,8,up,none,Free,Unpriced (Coming Soon),True,Coming soon,"Jul 10, 2026",True
