@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-06-27T04:11:38.975892+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260627_035715/rank_changes.csv",
-    "selected_appid": "4745600",
-    "selected_game_title": "Motorsport Manager 2",
+    "started_at": "2026-06-27T14:09:34.004381+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260627_135429/rank_changes.csv",
+    "selected_appid": "2593290",
+    "selected_game_title": "Dragon's Dogma 2: Dark Arisen Expansion",
     "top_n": 1,
     "old_snapshot_date": "2026-06-24",
     "new_snapshot_date": "2026-06-27",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-27T04:11:38.975905+00:00",
+    "finished_at": "2026-06-27T14:09:34.004396+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

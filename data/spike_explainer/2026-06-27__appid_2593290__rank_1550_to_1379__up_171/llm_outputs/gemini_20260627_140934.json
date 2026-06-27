@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-27T14:09:34.111613+00:00",
+    "timestamp": "20260627_140934",
+    "input_file": "data/spike_explainer/2026-06-27__appid_2593290__rank_1550_to_1379__up_171/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-27__appid_2593290__rank_1550_to_1379__up_171/llm_outputs/gemini_20260627_140934.md",
+    "game_title": "Dragon's Dogma 2: Dark Arisen Expansion",
+    "appid": "2593290",
+    "duration_sec": 23.03,
+    "response_length": 6517,
+    "error": null
+}

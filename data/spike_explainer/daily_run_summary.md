@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Motorsport Manager 2
+Analyzed: Dragon's Dogma 2: Dark Arisen Expansion
 Tavily Budget Used: 15
 Errors: 0
