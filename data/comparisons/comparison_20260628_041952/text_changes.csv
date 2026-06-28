@@ -1,0 +1,3 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2547010,Mik,Mik,1626,1628,-2,2,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,Q4 2026,True
+4212480,Ragnarok: The New World,Ragnarok: The New World,1392,1392,0,0,stable,none,Free,Free,False,Coming soon,"Jul 15, 2026",True
