@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-28T14:13:04.400918+00:00",
+    "timestamp": "20260628_141304",
+    "input_file": "data/spike_explainer/2026-06-28__appid_3846900__rank_1462_to_1398__up_64/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-28__appid_3846900__rank_1462_to_1398__up_64/llm_outputs/gemini_20260628_141304.md",
+    "game_title": "Sword Sage: Awakening",
+    "appid": "3846900",
+    "duration_sec": 22.09,
+    "response_length": 6696,
+    "error": null
+}

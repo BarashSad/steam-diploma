@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3846900,Sword Sage: Awakening,"""Sword Sage: Awakening"" Steam",general,1,tavily,True,,5
+3846900,Sword Sage: Awakening,"""Sword Sage: Awakening"" trailer",general,1,tavily,True,,5
+3846900,Sword Sage: Awakening,"""Sword Sage: Awakening"" gameplay",general,1,tavily,True,,5
+3846900,Sword Sage: Awakening,"""Sword Sage: Awakening"" demo",general,1,tavily,True,,5
+3846900,Sword Sage: Awakening,"""Sword Sage: Awakening"" release date",general,1,tavily,True,,5
+3846900,Sword Sage: Awakening,"""Sword Sage: Awakening"" announcement",general,1,tavily,True,,5
+3846900,Sword Sage: Awakening,"""Sword Sage: Awakening"" preview",general,1,tavily,True,,5
+3846900,Sword Sage: Awakening,"""Sword Sage: Awakening"" review",general,1,tavily,True,,5
+3846900,Sword Sage: Awakening,"""Sword Sage: Awakening"" publisher",general,1,tavily,True,,5
+3846900,Sword Sage: Awakening,"""Sword Sage: Awakening"" developer",general,1,tavily,True,,5
+3846900,Sword Sage: Awakening,"site:pcgamer.com ""Sword Sage: Awakening""",press,2,tavily,False,General budget exhausted,0
+3846900,Sword Sage: Awakening,"site:rockpapershotgun.com ""Sword Sage: Awakening""",press,2,tavily,False,General budget exhausted,0
+3846900,Sword Sage: Awakening,"site:ign.com ""Sword Sage: Awakening""",press,2,tavily,False,General budget exhausted,0
+3846900,Sword Sage: Awakening,"site:gamespot.com ""Sword Sage: Awakening""",press,2,tavily,False,General budget exhausted,0
+3846900,Sword Sage: Awakening,"site:game8.co ""Sword Sage: Awakening""",press,2,tavily,False,General budget exhausted,0
+3846900,Sword Sage: Awakening,"site:reddit.com ""Sword Sage: Awakening""",social,3,tavily,True,,5
+3846900,Sword Sage: Awakening,"site:tiktok.com ""Sword Sage: Awakening""",social,4,tavily,True,,5
+3846900,Sword Sage: Awakening,"site:instagram.com ""Sword Sage: Awakening""",social,4,tavily,True,,5
+3846900,Sword Sage: Awakening,"site:x.com ""Sword Sage: Awakening""",social,4,tavily,True,,5
+3846900,Sword Sage: Awakening,"site: ""Sword Sage: Awakening""",social,4,tavily,True,,5

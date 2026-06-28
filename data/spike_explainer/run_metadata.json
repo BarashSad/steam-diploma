@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-06-28T04:33:15.772494+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260628_041952/rank_changes.csv",
-    "selected_appid": "2593290",
-    "selected_game_title": "Dragon's Dogma 2: Dark Arisen Expansion",
+    "started_at": "2026-06-28T14:13:04.277298+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260628_140035/rank_changes.csv",
+    "selected_appid": "3846900",
+    "selected_game_title": "Sword Sage: Awakening",
     "top_n": 1,
     "old_snapshot_date": "2026-06-25",
     "new_snapshot_date": "2026-06-28",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-28T04:33:15.772510+00:00",
+    "finished_at": "2026-06-28T14:13:04.277339+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
