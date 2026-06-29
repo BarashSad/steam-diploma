@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-06-28T14:13:04.277298+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260628_140035/rank_changes.csv",
-    "selected_appid": "3846900",
-    "selected_game_title": "Sword Sage: Awakening",
+    "started_at": "2026-06-29T04:40:41.799144+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260629_042654/rank_changes.csv",
+    "selected_appid": "4393700",
+    "selected_game_title": "Elderfeast",
     "top_n": 1,
-    "old_snapshot_date": "2026-06-25",
-    "new_snapshot_date": "2026-06-28",
+    "old_snapshot_date": "2026-06-26",
+    "new_snapshot_date": "2026-06-29",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-28T14:13:04.277339+00:00",
+    "finished_at": "2026-06-29T04:40:41.799158+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

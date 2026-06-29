@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Sword Sage: Awakening
+Analyzed: Elderfeast
 Tavily Budget Used: 15
 Errors: 0
