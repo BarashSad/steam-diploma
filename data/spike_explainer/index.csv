@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-29T04:40:25.136620+00:00,4393700,Elderfeast,data/spike_explainer/2026-06-29__appid_4393700__rank_1701_to_1429__up_272,272,85,data/spike_explainer/2026-06-29__appid_4393700__rank_1701_to_1429__up_272/llm_summary_input.md
+2026-06-29T16:08:25.443975+00:00,4393700,Elderfeast,data/spike_explainer/2026-06-29__appid_4393700__rank_1429_to_1288__up_141,141,85,data/spike_explainer/2026-06-29__appid_4393700__rank_1429_to_1288__up_141/llm_summary_input.md

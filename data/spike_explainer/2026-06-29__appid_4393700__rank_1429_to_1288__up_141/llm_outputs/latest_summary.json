@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-06-29T16:08:48.847020+00:00",
+    "timestamp": "20260629_160848",
+    "input_file": "data/spike_explainer/2026-06-29__appid_4393700__rank_1429_to_1288__up_141/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-06-29__appid_4393700__rank_1429_to_1288__up_141/llm_outputs/gemini_20260629_160848.md",
+    "game_title": "Elderfeast",
+    "appid": "4393700",
+    "duration_sec": 16.47,
+    "response_length": 5416,
+    "error": null
+}

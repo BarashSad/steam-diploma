@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4393700,Elderfeast,"""Elderfeast"" Steam",general,1,tavily,True,,5
+4393700,Elderfeast,"""Elderfeast"" trailer",general,1,tavily,True,,5
+4393700,Elderfeast,"""Elderfeast"" gameplay",general,1,tavily,True,,5
+4393700,Elderfeast,"""Elderfeast"" demo",general,1,tavily,True,,5
+4393700,Elderfeast,"""Elderfeast"" release date",general,1,tavily,True,,5
+4393700,Elderfeast,"""Elderfeast"" announcement",general,1,tavily,True,,5
+4393700,Elderfeast,"""Elderfeast"" preview",general,1,tavily,True,,5
+4393700,Elderfeast,"""Elderfeast"" review",general,1,tavily,True,,5
+4393700,Elderfeast,"""Elderfeast"" publisher",general,1,tavily,True,,5
+4393700,Elderfeast,"""Elderfeast"" developer",general,1,tavily,True,,5
+4393700,Elderfeast,"site:pcgamer.com ""Elderfeast""",press,2,tavily,False,General budget exhausted,0
+4393700,Elderfeast,"site:rockpapershotgun.com ""Elderfeast""",press,2,tavily,False,General budget exhausted,0
+4393700,Elderfeast,"site:ign.com ""Elderfeast""",press,2,tavily,False,General budget exhausted,0
+4393700,Elderfeast,"site:gamespot.com ""Elderfeast""",press,2,tavily,False,General budget exhausted,0
+4393700,Elderfeast,"site:game8.co ""Elderfeast""",press,2,tavily,False,General budget exhausted,0
+4393700,Elderfeast,"site:reddit.com ""Elderfeast""",social,3,tavily,True,,5
+4393700,Elderfeast,"site:tiktok.com ""Elderfeast""",social,4,tavily,True,,0
+4393700,Elderfeast,"site:instagram.com ""Elderfeast""",social,4,tavily,True,,5
+4393700,Elderfeast,"site:x.com ""Elderfeast""",social,4,tavily,True,,4
+4393700,Elderfeast,"site: ""Elderfeast""",social,4,tavily,True,,5
