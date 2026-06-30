@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4393700,Elderfeast,Elderfeast,1198,1149,49,49,up,upward_spike,Free,Free,False,2027,2027,False
+3080520,Farsight,Farsight,1391,1354,37,37,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4745600,Motorsport Manager 2,Motorsport Manager 2,1097,1074,23,23,up,upward_spike,Free,Free,False,2027,2027,False
+4119710,Give Us A Sign,Give Us A Sign,1382,1361,21,21,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
