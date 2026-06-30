@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-06-29T16:08:48.725217+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260629_155618/rank_changes.csv",
+    "started_at": "2026-06-30T04:20:32.177390+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260630_040628/rank_changes.csv",
     "selected_appid": "4393700",
     "selected_game_title": "Elderfeast",
     "top_n": 1,
-    "old_snapshot_date": "2026-06-26",
-    "new_snapshot_date": "2026-06-29",
+    "old_snapshot_date": "2026-06-27",
+    "new_snapshot_date": "2026-06-30",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-06-29T16:08:48.725237+00:00",
+    "finished_at": "2026-06-30T04:20:32.177406+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
