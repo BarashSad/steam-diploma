@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+2478130,Wild Wild Eden,"""Wild Wild Eden"" Steam",general,1,tavily,True,,5
+2478130,Wild Wild Eden,"""Wild Wild Eden"" trailer",general,1,tavily,True,,5
+2478130,Wild Wild Eden,"""Wild Wild Eden"" gameplay",general,1,tavily,True,,5
+2478130,Wild Wild Eden,"""Wild Wild Eden"" demo",general,1,tavily,True,,5
+2478130,Wild Wild Eden,"""Wild Wild Eden"" release date",general,1,tavily,True,,5
+2478130,Wild Wild Eden,"""Wild Wild Eden"" announcement",general,1,tavily,True,,5
+2478130,Wild Wild Eden,"""Wild Wild Eden"" preview",general,1,tavily,True,,5
+2478130,Wild Wild Eden,"""Wild Wild Eden"" review",general,1,tavily,True,,5
+2478130,Wild Wild Eden,"""Wild Wild Eden"" publisher",general,1,tavily,True,,5
+2478130,Wild Wild Eden,"""Wild Wild Eden"" developer",general,1,tavily,True,,5
+2478130,Wild Wild Eden,"site:pcgamer.com ""Wild Wild Eden""",press,2,tavily,False,General budget exhausted,0
+2478130,Wild Wild Eden,"site:rockpapershotgun.com ""Wild Wild Eden""",press,2,tavily,False,General budget exhausted,0
+2478130,Wild Wild Eden,"site:ign.com ""Wild Wild Eden""",press,2,tavily,False,General budget exhausted,0
+2478130,Wild Wild Eden,"site:gamespot.com ""Wild Wild Eden""",press,2,tavily,False,General budget exhausted,0
+2478130,Wild Wild Eden,"site:game8.co ""Wild Wild Eden""",press,2,tavily,False,General budget exhausted,0
+2478130,Wild Wild Eden,"site:reddit.com ""Wild Wild Eden""",social,3,tavily,True,,5
+2478130,Wild Wild Eden,"site:tiktok.com ""Wild Wild Eden""",social,4,tavily,True,,5
+2478130,Wild Wild Eden,"site:instagram.com ""Wild Wild Eden""",social,4,tavily,True,,5
+2478130,Wild Wild Eden,"site:x.com ""Wild Wild Eden""",social,4,tavily,True,,5
+2478130,Wild Wild Eden,"site: ""Wild Wild Eden""",social,4,tavily,True,,5

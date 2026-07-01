@@ -1,0 +1,21 @@
+{
+    "appnews": {
+        "appid": 2478130,
+        "newsitems": [
+            {
+                "gid": "5519792046247638842",
+                "title": "To all our fans eagerly anticipating \"PROJECT SURVIVAL,\"",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5519792046247638842",
+                "is_external_url": true,
+                "author": "yuma.tsuruta",
+                "contents": "We want to inform you that we have recently merged threads containing comments or feedback unrelated to the content of the game. We appreciate your understanding that we may delete posts irrelevant to the game's content and kindly ask you to refrain from such postings. For information regarding Magnus Games Studio, please refer to updates provided by Magnus Games Studio directly. Regarding \"PROJECT SURVIVAL,\" Shueisha and Shueisha Games have officially entered into a publishing agreement with Magnus Games Studio and are collaborating closely to develop \"PROJECT SURVIVAL,\" ensuring an enjoyable experience for everyone. We sincerely hope you continue to look forward to the release of \"PROJECT SURVIVAL\" and the upcoming news about it. Thank you for your continued support! January, 25, 2024 Shueisha Games From the PROJECT SURVIVAL Development Team",
+                "feedlabel": "Community Announcements",
+                "date": 1706172601,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2478130
+            }
+        ],
+        "count": 1
+    }
+}
