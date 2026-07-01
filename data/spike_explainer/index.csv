@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-06-30T14:43:29.326165+00:00,4393700,Elderfeast,data/spike_explainer/2026-06-30__appid_4393700__rank_1198_to_1149__up_49,49,85,data/spike_explainer/2026-06-30__appid_4393700__rank_1198_to_1149__up_49/llm_summary_input.md
+2026-07-01T04:35:57.366118+00:00,4311530,Very Safe Dino Park 🦖,data/spike_explainer/2026-07-01__appid_4311530__rank_1320_to_910__up_410,410,70,data/spike_explainer/2026-07-01__appid_4311530__rank_1320_to_910__up_410/llm_summary_input.md

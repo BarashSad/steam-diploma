@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4311530,Very Safe Dino Park 🦖,"""Very Safe Dino Park 🦖"" Steam",general,1,tavily,True,,5
+4311530,Very Safe Dino Park 🦖,"""Very Safe Dino Park 🦖"" trailer",general,1,tavily,True,,5
+4311530,Very Safe Dino Park 🦖,"""Very Safe Dino Park 🦖"" gameplay",general,1,tavily,True,,5
+4311530,Very Safe Dino Park 🦖,"""Very Safe Dino Park 🦖"" demo",general,1,tavily,True,,5
+4311530,Very Safe Dino Park 🦖,"""Very Safe Dino Park 🦖"" release date",general,1,tavily,True,,5
+4311530,Very Safe Dino Park 🦖,"""Very Safe Dino Park 🦖"" announcement",general,1,tavily,True,,5
+4311530,Very Safe Dino Park 🦖,"""Very Safe Dino Park 🦖"" preview",general,1,tavily,True,,5
+4311530,Very Safe Dino Park 🦖,"""Very Safe Dino Park 🦖"" review",general,1,tavily,True,,5
+4311530,Very Safe Dino Park 🦖,"""Very Safe Dino Park 🦖"" publisher",general,1,tavily,True,,5
+4311530,Very Safe Dino Park 🦖,"""Very Safe Dino Park 🦖"" developer",general,1,tavily,True,,5
+4311530,Very Safe Dino Park 🦖,"site:pcgamer.com ""Very Safe Dino Park 🦖""",press,2,tavily,False,General budget exhausted,0
+4311530,Very Safe Dino Park 🦖,"site:rockpapershotgun.com ""Very Safe Dino Park 🦖""",press,2,tavily,False,General budget exhausted,0
+4311530,Very Safe Dino Park 🦖,"site:ign.com ""Very Safe Dino Park 🦖""",press,2,tavily,False,General budget exhausted,0
+4311530,Very Safe Dino Park 🦖,"site:gamespot.com ""Very Safe Dino Park 🦖""",press,2,tavily,False,General budget exhausted,0
+4311530,Very Safe Dino Park 🦖,"site:game8.co ""Very Safe Dino Park 🦖""",press,2,tavily,False,General budget exhausted,0
+4311530,Very Safe Dino Park 🦖,"site:reddit.com ""Very Safe Dino Park 🦖""",social,3,tavily,True,,5
+4311530,Very Safe Dino Park 🦖,"site:tiktok.com ""Very Safe Dino Park 🦖""",social,4,tavily,True,,5
+4311530,Very Safe Dino Park 🦖,"site:instagram.com ""Very Safe Dino Park 🦖""",social,4,tavily,True,,5
+4311530,Very Safe Dino Park 🦖,"site:x.com ""Very Safe Dino Park 🦖""",social,4,tavily,True,,5
+4311530,Very Safe Dino Park 🦖,"site: ""Very Safe Dino Park 🦖""",social,4,tavily,True,,5
