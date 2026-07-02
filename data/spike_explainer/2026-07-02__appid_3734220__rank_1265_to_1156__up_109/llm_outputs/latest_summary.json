@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-02T14:26:33.745047+00:00",
+    "timestamp": "20260702_142633",
+    "input_file": "data/spike_explainer/2026-07-02__appid_3734220__rank_1265_to_1156__up_109/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-02__appid_3734220__rank_1265_to_1156__up_109/llm_outputs/gemini_20260702_142633.md",
+    "game_title": "Guns of Eschaton",
+    "appid": "3734220",
+    "duration_sec": 20.37,
+    "response_length": 6452,
+    "error": null
+}

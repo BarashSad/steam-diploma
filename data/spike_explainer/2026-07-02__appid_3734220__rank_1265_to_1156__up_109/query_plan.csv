@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3734220,Guns of Eschaton,"""Guns of Eschaton"" Steam",general,1,tavily,True,,5
+3734220,Guns of Eschaton,"""Guns of Eschaton"" trailer",general,1,tavily,True,,5
+3734220,Guns of Eschaton,"""Guns of Eschaton"" gameplay",general,1,tavily,True,,5
+3734220,Guns of Eschaton,"""Guns of Eschaton"" demo",general,1,tavily,True,,5
+3734220,Guns of Eschaton,"""Guns of Eschaton"" release date",general,1,tavily,True,,5
+3734220,Guns of Eschaton,"""Guns of Eschaton"" announcement",general,1,tavily,True,,5
+3734220,Guns of Eschaton,"""Guns of Eschaton"" preview",general,1,tavily,True,,5
+3734220,Guns of Eschaton,"""Guns of Eschaton"" review",general,1,tavily,True,,5
+3734220,Guns of Eschaton,"""Guns of Eschaton"" publisher",general,1,tavily,True,,5
+3734220,Guns of Eschaton,"""Guns of Eschaton"" developer",general,1,tavily,True,,5
+3734220,Guns of Eschaton,"site:pcgamer.com ""Guns of Eschaton""",press,2,tavily,False,General budget exhausted,0
+3734220,Guns of Eschaton,"site:rockpapershotgun.com ""Guns of Eschaton""",press,2,tavily,False,General budget exhausted,0
+3734220,Guns of Eschaton,"site:ign.com ""Guns of Eschaton""",press,2,tavily,False,General budget exhausted,0
+3734220,Guns of Eschaton,"site:gamespot.com ""Guns of Eschaton""",press,2,tavily,False,General budget exhausted,0
+3734220,Guns of Eschaton,"site:game8.co ""Guns of Eschaton""",press,2,tavily,False,General budget exhausted,0
+3734220,Guns of Eschaton,"site:reddit.com ""Guns of Eschaton""",social,3,tavily,True,,5
+3734220,Guns of Eschaton,"site:tiktok.com ""Guns of Eschaton""",social,4,tavily,True,,5
+3734220,Guns of Eschaton,"site:instagram.com ""Guns of Eschaton""",social,4,tavily,True,,5
+3734220,Guns of Eschaton,"site:x.com ""Guns of Eschaton""",social,4,tavily,True,,5
+3734220,Guns of Eschaton,"site: ""Guns of Eschaton""",social,4,tavily,True,,5
