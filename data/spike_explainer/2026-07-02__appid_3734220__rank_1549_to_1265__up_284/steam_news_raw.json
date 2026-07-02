@@ -1,0 +1,47 @@
+{
+    "appnews": {
+        "appid": 3734220,
+        "newsitems": [
+            {
+                "gid": "1836506165563459",
+                "title": "Guns of Eschaton is a wild west soulslike FPS and posthumous release from the art director of Half-Life 2",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165563459",
+                "is_external_url": true,
+                "author": "",
+                "contents": "Last year, the art director behind titans of visual design like <a href=\"https://www.rockpapershotgun.com/games/half-life-2\">Half-Life 2</a> and <a href=\"https://www.rockpapershotgun.com/games/dishonored\">Dishonored</a>, Viktor Antonov, <a href=\"https://www.rockpapershotgun.com/viktor-antonov-the-key-mind-behind-half-life-2s-city-17-has-died\">died at the age of 53</a>. Prior to his death, in 2022 he co-founded Eschatology Entertainment with Dmytro Kostiukevych, Fuad Kuliev and Boris Nikolaev, who were yet to announce their first game formally. But today it's been revealed and it's called Guns of Eschaton, the \"world\u2019s first soulslike <a href=\"https://www.rockpapershotgun.com/best-fps-games\">FPS</a>.\" <a href=\"https://www.rockpapershotgun.com/guns-of-eschaton-is-a-wild-west-soulslike-fps-and-posthumous-release-from-the-art-director-of-half-life-2\">Read more</a> ",
+                "feedlabel": "Rock, Paper, Shotgun",
+                "date": 1782839229,
+                "feedname": "Rock, Paper, Shotgun",
+                "feed_type": 0,
+                "appid": 3734220
+            },
+            {
+                "gid": "1836506165563151",
+                "title": "Before his death in 2025, Half-Life 2 art director Viktor Antonov worked on one last game: A Wild West FPS soulslike that's 'coming soon' to Steam",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165563151",
+                "is_external_url": true,
+                "author": "Andy Chalk",
+                "contents": "Visionary artist Viktor Antonov defined a small but unforgettable selection of games with his unmistakably bold visual style, including Half-Life 2, Dishonored, Wolfenstein: The New Order, and Weird West. (He also did Redneck Rampage, but that was way back when.) He <a href=\"https://www.pcgamer.com/gaming-industry/viktor-antonov-the-visionary-artist-who-defined-half-life-2-and-dishonored-has-died/\" target=\"_blank\">died in 2025</a> at just 52 years old, but before his tragic passing he put his stamp on one final game, revealed today as a fantasy Wild West soulslike shooter called Guns of Eschaton... <a href=\"https://www.pcgamer.com/games/fps/before-his-death-in-2025-half-life-2-art-director-viktor-antonov-worked-on-one-last-game-a-wild-west-fps-roguelike-thats-coming-soon-to-steam/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+                "feedlabel": "PC Gamer",
+                "date": 1782837978,
+                "feedname": "PC Gamer",
+                "feed_type": 0,
+                "appid": 3734220
+            },
+            {
+                "gid": "1836506165562415",
+                "title": "Watch the first Guns Of Eschaton Announcement Trailer",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562415",
+                "is_external_url": true,
+                "author": "m.lipinski",
+                "contents": "Hello, Gunslingers! The official Guns of Eschaton announcement just appeared right in front of your eyes. Prepare for the first-of-its-kind soulslike FPS taking place in an apocalyptic Western setting, built by Viktor Antonov (creator of the Half-Life 2 and Dishonored worlds). You\u2019ll travel to a land of dust, blood, false saints, broken history, and occult horror. This is not a fast-paced shooter. This is a place that will test your precision, timing, reflexes, how you handle limited resources, and your understanding of what hunts you. Here, every bullet, every decision, and every move matters. Do you have what it takes to become the real Gunslinger? Wishlist now, and see for yourself. ",
+                "feedlabel": "Community Announcements",
+                "date": 1782824435,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3734220
+            }
+        ],
+        "count": 3
+    }
+}
