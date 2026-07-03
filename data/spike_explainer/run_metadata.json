@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-07-02T14:26:33.645776+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260702_141353/rank_changes.csv",
+    "started_at": "2026-07-03T04:00:07.726225+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260703_034718/rank_changes.csv",
     "selected_appid": "3734220",
     "selected_game_title": "Guns of Eschaton",
     "top_n": 1,
-    "old_snapshot_date": "2026-06-29",
-    "new_snapshot_date": "2026-07-02",
+    "old_snapshot_date": "2026-06-30",
+    "new_snapshot_date": "2026-07-03",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-02T14:26:33.645790+00:00",
+    "finished_at": "2026-07-03T04:00:07.726240+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
