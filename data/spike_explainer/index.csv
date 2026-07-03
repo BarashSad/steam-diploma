@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-07-03T03:59:44.991991+00:00,3734220,Guns of Eschaton,data/spike_explainer/2026-07-03__appid_3734220__rank_1156_to_1014__up_142,142,90,data/spike_explainer/2026-07-03__appid_3734220__rank_1156_to_1014__up_142/llm_summary_input.md
+2026-07-03T14:34:27.333308+00:00,4788240,Night Shift Hospital,data/spike_explainer/2026-07-03__appid_4788240__rank_1257_to_1200__up_57,57,70,data/spike_explainer/2026-07-03__appid_4788240__rank_1257_to_1200__up_57/llm_summary_input.md
