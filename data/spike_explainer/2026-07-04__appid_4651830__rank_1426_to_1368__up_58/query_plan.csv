@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4651830,CINDER CITY,"""CINDER CITY"" Steam",general,1,tavily,True,,5
+4651830,CINDER CITY,"""CINDER CITY"" trailer",general,1,tavily,True,,5
+4651830,CINDER CITY,"""CINDER CITY"" gameplay",general,1,tavily,True,,5
+4651830,CINDER CITY,"""CINDER CITY"" demo",general,1,tavily,True,,5
+4651830,CINDER CITY,"""CINDER CITY"" release date",general,1,tavily,True,,5
+4651830,CINDER CITY,"""CINDER CITY"" announcement",general,1,tavily,True,,5
+4651830,CINDER CITY,"""CINDER CITY"" preview",general,1,tavily,True,,5
+4651830,CINDER CITY,"""CINDER CITY"" review",general,1,tavily,True,,5
+4651830,CINDER CITY,"""CINDER CITY"" publisher",general,1,tavily,True,,5
+4651830,CINDER CITY,"""CINDER CITY"" developer",general,1,tavily,True,,5
+4651830,CINDER CITY,"site:pcgamer.com ""CINDER CITY""",press,2,tavily,False,General budget exhausted,0
+4651830,CINDER CITY,"site:rockpapershotgun.com ""CINDER CITY""",press,2,tavily,False,General budget exhausted,0
+4651830,CINDER CITY,"site:ign.com ""CINDER CITY""",press,2,tavily,False,General budget exhausted,0
+4651830,CINDER CITY,"site:gamespot.com ""CINDER CITY""",press,2,tavily,False,General budget exhausted,0
+4651830,CINDER CITY,"site:game8.co ""CINDER CITY""",press,2,tavily,False,General budget exhausted,0
+4651830,CINDER CITY,"site:reddit.com ""CINDER CITY""",social,3,tavily,True,,5
+4651830,CINDER CITY,"site:tiktok.com ""CINDER CITY""",social,4,tavily,True,,5
+4651830,CINDER CITY,"site:instagram.com ""CINDER CITY""",social,4,tavily,True,,5
+4651830,CINDER CITY,"site:x.com ""CINDER CITY""",social,4,tavily,True,,5
+4651830,CINDER CITY,"site: ""CINDER CITY""",social,4,tavily,True,,5

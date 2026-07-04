@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-07-04T03:51:00.346842+00:00,4651830,CINDER CITY,data/spike_explainer/2026-07-04__appid_4651830__rank_1541_to_1426__up_115,115,85,data/spike_explainer/2026-07-04__appid_4651830__rank_1541_to_1426__up_115/llm_summary_input.md
+2026-07-04T13:58:12.566197+00:00,4651830,CINDER CITY,data/spike_explainer/2026-07-04__appid_4651830__rank_1426_to_1368__up_58,58,85,data/spike_explainer/2026-07-04__appid_4651830__rank_1426_to_1368__up_58/llm_summary_input.md
