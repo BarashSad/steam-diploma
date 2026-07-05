@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-07-04T13:58:31.714074+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260704_134541/rank_changes.csv",
-    "selected_appid": "4651830",
-    "selected_game_title": "CINDER CITY",
+    "started_at": "2026-07-05T04:09:37.301932+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260705_035759/rank_changes.csv",
+    "selected_appid": "4788240",
+    "selected_game_title": "Night Shift Hospital",
     "top_n": 1,
-    "old_snapshot_date": "2026-07-01",
-    "new_snapshot_date": "2026-07-04",
+    "old_snapshot_date": "2026-07-02",
+    "new_snapshot_date": "2026-07-05",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-04T13:58:31.714087+00:00",
+    "finished_at": "2026-07-05T04:09:37.301947+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-05T04:09:37.421742+00:00",
+    "timestamp": "20260705_040937",
+    "input_file": "data/spike_explainer/2026-07-05__appid_4788240__rank_1101_to_1029__up_72/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-05__appid_4788240__rank_1101_to_1029__up_72/llm_outputs/gemini_20260705_040937.md",
+    "game_title": "Night Shift Hospital",
+    "appid": "4788240",
+    "duration_sec": 22.89,
+    "response_length": 6344,
+    "error": null
+}

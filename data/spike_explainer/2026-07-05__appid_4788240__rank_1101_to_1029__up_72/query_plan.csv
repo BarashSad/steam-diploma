@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4788240,Night Shift Hospital,"""Night Shift Hospital"" Steam",general,1,tavily,True,,5
+4788240,Night Shift Hospital,"""Night Shift Hospital"" trailer",general,1,tavily,True,,5
+4788240,Night Shift Hospital,"""Night Shift Hospital"" gameplay",general,1,tavily,True,,5
+4788240,Night Shift Hospital,"""Night Shift Hospital"" demo",general,1,tavily,True,,5
+4788240,Night Shift Hospital,"""Night Shift Hospital"" release date",general,1,tavily,True,,5
+4788240,Night Shift Hospital,"""Night Shift Hospital"" announcement",general,1,tavily,True,,5
+4788240,Night Shift Hospital,"""Night Shift Hospital"" preview",general,1,tavily,True,,5
+4788240,Night Shift Hospital,"""Night Shift Hospital"" review",general,1,tavily,True,,5
+4788240,Night Shift Hospital,"""Night Shift Hospital"" publisher",general,1,tavily,True,,5
+4788240,Night Shift Hospital,"""Night Shift Hospital"" developer",general,1,tavily,True,,5
+4788240,Night Shift Hospital,"site:pcgamer.com ""Night Shift Hospital""",press,2,tavily,False,General budget exhausted,0
+4788240,Night Shift Hospital,"site:rockpapershotgun.com ""Night Shift Hospital""",press,2,tavily,False,General budget exhausted,0
+4788240,Night Shift Hospital,"site:ign.com ""Night Shift Hospital""",press,2,tavily,False,General budget exhausted,0
+4788240,Night Shift Hospital,"site:gamespot.com ""Night Shift Hospital""",press,2,tavily,False,General budget exhausted,0
+4788240,Night Shift Hospital,"site:game8.co ""Night Shift Hospital""",press,2,tavily,False,General budget exhausted,0
+4788240,Night Shift Hospital,"site:reddit.com ""Night Shift Hospital""",social,3,tavily,True,,5
+4788240,Night Shift Hospital,"site:tiktok.com ""Night Shift Hospital""",social,4,tavily,True,,5
+4788240,Night Shift Hospital,"site:instagram.com ""Night Shift Hospital""",social,4,tavily,True,,5
+4788240,Night Shift Hospital,"site:x.com ""Night Shift Hospital""",social,4,tavily,True,,4
+4788240,Night Shift Hospital,"site: ""Night Shift Hospital""",social,4,tavily,True,,5
