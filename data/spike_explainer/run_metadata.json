@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-07-07T04:06:39.525835+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260707_035506/rank_changes.csv",
+    "started_at": "2026-07-07T15:01:46.290944+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260707_144928/rank_changes.csv",
     "selected_appid": "4651830",
     "selected_game_title": "CINDER CITY",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-07T04:06:39.525848+00:00",
+    "finished_at": "2026-07-07T15:01:46.290959+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

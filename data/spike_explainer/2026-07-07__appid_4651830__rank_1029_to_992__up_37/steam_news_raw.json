@@ -1,0 +1,47 @@
+{
+    "appnews": {
+        "appid": 4651830,
+        "newsitems": [
+            {
+                "gid": "1836506165568653",
+                "title": "Seoul-set MMO shooter Cinder City halves its RAM requirements, after initial specs listed 64GB of memory",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165568653",
+                "is_external_url": true,
+                "author": "",
+                "contents": "<a href=\"https://www.rockpapershotgun.com/how-to-survive-the-memory-shortage-crisis-a-pc-owners-guide\">RAMnar\u00f6k</a> may not be a literal cataclysm, of the kind that smashed Cinder City\u2019s version of Seoul into dirty bits, but it ironic that the upcoming tactical shooter MMO seemingly spent much of the past day oblivious to the fact that there\u2019s a worldwide <a href=\"https://www.rockpapershotgun.com/us-lawsuit-accuses-samsung-sk-hynix-and-micron-of-worsening-the-ram-crisis-by-fixing-memory-prices-and-supply\">memory crisis going on</a>. Upon yesterday\u2019s launch of its <a href=\"https://store.steampowered.com/app/4651830/CINDER_CITY/\">Steam page</a>, Cinder City declared a set of system requirements that listed 32GB of RAM among the minimum specs \u2013 twice what you\u2019d typically see for a modern, well-budgeted 3D game \u2013 and a honking 64GB in the recommended specs. I contacted a representative for publishers NC (formerly NCsoft), because, I mean, yeesh, and a day later, and have not received clarification either way. However, as of this afternoon, those recommended specs have silently changed: the GPU requirement rising from a RTX 4060 to an RTX 4070, but RAM dropping from 64GB to somewhat less outrageous 32GB. <a href=\"https://www.rockpapershotgun.com/seoul-set-mmo-shooter-cinder-city-halves-its-ram-requirements-after-initial-specs-listed-64gb-of-memory\">Read more</a> ",
+                "feedlabel": "Rock, Paper, Shotgun",
+                "date": 1783010610,
+                "feedname": "Rock, Paper, Shotgun",
+                "feed_type": 0,
+                "appid": 4651830
+            },
+            {
+                "gid": "1836506165567615",
+                "title": "\ud83d\udce2 Steam Store System Requirements Correction Notice",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567615",
+                "is_external_url": true,
+                "author": "sunahk",
+                "contents": "Hello, This is CINDER CITY team. We identified an error in the memory specification listed under the system requirements on our Steam Store page. We apologize for any confusion this may have caused. The information has now been updated to the correct specification (Recommended: 32 GB RAM). \u203bPlease note that the current system requirements are based on our current development build. As optimization continues, the final system requirements at launch may be lower than those currently listed. We will provide updated and more accurate system requirements closer to release.\u203b We remain committed to providing accurate information. Thank you for your understanding.",
+                "feedlabel": "Community Announcements",
+                "date": 1782987220,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4651830
+            },
+            {
+                "gid": "1836506165567566",
+                "title": "\ud83d\udce2 The official channels of CINDER CITY are now open!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567566",
+                "is_external_url": true,
+                "author": "sunahk",
+                "contents": "Hit the \ud83d\udd14Wishlist\ud83d\udd14and be the first to explore everything about CINDER CITY.",
+                "feedlabel": "Community Announcements",
+                "date": 1782986247,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4651830
+            }
+        ],
+        "count": 3
+    }
+}
