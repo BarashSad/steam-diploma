@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3078760,LIVING HELL,"""LIVING HELL"" Steam",general,1,tavily,True,,5
+3078760,LIVING HELL,"""LIVING HELL"" trailer",general,1,tavily,True,,5
+3078760,LIVING HELL,"""LIVING HELL"" gameplay",general,1,tavily,True,,5
+3078760,LIVING HELL,"""LIVING HELL"" demo",general,1,tavily,True,,5
+3078760,LIVING HELL,"""LIVING HELL"" release date",general,1,tavily,True,,5
+3078760,LIVING HELL,"""LIVING HELL"" announcement",general,1,tavily,True,,5
+3078760,LIVING HELL,"""LIVING HELL"" preview",general,1,tavily,True,,5
+3078760,LIVING HELL,"""LIVING HELL"" review",general,1,tavily,True,,5
+3078760,LIVING HELL,"""LIVING HELL"" publisher",general,1,tavily,True,,5
+3078760,LIVING HELL,"""LIVING HELL"" developer",general,1,tavily,True,,5
+3078760,LIVING HELL,"site:pcgamer.com ""LIVING HELL""",press,2,tavily,False,General budget exhausted,0
+3078760,LIVING HELL,"site:rockpapershotgun.com ""LIVING HELL""",press,2,tavily,False,General budget exhausted,0
+3078760,LIVING HELL,"site:ign.com ""LIVING HELL""",press,2,tavily,False,General budget exhausted,0
+3078760,LIVING HELL,"site:gamespot.com ""LIVING HELL""",press,2,tavily,False,General budget exhausted,0
+3078760,LIVING HELL,"site:game8.co ""LIVING HELL""",press,2,tavily,False,General budget exhausted,0
+3078760,LIVING HELL,"site:reddit.com ""LIVING HELL""",social,3,tavily,True,,3
+3078760,LIVING HELL,"site:tiktok.com ""LIVING HELL""",social,4,tavily,True,,5
+3078760,LIVING HELL,"site:instagram.com ""LIVING HELL""",social,4,tavily,True,,5
+3078760,LIVING HELL,"site:x.com ""LIVING HELL""",social,4,tavily,True,,5
+3078760,LIVING HELL,"site: ""LIVING HELL""",social,4,tavily,True,,5
