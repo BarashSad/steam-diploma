@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: LIVING HELL
+Analyzed: CINDER CITY
 Tavily Budget Used: 15
 Errors: 0

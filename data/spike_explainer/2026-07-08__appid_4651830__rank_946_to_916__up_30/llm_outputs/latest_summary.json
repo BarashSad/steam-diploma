@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-08T14:38:17.637973+00:00",
+    "timestamp": "20260708_143817",
+    "input_file": "data/spike_explainer/2026-07-08__appid_4651830__rank_946_to_916__up_30/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-08__appid_4651830__rank_946_to_916__up_30/llm_outputs/gemini_20260708_143817.md",
+    "game_title": "CINDER CITY",
+    "appid": "4651830",
+    "duration_sec": 25.04,
+    "response_length": 6286,
+    "error": null
+}
