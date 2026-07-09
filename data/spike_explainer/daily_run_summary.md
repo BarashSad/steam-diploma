@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: CINDER CITY
+Analyzed: Ore Factory Squad ⛏️
 Tavily Budget Used: 15
 Errors: 0

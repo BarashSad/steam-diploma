@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-09T03:59:32.911627+00:00",
+    "timestamp": "20260709_035932",
+    "input_file": "data/spike_explainer/2026-07-09__appid_4210580__rank_1181_to_1135__up_46/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-09__appid_4210580__rank_1181_to_1135__up_46/llm_outputs/gemini_20260709_035932.md",
+    "game_title": "Ore Factory Squad \u26cf\ufe0f",
+    "appid": "4210580",
+    "duration_sec": 18.15,
+    "response_length": 4539,
+    "error": null
+}
