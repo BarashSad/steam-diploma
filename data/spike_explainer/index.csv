@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-07-09T15:32:16.388942+00:00,4210580,Ore Factory Squad ⛏️,data/spike_explainer/2026-07-09__appid_4210580__rank_1135_to_1050__up_85,85,55,data/spike_explainer/2026-07-09__appid_4210580__rank_1135_to_1050__up_85/llm_summary_input.md
+2026-07-10T04:00:34.265522+00:00,4210580,Ore Factory Squad ⛏️,data/spike_explainer/2026-07-10__appid_4210580__rank_1050_to_962__up_88,88,70,data/spike_explainer/2026-07-10__appid_4210580__rank_1050_to_962__up_88/llm_summary_input.md

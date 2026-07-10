@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4212480,Ragnarok: The New World,Ragnarok: The New World,1254,1225,29,29,up,upward_spike,Free,Unpriced (Coming Soon),True,"Jul 15, 2026","Jul 15, 2026",False
+3849000,The Lantern of the Laughless Saint,The Lantern of the Laughless Saint,380,381,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Aug 21, 2026",True
+4134600,EverRail,EverRail,1027,1026,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Jul 20, 2026",True

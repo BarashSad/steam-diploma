@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-07-09T15:32:39.289856+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260709_152155/rank_changes.csv",
+    "started_at": "2026-07-10T04:01:02.641374+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260710_035019/rank_changes.csv",
     "selected_appid": "4210580",
     "selected_game_title": "Ore Factory Squad \u26cf\ufe0f",
     "top_n": 1,
-    "old_snapshot_date": "2026-07-06",
-    "new_snapshot_date": "2026-07-09",
+    "old_snapshot_date": "2026-07-07",
+    "new_snapshot_date": "2026-07-10",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-09T15:32:39.289877+00:00",
+    "finished_at": "2026-07-10T04:01:02.641392+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
