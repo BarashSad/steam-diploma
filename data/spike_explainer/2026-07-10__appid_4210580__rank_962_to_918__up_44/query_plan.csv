@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4210580,Ore Factory Squad ⛏️,"""Ore Factory Squad ⛏️"" Steam",general,1,tavily,True,,5
+4210580,Ore Factory Squad ⛏️,"""Ore Factory Squad ⛏️"" trailer",general,1,tavily,True,,5
+4210580,Ore Factory Squad ⛏️,"""Ore Factory Squad ⛏️"" gameplay",general,1,tavily,True,,5
+4210580,Ore Factory Squad ⛏️,"""Ore Factory Squad ⛏️"" demo",general,1,tavily,True,,5
+4210580,Ore Factory Squad ⛏️,"""Ore Factory Squad ⛏️"" release date",general,1,tavily,True,,5
+4210580,Ore Factory Squad ⛏️,"""Ore Factory Squad ⛏️"" announcement",general,1,tavily,True,,5
+4210580,Ore Factory Squad ⛏️,"""Ore Factory Squad ⛏️"" preview",general,1,tavily,True,,5
+4210580,Ore Factory Squad ⛏️,"""Ore Factory Squad ⛏️"" review",general,1,tavily,True,,5
+4210580,Ore Factory Squad ⛏️,"""Ore Factory Squad ⛏️"" publisher",general,1,tavily,True,,5
+4210580,Ore Factory Squad ⛏️,"""Ore Factory Squad ⛏️"" developer",general,1,tavily,True,,5
+4210580,Ore Factory Squad ⛏️,"site:pcgamer.com ""Ore Factory Squad ⛏️""",press,2,tavily,False,General budget exhausted,0
+4210580,Ore Factory Squad ⛏️,"site:rockpapershotgun.com ""Ore Factory Squad ⛏️""",press,2,tavily,False,General budget exhausted,0
+4210580,Ore Factory Squad ⛏️,"site:ign.com ""Ore Factory Squad ⛏️""",press,2,tavily,False,General budget exhausted,0
+4210580,Ore Factory Squad ⛏️,"site:gamespot.com ""Ore Factory Squad ⛏️""",press,2,tavily,False,General budget exhausted,0
+4210580,Ore Factory Squad ⛏️,"site:game8.co ""Ore Factory Squad ⛏️""",press,2,tavily,False,General budget exhausted,0
+4210580,Ore Factory Squad ⛏️,"site:reddit.com ""Ore Factory Squad ⛏️""",social,3,tavily,True,,5
+4210580,Ore Factory Squad ⛏️,"site:tiktok.com ""Ore Factory Squad ⛏️""",social,4,tavily,True,,5
+4210580,Ore Factory Squad ⛏️,"site:instagram.com ""Ore Factory Squad ⛏️""",social,4,tavily,True,,5
+4210580,Ore Factory Squad ⛏️,"site:x.com ""Ore Factory Squad ⛏️""",social,4,tavily,True,,5
+4210580,Ore Factory Squad ⛏️,"site: ""Ore Factory Squad ⛏️""",social,4,tavily,True,,5
