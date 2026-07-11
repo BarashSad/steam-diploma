@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4210580,Ore Factory Squad ⛏️,Ore Factory Squad ⛏️,875,841,34,34,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 16, 2026","Jul 16, 2026",False
+1355900,Tattered Banners,Tattered Banners,1295,1261,34,34,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q4 2026,Q4 2026,False
+4212480,Ragnarok: The New World,Ragnarok: The New World,1175,1146,29,29,up,upward_spike,Unpriced (Coming Soon),Free,True,"Jul 15, 2026","Jul 15, 2026",False
+4487060,Northgard Battlegrounds,Northgard Battlegrounds,1163,1142,21,21,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,2026,False
