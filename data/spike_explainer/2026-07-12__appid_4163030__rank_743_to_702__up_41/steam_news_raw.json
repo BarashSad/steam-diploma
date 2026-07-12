@@ -1,0 +1,56 @@
+{
+    "appnews": {
+        "appid": 4163030,
+        "newsitems": [
+            {
+                "gid": "1837955055357487",
+                "title": "Meow meow meow release change to July 14th!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055357487",
+                "is_external_url": true,
+                "author": "Capricia Productions",
+                "contents": "Meow meow! Meow meow meow meow meow meow meooooooooo mwwwwww meoowooowwwwwwwwww meow meow Release day changed July 14th. mwwwwww meoowooowwwwwwwwww meow meow Prrrrrrrrrrrrrrrr",
+                "feedlabel": "Community Announcements",
+                "date": 1783702850,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4163030,
+                "tags": [
+                    "workshop"
+                ]
+            },
+            {
+                "gid": "1836506165546769",
+                "title": "Meow meow meow 50,000 WISHLISTS!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546769",
+                "is_external_url": true,
+                "author": "Capricia Productions",
+                "contents": "Meow meow!Meow meow meow meow meow meow meooooooooo mwwwwww meoowooowwwwwwwwww meow meow50,000 WISHLISTS!!mwwwwww meoowooowwwwwwwwww meow meowPrrrrrrrrrrrrrrrrTranslation to English: Hello everyone!A couple of days ago, we hit an impressive milestone: 50,000 wishlists!This is an incredible achievement for us, especially since Cat Chess is the first project from Capricia Labs, a new subdivision of Capricia dedicated to create small, cute and fun games. What a way to start, right?The Journey So Far:We kicked off development about a year ago and launched our Steam page late last year. We started marketing in early 2026, and by mid-April, we were sitting at around 3,000 wishlists.Then, everything exploded! Thanks to a few viral videos, features from awesome gaming pages (huge shoutout to GWM, Indie Games Joe, Sev7n, and others!), and our rapidly growing community, the momentum didn't stop. We're still growing every day!There are truly no words to describe how wonderful this journey has been. We can't wait to finally get the game into your hands!Demo & Feedback Update: Our demo was live until the end of Steam Next Fest yesterday (June 22nd). Thanks to all of you, we gathered an incredible amount of data and valuable feedback that we are already working hard to implement. Over the next couple of weeks, we\u2019ll be polishing the game and adding the final touches.* Translated with google translate",
+                "feedlabel": "Community Announcements",
+                "date": 1782323243,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4163030,
+                "tags": [
+                    "workshop"
+                ]
+            },
+            {
+                "gid": "1835871199316494",
+                "title": "Meow meow meow releasing July 8th!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199316494",
+                "is_external_url": true,
+                "author": "Capricia Productions",
+                "contents": "Meow meow! Meow meow meow meow meow meow meooooooooo mwwwwww meoowooowwwwwwwwww meow meowRelease July 08. mwwwwww meoowooowwwwwwwwww meow meowPrrrrrrrrrrrrrrrr",
+                "feedlabel": "Community Announcements",
+                "date": 1782240892,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4163030,
+                "tags": [
+                    "workshop"
+                ]
+            }
+        ],
+        "count": 3
+    }
+}

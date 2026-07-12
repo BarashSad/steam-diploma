@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-07-12T03:37:57.287491+00:00,4210580,Ore Factory Squad ⛏️,data/spike_explainer/2026-07-12__appid_4210580__rank_841_to_796__up_45,45,85,data/spike_explainer/2026-07-12__appid_4210580__rank_841_to_796__up_45/llm_summary_input.md
+2026-07-12T13:49:59.109196+00:00,4163030,Cat Chess,data/spike_explainer/2026-07-12__appid_4163030__rank_743_to_702__up_41,41,70,data/spike_explainer/2026-07-12__appid_4163030__rank_743_to_702__up_41/llm_summary_input.md

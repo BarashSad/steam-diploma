@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-07-12T03:38:14.919464+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260712_032813/rank_changes.csv",
-    "selected_appid": "4210580",
-    "selected_game_title": "Ore Factory Squad \u26cf\ufe0f",
+    "started_at": "2026-07-12T13:50:21.371668+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260712_133850/rank_changes.csv",
+    "selected_appid": "4163030",
+    "selected_game_title": "Cat Chess",
     "top_n": 1,
     "old_snapshot_date": "2026-07-09",
     "new_snapshot_date": "2026-07-12",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-12T03:38:14.919478+00:00",
+    "finished_at": "2026-07-12T13:50:21.371683+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

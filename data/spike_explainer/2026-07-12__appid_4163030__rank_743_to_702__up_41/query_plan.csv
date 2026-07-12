@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4163030,Cat Chess,"""Cat Chess"" Steam",general,1,tavily,True,,5
+4163030,Cat Chess,"""Cat Chess"" trailer",general,1,tavily,True,,5
+4163030,Cat Chess,"""Cat Chess"" gameplay",general,1,tavily,True,,5
+4163030,Cat Chess,"""Cat Chess"" demo",general,1,tavily,True,,5
+4163030,Cat Chess,"""Cat Chess"" release date",general,1,tavily,True,,5
+4163030,Cat Chess,"""Cat Chess"" announcement",general,1,tavily,True,,5
+4163030,Cat Chess,"""Cat Chess"" preview",general,1,tavily,True,,5
+4163030,Cat Chess,"""Cat Chess"" review",general,1,tavily,True,,5
+4163030,Cat Chess,"""Cat Chess"" publisher",general,1,tavily,True,,5
+4163030,Cat Chess,"""Cat Chess"" developer",general,1,tavily,True,,5
+4163030,Cat Chess,"site:pcgamer.com ""Cat Chess""",press,2,tavily,False,General budget exhausted,0
+4163030,Cat Chess,"site:rockpapershotgun.com ""Cat Chess""",press,2,tavily,False,General budget exhausted,0
+4163030,Cat Chess,"site:ign.com ""Cat Chess""",press,2,tavily,False,General budget exhausted,0
+4163030,Cat Chess,"site:gamespot.com ""Cat Chess""",press,2,tavily,False,General budget exhausted,0
+4163030,Cat Chess,"site:game8.co ""Cat Chess""",press,2,tavily,False,General budget exhausted,0
+4163030,Cat Chess,"site:reddit.com ""Cat Chess""",social,3,tavily,True,,5
+4163030,Cat Chess,"site:tiktok.com ""Cat Chess""",social,4,tavily,True,,5
+4163030,Cat Chess,"site:instagram.com ""Cat Chess""",social,4,tavily,True,,5
+4163030,Cat Chess,"site:x.com ""Cat Chess""",social,4,tavily,True,,5
+4163030,Cat Chess,"site: ""Cat Chess""",social,4,tavily,True,,5
