@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3562580,Agefield High: Rock the School,Agefield High: Rock the School,327,317,10,10,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Aug 12, 2026",True
+3647010,DRUG Schedule,DRUG Schedule,374,375,-1,1,down,none,Free,Unpriced (Coming Soon),True,2026,2026,False
+3767320,Animula Nook,Animula Nook,143,143,0,0,stable,none,Free,Unpriced (Coming Soon),True,To be announced,To be announced,False

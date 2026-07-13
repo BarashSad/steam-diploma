@@ -1,0 +1,41 @@
+{
+    "appnews": {
+        "appid": 3714000,
+        "newsitems": [
+            {
+                "gid": "1837955055356241",
+                "title": "Build and manage a floating ship city on a sentient alien planet in Rogue Carrier",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1837955055356241",
+                "is_external_url": true,
+                "author": "",
+                "contents": "Rogue Carrier looks and sounds awesome - publisher Hooded Horse sure know how to pick 'em. I couldn't wishlist this one fast enough. Read the full article here: https://www.gamingonlinux.com/2026/07/build-and-manage-a-floating-ship-city-on-a-sentient-alien-planet-in-rogue-carrier/ ",
+                "feedlabel": "GamingOnLinux",
+                "date": 1783674310,
+                "feedname": "GamingOnLinux",
+                "feed_type": 0,
+                "appid": 3714000
+            },
+            {
+                "gid": "1836506165583342",
+                "title": "Rogue Carrier: New Sci-Fi Roguelite Colony Management Game from Wild Fields",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583342",
+                "is_external_url": true,
+                "author": "Auverin (Hooded Horse)",
+                "contents": "Rogue Carrier awaits its captain. Do you have what it takes? We are excited to invite you aboard Rogue Carrier, our second game developed and published in collaboration with the incredible team at Hooded Horse! As sci-fi geeks, we\u2019ve always wanted to push the boundaries of the sci-fi strategy genre. Rogue Carrier brings together traditional city-building, complex production chains, elaborate crew management systems, run customization, and narrative-driven exploration to offer a rich and immersive survival adventure. Our goal is to offer massive replayability that naturally adapts to your personal playstyle. Rogue Carrier features a branching choice system where every decision carries unpredictable consequences. Combined with highly procedural events, threats, and resource distribution, no two runs will ever be the same. The events of Rogue Carrier take place centuries in the future. Humanity has expanded across the galaxy and mastered hyperspace travel, all thanks to the assistance of a mysterious, advanced alien race. But progress comes with a price. Your story begins when a routine exploration mission goes horribly wrong. Moments after your expedition reaches the distant ocean world of Keeling-IV, your mothership, Zephyrus-01, is destroyed, leaving you stranded in a hostile alien environment. As the captain of the last remaining Behemoth-class vessel, it is your duty to ensure your vessel's survival and unravel the secrets of Keeling-IV. Survival will demand everything you\u2019ve got. Extract raw resources from the treacherous open seas and scattered islands, meet local intelligent species and unfold their hidden stories, live through encounters with local leviathans, and fight off otherworldly diseases as the planet gets increasingly more hostile with every move you make. Luckily, the strange Primordial Artifact in your possession allows you to shift through and explore alternate versions of reality, giving you the tools to rewrite your fate, aid local factions, and ultimately save your expedition. Stay tuned for more updates as we journey deeper into the mysteries of Keeling-IV! \u2013 The Wild Fields Team X/Twitter | BlueSky | Discord | Reddit https://store.steampowered.com/app/3714000/Rogue_Carrier/",
+                "feedlabel": "Community Announcements",
+                "date": 1783602377,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3714000,
+                "tags": [
+                    "hide_store",
+                    "mod_reviewed",
+                    "ModAct_1889321037_1783603114_0",
+                    "workshop",
+                    "mod_require_rereview"
+                ]
+            }
+        ],
+        "count": 2
+    }
+}

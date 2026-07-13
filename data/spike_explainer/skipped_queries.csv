@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-4163030,Cat Chess,"site:pcgamer.com ""Cat Chess""",press,2,tavily,False,General budget exhausted,0
-4163030,Cat Chess,"site:rockpapershotgun.com ""Cat Chess""",press,2,tavily,False,General budget exhausted,0
-4163030,Cat Chess,"site:ign.com ""Cat Chess""",press,2,tavily,False,General budget exhausted,0
-4163030,Cat Chess,"site:gamespot.com ""Cat Chess""",press,2,tavily,False,General budget exhausted,0
-4163030,Cat Chess,"site:game8.co ""Cat Chess""",press,2,tavily,False,General budget exhausted,0
+3714000,Rogue Carrier,"site:pcgamer.com ""Rogue Carrier""",press,2,tavily,False,General budget exhausted,0
+3714000,Rogue Carrier,"site:rockpapershotgun.com ""Rogue Carrier""",press,2,tavily,False,General budget exhausted,0
+3714000,Rogue Carrier,"site:ign.com ""Rogue Carrier""",press,2,tavily,False,General budget exhausted,0
+3714000,Rogue Carrier,"site:gamespot.com ""Rogue Carrier""",press,2,tavily,False,General budget exhausted,0
+3714000,Rogue Carrier,"site:game8.co ""Rogue Carrier""",press,2,tavily,False,General budget exhausted,0

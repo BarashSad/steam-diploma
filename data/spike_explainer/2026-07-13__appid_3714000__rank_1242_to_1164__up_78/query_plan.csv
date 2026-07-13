@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3714000,Rogue Carrier,"""Rogue Carrier"" Steam",general,1,tavily,True,,5
+3714000,Rogue Carrier,"""Rogue Carrier"" trailer",general,1,tavily,True,,5
+3714000,Rogue Carrier,"""Rogue Carrier"" gameplay",general,1,tavily,True,,5
+3714000,Rogue Carrier,"""Rogue Carrier"" demo",general,1,tavily,True,,5
+3714000,Rogue Carrier,"""Rogue Carrier"" release date",general,1,tavily,True,,5
+3714000,Rogue Carrier,"""Rogue Carrier"" announcement",general,1,tavily,True,,5
+3714000,Rogue Carrier,"""Rogue Carrier"" preview",general,1,tavily,True,,5
+3714000,Rogue Carrier,"""Rogue Carrier"" review",general,1,tavily,True,,5
+3714000,Rogue Carrier,"""Rogue Carrier"" publisher",general,1,tavily,True,,5
+3714000,Rogue Carrier,"""Rogue Carrier"" developer",general,1,tavily,True,,5
+3714000,Rogue Carrier,"site:pcgamer.com ""Rogue Carrier""",press,2,tavily,False,General budget exhausted,0
+3714000,Rogue Carrier,"site:rockpapershotgun.com ""Rogue Carrier""",press,2,tavily,False,General budget exhausted,0
+3714000,Rogue Carrier,"site:ign.com ""Rogue Carrier""",press,2,tavily,False,General budget exhausted,0
+3714000,Rogue Carrier,"site:gamespot.com ""Rogue Carrier""",press,2,tavily,False,General budget exhausted,0
+3714000,Rogue Carrier,"site:game8.co ""Rogue Carrier""",press,2,tavily,False,General budget exhausted,0
+3714000,Rogue Carrier,"site:reddit.com ""Rogue Carrier""",social,3,tavily,True,,5
+3714000,Rogue Carrier,"site:tiktok.com ""Rogue Carrier""",social,4,tavily,True,,5
+3714000,Rogue Carrier,"site:instagram.com ""Rogue Carrier""",social,4,tavily,True,,5
+3714000,Rogue Carrier,"site:x.com ""Rogue Carrier""",social,4,tavily,True,,5
+3714000,Rogue Carrier,"site: ""Rogue Carrier""",social,4,tavily,True,,5
