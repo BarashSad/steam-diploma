@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-07-13T03:42:21.970554+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260713_033125/rank_changes.csv",
-    "selected_appid": "3714000",
-    "selected_game_title": "Rogue Carrier",
+    "started_at": "2026-07-13T14:56:36.481189+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260713_144630/rank_changes.csv",
+    "selected_appid": "3738830",
+    "selected_game_title": "Bodycam Onrecord",
     "top_n": 1,
     "old_snapshot_date": "2026-07-10",
     "new_snapshot_date": "2026-07-13",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-13T03:42:21.970570+00:00",
+    "finished_at": "2026-07-13T14:56:36.481209+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
