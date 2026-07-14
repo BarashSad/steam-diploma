@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+1208170,Samurai: Ronin's Path,Samurai: Ronin's Path,879,871,8,8,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,July 2026,"Jul 21, 2026",True
+2212910,Expeditions: Samurai,Expeditions: Samurai,1011,1008,3,3,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Aug 7, 2026",True
+1332100,Starship Simulator,Starship Simulator,358,359,-1,1,down,none,Free,Unpriced (Coming Soon),True,To be announced,To be announced,False
+3929470,Warhounds,Warhounds,921,922,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Aug 11, 2026",True

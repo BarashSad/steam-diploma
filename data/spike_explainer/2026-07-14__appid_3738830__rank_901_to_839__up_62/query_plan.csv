@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3738830,Bodycam Onrecord,"""Bodycam Onrecord"" Steam",general,1,tavily,True,,5
+3738830,Bodycam Onrecord,"""Bodycam Onrecord"" trailer",general,1,tavily,True,,5
+3738830,Bodycam Onrecord,"""Bodycam Onrecord"" gameplay",general,1,tavily,True,,5
+3738830,Bodycam Onrecord,"""Bodycam Onrecord"" demo",general,1,tavily,True,,5
+3738830,Bodycam Onrecord,"""Bodycam Onrecord"" release date",general,1,tavily,True,,5
+3738830,Bodycam Onrecord,"""Bodycam Onrecord"" announcement",general,1,tavily,True,,5
+3738830,Bodycam Onrecord,"""Bodycam Onrecord"" preview",general,1,tavily,True,,5
+3738830,Bodycam Onrecord,"""Bodycam Onrecord"" review",general,1,tavily,True,,5
+3738830,Bodycam Onrecord,"""Bodycam Onrecord"" publisher",general,1,tavily,True,,5
+3738830,Bodycam Onrecord,"""Bodycam Onrecord"" developer",general,1,tavily,True,,5
+3738830,Bodycam Onrecord,"site:pcgamer.com ""Bodycam Onrecord""",press,2,tavily,False,General budget exhausted,0
+3738830,Bodycam Onrecord,"site:rockpapershotgun.com ""Bodycam Onrecord""",press,2,tavily,False,General budget exhausted,0
+3738830,Bodycam Onrecord,"site:ign.com ""Bodycam Onrecord""",press,2,tavily,False,General budget exhausted,0
+3738830,Bodycam Onrecord,"site:gamespot.com ""Bodycam Onrecord""",press,2,tavily,False,General budget exhausted,0
+3738830,Bodycam Onrecord,"site:game8.co ""Bodycam Onrecord""",press,2,tavily,False,General budget exhausted,0
+3738830,Bodycam Onrecord,"site:reddit.com ""Bodycam Onrecord""",social,3,tavily,True,,5
+3738830,Bodycam Onrecord,"site:tiktok.com ""Bodycam Onrecord""",social,4,tavily,True,,5
+3738830,Bodycam Onrecord,"site:instagram.com ""Bodycam Onrecord""",social,4,tavily,True,,5
+3738830,Bodycam Onrecord,"site:x.com ""Bodycam Onrecord""",social,4,tavily,True,,5
+3738830,Bodycam Onrecord,"site: ""Bodycam Onrecord""",social,4,tavily,True,,5
