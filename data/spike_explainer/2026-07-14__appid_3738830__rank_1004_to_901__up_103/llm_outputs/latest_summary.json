@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-14T03:04:53.152249+00:00",
+    "timestamp": "20260714_030453",
+    "input_file": "data/spike_explainer/2026-07-14__appid_3738830__rank_1004_to_901__up_103/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-14__appid_3738830__rank_1004_to_901__up_103/llm_outputs/gemini_20260714_030453.md",
+    "game_title": "Bodycam Onrecord",
+    "appid": "3738830",
+    "duration_sec": 16.31,
+    "response_length": 5405,
+    "error": null
+}

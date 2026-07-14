@@ -1,0 +1,336 @@
+2026-07-14 02:53:18,893 [INFO] --- STARTING PIPELINE RUN: 20260714_025318 ---
+2026-07-14 02:53:18,894 [INFO] [COLLECTOR] Executing: /opt/hostedtoolcache/Python/3.11.15/x64/bin/python src/snapshot_collector.py --base-dir . --work-dir data/snapshots --max-games 3000 --speed-mode fast
+2026-07-14 03:04:28,186 [INFO] [COLLECTOR] STDOUT:
+2026-07-14 02:53:19,319 [INFO] Steam Snapshot Collector Started.
+2026-07-14 02:53:19,319 [INFO] Speed Mode: fast
+2026-07-14 02:53:19,319 [INFO] Work Dir: /home/runner/work/steam-diploma/steam-diploma/data/snapshots
+2026-07-14 02:53:19,319 [INFO] Base Output Dir: .
+2026-07-14 02:53:19,320 [INFO] Page 1 | Collected: 0
+2026-07-14 02:53:19,735 [INFO] Pacing: sleep 1.1s
+2026-07-14 02:53:20,860 [INFO] Page 2 | Collected: 0
+2026-07-14 02:53:21,182 [INFO] Pacing: sleep 0.5s
+2026-07-14 02:53:21,704 [INFO] Page 3 | Collected: 0
+2026-07-14 02:53:21,982 [INFO] Pacing: sleep 0.8s
+2026-07-14 02:53:22,817 [INFO] Page 4 | Collected: 0
+2026-07-14 02:53:23,149 [INFO] Pacing: sleep 1.1s
+2026-07-14 02:53:24,268 [INFO] Page 5 | Collected: 0
+2026-07-14 02:53:24,503 [INFO] Pacing: sleep 1.3s
+2026-07-14 02:53:25,805 [INFO] Page 6 | Collected: 0
+2026-07-14 02:53:26,047 [INFO] Pacing: sleep 1.1s
+2026-07-14 02:53:27,160 [INFO] Page 7 | Collected: 0
+2026-07-14 02:53:27,492 [INFO] Pacing: sleep 1.1s
+2026-07-14 02:53:28,586 [INFO] Page 8 | Collected: 0
+2026-07-14 02:53:28,865 [INFO] Pacing: sleep 0.8s
+2026-07-14 02:53:29,643 [INFO] Page 9 | Collected: 0
+2026-07-14 02:53:29,950 [INFO] Pacing: sleep 1.4s
+2026-07-14 02:53:31,391 [INFO] Page 10 | Collected: 0
+2026-07-14 02:53:31,646 [INFO] Pacing: sleep 1.4s
+2026-07-14 02:53:33,033 [INFO] Page 11 | Collected: 250
+2026-07-14 02:53:33,265 [INFO] Pacing: sleep 0.7s
+2026-07-14 02:53:33,968 [INFO] Page 12 | Collected: 250
+2026-07-14 02:53:34,299 [INFO] Pacing: sleep 0.9s
+2026-07-14 02:53:35,179 [INFO] Page 13 | Collected: 250
+2026-07-14 02:53:35,475 [INFO] Pacing: sleep 0.7s
+2026-07-14 02:53:36,216 [INFO] Page 14 | Collected: 250
+2026-07-14 02:53:36,480 [INFO] Pacing: sleep 0.8s
+2026-07-14 02:53:37,328 [INFO] Page 15 | Collected: 250
+2026-07-14 02:53:37,671 [INFO] Pacing: sleep 1.0s
+2026-07-14 02:53:38,664 [INFO] Page 16 | Collected: 250
+2026-07-14 02:53:38,943 [INFO] Pacing: sleep 1.2s
+2026-07-14 02:53:40,191 [INFO] Page 17 | Collected: 250
+2026-07-14 02:53:40,506 [INFO] Pacing: sleep 1.5s
+2026-07-14 02:53:41,979 [INFO] Page 18 | Collected: 250
+2026-07-14 02:53:42,286 [INFO] Pacing: sleep 1.4s
+2026-07-14 02:53:43,675 [INFO] Page 19 | Collected: 250
+2026-07-14 02:53:43,958 [INFO] Pacing: sleep 0.6s
+2026-07-14 02:53:44,583 [INFO] Page 20 | Collected: 250
+2026-07-14 02:53:44,959 [INFO] Pacing: sleep 0.6s
+2026-07-14 02:53:45,513 [INFO] Page 21 | Collected: 500
+2026-07-14 02:53:45,782 [INFO] Pacing: sleep 1.4s
+2026-07-14 02:53:47,184 [INFO] Page 22 | Collected: 500
+2026-07-14 02:53:47,555 [INFO] Pacing: sleep 0.7s
+2026-07-14 02:53:48,216 [INFO] Page 23 | Collected: 500
+2026-07-14 02:53:48,467 [INFO] Pacing: sleep 1.5s
+2026-07-14 02:53:49,939 [INFO] Page 24 | Collected: 500
+2026-07-14 02:53:50,187 [INFO] Pacing: sleep 1.4s
+2026-07-14 02:53:51,557 [INFO] Page 25 | Collected: 500
+2026-07-14 02:53:51,939 [INFO] Pacing: sleep 0.6s
+2026-07-14 02:53:52,538 [INFO] Page 26 | Collected: 500
+2026-07-14 02:53:52,904 [INFO] Pacing: sleep 1.2s
+2026-07-14 02:53:54,088 [INFO] Page 27 | Collected: 500
+2026-07-14 02:53:54,364 [INFO] Pacing: sleep 1.0s
+2026-07-14 02:53:55,379 [INFO] Page 28 | Collected: 500
+2026-07-14 02:53:55,705 [INFO] Pacing: sleep 1.3s
+2026-07-14 02:53:56,976 [INFO] Page 29 | Collected: 500
+2026-07-14 02:53:57,232 [INFO] Pacing: sleep 1.0s
+2026-07-14 02:53:58,259 [INFO] Page 30 | Collected: 500
+2026-07-14 02:53:58,561 [INFO] Pacing: sleep 1.2s
+2026-07-14 02:53:59,730 [INFO] Page 31 | Collected: 750
+2026-07-14 02:53:59,775 [WARNING] Block detected on page 31: HTTP 429
+2026-07-14 02:53:59,775 [INFO] Saved raw HTML for debugging: blocked_0031.html
+2026-07-14 02:53:59,775 [WARNING] Initiating ADAPTIVE THROTTLING. Sleeping 180s, switching to SAFE mode.
+2026-07-14 02:56:59,776 [INFO] Pacing: sleep 67.4s | Short Cooldown: 59.9s
+2026-07-14 02:58:07,179 [INFO] Page 31 | Collected: 750
+2026-07-14 02:58:07,436 [INFO] Pacing: sleep 5.0s
+2026-07-14 02:58:12,426 [INFO] Page 32 | Collected: 750
+2026-07-14 02:58:12,755 [INFO] Pacing: sleep 5.1s
+2026-07-14 02:58:17,851 [INFO] Page 33 | Collected: 750
+2026-07-14 02:58:18,161 [INFO] Pacing: sleep 7.9s
+2026-07-14 02:58:26,019 [INFO] Page 34 | Collected: 750
+2026-07-14 02:58:26,267 [INFO] Pacing: sleep 7.0s
+2026-07-14 02:58:33,317 [INFO] Page 35 | Collected: 750
+2026-07-14 02:58:33,602 [INFO] Pacing: sleep 7.4s
+2026-07-14 02:58:40,969 [INFO] Page 36 | Collected: 750
+2026-07-14 02:58:41,223 [INFO] Pacing: sleep 7.3s
+2026-07-14 02:58:48,510 [INFO] Page 37 | Collected: 750
+2026-07-14 02:58:48,794 [INFO] Pacing: sleep 4.6s
+2026-07-14 02:58:53,439 [INFO] Page 38 | Collected: 750
+2026-07-14 02:58:53,824 [INFO] Pacing: sleep 5.7s
+2026-07-14 02:58:59,489 [INFO] Page 39 | Collected: 750
+2026-07-14 02:58:59,780 [INFO] Pacing: sleep 5.2s
+2026-07-14 02:59:04,956 [INFO] Page 40 | Collected: 750
+2026-07-14 02:59:05,326 [INFO] Pacing: sleep 168.4s | Long Cooldown: 161.6s
+2026-07-14 03:01:53,775 [INFO] Page 41 | Collected: 1000
+2026-07-14 03:01:54,038 [INFO] Pacing: sleep 6.5s
+2026-07-14 03:02:00,510 [INFO] Page 42 | Collected: 1000
+2026-07-14 03:02:00,771 [INFO] Pacing: sleep 5.7s
+2026-07-14 03:02:06,485 [INFO] Page 43 | Collected: 1000
+2026-07-14 03:02:29,017 [INFO] Pacing: sleep 7.0s
+2026-07-14 03:02:35,968 [INFO] Page 44 | Collected: 1000
+2026-07-14 03:02:36,642 [INFO] Pacing: sleep 5.1s
+2026-07-14 03:02:41,772 [INFO] Page 45 | Collected: 1000
+2026-07-14 03:02:42,207 [INFO] Pacing: sleep 7.2s
+2026-07-14 03:02:49,401 [INFO] Page 46 | Collected: 1000
+2026-07-14 03:02:50,048 [INFO] Pacing: sleep 6.3s
+2026-07-14 03:02:56,307 [INFO] Page 47 | Collected: 1000
+2026-07-14 03:02:57,096 [INFO] Pacing: sleep 7.1s
+2026-07-14 03:03:04,243 [INFO] Page 48 | Collected: 1000
+2026-07-14 03:03:04,906 [INFO] Pacing: sleep 5.5s
+2026-07-14 03:03:10,421 [INFO] Page 49 | Collected: 1000
+2026-07-14 03:03:10,883 [INFO] Pacing: sleep 5.1s
+2026-07-14 03:03:15,970 [INFO] Page 50 | Collected: 1000
+2026-07-14 03:03:16,210 [INFO] Pacing: sleep 65.1s | Short Cooldown: 59.2s
+2026-07-14 03:04:21,271 [INFO] Page 51 | Collected: 1250
+2026-07-14 03:04:21,604 [INFO] Pacing: sleep 6.3s
+2026-07-14 03:04:27,905 [INFO] Page 52 | Collected: 1250
+2026-07-14 03:04:28,052 [WARNING] Block detected on page 52: Suspicious term found: 'captcha'
+2026-07-14 03:04:28,053 [INFO] Saved raw HTML for debugging: blocked_0052.html
+2026-07-14 03:04:28,053 [ERROR] Blocked again even after safe mode. Stopping gracefully.
+2026-07-14 03:04:28,054 [INFO] Crawl stopped. Reason: adaptive_throttle_failed_page_52. Finalizing...
+2026-07-14 03:04:28,054 [INFO] Merging intermediate pages from work_dir: /home/runner/work/steam-diploma/steam-diploma/data/snapshots/data/snapshots/_in_progress/aff1ae56-8c7d-47eb-a115-0263ebe7e201
+
+--------------------------------------------------
+FINAL_SNAPSHOT_CSV=data/snapshots/snapshot_main_20260714_025319.csv
+ROWS: 1275
+COLUMNS: ['snapshot_id', 'captured_at_utc', 'rank', 'appid', 'title', 'release_text', 'price_text', 'game_url', 'page_number', 'position_on_page']
+SCHEMA_COMPATIBLE: True
+RANK_SEQUENCE_OK: True
+DUPLICATE_APPIDS: 0
+--------------------------------------------------
+
+2026-07-14 03:04:28,081 [INFO] Total time elapsed: 668.76s
+2026-07-14 03:04:28,187 [INFO] Snapshot candidates found:
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260401_120957.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260402_134016.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260408_104841.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260401_110251.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260331_212827.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260407_170614.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260403_182425.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260409_111021.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260410_074539.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260409_105930.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260516_122335.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260516_182327.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260516_154629.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260516_182550.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260518_151114.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260516_184342.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260520_160747.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260519_163409.csv
+2026-07-14 03:04:28,188 [INFO]  - snapshot_main_20260521_142540.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260523_174858.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260525_163106.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260526_142355.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260526_170415.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260526_192152.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260527_084623.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260527_072107.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260527_092427.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260528_040815.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260527_155848.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260528_161309.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260529_155430.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260529_041020.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260530_135202.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260530_035620.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260531_042132.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260531_135747.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260601_045029.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260601_175328.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260602_043945.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260603_044822.csv
+2026-07-14 03:04:28,189 [INFO]  - snapshot_main_20260602_164415.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260603_170047.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260604_044245.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260604_152916.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260605_151927.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260605_041707.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260606_135550.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260606_035940.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260607_140600.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260607_042605.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260608_044212.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260608_160425.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260609_151721.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260609_040256.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260610_041423.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260610_155134.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260611_042645.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260611_161232.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260612_152803.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260612_043925.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260613_041812.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260614_044527.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260613_141209.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260614_141700.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260615_050106.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260615_172213.csv
+2026-07-14 03:04:28,190 [INFO]  - snapshot_main_20260616_050240.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260616_170547.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260617_155019.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260617_044541.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260619_045726.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260618_153833.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260618_043945.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260620_041135.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260619_153155.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260620_141540.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260621_045321.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260621_142256.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260622_050151.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260622_170609.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260623_040131.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260624_040402.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260623_151346.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260624_144335.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260625_040432.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260626_041149.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260625_144245.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260626_143603.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260627_035715.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260627_135430.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260628_041952.csv
+2026-07-14 03:04:28,191 [INFO]  - snapshot_main_20260628_140036.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260629_155619.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260629_042654.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260630_040629.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260701_042220.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260630_143038.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260702_040156.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260701_144801.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260702_141354.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260703_034719.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260703_142048.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260704_134541.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260704_033919.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260705_035800.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260705_135154.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260706_040434.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260708_032149.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260706_154455.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260707_035507.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260707_144928.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260709_152156.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260709_034853.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260710_035019.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260708_142708.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260710_144003.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260711_031633.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260712_133851.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260712_032813.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260711_133837.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260713_033125.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260713_144631.csv
+2026-07-14 03:04:28,192 [INFO]  - snapshot_main_20260714_025319.csv
+2026-07-14 03:04:28,192 [INFO] Selected Old Snapshot: snapshot_main_20260713_144631.csv
+2026-07-14 03:04:28,192 [INFO] Selected New Snapshot: snapshot_main_20260714_025319.csv
+2026-07-14 03:04:28,192 [INFO] [COMPARATOR] Executing: /opt/hostedtoolcache/Python/3.11.15/x64/bin/python src/compare_snapshots.py --snapshot-dir data/snapshots --latest-n 2 --outdir data/comparisons/comparison_20260714_025318 --top-limit 3000
+2026-07-14 03:04:30,140 [INFO] [COMPARATOR] STDOUT:
+[INFO] Selected snapshots:
+  2026-07-13T14:46:31.325640+00:00 -> snapshot_main_20260713_144631.csv
+  2026-07-14T02:53:19.319964+00:00 -> snapshot_main_20260714_025319.csv
+
+============================================================
+ STEAM RANKING LONGITUDINAL COMPARISON REPORT
+============================================================
+Snapshots Compared : 2
+Start Window       : 2026-07-13T14:46:31.325640+00:00
+End Window         : 2026-07-14T02:53:19.319964+00:00
+------------------------------------------------------------
+Games Present in Both : 1273
+New Entries Found     : 2
+Dropped Entries       : 2
+------------------------------------------------------------
+Moved Up   : 187
+Moved Down : 642
+Stable     : 444
+------------------------------------------------------------
+Upward Spikes   : 13
+Downward Spikes : 0
+Price Changes   : 2
+Release Changes : 2
+------------------------------------------------------------
+Biggest Up : +103 ranks | Bodycam Onrecord (3738830)
+
+NOTABLE PRICE/RELEASE CHANGES (First 5):
+[4223300] Birds of War
+   Price: 'Free' -> 'Unpriced (Coming Soon)'
+   Release: 'Coming soon' -> 'Jul 21, 2026'
+[3973300] Dark Craft
+   Price: 'Unpriced (Coming Soon)' -> 'Free'
+[3576070] Sudden Attack Zero Point
+   Release: 'Coming soon' -> 'Jul 29, 2026'
+
+Outputs and charts saved successfully.
+2026-07-14 03:04:30,140 [WARNING] [COMPARATOR] STDERR:
+2026-07-14 03:04:29 [INFO] Comparison output directory: data/comparisons/comparison_20260714_025318
+2026-07-14 03:04:29 [INFO] Loading 2 DataFrames...
+2026-07-14 03:04:29 [INFO] --- Validation: File 1 (snapshot_main_20260713_144631.csv) ---
+2026-07-14 03:04:29 [INFO] Total rows: 1275
+2026-07-14 03:04:29 [INFO] --- Validation: File 2 (snapshot_main_20260714_025319.csv) ---
+2026-07-14 03:04:29 [INFO] Total rows: 1275
+2026-07-14 03:04:29 [INFO] Analyzing snapshots across time...
+2026-07-14 03:04:29 [INFO] Generating charts...
+2026-07-14 03:04:30 [INFO] Generated rank movement diagram at: data/comparisons/comparison_20260714_025318/trajectory_chart.png
+2026-07-14 03:04:30 [INFO] Writing outputs to data/comparisons/comparison_20260714_025318...
+2026-07-14 03:04:30,140 [INFO] Selected Comparison Folder: comparison_20260714_025318
+2026-07-14 03:04:30,140 [INFO] Selected Top Movers CSV: spikes_up.csv
+2026-07-14 03:04:30,141 [INFO] [SPIKE_EXPLAINER] Executing: /opt/hostedtoolcache/Python/3.11.15/x64/bin/python src/spike_explainer.py --diff-csv latest --comparisons-dir data/comparisons --output-dir data/spike_explainer --top-n 1 --old-snapshot-date 2026-07-11 --new-snapshot-date 2026-07-14 --search-provider tavily --tavily-api-key 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 --youtube-api-key AIzaSyBM5eMXToJ0uBkMDxEmTP2Is9DMDonKqt8
+2026-07-14 03:04:53,110 [WARNING] [SPIKE_EXPLAINER] STDERR:
+2026-07-14 03:04:30 [INFO] Starting Daily Spike Explainer Prototype...
+2026-07-14 03:04:30 [INFO] Using latest comparison folder: data/comparisons/comparison_20260714_025318
+2026-07-14 03:04:30 [INFO] Using diff CSV: data/comparisons/comparison_20260714_025318/rank_changes.csv
+2026-07-14 03:04:30 [INFO] Analyzing Top Spike: [3738830] Bodycam Onrecord (+103 ranks)
+2026-07-14 03:04:53 [INFO] Daily Prototype Run Complete. Evaluated 1 spikes. Errors: 0
+2026-07-14 03:04:53,111 [INFO] [LLM_GENERATOR] Executing: /opt/hostedtoolcache/Python/3.11.15/x64/bin/python src/llm_report_generator.py --provider gemini --language ru --input-dir data/spike_explainer --input-folder data/spike_explainer/2026-07-14__appid_3738830__rank_1004_to_901__up_103 --model gemini-2.5-flash --overwrite
+2026-07-14 03:05:09,550 [WARNING] [LLM_GENERATOR] STDERR:
+2026-07-14 03:04:53 [INFO] Starting LLM Report Generator (Provider: gemini)
+2026-07-14 03:04:53 [INFO] [MODE] single folder
+2026-07-14 03:04:53 [INFO] Found 1 valid targets to process.
+2026-07-14 03:04:53 [INFO] Processing: [3738830] Bodycam Onrecord
+2026-07-14 03:04:53 [INFO] Sending request to provider: gemini
+2026-07-14 03:04:53 [INFO] AFC is enabled with max remote calls: 10.
+2026-07-14 03:05:09 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-07-14 03:05:09 [INFO] AFC remote call 1 is done.
+2026-07-14 03:05:09 [INFO] Response received. Length: 5405 chars. Time: 16.31s
+2026-07-14 03:05:09 [INFO] [GENERATED] data/spike_explainer/2026-07-14__appid_3738830__rank_1004_to_901__up_103/llm_outputs/gemini_20260714_030453.md
+2026-07-14 03:05:09 [INFO] Finished. Processed: 1 | Errors: 0
+2026-07-14 03:05:09,551 [INFO] ==================================================
+2026-07-14 03:05:09,551 [INFO] PIPELINE RUN COMPLETE
+2026-07-14 03:05:09,551 [INFO] ==================================================
+2026-07-14 03:05:09,551 [INFO] Log File Saved: logs/pipeline_run_20260714_025318.log
+2026-07-14 03:05:09,551 [INFO] Latest Snapshot: data/snapshots/snapshot_main_20260714_025319.csv
+2026-07-14 03:05:09,551 [INFO] Top Movers CSV: data/comparisons/comparison_20260714_025318/spikes_up.csv
+2026-07-14 03:05:09,551 [INFO] Spike Explainer Dir: data/spike_explainer
+2026-07-14 03:05:09,551 [INFO] ==================================================
