@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-15T14:04:46.069539+00:00",
+    "timestamp": "20260715_140446",
+    "input_file": "data/spike_explainer/2026-07-15__appid_4212480__rank_896_to_814__up_82/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-15__appid_4212480__rank_896_to_814__up_82/llm_outputs/gemini_20260715_140446.md",
+    "game_title": "Ragnarok: The New World",
+    "appid": "4212480",
+    "duration_sec": 18.94,
+    "response_length": 5317,
+    "error": null
+}
