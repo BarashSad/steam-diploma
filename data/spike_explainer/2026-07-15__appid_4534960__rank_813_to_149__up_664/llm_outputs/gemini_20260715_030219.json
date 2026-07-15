@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-15T03:02:19.758501+00:00",
+    "timestamp": "20260715_030219",
+    "input_file": "data/spike_explainer/2026-07-15__appid_4534960__rank_813_to_149__up_664/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-15__appid_4534960__rank_813_to_149__up_664/llm_outputs/gemini_20260715_030219.md",
+    "game_title": "Dear Passengers",
+    "appid": "4534960",
+    "duration_sec": 17.6,
+    "response_length": 7002,
+    "error": null
+}

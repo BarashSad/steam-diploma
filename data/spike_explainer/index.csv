@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-07-14T14:07:13.510316+00:00,3738830,Bodycam Onrecord,data/spike_explainer/2026-07-14__appid_3738830__rank_901_to_839__up_62,62,75,data/spike_explainer/2026-07-14__appid_3738830__rank_901_to_839__up_62/llm_summary_input.md
+2026-07-15T03:02:02.156498+00:00,4534960,Dear Passengers,data/spike_explainer/2026-07-15__appid_4534960__rank_813_to_149__up_664,664,85,data/spike_explainer/2026-07-15__appid_4534960__rank_813_to_149__up_664/llm_summary_input.md

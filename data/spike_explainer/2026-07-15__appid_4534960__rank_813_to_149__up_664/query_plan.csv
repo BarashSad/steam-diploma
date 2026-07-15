@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4534960,Dear Passengers,"""Dear Passengers"" Steam",general,1,tavily,True,,5
+4534960,Dear Passengers,"""Dear Passengers"" trailer",general,1,tavily,True,,5
+4534960,Dear Passengers,"""Dear Passengers"" gameplay",general,1,tavily,True,,4
+4534960,Dear Passengers,"""Dear Passengers"" demo",general,1,tavily,True,,5
+4534960,Dear Passengers,"""Dear Passengers"" release date",general,1,tavily,True,,5
+4534960,Dear Passengers,"""Dear Passengers"" announcement",general,1,tavily,True,,5
+4534960,Dear Passengers,"""Dear Passengers"" preview",general,1,tavily,True,,3
+4534960,Dear Passengers,"""Dear Passengers"" review",general,1,tavily,True,,5
+4534960,Dear Passengers,"""Dear Passengers"" publisher",general,1,tavily,True,,5
+4534960,Dear Passengers,"""Dear Passengers"" developer",general,1,tavily,True,,5
+4534960,Dear Passengers,"site:pcgamer.com ""Dear Passengers""",press,2,tavily,False,General budget exhausted,0
+4534960,Dear Passengers,"site:rockpapershotgun.com ""Dear Passengers""",press,2,tavily,False,General budget exhausted,0
+4534960,Dear Passengers,"site:ign.com ""Dear Passengers""",press,2,tavily,False,General budget exhausted,0
+4534960,Dear Passengers,"site:gamespot.com ""Dear Passengers""",press,2,tavily,False,General budget exhausted,0
+4534960,Dear Passengers,"site:game8.co ""Dear Passengers""",press,2,tavily,False,General budget exhausted,0
+4534960,Dear Passengers,"site:reddit.com ""Dear Passengers""",social,3,tavily,True,,5
+4534960,Dear Passengers,"site:tiktok.com ""Dear Passengers""",social,4,tavily,True,,5
+4534960,Dear Passengers,"site:instagram.com ""Dear Passengers""",social,4,tavily,True,,5
+4534960,Dear Passengers,"site:x.com ""Dear Passengers""",social,4,tavily,True,,5
+4534960,Dear Passengers,"site: ""Dear Passengers""",social,4,tavily,True,,5

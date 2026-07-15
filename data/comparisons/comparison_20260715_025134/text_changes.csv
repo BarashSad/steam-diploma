@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2684630,Endacopia,Endacopia,700,686,14,14,up,none,Free,Unpriced (Coming Soon),True,Coming soon,"Jul 27, 2026",True
+2890240,Capy Castaway,Capy Castaway,723,719,4,4,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Aug 6, 2026",True
+3751230,Danganronpa 2x2,Danganronpa 2x2,167,168,-1,1,down,none,Unpriced (Coming Soon),Free,True,2026,2027,True
+4450620,GRAIN ROT,GRAIN ROT,300,299,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Aug 7, 2026",True
+1332100,Starship Simulator,Starship Simulator,359,360,-1,1,down,none,Unpriced (Coming Soon),Free,True,To be announced,To be announced,False
