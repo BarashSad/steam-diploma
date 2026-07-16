@@ -1,0 +1,40 @@
+{
+    "appid": "4212480",
+    "game_title": "Ragnarok: The New World",
+    "safe_slug": "ragnarok_the_new_world",
+    "analysis_date_utc": "2026-07-16T03:22:59.859729+00:00",
+    "spike_window_start": "2026-07-13T00:00:00+00:00",
+    "spike_window_end": "2026-07-16T00:00:00+00:00",
+    "extended_window_start": "2026-05-29T00:00:00+00:00",
+    "extended_window_end": "2026-07-19T00:00:00+00:00",
+    "dt_start": "2026-07-13 00:00:00+00:00",
+    "dt_end": "2026-07-16 00:00:00+00:00",
+    "ext_start": "2026-05-29 00:00:00+00:00",
+    "ext_end": "2026-07-19 00:00:00+00:00",
+    "window_inferred_fallback": false,
+    "prev_rank": 814,
+    "curr_rank": 718,
+    "rank_delta": 96,
+    "movement_score": 0,
+    "is_new_entry": false,
+    "changed_fields_detected": [
+        "release_date"
+    ],
+    "input_diff_row": {
+        "appid": "4212480",
+        "title_old": "Ragnarok: The New World",
+        "curr_title": "Ragnarok: The New World",
+        "prev_rank": 814,
+        "curr_rank": 718,
+        "rank_delta": 96,
+        "abs_rank_delta": 96,
+        "movement_type": "up",
+        "spike_type": "upward_spike",
+        "price_text_old": "Free",
+        "price_text_new": "Free",
+        "price_changed": false,
+        "release_text_old": "Jul 15, 2026",
+        "release_text_new": "Coming soon",
+        "release_changed": true
+    }
+}

@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-07-15T14:04:27.210331+00:00,4212480,Ragnarok: The New World,data/spike_explainer/2026-07-15__appid_4212480__rank_896_to_814__up_82,82,70,data/spike_explainer/2026-07-15__appid_4212480__rank_896_to_814__up_82/llm_summary_input.md
+2026-07-16T03:22:59.859729+00:00,4212480,Ragnarok: The New World,data/spike_explainer/2026-07-16__appid_4212480__rank_814_to_718__up_96,96,70,data/spike_explainer/2026-07-16__appid_4212480__rank_814_to_718__up_96/llm_summary_input.md
