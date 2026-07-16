@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4212480,Ragnarok: The New World,"""Ragnarok: The New World"" Steam",general,1,tavily,True,,5
+4212480,Ragnarok: The New World,"""Ragnarok: The New World"" trailer",general,1,tavily,True,,5
+4212480,Ragnarok: The New World,"""Ragnarok: The New World"" gameplay",general,1,tavily,True,,5
+4212480,Ragnarok: The New World,"""Ragnarok: The New World"" demo",general,1,tavily,True,,5
+4212480,Ragnarok: The New World,"""Ragnarok: The New World"" release date",general,1,tavily,True,,5
+4212480,Ragnarok: The New World,"""Ragnarok: The New World"" announcement",general,1,tavily,True,,5
+4212480,Ragnarok: The New World,"""Ragnarok: The New World"" preview",general,1,tavily,True,,5
+4212480,Ragnarok: The New World,"""Ragnarok: The New World"" review",general,1,tavily,True,,5
+4212480,Ragnarok: The New World,"""Ragnarok: The New World"" publisher",general,1,tavily,True,,5
+4212480,Ragnarok: The New World,"""Ragnarok: The New World"" developer",general,1,tavily,True,,5
+4212480,Ragnarok: The New World,"site:pcgamer.com ""Ragnarok: The New World""",press,2,tavily,False,General budget exhausted,0
+4212480,Ragnarok: The New World,"site:rockpapershotgun.com ""Ragnarok: The New World""",press,2,tavily,False,General budget exhausted,0
+4212480,Ragnarok: The New World,"site:ign.com ""Ragnarok: The New World""",press,2,tavily,False,General budget exhausted,0
+4212480,Ragnarok: The New World,"site:gamespot.com ""Ragnarok: The New World""",press,2,tavily,False,General budget exhausted,0
+4212480,Ragnarok: The New World,"site:game8.co ""Ragnarok: The New World""",press,2,tavily,False,General budget exhausted,0
+4212480,Ragnarok: The New World,"site:reddit.com ""Ragnarok: The New World""",social,3,tavily,True,,5
+4212480,Ragnarok: The New World,"site:tiktok.com ""Ragnarok: The New World""",social,4,tavily,True,,5
+4212480,Ragnarok: The New World,"site:instagram.com ""Ragnarok: The New World""",social,4,tavily,True,,5
+4212480,Ragnarok: The New World,"site:x.com ""Ragnarok: The New World""",social,4,tavily,True,,4
+4212480,Ragnarok: The New World,"site: ""Ragnarok: The New World""",social,4,tavily,True,,5
