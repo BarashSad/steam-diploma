@@ -1,0 +1,203 @@
+{
+    "appnews": {
+        "appid": 3950130,
+        "newsitems": [
+            {
+                "gid": "1835871199312169",
+                "title": "Demo Update 1.13",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312169",
+                "is_external_url": true,
+                "author": "Train Called Thomas",
+                "contents": "Wanted to get this update out there since I noticed that some Twitch VODs were being muted due to a song in the Royalty Free Music Player.Update Notes:Gameplay ChangesRemove song that was causing Twitch VODs to being mutedTable cells now highlight when hovered overDecrease tab size (I didn't notice how long tabs were in the demo!)",
+                "feedlabel": "Community Announcements",
+                "date": 1782109060,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3950130,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1835871199311142",
+                "title": "Releasing on July 17th!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199311142",
+                "is_external_url": true,
+                "author": "Train Called Thomas",
+                "contents": "Database Detective: Minor Crimes Division is releasing on July 17th!That\u2019s less than a month away!!!Thank you all for sticking around so far! I\u2019m so excited for you all to play the full game when it releases. So much work has been put into this game and I really just hope it meets (and possibly even exceeds) your expectations!The full game will include...10 cases (including the 4 cases in the demo), the latter half having cases that should take an hour to solve.More than 200 webpages within 40 websites to browse!The opportunity to learn how to write more complicated queries, including column grouping and self joins.I hope you check it out when the time comes! In the meantime, join the game's discord server here!",
+                "feedlabel": "Community Announcements",
+                "date": 1782057227,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3950130
+            },
+            {
+                "gid": "1835236783559228",
+                "title": "Demo Update 1.12 - Improved Hint System!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559228",
+                "is_external_url": true,
+                "author": "Train Called Thomas",
+                "contents": "I've noticed that most people didn't realize that when you click on your assistant after asking for a hint, he'll give you more hints! I've improved this so that you can cycle through hints when you simply ask for help once.Update Notes:Gameplay ChangesYou can now click \"Next\" when asking for help to get more hints!Add a clearer parser error when query is just SELECT FROMMade selected book chapters a different color than unavailable locked chapters",
+                "feedlabel": "Community Announcements",
+                "date": 1781152004,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3950130,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1834602721183368",
+                "title": "Demo Update 1.11 - Join the Discord!!!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721183368",
+                "is_external_url": true,
+                "author": "Train Called Thomas",
+                "contents": "Hey everyone! I finally made a discord page, which you can join by following this link!If you're interested in the development process of this game, I'll be posting some dev logs on there documenting how this game came to be. Also, if you want a drawing of yours to be a part of the game, I'm doing like a little art contest thing through there? But it's not really a contest? Check it out, it'll be fun!Also I think it'd be nice to have a little community around this game and also the other future games that I'm a part of! :)Oh and also a small update adding something some of you have been asking for!Update Notes:Gameplay ChangesYou can now resize the \"Search Tables\" panel! Just click and drag the bottom right corner!Bug FixesFixed the credits table being duplicated numerous times.",
+                "feedlabel": "Community Announcements",
+                "date": 1780446493,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3950130,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1434573178_1780446676_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1832700592793967",
+                "title": "Demo Update 1.10 - More Bug Fixes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592793967",
+                "is_external_url": true,
+                "author": "Train Called Thomas",
+                "contents": "Squashing some more bugs - thanks all for reporting these issues!Update Notes:Bug FixesPrevent soft lock when a wrong suspect is arrested twiceFixed notepad issues that might have caused some weird behaviorParser: add backtick (``) and square bracket (\\) support for identifiers (table and column names)Parser: fixed issue where a valid column alias of a subquery cannot be used",
+                "feedlabel": "Community Announcements",
+                "date": 1778917747,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3950130,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1831432155574846",
+                "title": "Demo Update 1.9 - An update in time for InterfaceX26!!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155574846",
+                "is_external_url": true,
+                "author": "Train Called Thomas",
+                "contents": "With InterfaceX26 fest here, I wanted to get in an update that addresses EVERYTHING YOU'VE EVER WANTED!!!! (almost).The contents of this update comes from your bug reports and feature requests, so thank you for letting me hear your thoughts on this matter! If you have any more feature requests or bug reports, please let me know!Update Notes:Gameplay ChangesAdded support for additional hotkeys.Ctrl+Enter for submitting queriesAlt+c for closing window panelsAlt+w for switching between window panelsAdd Undo/Redo (Ctrl+z/Ctrl+y) functionality for NotepadThese can now be in the newly updated Settings panel.Increased the line limit of a query from 10 -> 24Added the ability to copy text from a table by clicking a cell directlyAdded support for the concat function in parserAllow for tab indentationVisual ChangesMinor changes to one of the clues in the final case of the demo.Specifically, the date in the back of the photo.Clarified that clicking on the options in the end of demo popup will close your gameBug FixesFixed CRT filter for Mac and Linux! Now you can sear your eyes on all devices!Fixed window panels dragging on double speed if you hold both left and right mouse buttonsRemove umlauts from characters in Search Tables window panelFixed issues related to caret and text positions being misaligned (hopefully)Optimized level loading to hopefully reduce slowness issues when transitioning to new levels",
+                "feedlabel": "Community Announcements",
+                "date": 1777782988,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3950130
+            },
+            {
+                "gid": "1826992588598712",
+                "title": "Demo Update 1.08 - Bug Fixes!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588598712",
+                "is_external_url": true,
+                "author": "Train Called Thomas",
+                "contents": "Just wanted to thank everyone for playing the demo and for reporting these issues! Couldn't have done it without you ",
+                "feedlabel": "Community Announcements",
+                "date": 1773524906,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3950130,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1825727806716313",
+                "title": "Demo Update 1.07 - CopOS has been overhauled!!!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806716313",
+                "is_external_url": true,
+                "author": "Train Called Thomas",
+                "contents": "A HUGE new update for all of you DATABASE DETECTIVES!!!Pretty much every feature request I've been keeping track of has been implemented in this update, such as a taskbar and the ability to minimize window panels!There are also a bunch of visual improvements that make interacting with CopOS smoother and feel better than before!Update Notes:Gameplay ChangesAdded a taskbar and the ability to minimize window panels!Added syntax highlighting for column names (they should now be colored red!)Added more polish to the Instruction ManualAdded more detail in chapter 4 regarding joining multiple tables togetherUpdated each query in the textbook to contain the new syntax highlighted column namesUse a different font for each table name or column name mentioned in the textbookAdded the ability to click and drag to select multiple icons at onceComes with the ability to delete multiple icons at once (if they can all be deleted)Visual ChangesArrested suspect is now shown being jailed at the end of every case!Improved animationsBouncier animations when opening window panels and saving tablesAdded animations when opening the clue panelChanged the icon for the clue panel into a molemanBug FixesFix query parser being case sensitive (SQL should be case-insensitive)",
+                "feedlabel": "Community Announcements",
+                "date": 1772419683,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3950130
+            },
+            {
+                "gid": "1823191198608163",
+                "title": "Demo Update 1.05 - New (Optional) CRT Filter!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198608163",
+                "is_external_url": true,
+                "author": "Train Called Thomas",
+                "contents": "Here's a small update that adds an optional CRT filter for those who wanted to get more immersed in the time and era of Database Detective: Minor Crimes DivisionThis filter is enabled by default, but if you find it hurts your eyes (such as when trying to read), you can disable this filter in the settings.Here's a before and after with the CRT filter.BeforeAfterYou can also make the CRT effect even stronger if you want to burn your eyes even more!Update Notes:Gameplay ChangesAdded an optional CRT filter!Added some more sound effects",
+                "feedlabel": "Community Announcements",
+                "date": 1769895794,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3950130,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1821288646587464",
+                "title": "Demo Update 1.04 - New Notepad!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821288646587464",
+                "is_external_url": true,
+                "author": "Train Called Thomas",
+                "contents": "An update just in time for DETECTIVE FEST!!!The most notable change here is a new note taking app that you can use to write down whatever you want! There's even a dark mode setting on there! Update Notes:Gameplay ChangesAdded a much requested notepad for you to take notes on each case!Changed the arrest icon to a molemanAdded some new sound effects at various locationsBug FixesFix icons placement at different resolutionsFix parser not allowing comment strings in query ",
+                "feedlabel": "Community Announcements",
+                "date": 1768289015,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3950130
+            },
+            {
+                "gid": "1821288646578201",
+                "title": "Demo Update 1.0.3",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821288646578201",
+                "is_external_url": true,
+                "author": "Train Called Thomas",
+                "contents": "Thanks everyone for reporting any bugs and issues you've encountered! Hopefully this update should fix a few of them. Update Notes:Bug FixesFix crashing on macOS when you get to the last level of the demo.Increase audio buffer size to hopefully fix the crackling audio issue.Assistant is now FORCED to dance at the end of every level!!!Query hints are no longer given out of order.",
+                "feedlabel": "Community Announcements",
+                "date": 1767862083,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3950130,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1819386365121177",
+                "title": "Demo Update 1.0.2",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365121177",
+                "is_external_url": true,
+                "author": "Train Called Thomas",
+                "contents": "Hey everyone! Thanks for playing and for all the kind feedback so far! :)This newest update should overall improve stability and make the goal of the last level clearer.Please let me know if you have any more feedback! Update Notes:Gameplay ChangesUpdate evidence in level 4 to clarify which conventions the suspect went to.Update textbook chapter 4 to clarify what is allowed when using aggregate functions.If more than one table is being selected, throw an error if not every table is joined together (prevent inadvertent cross joins).This technically isn\u2019t a requirement in SQL, but there\u2019s not really a reason to do a cross join in this game. Even in practical real life circumstances it\u2019s rare. Plus, it\u2019s really easy to build up massive queries that crash the game, which can happen if you\u2019re not careful with your join conditions.Remove song from music player that was causing YouTube copyright strikesAdd a couple more royalty free tracks.FixesIncreased audio volume from the messages panel.Made the music player volume slider less sensitive.Update to the newest version of Unity due to security vulnerabilityAdded some optimization for the loading of table panels.Table panels will now load more data once you scroll all the way to the bottom.This isn\u2019t really relevant for the demo but in the full release some tables get really large so I want to ensure the experience stays consistent.",
+                "feedlabel": "Community Announcements",
+                "date": 1767486341,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3950130,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1819386365109820",
+                "title": "The Demo is OUT NOW!!!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365109820",
+                "is_external_url": true,
+                "author": "Train Called Thomas",
+                "contents": "That's right! Right now you can play the first four cases of Database Detective: Minor Crimes Edition!!This demo should cover the basics of SQL querying, where you get to play around with concepts such as JOINS and aggregate functions.Please let me know if you have any feedback! Thank you all :)",
+                "feedlabel": "Community Announcements",
+                "date": 1766791917,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3950130
+            }
+        ],
+        "count": 13
+    }
+}

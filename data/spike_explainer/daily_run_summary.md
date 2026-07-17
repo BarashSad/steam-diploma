@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Ragnarok: The New World
+Analyzed: Database Detective: Minor Crimes Division
 Tavily Budget Used: 15
 Errors: 0

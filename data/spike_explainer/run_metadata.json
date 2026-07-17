@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-07-16T14:16:13.504347+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260716_140520/rank_changes.csv",
-    "selected_appid": "4212480",
-    "selected_game_title": "Ragnarok: The New World",
+    "started_at": "2026-07-17T03:26:35.887019+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260717_031600/rank_changes.csv",
+    "selected_appid": "3950130",
+    "selected_game_title": "Database Detective: Minor Crimes Division",
     "top_n": 1,
-    "old_snapshot_date": "2026-07-13",
-    "new_snapshot_date": "2026-07-16",
+    "old_snapshot_date": "2026-07-14",
+    "new_snapshot_date": "2026-07-17",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-16T14:16:13.504360+00:00",
+    "finished_at": "2026-07-17T03:26:35.887032+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

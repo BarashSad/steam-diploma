@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3950130,Database Detective: Minor Crimes Division,"""Database Detective: Minor Crimes Division"" Steam",general,1,tavily,True,,5
+3950130,Database Detective: Minor Crimes Division,"""Database Detective: Minor Crimes Division"" trailer",general,1,tavily,True,,5
+3950130,Database Detective: Minor Crimes Division,"""Database Detective: Minor Crimes Division"" gameplay",general,1,tavily,True,,5
+3950130,Database Detective: Minor Crimes Division,"""Database Detective: Minor Crimes Division"" demo",general,1,tavily,True,,5
+3950130,Database Detective: Minor Crimes Division,"""Database Detective: Minor Crimes Division"" release date",general,1,tavily,True,,5
+3950130,Database Detective: Minor Crimes Division,"""Database Detective: Minor Crimes Division"" announcement",general,1,tavily,True,,5
+3950130,Database Detective: Minor Crimes Division,"""Database Detective: Minor Crimes Division"" preview",general,1,tavily,True,,5
+3950130,Database Detective: Minor Crimes Division,"""Database Detective: Minor Crimes Division"" review",general,1,tavily,True,,5
+3950130,Database Detective: Minor Crimes Division,"""Database Detective: Minor Crimes Division"" publisher",general,1,tavily,True,,5
+3950130,Database Detective: Minor Crimes Division,"""Database Detective: Minor Crimes Division"" developer",general,1,tavily,True,,5
+3950130,Database Detective: Minor Crimes Division,"site:pcgamer.com ""Database Detective: Minor Crimes Division""",press,2,tavily,False,General budget exhausted,0
+3950130,Database Detective: Minor Crimes Division,"site:rockpapershotgun.com ""Database Detective: Minor Crimes Division""",press,2,tavily,False,General budget exhausted,0
+3950130,Database Detective: Minor Crimes Division,"site:ign.com ""Database Detective: Minor Crimes Division""",press,2,tavily,False,General budget exhausted,0
+3950130,Database Detective: Minor Crimes Division,"site:gamespot.com ""Database Detective: Minor Crimes Division""",press,2,tavily,False,General budget exhausted,0
+3950130,Database Detective: Minor Crimes Division,"site:game8.co ""Database Detective: Minor Crimes Division""",press,2,tavily,False,General budget exhausted,0
+3950130,Database Detective: Minor Crimes Division,"site:reddit.com ""Database Detective: Minor Crimes Division""",social,3,tavily,True,,5
+3950130,Database Detective: Minor Crimes Division,"site:tiktok.com ""Database Detective: Minor Crimes Division""",social,4,tavily,True,,5
+3950130,Database Detective: Minor Crimes Division,"site:instagram.com ""Database Detective: Minor Crimes Division""",social,4,tavily,True,,5
+3950130,Database Detective: Minor Crimes Division,"site:x.com ""Database Detective: Minor Crimes Division""",social,4,tavily,True,,5
+3950130,Database Detective: Minor Crimes Division,"site: ""Database Detective: Minor Crimes Division""",social,4,tavily,True,,5
