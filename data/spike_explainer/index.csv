@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-07-17T03:26:10.905141+00:00,3950130,Database Detective: Minor Crimes Division,data/spike_explainer/2026-07-17__appid_3950130__rank_948_to_884__up_64,64,85,data/spike_explainer/2026-07-17__appid_3950130__rank_948_to_884__up_64/llm_summary_input.md
+2026-07-17T13:59:45.100095+00:00,4775410,Jeffrey Eggstein,data/spike_explainer/2026-07-17__appid_4775410__rank_1120_to_1085__up_35,35,85,data/spike_explainer/2026-07-17__appid_4775410__rank_1120_to_1085__up_35/llm_summary_input.md

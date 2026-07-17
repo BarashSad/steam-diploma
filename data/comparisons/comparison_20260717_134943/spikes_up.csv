@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4775410,Jeffrey Eggstein,Jeffrey Eggstein,1120,1085,35,35,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 17, 2026","Jul 17, 2026",False
+3950130,Database Detective: Minor Crimes Division,Database Detective: Minor Crimes Division,884,854,30,30,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 17, 2026","Jul 17, 2026",False
+3908100,Steam To Electric,Steam To Electric,1219,1194,25,25,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+2346870,The Big Lez Video Game,The Big Lez Video Game,957,935,22,22,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False

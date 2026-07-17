@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4775410,Jeffrey Eggstein,"""Jeffrey Eggstein"" Steam",general,1,tavily,True,,5
+4775410,Jeffrey Eggstein,"""Jeffrey Eggstein"" trailer",general,1,tavily,True,,5
+4775410,Jeffrey Eggstein,"""Jeffrey Eggstein"" gameplay",general,1,tavily,True,,5
+4775410,Jeffrey Eggstein,"""Jeffrey Eggstein"" demo",general,1,tavily,True,,5
+4775410,Jeffrey Eggstein,"""Jeffrey Eggstein"" release date",general,1,tavily,True,,5
+4775410,Jeffrey Eggstein,"""Jeffrey Eggstein"" announcement",general,1,tavily,True,,5
+4775410,Jeffrey Eggstein,"""Jeffrey Eggstein"" preview",general,1,tavily,True,,5
+4775410,Jeffrey Eggstein,"""Jeffrey Eggstein"" review",general,1,tavily,True,,5
+4775410,Jeffrey Eggstein,"""Jeffrey Eggstein"" publisher",general,1,tavily,True,,5
+4775410,Jeffrey Eggstein,"""Jeffrey Eggstein"" developer",general,1,tavily,True,,5
+4775410,Jeffrey Eggstein,"site:pcgamer.com ""Jeffrey Eggstein""",press,2,tavily,False,General budget exhausted,0
+4775410,Jeffrey Eggstein,"site:rockpapershotgun.com ""Jeffrey Eggstein""",press,2,tavily,False,General budget exhausted,0
+4775410,Jeffrey Eggstein,"site:ign.com ""Jeffrey Eggstein""",press,2,tavily,False,General budget exhausted,0
+4775410,Jeffrey Eggstein,"site:gamespot.com ""Jeffrey Eggstein""",press,2,tavily,False,General budget exhausted,0
+4775410,Jeffrey Eggstein,"site:game8.co ""Jeffrey Eggstein""",press,2,tavily,False,General budget exhausted,0
+4775410,Jeffrey Eggstein,"site:reddit.com ""Jeffrey Eggstein""",social,3,tavily,True,,5
+4775410,Jeffrey Eggstein,"site:tiktok.com ""Jeffrey Eggstein""",social,4,tavily,True,,5
+4775410,Jeffrey Eggstein,"site:instagram.com ""Jeffrey Eggstein""",social,4,tavily,True,,5
+4775410,Jeffrey Eggstein,"site:x.com ""Jeffrey Eggstein""",social,4,tavily,True,,5
+4775410,Jeffrey Eggstein,"site: ""Jeffrey Eggstein""",social,4,tavily,True,,5
