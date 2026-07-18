@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Jeffrey Eggstein
+Analyzed: Lunarium
 Tavily Budget Used: 15
 Errors: 0

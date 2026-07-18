@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-18T03:02:42.759040+00:00",
+    "timestamp": "20260718_030242",
+    "input_file": "data/spike_explainer/2026-07-18__appid_2939790__rank_1212_to_1179__up_33/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-18__appid_2939790__rank_1212_to_1179__up_33/llm_outputs/gemini_20260718_030242.md",
+    "game_title": "Lunarium",
+    "appid": "2939790",
+    "duration_sec": 21.39,
+    "response_length": 5084,
+    "error": null
+}

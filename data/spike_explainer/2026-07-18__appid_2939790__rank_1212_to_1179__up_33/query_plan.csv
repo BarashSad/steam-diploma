@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+2939790,Lunarium,"""Lunarium"" Steam",general,1,tavily,True,,5
+2939790,Lunarium,"""Lunarium"" trailer",general,1,tavily,True,,5
+2939790,Lunarium,"""Lunarium"" gameplay",general,1,tavily,True,,5
+2939790,Lunarium,"""Lunarium"" demo",general,1,tavily,True,,5
+2939790,Lunarium,"""Lunarium"" release date",general,1,tavily,True,,5
+2939790,Lunarium,"""Lunarium"" announcement",general,1,tavily,True,,5
+2939790,Lunarium,"""Lunarium"" preview",general,1,tavily,True,,5
+2939790,Lunarium,"""Lunarium"" review",general,1,tavily,True,,5
+2939790,Lunarium,"""Lunarium"" publisher",general,1,tavily,True,,5
+2939790,Lunarium,"""Lunarium"" developer",general,1,tavily,True,,5
+2939790,Lunarium,"site:pcgamer.com ""Lunarium""",press,2,tavily,False,General budget exhausted,0
+2939790,Lunarium,"site:rockpapershotgun.com ""Lunarium""",press,2,tavily,False,General budget exhausted,0
+2939790,Lunarium,"site:ign.com ""Lunarium""",press,2,tavily,False,General budget exhausted,0
+2939790,Lunarium,"site:gamespot.com ""Lunarium""",press,2,tavily,False,General budget exhausted,0
+2939790,Lunarium,"site:game8.co ""Lunarium""",press,2,tavily,False,General budget exhausted,0
+2939790,Lunarium,"site:reddit.com ""Lunarium""",social,3,tavily,True,,5
+2939790,Lunarium,"site:tiktok.com ""Lunarium""",social,4,tavily,True,,5
+2939790,Lunarium,"site:instagram.com ""Lunarium""",social,4,tavily,True,,5
+2939790,Lunarium,"site:x.com ""Lunarium""",social,4,tavily,True,,5
+2939790,Lunarium,"site: ""Lunarium""",social,4,tavily,True,,5

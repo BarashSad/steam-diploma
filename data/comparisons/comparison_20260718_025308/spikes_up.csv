@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2939790,Lunarium,Lunarium,1212,1179,33,33,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 28, 2026","Jul 28, 2026",False
+3908100,Steam To Electric,Steam To Electric,1194,1164,30,30,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4894750,Paper Shredder,Paper Shredder,508,482,26,26,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4134600,EverRail,EverRail,940,918,22,22,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 20, 2026","Jul 20, 2026",False
+2346870,The Big Lez Video Game,The Big Lez Video Game,935,914,21,21,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
