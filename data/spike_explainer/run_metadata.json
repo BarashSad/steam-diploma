@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-07-18T03:02:42.649541+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260718_025308/rank_changes.csv",
-    "selected_appid": "2939790",
-    "selected_game_title": "Lunarium",
+    "started_at": "2026-07-18T13:36:18.508777+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260718_132655/rank_changes.csv",
+    "selected_appid": "3669200",
+    "selected_game_title": "Guildrun",
     "top_n": 1,
     "old_snapshot_date": "2026-07-15",
     "new_snapshot_date": "2026-07-18",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-18T03:02:42.649555+00:00",
+    "finished_at": "2026-07-18T13:36:18.508790+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

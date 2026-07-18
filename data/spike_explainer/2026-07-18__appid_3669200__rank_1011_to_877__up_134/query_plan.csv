@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3669200,Guildrun,"""Guildrun"" Steam",general,1,tavily,True,,5
+3669200,Guildrun,"""Guildrun"" trailer",general,1,tavily,True,,5
+3669200,Guildrun,"""Guildrun"" gameplay",general,1,tavily,True,,5
+3669200,Guildrun,"""Guildrun"" demo",general,1,tavily,True,,5
+3669200,Guildrun,"""Guildrun"" release date",general,1,tavily,True,,5
+3669200,Guildrun,"""Guildrun"" announcement",general,1,tavily,True,,5
+3669200,Guildrun,"""Guildrun"" preview",general,1,tavily,True,,4
+3669200,Guildrun,"""Guildrun"" review",general,1,tavily,True,,5
+3669200,Guildrun,"""Guildrun"" publisher",general,1,tavily,True,,5
+3669200,Guildrun,"""Guildrun"" developer",general,1,tavily,True,,5
+3669200,Guildrun,"site:pcgamer.com ""Guildrun""",press,2,tavily,False,General budget exhausted,0
+3669200,Guildrun,"site:rockpapershotgun.com ""Guildrun""",press,2,tavily,False,General budget exhausted,0
+3669200,Guildrun,"site:ign.com ""Guildrun""",press,2,tavily,False,General budget exhausted,0
+3669200,Guildrun,"site:gamespot.com ""Guildrun""",press,2,tavily,False,General budget exhausted,0
+3669200,Guildrun,"site:game8.co ""Guildrun""",press,2,tavily,False,General budget exhausted,0
+3669200,Guildrun,"site:reddit.com ""Guildrun""",social,3,tavily,True,,5
+3669200,Guildrun,"site:tiktok.com ""Guildrun""",social,4,tavily,True,,5
+3669200,Guildrun,"site:instagram.com ""Guildrun""",social,4,tavily,True,,5
+3669200,Guildrun,"site:x.com ""Guildrun""",social,4,tavily,True,,5
+3669200,Guildrun,"site: ""Guildrun""",social,4,tavily,True,,5

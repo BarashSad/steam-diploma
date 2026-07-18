@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-2939790,Lunarium,"site:pcgamer.com ""Lunarium""",press,2,tavily,False,General budget exhausted,0
-2939790,Lunarium,"site:rockpapershotgun.com ""Lunarium""",press,2,tavily,False,General budget exhausted,0
-2939790,Lunarium,"site:ign.com ""Lunarium""",press,2,tavily,False,General budget exhausted,0
-2939790,Lunarium,"site:gamespot.com ""Lunarium""",press,2,tavily,False,General budget exhausted,0
-2939790,Lunarium,"site:game8.co ""Lunarium""",press,2,tavily,False,General budget exhausted,0
+3669200,Guildrun,"site:pcgamer.com ""Guildrun""",press,2,tavily,False,General budget exhausted,0
+3669200,Guildrun,"site:rockpapershotgun.com ""Guildrun""",press,2,tavily,False,General budget exhausted,0
+3669200,Guildrun,"site:ign.com ""Guildrun""",press,2,tavily,False,General budget exhausted,0
+3669200,Guildrun,"site:gamespot.com ""Guildrun""",press,2,tavily,False,General budget exhausted,0
+3669200,Guildrun,"site:game8.co ""Guildrun""",press,2,tavily,False,General budget exhausted,0

@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-07-18T03:02:23.952902+00:00,2939790,Lunarium,data/spike_explainer/2026-07-18__appid_2939790__rank_1212_to_1179__up_33,33,75,data/spike_explainer/2026-07-18__appid_2939790__rank_1212_to_1179__up_33/llm_summary_input.md
+2026-07-18T13:36:00.418961+00:00,3669200,Guildrun,data/spike_explainer/2026-07-18__appid_3669200__rank_1011_to_877__up_134,134,90,data/spike_explainer/2026-07-18__appid_3669200__rank_1011_to_877__up_134/llm_summary_input.md

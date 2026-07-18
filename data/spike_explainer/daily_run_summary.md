@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Lunarium
+Analyzed: Guildrun
 Tavily Budget Used: 15
 Errors: 0
