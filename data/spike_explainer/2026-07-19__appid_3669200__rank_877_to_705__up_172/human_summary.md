@@ -1,0 +1,20 @@
+# Spike Analysis: Guildrun
+
+## Rank Movement
+- Previous: 877 -> Current: 705 (Delta: +172)
+- Time Window: 2026-07-16T00:00:00+00:00 to 2026-07-19T00:00:00+00:00
+
+## API Budget Used
+- Tavily Queries Executed: 15 / 15
+- YouTube Queries Executed: 3 / 3
+
+## Strongest Evidence
+- Guildrun - Official Announcement Trailer (85/100)
+
+## Likely Explanation & Weak Points
+Evidence suggests a clear catalyst. See LLM/Top evidence.
+
+## Recommended Manual Checks
+- Search Twitter/X and TikTok manually
+- Check SteamDB for simultaneous player spikes on related franchise games
+- Check Steam News history manually
