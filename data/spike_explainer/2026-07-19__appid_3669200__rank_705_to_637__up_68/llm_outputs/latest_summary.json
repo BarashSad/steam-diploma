@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-19T13:46:28.994035+00:00",
+    "timestamp": "20260719_134628",
+    "input_file": "data/spike_explainer/2026-07-19__appid_3669200__rank_705_to_637__up_68/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-19__appid_3669200__rank_705_to_637__up_68/llm_outputs/gemini_20260719_134628.md",
+    "game_title": "Guildrun",
+    "appid": "3669200",
+    "duration_sec": 21.51,
+    "response_length": 6411,
+    "error": null
+}

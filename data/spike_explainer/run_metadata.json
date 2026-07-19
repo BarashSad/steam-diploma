@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-07-19T03:34:55.247770+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260719_032430/rank_changes.csv",
+    "started_at": "2026-07-19T13:46:28.893144+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260719_133626/rank_changes.csv",
     "selected_appid": "3669200",
     "selected_game_title": "Guildrun",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-19T03:34:55.247783+00:00",
+    "finished_at": "2026-07-19T13:46:28.893159+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

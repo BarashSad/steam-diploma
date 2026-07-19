@@ -1,0 +1,26 @@
+{
+    "appnews": {
+        "appid": 3669200,
+        "newsitems": [
+            {
+                "gid": "1838407329254896",
+                "title": "Guildrun revealed - Demo LIVE!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254896",
+                "is_external_url": true,
+                "author": "gamedrivenl",
+                "contents": "Hey everyone! We\u2019re so excited to announce Guildrun, a brand-new PvE roguelike autobattler. The playable demo launches tomorrow at 3pm CEST (9am EST / 6am PST) IS LIVE, allowing you to experience the rifts for yourself. We've been building it with our community since the first playable version, and today it's finally on Steam. Here's the reveal trailer: We\u2019re super stoked to share Guildrun with you. Play it and show us your builds.Oh, and if Guildrun looks like your kind of game, please wishlist and follow, it really helps!Want to\u00a0learn more about Guildrun or its development? Here is a link to a little FAQ around the game.I\u2019m looking forward to sharing Guildrun with you. If you have any questions, reach out to us on Discord.Cheers.Jay @Leyline",
+                "feedlabel": "Community Announcements",
+                "date": 1784138433,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3669200,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1889321037_1784139716_0",
+                    "mod_require_rereview"
+                ]
+            }
+        ],
+        "count": 1
+    }
+}
