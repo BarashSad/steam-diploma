@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-07-20T03:48:44.122787+00:00,3669200,Guildrun,data/spike_explainer/2026-07-20__appid_3669200__rank_637_to_556__up_81,81,85,data/spike_explainer/2026-07-20__appid_3669200__rank_637_to_556__up_81/llm_summary_input.md
+2026-07-20T14:29:17.336296+00:00,3669200,Guildrun,data/spike_explainer/2026-07-20__appid_3669200__rank_556_to_516__up_40,40,85,data/spike_explainer/2026-07-20__appid_3669200__rank_556_to_516__up_40/llm_summary_input.md
