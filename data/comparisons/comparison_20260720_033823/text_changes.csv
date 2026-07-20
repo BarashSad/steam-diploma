@@ -1,0 +1,3 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4150860,The Loopler,The Loopler,908,912,-4,4,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Sep 11, 2026",True
+3767320,Animula Nook,Animula Nook,147,147,0,0,stable,none,Unpriced (Coming Soon),Free,True,To be announced,To be announced,False
