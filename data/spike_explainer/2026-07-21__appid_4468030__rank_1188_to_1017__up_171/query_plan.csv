@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4468030,OFFBEAT,"""OFFBEAT"" Steam",general,1,tavily,True,,5
+4468030,OFFBEAT,"""OFFBEAT"" trailer",general,1,tavily,True,,5
+4468030,OFFBEAT,"""OFFBEAT"" gameplay",general,1,tavily,True,,5
+4468030,OFFBEAT,"""OFFBEAT"" demo",general,1,tavily,True,,5
+4468030,OFFBEAT,"""OFFBEAT"" release date",general,1,tavily,True,,5
+4468030,OFFBEAT,"""OFFBEAT"" announcement",general,1,tavily,True,,5
+4468030,OFFBEAT,"""OFFBEAT"" preview",general,1,tavily,True,,5
+4468030,OFFBEAT,"""OFFBEAT"" review",general,1,tavily,True,,5
+4468030,OFFBEAT,"""OFFBEAT"" publisher",general,1,tavily,True,,5
+4468030,OFFBEAT,"""OFFBEAT"" developer",general,1,tavily,True,,5
+4468030,OFFBEAT,"site:pcgamer.com ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0
+4468030,OFFBEAT,"site:rockpapershotgun.com ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0
+4468030,OFFBEAT,"site:ign.com ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0
+4468030,OFFBEAT,"site:gamespot.com ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0
+4468030,OFFBEAT,"site:game8.co ""OFFBEAT""",press,2,tavily,False,General budget exhausted,0
+4468030,OFFBEAT,"site:reddit.com ""OFFBEAT""",social,3,tavily,True,,5
+4468030,OFFBEAT,"site:tiktok.com ""OFFBEAT""",social,4,tavily,True,,5
+4468030,OFFBEAT,"site:instagram.com ""OFFBEAT""",social,4,tavily,True,,5
+4468030,OFFBEAT,"site:x.com ""OFFBEAT""",social,4,tavily,True,,5
+4468030,OFFBEAT,"site: ""OFFBEAT""",social,4,tavily,True,,5

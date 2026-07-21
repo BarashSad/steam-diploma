@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4468030,OFFBEAT,OFFBEAT,1188,1017,171,171,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 22, 2026","Jul 22, 2026",False
+4282500,hololive Dreams,hololive Dreams,1189,1128,61,61,up,upward_spike,Free,Free,False,"Jul 22, 2026",Coming soon,True
+3669200,Guildrun,Guildrun,446,402,44,44,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+2433630,The Left Behind,The Left Behind,1046,1021,25,25,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 27, 2026","Jul 27, 2026",False
+3419080,The Regreening,The Regreening,1068,1046,22,22,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
