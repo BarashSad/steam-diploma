@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4369130,Chop Chop Inc.,Chop Chop Inc.,638,625,13,13,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,August 2026,"Aug 7, 2026",True
+4246860,Security 51,Security 51,605,601,4,4,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 27, 2026","Aug 12, 2026",True
+3849000,The Lantern of the Laughless Saint,The Lantern of the Laughless Saint,376,375,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 20, 2026","Aug 17, 2026",True
+2412960,Breathedge 2,Breathedge 2,154,154,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,August 2026,"Aug 30, 2026",True
