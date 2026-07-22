@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-07-21T14:14:57.097266+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260721_140522/rank_changes.csv",
+    "started_at": "2026-07-22T03:26:22.901259+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260722_031646/rank_changes.csv",
     "selected_appid": "4468030",
     "selected_game_title": "OFFBEAT",
     "top_n": 1,
-    "old_snapshot_date": "2026-07-18",
-    "new_snapshot_date": "2026-07-21",
+    "old_snapshot_date": "2026-07-19",
+    "new_snapshot_date": "2026-07-22",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-21T14:14:57.097280+00:00",
+    "finished_at": "2026-07-22T03:26:22.901272+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

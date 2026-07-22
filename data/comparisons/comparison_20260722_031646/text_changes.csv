@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4131730,VHOLUME,VHOLUME,552,547,5,5,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Aug 21, 2026",True
+4223300,Birds of War,Birds of War,575,570,5,5,up,none,Unpriced (Coming Soon),Free,True,"Jul 21, 2026",Coming soon,True
+3971950,In Falsus,In Falsus,837,836,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Sep 9, 2026",True
+3978820,Rules of Engagement: The Grey State,Rules of Engagement: The Grey State,43,43,0,0,stable,none,Unpriced (Coming Soon),Free,True,To be announced,To be announced,False
+3905450,WheelMates,WheelMates,239,239,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 7, 2026","Sep 1, 2026",True
