@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-07-22T03:26:06.328251+00:00,4468030,OFFBEAT,data/spike_explainer/2026-07-22__appid_4468030__rank_1017_to_902__up_115,115,75,data/spike_explainer/2026-07-22__appid_4468030__rank_1017_to_902__up_115/llm_summary_input.md
+2026-07-22T14:17:58.430210+00:00,4282500,hololive Dreams,data/spike_explainer/2026-07-22__appid_4282500__rank_1064_to_903__up_161,161,65,data/spike_explainer/2026-07-22__appid_4282500__rank_1064_to_903__up_161/llm_summary_input.md

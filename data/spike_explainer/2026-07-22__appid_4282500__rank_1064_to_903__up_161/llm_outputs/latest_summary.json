@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-22T14:18:17.095899+00:00",
+    "timestamp": "20260722_141817",
+    "input_file": "data/spike_explainer/2026-07-22__appid_4282500__rank_1064_to_903__up_161/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-22__appid_4282500__rank_1064_to_903__up_161/llm_outputs/gemini_20260722_141817.md",
+    "game_title": "hololive Dreams",
+    "appid": "4282500",
+    "duration_sec": 14.92,
+    "response_length": 4936,
+    "error": null
+}

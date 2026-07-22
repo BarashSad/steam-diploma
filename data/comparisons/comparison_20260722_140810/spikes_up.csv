@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4282500,hololive Dreams,hololive Dreams,1064,903,161,161,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4468030,OFFBEAT,OFFBEAT,902,868,34,34,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 22, 2026","Jul 22, 2026",False
+4012150,BREKEKEKEX,BREKEKEKEX,1060,1040,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4504970,AetherCycle,AetherCycle,1136,1116,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,November 2026,November 2026,False
+2593340,Wonderia,Wonderia,1137,1117,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 22, 2026","Jul 22, 2026",False

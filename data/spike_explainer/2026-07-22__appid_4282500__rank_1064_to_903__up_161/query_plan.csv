@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4282500,hololive Dreams,"""hololive Dreams"" Steam",general,1,tavily,True,,5
+4282500,hololive Dreams,"""hololive Dreams"" trailer",general,1,tavily,True,,5
+4282500,hololive Dreams,"""hololive Dreams"" gameplay",general,1,tavily,True,,5
+4282500,hololive Dreams,"""hololive Dreams"" demo",general,1,tavily,True,,5
+4282500,hololive Dreams,"""hololive Dreams"" release date",general,1,tavily,True,,5
+4282500,hololive Dreams,"""hololive Dreams"" announcement",general,1,tavily,True,,5
+4282500,hololive Dreams,"""hololive Dreams"" preview",general,1,tavily,True,,5
+4282500,hololive Dreams,"""hololive Dreams"" review",general,1,tavily,True,,5
+4282500,hololive Dreams,"""hololive Dreams"" publisher",general,1,tavily,True,,5
+4282500,hololive Dreams,"""hololive Dreams"" developer",general,1,tavily,True,,5
+4282500,hololive Dreams,"site:pcgamer.com ""hololive Dreams""",press,2,tavily,False,General budget exhausted,0
+4282500,hololive Dreams,"site:rockpapershotgun.com ""hololive Dreams""",press,2,tavily,False,General budget exhausted,0
+4282500,hololive Dreams,"site:ign.com ""hololive Dreams""",press,2,tavily,False,General budget exhausted,0
+4282500,hololive Dreams,"site:gamespot.com ""hololive Dreams""",press,2,tavily,False,General budget exhausted,0
+4282500,hololive Dreams,"site:game8.co ""hololive Dreams""",press,2,tavily,False,General budget exhausted,0
+4282500,hololive Dreams,"site:reddit.com ""hololive Dreams""",social,3,tavily,True,,5
+4282500,hololive Dreams,"site:tiktok.com ""hololive Dreams""",social,4,tavily,True,,5
+4282500,hololive Dreams,"site:instagram.com ""hololive Dreams""",social,4,tavily,True,,5
+4282500,hololive Dreams,"site:x.com ""hololive Dreams""",social,4,tavily,True,,5
+4282500,hololive Dreams,"site: ""hololive Dreams""",social,4,tavily,True,,5
