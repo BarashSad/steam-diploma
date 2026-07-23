@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-07-23T03:32:48.973990+00:00,2433630,The Left Behind,data/spike_explainer/2026-07-23__appid_2433630__rank_971_to_926__up_45,45,70,data/spike_explainer/2026-07-23__appid_2433630__rank_971_to_926__up_45/llm_summary_input.md
+2026-07-23T14:23:27.359912+00:00,3825390,BLUE REFLECTION Quartet,data/spike_explainer/2026-07-23__appid_3825390__rank_1101_to_1069__up_32,32,70,data/spike_explainer/2026-07-23__appid_3825390__rank_1101_to_1069__up_32/llm_summary_input.md

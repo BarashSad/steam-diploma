@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-23T14:23:48.764613+00:00",
+    "timestamp": "20260723_142348",
+    "input_file": "data/spike_explainer/2026-07-23__appid_3825390__rank_1101_to_1069__up_32/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-23__appid_3825390__rank_1101_to_1069__up_32/llm_outputs/gemini_20260723_142348.md",
+    "game_title": "BLUE REFLECTION Quartet",
+    "appid": "3825390",
+    "duration_sec": 22.33,
+    "response_length": 6112,
+    "error": null
+}

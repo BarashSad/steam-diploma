@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3825390,BLUE REFLECTION Quartet,"""BLUE REFLECTION Quartet"" Steam",general,1,tavily,True,,5
+3825390,BLUE REFLECTION Quartet,"""BLUE REFLECTION Quartet"" trailer",general,1,tavily,True,,5
+3825390,BLUE REFLECTION Quartet,"""BLUE REFLECTION Quartet"" gameplay",general,1,tavily,True,,5
+3825390,BLUE REFLECTION Quartet,"""BLUE REFLECTION Quartet"" demo",general,1,tavily,True,,5
+3825390,BLUE REFLECTION Quartet,"""BLUE REFLECTION Quartet"" release date",general,1,tavily,True,,5
+3825390,BLUE REFLECTION Quartet,"""BLUE REFLECTION Quartet"" announcement",general,1,tavily,True,,5
+3825390,BLUE REFLECTION Quartet,"""BLUE REFLECTION Quartet"" preview",general,1,tavily,True,,5
+3825390,BLUE REFLECTION Quartet,"""BLUE REFLECTION Quartet"" review",general,1,tavily,True,,5
+3825390,BLUE REFLECTION Quartet,"""BLUE REFLECTION Quartet"" publisher",general,1,tavily,True,,5
+3825390,BLUE REFLECTION Quartet,"""BLUE REFLECTION Quartet"" developer",general,1,tavily,True,,5
+3825390,BLUE REFLECTION Quartet,"site:pcgamer.com ""BLUE REFLECTION Quartet""",press,2,tavily,False,General budget exhausted,0
+3825390,BLUE REFLECTION Quartet,"site:rockpapershotgun.com ""BLUE REFLECTION Quartet""",press,2,tavily,False,General budget exhausted,0
+3825390,BLUE REFLECTION Quartet,"site:ign.com ""BLUE REFLECTION Quartet""",press,2,tavily,False,General budget exhausted,0
+3825390,BLUE REFLECTION Quartet,"site:gamespot.com ""BLUE REFLECTION Quartet""",press,2,tavily,False,General budget exhausted,0
+3825390,BLUE REFLECTION Quartet,"site:game8.co ""BLUE REFLECTION Quartet""",press,2,tavily,False,General budget exhausted,0
+3825390,BLUE REFLECTION Quartet,"site:reddit.com ""BLUE REFLECTION Quartet""",social,3,tavily,True,,5
+3825390,BLUE REFLECTION Quartet,"site:tiktok.com ""BLUE REFLECTION Quartet""",social,4,tavily,True,,5
+3825390,BLUE REFLECTION Quartet,"site:instagram.com ""BLUE REFLECTION Quartet""",social,4,tavily,True,,5
+3825390,BLUE REFLECTION Quartet,"site:x.com ""BLUE REFLECTION Quartet""",social,4,tavily,True,,4
+3825390,BLUE REFLECTION Quartet,"site: ""BLUE REFLECTION Quartet""",social,4,tavily,True,,5

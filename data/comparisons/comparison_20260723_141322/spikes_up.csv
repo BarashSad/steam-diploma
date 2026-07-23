@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3825390,BLUE REFLECTION Quartet,BLUE REFLECTION Quartet,1101,1069,32,32,up,upward_spike,$49.99,$49.99,False,"Jul 29, 2026","Jul 29, 2026",False
+2433630,The Left Behind,The Left Behind,926,900,26,26,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 27, 2026","Jul 27, 2026",False
+4836540,Company of Heroes 3: Final Stand,Company of Heroes 3: Final Stand,1054,1031,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 29, 2026","Jul 29, 2026",False

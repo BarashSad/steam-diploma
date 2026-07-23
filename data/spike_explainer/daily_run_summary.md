@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: The Left Behind
+Analyzed: BLUE REFLECTION Quartet
 Tavily Budget Used: 15
 Errors: 0

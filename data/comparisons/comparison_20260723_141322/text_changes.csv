@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3423990,Frozen Ship,Frozen Ship,907,896,11,11,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 7, 2026",August 2026,True
+4026250,Project P.I.T.T.,Project P.I.T.T.,886,883,3,3,up,none,Free,Unpriced (Coming Soon),True,Coming soon,"Aug 19, 2026",True
+3196440,Vacation Cafe Simulator,Vacation Cafe Simulator,317,316,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,August 2026,"Aug 20, 2026",True
+3812600,ReStory: Chill Electronics Repairs,ReStory: Chill Electronics Repairs,73,73,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Aug 6, 2026",True
+3767320,Animula Nook,Animula Nook,145,145,0,0,stable,none,Unpriced (Coming Soon),Free,True,To be announced,To be announced,False

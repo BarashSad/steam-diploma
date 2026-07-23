@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-07-23T03:33:08.599330+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260723_032344/rank_changes.csv",
-    "selected_appid": "2433630",
-    "selected_game_title": "The Left Behind",
+    "started_at": "2026-07-23T14:23:48.665947+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260723_141322/rank_changes.csv",
+    "selected_appid": "3825390",
+    "selected_game_title": "BLUE REFLECTION Quartet",
     "top_n": 1,
     "old_snapshot_date": "2026-07-20",
     "new_snapshot_date": "2026-07-23",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-23T03:33:08.599343+00:00",
+    "finished_at": "2026-07-23T14:23:48.665960+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
