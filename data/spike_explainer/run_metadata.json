@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-07-22T14:18:17.002502+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260722_140810/rank_changes.csv",
-    "selected_appid": "4282500",
-    "selected_game_title": "hololive Dreams",
+    "started_at": "2026-07-23T03:33:08.599330+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260723_032344/rank_changes.csv",
+    "selected_appid": "2433630",
+    "selected_game_title": "The Left Behind",
     "top_n": 1,
-    "old_snapshot_date": "2026-07-19",
-    "new_snapshot_date": "2026-07-22",
+    "old_snapshot_date": "2026-07-20",
+    "new_snapshot_date": "2026-07-23",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-22T14:18:17.002517+00:00",
+    "finished_at": "2026-07-23T03:33:08.599343+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

@@ -1,0 +1,1122 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+2433630,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=-Ix3JUohRvg,The Left Behind  STEAM Next FEST DEMO!! || Any Good?? ||,,The Left Behind STEAM FEST DEMO!! || Any Good?? || The Left Behind is a solo and co-op post-apocalyptic survival game.,demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184345,Demo update 0.1.9 - and The Left Behind will join this months NextFest!,,"Hello survivors! This is a small demo update that should improve the experience for new players and multiplayer players. I've added a bit more loot, fixed a couple of multiplayer issues and did some quality of life updates. Some other great news: The Left Behind will join this months NextFest! I'm s",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815565240,The Left Behind - What can you expect at full release?,,Hello Survivors! In this post I'm going to talk you through the state of the demo and what you can expect in the full release of the game. The demo: The demo contains the first half hour of the story. You can play the story in solo mode and get a preview of how it will play. There is also a free-roa,demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806713582,The Left Behind - Demo Update 0.1.7,,"Hello Survivors! This will probably be the last update for the demo. I'm now focusing on the full release and all the features needed for the release of the game. If the demo needs some fixing on a game breaking issue I'll do that of course! I'm going to focus on the next part of the story, more mod",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522841967,The Left Behind - Demo Update,,"Hello Survivors! The biggest update for the demo to date is here! I worked really hard on this new update and I'm really curious what you all think about it. If you encounter any problems with the new update, please, contact me on Discord: https://discord.gg/ZUUwNHzDxX or under this post. If you lik",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813041031167674,The Left Behind release is delayed to 2026,,"Earlier this year, I announced the release date for my game The Left Behind. At that time, I was close to a playable demo. When the demo released back in May, I received an incredible amount of feedback. That feedback not only helped improve the demo but will also benefit the full release.Many membe","demo, release date",60,medium,"Official Steam News (+20); Exact title match (+20); Keywords ['demo', 'release date'] (+20)",
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809869180036239,Demo update 0.1.3,,Hello survivors! Today the demo update 0.1.3 is live! This update is centered around performance updates. The Left Behind switched engine version. The game was made in Unreal Engine 5.3 and switched to 5.4.4. This update fixed some performance issues and gave me some tools to better streamline the s,demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1798454487577532,The demo for the game will release on May 22 - 2025!,,"In this demo you can play the first 30 minutes of the game: The Left Behind. The demo features a handcrafted post-apocalyptic world. Explore a typical Dutch open-world landscape at daytime and beware of hordes of enemies coming in at night. Loot and hunt to survive. Each night, the game becomes incr",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1792116353333209,The Story For My Game Is Complete And You Can Almost Play It! - Devlog #5,,The Left Behind. In this video I'm going to give you updates on: Zombie updates The story is complete; Environment updates; Inventory and item updates; More info on a demo release; ,demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+2433630,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329263355,The Left Behind - Here is what you’re actually buying!,,Hello Survivors! In this post I'm going to talk you through what the game will be and what is not in the game so you can make the right decision if this game is something for you. What's in the game? The game is a solo and co-op zombie survival game that leans towards an arcade zombie experience. Th,,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+2433630,youtube_video,outside_window,https://www.youtube.com/watch?v=j718S0cYyZk,The left Behind Demo First 12 Minute Gameplay UE5,,The left Behind Demo First 12 Minute Gameplay - New Unreal Engine 5 Game The Left Behind demo is a post-apocalyptic ...,"gameplay, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+2433630,youtube_video,outside_window,https://www.youtube.com/watch?v=Hk3Rj1z1soQ,The Left Behind - Demo Trailer,,In this demo you can play the first 30 minutes of the game: The Left Behind. The demo features a handcrafted post-apocalyptic ...,"trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+2433630,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=9Jj2iRuUBpM,This New Zombie Game Is Gorgeous... But Is It Even Fun? - The Left Behind,,Here's my first impressions for this brand new zombie survival game that's coming out later this month. I love the visuals and the ...,,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+2433630,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=xbMlU3D5LnA,Exploring a Post-Apocalyptic Netherlands in The Left Behind,,"The Left Behind is an open-world zombie survival game set in a Dutch suburb during the apocalypse, challenging players to ...",,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+2433630,social_post,unknown_date,https://x.com/Game_LeftBehind,The Left Behind (@Game_LeftBehind) / X,"A demo will release verry soon with the first 30 minutes of the game. Who is ready?👀 #indiedev #gamedev #ue5 #SurvivalGame #indiegame. The demo is ready for release on 22 May 2025! Who is ready to play the first 30 minutes of the story and survive waves of enemies coming in at night? The demo releases on the 22nd of May so you can explore this world and survive as long as possible! The demo for my game will release in less then 2 days! I can't wait to see what you think of the game! I've been adding more gore features to the zombies in my game, almost complete now! I have a special trailer ready that I'm going to drop next week with the release date for the demo! I'm so excited to tell that the demo for my game is out now!",,"trailer, demo, release date",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'demo', 'release date'] (+20)",social
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365761991,Demo update 0.1.8 - small demo update for a better experience,,"Hello survivors! This is a small demo update that should improve the experience for new players and multiplayer players. I've added a bit more loot in the starting area, fixed a couple of multiplayer issues and did some quality of life updates. Next to that I've updated the art on Steam. I've made n",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633189641,Demo update 0.1.6 - a better co-op experience,,"Hello survivors! This update is a more behind the scenes update. I fixed a couple of issues regarding the multiplayer/co-op mode. So, a small update, but hopefully makes the experience playing with friends better for all of you! The full update list: - Fixed a bug where only the server would have an",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633181697,Demo update 0.1.5 - Hotfix,,"Hello survivors! This update is a hotfix for 0.1.5. In the last update a bug was reported where certain player would spawn without a character, UI and input making the game unplayable. This error should be resolved now. Next to that I fixed a couple of small issues lister below: The full update list",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809869180071138,Demo update 0.1.3 - Hotfix,,Hello survivors! This update is a hotfix for 0.1.3. In the last update (yesterday) a couple of bugs were reported. One bug was in my opinion a game breaking bug where the compass didn't update. This update fixes those issues + a couple of more (see list below). The full update list: - Fixed a game b,demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1806064758638346,Demo update 0.1.1 & 0.1.2,,Hello everyone! I've missed the post for the 0.1.1 update so here is two updates in one post. I've been working on a couple of new features and fixed a lot of small issues in this demo update. The next update will be the last big update for the demo. Hope you're having fun with the demo so far! Upda,demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802261838718027,Demo update 0.1.0 is out!,,"Update 0.1.0 is live! I'm so excited to release the next update with everyone! I worked really hard on this update so hopefully you'll like the new content. The new update contains visual updates, performance updates and multiplayer! A detailed list:Multiplayer: play online or on LAN connection with",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800357164450291,Demo version 0.0.2 is available,,"After great feedback by players I've worked really hard on the first update. The first update contains: Improved the pickup system, Improved interacting with objects and making it more readable which box/cabinet you open, Fixed a couple of spots in the map where players were able to bypass level-up ",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6250522009524771943,Making My Game More Challenging - The Left Behind - Devlog,,,,40,medium,Official Steam News (+20); Exact title match (+20),
+2433630,web_result,unknown_date,https://steamcommunity.com/app/2433630?curator_clanid=4777282,Steam Community :: The Left Behind,"The Left Behind is a solo and co-op post-apocalyptic survival game. Demo update 0.1.9 - and The Left Behind will join this months NextFest! I've added a bit more loot, fixed a couple of multiplayer issues and did some quality of life updates. I'm super excited to join NextFest with the demo and hope all the new players enjoy the zombie experience I've made! The full game will release on the 27th of July! * Added more loot to the world;. In this post I'm going to talk you through the state of the demo and what you can expect in the full release of the game. You can play the story in solo mode and get a preview of how it will play. This is a mode where you can explore the map and survive as long as possible in co-op mode. I've added a bit more loot in the starting area, fixed a couple of multiplayer issues and did some quality of life updates.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+2433630,web_result,unknown_date,https://www.youtube.com/watch?v=NHna7w9IzYA,The left Behind | Demo | GamePlay PC,"# The left Behind | Demo | GamePlay PC
+## Game channel MAZAVS
+39100 subscribers
+9 likes
+
+### Description
+294 views
+Posted: 22 May 2025
+The Left Behind is a solo and co-op post-apocalyptic survival game. Explore a typical Dutch open-world landscape at daytime and beware of hordes of enemies coming in at night. Loot and hunt to survive. Each night, the game becomes increasingly challenging. Keep track of your highscore and try to survive as many nights as possible.
+
+The world [...] - Unlock new areas and weapons while playing the game.
+
+- Encounter various enemies and animals in the world.
+
+- Explore an unique and handcrafted Dutch landscape.
+
+- Play for a new highscore every game, alone or with friends.
+
+- Unlock various melee and ranged weapons.
+
+- Play solo or online with up to 4 friends.
+
+- Immerse yourself in a mysterious story.
+
+How many nights can you survive?
+
+1 comments
+### Transcript: [...] The world
+
+Explore typical Dutch landscapes in a post apocalyptic setting. Every building you encounter can be entered and looted. Discover the personality of each building, the world and the people that used to live in it.
+
+Objectives",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+2433630,web_result,unknown_date,https://www.youtube.com/watch?v=-Ix3JUohRvg,The Left Behind STEAM Next FEST DEMO!! || Any Good?? ||,"# The Left Behind  STEAM Next FEST DEMO!! || Any Good?? ||
+## Switch Heads
+3120 subscribers
+2 likes
+
+### Description
+74 views
+Posted: 21 Jun 2026
+The Left Behind  STEAM FEST DEMO!! || Any Good?? ||
+
+The Left Behind is a solo and co-op post-apocalyptic survival game. Explore a typical Dutch open-world landscape at daytime and beware of hordes of enemies coming in at night. Loot and hunt to survive. Each night, the game becomes increasingly challenging. How long will you survive?
+
+DISCORD [...] Well, hello there. And Steamfest is still going and yes, you better believe it. I've got more games. This time The Left Behind. Setting a post-apocalyptic world, this one is a survival horror with plenty of walkers. The demo showcases the survival mode, but there is a build mode as well. This can be played in single and multiplayer, although I could not get a multiplayer game. Apparently, your character was in space when all the action happened and basically some things hit the earth and [...] up quite a bit, and some areas you cannot enter unless you're a certain level. All in all, I kind of like felt a little bit like down by the demo. I would have thought that they would introduce you into this world with a little bit more action and a little bit more of what you can actually do later on down the line. Will I be picking this one up? Not really. For the time it's been out in early access, I would have thought more would have been done, and the demo, as I said, was just a letdown.",,"demo, showcase",40,medium,"Exact title match (+20); Keywords ['demo', 'showcase'] (+20)",general
+2433630,web_result,unknown_date,https://store.steampowered.com/app/2433630/The_Left_Behind,The Left Behind on Steam,"All Games > Action Games > The Left Behind
+
+Community Hub
+
+The Left Behind
+
+The Left Behind
+
+The Left Behind
+
+Developer
+
+Extrude
+
+Publisher
+
+Extrude
+
+Release
+
+27 Jul, 2026
+
+The Left Behind is a solo and co-op post-apocalyptic survival game. Explore a typical Dutch open-world landscape at daytime and beware of hordes of enemies coming in at night. Loot and hunt to survive. Each night, the game becomes increasingly challenging. How long will you survive?
+
+All Reviews:
+
+No user reviews [...] )
+
+Features
+
+Single-player
+
+Online Co-op
+
+LAN Co-op
+
+Steam Achievements
+
+Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English and 5 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+| German | ✔ |  | ✔ |
+| Dutch | ✔ |  | ✔ |
+| Portuguese - Brazil | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| Turkish | ✔ |  | ✔ |
+
+See all 6 supported languages
+
+Title: The Left Behind  
+ Genre: Action, Adventure, Indie  
+
+Developer: Extrude
+
+Publisher: Extrude [...] No user reviews
+
+Release Date:
+
+27 Jul, 2026
+
+Developer:
+
+Extrude
+
+Publisher:
+
+Extrude
+
+Tags
+
+Popular user-defined tags for this product:
+
+Zombies  Exploration  Third-Person Shooter  Post-apocalyptic  Perma Death  PvE  Action-Adventure  Third Person  3D  Horror  Open World  Choices Matter  Action  Stealth  Survival  Atmospheric  Adventure  Combat  Co-op  Local Co-Op 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+2433630,web_result,unknown_date,https://steamcommunity.com/app/2433630,Steam Community :: The Left Behind,"Thanks for all the feedback on the demo so far. I hope you all enjoyed playing the demo and can't wait to show what I have prepared for the full game!  
+ - Justin, developer of The Left Behind
+
+The Left Behind
+
+9
+
+1
+
+Honest Opinion [...] After the release of the gameI've had a long playtest round so the game should be 98% bug free but you'll never know! I'll keep track of bugs/errors and fix them asap so it does not ruin your gameplay experience.   
+Thanks for the support!Thanks to everyone for the support so far! Hopefully this post will help you make a decision if this game is something you want to buy or not.   
+  
+  
+ - Justin, developer of The Left Behind
+
+The Left Behind
+
+24
+
+6
+
+Will it feature Will Smith? [...] If you want to view how the games story mode will play, creators like GameEdged played the game early:",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+2433630,youtube_video,outside_window,https://www.youtube.com/watch?v=GrXe8YDbzYs,Left Behind Official Trailer #1 (2014) - Nicolas Cage Movie HD,,Subscribe to TRAILERS: http://bit.ly/sxaw6h Subscribe to COMING SOON: http://bit.ly/H2vZUn Like us on FACEBOOK: ...,trailer,35,medium,YouTube (+15); Keywords ['trailer'] (+20),
+2433630,youtube_video,outside_window,https://www.youtube.com/watch?v=7h2LtAG3Mkw,Left Behind ~ Trailer,,"On an overseas flight to London, journalist Buck Williams and pilor Rayford Steele are caught in the middle of the most incredible ...",trailer,35,medium,YouTube (+15); Keywords ['trailer'] (+20),
+2433630,youtube_video,outside_window,https://www.youtube.com/watch?v=3thlR9_3K2k,Left Behind (2000) Rerelease Trailer 2014,,"Before you watch the new Left Behind, make sure you check out the original movie. LEFT BEHIND follows Rayford Steele (Nicolas ...",trailer,35,medium,YouTube (+15); Keywords ['trailer'] (+20),
+2433630,youtube_video,outside_window,https://www.youtube.com/watch?v=dFlu7dmHQ_g,Left Behind: Rise Of The Antichrist - Official Trailer,,"Left Behind: Rise Of The Antichrist - Official Trailer In Theaters January 26, 2023 https://www.leftbehindmovie.com After millions of ...",trailer,35,medium,YouTube (+15); Keywords ['trailer'] (+20),
+2433630,youtube_video,outside_window,https://www.youtube.com/watch?v=uskSBJsCf38,"Left Behind Official Trailer (2013) Nicolas Cage, Thriller HD",,"http://www.joblo.com - ""Left Behind"" Official Trailer (2013) Nicolas Cage, Thriller HD A small group of survivors are left behind after ...",trailer,35,medium,YouTube (+15); Keywords ['trailer'] (+20),
+2433630,youtube_video,outside_window,https://www.youtube.com/watch?v=cTpq1r1tzzE,THE LEFT BEHIND Walkthrough [FM-Studio],,THE LEFT BEHIND Walkthrough [FM-Studio] Play here: http://www.theescapegamessite.com/2022/04/fm-studio-left-behind.html ...,,35,medium,YouTube (+15); Exact title match (+20),
+2433630,youtube_video,outside_window,https://www.youtube.com/watch?v=UvoDoqMqU0g,Official Walkthrough - The Left Behind - A Forgotten Hill Tale,,"Many children have been kidnapped. During a turbulent day, they were all set free. All but one. Today it is time for him to try to ...",,35,medium,YouTube (+15); Exact title match (+20),
+2433630,youtube_video,outside_window,https://www.youtube.com/watch?v=6E4WwCEGIEc,THE LAST OF US: LEFT BEHIND Full Gameplay Walkthrough / No Commentary【FULL GAME】4K UHD,,THE LAST OF US: LEFT BEHIND Remake Full Gameplay Walkthrough / No Commentary【FULL GAME】4K UHD includes the ...,gameplay,35,medium,YouTube (+15); Keywords ['gameplay'] (+20),
+2433630,youtube_video,outside_window,https://www.youtube.com/watch?v=eBAL3D1Lvag,Slipknot - Lust Disease (Left Behind demo),,Slipknot [1997],demo,35,medium,YouTube (+15); Keywords ['demo'] (+20),
+2433630,social_post,unknown_date,https://shop.tiktok.com/us/k/left-behind-series-in-order,left behind series in order,"The Left Behind series is a captivating collection of novels that explores the events leading up to and following the Rapture, a significant event in",,,25,weak,Social Index (+5); Exact title match (+20),social
+2433630,social_post,unknown_date,https://www.instagram.com/reel/DMqiwD3yvay,Pretty sure I read all of the Left Behind teen series as a kid. 😅,The left behind series is absolutely crap. It is not even biblically accurate. It's just a story and promoted as truth. Read the actually Bible,,,25,weak,Social Index (+5); Exact title match (+20),social
+2433630,social_post,unknown_date,https://sites.tyndale.com/leftbehind,Left Behind,"Left Behind: A Novel of the Earth's Last Days. # Left Behind. ## Read the books that launched a cultural phenomenon! ## Left Behind Original Series. The book that started the New York Times bestselling series is now 25 years. This new mass market-sized edition features the classic original cover and includes a retrospective. Left Behind 25th Anniversary Edition. It’s the beginning...of the end of the world. These twelve books in the Left Behind series cover the immediate events surrounding the. rapture and the seven-year period that follows, known as the tribulation. ### Left Behind Collection eBook. of the Left Behind saga. ## Left Behind Prequels. Left Behind Prequels, book 1. Left Behind Prequels ebook collection. ## Left Behind: The Kids. Each book in the series parallels to each book in the Left Behind series. Left Behind: The Kids, book 1. ## Left Behind: Apocalypse. Left Behind: Apocalypse, book 2. Left Behind: Apocalypse, eBook collection.",,,25,weak,Social Index (+5); Exact title match (+20),social
+2433630,social_post,unknown_date,https://www.amazon.com/Left-Behind/dp/B07YBKNZ93,Left Behind (13 book series) Kindle Edition,"## Skip to. Ways to Read and Listen. ## Books in this series (13 books). Left Behind: A Novel of the Earth&#39;s Last Days. For those who have been left behind, the apocalypse has just begun. Tribulation Force: The Continuing Drama of Those Left Behind. Global war has erupted, and the Tribulation Force sets a suicidal course that places them in direct opposition to the rise of Antichrist. Nicolae (Left Behind, No. 3): The Rise of Antichrist. Nicolae: The Rise of Antichrist. Nicolae Carpathia takes over the United Nations, signs a peace treaty with Israel, and begins to lure the nations of earth together to form one global village. Soul Harvest (Left Behind, No. 4): The World Takes Sides. 10 Books : The Left Behind Collection Set - Left Behind, Tribulation Force, Nicolae, Soul Harvest, Apollyon, Assassins, The Indwelling, The Mark, Desecration, Armageddon, Glorious Appearing (The Left Behind Series Set, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12).",,,25,weak,Social Index (+5); Exact title match (+20),social
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821288646582915,Update on the development of the game,,"Hello Survivors! In this blogpost I'm going to take you through the last updates and plannend work for the upcoming months. It's been a while since the last update. I've been on a break for a couple of months, members of the discord got a couple of updates on that. If you want more frequent updates ",,20,weak,Official Steam News (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800991756284708,Version 0.0.3. is now live,,"Update 0.0.3 is live! With improvements like: You can rebind your weapon menu, The camera is more cantered now, people had some issues with it being to far off. inflicting combat. Let me know what you think of the new camera position!, Quests are better readable in the UI, Hint/tutorial text helps n",,20,weak,Official Steam News (+20),
+2433630,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6148070194801572966,New devlog with game updates!,,"Hello survivors! I've uploaded a new devlog where I talk about: Sound design UI design How I've made enemies even smarter And how to get your name in the game! If you want more updates, don't forget to join the Discord!",,20,weak,Official Steam News (+20),
+2433630,web_result,unknown_date,https://store.steampowered.com/app/2433630/The_Left_Behind,The Left Behind on Steam,"Get the Steam Mobile App. All trademarks are property of their respective owners in the US and other countries. Link to the Steam Homepage. The Left Behind is a solo and co-op post-apocalyptic survival game. Zombies  Exploration  Third-Person Shooter  Post-apocalyptic  Perma Death  PvE  Action-Adventure  Third Person  3D  Horror  Open World  Choices Matter  Action  Stealth  Survival  Atmospheric  Adventure  Combat  Co-op  Local Co-Op. Sign in to add this item to your wishlist, follow it, or mark it as ignored. Steam is learning about this game. This game is not yet available on Steam. Discover the personality of each building, the world and the people that used to live in it. Survive with up to four (4) people as long as you can in this harsh world. * You can enter and explore every building in the game. You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam.",,,20,weak,Exact title match (+20),general
+2433630,web_result,unknown_date,https://steamcommunity.com/app/2433630,Steam Community :: The Left Behind,"The Left Behind is a solo and co-op post-apocalyptic survival game. In this post I'm going to talk you through what the game will be and what is not in the game so you can make the right decision if this game is something for you. **What's in the game?**The game is a solo and co-op zombie survival game that leans towards an arcade zombie experience. This is in the game to stimulate exploring the open-world. * Story mode - This is the main mode of the game. * Survival mode - This has the same difficulty as the story mode and can be played in solo and co-op. The survival mode takes place in the open-world map and does not feature story elements. * Easy mode - This mode takes place in the open-world map, you can experience the story without the horde nights. You can play the story in solo mode and get a preview of how it will play.",,,20,weak,Exact title match (+20),general
+2433630,web_result,unknown_date,https://store.steampowered.com/app/2854130/Left_Behind,Left Behind on Steam,"Get the Steam Mobile App. All trademarks are property of their respective owners in the US and other countries. Link to the Steam Homepage. LEFT BEHIND is a hyper-realistic psychological horror game where you take on the role of a real estate agent with a client looking to sell you a property. Mixed  (74)   - 60% of the 74 user reviews for this game are positive. **LEFT BEHIND** Is a proudly pinoy-made realistic psychological horror game where you take on the role of a real estate agent with a client looking to sell you a property. This game requires the use of a microphone for certain parts of the gameplay. With your microphone, you can speak and hear your voice in real-time within the game, with effects that vary depending on your in-game location. You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam.",,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+2433630,web_result,unknown_date,https://steamdb.info/app/2433630,The Left Behind,The Left Behind is a solo and co-op post-apocalyptic survival game. Explore a typical Dutch open-world landscape at daytime and beware of hordes of enemies,,,20,weak,Exact title match (+20),general
+2433630,web_result,unknown_date,https://www.youtube.com/watch?v=GrXe8YDbzYs,Left Behind Official Trailer #1 (2014) - Nicolas Cage Movie HD,"LEFT BEHIND follows Rayford Steele (Nicolas Cage) who is piloting a commercial airliner just hours after the Rapture when millions of people around the globe simply vanish. Thirty thousand feet over the Atlantic, Rayford is faced with a damaged plane, terrified passengers, and a desperate desire to get back to his family. On the ground, his daughter, Chloe Steele (Cassi Thomson) is among those left behind, forced to navigate a world of madness as she searches for her lost mother and brother. [...] # Left Behind Official Trailer #1 (2014) - Nicolas Cage Movie HD
+## Rotten Tomatoes Trailers
+16200000 subscribers
+23644 likes
+
+### Description
+9051802 views
+Posted: 6 Aug 2014
+Subscribe to TRAILERS: 
+Subscribe to COMING SOON: 
+Like us on FACEBOOK: 
+Follow us on TWITTER: 
+Left Behind Official Trailer #1 (2014) - Nicolas Cage Movie HD [...] [Music] hello hi Mom Chloe welcome home so is everything sat for dad's surprise party H he got called into work can I buy you a coffee I'm waiting for someone my dad hi sweetheart hey welcome aboard hancon flight 257 to London flight time today will be 6 hours and 30 minutes I love you people from all over this plane have simply vanished Chris let me in Chris me [Music] I know you all want answers and believe me so do I and I'll do my best to get them I heard some doctors talking it's not just",,trailer,20,weak,Keywords ['trailer'] (+20),general
+2433630,web_result,unknown_date,https://www.youtube.com/watch?v=3thlR9_3K2k,Left Behind (2000) Rerelease Trailer 2014,LEFT BEHIND follows Rayford Steele (Nicolas Cage) who is piloting a commercial airliner just hours after the Rapture when millions of people,,trailer,20,weak,Keywords ['trailer'] (+20),general
+2433630,web_result,unknown_date,https://www.imdb.com/video/vi682607385,Official Trailer - Left Behind: The Movie,The Biblical prophecy of Armegeddon begins when the Rapture instantly takes all believers in Christ from the Earth. A reporter left behind learns that the Anti,,trailer,20,weak,Keywords ['trailer'] (+20),general
+2433630,web_result,unknown_date,https://www.movieinsider.com/m10845/left-behind/videos/11080,Left Behind Theatrical Trailer Video,Left Behind Theatrical Trailer - Follows Rayford Steele (Nicolas Cage) who is piloting a commercial airliner just hours after the Rap.,,trailer,20,weak,Keywords ['trailer'] (+20),general
+2433630,web_result,unknown_date,https://solitarystudios.itch.io/left-behind,Left Behind DEMO by SolitaryStudios,"LEFT BEHIND isa short horror experience that revolves around the story of a man named Lucas, who is driven by his pride and desire for fame to seek out a legendary house that has eluded everyone who has tried to find it. Will he succeed in his quest to prove to the world that he has found the impossible-to-find house, or will he meet his demise at the hands of the demons that lie in wait? Only time will tell as Lucas embarks on a treacherous journey fraught with danger and uncertainty. [...] Creo que el demo que jugué es una versión anterior. Asi es como pintaba el juego hace unos meses. Creo que la versión actual ha mejorado muchísimo. Buen trabajo!
+
+Reply
+
+やっちゅ(Yacchu)2 years ago
+
+I bought it and noticed the latest version XD I hope you are fine now!
+
+Reply
+
+DarkNight66702 years ago (1 edit)
+
+Great game. Amazing Atmosphere. Creepy Scares!! I know this is came out a while ago but I still hope this becomes a full game, and I hope everything is well with your family!! Great Work [...] View all by SolitaryStudiosCreator
+ Follow SolitaryStudiosFollowFollowing SolitaryStudiosFollowing
+ Add To CollectionCollection
+ Comments
+ Related gamesRelated
+
+Left Behind DEMO
+
+# Left Behind DEMO
+
+A downloadable game for Windows
+
+Get this game and 12 more for $19.99 USD
+
+20% Sale!!! All Games!
+
+View bundle
+
+Buy NowOn Sale!
+
+20% Off$1.50 $1.20 USD or more",,demo,20,weak,Keywords ['demo'] (+20),general
+2433630,web_result,unknown_date,https://store.steampowered.com/app/2433630/The_Left_Behind,The Left Behind on Steam,"All Games > Action Games > The Left Behind
+
+Community Hub
+
+The Left Behind
+
+The Left Behind
+
+The Left Behind
+
+Developer
+
+Extrude
+
+Publisher
+
+Extrude
+
+Release
+
+27 Jul, 2026
+
+The Left Behind is a solo and co-op post-apocalyptic survival game. Explore a typical Dutch open-world landscape at daytime and beware of hordes of enemies coming in at night. Loot and hunt to survive. Each night, the game becomes increasingly challenging. How long will you survive?
+
+All Reviews:
+
+No user reviews [...] Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+The Left Behind is a solo and co-op post-apocalyptic survival game. Explore a typical Dutch open-world landscape at daytime and beware of hordes of enemies coming in at night. Loot and hunt to survive. Each night, the game becomes increasingly challenging. Keep track of your highscore and try to survive as many nights as possible.
+
+The world [...] )
+
+Features
+
+Single-player
+
+Online Co-op
+
+LAN Co-op
+
+Steam Achievements
+
+Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English and 5 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+| German | ✔ |  | ✔ |
+| Dutch | ✔ |  | ✔ |
+| Portuguese - Brazil | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| Turkish | ✔ |  | ✔ |
+
+See all 6 supported languages
+
+Title: The Left Behind  
+ Genre: Action, Adventure, Indie  
+
+Developer: Extrude
+
+Publisher: Extrude",,,20,weak,Exact title match (+20),general
+2433630,web_result,unknown_date,https://www.rottentomatoes.com/m/left-behind,Left Behind,"Release Date (Theaters): Feb 2, 2000, Original ; Release Date (Streaming): Feb 12, 2014 ; Box Office (Gross USA): $4.2M ; Runtime: 1h 38m ; Sound Mix: Dolby Digital.",,release date,20,weak,Keywords ['release date'] (+20),general
+2433630,web_result,unknown_date,https://m.imdb.com/title/tt0190524,Left Behind: The Movie (2000),"Release date · February 2, 2001 (United States) ; Also known as. Left Behind ; Filming locations · Chicago, Illinois, USA ; Production companies · Cloud Ten",,release date,20,weak,Keywords ['release date'] (+20),general
+2433630,web_result,unknown_date,https://www.youtube.com/watch?v=Lx0uBeC3OS0,OFFICIAL TRAILER | LEFT BEHIND,LEFT BEHIND is the powerful and inspiring story of a group of determined moms who band together to create the first public dyslexic school in,,trailer,20,weak,Keywords ['trailer'] (+20),general
+2433630,web_result,unknown_date,https://www.youtube.com/watch?v=3thlR9_3K2k,Left Behind (2000) Rerelease Trailer 2014,LEFT BEHIND follows Rayford Steele (Nicolas Cage) who is piloting a commercial airliner just hours after the Rapture when millions of people,,trailer,20,weak,Keywords ['trailer'] (+20),general
+2433630,web_result,unknown_date,https://www.youtube.com/watch?v=GrXe8YDbzYs,Left Behind Official Trailer #1 (2014) - Nicolas Cage Movie HD,"Left Behind Official Trailer #1 (2014) - Nicolas Cage Movie HD
+Rotten Tomatoes Trailers
+16200000 subscribers
+23644 likes
+9051802 views
+6 Aug 2014
+Subscribe to TRAILERS: http://bit.ly/sxaw6h
+Subscribe to COMING SOON: http://bit.ly/H2vZUn
+Like us on FACEBOOK: http://goo.gl/dHs73
+Follow us on TWITTER: http://bit.ly/1ghOWmt
+Left Behind Official Trailer #1 (2014) - Nicolas Cage Movie HD
+
+LEFT BEHIND follows Rayford Steele (Nicolas Cage) who is piloting a commercial airliner just hours after the Rapture when millions of people around the globe simply vanish. Thirty thousand feet over the Atlantic, Rayford is faced with a damaged plane, terrified passengers, and a desperate desire to get back to his family. On the ground, his daughter, Chloe Steele (Cassi Thomson) is among those left behind, forced to navigate a world of madness as she searches for her lost mother and brother. 
+
+The Movieclips Trailers channel is your destination for the hottest new trailers the second they drop. Whether it's the latest studio release, an indie horror flick, an evocative documentary, or that new RomCom you've been waiting for, the Movieclips team is here day and night to make sure all the best new movie trailers are here for you the moment they're released.
+
+In addition to being the #1 Movie Trailers Channel on YouTube, we deliver amazing and engaging original videos each week. Watch our exclusive Ultimate Trailers, Showdowns, Instant Trailer Reviews, Monthly MashUps, Movie News, and so much more to keep you in the know.
+
+Here at Movieclips, we love movies as much as you!
+7132 comments
+",,trailer,20,weak,Keywords ['trailer'] (+20),general
+2433630,web_result,unknown_date,https://www.movieinsider.com/m10845/left-behind/videos/11080,Left Behind Theatrical Trailer Video,Left Behind Theatrical Trailer - Follows Rayford Steele (Nicolas Cage) who is piloting a commercial airliner just hours after the Rap.,,trailer,20,weak,Keywords ['trailer'] (+20),general
+2433630,web_result,unknown_date,https://en.wikipedia.org/wiki/Left_Behind,Left Behind,"Left Behind is a multimedia franchise of apocalyptic fiction written by Tim LaHaye and Jerry B. Jenkins, released by Tyndale House Publishers from 1995 to 2007. The bestselling novels are Christian eschatological narratives expounding LaHaye's dispensationalist interpretation of the New Testament's Book of Revelation. This includes the rapture of Christian believers prior to a tumultuous seven-year period known as the Great Tribulation, the main conflict narrated by the original 12 books. After [...] In 2002, a series of graphic novels published by Tyndale House was launched that comprised the first two books in the series, Left Behind and Tribulation Force. The original idea was to release sets of three to five novels (each about 45–50 pages) for each book in the original series.[citation needed] However, after the fifth and final novel for Tribulation Force was released, the graphic novel series was discontinued, and the novels that were released are as of December 2006( out of [...] [edit]
+
+Williams professor Glenn Shuck has written the book Marks of the Beast: The Left Behind Novels and the Struggle for Evangelical Identity, published by NYU Press in 2005. He followed this with a collection of original essays co-edited with Jeffrey J. Kripal of Rice University on the Esalen Institute in California, published by Indiana University Press in 2005.",,,20,weak,Exact title match (+20),general
+2433630,web_result,unknown_date,https://sites.tyndale.com/leftbehind,Left Behind,"Cover of Are We Living in the End Times?
+
+© 2020 Tyndale House Publishers [...] Left Behind: A Novel of the Earth's Last Days
+
+Menu
+
+# Left Behind
+
+## Read the books that launched a cultural phenomenon!
+
+The Left Behind collection
+
+## Left Behind
+
+25th Anniversary Edition
+
+The book that started the New York Times bestselling series is now 25 years
+old! This new mass market-sized edition features the classic original cover and includes a retrospective
+essay from author Jerry B. Jenkins.
+
+Left Behind 25th Anniversary Edition
+Left Behind original series [...] ## Left Behind Original Series
+
+Are you ready for the moment of truth? It’s the beginning...of the end of the world.
+
+These twelve books in the Left Behind series cover the immediate events surrounding the
+rapture and the seven-year period that follows, known as the tribulation.
+
+Left Behind, book 1
+
+### Left Behind
+
+978-1-4143-3490-5
+
+Left Behind, book 2
+
+### Tribulation Force
+
+978-1-4143-3491-2
+
+Left Behind, book 3
+
+### Nicolae
+
+978-1-4143-3492-9
+
+Left Behind, book 4
+
+### Soul Harvest",,,20,weak,Exact title match (+20),general
+2433630,web_result,unknown_date,https://www.goodreads.com/series/50162-left-behind,Left Behind Series by Tim LaHaye,"This is the core series of Left Behind novels for adult readers.   
+  
+Also see Left Behind: The Kids for the series aimed at young readers, as well as The Young Trib Force series, which combines the kids' series and ties it to this one.  
+  
+There is also a prequel series: Before They Were Left Behind.
+
+### Book 1
+
+Left Behind
+
+Left Behind
+
+by Tim LaHaye
+
+3.87 · 250018 Ratings · 4931 Reviews · published 1995 · 114 editions
+
+An airborne Boeing 747 is headed to London when, w… [...] This collection includes five soft cover editions …
+
+### Shelve Left Behind Boxed Set 2
+
+Rate it:
+
+### Book 1-6
+
+Left Behind Series Gift Set
+
+Left Behind Series Gift Set
+
+by Jerry B. Jenkins
+
+4.41 · 2396 Ratings · 177 Reviews · published 2000 · 5 editions
+
+This collection includes six soft cover editions o…
+
+### Shelve Left Behind Series Gift Set
+
+Rate it:
+
+The Authorized Left Behind Handbook
+
+The Authorized Left Behind Handbook
+
+by Tim LaHaye
+
+3.87 · 54 Ratings · published 2005 · 4 editions [...] by Tim LaHaye
+
+4.05 · 31705 Ratings · 559 Reviews · published 2000 · 1 edition
+
+His Excellency Global Community Potentate Nicolae …
+
+### Shelve The Mark
+
+Rate it:
+
+### Book 9
+
+Desecration
+
+Desecration
+
+by Tim LaHaye
+
+4.03 · 28782 Ratings · 477 Reviews · published 2001 · 1 edition
+
+The exciting ninth book in the Left Behind series …
+
+### Shelve Desecration
+
+Rate it:
+
+### Book 10
+
+The Remnant
+
+The Remnant
+
+by Tim LaHaye
+
+4.03 · 27729 Ratings · 458 Reviews · published 2002 · 1 edition",,,20,weak,Exact title match (+20),general
+2433630,web_result,unknown_date,https://solitarystudios.itch.io/left-behind,Left Behind DEMO by SolitaryStudios - itch.io,"View all by SolitaryStudiosCreator
+ Follow SolitaryStudiosFollowFollowing SolitaryStudiosFollowing
+ Add To CollectionCollection
+ Comments
+ Related gamesRelated
+
+Left Behind DEMO
+
+# Left Behind DEMO
+
+A downloadable game for Windows
+
+Get this game and 12 more for $19.99 USD
+
+20% Sale!!! All Games!
+
+View bundle
+
+Buy NowOn Sale!
+
+20% Off$1.50 $1.20 USD or more [...] This game is amazing, i really enjoyed it! Went from being a calm walk through the forrest, to complete terror, then an extremely moving/up setting ending which i didnt expect! This is a game you need to play! Shout out to the devs! Great game!
+
+Reply
+
+Gmbno2 years ago
+
+I have been WAITING for the full to drop. Great job
+
+Reply
+
+SolitaryStudios2 years ago
+
+Thanks for playing man!
+
+Reply
+
+UBERN00B12 years ago(+1) [...] LEFT BEHIND isa short horror experience that revolves around the story of a man named Lucas, who is driven by his pride and desire for fame to seek out a legendary house that has eluded everyone who has tried to find it. Will he succeed in his quest to prove to the world that he has found the impossible-to-find house, or will he meet his demise at the hands of the demons that lie in wait? Only time will tell as Lucas embarks on a treacherous journey fraught with danger and uncertainty.",,demo,20,weak,Keywords ['demo'] (+20),general
+2433630,youtube_video,outside_window,https://www.youtube.com/watch?v=D1jQKpse7Yw,Slipknot - Left Behind [OFFICIAL VIDEO] [HD],,"Slipknot's music video for 'Left Behind' from the album, Iowa - available now on Roadrunner Records. Download the album on ...",,15,weak,YouTube (+15),
+2433630,reddit_discussion,unknown_date,https://www.reddit.com/r/grammar/comments/14ha2ai/pronouncing_the_word_the,"Pronouncing the word ""the"" : r/grammar","- Delayed response to thuh/thee apple to indicate emphasis: I would not ask for thuh apple in any situation, no matter how many or how few apples there were. I would emphasize thee or thuh only to draw attention to a particular apple--or person or thing--and probably in a humorous manner. ""I sat next to Annie Lennox on the plane!"" "" Thee Annie Lennox?"" ""Yes, the singer."" ""Have you seen Taj Majal?"" ""Do you mean thuh Taj Majal?"" ""No, not the building --the musician."" In one of the Hitchhiker",,,10,weak,Reddit (+10),general
+2433630,reddit_discussion,unknown_date,https://www.reddit.com/r/movies/comments/u3h1rz/left_behind_a_review_includes_spoilers,'Left Behind' - a review. INCLUDES SPOILERS : r/movies,This film is a religious puff piece. First was mildly entertaining but preachy. TF had less drama and mostly preaching. Third and fourth books,,,10,weak,Reddit (+10),general
+2433630,reddit_discussion,unknown_date,https://www.reddit.com/r/grammar/comments/14ha2ai/pronouncing_the_word_the,"Pronouncing the word ""the"" : r/grammar","Pronouncing the word ""the""
+r/grammar - 17 upvotes, 30 comments
+This isn't technically grammar, but I recall learning in elementary school that the word ""the"" is pronounced two ways (""thee"" or ""thuh""), depending on whether the following word begins with a vowel sound (""thee"") or consonant sound (""thuh""). It is similar to the two forms of ""a"" (""a"" and ""an"") in that sense. It is ""thee apple"" and ""an apple"", and it is ""thuh box"" and ""a box"". I would say ""Thuh shoe is on thee other foot."" Nowadays, I hear almost everyone, especially younger folks, pronouncing ""the"" as ""thuh"" for everything, and have dropped the second ""thee"" form. So to many people now it's ""thuh apple"". It seems that ""thee"" is going the way of the dodo bird. 🦤 Edit: The method I described is still being taught in some places: https://youtu.be/hTPUJDJqThw https://youtu.be/CRqZu3MBtuQ https://youtu.be/4dmE8UQmga8 and there are a lot more videos",,,10,weak,Reddit (+10),social
+2433630,social_post,unknown_date,https://www.dictionary.com/browse/the,THE Definition & Meaning,"*   [Games](https://www.dictionary.com/games). *   [the](https://www.dictionary.com/browse/the#hdr-headword-dcom-1)the definite article (used, especially before a noun, with a specifying or particularizing effect, as opposed to the indefinite or generalizing force of the indefinite article _a_ or _an_ ). *   [Pronunciation](https://www.dictionary.com/browse/the#id-sec-notes-pronunciation). *   [Related Words](https://www.dictionary.com/browse/the#id-sec-related-words). 1.   used preceding a noun that has been previously specified Compare [a 1](https://www.dictionary.com/browse/a). 2.   used with a qualifying word or phrase to indicate a particular person, object, etc, as distinct from others Compare [a 1](https://www.dictionary.com/browse/a). > [![Image 3: Logo link to The Wall Street Journal](https://cdn.dictionary.com/logo-ex-src-wsj-CyEa4Gzc.svg)](https://www.wsj.com/business/bill-gatess-personal-emails-werent-part-of-epstein-review-95f1964a). > [![Image 4: Logo link to Los Angeles Times](https://cdn.dictionary.com/logo-ex-src-lat-D0Usm19z.svg)](https://www.latimes.com/sports/lakers/story/2026-07-22/lebron-james-is-taking-his-time-team-hunting-but-warriors-as-option). > [![Image 5: Logo link to The Wall Street Journal](https://cdn.dictionary.com/logo-ex-src-wsj-CyEa4Gzc.svg)](https://www.wsj.com/business/bill-gatess-personal-emails-werent-part-of-epstein-review-95f1964a). > [![Image 6: Logo link to Los Angeles Times](https://cdn.dictionary.com/logo-ex-src-lat-D0Usm19z.svg)](https://www.latimes.com/sports/lakers/story/2026-07-22/lebron-james-is-taking-his-time-team-hunting-but-warriors-as-option). > [![Image 8: Logo link to Forbes](https://cdn.dictionary.com/logo-ex-src-news-TLlDtEp4.svg)](https://www.seattletimes.com/entertainment/review-the-long-kiss-goodbye-ends-at-new-yorks-madison-square-garden-but-kiss-avatars-loom/). > [![Image 9: Logo link to Forbes](https://cdn.dictionary.com/logo-ex-src-news-TLlDtEp4.svg)](https://www.scientificamerican.com/article/methadone-maintenance-versus-synthetic-heaven-inside-the-historic-fight-over-heroin-treatment/). > [![Image 11: Logo link to Forbes](https://cdn.dictionary.com/logo-ex-src-news-TLlDtEp4.svg)](http://www.forbes.com/sites/mfonobongnsehe/2014/09/05/young-african-millionaire-ashish-j-thakkar-launches-mara-mentor-in-ghana/). *   [every](https://www.dictionary.com/browse/every). [![Image 13](https://cdn.dictionary.com/dcom-footer-logo-D3hiCHBw.svg)](https://www.dictionary.com/). [![Image 23](https://cdn.dictionary.com/tcom-footer-brands-logo-Ce0ywHGh.svg)](https://www.thesaurus.com/). [![Image 24](https://cdn.dictionary.com/vocab-footer-brands-logo-BlMloknW.svg)](https://www.vocabulary.com/). [![Image 25](https://cdn.dictionary.com/words-footer-brands-logo-DGX_eyNx.svg)](https://www.words.com/). [![Image 26](https://cdn.dictionary.com/ingles-footer-brands-logo-Cj0_mi36.svg)](https://www.ingles.com/). [![Image 27](https://cdn.dictionary.com/spanish-dict-footer-brands-logo-4FlU3dl5.svg)](https://www.spanishdict.com/). [![Image 28](https://cdn.dictionary.com/french-dict-footer-brands-logo-CpczaTEW.svg)](https://www.frenchdictionary.com/). [![Image 30](https://cdn.dictionary.com/ixl-footer-brands-logo-ecUK1g3T.svg)](https://www.ixl.com/). [![Image 31](https://cdn.dictionary.com/tpt-footer-brands-logo-DDu69lkn.svg)](https://www.teacherspayteachers.com/). [![Image 32](https://cdn.dictionary.com/edcom-footer-brands-logo-CqMly76v.svg)](https://www.education.com/). [![Image 33](https://cdn.dictionary.com/abcya-footer-brands-logo-C6ORZBhp.svg)](https://www.abcya.com/). [![Image 34](https://cdn.dictionary.com/wyzant-footer-brands-logo-XsKkZY9f.svg)](https://www.wyzant.com/). [![Image 35](https://cdn.dictionary.com/multcom-footer-brands-logo-0pGBnyvb.svg)](https://www.multiplication.com/).",,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://www.merriam-webster.com/dictionary/the,THE Definition & Meaning,"*   [Word of the Day](https://www.merriam-webster.com/word-of-the-day). *   [Word Finder](https://www.merriam-webster.com/wordfinder). *   [Word of the Day](https://www.merriam-webster.com/word-of-the-day). *   [Word Finder](https://www.merriam-webster.com/wordfinder). *   [My Words](https://www.merriam-webster.com/saved-words). *   [![Image 1](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)definite article](https://www.merriam-webster.com/dictionary/the#dictionary-entry-1). *   [![Image 2](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)adverb](https://www.merriam-webster.com/dictionary/the#dictionary-entry-2). *   [![Image 3](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)preposition](https://www.merriam-webster.com/dictionary/the#dictionary-entry-3). *   [![Image 4](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)combining form](https://www.merriam-webster.com/dictionary/the#dictionary-entry-4). *   [definite article 4![Image 5](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/redesign/show-more-arrow.svg)](https://www.merriam-webster.com/dictionary/the#). *   [![Image 7](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)Word History](https://www.merriam-webster.com/dictionary/the#word-history). *   [![Image 8](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)Rhymes](https://www.merriam-webster.com/dictionary/the#related-rhymes). *   [![Image 9](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)Entries Near](https://www.merriam-webster.com/dictionary/the#nearby-entries). *   [![Image 10](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)Related Articles](https://www.merriam-webster.com/dictionary/the#related-articles). *   [![Image 11](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)Cite this Entry Citation](https://www.merriam-webster.com/dictionary/the#citations). *   [![Image 12](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)Kids Definition Kids](https://www.merriam-webster.com/dictionary/the#kidsdictionary). *   To save this word, you'll need to log in.[Log In](https://www.merriam-webster.com/login). [See more words from the same century](https://www.merriam-webster.com/time-traveler/before-12th-century?src=defrecirc-timetraveler-etycard). [See all Nearby Words](https://www.merriam-webster.com/browse/dictionary/t/20). #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day). #### [stalwart](https://www.merriam-webster.com/word-of-the-day). [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) ». ### [Commonly Misspelled Words](https://www.merriam-webster.com/grammar/commonly-misspelled-words). ### [The Longest Long Words List](https://www.merriam-webster.com/wordplay/longest-words-ever). Each of your guesses must be a real 5-letter word.](https://prod.cdn-mw.com/assets/mw/static/images/games/external/quordle/485x364@1x.jpg) Quordle Can you solve 4 words at once?Play](https://www.merriam-webster.com/games/quordle/). [![Image 22: thumbnail graphic with text word of the day quiz](https://prod.cdn-mw.com/assets/mw/images/quiz/quiz-global-footer-recirc/thumbnail%20graphic%20with%20text%20word%20of%20the%20day%20quiz-13136-123ef0e665bcfd7a64300b42efcd4156@1x.jpg) Weekly ""Word of the Day"" Quiz See how well you know each Word of the Day for Ju...Take the quiz](https://www.merriam-webster.com/games/weekly-wotd-quiz-5). [Do not sell or share my personal information.](https://www.merriam-webster.com/).",,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://en.wikipedia.org/wiki/The,The - Wikipedia,"It is the [definite article](//en.wikipedia.org/wiki/Definite_article ""Definite article"") in English. *The* is the [most frequently used word](//en.wikipedia.org/wiki/Most_common_words_in_English ""Most common words in English"") in the English language; studies and analyses of texts have found it to account for seven percent of all printed English-language words.[[1]](#cite_note-1) It is derived from gendered articles in [Old English](//en.wikipedia.org/wiki/Old_English ""Old English"") which combined in [Middle English](//en.wikipedia.org/wiki/Middle_English ""Middle English"") and now has a single form used with nouns of any gender.[[a]](#cite_note-2) The word can be used with both singular and plural nouns, and with a noun that starts with any letter or sound. Modern [American](//en.wikipedia.org/wiki/American_English ""American English"") and [New Zealand English](//en.wikipedia.org/wiki/New_Zealand_English ""New Zealand English"") have an increasing tendency to limit usage of /ðiː/ pronunciation and use /ðə/, even before a vowel.[[4]](#cite_note-6)[[5]](#cite_note-7). Definite article principles in English are described under ""[Use of articles](//en.wikipedia.org/wiki/English_articles#Use_of_articles ""English articles"")"". 2. [↑](#cite_ref-4) such as [French](//en.wikipedia.org/wiki/French_language ""French language""), which uses *le* for masculine singular, *la* for feminine singular, and *les* for plural. 4. [↑](#cite_ref-6) [Ladefoged, Peter](//en.wikipedia.org/wiki/Peter_Ladefoged ""Peter Ladefoged""); Johnson, Keith (2010).",,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://www.merriam-webster.com/grammar/how-do-you-pronounce-the-let-us-count-the-ways,How do you pronounce 'the'?,"# How do you pronounce 'the'? There are two ways to pronounce that essential and rightfully-ubiquitous word, *the*. And those who say that its pronunciation has something to do with verbs and nouns are likewise misinformed. Here are the facts: the standard way the word is pronounced has to do with what follows it. If the word that follows it begins with a consonant sound, then it's pronounced \t͟hə\—that is, with the same vowel sound as the word *of*—and it is unstressed:. > the one (note that although ""o"" is a vowel, the word *one* begins with the sound usually made by ""w,"" a consonant). If the word that follows it begins with a vowel sound, *the* is usually pronounced \t͟hē\ (to rhyme with *me*), but is also sometimes pronounced \t͟hə\, as above. #### Word of the Day. Each of the 25 puzzle words start with a different letter of the alphabet.",,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://www.tiktok.com/discover/is-left-behind-a-christian-movie,Is Left behind A Christian Movie,Left Behind is a 2014 American Christian apocalyptic thriller film directed by Vic Armstrong and written by Paul LaLonde and John Patus. Based,,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://www.tiktok.com/@abaetol/video/7553387938340474142,Exploring the Legacy of Left Behind Film Series,"a 23 year film legacy known as Left Behind. an event of mass disappearance, as described in biblical prophecies.",,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://www.tiktok.com/@asantiakbar/video/7484314420462718254,Discover the Best Christian Movie: Left Behind,"This narrative explores themes of love, loss, and the profound impact of tragedy on one's life. Set against the backdrop of New York City,",,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://www.tiktok.com/@hottuesdays/video/7435773478776638762,Left Behind 2014: Nicolas Cage's Apocalyptic Thriller,"This narrative explores themes of love, loss, and the profound impact of tragedy on one's life. Set against the backdrop of New York City,",,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://www.instagram.com/reel/DTVoY5Sk-Do,Film Details: Left Behind (2014) Left ...,Left Behind is an apocalyptic thriller based on the best-selling novel series depicting the immediate aftermath of the biblical Rapture.,,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://www.instagram.com/reel/DT-fhmQCBdb,𝐌𝐨𝐯𝐢𝐞 & 𝐒𝐞𝐫𝐢𝐞𝐬 𝐂𝐥𝐢𝐩𝐬 🎬🍿 | Her brother disappeared ...,Her brother disappeared Left Behind (2014) is a religious sci-fi thriller based on the novel by Tim LaHaye and Jerry B. Jenkins.,,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://www.instagram.com/reel/DQMSnMkiuy5,"In 'In the Silence You Left Behind', Manda invites us into a ...","In 'In the Silence You Left Behind', Manda invites us into a world of quiet heartbreak — the kind of sorrow that often makes no sound, but still",,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://www.instagram.com/reel/DNapIpBgI5X,Instagram,"Log In
+
+Sign Up
+
+scorelucy's profile picture
+
+Never miss a post from scorelucy
+
+Sign up for Instagram to stay in the loop.
+
+Sign up
+
+Log in
+
+Video by Lucy Score on August 16, 2025.
+
+scorelucy's profile picture
+
+•
+
+Follow
+
+scorelucy's profile picture
+
+scorelucy
+
+📖Things We Left Behind by Lucy Score   
+#enemiestoloversbooks #smalltown #romcom #secondchanceromance #banter #bookstagram #kindleunlimited #fyp #lucyscore #bookreels #reels #fyp
+
+havanawilder's profile picture
+
+havanawilder [...] heidis.booknook
+
+💯 my favorite book of the series. ♾️/ 5!!!
+
+Reply
+
+emilydison34's profile picture
+
+emilydison34
+
+THE BEST series!
+
+Reply
+
+paws.pages.and.pixiedust's profile picture
+
+paws.pages.and.pixiedust
+
+just added this to my TBR!!!
+
+Reply
+
+mugofreality's profile picture
+
+mugofreality
+
+😍😍😍😍💜💜💜💜
+
+Reply
+
+_natalia.x17's profile picture
+
+\_natalia.x17
+
+This was the first book to make me cry, I need to reread the series 💜
+
+1 like
+
+Reply
+
+lisaadavidson_'s profile picture
+
+lisaadavidson\_ [...] Reply
+
+sweetest_escape_bookshop's profile picture
+
+sweetest\_escape\_bookshop
+
+I loved every minute of that book. And I had to purchase the special edition covers! They are beautiful
+
+Reply
+
+michellereadson's profile picture
+
+michellereadson
+
+lol! I can’t wait to read this book. It’s up on deck now!!!! 😍😍😍
+
+Reply
+
+jesseicabretz1's profile picture
+
+jesseicabretz1
+
+My absolute favorite from the series ! But they were all AMAZINGGGG 😍😍
+
+Reply
+
+ria2728's profile picture
+
+ria2728",,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://x.com/LeftBehind304,𝔩𝔢𝔣𝔱 𝔟𝔢𝔥𝔦𝔫𝔡 (@LeftBehind304) / Posts / X,NO ONE GOES TO HEAVEN IS OUT NOW. STREAMING EVERYWHERE. GO GO GO. LEFTBEHIND304.COM left behind's. Doors open at 6PM. Grab tickets now at the link or at the,,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://x.com/KJWinEducation/status/2004586747896983918,"More about the film, Left Behind, can be found here:","More about the film, Left Behind, can be found here: LEFT BEHIND THE FILM www.leftbehindthefilm.com",,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://x.com/TALLADEGA/status/1980378992395055417,Talladega Superspeedway - Left Behind,Left Behind: 2025 #YellaWood500 edition. Starting with you vs the guy she told you not to worry about.,,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://x.com/garisedelweiss/status/2021348048568451297,"Echo, Left Behind.","Garis Edelweiss (@garisedelweiss). 363 likes 15 replies. Echo, Left Behind.",,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://en.wikipedia.org/wiki/Left_Behind,Left Behind,"# *Left Behind*. Multimedia franchise based on the novels by Tim LaHaye and Jerry B. | ---  *The Rising ""The Rising (LaHaye novel)""), The Regime ""The Regime (novel)""), and The Rapture ""The Rapture (novel)"") (omitted here); Left Behind ""Left Behind (novel)""), Tribulation Force, Nicolae, Soul Harvest, Apollyon ""Apollyon (novel)""), Assassins ""Assassins (LaHaye novel)""), The Indwelling, The Mark ""The Mark (novel)""), Desecration ""Desecration (novel)""), The Remnant ""The Remnant (LaHaye novel)""), Armageddon ""Armageddon (novel)""), Glorious Appearing, and Kingdom Come* (Brazilian editions)  --- |. ***Left Behind*** is a multimedia franchise of apocalyptic fiction written by Tim LaHaye and Jerry B. This includes the rapture of Christian believers prior to a tumultuous seven-year period known as the Great Tribulation, the main conflict narrated by the original 12 books. The original series of three films are *Left Behind: The Movie* (2000), *Left Behind II: Tribulation Force* (2002), and *Left Behind: World at War* (2005). | 1 | 4 | *Left Behind ""Left Behind (novel)""): A Novel of the Earth's Last Days* | 1995 |.",,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://leftbehind.fandom.com/wiki/Left_Behind_(franchise),Left Behind (franchise),Left Behind is a multimedia franchise that started with a series of 16 bestselling religious novels by Tim LaHaye and Jerry B. Jenkins.,,,5,weak,Social Index (+5),social
+2433630,social_post,unknown_date,https://www.ebsco.com/research-starters/literature-and-writing/left-behind-series-jerry-b-jenkins,Left Behind Series by Jerry B. Jenkins | Literature and Writing,"As the story progresses, Steele and a group known as the Tribulation Force resist the oppressive regime and endure various trials, including plagues and persecution. The series culminates in the triumphant return of Jesus Christ, who defeats evil forces and establishes a millennium of peace. The themes explored in ""Left Behind"" reflect a strong interest in end-time prophecies and the dichotomy of good versus evil, resonating with readers who are invested in evangelical Christian doctrine. # Left Behind Series by Jerry B. The ""Left Behind"" series, co-authored by Tim LaHaye and Jerry B. The series chronicles the ensuing Tribulation, a seven-year period marked by disasters and the rise of the Antichrist, Nicolae Carpathia, who establishes a global government that demands worship from its citizens. Apocalyptic argumentation: Trump and ISIS.;Big‐tent eschatology: Apocalypse as a mobilizing concept for the January 6, 2021 Capitol Riot.;Books Received.;Contracted Time: Apocalypse and Identity in The Merchant of Venice.;The Judgment of Love: An Investigation of Salvific Judgment in Christian Eschatology.",,,5,weak,Social Index (+5),social
+2433630,web_result,unknown_date,https://www.youtube.com/watch?v=SYjSUu5RjoM,"Left Behind: The Movie 🎬 Full Action Drama Movie | Kirk Cameron, Brad Johnson","00:00 – The Attack That Changed Everything
+03:47 – The Miracle Crop That Could Save Humanity
+06:13 – Israel Faces Total Destruction
+10:18 – A Family's Last Normal Day
+14:00 – The Conspiracy Nobody Believed
+26:25 – People Start Vanishing Without a Trace
+32:03 – Worldwide Chaos and Emergency Declarations
+53:04 – A Pastor Realizes He Was Wrong
+01:12:00 – The Shocking Biblical Explanation
+01:24:48 – The Antichrist's Rise Begins [...] missing flight crews, planes down all over. We're turning back. [sirens] [music] [panicked voices] Your attention please. The federal government has
+ declared a National state of Emergency. Please remain calm and stand
+ by for further instructions. Come on Dirk. Come on. All circuits are busy,
+ please try again later. [crying] Black or white, rich or
+ poor both here and abroad. The death of the President
+ adds to the list of world leaders lost or missing. Nicolae Carpathia: the [...] technician problems. They're over Jerusalem. The Eden Project could
+have fed the whole world. But now, that miracle is
+going to die with us. [explosions] Those planes are coming down,
+but we haven't fired a shot. It's not possible, they're
+jamming our monitors! It's a cruel trick. Only one way to find out. NO! Buck! [explosions] This is Buck Williams
+reporting live from Israel. I am standing in the middle
+of an all out attack. The sun is gone. Thousands of planes",,,0,weak,,general
+2433630,web_result,unknown_date,https://www.dictionary.com/browse/the,THE Definition & Meaning,"*   [Games](https://www.dictionary.com/games). *   [the](https://www.dictionary.com/browse/the#hdr-headword-dcom-1)the definite article (used, especially before a noun, with a specifying or particularizing effect, as opposed to the indefinite or generalizing force of the indefinite article _a_ or _an_ ). *   [Pronunciation](https://www.dictionary.com/browse/the#id-sec-notes-pronunciation). *   [Related Words](https://www.dictionary.com/browse/the#id-sec-related-words). 1.   used preceding a noun that has been previously specified Compare [a 1](https://www.dictionary.com/browse/a). 2.   used with a qualifying word or phrase to indicate a particular person, object, etc, as distinct from others Compare [a 1](https://www.dictionary.com/browse/a). > [![Image 3: Logo link to The Wall Street Journal](https://cdn.dictionary.com/logo-ex-src-wsj-CyEa4Gzc.svg)](https://www.wsj.com/business/bill-gatess-personal-emails-werent-part-of-epstein-review-95f1964a). > [![Image 4: Logo link to Los Angeles Times](https://cdn.dictionary.com/logo-ex-src-lat-D0Usm19z.svg)](https://www.latimes.com/sports/lakers/story/2026-07-22/lebron-james-is-taking-his-time-team-hunting-but-warriors-as-option). > [![Image 5: Logo link to The Wall Street Journal](https://cdn.dictionary.com/logo-ex-src-wsj-CyEa4Gzc.svg)](https://www.wsj.com/business/bill-gatess-personal-emails-werent-part-of-epstein-review-95f1964a). > [![Image 6: Logo link to Los Angeles Times](https://cdn.dictionary.com/logo-ex-src-lat-D0Usm19z.svg)](https://www.latimes.com/sports/lakers/story/2026-07-22/lebron-james-is-taking-his-time-team-hunting-but-warriors-as-option). > [![Image 8: Logo link to Forbes](https://cdn.dictionary.com/logo-ex-src-news-TLlDtEp4.svg)](https://www.seattletimes.com/entertainment/review-the-long-kiss-goodbye-ends-at-new-yorks-madison-square-garden-but-kiss-avatars-loom/). > [![Image 9: Logo link to Forbes](https://cdn.dictionary.com/logo-ex-src-news-TLlDtEp4.svg)](https://www.scientificamerican.com/article/methadone-maintenance-versus-synthetic-heaven-inside-the-historic-fight-over-heroin-treatment/). > [![Image 11: Logo link to Forbes](https://cdn.dictionary.com/logo-ex-src-news-TLlDtEp4.svg)](http://www.forbes.com/sites/mfonobongnsehe/2014/09/05/young-african-millionaire-ashish-j-thakkar-launches-mara-mentor-in-ghana/). *   [every](https://www.dictionary.com/browse/every). [![Image 13](https://cdn.dictionary.com/dcom-footer-logo-D3hiCHBw.svg)](https://www.dictionary.com/). [![Image 23](https://cdn.dictionary.com/tcom-footer-brands-logo-Ce0ywHGh.svg)](https://www.thesaurus.com/). [![Image 24](https://cdn.dictionary.com/vocab-footer-brands-logo-BlMloknW.svg)](https://www.vocabulary.com/). [![Image 25](https://cdn.dictionary.com/words-footer-brands-logo-DGX_eyNx.svg)](https://www.words.com/). [![Image 26](https://cdn.dictionary.com/ingles-footer-brands-logo-Cj0_mi36.svg)](https://www.ingles.com/). [![Image 27](https://cdn.dictionary.com/spanish-dict-footer-brands-logo-4FlU3dl5.svg)](https://www.spanishdict.com/). [![Image 28](https://cdn.dictionary.com/french-dict-footer-brands-logo-CpczaTEW.svg)](https://www.frenchdictionary.com/). [![Image 30](https://cdn.dictionary.com/ixl-footer-brands-logo-ecUK1g3T.svg)](https://www.ixl.com/). [![Image 31](https://cdn.dictionary.com/tpt-footer-brands-logo-DDu69lkn.svg)](https://www.teacherspayteachers.com/). [![Image 32](https://cdn.dictionary.com/edcom-footer-brands-logo-CqMly76v.svg)](https://www.education.com/). [![Image 33](https://cdn.dictionary.com/abcya-footer-brands-logo-C6ORZBhp.svg)](https://www.abcya.com/). [![Image 34](https://cdn.dictionary.com/wyzant-footer-brands-logo-XsKkZY9f.svg)](https://www.wyzant.com/). [![Image 35](https://cdn.dictionary.com/multcom-footer-brands-logo-0pGBnyvb.svg)](https://www.multiplication.com/).",,,0,weak,,general
+2433630,web_result,unknown_date,https://www.merriam-webster.com/dictionary/the,THE Definition & Meaning,"*   [Word of the Day](https://www.merriam-webster.com/word-of-the-day). *   [Word Finder](https://www.merriam-webster.com/wordfinder). *   [Word of the Day](https://www.merriam-webster.com/word-of-the-day). *   [Word Finder](https://www.merriam-webster.com/wordfinder). *   [My Words](https://www.merriam-webster.com/saved-words). *   [![Image 1](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)definite article](https://www.merriam-webster.com/dictionary/the#dictionary-entry-1). *   [![Image 2](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)adverb](https://www.merriam-webster.com/dictionary/the#dictionary-entry-2). *   [![Image 3](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)preposition](https://www.merriam-webster.com/dictionary/the#dictionary-entry-3). *   [![Image 4](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)combining form](https://www.merriam-webster.com/dictionary/the#dictionary-entry-4). *   [definite article 4![Image 5](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/redesign/show-more-arrow.svg)](https://www.merriam-webster.com/dictionary/the#). *   [![Image 7](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)Word History](https://www.merriam-webster.com/dictionary/the#word-history). *   [![Image 8](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)Rhymes](https://www.merriam-webster.com/dictionary/the#related-rhymes). *   [![Image 9](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)Entries Near](https://www.merriam-webster.com/dictionary/the#nearby-entries). *   [![Image 10](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)Related Articles](https://www.merriam-webster.com/dictionary/the#related-articles). *   [![Image 11](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)Cite this Entry Citation](https://www.merriam-webster.com/dictionary/the#citations). *   [![Image 12](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-21--18-32-41-ahbhs/images/svg/sidebar-nav-item-icon.svg)Kids Definition Kids](https://www.merriam-webster.com/dictionary/the#kidsdictionary). *   To save this word, you'll need to log in.[Log In](https://www.merriam-webster.com/login). [See more words from the same century](https://www.merriam-webster.com/time-traveler/before-12th-century?src=defrecirc-timetraveler-etycard). [See all Nearby Words](https://www.merriam-webster.com/browse/dictionary/t/20). #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day). #### [stalwart](https://www.merriam-webster.com/word-of-the-day). [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) ». ### [Commonly Misspelled Words](https://www.merriam-webster.com/grammar/commonly-misspelled-words). ### [The Longest Long Words List](https://www.merriam-webster.com/wordplay/longest-words-ever). Each of your guesses must be a real 5-letter word.](https://prod.cdn-mw.com/assets/mw/static/images/games/external/quordle/485x364@1x.jpg) Quordle Can you solve 4 words at once?Play](https://www.merriam-webster.com/games/quordle/). [![Image 22: thumbnail graphic with text word of the day quiz](https://prod.cdn-mw.com/assets/mw/images/quiz/quiz-global-footer-recirc/thumbnail%20graphic%20with%20text%20word%20of%20the%20day%20quiz-13136-123ef0e665bcfd7a64300b42efcd4156@1x.jpg) Weekly ""Word of the Day"" Quiz See how well you know each Word of the Day for Ju...Take the quiz](https://www.merriam-webster.com/games/weekly-wotd-quiz-5). [Do not sell or share my personal information.](https://www.merriam-webster.com/).",,,0,weak,,general
+2433630,web_result,unknown_date,https://www.timeshighereducation.com,Times Higher Education home | Times Higher Education (THE),"Daily news and analysis for global higher education](https://www.timeshighereducation.com/academic/news). The world’s most comprehensive university rankings](https://www.timeshighereducation.com/world-university-rankings). Advice and insight on teaching, research and academic careers from higher education professionals](https://www.timeshighereducation.com/campus). Connecting the higher education community to our global network](https://www.timeshighereducation.com/events). THE Student supports you, from first university search to your first day on campus](https://www.timeshighereducation.com/student). Higher education’s global job board](https://www.timeshighereducation.com/unijobs/). Services for universities, governments and corporates](https://www.timeshighereducation.com/our-solutions). News, jobs and services for US higher education](https://www.insidehighered.com/). [See all](https://www.timeshighereducation.com/news). [News](https://www.timeshighereducation.com/taxonomy/term/307). [News](https://www.timeshighereducation.com/taxonomy/term/307). [News](https://www.timeshighereducation.com/taxonomy/term/307). [News](https://www.timeshighereducation.com/taxonomy/term/307). [See all](https://www.timeshighereducation.com/world-university-rankings). [Sustainability Impact Ratings 2026](https://www.timeshighereducation.com/impactrankings). [World University Rankings 2026](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking). [Interdisciplinary Science Rankings 2026](https://www.timeshighereducation.com/world-university-rankings/interdisciplinary-science-rankings). [Arab University Rankings 2026](https://www.timeshighereducation.com/world-university-rankings/2026/arab-university-rankings). [Asia University Rankings 2026](https://www.timeshighereducation.com/world-university-rankings/2026/regional-ranking). [Participate in upcoming rankings](https://www.timeshighereducation.com/how-participate-times-higher-education-rankings). [See all](https://www.timeshighereducation.com/student/best-universities). [### Best universities in Toronto 2026](https://www.timeshighereducation.com/student/best-universities/best-universities-toronto). [### Digital Leaders: top universities for a digital education](https://www.timeshighereducation.com/student/best-universities/digital-leaders-top-universities-digital-education). [See all](https://www.timeshighereducation.com/unijobs/). 33 jobs available](https://www.timeshighereducation.com/unijobs/listings/africa/). 617 jobs available](https://www.timeshighereducation.com/unijobs/listings/asia/). 293 jobs available](https://www.timeshighereducation.com/unijobs/listings/europe/). 86 jobs available](https://www.timeshighereducation.com/unijobs/listings/middle-east/). 203 jobs available](https://www.timeshighereducation.com/unijobs/listings/oceania/). 0 jobs available](https://www.timeshighereducation.com/unijobs/listings/south-america/). 126 jobs available](https://www.timeshighereducation.com/unijobs/listings/united-kingdom/). [See all](https://www.timeshighereducation.com/campus). [Teaching and learning](https://www.timeshighereducation.com/campus/keywords/teaching-and-learning-0). [Teaching and learning](https://www.timeshighereducation.com/campus/keywords/teaching-and-learning-0). [Teaching and learning](https://www.timeshighereducation.com/campus/keywords/teaching-and-learning-0). [Early career research](https://www.timeshighereducation.com/campus/keywords/early-career-research-0).",,,0,weak,,general
+2433630,web_result,unknown_date,https://uiowa.edu,The University of Iowa,"# [The University of Iowa](https://uiowa.edu/). *   [Visit](https://admissions.uiowa.edu/visit-campus ""Visit""). *   [Admissions](https://uiowa.edu/admissions). *   [Undergraduate Admissions](https://admissions.uiowa.edu/). *   [Graduate Admissions](https://grad.admissions.uiowa.edu/). *   [Academics](https://uiowa.edu/academics). *   [Colleges](https://uiowa.edu/academics/colleges). *   [Research](https://uiowa.edu/research). *   [Student Life](https://uiowa.edu/student-life). *   [Iowa City](https://uiowa.edu/student-life/iowa-city). *   [Living on Campus](https://uiowa.edu/student-life/living-campus). *   [About](https://uiowa.edu/about-iowa). *   [News](https://now.uiowa.edu/). *   [Events](https://events.uiowa.edu/). *   [Media Resources](https://osc.uiowa.edu/media). [Video 2](https://uiowa.edu/sites/uiowa.edu/files/2023-03/2023_03_06-Communication-264.mp4). [Read Campus News](https://now.uiowa.edu/)|[Read Featured Stories](https://stories.uiowa.edu/). ![Image 1: Iowa graduates in black robe and black caps throw them in the air](https://uiowa.edu/sites/uiowa.edu/files/styles/widescreen__1024_x_576/public/2026-06/2025_05_08-Cap-and-Gown-Commercial-Shoot-May-2025-jatorner-2647.jpg?h=26b29af5&itok=hNz_pgcX). ### [Celebrating Iowa’s spring 2026 grads](https://stories.uiowa.edu/spring-2026-graduation-infographic). ![Image 4: Student with Iowa shirt and holding a laptop talking to a woman who is the instructor in a black sweatshirt](https://uiowa.edu/sites/uiowa.edu/files/styles/square__1024_x_1024/public/2026-04/2018_04_10-CCCC-2220-FOUNDATIONS-CRITICAL-CULTURAL-COMPETENCE-jatorner-0265-medium.jpg?h=0eafbf7e&itok=eKB2ONIs). ![Image 5: Six students waving to stadium crowd and hospital](https://uiowa.edu/sites/uiowa.edu/files/styles/square__1024_x_1024/public/2026-02/2018_09_15-FB-UNI-vs-Iowa-jatorner-0468-medium_0.jpg?h=a81b533e&itok=pg_-VQIg). ![Image 6: Four students sitting on dock along the Iowa River.](https://uiowa.edu/sites/uiowa.edu/files/2026-02/students-sitting-dock-river-sunset_0.jpg). ![Image 7: Aerial view of east campus with Iowa River.](https://uiowa.edu/sites/uiowa.edu/files/styles/ultrawide__1312_x_562/public/2020-03/aerial-east-side-crew_0.jpg?h=14373735&itok=7vXoukLX). ## [Welcome Home](https://uiowa.edu/student-life/iowa-city). [The University of Iowa](https://uiowa.edu/). *   [Campus Map](https://maps.uiowa.edu/). *   [Campus Safety](https://uiowa.edu/student-life/safety-and-support). *   [Directory](https://iam.uiowa.edu/whitepages/search). *   [Free Speech at Iowa](https://freespeech.uiowa.edu/). *   [ICON](https://icon.uiowa.edu/). *   [Jobs@Iowa](https://jobs.uiowa.edu/). *   [Libraries](https://www.lib.uiowa.edu/). *   [MAUI](https://www.maui.uiowa.edu/). *   [Office365](https://office365.uiowa.edu/). *   [Student Health](https://studenthealth.uiowa.edu/). *   [Well-Being at Iowa](https://wellbeing.uiowa.edu/). *   [Accessibility](https://accessibility.uiowa.edu/).",,,0,weak,,general
+2433630,web_result,unknown_date,https://en.wikipedia.org/wiki/The,The - Wikipedia,"It is the [definite article](//en.wikipedia.org/wiki/Definite_article ""Definite article"") in English. *The* is the [most frequently used word](//en.wikipedia.org/wiki/Most_common_words_in_English ""Most common words in English"") in the English language; studies and analyses of texts have found it to account for seven percent of all printed English-language words.[[1]](#cite_note-1) It is derived from gendered articles in [Old English](//en.wikipedia.org/wiki/Old_English ""Old English"") which combined in [Middle English](//en.wikipedia.org/wiki/Middle_English ""Middle English"") and now has a single form used with nouns of any gender.[[a]](#cite_note-2) The word can be used with both singular and plural nouns, and with a noun that starts with any letter or sound. Modern [American](//en.wikipedia.org/wiki/American_English ""American English"") and [New Zealand English](//en.wikipedia.org/wiki/New_Zealand_English ""New Zealand English"") have an increasing tendency to limit usage of /ðiː/ pronunciation and use /ðə/, even before a vowel.[[4]](#cite_note-6)[[5]](#cite_note-7). Definite article principles in English are described under ""[Use of articles](//en.wikipedia.org/wiki/English_articles#Use_of_articles ""English articles"")"". 2. [↑](#cite_ref-4) such as [French](//en.wikipedia.org/wiki/French_language ""French language""), which uses *le* for masculine singular, *la* for feminine singular, and *les* for plural. 4. [↑](#cite_ref-6) [Ladefoged, Peter](//en.wikipedia.org/wiki/Peter_Ladefoged ""Peter Ladefoged""); Johnson, Keith (2010).",,,0,weak,,general
+2433630,web_result,unknown_date,https://www.youtube.com/watch?v=dG3TqETZaq8,LEFT BEHIND - Full Game Walkthrough 4K | Psychological Horror Game,"### Description
+16697 views
+Posted: 25 Feb 2024
+LEFT BEHIND is a horror experience that revolves around the story of a man named Lucas, who is driven by his pride and desire for fame to seek out a legendary house that has eluded everyone who has tried to find it. This is full game Walkthrough on Ultra Setting. Share your thoughts, leave a comment also Subscribe. #leftbehind #IndieHorror #psychological 
+
+Full Game: [...] Full Game: 
+
+PS5 | PS4 PRO
+Xbox Series X|S
+Capture Card: elgato 4k60 S+ | Live Gamer 4K - GC573
+
+PC Specs:  
+CPU: Intel 14900K
+Motherboard: Asus Tuf Gaming X570-Pro (Wifi)
+Cooler: DeepCool Liquid Cooler LT720 360mm 4th Gen Dual-Chamber Pump
+Memory: Corsair Vengeance LPX Black 64GB DDR4 
+SSD: Samsung SSD 980 EVO NVMe M.2 (2TB)
+Graphics card: Zotac GeForce RTX 4080 16GB AMP Extreme AIRO
+Operating System: Windows 10 
+Monitor: LG 4K 32Inch [...] # LEFT BEHIND - Full Game Walkthrough 4K | Psychological Horror Game
+## Ultimate Gamerz
+474000 subscribers
+329 likes",,,0,weak,,general
+2433630,web_result,unknown_date,https://en.wikipedia.org/wiki/Left_Behind_(2014_film),Left Behind (2014 film) - Wikipedia,"# *Left Behind* (2014 film). * Deutsch ""Left Behind (2014) – German""). * Bahasa Indonesia ""Left Behind (film 2014) – Indonesian""). * Nederlands ""Left Behind (2014) – Dutch""). * Português ""Left Behind (2014) – Portuguese""). * Edit&action=edit ""Edit this page [e]""). For the 2000 adaptation of the same novel, see *Left Behind: The Movie*. | Based on | *Left Behind* by Tim LaHaye and Jerry B. ***Left Behind*** is a 2014 American Christian apocalyptic thriller film directed by Vic Armstrong and written by Paul LaLonde and John Patus. Based on the 1995 novel of the same name ""Left Behind (novel)"") written by Tim LaHaye and Jerry B. It is the second film adaptation of the first novel in the *Left Behind* series. *Left Behind* was released in theaters on October 3, 2014, by Freestyle Releasing. [edit&action=edit&section=1 ""Edit section: Plot"")]. Rayford shows up on his way to a flight and apologizes to Chloe for missing his birthday party, insisting he was called in to pilot a flight to London at the last minute.",,,0,weak,,general
+2433630,web_result,unknown_date,https://leftbehind.fandom.com/wiki/Left_Behind:_The_Movie,Left Behind: The Movie,"It was directed by Vic Sarin and was theatrically released on February 2, 2001. The film stars Kirk Cameron, Brad Johnson and Clarence Gilyard, Jr..",,,0,weak,,general
+2433630,web_result,unknown_date,https://en.wikipedia.org/wiki/Left_Behind,Left Behind - Wikipedia,"# *Left Behind*. Multimedia franchise based on the novels by Tim LaHaye and Jerry B. | ---  *The Rising ""The Rising (LaHaye novel)""), The Regime ""The Regime (novel)""), and The Rapture ""The Rapture (novel)"") (omitted here); Left Behind ""Left Behind (novel)""), Tribulation Force, Nicolae, Soul Harvest, Apollyon ""Apollyon (novel)""), Assassins ""Assassins (LaHaye novel)""), The Indwelling, The Mark ""The Mark (novel)""), Desecration ""Desecration (novel)""), The Remnant ""The Remnant (LaHaye novel)""), Armageddon ""Armageddon (novel)""), Glorious Appearing, and Kingdom Come* (Brazilian editions)  --- |. ***Left Behind*** is a multimedia franchise of apocalyptic fiction written by Tim LaHaye and Jerry B. This includes the rapture of Christian believers prior to a tumultuous seven-year period known as the Great Tribulation, the main conflict narrated by the original 12 books. The original series of three films are *Left Behind: The Movie* (2000), *Left Behind II: Tribulation Force* (2002), and *Left Behind: World at War* (2005). | 1 | 4 | *Left Behind ""Left Behind (novel)""): A Novel of the Earth's Last Days* | 1995 |.",,,0,weak,,general
+2433630,web_result,unknown_date,https://en.wikipedia.org/wiki/The,The - Wikipedia,"The is a grammatical article ""Article (grammar)"") in English, denoting nouns that are already or about to be mentioned, under discussion, implied or otherwise presumed familiar to listeners, readers, or speakers. It is the definite article in English. The is the most frequently used word in the English language; studies and analyses of texts have found it to account for seven percent of all printed English-language words. It is derived from gendered articles in Old English which combined in [...] For technical reasons ""Wikipedia:Naming conventions (technical restrictions)""), terms beginning with ""the #"" redirect here. For the band, see The #1s. For the political movement, see The #Resistance ""The Resistance (American political movement)""). For other uses, see The (disambiguation) ""The (disambiguation)"").
+
+Look up the in Wiktionary, the free dictionary.
+
+|  | [...] General
+
+ What links here
+ Related changes
+ Upload file
+ Permanent link
+ Page information
+ Cite this page
+ Get shortened URL
+ Switch to legacy parser
+
+Print/export
+
+ Download as PDF
+ Printable version
+
+In other projects
+
+ Wikidata item
+
+Appearance
+
+From Wikipedia, the free encyclopedia
+
+Definite article in English",,,0,weak,,general
+2433630,web_result,unknown_date,https://www.collinsdictionary.com/us/dictionary/english/the,THE definition in American English,"Already registered?Log in here
+
+Collins
+
+TRANSLATOR
+
+LANGUAGE
+
+English
+
+English Dictionary
+
+Thesaurus
+
+Word Lists
+
+Grammar
+
+English Easy Learning Grammar
+
+English Grammar in Spanish
+
+Grammar Patterns
+
+English Usage
+
+Teaching Resources
+
+Video Guides
+
+Conjugations
+
+Sentences
+
+Video
+
+Learn English
+
+Video pronunciations
+
+Build your vocabulary
+
+Quiz
+
+English grammar
+
+English collocations
+
+English confusables
+
+English idioms
+
+English images
+
+English usage
+
+English synonyms
+
+Thematic word lists [...] Do not Share or Sell my Personal Information Agree and Close
+
+Image 1- [x] - [x] 
+
+Image 2: Go to the homepage
+
+TRANSLATOR
+
+LANGUAGE
+
+GAMES
+
+SCHOOLS
+
+BLOG
+
+RESOURCES
+
+More
+
+- [x] 
+
+English Dictionary 
+
+- [x] 
+
+English 
+
+English Dictionary
+
+English Thesaurus
+
+English Word Lists
+
+COBUILD English Usage
+
+- [x] 
+
+English Grammar 
+
+Easy Learning Grammar
+
+COBUILD Grammar Patterns
+
+English Conjugations
+
+English Sentences
+
+- [x] 
+
+English ⇄ French 
+
+English-French Dictionary
+
+French-English Dictionary [...] French
+
+English to French
+
+French to English
+
+Grammar
+
+Pronunciation Guide
+
+Conjugations
+
+Sentences
+
+Video
+
+Build your vocabulary
+
+Quiz
+
+French confusables
+
+French images
+
+German
+
+English to German
+
+German to English
+
+Grammar
+
+Conjugations
+
+Sentences
+
+Video
+
+Build your vocabulary
+
+Quiz
+
+German confusables
+
+German images
+
+Italian
+
+English to Italian
+
+Italian to English
+
+Grammar
+
+Conjugations
+
+Sentences
+
+Video
+
+Build your vocabulary
+
+Quiz
+
+Italian confusables
+
+Italian images
+
+Spanish",,,0,weak,,general
+2433630,web_result,unknown_date,https://dictionary.cambridge.org/pronunciation/english/the,THE | Pronunciation in English - Cambridge Dictionary,"Your browser doesn't support HTML5 audio
+
+Your browser doesn't support HTML5 audio
+
+Your browser doesn't support HTML5 audio
+
+(English pronunciations of the from the Cambridge Advanced Learner's Dictionary & Thesaurus and from the Cambridge Academic Content Dictionary, both sources © Cambridge University Press)
+
+### Browse
+
+{{randomImageQuizHook.quizId}}
+{{randomImageQuizHook.quizId}}
+
+Word of the Day
+
+have egg on your face [...] Cambridge Dictionary
+Cambridge Dictionary Online
+
+# English pronunciation of the
+
+## the
+
+Your browser doesn't support HTML5 audio
+
+Your browser doesn't support HTML5 audio
+
+Your browser doesn't support HTML5 audio
+
+Your browser doesn't support HTML5 audio
+
+Your browser doesn't support HTML5 audio
+
+Your browser doesn't support HTML5 audio
+
+Your browser doesn't support HTML5 audio
+
+Your browser doesn't support HTML5 audio
+
+Your browser doesn't support HTML5 audio [...] If you have egg on your face, you look stupid because of something that you have done.
+
+Paws and claws (Words for parts of animals)
+
+Blog
+
+Paws and claws (Words for parts of animals)
+
+<p>engagement pod
+
+New Words
+
+engagement pod
+
+cdo logo
+cdo logo
+cdo logo
+cdo logo
+
+## Learn more with +Plus
+
+## Learn more with +Plus
+
+Cambridge Dictionary
+Cambridge Dictionary
+
+To add ${headword} to a word list please sign up or log in.
+
+Add ${headword} to one of your lists below, or create a new one.",,,0,weak,,general
+2433630,web_result,unknown_date,https://www.merriam-webster.com/dictionary/the,THE Definition & Meaning,";)
+
+Search
+
+Chatbot
+
+   Chatbot
+   Games
+   Word of the Day
+   Grammar
+   Word Finder
+   Slang
+   Newsletters
+   Wordplay
+   Rhymes
+   Thesaurus
+   Join MWU
+   More 
+       Games
+       Word of the Day
+       Grammar
+       Wordplay
+       Slang
+       Rhymes
+       Word Finder
+       Newsletters
+       Thesaurus
+       Join MWU
+       Shop
+       Books
+       Merch
+
+    
+           Log In
+           Username
+           My Words
+           Recents
+           Account
+           Log Out [...] Image 14Show moreImage 15
+   Show moreImage 16
+       Citation
+       Kids
+       More from M-W
+
+   Save WordImage 17
+       To save this word, you'll need to log in.Log In 
+
+# the
+
+1 of 4
+## definite article
+
+before consonants usually
+
+t͟hə"")
+
+before vowels usually t͟hē
+
+sometimes before vowels also t͟hə;
+
+for emphasis before titles and names or to suggest uniqueness often
+
+ˈt͟hē"")
+
+1
+
+a [...] 4
+
+—used as a function word before a noun or a substantivized adjective to refer to all people or things having a specified quality
+
+the elite [=those who are elite]
+
+the unhoused
+
+the British
+
+the living and the dead
+
+the
+
+2 of 4
+## adverb
+
+1
+
+:than before :than otherwise—used before a comparative
+
+none the wiser for attending
+
+Instead of quieting down, they talked all the louder.
+
+2
+
+a
+
+:to what extent
+
+the sooner the better
+
+The harder you work, the quicker you will finish.
+
+b",,,0,weak,,general
+2433630,web_result,unknown_date,https://en.wikipedia.org/wiki/Left_Behind:_The_Movie,Left Behind: The Movie - Wikipedia,"# *Left Behind: The Movie*. * Svenska ""Left Behind (film) – Swedish""). For the 2005 film directed by Craig R. Baxley, see Left Behind: World at War. For the 2014 film reboot, see Left Behind (2014 film) ""Left Behind (2014 film)""). | Based on | *Left Behind* by Tim LaHaye Jerry B. ***Left Behind: The Movie*** (billed on-screen as ***Left Behind***) is a 2000 Christian apocalyptic thriller film, based on the novel of the same name ""Left Behind (novel)"") by Tim LaHaye and Jerry B. The film was released first direct-to-video on October 31, 2000, followed by a theatrical release in February 2001. Despite this, the film managed to spawn two additional sequels based on the second novel in the series, *Tribulation Force* and *World at War*. The story shifts to pilot Rayford Steele, who has been asked to fly from New York City to London at short notice, causing him to miss his son Raymie's birthday party.",,,0,weak,,general
+2433630,web_result,unknown_date,https://warped-perspective.com/2014/12/review-left-behind-2014,Review: Left Behind (2014),"Dec 12, 2014 — Nicolas Cage's worst film. Left Behind has been billed on promotional materials as an 'apocalyptic thriller', it does deflect away slightly. In",,,0,weak,,general
+2433630,web_result,unknown_date,https://cbn.com/article/end-times/left-behind-movie-review,Left Behind: Movie Review | CBN,"From a critic's perspective, Left Behind also has its problems. The screenplay is somewhat clunky, and, at times, the music is disengaging.",,,0,weak,,general
+2433630,web_result,unknown_date,https://www.rogerebert.com/reviews/left-behind-2014,Left Behind movie review & film summary,"This is essentially an “Airport” movie with an Evangelical spin, but it lacks the self-awareness to turn such a wild concept into a guilty pleasure.Read more",,,0,weak,,general
+2433630,web_result,unknown_date,https://www.pluggedin.com/movie-reviews/leftbehindthemovie,Left Behind: The Movie,"It boasts a positive, yet challenging core message. It features zero sex scenes. No vulgarity. And a reserved—if sometimes intense—approach to violent events.Read more",,,0,weak,,general
+2433630,web_result,unknown_date,https://en.wikipedia.org/wiki/Left_Behind_(novel),Left Behind (novel) - Wikipedia,"| Reissue of Left Behind using original artwork |
+| Author | Tim LaHaye and Jerry B. Jenkins |
+| Cover artist | Westlight/H. Armstrong Roberts |
+| Language | English |
+| Series | Left Behind (series) ""Left Behind (series)"") |
+| Genre | Christian fiction, Apocalyptic fiction |
+| Publisher | Tyndale House Publishers |
+| Publication date | Sunday, December 31, 1995 |
+| Publication place | United States |
+| Media type | Print (Hardcover, Paperback; also made into Graphic novel and audiobook) | [...] 1995, U.S.: Tyndale House ISBN ""ISBN (identifier)"") 0-8423-2911-0, Pub. date December 31, 1995, Hardback
+ 1995, U.S.: Tyndale House ISBN ""ISBN (identifier)"") 0-8423-1675-2, Pub. date ? December 1995, Audio Cassette
+ 1999, U.S.: Tyndale House ISBN ""ISBN (identifier)"") 0-8423-2912-9, Pub. date ? February 1999, Paperback
+ 2000, U.S.: Chivers, Windsor, Paragon & Co ISBN ""ISBN (identifier)"") 0-7862-2468-1, Pub. date ? September 2000, Large Print [...] Chaim Rosenzweig – Israeli botanist and statesman who discovers a formula that makes Israeli deserts bloom; former Global Weekly Man of the Year.
+ Dirk Burton, Informant
+ Alan Tompkins, Scotland Yard detective
+ Steve Plank – publisher of the Global Weekly and old-school journalist; Cameron's boss.
+ Hattie Durham – Senior flight attendant for Pan-Continental Airlines.
+ Nicolae Carpathia – President of Romania
+ Stanton Bailey – Publisher of Global Weekly",,,0,weak,,general
+2433630,web_result,unknown_date,https://www.amazon.com/Left-Behind-Novel-Earths-Last/dp/0842329110,Left Behind: A Novel of the Earth's Last Days,"Book 1 of 13. Left Behind ; Print length. 320 pages ; Language. English ; Publisher. Tyndale House Publishers, Inc. ; Publication date. September 29, 1995.Read more",,,0,weak,,general
+2433630,web_result,unknown_date,https://en.wikipedia.org/wiki/The_Last_of_Us:_Left_Behind,The Last of Us: Left Behind,"| Developer | Naughty Dog |
+| Publisher | Sony Computer Entertainment |
+| Directors |  Bruce Straley  Neil Druckmann |
+| Designer | Jacob Minkoff |
+| Programmers |  Travis McIntosh  Jason Gregory |
+| Artist | Erick Pangilinan |
+| Writer | Neil Druckmann |
+| Composer | Gustavo Santaolalla |
+| Series | The Last of Us |
+| Platforms |  PlayStation 3  PlayStation 4 |
+| Release | PlayStation 3  WW: February 14, 2014 PlayStation 4  NA: July 29, 2014  PAL: July 30, 2014  UK: August 1, 2014 | [...] ## Development
+
+[edit]
+
+A 35-year-old man with curly black hair talking into a microphone, looking at something to the left of the camera.
+
+Creative director Neil Druckmann wrote the story for The Last of Us: Left Behind. [...] |  v  t  e  Naughty Dog |",,,0,weak,,general
+2433630,web_result,unknown_date,https://en.wikipedia.org/wiki/Left_Behind,Left Behind,"A video game, Left Behind: Eternal Forces, (2006) and its three sequels, Left Behind: Tribulation Forces, Left Behind 3: Rise of the Antichrist and Left Behind 4: World at War, were developed by a publicly traded company, Left Behind Games. The games are real-time strategy games wherein the player controls a ""Tribulation Forces"" team and allows the player to ""use the power of prayer to strengthen your troops in combat and wield modern military weaponry throughout the game world."" The original [...] Vanished – Left Behind: Next Generation, a spin-off film based on the spin-off series Left Behind: The Kids released on September 28, 2016. The film was developed by Tim LaHaye's grandson, Randy LaHaye and was well received by the book author. [...] 49. ↑ Grossman, Cathy Lynn (December 14, 2006). ""Critics blast 'Left Behind'"". USA Today. Archived from the original on August 31, 2010. Retrieved May 7, 2010.
+50. ↑ ""Left Behind: Eternal Forces – The Video Game"". Anti-Defamation League. December 19, 2006. Archived from the original on March 7, 2012.
+51. ↑ Butts, Steve (November 14, 2006). ""Left Behind: Eternal Forces Review"". IGN. Archived from the original on June 17, 2012. Retrieved October 27, 2007.",,,0,weak,,general

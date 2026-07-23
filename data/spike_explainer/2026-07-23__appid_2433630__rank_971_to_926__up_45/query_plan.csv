@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+2433630,The Left Behind,"""The Left Behind"" Steam",general,1,tavily,True,,5
+2433630,The Left Behind,"""The Left Behind"" trailer",general,1,tavily,True,,5
+2433630,The Left Behind,"""The Left Behind"" gameplay",general,1,tavily,True,,5
+2433630,The Left Behind,"""The Left Behind"" demo",general,1,tavily,True,,5
+2433630,The Left Behind,"""The Left Behind"" release date",general,1,tavily,True,,5
+2433630,The Left Behind,"""The Left Behind"" announcement",general,1,tavily,True,,5
+2433630,The Left Behind,"""The Left Behind"" preview",general,1,tavily,True,,5
+2433630,The Left Behind,"""The Left Behind"" review",general,1,tavily,True,,5
+2433630,The Left Behind,"""The Left Behind"" publisher",general,1,tavily,True,,5
+2433630,The Left Behind,"""The Left Behind"" developer",general,1,tavily,True,,5
+2433630,The Left Behind,"site:pcgamer.com ""The Left Behind""",press,2,tavily,False,General budget exhausted,0
+2433630,The Left Behind,"site:rockpapershotgun.com ""The Left Behind""",press,2,tavily,False,General budget exhausted,0
+2433630,The Left Behind,"site:ign.com ""The Left Behind""",press,2,tavily,False,General budget exhausted,0
+2433630,The Left Behind,"site:gamespot.com ""The Left Behind""",press,2,tavily,False,General budget exhausted,0
+2433630,The Left Behind,"site:game8.co ""The Left Behind""",press,2,tavily,False,General budget exhausted,0
+2433630,The Left Behind,"site:reddit.com ""The Left Behind""",social,3,tavily,True,,5
+2433630,The Left Behind,"site:tiktok.com ""The Left Behind""",social,4,tavily,True,,5
+2433630,The Left Behind,"site:instagram.com ""The Left Behind""",social,4,tavily,True,,5
+2433630,The Left Behind,"site:x.com ""The Left Behind""",social,4,tavily,True,,5
+2433630,The Left Behind,"site: ""The Left Behind""",social,4,tavily,True,,5

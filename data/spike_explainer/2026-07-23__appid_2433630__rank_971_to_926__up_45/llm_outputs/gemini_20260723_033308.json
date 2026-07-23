@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-23T03:33:08.683992+00:00",
+    "timestamp": "20260723_033308",
+    "input_file": "data/spike_explainer/2026-07-23__appid_2433630__rank_971_to_926__up_45/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-23__appid_2433630__rank_971_to_926__up_45/llm_outputs/gemini_20260723_033308.md",
+    "game_title": "The Left Behind",
+    "appid": "2433630",
+    "duration_sec": 19.34,
+    "response_length": 6434,
+    "error": null
+}
