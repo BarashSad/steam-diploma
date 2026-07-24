@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4964110,Darkest Dungeon®: The Fire's Edge,"""Darkest Dungeon®: The Fire's Edge"" Steam",general,1,tavily,True,,5
+4964110,Darkest Dungeon®: The Fire's Edge,"""Darkest Dungeon®: The Fire's Edge"" trailer",general,1,tavily,True,,5
+4964110,Darkest Dungeon®: The Fire's Edge,"""Darkest Dungeon®: The Fire's Edge"" gameplay",general,1,tavily,True,,5
+4964110,Darkest Dungeon®: The Fire's Edge,"""Darkest Dungeon®: The Fire's Edge"" demo",general,1,tavily,True,,5
+4964110,Darkest Dungeon®: The Fire's Edge,"""Darkest Dungeon®: The Fire's Edge"" release date",general,1,tavily,True,,5
+4964110,Darkest Dungeon®: The Fire's Edge,"""Darkest Dungeon®: The Fire's Edge"" announcement",general,1,tavily,True,,5
+4964110,Darkest Dungeon®: The Fire's Edge,"""Darkest Dungeon®: The Fire's Edge"" preview",general,1,tavily,True,,5
+4964110,Darkest Dungeon®: The Fire's Edge,"""Darkest Dungeon®: The Fire's Edge"" review",general,1,tavily,True,,5
+4964110,Darkest Dungeon®: The Fire's Edge,"""Darkest Dungeon®: The Fire's Edge"" publisher",general,1,tavily,True,,5
+4964110,Darkest Dungeon®: The Fire's Edge,"""Darkest Dungeon®: The Fire's Edge"" developer",general,1,tavily,True,,5
+4964110,Darkest Dungeon®: The Fire's Edge,"site:pcgamer.com ""Darkest Dungeon®: The Fire's Edge""",press,2,tavily,False,General budget exhausted,0
+4964110,Darkest Dungeon®: The Fire's Edge,"site:rockpapershotgun.com ""Darkest Dungeon®: The Fire's Edge""",press,2,tavily,False,General budget exhausted,0
+4964110,Darkest Dungeon®: The Fire's Edge,"site:ign.com ""Darkest Dungeon®: The Fire's Edge""",press,2,tavily,False,General budget exhausted,0
+4964110,Darkest Dungeon®: The Fire's Edge,"site:gamespot.com ""Darkest Dungeon®: The Fire's Edge""",press,2,tavily,False,General budget exhausted,0
+4964110,Darkest Dungeon®: The Fire's Edge,"site:game8.co ""Darkest Dungeon®: The Fire's Edge""",press,2,tavily,False,General budget exhausted,0
+4964110,Darkest Dungeon®: The Fire's Edge,"site:reddit.com ""Darkest Dungeon®: The Fire's Edge""",social,3,tavily,True,,5
+4964110,Darkest Dungeon®: The Fire's Edge,"site:tiktok.com ""Darkest Dungeon®: The Fire's Edge""",social,4,tavily,True,,4
+4964110,Darkest Dungeon®: The Fire's Edge,"site:instagram.com ""Darkest Dungeon®: The Fire's Edge""",social,4,tavily,True,,5
+4964110,Darkest Dungeon®: The Fire's Edge,"site:x.com ""Darkest Dungeon®: The Fire's Edge""",social,4,tavily,True,,5
+4964110,Darkest Dungeon®: The Fire's Edge,"site: ""Darkest Dungeon®: The Fire's Edge""",social,4,tavily,True,,5

@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-07-23T14:23:48.665947+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260723_141322/rank_changes.csv",
-    "selected_appid": "3825390",
-    "selected_game_title": "BLUE REFLECTION Quartet",
+    "started_at": "2026-07-24T03:26:33.911858+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260724_031749/rank_changes.csv",
+    "selected_appid": "4964110",
+    "selected_game_title": "Darkest Dungeon\u00ae: The Fire's Edge",
     "top_n": 1,
-    "old_snapshot_date": "2026-07-20",
-    "new_snapshot_date": "2026-07-23",
+    "old_snapshot_date": "2026-07-21",
+    "new_snapshot_date": "2026-07-24",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-23T14:23:48.665960+00:00",
+    "finished_at": "2026-07-24T03:26:33.911872+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

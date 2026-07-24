@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4964110,Darkest Dungeon®: The Fire's Edge,Darkest Dungeon®: The Fire's Edge,1124,1057,67,67,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 18, 2026","Aug 18, 2026",False
+2433630,The Left Behind,The Left Behind,900,860,40,40,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 27, 2026","Jul 27, 2026",False
+2810210,Codename CURE II,Codename CURE II,1134,1105,29,29,up,upward_spike,Free,Free,False,"Jul 24, 2026","Jul 24, 2026",False
+2939790,Lunarium,Lunarium,934,914,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 28, 2026","Jul 28, 2026",False
