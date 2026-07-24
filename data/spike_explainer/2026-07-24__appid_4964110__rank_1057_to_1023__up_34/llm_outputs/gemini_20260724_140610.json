@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-24T14:06:10.073824+00:00",
+    "timestamp": "20260724_140610",
+    "input_file": "data/spike_explainer/2026-07-24__appid_4964110__rank_1057_to_1023__up_34/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-24__appid_4964110__rank_1057_to_1023__up_34/llm_outputs/gemini_20260724_140610.md",
+    "game_title": "Darkest Dungeon\u00ae: The Fire's Edge",
+    "appid": "4964110",
+    "duration_sec": 26.15,
+    "response_length": 6936,
+    "error": null
+}
