@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-07-25T03:26:30.917950+00:00,881940,Guns 'n Goblins,data/spike_explainer/2026-07-25__appid_881940__rank_1120_to_1070__up_50,50,85,data/spike_explainer/2026-07-25__appid_881940__rank_1120_to_1070__up_50/llm_summary_input.md
+2026-07-25T13:55:51.666605+00:00,881940,Guns 'n Goblins,data/spike_explainer/2026-07-25__appid_881940__rank_1070_to_1020__up_50,50,85,data/spike_explainer/2026-07-25__appid_881940__rank_1070_to_1020__up_50/llm_summary_input.md

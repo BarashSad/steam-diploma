@@ -1,0 +1,497 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+881940,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=MyNgPkBHx4Y,They Want Your Castle But You Have GUNS (Guns &#39;n Goblins Gameplay),,"Let's Play Guns 'n Goblins Gameplay! Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level ...",gameplay,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+881940,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=MyNgPkBHx4Y,They Want Your Castle But You Have GUNS (Guns &#39;n Goblins Gameplay),,"Let's Play Guns 'n Goblins Gameplay! Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level ...",gameplay,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+881940,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=q0e35aZMm0M,I Need More Incremental Base Defense Games! - Guns &#39;n Goblins [Sponsored],,Try Guns 'n Goblins: https://store.steampowered.com/app/881940/Guns_n_Goblins/ Face a deluge of monsters in this incremental ...,,65,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20),
+881940,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=Iv5j2ptgqtQ,Guns &#39;n Goblins | Demo gameplay | A Suspiciously low amount of goblins,,"steam, #indiegame, #demo https://store.steampowered.com/app/4671750/Guns_n_Goblins_Demo/","gameplay, demo",65,strong,"Inside spike window (+30); YouTube (+15); Keywords ['gameplay', 'demo'] (+20)",
+881940,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=SIaUy2pi3RE,Их ТЫСЯЧИ! ⨀ Показываю игру Guns &#39;n Goblins,,"Игра прям таки сказка, но сама демка отстой полнейший. Очень обрезанная Guns 'n Goblins: ...",,65,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20),
+881940,youtube_video,outside_window,https://www.youtube.com/watch?v=O47eBvpYFOc,Guns &#39;n Goblins - Official Reveal Trailer,,"Take a look at the Reveal Trailer for Guns 'n Goblins, a horde-based survival first-person shooter developed by Soulgame and ...",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+881940,youtube_video,outside_window,https://www.youtube.com/watch?v=sJU1vJsGgnQ,Guns &#39;n Goblins - Official Reveal Trailer,,"Take a look at the Reveal Trailer for Guns 'n Goblins, a horde-based survival first-person shooter developed by Soulgame and ...",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+881940,youtube_video,outside_window,https://www.youtube.com/watch?v=O47eBvpYFOc,Guns &#39;n Goblins - Official Reveal Trailer,,"Take a look at the Reveal Trailer for Guns 'n Goblins, a horde-based survival first-person shooter developed by Soulgame and ...",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+881940,youtube_video,outside_window,https://www.youtube.com/watch?v=sJU1vJsGgnQ,Guns &#39;n Goblins - Official Reveal Trailer,,"Take a look at the Reveal Trailer for Guns 'n Goblins, a horde-based survival first-person shooter developed by Soulgame and ...",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+881940,reddit_discussion,unknown_date,https://www.reddit.com/r/Tekkens/comments/1stw9iw/guns_n_goblins_official_reveal_trailer,Guns 'n Goblins – Official Reveal Trailer : r/Tekkens,Guns 'n Goblins – Official Reveal Trailer. r/Tekkens - Guns 'n Goblins – Official Reveal Trailer. 247videogame.com,,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,reddit_discussion,unknown_date,https://www.reddit.com/r/UpGameShop/comments/1stvzqq/upgameshopcom_guns_n_goblins_official_reveal,Guns 'n Goblins – Official Reveal Trailer : r/UpGameShop,"Guns 'n Goblins – Official Reveal Trailer. With the addition of COD Vanguard to Gamepass, here are some guns I was able to create.",,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),social
+881940,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=fp3xeyCUi7E,THIS SOULS FPS GAME IS FANTASTIC | Guns &#39;n Goblins Demo,,,demo,50,medium,Inside extended window (+15); YouTube (+15); Keywords ['demo'] (+20),
+881940,social_post,unknown_date,https://x.com/playtesterhq/status/2080686404389289991,"Playtester on X: ""https://t.co/0UhCNvIvdA by @Lancestudio @SoulGameStudio"" / X","## Post. An indie game where you ring a bell to summon bigger monster hordes. - Ring the bell to lure swarms - Level up stats and passive perks - Unlock and upgrade new weapons Try the demo. Game is called Guns 'n Goblins ↓ #indiedev #indiegame. playtester.io/guns-n-goblins by @Lancestudio @SoulGameStudio. Guns 'n Goblins: Red-caped gunman firing rifle at snarling goblins and monsters under a full moon at night. Guns 'n Goblins Demo on PlaytesterFrom playtester.io. 4:07 PM · Jul 24, 202634Views. Don't miss what's happening. People on X are the first to know. ## New to X? Sign up now to get your own personalized timeline! By signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use. ## Trending now.",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+881940,social_post,unknown_date,https://x.com/JFGamesPR/status/2080653294943265229,"JF Games - PR & Marketing for Videogames on X: ""The Guns 'n Goblins demo is now available on Steam, allowing players to check out the new incremental horde-based survivor FPS for the first time. The title is in development by Séverin Larose, Minishoot’ Adventures (Metacritic: 87) game designer and co-founder of @SoulGameStudio, and developer Lance. Players will have to face hordes of enemies to defend their castle while pushing their limits to earn greater rewards. Nothing is lost in death; instead, each death makes the character stronger, allowing them to reach even deadlier heights. We are working on the influencer campaign for Western markets, so if you are a #contentcreator interested in covering it, feel free to send us a DM. #indiegames #fps #action #rpg #survival #idler #medieval #retro #pc #steam"" / X","The Guns 'n Goblins demo is now available on Steam, allowing players to check out the new incremental horde-based survivor FPS for the first time. The title is in development by Séverin Larose, Minishoot’ Adventures (Metacritic: 87) game designer and co-founder of @SoulGameStudio, and developer Lance. Players will have to face hordes of enemies to defend their castle while pushing their limits to earn greater rewards. Nothing is lost in death; instead, each death makes the character stronger, allowing them to reach even deadlier heights. We are working on the influencer campaign for Western markets, so if you are a #contentcreator interested in covering it, feel free to send us a DM. #indiegames #fps #action #rpg #survival #idler #medieval #retro #pc #steam. People on X are the first to know. ## New to X? Sign up now to get your own personalized timeline! By signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use. ## Trending now.",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+881940,social_post,unknown_date,https://x.com/nickjcal,Nick Calandra (@nickjcal) / Posts / X,"The Guns 'n Goblins demo is now available on Steam, allowing players to check out the new incremental horde-based survivor FPS for the first time. The title",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+881940,social_post,unknown_date,https://x.com/Lancestudio,Lance (@Lancestudio) / X,"Currently working on Guns 'n Goblins. Don't miss what's happening. People on X are the first to know. ## New to X? Sign up now to get your own personalized timeline! By signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use. Happy to annonce our new game Guns N Gobelins 😊 - In collaboration with @SoulGameStudio. Guns 'n Goblins - Official Reveal TrailerFrom youtube.com. We are nominated for the Pegases award 🤩. Académie des Arts et Techniques du Jeu Vidéo. Here are the nominees for the Best First Game of the 4th edition of the Pégases ceremony #Pegases2023: Stray de Bluetwelve Studio et @A\_i / @OndeGame de @Grhyll (3-50) / @timeriftgame de @AbidingBridge et Lightshards. ♾ Our video game Onde comes out tomorrow !!! 🔥🔥 More than ever give us your support and add Onde to your wishlist on Steam 🙏🙏🙏 #whishlistwednesday #indiedev #gamedev ⬇️⬇️⬇️ store.steampowered.com/app/1676910/On…. Les mecs stylés @MaxxxDo @Kekeflipnote #FuManchu @ErmiteModerne Peut être à une prochaine au @TGSTOULOUSE :p.",,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+881940,social_post,unknown_date,https://www.ign.com/games/guns-n-goblins,Guns 'n Goblins,"# Guns 'n Goblins. ### Images & Screenshots. ### Summary. Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal to rise from Apprentice Bell Ringer to Master Dragon Hunter. Action, RPG, Shooter, First-Person. ## Guns 'n Goblins News. Guns 'n Goblins - Official Reveal Trailer. Apr 23, 2026- A horde-based survival first-person shooter coming soon to PC.",,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+881940,social_post,unknown_date,https://www.youtube.com/watch?v=sJU1vJsGgnQ,Guns 'n Goblins - Official Reveal Trailer,"Guns 'n Goblins - Official Reveal Trailer
+GameTrailers
+1310000 subscribers
+4913 likes
+101839 views
+23 Apr 2026
+Take a look at the Reveal Trailer for Guns 'n Goblins, a horde-based survival first-person shooter developed by Soulgame and Lance. Players will take on waves of enemies to defend the coveted castle from being destroyed. Level up, attain upgrades, and take down dragons in Guns 'n Goblins, coming soon to PC (Steam).
+
+#GunsNGoblins #Gaming #IGN
+274 comments
+",,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+881940,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=TYGJBqJI0lY,I killed everything to defend my tower,,"It's a simple and fun game today - it's all about GUNS 'N' GOBLINS and defending my tower!! We're getting bigger guns, buying ...",,45,medium,Inside spike window (+30); YouTube (+15),
+881940,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1833334318568495,Blow up thousands of monsters in the horde-based survivor FPS Guns 'n Goblins,,Love the idea of powering up yourself to the max while annihilating thousands of monsters? The first-person bullet heaven shooter Guns 'n Goblins is for you. Read the full article here: https://www.gamingonlinux.com/2026/05/blow-up-thousands-of-monsters-in-the-horde-based-survivor-fps-guns-n-goblins,,40,medium,Official Steam News (+20); Exact title match (+20),
+881940,web_result,unknown_date,https://store.steampowered.com/app/4671750/Guns_n_Goblins_Demo?snr=1_300_morelikev2__105_1,Guns 'n Goblins Demo on Steam,"Link to the Steam Homepage. Sign in to add this item to your wishlist, follow it, or mark it as ignored. ## About This Demo. ## **YOU ARE THE LAST BELL RINGER**. *Long ago, a king constructed the Bell Bastions to draw these hordes away from the defenseless.*. *And this is your first night.”*. **Control the horde:** Ring the bell as often as you dare to call a deluge of monsters. **Restore a Bell Bastion** that has fallen into ruins. ## Customer reviews for Guns 'n Goblins Demo About user reviews Your preferences. You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam. Enter up to 375 characters to add a description to your widget:. Copy and paste the HTML below into your website to make the above widget appear. ## Sign In. Sign in to add your own tags to this product.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=O47eBvpYFOc,Guns 'n Goblins - Official Reveal Trailer,"Guns 'n Goblins - Official Reveal Trailer
+IGN
+19900000 subscribers
+5361 likes
+217944 views
+23 Apr 2026
+Take a look at the Reveal Trailer for Guns 'n Goblins, a horde-based survival first-person shooter developed by Soulgame and Lance. Players will take on waves of enemies to defend the coveted castle from being destroyed. Level up, attain upgrades, and take down dragons in Guns 'n Goblins, coming soon to PC (Steam).
+
+#GunsNGoblins #Gaming #IGN
+285 comments
+",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=sJU1vJsGgnQ,Guns 'n Goblins - Official Reveal Trailer,"Guns 'n Goblins - Official Reveal Trailer
+GameTrailers
+1310000 subscribers
+4913 likes
+101839 views
+23 Apr 2026
+Take a look at the Reveal Trailer for Guns 'n Goblins, a horde-based survival first-person shooter developed by Soulgame and Lance. Players will take on waves of enemies to defend the coveted castle from being destroyed. Level up, attain upgrades, and take down dragons in Guns 'n Goblins, coming soon to PC (Steam).
+
+#GunsNGoblins #Gaming #IGN
+274 comments
+",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.ign.com/games/guns-n-goblins,Guns 'n Goblins - IGN,"# Guns 'n Goblins. ### Images & Screenshots. ### Summary. Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal to rise from Apprentice Bell Ringer to Master Dragon Hunter. Action, RPG, Shooter, First-Person. ## Guns 'n Goblins News. Guns 'n Goblins - Official Reveal Trailer. Apr 23, 2026- A horde-based survival first-person shooter coming soon to PC.",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=R0AoYWfBqrc,Guns 'n Goblins - Reveal Trailer,Guns 'n Goblins is an incremental horde-based survivor FPS where players will blow up monsters by the thousands with the only mission to defend,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.msn.com/en-us/tv/news/guns-n-goblins-official-reveal-trailer/vi-AA24l4Yq,Guns 'n Goblins official reveal trailer | Watch,"Guns 'n Goblins official reveal trailer Posted: May 29, 2026 … has shared a series of videos and images that appear to show the new US strikes",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://gamedaily.com/news/guns-n-goblins-gameplay-and-release-details-for-this-horde-survivor-fps,Guns 'n Goblins Gameplay And Release Details For This ...,"Apr 26, 2026 — Guns 'n Goblins is a hybrid action game that combines first-person shooting with incremental progression systems and base management.",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+881940,web_result,unknown_date,https://www.ign.com/games/guns-n-goblins,Guns 'n Goblins,"# Guns 'n Goblins. ### Images & Screenshots. ### Summary. Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal to rise from Apprentice Bell Ringer to Master Dragon Hunter. Action, RPG, Shooter, First-Person. ## Guns 'n Goblins News. Guns 'n Goblins - Official Reveal Trailer. Apr 23, 2026- A horde-based survival first-person shooter coming soon to PC.",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=LA-6BNy3KCk,Guns 'n Goblins - Reveal Trailer,"Guns 'n Goblins - Reveal Trailer
+Netto's Game Room
+163 subscribers
+1 likes
+63 views
+24 Apr 2026
+In development for PC, the game is an incremental horde-based survivor FPS where players will blow up monsters by the thousands with the only mission to defend their castle. As the swarms grow crazier, players will level up and upgrade their arsenal from a simple gun to devastating weapons capable of taking down dragons!
+
+Learn more:
+https://www.nettosgameroom.com/2026/04/1-versus-10000-shooter-guns-n-goblins.html
+
+Netto's Game Room:
+Check out Netto's Game Room for daily video game news updates, reviews, interviews with developers, and more original content! Gaming is our forte!
+
+Website: http://www.nettosgameroom.com
+Facebook: https://www.facebook.com/NettosGameRoom
+X: https://x.com/NettosGameRoom
+Tumblr: http://tumblr.nettosgameroom.com/
+Flipboard: https://flipboard.com/@NettosGameRoom
+Pinterest: https://www.pinterest.com/nettosgameroom/
+Discord: https://discord.com/invite/6TKzcb3WxS
+
+",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=jo9nRhNxwg8,Guns 'n Goblins - Official Reveal Trailer,"Guns 'n Goblins - Official Reveal Trailer
+Game Trailers | Games Explorer
+673 subscribers
+2 likes
+18 views
+24 Apr 2026
+Take a look at the Official Reveal Trailer for Guns 'n Goblins, an action-packed incremental horde survivor FPS where relentless waves of monsters test your skill and strategy. Build and defend your Bastion, level up your character, and upgrade your arsenal as you fight to survive. Grow stronger with each run, unlock powerful upgrades, and rise through the ranks from Apprentice Bell Ringer to Master Dragon Hunter in this fast-paced and addictive shooter experience.
+
+👉 Add to your wishlist on Steam: https://store.steampowered.com/app/881940/Guns_n_Goblins/
+🎮 More Content and More Games to Play: https://beacons.ai/explorer.games
+
+#GunsNGoblins #FPS #HordeSurvivor
+
+",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://steamdb.info/app/4671750/charts,Steam charts - Guns 'n Goblins Demo,"Demo is currently 93 players live. Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=Ccf10_uqZxM,[Demo] Guns 'n Goblins - First Person Shooter Incremental ...,"Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal [Demo]",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+881940,web_result,unknown_date,https://playtester.io/guns-n-goblins,Guns 'n Goblins Demo on Playtester,UNLEASH YOUR FIREPOWER · Level up to max out your stats and passive perks · Unlock new weapons and upgrade them to reach even deadlier heights.,,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=sJU1vJsGgnQ,Guns 'n Goblins - Official Reveal Trailer,"Guns 'n Goblins - Official Reveal Trailer
+GameTrailers
+1310000 subscribers
+4913 likes
+101839 views
+23 Apr 2026
+Take a look at the Reveal Trailer for Guns 'n Goblins, a horde-based survival first-person shooter developed by Soulgame and Lance. Players will take on waves of enemies to defend the coveted castle from being destroyed. Level up, attain upgrades, and take down dragons in Guns 'n Goblins, coming soon to PC (Steam).
+
+#GunsNGoblins #Gaming #IGN
+274 comments
+",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=M0DgaW7eF0g,Guns 'n Goblins - Official Announcement Trailer,"Guns 'n Goblins - Official Announcement Trailer
+Indie Games Hub
+157000 subscribers
+388 likes
+10719 views
+23 Apr 2026
+Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal to rise from Apprentice Bell Ringer to Master Dragon Hunter. 
+
+Wishlist on Steam: https://store.steampowered.com/app/881940/Guns_n_Goblins/
+
+Developer: Lance, Argl
+17 comments
+",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+881940,web_result,unknown_date,https://steamdb.info/app/881940,Guns 'n Goblins,Release Date 2027 Face a deluge of monsters in this incremental horde survivor FPS. Store Release Date 2027 osarch 64,,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+881940,web_result,unknown_date,https://gamedaily.com/news/guns-n-goblins-gameplay-and-release-details-for-this-horde-survivor-fps,Guns 'n Goblins Gameplay And Release Details For This ...,"the game is currently in development for PC via Steam, with a planned release window set for 2026.",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+881940,web_result,unknown_date,https://www.ign.com/games/guns-n-goblins,Guns 'n Goblins,"# Guns 'n Goblins. ### Images & Screenshots. ### Summary. Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal to rise from Apprentice Bell Ringer to Master Dragon Hunter. Action, RPG, Shooter, First-Person. ## Guns 'n Goblins News. Guns 'n Goblins - Official Reveal Trailer. Apr 23, 2026- A horde-based survival first-person shooter coming soon to PC.",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.ign.com/games/guns-n-goblins,Guns 'n Goblins,"# Guns 'n Goblins. ### Images & Screenshots. ### Summary. Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal to rise from Apprentice Bell Ringer to Master Dragon Hunter. Action, RPG, Shooter, First-Person. ## Guns 'n Goblins News. Guns 'n Goblins - Official Reveal Trailer. Apr 23, 2026- A horde-based survival first-person shooter coming soon to PC.",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=O47eBvpYFOc,Guns 'n Goblins - Official Reveal Trailer,"Guns 'n Goblins - Official Reveal Trailer
+IGN
+19900000 subscribers
+5361 likes
+217944 views
+23 Apr 2026
+Take a look at the Reveal Trailer for Guns 'n Goblins, a horde-based survival first-person shooter developed by Soulgame and Lance. Players will take on waves of enemies to defend the coveted castle from being destroyed. Level up, attain upgrades, and take down dragons in Guns 'n Goblins, coming soon to PC (Steam).
+
+#GunsNGoblins #Gaming #IGN
+285 comments
+",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=LA-6BNy3KCk,Guns 'n Goblins - Reveal Trailer,"Guns 'n Goblins - Reveal Trailer
+Netto's Game Room
+163 subscribers
+1 likes
+63 views
+24 Apr 2026
+In development for PC, the game is an incremental horde-based survivor FPS where players will blow up monsters by the thousands with the only mission to defend their castle. As the swarms grow crazier, players will level up and upgrade their arsenal from a simple gun to devastating weapons capable of taking down dragons!
+
+Learn more:
+https://www.nettosgameroom.com/2026/04/1-versus-10000-shooter-guns-n-goblins.html
+
+Netto's Game Room:
+Check out Netto's Game Room for daily video game news updates, reviews, interviews with developers, and more original content! Gaming is our forte!
+
+Website: http://www.nettosgameroom.com
+Facebook: https://www.facebook.com/NettosGameRoom
+X: https://x.com/NettosGameRoom
+Tumblr: http://tumblr.nettosgameroom.com/
+Flipboard: https://flipboard.com/@NettosGameRoom
+Pinterest: https://www.pinterest.com/nettosgameroom/
+Discord: https://discord.com/invite/6TKzcb3WxS
+
+",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.threads.com/@wario64/post/DXfOhRUAWsQ/guns-n-goblins-reveal-trailer-incremental-horde-survivor-fps-coming-on-steam,"Guns 'n Goblins - Reveal Trailer (incremental horde survivor FPS coming 2026 on Steam) https://www.youtube.com/watch?v=ioE4xzSRrp4 https://store.steampowered.com/app/881940/Guns_n_Goblins/ 'This game is a collaboration between Lance (Onde) and Argl from SoulGame Studio (Minishoot' Adventures, Swords & Souls series).'","# Thread. Guns 'n Goblins - Reveal Trailer (incremental horde survivor FPS coming 2026 on Steam) youtube.com/watch…. store.steampowered.com/app/8…. 'This game is a collaboration between Lance (Onde) and Argl from SoulGame Studio (Minishoot' Adventures, Swords & Souls series).'.",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=jo9nRhNxwg8,Guns 'n Goblins - Official Reveal Trailer,"Posted: 24 Apr 2026
+Take a look at the Official Reveal Trailer for Guns 'n Goblins, an action-packed incremental horde survivor FPS where relentless waves of monsters test your skill and strategy. Build and defend your Bastion, level up your character, and upgrade your arsenal as you fight to survive. Grow stronger with each run, unlock powerful upgrades, and rise through the ranks from Apprentice Bell Ringer to Master Dragon Hunter in this fast-paced and addictive shooter experience. [...] # Guns 'n Goblins - Official Reveal Trailer
+## Game Trailers | Games Explorer
+673 subscribers
+2 likes [...] 👉 Add to your wishlist on Steam: 
+🎮 More Content and More Games to Play: 
+
+#GunsNGoblins #FPS #HordeSurvivor
+
+### Transcript:",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=sJU1vJsGgnQ,Guns 'n Goblins - Official Reveal Trailer,"# Guns 'n Goblins - Official Reveal Trailer
+## GameTrailers
+1310000 subscribers
+4913 likes
+
+### Description
+101839 views
+Posted: 23 Apr 2026
+Take a look at the Reveal Trailer for Guns 'n Goblins, a horde-based survival first-person shooter developed by Soulgame and Lance. Players will take on waves of enemies to defend the coveted castle from being destroyed. Level up, attain upgrades, and take down dragons in Guns 'n Goblins, coming soon to PC (Steam).
+
+#GunsNGoblins #Gaming #IGN [...] 274 comments
+### Transcript:",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=LA-6BNy3KCk,Guns 'n Goblins - Reveal Trailer,"# Guns 'n Goblins - Reveal Trailer
+## Netto's Game Room
+163 subscribers
+1 likes
+
+### Description
+63 views
+Posted: 24 Apr 2026
+In development for PC, the game is an incremental horde-based survivor FPS where players will blow up monsters by the thousands with the only mission to defend their castle. As the swarms grow crazier, players will level up and upgrade their arsenal from a simple gun to devastating weapons capable of taking down dragons!
+
+Learn more: [...] Learn more:
+
+Netto's Game Room:
+Check out Netto's Game Room for daily video game news updates, reviews, interviews with developers, and more original content! Gaming is our forte!
+
+Website: 
+Facebook: 
+X: 
+Tumblr: 
+Flipboard: 
+Pinterest: 
+Discord: 
+
+### Transcript:",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=M0DgaW7eF0g,Guns 'n Goblins - Official Announcement Trailer,"# Guns 'n Goblins - Official Announcement Trailer
+## Indie Games Hub
+157000 subscribers
+388 likes
+
+### Description
+10719 views
+Posted: 23 Apr 2026
+Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal to rise from Apprentice Bell Ringer to Master Dragon Hunter. 
+
+Wishlist on Steam: 
+
+Developer: Lance, Argl
+
+17 comments
+### Transcript:",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+881940,web_result,unknown_date,https://www.gamespress.com/Guns-n-Goblins---A-New-Incremental-Horde-Based-Survivor-FPS-Where-Your,"""Guns 'n Goblins - A New Incremental Horde-Based ...","April 24, 2026. Toulouse, France – French independent developers Lance joined forces with Minishoot' Adventures game designer Séverin Larose to present Guns 'n Goblins (teaser, Steam). In development for PC, the game is an incremental horde-based survivor FPS where players will blow up monsters by the thousands with the only mission to defend their castle. As the swarms grow crazier, players will level up and upgrade their arsenal from a simple gun to devastating weapons capable of taking down [...] Unlock new weapons to grow your arsenal and reveal their potential at higher tier.
+
+ Level up your character to gain stats and life changing skills perks.
+
+ Meet a cast of colorful and shady characters that will help improve your cozy bastion.
+
+ Enjoy fruitful runs and permanent progression where nothing is lost on death.
+
+Media Assets:
+
+ Announcement teaser.
+ Steam page.
+
+  
+   
+ About the developers  
+   
+   
+ Soulgame x Lance [...] The Story  
+   
+
+“With every rising moon, tides of monsters wash over the land.
+
+Long ago, a king constructed the Bell Bastions to draw these hordes away from the defenseless.
+
+That kingdom has since fallen to ruin, but one single Bastion still stands.
+
+You are the last Bell Ringer.
+
+And this is your first night.”
+
+  
+   
+ MAIN FEATURES  
+   
+
+ Try to survive waves of monsters with thousands of units on screen.
+
+ Dictate the pacing by ringing the bell to call even more monsters at once.",,announcement,40,medium,Exact title match (+20); Keywords ['announcement'] (+20),general
+881940,web_result,unknown_date,https://www.ign.com/games/guns-n-goblins,Guns 'n Goblins,"# Guns 'n Goblins. ### Images & Screenshots. ### Summary. Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal to rise from Apprentice Bell Ringer to Master Dragon Hunter. Action, RPG, Shooter, First-Person. ## Guns 'n Goblins News. Guns 'n Goblins - Official Reveal Trailer. Apr 23, 2026- A horde-based survival first-person shooter coming soon to PC.",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://store.steampowered.com/app/881940/Guns_n_Goblins,Guns 'n Goblins,"All Games > Action Games > Guns 'n Goblins
+
+Community Hub
+
+Guns 'n Goblins
+
+Guns 'n Goblins
+
+Guns 'n Goblins
+
+Developer
+
+Lance, Argl
+
+Publisher
+
+SoulGame
+
+Release
+
+2027
+
+Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal to rise from Apprentice Bell Ringer to Master Dragon Hunter.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+2027
+
+Developer:
+
+Lance, Argl
+
+Publisher:
+
+SoulGame
+
+Tags [...] Title: Guns 'n Goblins  
+ Genre: Action, Indie, RPG  
+
+Developer: Lance, Argl
+
+Publisher: SoulGame
+
+Release Date: 2027
+
+View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Ratings
+
+Rating Pending
+
+Age rating for: Coordenação de Classificação Indicativa
+
+Links & info
+
+This game is not yet available on Steam
+
+# Planned Release Date: 2027
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub [...] Sign in   Store 
+
+Home   Discovery Queue   Wishlist   Points Shop   News   Charts
+
+ Community 
+
+Home   Discussions   Workshop   Market   Broadcasts
+
+ About   Support 
+
+Change language
+
+Get the Steam Mobile App
+
+View desktop website
+
+© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.  Privacy Policy  |  Legal  |  Accessibility  |  Steam Subscriber Agreement  |  Refunds  |  Cookies
+
+STEAM
+
+Link to the Steam Homepage",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+881940,web_result,unknown_date,https://www.ign.com/games/guns-n-goblins,Guns 'n Goblins,"# Guns 'n Goblins
+
+Lance, +1 more
+
+•
+
+Initial Release: TBA 2026
+
+•PC
+
+NR
+
+IGN Rating
+
+OverviewPlaylistsReviews
+
+### Images & Screenshots
+
+### Summary
+
+Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal to rise from Apprentice Bell Ringer to Master Dragon Hunter.
+
+Developers
+
+Lance, Argl
+
+Publishers
+
+SoulGame
+
+Initial Release
+
+TBA 2026
+
+Platforms
+
+PC
+
+Genres
+
+Action, RPG, Shooter, First-Person [...] ## Guns 'n Goblins News
+
+Videos
+
+Apr 23, 2026
+
+Guns 'n Goblins - Official Reveal Trailer
+
+Apr 23, 2026- A horde-based survival first-person shooter coming soon to PC.",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=sJU1vJsGgnQ,Guns 'n Goblins - Official Reveal Trailer,"# Guns 'n Goblins - Official Reveal Trailer
+## GameTrailers
+1310000 subscribers
+4913 likes
+
+### Description
+101839 views
+Posted: 23 Apr 2026
+Take a look at the Reveal Trailer for Guns 'n Goblins, a horde-based survival first-person shooter developed by Soulgame and Lance. Players will take on waves of enemies to defend the coveted castle from being destroyed. Level up, attain upgrades, and take down dragons in Guns 'n Goblins, coming soon to PC (Steam).
+
+#GunsNGoblins #Gaming #IGN",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,web_result,unknown_date,https://www.youtube.com/watch?v=sJU1vJsGgnQ,Guns 'n Goblins - Official Reveal Trailer,"Guns 'n Goblins - Official Reveal Trailer
+GameTrailers
+1310000 subscribers
+4913 likes
+101839 views
+23 Apr 2026
+Take a look at the Reveal Trailer for Guns 'n Goblins, a horde-based survival first-person shooter developed by Soulgame and Lance. Players will take on waves of enemies to defend the coveted castle from being destroyed. Level up, attain upgrades, and take down dragons in Guns 'n Goblins, coming soon to PC (Steam).
+
+#GunsNGoblins #Gaming #IGN
+274 comments
+",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+881940,youtube_video,outside_window,https://www.youtube.com/watch?v=jwEaG4DLtio,Guns &#39;n Goblins - Official Announcement Trailer,,"Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your ...","trailer, announcement",35,medium,"YouTube (+15); Keywords ['trailer', 'announcement'] (+20)",
+881940,youtube_video,outside_window,https://www.youtube.com/watch?v=M0DgaW7eF0g,Guns &#39;n Goblins - Official Announcement Trailer,,"Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your ...","trailer, announcement",35,medium,"YouTube (+15); Keywords ['trailer', 'announcement'] (+20)",
+881940,youtube_video,outside_window,https://www.youtube.com/watch?v=F177-VTSGSM,Ghosts ‘n Goblins Resurrection – Announcement Trailer – Nintendo Switch,,The beloved Ghosts 'n Goblins series from Capcom makes a comeback on Nintendo Switch! Armor up as Arthur for an all-new ...,"trailer, announcement",35,medium,"YouTube (+15); Keywords ['trailer', 'announcement'] (+20)",
+881940,youtube_video,outside_window,https://www.youtube.com/watch?v=jwEaG4DLtio,Guns &#39;n Goblins - Official Announcement Trailer,,"Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your ...","trailer, announcement",35,medium,"YouTube (+15); Keywords ['trailer', 'announcement'] (+20)",
+881940,reddit_discussion,unknown_date,https://www.reddit.com/r/NettosGameRoom/comments/1suff90/1_versus_10000_shooter_guns_n_goblins_announced,1 Versus 10000 Shooter 'Guns 'n Goblins' Announced For PC,"The unofficial subreddit for enthusiasts of Fazbear Entertainment, a Utah-based company who owns a chain of pizzatainment restaurants with animatronic",,,30,weak,Reddit (+10); Exact title match (+20),social
+881940,social_post,unknown_date,https://www.tiktok.com/tag/goblinhordeextinction,goblinhordeextinction,"Guns 'n Goblins is a new incremental horde-based survivor FPS from Séverin Larose, Minishoot' Adventures (Metacritic: 87) game designer and co-founder of",,,25,weak,Social Index (+5); Exact title match (+20),social
+881940,social_post,unknown_date,https://www.instagram.com/p/DbEOGixjXAU,Goblin Company drops players into a fully destructible ...,"“Guns 'n Goblins” is a retro horde survivor FPS where you decide how many monsters to fight by ringing a massive bell. Survive the waves,",,,25,weak,Social Index (+5); Exact title match (+20),social
+881940,social_post,unknown_date,https://www.instagram.com/reel/DVJed1ciRsW,DIG. SURVIVE. GET RICH. GOBLIN COMPANY is a chaotic co ...,"“Guns 'n Goblins” is a retro horde survivor FPS where you decide how many monsters to fight by ringing a massive bell. Survive the waves,",,,25,weak,Social Index (+5); Exact title match (+20),social
+881940,social_post,unknown_date,https://www.instagram.com/reel/Da26cczj4-p,Instagram,"May be a video game screenshot of text that says 'Tutorial_Island Tutorial Island @tutoria @tutorial_island island Ring a bell to summon monster hordes in an incremental horde survivor FPS LEVEL UP! Guns 'n Goblins is an incremental horde survivor FPS where you ring a bell to call in thousands of enemies, then blast them apart to level up and rebuild your bastion. Developed by Lance and Argl, this single-player indie RPG puts you in the role of the last Bell Ringer. May be a video game screenshot of fire and text that says 'Tutorial Tutorial_Island Island @tutorialisland Asurvivalhororwhereyourblodist A survival horror where your blood is both bullets and health bar'. May be a video game screenshot of text that says 'Tutorial Island @tutorialisland A dark fantasy RPG where all objects can be used and destroyed'. May be a cartoon of poster and text that says 'TutorialIslan Island @tutorial @tutorialisland island A surreal adventure where you explore the last human city on a giant octopus BANI'.",,,25,weak,Social Index (+5); Exact title match (+20),social
+881940,social_post,unknown_date,https://www.instagram.com/reel/DaVCCZuoVYa,Instagram,"May be a cartoon of text that says 'GAME GAMEGIL @officialgamegil Gun u'n 'n Goblins is a horde FPS where u ring the bell, fight hordes of creatures, control them, earn rewards & survive more chaos.'. GUNS 'N GOBLINS is an incremental horde survivor FPS where you are the last Bell Ringer of the final standing Bastion. Ring the bell to call monster swarms, the more you ring, the more XP and gold you earn but the harder the fight. May be a cartoon of text that says 'GiME GAMEGIL @officialgamegil You literally paint yourself to hide 00 A hide-and-seek game where you become the background'. May be an image of text that says 'GiME GAMEGIL @officialgamegil A 10- -player diplomacy game where you call people in secret, make deals and then betray everyone, whoever controls the most hideouts wins. May be an image of text that says 'GiME GAMEGIL @officialgamegil You run the last bar in a toxic wasteland where water nearly ran out.",,,25,weak,Social Index (+5); Exact title match (+20),social
+881940,social_post,unknown_date,https://x.com/JFGamesPR/status/2047419914768585204,"JF Games - PR & Marketing for Videogames on X: ""Guns ’n Goblins is a new incremental horde-based survivor FPS from Séverin Larose, Minishoot’ Adventures (Metacritic: 87) game designer and co-founder of @SoulGameStudio, and developer Lance. The title was just announced by @SecondWindGroup at the Second Wind Games Showcase. Huge thanks to them for accepting the game! Players will have to defend their castle by eliminating a series of foes in a 1 vs. 10,000 inspired by Megabonk and Vampire Survivors. It offers progression options to expand your arsenal potential with new weapons in fruitful runs where nothing is lost on death. We are working on the PR and organic influencers campaign for Western markets, so if you are a #gamejourno or #contentcreator interested in covering it, feel free to send us a DM. #indiegames #fps #action #rpg #survival #idler #medieval #retro #pc #steam"" / X","JF Games - PR & Marketing for Videogames. Guns ’n Goblins is a new incremental horde-based survivor FPS from Séverin Larose, Minishoot’ Adventures (Metacritic: 87) game designer and co-founder of @SoulGameStudio, and developer Lance. The title was just announced by @SecondWindGroup at the Second Wind Games Showcase. Huge thanks to them for accepting the game! Players will have to defend their castle by eliminating a series of foes in a 1 vs. It offers progression options to expand your arsenal potential with new weapons in fruitful runs where nothing is lost on death. We are working on the PR and organic influencers campaign for Western markets, so if you are a #gamejourno or #contentcreator interested in covering it, feel free to send us a DM. People on X are the first to know. ## New to X? Sign up now to get your own personalized timeline! By signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use.",,showcase,25,weak,Social Index (+5); Keywords ['showcase'] (+20),social
+881940,social_post,unknown_date,https://www.gamespress.com/Guns-n-Goblins---A-New-Incremental-Horde-Based-Survivor-FPS-Where-Your,"""Guns 'n Goblins - A New Incremental Horde-Based ...","****Minishoot’ Adventures game designer and Onde developers join forces in a fresh genre-blending FPS full of non-stop spectacular action where you will blow up monsters by the thousands****. Toulouse, France – French independent developers Lance joined forces with Minishoot' Adventures game designer Séverin Larose to present **Guns 'n Goblins** **(**teaser**, Steam).** In development for **PC**, the game is an **incremental horde-based survivor FPS** where players will **blow up monsters by the thousands** with the only mission to **defend their castle**. As the swarms grow crazier, players will level up and upgrade their arsenal from a simple gun to devastating weapons capable of taking down dragons! Séverin Larose is Minishoot' Adventures game designer and Lance is a collaboration between two friends, Florent Réfrégé and Maxime Vican, centered on video game experimentation in the 2010s, their studio was officially founded in 2017 to develop Onde in collaboration with 3-50 studio.",,,25,weak,Social Index (+5); Exact title match (+20),social
+881940,social_post,unknown_date,https://store.steampowered.com/app/881940/Guns_n_Goblins,Guns 'n Goblins,"Get the Steam Mobile App. All trademarks are property of their respective owners in the US and other countries. Link to the Steam Homepage. Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal to rise from Apprentice Bell Ringer to Master Dragon Hunter. Sign in to add this item to your wishlist, follow it, or mark it as ignored. Steam is learning about this game. This game is not yet available on Steam. * **Control the horde:** Ring the bell as often as you dare to call a deluge of monsters. You can write your own review for this product to share your experience with the community. You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam. ## Sign In. Sign in to add your own tags to this product.",,,25,weak,Social Index (+5); Exact title match (+20),social
+881940,social_post,unknown_date,https://steamcommunity.com/app/881940,Guns 'n Goblins,"Home   Discussions   Workshop   Market   Broadcasts. Get the Steam Mobile App. All trademarks are property of their respective owners in the US and other countries. Privacy Policy  |  Legal  |  Accessibility  |  Steam Subscriber Agreement  |  Refunds  |  Cookies. Link to the Steam Homepage. Install Steam sign in  |  language. All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews. Face a deluge of monsters in this incremental horde survivor FPS. Most popular community and official content for the past week. Will this have the vampire survivors model, where each ""lost"" run still gives currency for long-term upgrades? Or do you restart from zero if you lose, more like a tower defense game. (Fingers crossed for the latter!). What part of the game is idle/incremental? You can help: share a screenshot, make a video, or start a new discussion! Returning to where you were last on this page... Privacy Policy Legal Accessibility Cookies Steam Subscriber Agreement © Valve Corporation.",,,25,weak,Social Index (+5); Exact title match (+20),social
+881940,web_result,unknown_date,https://store.steampowered.com/app/881940/Guns_n_Goblins,Guns 'n Goblins on Steam,"Get the Steam Mobile App. All trademarks are property of their respective owners in the US and other countries. Link to the Steam Homepage. Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal to rise from Apprentice Bell Ringer to Master Dragon Hunter. Sign in to add this item to your wishlist, follow it, or mark it as ignored. Steam is learning about this game. This game is not yet available on Steam. * **Control the horde:** Ring the bell as often as you dare to call a deluge of monsters. You can write your own review for this product to share your experience with the community. You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam. ## Sign In. Sign in to add your own tags to this product.",,,20,weak,Exact title match (+20),general
+881940,web_result,unknown_date,https://steamcommunity.com/app/881940,Steam Community :: Guns 'n Goblins,"Home   Discussions   Workshop   Market   Broadcasts. Get the Steam Mobile App. All trademarks are property of their respective owners in the US and other countries. Privacy Policy  |  Legal  |  Accessibility  |  Steam Subscriber Agreement  |  Refunds  |  Cookies. Link to the Steam Homepage. Install Steam sign in  |  language. All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews. Face a deluge of monsters in this incremental horde survivor FPS. Most popular community and official content for the past week. Will this have the vampire survivors model, where each ""lost"" run still gives currency for long-term upgrades? Or do you restart from zero if you lose, more like a tower defense game. (Fingers crossed for the latter!). What part of the game is idle/incremental? You can help: share a screenshot, make a video, or start a new discussion! Returning to where you were last on this page... Privacy Policy Legal Accessibility Cookies Steam Subscriber Agreement © Valve Corporation.",,,20,weak,Exact title match (+20),general
+881940,web_result,unknown_date,https://store.steampowered.com/app/881940/Guns_n_Goblins,Guns 'n Goblins,"Get the Steam Mobile App. All trademarks are property of their respective owners in the US and other countries. Link to the Steam Homepage. Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal to rise from Apprentice Bell Ringer to Master Dragon Hunter. Sign in to add this item to your wishlist, follow it, or mark it as ignored. Steam is learning about this game. This game is not yet available on Steam. * **Control the horde:** Ring the bell as often as you dare to call a deluge of monsters. You can write your own review for this product to share your experience with the community. You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam. ## Sign In. Sign in to add your own tags to this product.",,,20,weak,Exact title match (+20),general
+881940,web_result,unknown_date,https://en.wikipedia.org/wiki/Ghosts_%27n_Goblins,Ghosts 'n Goblins - Wikipedia,"# *Ghosts 'n Goblins*. For the first game in the series, see Ghosts 'n Goblins (video game) ""Ghosts 'n Goblins (video game)""). | The *Ghosts 'n Goblins* series logo as seen in *Ultimate Ghosts 'n Goblins* |. | First release | *Ghosts 'n Goblins ""Ghosts 'n Goblins (video game)"")* July 7, 1985 |. ""*Demon World Village*""), is a series of run-and-gun platform video games developed and owned by Capcom. The first entry in the series was *Ghosts 'n Goblins ""Ghosts 'n Goblins (video game)"")*, released in arcades on July 7, 1985. The main series focuses on the knight Arthur ""Arthur (Ghosts 'n Goblins)"")'s quest to save princess Prin-Prin from the demon king Astaroth. The primary spin-offs include the *Gargoyle's Quest* and *Maximo* game series. The most recent game in the series, *Ghosts 'n Goblins Resurrection*, was released on February 25, 2021. | 1985 | *Ghosts 'n Goblins ""Ghosts 'n Goblins (video game)"")* |.",,demo,20,weak,Keywords ['demo'] (+20),general
+881940,web_result,unknown_date,https://www.gamespress.com/Guns-n-Goblins---A-New-Incremental-Horde-Based-Survivor-FPS-Where-Your,"""Guns ’n Goblins - A New Incremental Horde-Based Survivor FPS Where You're 1 vs 10,000"" - Games Press","****Minishoot’ Adventures game designer and Onde developers join forces in a fresh genre-blending FPS full of non-stop spectacular action where you will blow up monsters by the thousands****. Toulouse, France – French independent developers Lance joined forces with Minishoot' Adventures game designer Séverin Larose to present **Guns 'n Goblins** **(**teaser**, Steam).** In development for **PC**, the game is an **incremental horde-based survivor FPS** where players will **blow up monsters by the thousands** with the only mission to **defend their castle**. As the swarms grow crazier, players will level up and upgrade their arsenal from a simple gun to devastating weapons capable of taking down dragons! Séverin Larose is Minishoot' Adventures game designer and Lance is a collaboration between two friends, Florent Réfrégé and Maxime Vican, centered on video game experimentation in the 2010s, their studio was officially founded in 2017 to develop Onde in collaboration with 3-50 studio.",,,20,weak,Exact title match (+20),general
+881940,web_result,unknown_date,https://www.gamespress.com/Guns-n-Goblins---A-New-Incremental-Horde-Based-Survivor-FPS-Where-Your,"""Guns 'n Goblins - A New Incremental Horde-Based ...","****Minishoot’ Adventures game designer and Onde developers join forces in a fresh genre-blending FPS full of non-stop spectacular action where you will blow up monsters by the thousands****. Toulouse, France – French independent developers Lance joined forces with Minishoot' Adventures game designer Séverin Larose to present **Guns 'n Goblins** **(**teaser**, Steam).** In development for **PC**, the game is an **incremental horde-based survivor FPS** where players will **blow up monsters by the thousands** with the only mission to **defend their castle**. As the swarms grow crazier, players will level up and upgrade their arsenal from a simple gun to devastating weapons capable of taking down dragons! Séverin Larose is Minishoot' Adventures game designer and Lance is a collaboration between two friends, Florent Réfrégé and Maxime Vican, centered on video game experimentation in the 2010s, their studio was officially founded in 2017 to develop Onde in collaboration with 3-50 studio.",,,20,weak,Exact title match (+20),general
+881940,web_result,unknown_date,https://store.steampowered.com/app/881940/Guns_n_Goblins,Guns 'n Goblins,"Get the Steam Mobile App. All trademarks are property of their respective owners in the US and other countries. Link to the Steam Homepage. Face a deluge of monsters in this incremental horde survivor FPS. Build your Bastion, level up your character, and upgrade your arsenal to rise from Apprentice Bell Ringer to Master Dragon Hunter. Sign in to add this item to your wishlist, follow it, or mark it as ignored. Steam is learning about this game. This game is not yet available on Steam. * **Control the horde:** Ring the bell as often as you dare to call a deluge of monsters. You can write your own review for this product to share your experience with the community. You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam. ## Sign In. Sign in to add your own tags to this product.",,,20,weak,Exact title match (+20),general
+881940,web_result,unknown_date,https://steamcommunity.com/app/881940,Guns 'n Goblins,"Home   Discussions   Workshop   Market   Broadcasts. Get the Steam Mobile App. All trademarks are property of their respective owners in the US and other countries. Privacy Policy  |  Legal  |  Accessibility  |  Steam Subscriber Agreement  |  Refunds  |  Cookies. Link to the Steam Homepage. Install Steam sign in  |  language. All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews. Face a deluge of monsters in this incremental horde survivor FPS. Most popular community and official content for the past week. Will this have the vampire survivors model, where each ""lost"" run still gives currency for long-term upgrades? Or do you restart from zero if you lose, more like a tower defense game. (Fingers crossed for the latter!). What part of the game is idle/incremental? You can help: share a screenshot, make a video, or start a new discussion! Returning to where you were last on this page... Privacy Policy Legal Accessibility Cookies Steam Subscriber Agreement © Valve Corporation.",,,20,weak,Exact title match (+20),general
+881940,web_result,unknown_date,https://www.gamespress.com/Guns-n-Goblins---A-New-Incremental-Horde-Based-Survivor-FPS-Where-Your,"""Guns 'n Goblins - A New Incremental Horde-Based ...","April 24, 2026. Toulouse, France – French independent developers Lance joined forces with Minishoot' Adventures game designer Séverin Larose to present Guns 'n Goblins (teaser, Steam). In development for PC, the game is an incremental horde-based survivor FPS where players will blow up monsters by the thousands with the only mission to defend their castle. As the swarms grow crazier, players will level up and upgrade their arsenal from a simple gun to devastating weapons capable of taking down [...] Séverin Larose is Minishoot' Adventures game designer and Lance is a collaboration between two friends, Florent Réfrégé and Maxime Vican, centered on video game experimentation in the 2010s, their studio was officially founded in 2017 to develop Onde in collaboration with 3-50 studio.
+
+This is taking longer than usual to load.
+
+Close
+
+### Your downloads
+
+Total download size:
+
+These files can be freely downloaded without watermarks because they were uploaded by using Games Press Elite. [...] concept has evolved into a fully realized game designed in a way that players won't be able to put down!"" -  Séverin Larose (Game designer and co-founder at Soulgame)",,,20,weak,Exact title match (+20),general
+881940,web_result,unknown_date,https://steamcommunity.com/app/881940,Guns 'n Goblins,"Close
+
+Loading
+
+Privacy Policy Legal Accessibility Cookies Steam Subscriber Agreement © Valve Corporation.
+
+View mobile website [...] Sign in   Store 
+
+Home   Discovery Queue   Wishlist   Points Shop   News   Charts
+
+ Community 
+
+Home   Discussions   Workshop   Market   Broadcasts
+
+ About   Support 
+
+Change language
+
+Get the Steam Mobile App
+
+View desktop website
+
+© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.  Privacy Policy  |  Legal  |  Accessibility  |  Steam Subscriber Agreement  |  Refunds  |  Cookies
+
+STEAM
+
+Link to the Steam Homepage [...] 简体中文 (Simplified Chinese)   繁體中文 (Traditional Chinese)   日本語 (Japanese)   한국어 (Korean)   ไทย (Thai)   Bahasa Indonesia (Indonesian)   Bahasa Melayu (Malay) BETA   Български (Bulgarian)   Čeština (Czech)   Dansk (Danish)   Deutsch (German)   Español - España (Spanish - Spain)   Español - Latinoamérica (Spanish - Latin America)   Ελληνικά (Greek)   Français (French)   Italiano (Italian)   Magyar (Hungarian)   Nederlands (Dutch)   Norsk (Norwegian)   Polski (Polish)   Português (Portuguese -",,,20,weak,Exact title match (+20),general
+881940,web_result,unknown_date,https://www.gamespress.com/Guns-n-Goblins---A-New-Incremental-Horde-Based-Survivor-FPS-Where-Your,"""Guns 'n Goblins - A New Incremental Horde-Based ...","****Minishoot’ Adventures game designer and Onde developers join forces in a fresh genre-blending FPS full of non-stop spectacular action where you will blow up monsters by the thousands****. Toulouse, France – French independent developers Lance joined forces with Minishoot' Adventures game designer Séverin Larose to present **Guns 'n Goblins** **(**teaser**, Steam).** In development for **PC**, the game is an **incremental horde-based survivor FPS** where players will **blow up monsters by the thousands** with the only mission to **defend their castle**. As the swarms grow crazier, players will level up and upgrade their arsenal from a simple gun to devastating weapons capable of taking down dragons! Séverin Larose is Minishoot' Adventures game designer and Lance is a collaboration between two friends, Florent Réfrégé and Maxime Vican, centered on video game experimentation in the 2010s, their studio was officially founded in 2017 to develop Onde in collaboration with 3-50 studio.",,,20,weak,Exact title match (+20),general
+881940,web_result,unknown_date,https://steamdb.info/app/881940,Guns 'n Goblins,"Game Developer Lance, Argl Publisher SoulGame. Build your Bastion, level up your character, and upgrade your arsenal to rise",,,20,weak,Exact title match (+20),general
+881940,web_result,unknown_date,https://capcom.fandom.com/wiki/Ghosts_%27n_Goblins_(series),Ghosts 'n Goblins (series),"Fandom is on a quest for your opinions on upcoming movies! *   1.2 Gargoyle's Quest gameplay#Gargoyle's_Quest_gameplay). # Ghosts 'n Goblins (series). _**Ghosts 'n Goblins**_, known as _**Makaimura**_ (魔界村, lit. ""Demon World Village"") in Japan, is a dark fantasy-themed series of Run and gun platformer games created by Tokuro Fujiwara and developed by Capcom. The series focus on the brave knight Arthur, who must overcome obstacles in several deadly levels set in the Ghoul Realm of Makai and fight through demonic enemies and villians, such as the Red Arremer and Astaroth respectively, in order to save princess Guinevere. The series as a whole has sold over 4.2 million units and currently stands as the 13th best-selling Capcom game franchise.#cite_note-1) It has gained a reputation among players for the high level of difficulty in nearly all of its games.#cite_note-2)#cite_note-3)#cite_note-4)#cite_note-5). In most of the main series, once completing the game the player is forced to re-play the game's stages at a harder difficulty level in order to receive the game's ""true"" ending. *   _**Ghosts 'n Goblins**_ - **(1985)**.",,"gameplay, demo",20,weak,"Keywords ['gameplay', 'demo'] (+20)",general
+881940,web_result,unknown_date,https://en.wikipedia.org/wiki/Ghosts_%27n_Goblins_(video_game),Ghosts 'n Goblins (video game) - Wikipedia,"* Edit&action=edit ""Edit this page [e]""). ***Ghosts 'n Goblins***, known as ***Makaimura*** in Japan, is a 1985 platform game developed and published by Capcom for arcades. It is the first game in the *Ghosts 'n Goblins* franchise, and has since been ported to numerous home platforms. It was among the top ten highest-grossing arcade games of 1986 in Japan and the US, as well as the year's sixth best-selling computer game in the UK, with the Nintendo Entertainment System version selling over 1.6 million units worldwide. [edit&action=edit&section=1 ""Edit section: Gameplay"")]. [edit&action=edit&section=2 ""Edit section: Ports"")]. [edit&action=edit&section=3 ""Edit section: Consoles"")]. The NES version was released in North America in November 1986, and in Europe on March 23, 1989.*[citation needed*] The Famicom/NES version was programmed by Micronics and published by Capcom. [edit&action=edit&section=4 ""Edit section: Computers"")]. [edit&action=edit&section=5 ""Edit section: Reception"")]. On home computers, it was the top-selling game in the United Kingdom for two months during July–August 1986, and it went on to become the sixth best-selling game of 1986 in the UK.",,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+881940,reddit_discussion,unknown_date,https://www.reddit.com/r/AlmostAHero/comments/hvpi7j/at_bee_square_we_are_making_a_new_game_and_its,"At Bee Square we are making a new game, and it's called ...","At Bee Square we are making a new game, and it's called Guns & Goblins! we develop this cheeky mobile game! it will have guns. And goblins! 'n'",,,10,weak,Reddit (+10),social
+881940,reddit_discussion,unknown_date,https://www.reddit.com/r/indiegames/comments/1hurghk/my_game_goblins_with_guns_is_coming_out_soon,My Game Goblins With Guns is coming out soon : r/indiegames,"My Game Goblins With Guns is coming out soon. Best indie games featuring guns and goblins 'n Goblins Resurrection - Weapons, Magic 'n Modes -",,,10,weak,Reddit (+10),social
+881940,reddit_discussion,unknown_date,https://www.reddit.com/r/tabletopgamedesign/comments/10heksa/gunsngoblins_wip,Guns'n'Goblins WIP : r/tabletopgamedesign,"My general goal was to create a TTRPG with relatively simple rules. The core mechanic is rolling d6, adding or substracting values and then compare the rolls",,,10,weak,Reddit (+10),social
+881940,social_post,unknown_date,https://www.instagram.com/p/DXkBQR5mBvk,Instagram,"Never miss a post from onscreenmx. Sign up for Instagram to stay in the loop. By continuing, you agree to Instagram's Terms of Use and Privacy Policy. Photo by OnScreen MX on April 25, 2026. El estudio independiente francés Lance se ha asociado con Séverin Larose, diseñador del juego Minishoot's Adventures, para presentar Guns'n Goblins. En desarrollo para Steam, el juego es un FPS de supervivencia incremental basado en hordas en el que los jugadores acabarán con miles de monstruos con la única misión de defender su castillo. A medida que las hordas se vuelvan más desenfrenadas, los jugadores subirán de nivel y mejorarán su arsenal, pasando de una simple pistola a armas devastadoras capaces de acabar con dragones. ## No comments yet. Log in to like or comment. Photo by OnScreen MX on July 22, 2026.",,,5,weak,Social Index (+5),social
+881940,web_result,unknown_date,https://store.steampowered.com/app/369450/Guns_and_Goblins,Guns and Goblins on Steam,"Get the Steam Mobile App. All trademarks are property of their respective owners in the US and other countries. Link to the Steam Homepage. 2 user reviews  - Need more user reviews to generate a score. All Time: 2 user reviews (). Sign in to add this item to your wishlist, follow it, or mark it as ignored. Guns and Goblins brings two new things to the world of Fortune's Tavern: Guns and Goblins! \*Build new rooms in a dank cave so that Goblins will visit your tavern,. \*Work with the Goblin engineer to create a new weapon: the gun. ## Customer reviews for Guns and Goblins About user reviews Your preferences. 2 user reviews (2 reviews). You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam. ## Sign In. Sign in to add your own tags to this product.",,,0,weak,,general
+881940,web_result,unknown_date,http://www.honestgamers.com/10491/nes/ghosts-n-goblins/review.html,HonestGamers - Ghosts 'N Goblins (NES) Review,"| Ghosts 'N Goblins (NES) game profile"") review ""I also probably shouldn't forget how you need one particular weapon to simply damage the final boss. Back when I was young, the local county fair tended to have *Ghosts 'N Goblins* in its mediocre arcade and I kicked ass at it! I'd die when time ran out on a life and repeat until I'd run out of them before ""triumphantly"" posting my initials and moving on to *Final Fight* so I could start having real fun. For some reason, I thought this experience warranted me begging my parents to buy the NES port of this game, so I couldI don't knowactually get a good score by less nefarious means, maybe. And as I recall, since I didn't have a Game Genie while I owned *Ghosts 'N Goblins*, the best I could do was use a level select code in order to rapidly lose lives in each of the game's levels.",,,0,weak,,general
+881940,web_result,unknown_date,https://retrogamerjunction.weebly.com/ghosts-n-goblins/ghosts-n-goblins-arcade-review,Ghosts N Goblins (Arcade) Review - RETRO GAMER JUNCTION,"| Ghosts N Goblins (Arcade) Review 10/2/2016  0 Comments    Picture  **Welcome to a new edition of Retro Corner as it is that time of the year again and Halloween is upon us. As you can tell Halloween is my favorite holiday of the year and what a great way to celebrate it by reviewing the Ghosts N Goblins series. The first game was released in 1985 in the Arcades as it was the standard platformer that came out around the time. Ghosts N Goblins is one of my favorite niche series next to .hack// as the theme was being based a little on grimdark fantasy. The reason this series is a niche is from its infamous difficulty which at times can be cheap. The first game is obviously my least favorite for a reason being its difficulty can be very cheap. Once you get to the level with Satan (he isn't that hard to defeat), they decide that you have to play the game again and this time on a harder difficulty.",,,0,weak,,general
