@@ -1,0 +1,9 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3968160,Island Beekeeper,Island Beekeeper,1190,1167,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 24, 2026","Jul 28, 2026",True
+3091140,Lootbound,Lootbound,424,422,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 31, 2026","Aug 14, 2026",True
+3464670,Dead Watch,Dead Watch,937,939,-2,2,down,none,Unpriced (Coming Soon),Free,True,2026,Coming soon,True
+1355900,Tattered Banners,Tattered Banners,1060,1062,-2,2,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q4 2026,"Nov 24, 2026",True
+4440650,KAGE,KAGE,426,427,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,Q4 2026,True
+3431300,Slow Roads,Slow Roads,895,896,-1,1,down,none,Free,Unpriced (Coming Soon),True,Coming soon,August 2026,True
+3204330,County of Fortune,County of Fortune,348,348,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,Q4 2026,True
+3647010,DRUG Schedule,DRUG Schedule,376,376,0,0,stable,none,Unpriced (Coming Soon),Free,True,2026,2026,False

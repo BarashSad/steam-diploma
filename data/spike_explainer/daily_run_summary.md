@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Darkest Dungeon®: The Fire's Edge
+Analyzed: Guns 'n Goblins
 Tavily Budget Used: 15
 Errors: 0

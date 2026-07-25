@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+881940,Guns 'n Goblins,Guns 'n Goblins,1120,1070,50,50,up,upward_spike,Free,Free,False,2027,2027,False
+2433630,The Left Behind,The Left Behind,835,788,47,47,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 27, 2026","Jul 27, 2026",False
+4964110,Darkest Dungeon®: The Fire's Edge,Darkest Dungeon®: The Fire's Edge,1023,995,28,28,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 18, 2026","Aug 18, 2026",False
+3685570,FIGHT-QUEST,FIGHT-QUEST,972,946,26,26,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q4 2026,Q4 2026,False
+3968160,Island Beekeeper,Island Beekeeper,1190,1167,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Jul 24, 2026","Jul 28, 2026",True

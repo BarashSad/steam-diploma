@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-07-24T14:06:09.963641+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260724_135542/rank_changes.csv",
-    "selected_appid": "4964110",
-    "selected_game_title": "Darkest Dungeon\u00ae: The Fire's Edge",
+    "started_at": "2026-07-25T03:26:49.868068+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260725_031620/rank_changes.csv",
+    "selected_appid": "881940",
+    "selected_game_title": "Guns 'n Goblins",
     "top_n": 1,
-    "old_snapshot_date": "2026-07-21",
-    "new_snapshot_date": "2026-07-24",
+    "old_snapshot_date": "2026-07-22",
+    "new_snapshot_date": "2026-07-25",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-24T14:06:09.963660+00:00",
+    "finished_at": "2026-07-25T03:26:49.868082+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
