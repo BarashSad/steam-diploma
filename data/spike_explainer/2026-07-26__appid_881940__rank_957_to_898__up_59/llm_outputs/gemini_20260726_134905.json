@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-26T13:49:05.732924+00:00",
+    "timestamp": "20260726_134905",
+    "input_file": "data/spike_explainer/2026-07-26__appid_881940__rank_957_to_898__up_59/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-26__appid_881940__rank_957_to_898__up_59/llm_outputs/gemini_20260726_134905.md",
+    "game_title": "Guns 'n Goblins",
+    "appid": "881940",
+    "duration_sec": 16.55,
+    "response_length": 6196,
+    "error": null
+}
