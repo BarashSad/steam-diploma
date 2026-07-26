@@ -1,0 +1,746 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+4080220,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357027502,Pre-purchase EA SPORTS FC™ 27 Ultimate Plus Edition,,"Welcome to The World’s Game. Step into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay. Pre-purchase EA SPORTS FC™ 27 Ultimate Plus Edition by 31 August t",gameplay,90,very_strong,Inside spike window (+30); Official Steam News (+20); Exact title match (+20); Keywords ['gameplay'] (+20),
+4080220,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=MOclJJ7IpSY,EA SPORTS FC 27 | Official Reveal Trailer,,Welcome to The World's Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://x.ea.com/89600 Step into ...,trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4080220,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=0RbGwgVRDWg,EA SPORTS FC 27 | Official Reveal Trailer,,Welcome to The World's Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: ...,trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4080220,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=MOclJJ7IpSY,EA SPORTS FC 27 | Official Reveal Trailer,,Welcome to The World's Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://x.ea.com/89600 Step into ...,trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4080220,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357029775,EA SPORTS FC™ 27 - Upcoming Deep Dives,,"Welcome to the road to EA SPORTS FC™ 27.Over the coming weeks, we'll be releasing a series of Deep Dives and Pitch Notes from the development team. Ahead of launch, these will be joined by additional Deep Dives, including a dedicated PC Deep Dive. More details can be found below.The Pitch Notes will",,70,strong,Inside spike window (+30); Official Steam News (+20); Exact title match (+20),
+4080220,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=wqfd1nMfJw4,EA SPORTS FC 27™ Launch Trailer | PS5,,EA SPORTS FC™ 27 Launch Trailer | New Open World Football Experience Thank you for watching this video! Just a ...,trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4080220,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=S83Ii0OI7Vg,PRIMER VIDEO OFICIAL FC 27 !!! (MUNDO ABIERTO Y ALEX HUNTER) REACCIONANDO AL TRAILER - DjMaRiiO,,FIFA 27 MUNDO ABIERTO (THE GROUND) CON LA VUELTA DE ALEX HUNTER DEL MITICO EL CAMINO PRIMER VIDEO ...,trailer,65,strong,Inside spike window (+30); YouTube (+15); Keywords ['trailer'] (+20),
+4080220,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=zgetcBn7WLg,EA Sports FC 27 Official Reveal Trailer Reaction!,,"FC27 Reveal Trailer has arrived, giving us our first look at many new features, including the Grounds, FUT Gallery, Gameplay ...","trailer, gameplay",65,strong,"Inside spike window (+30); YouTube (+15); Keywords ['trailer', 'gameplay'] (+20)",
+4080220,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=xg9NAaKmAw8,EA Sports FC 27 - Official Reveal Trailer,,"Check out the Reveal Trailer for EA Sports FC 27, the latest installment in the legendary football (soccer) simulation game ...",trailer,65,strong,Inside spike window (+30); YouTube (+15); Keywords ['trailer'] (+20),
+4080220,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=711p4f8RYeU,Testing EA SPORTS FC 27 Gameplay First Look | PS5 (Concept),,"eafc27 #eafc26 #gta6 I would like to thank everyone who watched this video. As you know, I am a passionate artist who enjoys ...",gameplay,65,strong,Inside spike window (+30); YouTube (+15); Keywords ['gameplay'] (+20),
+4080220,reddit_discussion,unknown_date,https://www.reddit.com/r/xbox/comments/1v6jgdw/ea_sports_fc_27_official_reveal_trailer,EA SPORTS FC 27 | Official Reveal Trailer : r/xbox,"EA SPORTS FC™ 27 launches 25 September. >Step into The Grounds to experience a football playground where the streets meet the stadium, and",,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),social
+4080220,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=2SDJqisfezY,FC 27 - First Official Gameplay,,The first ea fc 27 gameplay has been released! What are your early thoughts ahead of the official reveal trailer? FC 27 ...,"trailer, gameplay",50,medium,"Inside extended window (+15); YouTube (+15); Keywords ['trailer', 'gameplay'] (+20)",
+4080220,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=2SDJqisfezY,FC 27 - First Official Gameplay,,The first ea fc 27 gameplay has been released! What are your early thoughts ahead of the official reveal trailer? FC 27 ...,"trailer, gameplay",50,medium,"Inside extended window (+15); YouTube (+15); Keywords ['trailer', 'gameplay'] (+20)",
+4080220,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=vkz-p4wYegU,NHL 27 Official Reveal Trailer,,Every team has an edge in NHL 27. Pre-order* NHL 27 to play 7 Days Early on September 4th! https://x.ea.com/90123 EA ...,trailer,50,medium,Inside extended window (+15); YouTube (+15); Keywords ['trailer'] (+20),
+4080220,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=2SDJqisfezY,FC 27 - First Official Gameplay,,The first ea fc 27 gameplay has been released! What are your early thoughts ahead of the official reveal trailer? FC 27 ...,"trailer, gameplay",50,medium,"Inside extended window (+15); YouTube (+15); Keywords ['trailer', 'gameplay'] (+20)",
+4080220,social_post,unknown_date,https://www.instagram.com/reel/DbL3d2ZBoUu,EA SPORTS FC 27 OFFICIAL REVEAL TRAILER ...,🚨 EA SPORTS FC™ 27 LITE is also coming ✓ • ✓ FREE-to-download preview of EA SPORTS FC™ 27 available at launch. • ✓ Players can explore,,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+4080220,social_post,unknown_date,https://x.com/FGZNews/status/2080608948324053157,New EA FC 27 Gameplay Detaills,"Across all EA SPORTS FC™ 27 game modes, community-driven gameplay improvements contribute to enhanced control and fluidity, featuring dynamic",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+4080220,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=EAuL8dyQxPs,EA Just Previewed FC27,,twitter: https://www.twitter.com/nickrtfm twitch: https://www.twitch.tv/runthefutmarket instagram: https://www.instagram.com/nickrtfm ...,,45,medium,Inside spike window (+30); YouTube (+15),
+4080220,web_result,unknown_date,https://store.steampowered.com/app/4080220/EA_SPORTS_FC_27,Pre-purchase EA SPORTS FC™ 27 on Steam,"See all 21 supported languages
+
+Title: EA SPORTS FC™ 27  
+ Genre: Simulation, Sports  
+
+Developer: EA CANADA, EA Romania
+
+Publisher: Electronic Arts
+
+Franchise: EA SPORTS FC™, EA Play
+
+Release Date: 24 Sep, 2026
+
+Discord External   YouTube External   Facebook External   X External   Twitch External   Instagram External   TikTok External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Ratings
+
+18
+
+Includes Interactive Elements [...] will be available beginning September 18, 2026. Ultimate Plus Content is limited to one EA Account, is non-transferable, and may require gameplay to unlock. Consult your retailer for distribution details. FC Points will be distributed in 5 equal increments. The initial distribution will be granted with your initial login into the Ultimate Team in the Product, the second distribution will be granted by the 15th day of the subsequent month, the 3rd distribution will be granted by the 15th of the [...] All Games > Sports Games > EA Sports Franchise > EA SPORTS FC™ 27
+
+Community Hub
+
+EA SPORTS FC™ 27
+
+EA SPORTS FC™ 27
+
+EA SPORTS FC™ 27
+
+Developer
+
+EA CANADA, EA Romania
+
+Publisher
+
+Electronic Arts
+
+Release
+
+24 Sep, 2026
+
+Welcome to The World’s Game in EA SPORTS FC™ 27. Step into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay.
+
+All Reviews:",,"gameplay, release date",40,medium,"Exact title match (+20); Keywords ['gameplay', 'release date'] (+20)",general
+4080220,web_result,unknown_date,https://www.ea.com/games/ea-sports-fc/fc-27/buy,Pre-order EA SPORTS FC™ 27 - Electronic Arts,"## About the game
+
+Welcome to The World’s Game in EA SPORTS FC 27. Step into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay.
+
+### Platforms
+
+Steam, Epic Games, PC, PlayStation®, Xbox
+
+### Languages [...] $69.99
+
+Base game
+
+Sports
+
+### EA SPORTS™ NHL 27
+
+Base game
+
+Sports
+
+### EA SPORTS™ Madden NFL 27
+
+$69.99
+
+Base game
+
+Sports
+
+### EA SPORTS™ College Football 27
+
+$69.99
+
+Base game
+
+Sports
+
+### EA SPORTS™ College Football Mobile
+
+Base game
+
+Sports
+
+### EA SPORTS™ MVP Bundle
+
+Base game
+
+Sports
+
+### EA SPORTS™ UFC 6
+
+Base game
+
+Role-playing (RPG)
+
+### Star Wars: Zero Company
+
+Base game
+
+### Redsec
+
+Base game
+
+Sports
+
+### EA SPORTS™ NBA LIVE Mobile
+
+Base game
+
+Shooter
+
+### Battlefield 6
+
+Base game [...] # Pre-order EA SPORTS FC™ 27
+
+Digital render of Kylian Mbappé along with a logo of EA SPORTS FC™ 27. is now the current item in the media gallery
+
+The World’s Game. Watch the full EA SPORTS FC™ 27 reveal on July 23. Subscribe to see more from EA SPORTS FC: 
+
+Base game
+
+Available on
+
+Sep 24, 2026 - 11 PM UTC
+
+On EA app starting from
+
+US$ 69.99
+
+Applicable taxes may apply",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4080220,web_result,unknown_date,https://www.ea.com/games/ea-sports-fc/fc-27,Prepare for EA SPORTS FC™ 27 - Coming Soon! - Electronic Arts,"Kylian Mbappé returns to the EA SPORTS FC™ 27 Ultimate Edition cover. Set your YouTube reminder to watch the Reveal Trailer Premiere on 23 July.
+
+Set A Reminder
+
+ to help the site function, improve your experience, analyze usage, and enable targeted advertising that may appear on other sites or platforms. [...] By visiting our site, you consent to the use of Cookies, including the recording and sharing of your activity (such as game browsing, video viewing, and purchases) with EA’s third-party partners for targeted advertising and functional purposes, like analytics. For more details and to manage your preferences, please review ourPrivacy and Cookie Policyand Your Privacy Choices. [](
+
+Your Privacy Choices
+
+Image 7",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4080220,web_result,unknown_date,https://www.youtube.com/watch?v=0RbGwgVRDWg,EA SPORTS FC 27 | Official Reveal Trailer,"# EA SPORTS FC 27 | Official Reveal Trailer
+## XBOX
+5830000 subscribers
+830 likes
+
+### Description
+11033 views
+Posted: 24 Jul 2026
+Welcome to The World’s Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: 
+
+Step into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay. [...] Pre-order EA SPORTS FC 27™ Ultimate Plus Edition by 31 August.
+Receive up to 10,000 FC Points across 5 months, Seasons 1 - 5 of the Premium Pass, and more. EA SPORTS FC 26™ players will also receive a 92+ OVR ICON in EA SPORTS FC™ 26 Football Ultimate Team™ for immediate use and an Evolution that boosts any player’s dribbling Attributes to 99.
+
+#EASPORTSFC #TheWorldsGame #FC27
+
+SUBSCRIBE TO XBOX:  
+
+FOLLOW XBOX [...] FOLLOW XBOX 
+ 
+ 
+ 
+
+67 comments
+### Transcript:
+[XBOX SOUND] ♫ MUSIC PLAYING ♫ How did you do that? I have no idea. Welcome to the grounds. [XBOX SOUND]",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4080220,web_result,unknown_date,https://www.youtube.com/watch?v=MOclJJ7IpSY,EA SPORTS FC 27 | Official Reveal Trailer,Welcome to The World's Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://x.ea.com/89600 Step into The Grounds to,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4080220,web_result,unknown_date,https://www.ea.com/games/ea-sports-fc/fc-27,EA SPORTS FC™ 27 - Official Site - Electronic Arts,"Kylian Mbappé returns to the EA SPORTS FC™ 27 Ultimate Edition cover. Set your YouTube reminder to watch the Reveal Trailer Premiere on 23 July.
+
+Set A Reminder
+
+ to help the site function, improve your experience, analyze usage, and enable targeted advertising that may appear on other sites or platforms. [...] By visiting our site, you consent to the use of Cookies, including the recording and sharing of your activity (such as game browsing, video viewing, and purchases) with EA’s third-party partners for targeted advertising and functional purposes, like analytics. For more details and to manage your preferences, please review ourPrivacy and Cookie Policyand Your Privacy Choices. [](
+
+Your Privacy Choices
+
+Image 7",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4080220,web_result,unknown_date,https://www.ea.com/games/ea-sports-fc/fc-27/features/fc-27-gameplay,EA SPORTS FC™ 27 - Gameplay Features - Electronic Arts,"Feel greater control in every mode as community-driven innovations deliver more true-to-life gameplay in EA SPORTS FC™ 27. Attack with more fluidity through improved spatial awareness and intelligent curved runs. Certain features and content shown, including The Grounds, dribbling improvements and off-balanced dribbling are available only on PlayStation®5, Xbox Series X|S, PC and Nintendo Switch™ 2. Redesigned corner kicks allow for real-time control over defensive positioning and attacking intent, with greater freedom of movement for precisely timed runs into the box, and improved two-player headers simulation to deliver more competitive aerial battles. Retuned defending delivers more player control in EA SPORTS FC™ 27. Removing auto tackles and reducing the influence of AI defenders to give more power to manual defending through jockeys, well timed tackles, and positioning. Experience unparalleled immersion with Authentic Gameplay 2.0, delivering more grounded, realistic gameplay and greater match-to-match variety driven by distinct player personalities and evolving opposition tactics.",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4080220,web_result,unknown_date,https://www.ea.com/games/ea-sports-fc/fc-27/features,EA SPORTS FC™ 27 Features,"# THE WORLD'S GAME. Step into The Grounds\* to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay. Explore a social football playground where the streets meet the stadium. From Kickabouts and 1v1s to teaming up with friends in Clubs, connect with renowned football mentors, improve your abilities, and express yourself on and off the pitch. ### True-To-Football Gameplay. Feel greater control in every game mode with more fluid, true-to-life gameplay, featuring dynamic corners, enhanced attacking awareness, player-focused defending tailored for competitive play, and more community-driven innovations. Sign your next star in Manager Career through a rebuilt Transfer Market with realistic player values and active club bidding. Immortalise your dream club in Football Ultimate Team™ with the brand-new FUT™ Gallery. Curate your favourite Player Items to grow your Gallery Level, earn rewards, and build your Club’s identity throughout the new football season. ## WELCOME TO THE WORLD'S GAME.",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4080220,web_result,unknown_date,https://www.youtube.com/watch?v=0RbGwgVRDWg,EA SPORTS FC 27 | Official Reveal Trailer,"EA SPORTS FC 27 | Official Reveal Trailer
+XBOX
+5830000 subscribers
+830 likes
+11033 views
+24 Jul 2026
+Welcome to The World’s Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://www.xbox.com/games/store/ea-sports-fc-27-ultimate-plus-edition-xbox-one-xbox-series-xs/9PKGXQW57M1R/0017
+
+Step into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay.
+
+Pre-order EA SPORTS FC 27™ Ultimate Plus Edition by 31 August.
+Receive up to 10,000 FC Points across 5 months, Seasons 1 - 5 of the Premium Pass, and more. EA SPORTS FC 26™ players will also receive a 92+ OVR ICON in EA SPORTS FC™ 26 Football Ultimate Team™ for immediate use and an Evolution that boosts any player’s dribbling Attributes to 99.
+
+#EASPORTSFC #TheWorldsGame #FC27
+
+SUBSCRIBE TO XBOX: https://xbx.lv/2EEjmaR 
+
+FOLLOW XBOX 
+https://twitter.com/xbox 
+https://www.facebook.com/xbox 
+https://www.instagram.com/xbox/ 
+https://www.tiktok.com/@xbox
+https://www.threads.net/@xbox
+https://bsky.app/profile/xbox.com
+67 comments
+",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4080220,web_result,unknown_date,https://www.ea.com/games/ea-sports-fc/fc-27/features/fc-27-gameplay,EA SPORTS FC™ 27 - Gameplay Features - Electronic Arts,"Feel greater control in every mode as community-driven innovations deliver more true-to-life gameplay in EA SPORTS FC™ 27. Attack with more fluidity through improved spatial awareness and intelligent curved runs. Certain features and content shown, including The Grounds, dribbling improvements and off-balanced dribbling are available only on PlayStation®5, Xbox Series X|S, PC and Nintendo Switch™ 2. Redesigned corner kicks allow for real-time control over defensive positioning and attacking intent, with greater freedom of movement for precisely timed runs into the box, and improved two-player headers simulation to deliver more competitive aerial battles. Retuned defending delivers more player control in EA SPORTS FC™ 27. Removing auto tackles and reducing the influence of AI defenders to give more power to manual defending through jockeys, well timed tackles, and positioning. Experience unparalleled immersion with Authentic Gameplay 2.0, delivering more grounded, realistic gameplay and greater match-to-match variety driven by distinct player personalities and evolving opposition tactics.",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4080220,web_result,unknown_date,https://www.youtube.com/watch?v=-OulC0Yd8Dk,EA SPORTS FC 27™ Announcement Trailer | PS5,"EA SPORTS FC 27™ Announcement Trailer | PS5
+Med-San
+66200 subscribers
+2561 likes
+230377 views
+20 Jun 2026
+EA SPORTS FC™ 27 Launch Trailer | New Open World Football Experience
+
+Thank you for watching this video! 😊 Just a heads-up: this is not the real EA SPORTS FC™ 27 Trailer, but a concept I created as a graphic designer.Hope you enjoy it! 🔥""
+#easportsfc26  #easportfc27  #easportfc  #efootball  #efootball2026 #worldcup2026
+259 comments
+",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4080220,web_result,unknown_date,https://www.youtube.com/watch?v=0RbGwgVRDWg,EA SPORTS FC 27 | Official Reveal Trailer,"EA SPORTS FC 27 | Official Reveal Trailer
+XBOX
+5830000 subscribers
+830 likes
+11033 views
+24 Jul 2026
+Welcome to The World’s Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://www.xbox.com/games/store/ea-sports-fc-27-ultimate-plus-edition-xbox-one-xbox-series-xs/9PKGXQW57M1R/0017
+
+Step into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay.
+
+Pre-order EA SPORTS FC 27™ Ultimate Plus Edition by 31 August.
+Receive up to 10,000 FC Points across 5 months, Seasons 1 - 5 of the Premium Pass, and more. EA SPORTS FC 26™ players will also receive a 92+ OVR ICON in EA SPORTS FC™ 26 Football Ultimate Team™ for immediate use and an Evolution that boosts any player’s dribbling Attributes to 99.
+
+#EASPORTSFC #TheWorldsGame #FC27
+
+SUBSCRIBE TO XBOX: https://xbx.lv/2EEjmaR 
+
+FOLLOW XBOX 
+https://twitter.com/xbox 
+https://www.facebook.com/xbox 
+https://www.instagram.com/xbox/ 
+https://www.tiktok.com/@xbox
+https://www.threads.net/@xbox
+https://bsky.app/profile/xbox.com
+67 comments
+",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4080220,web_result,unknown_date,https://www.youtube.com/watch?v=wqfd1nMfJw4,EA SPORTS FC 27™ Launch Trailer | PS5,"EA SPORTS FC 27™ Launch Trailer | PS5
+Med-San
+66000 subscribers
+752 likes
+65649 views
+17 Jul 2026
+EA SPORTS FC™ 27 Launch Trailer | New Open World Football Experience
+
+Thank you for watching this video! 😊 Just a heads-up: this is not the real EA SPORTS FC™ 27 Trailer, but a concept I created as a graphic designer.Hope you enjoy it! 🔥""
+#easportsfc26   #easportfc27  #easportfc  #efootball  #efootball2026 #worldcup2026
+64 comments
+",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4080220,web_result,unknown_date,https://www.youtube.com/watch?v=0RbGwgVRDWg,EA SPORTS FC 27 | Official Reveal Trailer,"EA SPORTS FC 27 | Official Reveal Trailer
+XBOX
+5830000 subscribers
+830 likes
+11033 views
+24 Jul 2026
+Welcome to The World’s Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://www.xbox.com/games/store/ea-sports-fc-27-ultimate-plus-edition-xbox-one-xbox-series-xs/9PKGXQW57M1R/0017
+
+Step into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay.
+
+Pre-order EA SPORTS FC 27™ Ultimate Plus Edition by 31 August.
+Receive up to 10,000 FC Points across 5 months, Seasons 1 - 5 of the Premium Pass, and more. EA SPORTS FC 26™ players will also receive a 92+ OVR ICON in EA SPORTS FC™ 26 Football Ultimate Team™ for immediate use and an Evolution that boosts any player’s dribbling Attributes to 99.
+
+#EASPORTSFC #TheWorldsGame #FC27
+
+SUBSCRIBE TO XBOX: https://xbx.lv/2EEjmaR 
+
+FOLLOW XBOX 
+https://twitter.com/xbox 
+https://www.facebook.com/xbox 
+https://www.instagram.com/xbox/ 
+https://www.tiktok.com/@xbox
+https://www.threads.net/@xbox
+https://bsky.app/profile/xbox.com
+67 comments
+",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4080220,web_result,unknown_date,https://www.youtube.com/watch?v=MOclJJ7IpSY,EA SPORTS FC 27 | Official Reveal Trailer,Welcome to The World's Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://x.ea.com/89600 Step into The Grounds to,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4080220,web_result,unknown_date,https://store.steampowered.com/app/4080220/EA_SPORTS_FC_27,Pre-purchase EA SPORTS FC™ 27 on Steam,"See all 21 supported languages
+
+Title: EA SPORTS FC™ 27  
+ Genre: Simulation, Sports  
+
+Developer: EA CANADA, EA Romania
+
+Publisher: Electronic Arts
+
+Franchise: EA SPORTS FC™, EA Play
+
+Release Date: 24 Sep, 2026
+
+Discord External   YouTube External   Facebook External   X External   Twitch External   Instagram External   TikTok External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Ratings
+
+18
+
+Includes Interactive Elements [...] All Games > Sports Games > EA Sports Franchise > EA SPORTS FC™ 27
+
+Community Hub
+
+EA SPORTS FC™ 27
+
+EA SPORTS FC™ 27
+
+EA SPORTS FC™ 27
+
+Developer
+
+EA CANADA, EA Romania
+
+Publisher
+
+Electronic Arts
+
+Release
+
+24 Sep, 2026
+
+Welcome to The World’s Game in EA SPORTS FC™ 27. Step into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay.
+
+All Reviews: [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+24 Sep, 2026
+
+Developer:
+
+EA CANADA, EA Romania
+
+Publisher:
+
+Electronic Arts
+
+Tags
+
+Popular user-defined tags for this product:
+
+Sports  Football (Soccer)  Singleplayer  Multiplayer  Local Co-Op  Online Co-Op  Realistic  Local Multiplayer  Family Friendly  Simulation  PvP  4 Player Local 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player
+
+Online PvP",,"gameplay, release date",40,medium,"Exact title match (+20); Keywords ['gameplay', 'release date'] (+20)",general
+4080220,web_result,unknown_date,https://www.nintendo.com/us/store/products/ea-sports-fc-27-switch-2,EA SPORTS FC™ 27 for Nintendo Switch 2,"### System
+
+Nintendo Switch 2
+
+### Publisher
+
+Electronic Arts
+
+### Developer
+
+EA
+
+### Supported languages
+
+Japanese, British English, French, German, Italian, Spanish, Korean, Dutch, Portuguese, Russian, Simplified Chinese, Latin American Spanish, Brazilian Portuguese, Traditional Chinese, Polish
+
+### Release date
+
+September 25, 2026
+
+### ESRB rating
+
+Users Interact, In-Game Purchases (Includes Random Items)
+
+About Supported Features [...] Immortalise your dream club in Football Ultimate Team™ with the brand-new FUT Gallery. Curate your favourite Player Items to grow your Gallery Level, earn rewards, and build your Club’s identity throughout the new football season.  
+Experience unrivalled authenticity in EA SPORTS FC™ 27, with match data from the world’s top leagues powering 21,000+ licensed players.  
+  
+Wishlist EA SPORTS FC™ 27 today to be notified when pre-order is available. Coming this September. [...] Software description provided by the publisher.
+
+EA SPORTS FC™ 27
+
+## About this item
+
+### Game file size (estimated)
+
+66.5 GB
+
+### Supported play modes
+
+TV mode
+
+Tabletop mode
+
+Handheld mode
+
+### No. of players
+
+Single system (1-4)
+
+Local wireless (2)
+
+Online (2-100)
+
+### GameShare
+
+Online, Local",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4080220,web_result,unknown_date,https://www.ea.com/games/ea-sports-fc/fc-27/buy,Pre-order EA SPORTS FC™ 27 - Electronic Arts,"# Pre-order EA SPORTS FC™ 27
+
+Digital render of Kylian Mbappé along with a logo of EA SPORTS FC™ 27. is now the current item in the media gallery
+
+The World’s Game. Watch the full EA SPORTS FC™ 27 reveal on July 23. Subscribe to see more from EA SPORTS FC: 
+
+Base game
+
+Available on
+
+Sep 24, 2026 - 11 PM UTC
+
+On EA app starting from
+
+US$ 69.99
+
+Applicable taxes may apply [...] ## About the game
+
+Welcome to The World’s Game in EA SPORTS FC 27. Step into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay.
+
+### Platforms
+
+Steam, Epic Games, PC, PlayStation®, Xbox
+
+### Languages [...] ### Languages
+
+English, Italian, Russian, Polish, Swedish, Danish, Turkish, Portuguese (Brazil), Portuguese (Portugal), French, Japanese, Chinese (Simplified), German, Arabic, Korean, Spanish (Mexico), Spanish (Spain), Czech, Norwegian Bokmål, Dutch, Chinese (Traditional)
+
+### Publisher
+
+Electronic Arts
+
+### Release Date
+
+Sep 24, 2026 - 11 PM UTC
+
+## System Requirements
+
+### Minimum
+
+ #### OS
+
+  Windows 10/11 - 64-Bit (Latest Update).
+ #### Processor(AMD)",,"gameplay, release date",40,medium,"Exact title match (+20); Keywords ['gameplay', 'release date'] (+20)",general
+4080220,reddit_discussion,unknown_date,https://www.reddit.com/r/EASportsFC/comments/1u4ylh1/fc_27_release_date,FC 27 Release Date? : r/EASportsFC,Something like the 25th of September. It's always in that time period with early access being a week earlier,,release date,30,weak,Reddit (+10); Keywords ['release date'] (+20),general
+4080220,reddit_discussion,unknown_date,https://www.reddit.com/r/GameProfessional/comments/1v4p95h/game_professional_ea_sports_fc_27_reveal_trailer,Game Professional | EA SPORTS FC 27 – Reveal Trailer,Welcome to The World's Game. EA SPORTS FC ™ 27 launches 25 September. Step into The Grounds to experience a football playground where the,,trailer,30,weak,Reddit (+10); Keywords ['trailer'] (+20),social
+4080220,reddit_discussion,unknown_date,https://www.reddit.com/r/EASportsFC/comments/1v4iss7/ea_fc_27_gameplay_attacking_offside_avoidance,r/EASportsFC on Reddit: EA FC 27 | Gameplay: Attacking (Offside ...,"EA FC 27 | Gameplay: Attacking (Offside Avoidance, Pass & Follow, Faster 1-2s) Retuned AI defending, no more AI tackles, more control to manual",,gameplay,30,weak,Reddit (+10); Keywords ['gameplay'] (+20),social
+4080220,reddit_discussion,unknown_date,https://www.reddit.com/r/EASportsFC/comments/1v4idas/ea_fc_27_hall_of_fut,r/EASportsFC - EA FC 27 | Hall of FUT,"For now, as part of the EA SPORTS FC™ 27 Ultimate Plus Edition, you can receive a Hall of FUT (1 of 5) Player Pick of these five players",,,30,weak,Reddit (+10); Exact title match (+20),social
+4080220,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=4ahjCVL3R8Q,We Need To Talk About EA FC27....,,"EA FC 27 is starting to take shape, and there are already some big talking points. In this video, we break down everything you ...",,30,weak,Inside extended window (+15); YouTube (+15),
+4080220,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=4ahjCVL3R8Q,We Need To Talk About EA FC27....,,"EA FC 27 is starting to take shape, and there are already some big talking points. In this video, we break down everything you ...",,30,weak,Inside extended window (+15); YouTube (+15),
+4080220,social_post,unknown_date,https://www.tiktok.com/@zed.fifa/video/7665761455152631073,FC 27 günstiger bekommen (Trick‼) ##fc26 ...,"EA Sports FC 27 launches September 25. The game introduces The Grounds — a football playground — plus community-driven gameplay updates, a",,gameplay,25,weak,Social Index (+5); Keywords ['gameplay'] (+20),social
+4080220,social_post,unknown_date,https://www.instagram.com/reel/DbL1WYXCZJd,Get your first look at EA Sports FC 27 ⚽⁣ ⁣ Featuring an all ...,EA SPORTS FC™ 27 launches 25 September. Pre-order now with @gamespot_tz. Step into The Grounds to experience a football playground where the,,,25,weak,Social Index (+5); Exact title match (+20),social
+4080220,social_post,unknown_date,https://www.instagram.com/p/DbK72Xxn52L,Can't wait to rock around The Grounds with the A-Leagues,"EA Sports FC 27 has been announced with a reveal trailer and a release date of September 25th. For those who like this type of game, I recommend",,"trailer, release date",25,weak,"Social Index (+5); Keywords ['trailer', 'release date'] (+20)",social
+4080220,social_post,unknown_date,https://x.com/FGZNews,FGZ ⚽️🎮 (@FGZNews) / Posts / X,"EA SPORTS FCTM 27 game modes, community-driven gameplay improvements contribute to enhanced control and fluidity, featuring dynamic corners, stronger attacking",,gameplay,25,weak,Social Index (+5); Keywords ['gameplay'] (+20),social
+4080220,social_post,unknown_date,https://x.com/EgoDailyDeals/status/2080581485073940482,Welcome to The World's Game in EA SPORTS FC™ 27. ...,Welcome to The World's Game in EA SPORTS FCTM 27. Pre-Order EA SPORTS FCTM 27 now from https://t.co/qP8d1HTMpC ❤️⚽,,,25,weak,Social Index (+5); Exact title match (+20),social
+4080220,social_post,unknown_date,https://x.com/FutSheriff/status/2080329955305537877,🚨 EA SPORTS FC™ 27 LITE is also coming ✅ • ✅ FREE-to- ...,"✓ FREE-to-download preview of EA SPORTS FC™ 27 available at launch. • ✓ Players can explore select game modes, such as Kick-Off, with the",,,25,weak,Social Index (+5); Exact title match (+20),social
+4080220,social_post,unknown_date,https://x.com/EASPORTSFC,EA SPORTS FC (@EASPORTSFC) / X,"Jul 21
+
+  Back on the cover. Ready to go again. @KMbappe leads the #FC27 Cover. See the full reveal, July 23: youtu.be/MOclJJ7IpSY
+
+  
+ user avatar
+
+  EA SPORTS FC
+
+  @EASPORTSFC
+
+  Jul 19
+
+  We called it. You played it. Spain made it a reality. Five predictions in a row, and @SEFutbol lifted the trophy 11M+ times across #FC26 and #FCMobile. Congratulations on your second star ⭐️⭐️ #TheWorldsGame [...] Create account
+
+By signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use.
+
+ Pinned
+
+  user avatar
+
+  EA SPORTS FC
+
+  @EASPORTSFC
+
+  19h
+
+  Welcome to The World's Game in #FC27, launching September 25. Experience a football playground in The Grounds, feel greater control with community-driven gameplay updates, and enjoy all-new features across every mode. Pre-order #FC27 now: x.ea.com/90136
+
+  
+
+  00:00
+
+  9.3M
+ user avatar
+
+  EA SPORTS FC
+
+  @EASPORTSFC
+
+  21h [...] 21h
+
+  Every generation has its defining players. @KMbappe and @BellinghamJude lead the Ultimate Plus Edition cover. See the full #FC27 reveal today: youtu.be/MOclJJ7IpSY
+
+  
+
+  413K
+ user avatar
+
+  EA SPORTS FC
+
+  @EASPORTSFC
+
+  Jul 22
+
+  Built from The Grounds up. The #FC27 Standard Edition is here. See the full reveal July 23: youtu.be/MOclJJ7IpSY
+
+  
+
+  3.8M
+ user avatar
+
+  EA SPORTS FC
+
+  @EASPORTSFC
+
+  Jul 21",,gameplay,25,weak,Social Index (+5); Keywords ['gameplay'] (+20),social
+4080220,web_result,unknown_date,https://store.steampowered.com/app/4032350/EA_SPORTS_College_Football_27,EA SPORTS™ College Football 27 on Steam,"English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+
+View Steam Achievements (22)
+
+Includes 22 Steam Achievements
+
+ View  
+all 22
+
+Title: EA SPORTS™ College Football 27  
+ Genre: Simulation, Sports  
+
+Developer: Tiburon
+
+Publisher: Electronic Arts
+
+Franchise: EA Sports, College Football
+
+Release Date: 9 Jul, 2026
+
+Visit the website External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Ratings
+
+PG [...] In EA SPORTS™ College Football 27, step into the modern era of college football where personal ambition meets program pride. Engineer your program with Dynasty Blueprint, build your player and take on new positions in Road to Glory, and play as your favorite mascots in Mascot Mashup while immersed in the iconic traditions and pageantry of game day.  
+  
+DYNASTY [...] All Games > Sports Games > EA Sports Franchise > EA SPORTS™ College Football 27
+
+Community Hub
+
+EA SPORTS™ College Football 27
+
+EA SPORTS™ College Football 27
+
+EA SPORTS™ College Football 27
+
+Publisher
+
+Electronic Arts
+
+Released
+
+9 Jul, 2026
+
+Step into the modern era of college football, where personal ambition meets program pride. Balance expectations, identity, and everything Saturday demands while immersed in traditions and pageantry of game day.
+
+All Reviews:",,release date,20,weak,Keywords ['release date'] (+20),general
+4080220,web_result,unknown_date,https://store.steampowered.com/app/3405690/EA_SPORTS_FC_26,Save 80% on EA SPORTS FC™ 26 on Steam,"Internet connection; EA Account; Steam Account; acceptance of the EA User Agreement (terms.ea.com); and download & installation of EA's client software EA app (ea.com/ea-app) required to play. EA’s Privacy & Cookie Policy applies to your use of EA's services. You consent to any personal data collected through your use of EA's services being transferred to the United States, as further explained in the Privacy & Cookie Policy. You must link your EA and Steam Accounts to play; EA will share your [...] §§ Picks pulled from Knockout Royalty, Fantasy FC, FUT Birthday and Trophy Titans.  
+ §§§ Picks include 1 player from each of; Argentina, Brazil, Canada, England, France, Germany, Mexico, Netherlands, Portugal, Saudi Arabia, Spain, USA.  
+   
+ © 2025 Electronic Arts Inc. Electronic Arts, EA, EA SPORTS, the EA SPORTS logo, EA SPORTS FC, the EA SPORTS FC logo, Frostbite, the Frostbite logo, Football Ultimate Team, and Ultimate Team are trademarks of Electronic Arts Inc. [...] Recent Reviews:
+
+Mixed  (15,955)   - 57% of the 15,955 user reviews in the last 30 days are positive. English Reviews:
+
+Mixed  (25,967)   - 50% of the 25,967 user reviews for this game are positive.
+
+Release Date:
+
+25 Sep, 2025
+
+Developer:
+
+EA Canada, EA Romania
+
+Publisher:
+
+Electronic Arts
+
+Tags
+
+Popular user-defined tags for this product:",,release date,20,weak,Keywords ['release date'] (+20),general
+4080220,web_result,unknown_date,https://www.forbes.com/sites/brianmazique/2026/07/23/ea-fc-27-official-trailer-shows-off-gameplay-and-more,EA FC 27 Official Trailer Shows Off Gameplay And More,"The EA FC trailer has officially dropped, offering fans their first glimpse of the highly anticipated game. Kylian Mbappé returns as the cover athlete for the Ultimate Edition and mobile version, marking his debut as an EA Sports FC star following the rebrand. The visually impressive trailer, released on July 23, 2026, kicks off the game's reveal season. While EA has confirmed little beyond the cover and trailer date, leaks suggest a September 25, 2026 release, with Ultimate Edition and EA Play [...] Cover athlete: Kylian Mbappé (Ultimate Edition, also EA Sports FC Mobile)
+ Reveal trailer: July 23, 2026 on YouTube
+ Leaked release date: September 25, 2026 (not officially confirmed)
+ Leaked early access: up to eight days early for Ultimate Edition and EA Play
+ Publisher: EA Sports (Electronic Arts)
+
+## What Does the EA FC 27 Trailer Show? [...] With Mbappe in place as the game's cover athlete again, we knew he'd be featured prominently in the trailer. Visually, EA FC continues to raise the bar for sports titles with other games across the genre walking in lock step with EA's glory franchise.",,"trailer, gameplay, release date",20,weak,"Keywords ['trailer', 'gameplay', 'release date'] (+20)",general
+4080220,web_result,unknown_date,https://www.theouterhaven.net/ea-sports-fc-27-gameplay-trailer-revealed-but-thats-not-all,EA SPORTS FC 27 Gameplay Trailer Revealed But That's Not All,EA revealed the gameplay trailer for its latest football/soccer title EA SPORTS FC 27. Here's everything we learnt from it.,,"trailer, gameplay",20,weak,"Keywords ['trailer', 'gameplay'] (+20)",general
+4080220,web_result,unknown_date,https://www.youtube.com/watch?v=jnaRF7g75w8,FIRST LOOK at FC 27 Gameplay! 🤯 Full Breakdown,"FIRST LOOK at FC 27 Gameplay! 🤯 Full Breakdown
+Fuji
+299000 subscribers
+58 likes
+3800 views
+23 Jul 2026
+In this video, I give a full breakdown of the brand-new FC 27 gameplay, covering all the new mechanics, features, and everything revealed so far.
+
+► Save 8% on FC26 coins using my code ""Fuji"" at https://mmoexp.com/Influencer/Fuji
+► Want Free coins? Join discord https://discord.gg/mmoexp
+
+⚽ Watch the full FC 26 RTG Playlist here: https://www.youtube.com/playlist?list=PLqTIt0C1nd-yTlx0ytKRBDuxRV7pe2aAE
+
+Follow me on the socials below! 😄
+
+👉 https://x.com/Fuji720x
+👉 https://www.twitch.tv/fuji720x
+👉 https://www.tiktok.com/@fuji720x
+
+Make sure to subscribe to keep up to date with my FC 26 Road to Glory Ultimate Team series! 
+
+#EAFC #EAFC26 #FC26
+15 comments
+",,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+4080220,web_result,unknown_date,https://www.theouterhaven.net/ea-sports-fc-27-gameplay-trailer-revealed-but-thats-not-all,EA SPORTS FC 27 Gameplay Trailer Revealed But That's ...,1 day ago — EA revealed the gameplay trailer for its latest football/soccer title EA SPORTS FC 27. Here's everything we learnt from it.,,"trailer, gameplay",20,weak,"Keywords ['trailer', 'gameplay'] (+20)",general
+4080220,web_result,unknown_date,https://www.youtube.com/watch?v=MOclJJ7IpSY,EA SPORTS FC 27 | Official Reveal Trailer,"EA SPORTS FCTM 27 launches 25 September. Learn more about FC 27 Gameplay, Career, FUT, and Clubs … kicks off July 29th. Receive up to 10,000 FC",,"trailer, gameplay",20,weak,"Keywords ['trailer', 'gameplay'] (+20)",general
+4080220,web_result,unknown_date,https://www.facebook.com/groups/861889935431114/posts/1562853548668079,EA releases playable demo for FC27,"For the first time in years, EA will release a playable demo with online matches. FC Lite is set to launch on September 25, alongside the",,demo,20,weak,Keywords ['demo'] (+20),general
+4080220,web_result,unknown_date,https://www.ea.com/games/ea-sports-fc/fc-27/buy,Pre-order EA SPORTS FC™ 27 - Electronic Arts,"# Pre-order EA SPORTS FC™ 27. Digital render of Kylian Mbappé along with a logo of EA SPORTS FC™ 27. Watch the full EA SPORTS FC™ 27 reveal on July 23. and Terms Of Sale apply.This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items including a random selection of virtual in-game items. Get the most out of FC with this Limited Time Edition: Pre-order\*\* the Ultimate Plus Edition, only available through 31 August, for special rewards. Get full access to EA SPORTS FC™ 27 beginning 18 September. Get an untradeable 85+ OVR International ICON Player Item in EA SPORTS FC™ 27. ### FC 26 1 of 4 93+ OVR ICON Player Pick. Pick 1 of 4 untradeable ICON players rated 93 or above in EA SPORTS FC™ 26 (sold separately), available immediately. ### FC 26 Physical Evo. Receive an Evo that boosts any player’s physical Attributes to 99 in EA SPORTS FC™ 26 (sold separately), available immediately.",,,20,weak,Exact title match (+20),general
+4080220,web_result,unknown_date,https://www.ea.com/games/ea-sports-fc/fc-27,EA SPORTS FC™ 27 - Official Site - Electronic Arts,"*   [![Image 1: Logo for EA SPORTS FC™ 27](https://drop-assets.ea.com/images/3r1oQR79MwAZuzpQUpeqWr/08c606b8046d11071ca14a3a51e92edc/fc-27-logo-horizontal.png)](https://www.ea.com/games/ea-sports-fc/fc-27). [Newsletter Sign-up](https://www.ea.com/games/ea-sports-fc/fc-27/newsletter). ![Image 2: Kylian Mbappé against a dark background with a logo of EA SPORTS FC™ 27 Ultimate Edition above him.](https://drop-assets.ea.com/images/51wavpg0Z2TjOhuxKICKHB/fe30de0d4a0b028dd5aca384ba5ed583/EA_FC27_ULT_KeyArt_RGB_16x9_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.5057291666666667,yPosition=0.3648148148148148). Sign up today to receive the latest products, events, news, and promotions from EA SPORTS FC™ 27 and EA by email consistent with EA’s [Privacy and Cookie Policy](https://www.ea.com/legal/privacy-and-cookie-policy). Sign up today to receive the latest products, events, news, and promotions from EA SPORTS FC™ 27 and EA by email consistent with EA’s [Privacy and Cookie Policy](https://www.ea.com/legal/privacy-and-cookie-policy). [![Image 3: Logo for EA SPORTS FC™, where ""EA SPORTS"" is enclosed in a circle and FC is stylized as a downward triangle.](https://drop-assets.ea.com/images/W7jZ4vGojPtXKtHG0UAQQ/5e4c25d06e2346d2ef1f0db4e130b812/ea-primary-fc-logo-hero-med.svg)](https://www.ea.com/games/ea-sports-fc). [![Image 4: Logo for EA SPORTS FC™ 27](https://drop-assets.ea.com/images/3r1oQR79MwAZuzpQUpeqWr/08c606b8046d11071ca14a3a51e92edc/fc-27-logo-horizontal.png)](https://www.ea.com/games/ea-sports-fc/fc-27). *   [EA app for Windows](https://www.ea.com/ea-app). *   [EA app for Mac](https://www.ea.com/origin-for-mac). *   [Sports Games](https://www.ea.com/games/library/sports). *   [Help](https://help.ea.com/). [Legal](https://www.ea.com/legal). [User Agreement](https://www.ea.com/terms-of-service). [Privacy and Cookie Policy](https://www.ea.com/legal/privacy-and-cookie-policy). *   [Your Privacy Choices](https://www.ea.com/games/ea-sports-fc/fc-27). [Corporate Information](https://www.ea.com/about). [Security](https://www.ea.com/en-us/security). *   [Online Service Updates](https://www.ea.com/service-updates). [](https://www.ea.com/games/ea-sports-fc/fc-27). ![Image 7](https://www.ea.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFC27_Default_BG.3b9ae213.png&w=2560&q=75).",,,20,weak,Exact title match (+20),general
+4080220,web_result,unknown_date,https://escharts.com/news/ea-sports-fc-27-release-date-features-best-teams-more,"EA Sports FC 27 Release Date, Features, Platforms, and New Modes Explained | Esports Charts","* EA Sports FC 27: Release date, features, best teams & more. 2026 is a big year for football fans. Kicking off in June, the FIFA World Cup is set to occupy the thoughts of fans and punters assessing the best betting offers. EA Sports FC 27 is the most anticipated football game release of the year. Building on the success of FC 26, this latest EA Sports FC instalment promises new ways to play, fresh features and wider platform support for fans around the world. EA Sports FC 27 is scheduled for a worldwide release on 24 September 2026. For fans of football games, EA Sports FC 27 looks like the next step in the franchise’s evolution. Whether you’re here for Ultimate Team, Career Mode, or just the joy of scoring a last‑minute winner, FC 27 promises to be an exciting chapter in the world’s favourite sport, both in the real world and the virtual realm.",,release date,20,weak,Keywords ['release date'] (+20),general
+4080220,web_result,unknown_date,https://fifauteam.com/fc-27-release-date,FC 27 Release Date,EA FC 27 release date is September 25 2026. EA Play and Ultimate Edition subscribers can start playing it 7 days before the worldwide launch.,,release date,20,weak,Keywords ['release date'] (+20),general
+4080220,web_result,unknown_date,https://www.radiotimes.com/technology/gaming/fc-27-release-date,"FC 27: Release date speculation, early access, platforms, pre-orders and latest news | Radio Times","# FC 27: Release date speculation, early access, platforms, pre-orders and latest news. With the World Cup now over, plenty of us are already excited for the new season to kick off, as well as the approaching FC 27 release date. But if you want to know when FC 27 is going to release, here's everything we know about this year's game. ## **FC 27 release date speculation**. **The FC 27 release date is yet to be confirmed by EA Sports.**. That being said, based on previous years, it's safe to assume that the game will launch on the last Friday of September. Applying that to the release date above, then we can assume that FC 27 early access could open on 18 September 2026. EA hasn't confirmed what platforms FC 27 is on, but it's safe to assume based on previous years that it will launch on PS5, Xbox Series X/S, PC and Nintendo Switch 2.",,release date,20,weak,Keywords ['release date'] (+20),general
+4080220,web_result,unknown_date,https://www.youtube.com/watch?v=MOclJJ7IpSY,EA SPORTS FC 27 | Official Reveal Trailer,"EA SPORTS FCTM 27 launches 25 September. Pre-order now: kicks off July 29th. Receive up to 10,000 FC Points across 5 months, Seasons 1 - 5 of",,trailer,20,weak,Keywords ['trailer'] (+20),general
+4080220,web_result,unknown_date,https://www.ea.com/games/ea-sports-fc/fc-27/buy,Pre-order EA SPORTS FC™ 27 - Electronic Arts,"# Pre-order EA SPORTS FC™ 27. Digital render of Kylian Mbappé along with a logo of EA SPORTS FC™ 27. Watch the full EA SPORTS FC™ 27 reveal on July 23. and Terms Of Sale apply.This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items including a random selection of virtual in-game items. Get the most out of FC with this Limited Time Edition: Pre-order\*\* the Ultimate Plus Edition, only available through 31 August, for special rewards. Get full access to EA SPORTS FC™ 27 beginning 18 September. Get an untradeable 85+ OVR International ICON Player Item in EA SPORTS FC™ 27. ### FC 26 1 of 4 93+ OVR ICON Player Pick. Pick 1 of 4 untradeable ICON players rated 93 or above in EA SPORTS FC™ 26 (sold separately), available immediately. ### FC 26 Physical Evo. Receive an Evo that boosts any player’s physical Attributes to 99 in EA SPORTS FC™ 26 (sold separately), available immediately.",,,20,weak,Exact title match (+20),general
+4080220,web_result,unknown_date,https://www.ea.com/games/ea-sports-fc/fc-27,EA SPORTS FC™ 27 - Official Site - Electronic Arts,"*   [![Image 1: Logo for EA SPORTS FC™ 27](https://drop-assets.ea.com/images/3r1oQR79MwAZuzpQUpeqWr/08c606b8046d11071ca14a3a51e92edc/fc-27-logo-horizontal.png)](https://www.ea.com/games/ea-sports-fc/fc-27). [Newsletter Sign-up](https://www.ea.com/games/ea-sports-fc/fc-27/newsletter). ![Image 2: Kylian Mbappé against a dark background with a logo of EA SPORTS FC™ 27 Ultimate Edition above him.](https://drop-assets.ea.com/images/51wavpg0Z2TjOhuxKICKHB/fe30de0d4a0b028dd5aca384ba5ed583/EA_FC27_ULT_KeyArt_RGB_16x9_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.5057291666666667,yPosition=0.3648148148148148). Sign up today to receive the latest products, events, news, and promotions from EA SPORTS FC™ 27 and EA by email consistent with EA’s [Privacy and Cookie Policy](https://www.ea.com/legal/privacy-and-cookie-policy). Sign up today to receive the latest products, events, news, and promotions from EA SPORTS FC™ 27 and EA by email consistent with EA’s [Privacy and Cookie Policy](https://www.ea.com/legal/privacy-and-cookie-policy). [![Image 3: Logo for EA SPORTS FC™, where ""EA SPORTS"" is enclosed in a circle and FC is stylized as a downward triangle.](https://drop-assets.ea.com/images/W7jZ4vGojPtXKtHG0UAQQ/5e4c25d06e2346d2ef1f0db4e130b812/ea-primary-fc-logo-hero-med.svg)](https://www.ea.com/games/ea-sports-fc). [![Image 4: Logo for EA SPORTS FC™ 27](https://drop-assets.ea.com/images/3r1oQR79MwAZuzpQUpeqWr/08c606b8046d11071ca14a3a51e92edc/fc-27-logo-horizontal.png)](https://www.ea.com/games/ea-sports-fc/fc-27). *   [EA app for Windows](https://www.ea.com/ea-app). *   [EA app for Mac](https://www.ea.com/origin-for-mac). *   [Sports Games](https://www.ea.com/games/library/sports). *   [Help](https://help.ea.com/). [Legal](https://www.ea.com/legal). [User Agreement](https://www.ea.com/terms-of-service). [Privacy and Cookie Policy](https://www.ea.com/legal/privacy-and-cookie-policy). *   [Your Privacy Choices](https://www.ea.com/games/ea-sports-fc/fc-27). [Corporate Information](https://www.ea.com/about). [Security](https://www.ea.com/en-us/security). *   [Online Service Updates](https://www.ea.com/service-updates). [](https://www.ea.com/games/ea-sports-fc/fc-27). ![Image 7](https://www.ea.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFC27_Default_BG.3b9ae213.png&w=2560&q=75).",,,20,weak,Exact title match (+20),general
+4080220,web_result,unknown_date,https://www.aol.com/articles/ea-sports-fc-27-release-082713000.html,"EA Sports FC 27 release date, rumours and everything we know so far - AOL","# EA Sports FC 27 release date, rumours and everything we know so far. EA recently released it's 'The World's Game' update for FC 26 to tie in with the FIFA World Cup (EA Sports). *A franchise that constantly endures, EA Sports* has been dominating the world of football games for decades. The different gameplay modes were arguably the biggest changes from *FC 25,* but as has been the case for a little while now, EA continues to refine rather than revolutionise its football games. When will it be announced? And when could it release? ## ‘EA Sports FC 27’ release date: When could the game come out? ## When could ‘EA Sports FC 27’ be announced? If you’ve not yet picked up a copy of *FC 26*, now is a great time to do so with the business end of the Fifa World Cup approaching and *EA Sports* having launched ‘The World’s Game’ update, it’s take on unofficial World Cup content.",,"gameplay, release date",20,weak,"Keywords ['gameplay', 'release date'] (+20)",general
+4080220,web_result,unknown_date,https://www.youtube.com/watch?v=MOclJJ7IpSY,EA SPORTS FC 27 | Official Reveal Trailer,"EA SPORTS FCTM 27 launches 25 September. Gameplay, Career, FUT, and Clubs … kicks off July 29th. Receive up to 10,000 FC Points across 5 months",,"trailer, gameplay",20,weak,"Keywords ['trailer', 'gameplay'] (+20)",general
+4080220,web_result,unknown_date,https://www.ea.com/games/ea-sports-fc/fc-27,EA SPORTS FC™ 27 - Official Site - Electronic Arts,"*   [![Image 1: Logo for EA SPORTS FC™ 27](https://drop-assets.ea.com/images/3r1oQR79MwAZuzpQUpeqWr/08c606b8046d11071ca14a3a51e92edc/fc-27-logo-horizontal.png)](https://www.ea.com/games/ea-sports-fc/fc-27). [Newsletter Sign-up](https://www.ea.com/games/ea-sports-fc/fc-27/newsletter). ![Image 2: Kylian Mbappé against a dark background with a logo of EA SPORTS FC™ 27 Ultimate Edition above him.](https://drop-assets.ea.com/images/51wavpg0Z2TjOhuxKICKHB/fe30de0d4a0b028dd5aca384ba5ed583/EA_FC27_ULT_KeyArt_RGB_16x9_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.5057291666666667,yPosition=0.3648148148148148). Sign up today to receive the latest products, events, news, and promotions from EA SPORTS FC™ 27 and EA by email consistent with EA’s [Privacy and Cookie Policy](https://www.ea.com/legal/privacy-and-cookie-policy). Sign up today to receive the latest products, events, news, and promotions from EA SPORTS FC™ 27 and EA by email consistent with EA’s [Privacy and Cookie Policy](https://www.ea.com/legal/privacy-and-cookie-policy). [![Image 3: Logo for EA SPORTS FC™, where ""EA SPORTS"" is enclosed in a circle and FC is stylized as a downward triangle.](https://drop-assets.ea.com/images/W7jZ4vGojPtXKtHG0UAQQ/5e4c25d06e2346d2ef1f0db4e130b812/ea-primary-fc-logo-hero-med.svg)](https://www.ea.com/games/ea-sports-fc). [![Image 4: Logo for EA SPORTS FC™ 27](https://drop-assets.ea.com/images/3r1oQR79MwAZuzpQUpeqWr/08c606b8046d11071ca14a3a51e92edc/fc-27-logo-horizontal.png)](https://www.ea.com/games/ea-sports-fc/fc-27). *   [EA app for Windows](https://www.ea.com/ea-app). *   [EA app for Mac](https://www.ea.com/origin-for-mac). *   [Sports Games](https://www.ea.com/games/library/sports). *   [Help](https://help.ea.com/). [Legal](https://www.ea.com/legal). [User Agreement](https://www.ea.com/terms-of-service). [Privacy and Cookie Policy](https://www.ea.com/legal/privacy-and-cookie-policy). *   [Your Privacy Choices](https://www.ea.com/games/ea-sports-fc/fc-27). [Corporate Information](https://www.ea.com/about). [Security](https://www.ea.com/en-us/security). *   [Online Service Updates](https://www.ea.com/service-updates). [](https://www.ea.com/games/ea-sports-fc/fc-27). ![Image 7](https://www.ea.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFC27_Default_BG.3b9ae213.png&w=2560&q=75).",,,20,weak,Exact title match (+20),general
+4080220,web_result,unknown_date,https://www.ea.com/games/ea-sports-fc/fc-27,EA SPORTS FC™ 27 - Official Site - Electronic Arts,"*   [![Image 1: Logo for EA SPORTS FC™ 27](https://drop-assets.ea.com/images/3r1oQR79MwAZuzpQUpeqWr/08c606b8046d11071ca14a3a51e92edc/fc-27-logo-horizontal.png)](https://www.ea.com/games/ea-sports-fc/fc-27). [Newsletter Sign-up](https://www.ea.com/games/ea-sports-fc/fc-27/newsletter). ![Image 2: Kylian Mbappé against a dark background with a logo of EA SPORTS FC™ 27 Ultimate Edition above him.](https://drop-assets.ea.com/images/51wavpg0Z2TjOhuxKICKHB/fe30de0d4a0b028dd5aca384ba5ed583/EA_FC27_ULT_KeyArt_RGB_16x9_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.5057291666666667,yPosition=0.3648148148148148). Sign up today to receive the latest products, events, news, and promotions from EA SPORTS FC™ 27 and EA by email consistent with EA’s [Privacy and Cookie Policy](https://www.ea.com/legal/privacy-and-cookie-policy). Sign up today to receive the latest products, events, news, and promotions from EA SPORTS FC™ 27 and EA by email consistent with EA’s [Privacy and Cookie Policy](https://www.ea.com/legal/privacy-and-cookie-policy). [![Image 3: Logo for EA SPORTS FC™, where ""EA SPORTS"" is enclosed in a circle and FC is stylized as a downward triangle.](https://drop-assets.ea.com/images/W7jZ4vGojPtXKtHG0UAQQ/5e4c25d06e2346d2ef1f0db4e130b812/ea-primary-fc-logo-hero-med.svg)](https://www.ea.com/games/ea-sports-fc). [![Image 4: Logo for EA SPORTS FC™ 27](https://drop-assets.ea.com/images/3r1oQR79MwAZuzpQUpeqWr/08c606b8046d11071ca14a3a51e92edc/fc-27-logo-horizontal.png)](https://www.ea.com/games/ea-sports-fc/fc-27). *   [EA app for Windows](https://www.ea.com/ea-app). *   [EA app for Mac](https://www.ea.com/origin-for-mac). *   [Sports Games](https://www.ea.com/games/library/sports). *   [Help](https://help.ea.com/). [Legal](https://www.ea.com/legal). [User Agreement](https://www.ea.com/terms-of-service). [Privacy and Cookie Policy](https://www.ea.com/legal/privacy-and-cookie-policy). *   [Your Privacy Choices](https://www.ea.com/games/ea-sports-fc/fc-27). [Corporate Information](https://www.ea.com/about). [Security](https://www.ea.com/en-us/security). *   [Online Service Updates](https://www.ea.com/service-updates). [](https://www.ea.com/games/ea-sports-fc/fc-27). ![Image 7](https://www.ea.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFC27_Default_BG.3b9ae213.png&w=2560&q=75).",,,20,weak,Exact title match (+20),general
+4080220,web_result,unknown_date,https://www.facebook.com/rahimaliofficial/videos/ea-sports-fc-27-official-reveal-trailer-reaction-review-trailer-video-credits-ea/1020323057286770,EA SPORTS FC 27 OFFICIAL REVEAL TRAILER REACTION & REVIEW ...,** All players will have high defensive & attacking mentality. ** Teams will defend more as unit and not as single players. Midfielders will,,trailer,20,weak,Keywords ['trailer'] (+20),general
+4080220,web_result,unknown_date,https://www.businesswire.com/news/home/20260723334852/en/Kylian-Mbapp-and-Jude-Bellingham-Welcome-You-to-EA-SPORTS-FC-27-Launching-Worldwide-on-September-25,Kylian Mbappé and Jude Bellingham Welcome You to EA ...,"2 days ago — Today, Electronic Arts, Inc. (NASDAQ: EA) revealed the cover of the Ultimate Plus Edition for EA SPORTS FC™ 27, featuring Real Madrid",,,20,weak,Exact title match (+20),general
+4080220,web_result,unknown_date,https://www.ea.com/games/ea-sports-fc/fc-27/buy,Pre-order EA SPORTS FC™ 27 - Electronic Arts,"# Pre-order EA SPORTS FC™ 27. Digital render of Kylian Mbappé along with a logo of EA SPORTS FC™ 27. Watch the full EA SPORTS FC™ 27 reveal on July 23. and Terms Of Sale apply.This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items including a random selection of virtual in-game items. Get the most out of FC with this Limited Time Edition: Pre-order\*\* the Ultimate Plus Edition, only available through 31 August, for special rewards. Get full access to EA SPORTS FC™ 27 beginning 18 September. Get an untradeable 85+ OVR International ICON Player Item in EA SPORTS FC™ 27. ### FC 26 1 of 4 93+ OVR ICON Player Pick. Pick 1 of 4 untradeable ICON players rated 93 or above in EA SPORTS FC™ 26 (sold separately), available immediately. ### FC 26 Physical Evo. Receive an Evo that boosts any player’s physical Attributes to 99 in EA SPORTS FC™ 26 (sold separately), available immediately.",,,20,weak,Exact title match (+20),general
+4080220,reddit_discussion,unknown_date,https://www.reddit.com/r/EASportsFC/comments/1v4i2ag/ea_fc_27_game_features,r/EASportsFC - EA FC 27 | Game Features,Retuned defending delivers more player control in EA SPORTS FCTM 27. Removing auto tackles and reducing the influence of AI defenders,,,10,weak,Reddit (+10),social
+4080220,social_post,unknown_date,https://www.tiktok.com/@fut_swarmzy/video/7664717479775653142,Helping you CHOOSE Which FC 27 VERSION to PRE ...,"EA SPORTS FC 27 leverages advanced technology to enhance realism, offering players unprecedented control and strategy on the field. Fans of the",,,5,weak,Social Index (+5),social
+4080220,social_post,unknown_date,https://www.tiktok.com/@easportsfc/video/7665754838055046422,EA SPORTS FC on TikTok,"Image 1: Welcome to The World's Game in #FC27, launching September 25. Welcome to The World's Game in #FC27, launching September 25. Image 3: The World’s Game Update has officially arrived in #FCMobile! Image 6: Warming up in #FCMobile ahead of the big game 🇹🇷 vs 🇺🇸 Step onto the pitch and play now like Weston and Kenan. Who’s joining you in Quick Match? Warming up in #FCMobile ahead of the big game 🇹🇷 vs 🇺🇸 Step onto the pitch and play now like Weston and Kenan. Image 7: Here is what you can expect from The World’s Game in #FC26. Here is what you can expect from The World’s Game in #FC26. Image 9: The summer of football starts now. The summer of football starts now. Image 11: “Tape…” 😂 who’s the imposter round 2 👀 @England #FC26. “Tape…” 😂 who’s the imposter round 2 👀 @England #FC26. The World’s Game Update has officially arrived in #FCMobile!",,,5,weak,Social Index (+5),social
+4080220,social_post,unknown_date,https://www.tiktok.com/@xsquiizyy/video/7666086744453893409,EA zeigt EA Sports FC 27 #FC27 #easportsfc27 #eafc27 # ...,"Welcome to The World's Game in #FC27 , launching September 25. Experience a football playground in The Grounds, feel greater control with",,,5,weak,Social Index (+5),social
+4080220,social_post,unknown_date,https://www.tiktok.com/@tobeyworld/video/7665360461776375062,EA FC 27 World Cup mode — What will they add? 2024 ...,"EA SPORTS FC 27 leverages advanced technology to enhance realism, offering players unprecedented control and strategy on the field. Fans of the",,,5,weak,Social Index (+5),social
+4080220,social_post,unknown_date,https://www.instagram.com/reel/DbK3syvuiw_,Step into The World's Game with @easportsfc #FC27 🎮 Built ...,"EA SPORTS FC 27 is the latest installment in Electronic Arts' long-running football simulation franchise, continuing the series' evolution",,,5,weak,Social Index (+5),social
+4080220,social_post,unknown_date,https://www.instagram.com/p/DbJKQEdklML,#AD Step into The World's Game with @EASPORTSFC ...,"EA Sports FC 27 is reportedly launching on September 25, 2026, with Early Access starting September 17 for Ultimate Edition owners and eligible",,,5,weak,Social Index (+5),social
+4080220,social_post,unknown_date,https://www.merriam-webster.com/dictionary/site,SITE Definition & Meaning,"[Dictionary](https://www.merriam-webster.com/dictionary/site#)Definition. *   [![Image 1](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/sidebar-nav-item-icon.svg)noun](https://www.merriam-webster.com/dictionary/site#dictionary-entry-1). *   [![Image 2](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/sidebar-nav-item-icon.svg)verb](https://www.merriam-webster.com/dictionary/site#dictionary-entry-2). *   [noun 2![Image 3](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/redesign/show-more-arrow.svg)](https://www.merriam-webster.com/dictionary/site#). *   [noun](https://www.merriam-webster.com/dictionary/site#dictionary-entry-1). *   [verb](https://www.merriam-webster.com/dictionary/site#dictionary-entry-2). *   [![Image 4](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/sidebar-nav-item-icon.svg)Did you know?![Image 5](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/redesign/lightbulb-icon.svg)](https://www.merriam-webster.com/dictionary/site#did-you-know). *   [![Image 6](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/sidebar-nav-item-icon.svg)Synonyms](https://www.merriam-webster.com/dictionary/site#synonyms). *   [![Image 7](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/sidebar-nav-item-icon.svg)Example Sentences](https://www.merriam-webster.com/dictionary/site#examples). *   [![Image 8](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/sidebar-nav-item-icon.svg)Word History](https://www.merriam-webster.com/dictionary/site#word-history). *   [![Image 9](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/sidebar-nav-item-icon.svg)Phrases Containing](https://www.merriam-webster.com/dictionary/site#related-phrases). *   [![Image 10](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/sidebar-nav-item-icon.svg)Rhymes](https://www.merriam-webster.com/dictionary/site#related-rhymes). *   [![Image 11](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/sidebar-nav-item-icon.svg)Entries Near](https://www.merriam-webster.com/dictionary/site#nearby-entries). *   [![Image 12](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/sidebar-nav-item-icon.svg)Related Articles](https://www.merriam-webster.com/dictionary/site#related-articles). *   [![Image 13](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/sidebar-nav-item-icon.svg)Cite this Entry Citation](https://www.merriam-webster.com/dictionary/site#citations). *   [![Image 14](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/sidebar-nav-item-icon.svg)Kids Definition Kids](https://www.merriam-webster.com/dictionary/site#kidsdictionary). *   [![Image 15](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/sidebar-nav-item-icon.svg)Medical Definition Medical](https://www.merriam-webster.com/dictionary/site#medicalDictionary). *   [![Image 16](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/sidebar-nav-item-icon.svg)More from M-W](https://www.merriam-webster.com/dictionary/site#more-from-mw). *   [Show more![Image 19](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/redesign/show-more-arrow.svg)](https://www.merriam-webster.com/dictionary/site#). *   [Citation](https://www.merriam-webster.com/dictionary/site#citations). *   [Kids](https://www.merriam-webster.com/dictionary/site#kidsdictionary). *   [Medical](https://www.merriam-webster.com/dictionary/site#medicalDictionary). *   [More from M-W](https://www.merriam-webster.com/dictionary/site#more-from-mw). **:**to place on a site or in position **:**[locate](https://www.merriam-webster.com/dictionary/locate). *   [place](https://www.merriam-webster.com/dictionary/place). 15th century, in the meaning defined at [sense 1a](https://www.merriam-webster.com/dictionary/site#h1). 15th century, in the meaning defined [above](https://www.merriam-webster.com/dictionary/site#h2). *   [active site](https://www.merriam-webster.com/dictionary/active%20site). *   [binding site](https://www.merriam-webster.com/dictionary/binding%20site). *   [bomb site](https://www.merriam-webster.com/dictionary/bomb%20site). *   [multi-site](https://www.merriam-webster.com/dictionary/multisite#multi-site). *   [off-site](https://www.merriam-webster.com/dictionary/off-site). *   [on-site](https://www.merriam-webster.com/dictionary/on-site). *   [site map](https://www.merriam-webster.com/dictionary/site%20map). *   [sub-site](https://www.merriam-webster.com/dictionary/subsite#sub-site). *   [Web site](https://www.merriam-webster.com/dictionary/website#Web-site). *   [work site](https://www.merriam-webster.com/dictionary/worksite#work-site). [site index](https://www.merriam-webster.com/dictionary/site%20index). [See all Nearby Words](https://www.merriam-webster.com/browse/dictionary/s/57). 'Sight' Spotting the differences](https://www.merriam-webster.com/grammar/cite-site-and-sight-usage). [![Image 22](https://prod.cdn-mw.com/dist-cross-dungarees/2026-07-23--18-50-36-1s7tk/images/svg/redesign/copy-icon.svg)Copy Citation](https://www.merriam-webster.com/dictionary/site). see [active site](https://www.merriam-webster.com/dictionary/active%20site#medicalDictionary). [Video 1](https://www.merriam-webster.com/dictionary/site). [Do not sell or share my personal information.](https://www.merriam-webster.com/).",,,5,weak,Social Index (+5),social
+4080220,social_post,unknown_date,https://dictionary.cambridge.org/us/dictionary/english/site,SITE | definition in the Cambridge English Dictionary,"[archaeological site](https://dictionary.cambridge.org/us/example/english/archaeological-site). [auction site](https://dictionary.cambridge.org/us/example/english/auction-site). [blast site](https://dictionary.cambridge.org/us/example/english/blast-site). [](https://dictionary.cambridge.org/us/dictionary/english/site ""Tell us what you think""). [See all collocations with site](https://dictionary.cambridge.org/us/collocation/english/site). [See more](https://dictionary.cambridge.org/us/dictionary/english-chinese-traditional/site ""site: Chinese (Traditional) translation""). [See more](https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/site ""site: Chinese (Simplified) translation""). [See more](https://dictionary.cambridge.org/us/dictionary/english-spanish/site ""site Spanish translation""). [See more](https://dictionary.cambridge.org/us/dictionary/english-marathi/site ""site: Marathi translation""). [See more](https://dictionary.cambridge.org/us/dictionary/english-turkish/site ""site Turkish translation""). [See more](https://dictionary.cambridge.org/us/dictionary/english-french/site ""site: French translation""). [See more](https://dictionary.cambridge.org/dictionary/english-catalan/site ""site: Catalan translation""). [See more](https://dictionary.cambridge.org/dictionary/english-dutch/site ""site: Dutch translation""). [See more](https://dictionary.cambridge.org/us/dictionary/english-tamil/site ""site: Tamil translation""). [See more](https://dictionary.cambridge.org/us/dictionary/english-hindi/site ""site: Hindi translation""). [See more](https://dictionary.cambridge.org/dictionary/english-gujarati/site ""site: Gujarati translation""). [See more](https://dictionary.cambridge.org/dictionary/english-danish/site ""site: Danish translation""). [See more](https://dictionary.cambridge.org/dictionary/english-swedish/site ""site: Swedish translation""). [See more](https://dictionary.cambridge.org/us/dictionary/english-malaysian/site ""site: Malay translation""). [See more](https://dictionary.cambridge.org/dictionary/english-norwegian/site ""site: Norwegian translation""). [See more](https://dictionary.cambridge.org/us/dictionary/english-urdu/site ""site: Urdu translation""). [See more](https://dictionary.cambridge.org/dictionary/english-ukrainian/site ""site: Ukrainian translation""). [See more](https://dictionary.cambridge.org/us/dictionary/english-telugu/site ""site: Telugu translation""). [See more](https://dictionary.cambridge.org/us/dictionary/english-bengali/site ""site: Bengali translation""). [See more](https://dictionary.cambridge.org/dictionary/english-czech/site ""site: Czech translation""). [See more](https://dictionary.cambridge.org/us/dictionary/english-thai/site ""site: Thai translation""). [See more](https://dictionary.cambridge.org/us/dictionary/english-vietnamese/site ""site: Vietnamese translation""). [See more](https://dictionary.cambridge.org/us/dictionary/english-korean/site ""site: Korean translation""). [sited](https://dictionary.cambridge.org/us/dictionary/english/sited ""sited""). [siting](https://dictionary.cambridge.org/us/dictionary/english/siting ""siting""). *   [on-site](https://dictionary.cambridge.org/us/dictionary/english/on-site ""on-site""). *   [off-site](https://dictionary.cambridge.org/us/dictionary/english/off-site ""off-site""). has been added to list[](https://dictionary.cambridge.org/us/dictionary/english/site). *   [English](https://dictionary.cambridge.org/us/dictionary/english/site). [Verb](https://dictionary.cambridge.org/us/dictionary/english/site#cald4-us-2). *   [Examples](https://dictionary.cambridge.org/us/dictionary/english/site#dataset_examples-us). *   [Collocations](https://dictionary.cambridge.org/us/dictionary/english/site#dataset_combinations). *   [Translations](https://dictionary.cambridge.org/us/dictionary/english/site#dataset_translations).",,,5,weak,Social Index (+5),social
+4080220,social_post,unknown_date,https://www.merriam-webster.com/thesaurus/site,SITE Synonyms: 52 Similar and Opposite Words | Merriam-Webster Thesaurus,"# Synonyms of **site**. ## Articles Related to *site*. ### 'Cite' vs. ## Cite this Entry. “Site.” *Merriam-Webster.com Thesaurus*, Merriam-Webster, https://www.merriam-webster.com/thesaurus/site. ## More from Merriam-Webster on *site*. Nglish: Translation of *site* for Spanish Speakers. ## More from Merriam-Webster. #### Word of the Day. Get Word of the Day daily email! ## Popular in Grammar & Usage. ### Merriam-Webster’s Great Big List of Words You Love to Hate. ### Why is '-ed' sometimes pronounced at the end of a word? ## Popular in Wordplay. Words for the Summer Heat. ### The Longest Long Words List. ### Ten Words Ending with a Silent ‘T’. ### The Words of the Week - Jul 24. ## Popular. Play Quordle: Guess all four words in a limited number of tries. Each of your guesses must be a real 5-letter word. Play Missing Letter: a crossword with a twist. Each of the 25 puzzle words start with a different letter of the alphabet. Learn a new word every day.",,,5,weak,Social Index (+5),social
+4080220,social_post,unknown_date,https://www.collinsdictionary.com/us/dictionary/english/site,SITE definition in American English,"We may also share or sell information about your use of our site with our social media, advertising, and analytics partners. This allows us to perform targeted advertising and to select ads and content that will be more relevant to you. Below you can Accept Default Settings or exercise your right to opt -in or -out of the sale of personal data, targeted advertising, profiling, and the processing of sensitive data by clicking on “Manage Your Privacy Choices.” For more details on the data we process and how to exercise your rights, see our Privacy Policy. ## site. A site is a piece of ground that is used for a particular purpose or where a particular thing happens. A site is a piece of ground where something such as a statue or building stands or used to stand. A site is a set of data and information about a particular subject that is available on the internet.",,,5,weak,Social Index (+5),social
+4080220,social_post,unknown_date,https://www.britannica.com/dictionary/site,Site Definition & Meaning | Britannica Dictionary,"Image 1: An Encylopedia Britannica Company. *   Image 5Word of the Day. # site. 1 site /ˈ saɪt/noun. Britannica Dictionary definition of SITE. :the place where something (such as a building) is, was, or will be located. *   Hard hats must be worn on the construction _site_. *   They visited the _site_ of their future house. *   The company has chosen a new _site_ for its office building. :a place where something important has happened. *   the _site_ of the battle. :a place that is used for a particular activity. 2 site /ˈ saɪt/verb. :to place or build (something) in a particular location — usually used as _(be) sited_. *   The office building will _be sited_ on this lot. [What does [count] or [noncount] mean before a definition?](https://www.britannica.com/dictionary/eb/qa/What-does-count-and-noncount-mean-before-a-definition- ""Question text""). Image 10: Name That Thing Icon. **:** a series of games that is played after the end of the regular season in order to decide which player or team is the champion—usually plural.",,,5,weak,Social Index (+5),social
+4080220,web_result,unknown_date,https://en.wikipedia.org/wiki/EA_Sports_FC_27,EA Sports FC 27 - Wikipedia,"# *EA Sports FC 27*. Upcoming video game by EA Sports. ***EA Sports FC 27*** is an upcoming association football simulation video game developed by EA Vancouver and EA Romania and published by Electronic Arts. It is scheduled for worldwide release on 25 September 2026 for Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2, and Amazon Luna. It is the fourth installment in the *EA Sports FC* series, succeeding *EA FC 26*. *EA Sports FC 27* introduces *The Grounds*, a social football hub where players can take part in Kickabouts, 1v1 matches, and team up with friends in Clubs mode, while interacting with football mentors, improving their abilities, and customising their player. The mode is available exclusively on the PlayStation 5, Xbox Series X/S, Windows, and Nintendo Switch 2 versions of the game. *The Grounds* also features the return of Alex Hunter, the protagonist of *The Journey*, as one of the mode's football mentors. *EA Sports FC 27* was officially announced on 23 July 2026.",,,0,weak,,general
+4080220,web_result,unknown_date,https://www.eurogamer.net/games/ea-sports-fc-27,EA Sports FC 27,"""It has to make sense for the game"" - EA sees a ""huge opportunity"" for in-game advertising ""but it has to be done properly"" Sports games can be ""so much more",,,0,weak,,general
+4080220,web_result,unknown_date,https://www.youtube.com/watch?v=2h8bPU17Pfo,EA FC27 Is NOT Looking Good...,EA FC27 Is NOT Looking good... EA Just Previewed FC27 NickRTFM. Is It Really Impossible To Pull Apart Two Interleaved Go to channel EA SPORTS FC,,,0,weak,,general
+4080220,web_result,unknown_date,https://en.wikipedia.org/wiki/EA_Sports_FC_27,EA Sports FC 27,"# *EA Sports FC 27*. Upcoming video game by EA Sports. ***EA Sports FC 27*** is an upcoming association football simulation video game developed by EA Vancouver and EA Romania and published by Electronic Arts. It is scheduled for worldwide release on 25 September 2026 for Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2, and Amazon Luna. It is the fourth installment in the *EA Sports FC* series, succeeding *EA FC 26*. *EA Sports FC 27* introduces *The Grounds*, a social football hub where players can take part in Kickabouts, 1v1 matches, and team up with friends in Clubs mode, while interacting with football mentors, improving their abilities, and customising their player. The mode is available exclusively on the PlayStation 5, Xbox Series X/S, Windows, and Nintendo Switch 2 versions of the game. *The Grounds* also features the return of Alex Hunter, the protagonist of *The Journey*, as one of the mode's football mentors. *EA Sports FC 27* was officially announced on 23 July 2026.",,,0,weak,,general
+4080220,web_result,unknown_date,https://www.facebook.com/easportsfc/posts/welcome-to-the-worlds-game-in-fc27-launching-september-25experience-a-football-p/1605793684240300,ea sports fc,"Welcome to The World's Game in #FC27, launching September 25. 30-year partnership between the publisher and the international governing body of",,,0,weak,,general
+4080220,web_result,unknown_date,https://en.wikipedia.org/wiki/EA_Sports_FC_27,EA Sports FC 27,"EA Sports FC 27 is an upcoming association football simulation video game developed by EA Vancouver and EA Romania and published by Electronic Arts. It is scheduled for worldwide release on 25 September 2026 for Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2, and Amazon Luna. It is the fourth installment in the EA Sports FC series, succeeding EA FC 26. The Standard Edition cover features Kylian Mbappé, while the Ultimate Edition [...] | Developers | EA Vancouver EA Romania |
+| Publisher | Electronic Arts |
+| Series | EA Sports FC |
+| Engine | Frostbite ""Frostbite (game engine)"") |
+| Platforms |  Nintendo Switch  Nintendo Switch 2  PlayStation 4  PlayStation 5  Windows  Xbox One  Xbox Series X/S  Amazon Luna |
+| Release | 25 September 2026 (2026-09-25) |
+| Genre | Sports |
+| Modes | Single-player, Multiplayer | [...] The FC Pro World Championship trophy was renamed in honor of Diogo Jota following approval from his family, recognizing his career in football and achievements in competitive gaming.
+
+## Development
+
+[edit]",,,0,weak,,general
+4080220,web_result,unknown_date,https://en.wikipedia.org/wiki/EA_Sports_FC,EA Sports FC,"EA Sports FC is an association football video game franchise developed by EA Vancouver and EA Romania and published by EA Sports. It serves as the direct successor to their former FIFA ""FIFA (video game series)"") series, which was discontinued following the termination of EA and FIFA's licensing agreement, and is a continuation of EA Sports' football simulation games. [...] | EA Sports FC |
+
+| EA Sports FC logo |
+| Genres | Sports simulation (football) |
+| Developers |  EA Vancouver  EA Romania  EA Mobile  EA Spearhead  KLab Games |
+| Publisher | EA Sports |
+| Platforms | Microsoft Windows, Nintendo Switch, Nintendo Switch 2, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Amazon Luna, iOS, Android ""Android (operating system)"") |
+| First release | EA Sports FC 24 September 29, 2023 |
+| Latest release | EA Sports FC 26 September 26, 2025 | [...] On May 7, 2026, EA Sports announced that they purchased the license from AFC and have the license of AFC Asian Cup, meaning that the 2027 AFC Asian Cup will be featured in EA Sports FC 27, FC Online and FC Mobile.
+
+## Games
+
+[edit]
+
+See also: FIFA (video game series) § Games in the series#Games_in_the_series ""FIFA (video game series)"")
+
+Release timeline",,,0,weak,,general

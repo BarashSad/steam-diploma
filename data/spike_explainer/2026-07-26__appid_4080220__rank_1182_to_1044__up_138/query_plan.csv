@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4080220,EA SPORTS FC™ 27,"""EA SPORTS FC™ 27"" Steam",general,1,tavily,True,,5
+4080220,EA SPORTS FC™ 27,"""EA SPORTS FC™ 27"" trailer",general,1,tavily,True,,5
+4080220,EA SPORTS FC™ 27,"""EA SPORTS FC™ 27"" gameplay",general,1,tavily,True,,5
+4080220,EA SPORTS FC™ 27,"""EA SPORTS FC™ 27"" demo",general,1,tavily,True,,5
+4080220,EA SPORTS FC™ 27,"""EA SPORTS FC™ 27"" release date",general,1,tavily,True,,5
+4080220,EA SPORTS FC™ 27,"""EA SPORTS FC™ 27"" announcement",general,1,tavily,True,,5
+4080220,EA SPORTS FC™ 27,"""EA SPORTS FC™ 27"" preview",general,1,tavily,True,,4
+4080220,EA SPORTS FC™ 27,"""EA SPORTS FC™ 27"" review",general,1,tavily,True,,5
+4080220,EA SPORTS FC™ 27,"""EA SPORTS FC™ 27"" publisher",general,1,tavily,True,,5
+4080220,EA SPORTS FC™ 27,"""EA SPORTS FC™ 27"" developer",general,1,tavily,True,,5
+4080220,EA SPORTS FC™ 27,"site:pcgamer.com ""EA SPORTS FC™ 27""",press,2,tavily,False,General budget exhausted,0
+4080220,EA SPORTS FC™ 27,"site:rockpapershotgun.com ""EA SPORTS FC™ 27""",press,2,tavily,False,General budget exhausted,0
+4080220,EA SPORTS FC™ 27,"site:ign.com ""EA SPORTS FC™ 27""",press,2,tavily,False,General budget exhausted,0
+4080220,EA SPORTS FC™ 27,"site:gamespot.com ""EA SPORTS FC™ 27""",press,2,tavily,False,General budget exhausted,0
+4080220,EA SPORTS FC™ 27,"site:game8.co ""EA SPORTS FC™ 27""",press,2,tavily,False,General budget exhausted,0
+4080220,EA SPORTS FC™ 27,"site:reddit.com ""EA SPORTS FC™ 27""",social,3,tavily,True,,5
+4080220,EA SPORTS FC™ 27,"site:tiktok.com ""EA SPORTS FC™ 27""",social,4,tavily,True,,5
+4080220,EA SPORTS FC™ 27,"site:instagram.com ""EA SPORTS FC™ 27""",social,4,tavily,True,,5
+4080220,EA SPORTS FC™ 27,"site:x.com ""EA SPORTS FC™ 27""",social,4,tavily,True,,5
+4080220,EA SPORTS FC™ 27,"site: ""EA SPORTS FC™ 27""",social,4,tavily,True,,5

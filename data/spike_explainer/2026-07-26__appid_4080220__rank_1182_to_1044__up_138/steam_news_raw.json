@@ -1,0 +1,42 @@
+{
+    "appnews": {
+        "appid": 4080220,
+        "newsitems": [
+            {
+                "gid": "1839041357029775",
+                "title": "EA SPORTS FC\u2122 27 - Upcoming Deep Dives",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357029775",
+                "is_external_url": true,
+                "author": "FC_Rileyy",
+                "contents": "Welcome to the road to EA SPORTS FC\u2122 27.Over the coming weeks, we'll be releasing a series of Deep Dives and Pitch Notes from the development team. Ahead of launch, these will be joined by additional Deep Dives, including a dedicated PC Deep Dive. More details can be found below.The Pitch Notes will cover everything coming to Gameplay, Career, Ultimate Team, The Grounds and Clubs in FC 27, including features and improvements driven by community feedback.Upcoming Deep DivesJulyGameplayCareerAugustUltimate TeamThe GroundsClubsPC Deep DiveAlongside the Deep Dives above, we'll also be publishing a dedicated PC-focused Pitch Notes article ahead of launch. This will cover topics specific to the PC version of EA SPORTS FC\u2122 27, including system requirements, supported features, and platform-specific improvements.Thank you for joining us on the journey to FC 27. We look forward to hearing your feedback as each Deep Dive is released.The EA SPORTS FC Community Team",
+                "feedlabel": "Community Announcements",
+                "date": 1784904323,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4080220,
+                "tags": [
+                    "hide_store"
+                ]
+            },
+            {
+                "gid": "1839041357027502",
+                "title": "Pre-purchase EA SPORTS FC\u2122 27 Ultimate Plus Edition",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357027502",
+                "is_external_url": true,
+                "author": "Electronic Arts",
+                "contents": "Welcome to The World\u2019s Game. Step into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay. Pre-purchase EA SPORTS FC\u2122 27 Ultimate Plus Edition by 31 August to receive 10,000 FC Points across 5 months, Seasons 1 to 5 of the Premium Pass, a Football Ultimate Team\u2122 Player Evolution for EA SPORTS FC\u2122 26, and more. ",
+                "feedlabel": "Community Announcements",
+                "date": 1784831108,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4080220,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1889321037_1784832108_0",
+                    "mod_require_rereview"
+                ]
+            }
+        ],
+        "count": 2
+    }
+}

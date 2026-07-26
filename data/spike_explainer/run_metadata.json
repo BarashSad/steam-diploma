@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-07-25T13:56:08.096485+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260725_134620/rank_changes.csv",
-    "selected_appid": "881940",
-    "selected_game_title": "Guns 'n Goblins",
+    "started_at": "2026-07-26T03:40:35.359643+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260726_033009/rank_changes.csv",
+    "selected_appid": "4080220",
+    "selected_game_title": "EA SPORTS FC\u2122 27",
     "top_n": 1,
-    "old_snapshot_date": "2026-07-22",
-    "new_snapshot_date": "2026-07-25",
+    "old_snapshot_date": "2026-07-23",
+    "new_snapshot_date": "2026-07-26",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-25T13:56:08.096500+00:00",
+    "finished_at": "2026-07-26T03:40:35.359678+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

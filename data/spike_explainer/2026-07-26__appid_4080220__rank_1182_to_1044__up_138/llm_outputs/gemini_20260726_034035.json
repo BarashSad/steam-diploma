@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-26T03:40:35.465953+00:00",
+    "timestamp": "20260726_034035",
+    "input_file": "data/spike_explainer/2026-07-26__appid_4080220__rank_1182_to_1044__up_138/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-26__appid_4080220__rank_1182_to_1044__up_138/llm_outputs/gemini_20260726_034035.md",
+    "game_title": "EA SPORTS FC\u2122 27",
+    "appid": "4080220",
+    "duration_sec": 19.36,
+    "response_length": 5763,
+    "error": null
+}
