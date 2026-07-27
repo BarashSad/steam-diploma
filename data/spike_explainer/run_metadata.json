@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-07-27T03:48:53.973705+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260727_033823/rank_changes.csv",
+    "started_at": "2026-07-27T14:58:11.830433+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260727_144757/rank_changes.csv",
     "selected_appid": "881940",
     "selected_game_title": "Guns 'n Goblins",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-27T03:48:53.973725+00:00",
+    "finished_at": "2026-07-27T14:58:11.830448+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

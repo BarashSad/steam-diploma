@@ -1,0 +1,37 @@
+{
+    "appnews": {
+        "appid": 881940,
+        "newsitems": [
+            {
+                "gid": "1839041357032332",
+                "title": "Quick demo patch v 0.1.11",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357032332",
+                "is_external_url": true,
+                "author": "Argl",
+                "contents": "Thanks everybody for all your great feedback and bug report on the demo!Most of you seems to be having a lot of fun, that is awesome news and gives us strength to carry on. We received a tons of people being stuck in ADS, sorry about that, it's really hard to track down and fix. We have made a first attempt but it doesn't fix all instances of the bug, we'll keep digging.\ufeffCHANGE LOGFallback fonts for cyrlic and asian languagesBetter Shockwave impact on enemiesBUGFixed ADS locked after dying or opening a menu (but the bug can still happens in other unknown situation)Autofire now can't be activated in unproper situation",
+                "feedlabel": "Community Announcements",
+                "date": 1784998258,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 881940,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1833334318568495",
+                "title": "Blow up thousands of monsters in the horde-based survivor FPS Guns 'n Goblins",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1833334318568495",
+                "is_external_url": true,
+                "author": "",
+                "contents": "Love the idea of powering up yourself to the max while annihilating thousands of monsters? The first-person bullet heaven shooter Guns 'n Goblins is for you. Read the full article here: https://www.gamingonlinux.com/2026/05/blow-up-thousands-of-monsters-in-the-horde-based-survivor-fps-guns-n-goblins/ ",
+                "feedlabel": "GamingOnLinux",
+                "date": 1779359258,
+                "feedname": "GamingOnLinux",
+                "feed_type": 0,
+                "appid": 881940
+            }
+        ],
+        "count": 2
+    }
+}

@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+881940,Guns 'n Goblins,"""Guns 'n Goblins"" Steam",general,1,tavily,True,,5
+881940,Guns 'n Goblins,"""Guns 'n Goblins"" trailer",general,1,tavily,True,,0
+881940,Guns 'n Goblins,"""Guns 'n Goblins"" gameplay",general,1,tavily,True,,1
+881940,Guns 'n Goblins,"""Guns 'n Goblins"" demo",general,1,tavily,True,,5
+881940,Guns 'n Goblins,"""Guns 'n Goblins"" release date",general,1,tavily,True,,5
+881940,Guns 'n Goblins,"""Guns 'n Goblins"" announcement",general,1,tavily,True,,5
+881940,Guns 'n Goblins,"""Guns 'n Goblins"" preview",general,1,tavily,True,,0
+881940,Guns 'n Goblins,"""Guns 'n Goblins"" review",general,1,tavily,True,,5
+881940,Guns 'n Goblins,"""Guns 'n Goblins"" publisher",general,1,tavily,True,,5
+881940,Guns 'n Goblins,"""Guns 'n Goblins"" developer",general,1,tavily,True,,5
+881940,Guns 'n Goblins,"site:pcgamer.com ""Guns 'n Goblins""",press,2,tavily,False,General budget exhausted,0
+881940,Guns 'n Goblins,"site:rockpapershotgun.com ""Guns 'n Goblins""",press,2,tavily,False,General budget exhausted,0
+881940,Guns 'n Goblins,"site:ign.com ""Guns 'n Goblins""",press,2,tavily,False,General budget exhausted,0
+881940,Guns 'n Goblins,"site:gamespot.com ""Guns 'n Goblins""",press,2,tavily,False,General budget exhausted,0
+881940,Guns 'n Goblins,"site:game8.co ""Guns 'n Goblins""",press,2,tavily,False,General budget exhausted,0
+881940,Guns 'n Goblins,"site:reddit.com ""Guns 'n Goblins""",social,3,tavily,True,,0
+881940,Guns 'n Goblins,"site:tiktok.com ""Guns 'n Goblins""",social,4,tavily,True,,5
+881940,Guns 'n Goblins,"site:instagram.com ""Guns 'n Goblins""",social,4,tavily,True,,5
+881940,Guns 'n Goblins,"site:x.com ""Guns 'n Goblins""",social,4,tavily,True,,5
+881940,Guns 'n Goblins,"site: ""Guns 'n Goblins""",social,4,tavily,True,,5

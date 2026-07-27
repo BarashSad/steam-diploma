@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+881940,Guns 'n Goblins,Guns 'n Goblins,784,746,38,38,up,upward_spike,Free,Free,False,2027,Q2 2027,True
+4111570,Gate Guard Simulator,Gate Guard Simulator,432,433,-1,1,down,none,Unpriced (Coming Soon),Free,True,2026,2027,True
+3765020,S.T.A.L.K.E.R. 2: Cost of Hope,S.T.A.L.K.E.R. 2: Cost of Hope,511,510,1,1,up,none,Free,Unpriced (Coming Soon),True,Coming soon,"Aug 20, 2026",True
