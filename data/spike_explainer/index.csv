@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-07-28T03:03:35.856461+00:00,4739040,DISCIPLINE SIMULATOR,data/spike_explainer/2026-07-28__appid_4739040__rank_1133_to_1005__up_128,128,55,data/spike_explainer/2026-07-28__appid_4739040__rank_1133_to_1005__up_128/llm_summary_input.md
+2026-07-28T14:31:48.408312+00:00,4739040,DISCIPLINE SIMULATOR,data/spike_explainer/2026-07-28__appid_4739040__rank_1005_to_922__up_83,83,55,data/spike_explainer/2026-07-28__appid_4739040__rank_1005_to_922__up_83/llm_summary_input.md

@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-07-28T03:03:56.010100+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260728_025431/rank_changes.csv",
+    "started_at": "2026-07-28T14:32:09.756782+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260728_142208/rank_changes.csv",
     "selected_appid": "4739040",
     "selected_game_title": "DISCIPLINE SIMULATOR",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-28T03:03:56.010111+00:00",
+    "finished_at": "2026-07-28T14:32:09.756797+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

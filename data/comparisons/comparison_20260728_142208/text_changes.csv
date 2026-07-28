@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4243990,Path of Idle: Old Gods Rising,Path of Idle: Old Gods Rising,1120,1118,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,August 2026,"Aug 12, 2026",True
+3738830,FIRE STATE,FIRE STATE,656,655,1,1,up,none,Free,Unpriced (Coming Soon),True,Coming soon,"Jul 31, 2026",True
+2220860,TSURUGIHIME,TSURUGIHIME,787,786,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,To be announced,True
+3130220,Sagas of Lumin,Sagas of Lumin,1178,1179,-1,1,down,none,Unpriced (Coming Soon),Free,True,Q3 2026,"Feb 4, 2027",True
