@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-07-27T14:58:11.830433+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260727_144757/rank_changes.csv",
-    "selected_appid": "881940",
-    "selected_game_title": "Guns 'n Goblins",
+    "started_at": "2026-07-28T03:03:56.010100+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260728_025431/rank_changes.csv",
+    "selected_appid": "4739040",
+    "selected_game_title": "DISCIPLINE SIMULATOR",
     "top_n": 1,
-    "old_snapshot_date": "2026-07-24",
-    "new_snapshot_date": "2026-07-27",
+    "old_snapshot_date": "2026-07-25",
+    "new_snapshot_date": "2026-07-28",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-07-27T14:58:11.830448+00:00",
+    "finished_at": "2026-07-28T03:03:56.010111+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
