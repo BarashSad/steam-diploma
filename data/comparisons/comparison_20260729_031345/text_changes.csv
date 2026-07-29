@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3227240,MineGeon: Renegades,MineGeon: Renegades,1178,1147,31,31,up,upward_spike,Unpriced (Coming Soon),Free,True,"Jul 28, 2026",Coming soon,True
+4151300,Sublustrum,Sublustrum,742,739,3,3,up,none,Unpriced (Coming Soon),Free,True,2026,Coming soon,True
+3681260,Frostliner,Frostliner,993,991,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,To be announced,True
+4019220,Dressmaker,Dressmaker,330,330,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,September 2026,"Sep 21, 2026",True
