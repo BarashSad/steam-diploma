@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3035270,Backrooms,Backrooms,929,928,1,1,up,none,Unpriced (Coming Soon),Free,True,2026,2026,False
+3227240,MineGeon: Renegades,MineGeon: Renegades,1138,1139,-1,1,down,none,Free,Unpriced (Coming Soon),True,Coming soon,"Jul 30, 2026",True
+2710040,Delverium,Delverium,691,691,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Sep 22, 2026",True
+2601980,Space Scum,Space Scum,992,992,0,0,stable,none,Unpriced (Coming Soon),Free,True,2026,2027,True
+2665250,Rancher: A new life,Rancher: A new life,1155,1155,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Aug 6, 2026",True
