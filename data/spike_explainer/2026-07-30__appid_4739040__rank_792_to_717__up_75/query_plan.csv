@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4739040,DISCIPLINE SIMULATOR,"""DISCIPLINE SIMULATOR"" Steam",general,1,tavily,True,,5
+4739040,DISCIPLINE SIMULATOR,"""DISCIPLINE SIMULATOR"" trailer",general,1,tavily,True,,5
+4739040,DISCIPLINE SIMULATOR,"""DISCIPLINE SIMULATOR"" gameplay",general,1,tavily,True,,5
+4739040,DISCIPLINE SIMULATOR,"""DISCIPLINE SIMULATOR"" demo",general,1,tavily,True,,5
+4739040,DISCIPLINE SIMULATOR,"""DISCIPLINE SIMULATOR"" release date",general,1,tavily,True,,5
+4739040,DISCIPLINE SIMULATOR,"""DISCIPLINE SIMULATOR"" announcement",general,1,tavily,True,,5
+4739040,DISCIPLINE SIMULATOR,"""DISCIPLINE SIMULATOR"" preview",general,1,tavily,True,,5
+4739040,DISCIPLINE SIMULATOR,"""DISCIPLINE SIMULATOR"" review",general,1,tavily,True,,5
+4739040,DISCIPLINE SIMULATOR,"""DISCIPLINE SIMULATOR"" publisher",general,1,tavily,True,,5
+4739040,DISCIPLINE SIMULATOR,"""DISCIPLINE SIMULATOR"" developer",general,1,tavily,True,,5
+4739040,DISCIPLINE SIMULATOR,"site:pcgamer.com ""DISCIPLINE SIMULATOR""",press,2,tavily,False,General budget exhausted,0
+4739040,DISCIPLINE SIMULATOR,"site:rockpapershotgun.com ""DISCIPLINE SIMULATOR""",press,2,tavily,False,General budget exhausted,0
+4739040,DISCIPLINE SIMULATOR,"site:ign.com ""DISCIPLINE SIMULATOR""",press,2,tavily,False,General budget exhausted,0
+4739040,DISCIPLINE SIMULATOR,"site:gamespot.com ""DISCIPLINE SIMULATOR""",press,2,tavily,False,General budget exhausted,0
+4739040,DISCIPLINE SIMULATOR,"site:game8.co ""DISCIPLINE SIMULATOR""",press,2,tavily,False,General budget exhausted,0
+4739040,DISCIPLINE SIMULATOR,"site:reddit.com ""DISCIPLINE SIMULATOR""",social,3,tavily,True,,5
+4739040,DISCIPLINE SIMULATOR,"site:tiktok.com ""DISCIPLINE SIMULATOR""",social,4,tavily,True,,5
+4739040,DISCIPLINE SIMULATOR,"site:instagram.com ""DISCIPLINE SIMULATOR""",social,4,tavily,True,,5
+4739040,DISCIPLINE SIMULATOR,"site:x.com ""DISCIPLINE SIMULATOR""",social,4,tavily,True,,5
+4739040,DISCIPLINE SIMULATOR,"site: ""DISCIPLINE SIMULATOR""",social,4,tavily,True,,5

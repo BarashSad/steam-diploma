@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-07-30T02:56:35.771420+00:00",
+    "timestamp": "20260730_025635",
+    "input_file": "data/spike_explainer/2026-07-30__appid_4739040__rank_792_to_717__up_75/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-07-30__appid_4739040__rank_792_to_717__up_75/llm_outputs/gemini_20260730_025635.md",
+    "game_title": "DISCIPLINE SIMULATOR",
+    "appid": "4739040",
+    "duration_sec": 25.85,
+    "response_length": 7052,
+    "error": null
+}

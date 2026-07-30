@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2776270,Beetleball,Beetleball,1034,1029,5,5,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 20, 2026","Sep 3, 2026",True
+3035270,Backrooms,Backrooms,932,929,3,3,up,none,Free,Unpriced (Coming Soon),True,2026,2026,False
+3486530,Stupid Never Dies,Stupid Never Dies,314,313,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Oct 21, 2026",True
+3798860,Shutter Story,Shutter Story,659,659,0,0,stable,none,Unpriced (Coming Soon),Free,True,Q3 2026,Q1 2027,True
