@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: DISCIPLINE SIMULATOR
+Analyzed: The Defiant
 Tavily Budget Used: 15
 Errors: 0

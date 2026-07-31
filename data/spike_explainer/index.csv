@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-07-31T03:38:12.571699+00:00,4739040,DISCIPLINE SIMULATOR,data/spike_explainer/2026-07-31__appid_4739040__rank_660_to_592__up_68,68,100,data/spike_explainer/2026-07-31__appid_4739040__rank_660_to_592__up_68/llm_summary_input.md
+2026-07-31T14:30:55.587713+00:00,3184960,The Defiant,data/spike_explainer/2026-07-31__appid_3184960__rank_455_to_395__up_60,60,85,data/spike_explainer/2026-07-31__appid_3184960__rank_455_to_395__up_60/llm_summary_input.md

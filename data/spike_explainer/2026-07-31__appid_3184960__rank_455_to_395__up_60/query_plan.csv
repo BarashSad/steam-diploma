@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3184960,The Defiant,"""The Defiant"" Steam",general,1,tavily,True,,5
+3184960,The Defiant,"""The Defiant"" trailer",general,1,tavily,True,,5
+3184960,The Defiant,"""The Defiant"" gameplay",general,1,tavily,True,,5
+3184960,The Defiant,"""The Defiant"" demo",general,1,tavily,True,,5
+3184960,The Defiant,"""The Defiant"" release date",general,1,tavily,True,,5
+3184960,The Defiant,"""The Defiant"" announcement",general,1,tavily,True,,5
+3184960,The Defiant,"""The Defiant"" preview",general,1,tavily,True,,5
+3184960,The Defiant,"""The Defiant"" review",general,1,tavily,True,,5
+3184960,The Defiant,"""The Defiant"" publisher",general,1,tavily,True,,5
+3184960,The Defiant,"""The Defiant"" developer",general,1,tavily,True,,5
+3184960,The Defiant,"site:pcgamer.com ""The Defiant""",press,2,tavily,False,General budget exhausted,0
+3184960,The Defiant,"site:rockpapershotgun.com ""The Defiant""",press,2,tavily,False,General budget exhausted,0
+3184960,The Defiant,"site:ign.com ""The Defiant""",press,2,tavily,False,General budget exhausted,0
+3184960,The Defiant,"site:gamespot.com ""The Defiant""",press,2,tavily,False,General budget exhausted,0
+3184960,The Defiant,"site:game8.co ""The Defiant""",press,2,tavily,False,General budget exhausted,0
+3184960,The Defiant,"site:reddit.com ""The Defiant""",social,3,tavily,True,,5
+3184960,The Defiant,"site:tiktok.com ""The Defiant""",social,4,tavily,True,,5
+3184960,The Defiant,"site:instagram.com ""The Defiant""",social,4,tavily,True,,5
+3184960,The Defiant,"site:x.com ""The Defiant""",social,4,tavily,True,,5
+3184960,The Defiant,"site: ""The Defiant""",social,4,tavily,True,,5

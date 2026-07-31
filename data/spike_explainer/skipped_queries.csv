@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-4739040,DISCIPLINE SIMULATOR,"site:pcgamer.com ""DISCIPLINE SIMULATOR""",press,2,tavily,False,General budget exhausted,0
-4739040,DISCIPLINE SIMULATOR,"site:rockpapershotgun.com ""DISCIPLINE SIMULATOR""",press,2,tavily,False,General budget exhausted,0
-4739040,DISCIPLINE SIMULATOR,"site:ign.com ""DISCIPLINE SIMULATOR""",press,2,tavily,False,General budget exhausted,0
-4739040,DISCIPLINE SIMULATOR,"site:gamespot.com ""DISCIPLINE SIMULATOR""",press,2,tavily,False,General budget exhausted,0
-4739040,DISCIPLINE SIMULATOR,"site:game8.co ""DISCIPLINE SIMULATOR""",press,2,tavily,False,General budget exhausted,0
+3184960,The Defiant,"site:pcgamer.com ""The Defiant""",press,2,tavily,False,General budget exhausted,0
+3184960,The Defiant,"site:rockpapershotgun.com ""The Defiant""",press,2,tavily,False,General budget exhausted,0
+3184960,The Defiant,"site:ign.com ""The Defiant""",press,2,tavily,False,General budget exhausted,0
+3184960,The Defiant,"site:gamespot.com ""The Defiant""",press,2,tavily,False,General budget exhausted,0
+3184960,The Defiant,"site:game8.co ""The Defiant""",press,2,tavily,False,General budget exhausted,0
