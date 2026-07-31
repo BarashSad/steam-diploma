@@ -1,0 +1,21 @@
+{
+    "appnews": {
+        "appid": 4739040,
+        "newsitems": [
+            {
+                "gid": "1839676055886043",
+                "title": "Release Date Update: DISCIPLINE SIMULATOR Slightly Delayed",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886043",
+                "is_external_url": true,
+                "author": "vandalofficial000",
+                "contents": "Hey everyone,We know you were expecting to jump into DISCIPLINE SIMULATOR today, and we are just as eager to get it into your hands! However, we have to push back the release date slightly.Why the delay? The game is currently in the final stages of the Steam moderation process. We had to make a few quick technical adjustments to our store page to meet Steam's guidelines. Everything is already fixed and submitted, and we are just waiting for the final green light from the review team.When is the new release date? We expect this to take anywhere from a few hours to a couple of days. The game itself is completely finished and ready to play. We will hit the launch button the exact moment we are approved!Thank you so much for your incredible support, wishlists, and patience. We promise it will be worth the wait. Stay tuned!",
+                "feedlabel": "Community Announcements",
+                "date": 1785433610,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4739040
+            }
+        ],
+        "count": 1
+    }
+}
