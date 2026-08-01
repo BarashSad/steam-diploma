@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3749720,The Division Resurgence,The Division Resurgence,835,793,42,42,up,upward_spike,Free,Free,False,"Aug 5, 2026","Aug 5, 2026",False
+4017880,ANOMALITH,ANOMALITH,933,908,25,25,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 28, 2026","Oct 28, 2026",False
+4067370,Prospice: Anomalous Logistics,Prospice: Anomalous Logistics,1028,1005,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4876650,Never Sort By Color,Never Sort By Color,1082,1061,21,21,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 10, 2026","Nov 10, 2026",False
