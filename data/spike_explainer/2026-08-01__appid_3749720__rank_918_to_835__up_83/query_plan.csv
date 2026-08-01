@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3749720,The Division Resurgence,"""The Division Resurgence"" Steam",general,1,tavily,True,,5
+3749720,The Division Resurgence,"""The Division Resurgence"" trailer",general,1,tavily,True,,2
+3749720,The Division Resurgence,"""The Division Resurgence"" gameplay",general,1,tavily,True,,4
+3749720,The Division Resurgence,"""The Division Resurgence"" demo",general,1,tavily,True,,5
+3749720,The Division Resurgence,"""The Division Resurgence"" release date",general,1,tavily,True,,5
+3749720,The Division Resurgence,"""The Division Resurgence"" announcement",general,1,tavily,True,,5
+3749720,The Division Resurgence,"""The Division Resurgence"" preview",general,1,tavily,True,,5
+3749720,The Division Resurgence,"""The Division Resurgence"" review",general,1,tavily,True,,5
+3749720,The Division Resurgence,"""The Division Resurgence"" publisher",general,1,tavily,True,,5
+3749720,The Division Resurgence,"""The Division Resurgence"" developer",general,1,tavily,True,,5
+3749720,The Division Resurgence,"site:pcgamer.com ""The Division Resurgence""",press,2,tavily,False,General budget exhausted,0
+3749720,The Division Resurgence,"site:rockpapershotgun.com ""The Division Resurgence""",press,2,tavily,False,General budget exhausted,0
+3749720,The Division Resurgence,"site:ign.com ""The Division Resurgence""",press,2,tavily,False,General budget exhausted,0
+3749720,The Division Resurgence,"site:gamespot.com ""The Division Resurgence""",press,2,tavily,False,General budget exhausted,0
+3749720,The Division Resurgence,"site:game8.co ""The Division Resurgence""",press,2,tavily,False,General budget exhausted,0
+3749720,The Division Resurgence,"site:reddit.com ""The Division Resurgence""",social,3,tavily,True,,5
+3749720,The Division Resurgence,"site:tiktok.com ""The Division Resurgence""",social,4,tavily,True,,5
+3749720,The Division Resurgence,"site:instagram.com ""The Division Resurgence""",social,4,tavily,True,,5
+3749720,The Division Resurgence,"site:x.com ""The Division Resurgence""",social,4,tavily,True,,5
+3749720,The Division Resurgence,"site: ""The Division Resurgence""",social,4,tavily,True,,5

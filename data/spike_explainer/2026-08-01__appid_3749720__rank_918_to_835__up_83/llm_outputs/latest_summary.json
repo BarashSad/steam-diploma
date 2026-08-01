@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-01T03:38:11.775592+00:00",
+    "timestamp": "20260801_033811",
+    "input_file": "data/spike_explainer/2026-08-01__appid_3749720__rank_918_to_835__up_83/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-01__appid_3749720__rank_918_to_835__up_83/llm_outputs/gemini_20260801_033811.md",
+    "game_title": "The Division Resurgence",
+    "appid": "3749720",
+    "duration_sec": 16.04,
+    "response_length": 5594,
+    "error": null
+}

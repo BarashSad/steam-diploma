@@ -1,0 +1,34 @@
+{
+    "appnews": {
+        "appid": 3749720,
+        "newsitems": [
+            {
+                "gid": "1834602721192034",
+                "title": "Ubisoft's free-to-play Division shooter is coming to Steam",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1834602721192034",
+                "is_external_url": true,
+                "author": "Andy Chalk",
+                "contents": "The free-to-play shooter The Division Resurgence has taken another step on its strange journey, as Ubisoft announced today that it's set to launch on Steam later this year... <a href=\"https://www.pcgamer.com/games/third-person-shooter/ubisofts-free-to-play-division-shooter-is-coming-to-steam/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+                "feedlabel": "PC Gamer",
+                "date": 1780693701,
+                "feedname": "PC Gamer",
+                "feed_type": 0,
+                "appid": 3749720
+            },
+            {
+                "gid": "1834602721191380",
+                "title": "Wishlist Available Now!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721191380",
+                "is_external_url": true,
+                "author": "stephanie.games",
+                "contents": "Agents,\u00a0The Division Resurgence is now available to wishlist on Steam, with plans to launch later this year!\u00a0Over the next few weeks we will be hard at work polishing the last elements of the game for a truly seamless experience, whatever your preferred platform may be. The game is fully cross-platform and cross-play, meaning you can continue your journey in The Division at any time.\u00a0Make sure to add it to your own wishlist now to be sure not miss out!See you soon in New York, Agents.",
+                "feedlabel": "Community Announcements",
+                "date": 1780676765,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3749720
+            }
+        ],
+        "count": 2
+    }
+}
