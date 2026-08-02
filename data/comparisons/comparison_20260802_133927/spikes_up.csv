@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3749720,The Division Resurgence,The Division Resurgence,722,670,52,52,up,upward_spike,Free,Free,False,"Aug 5, 2026","Aug 5, 2026",False
+4687860,Guns and Dragons,Guns and Dragons,1050,1000,50,50,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4067370,Prospice: Anomalous Logistics,Prospice: Anomalous Logistics,972,947,25,25,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+782260,Rogue Eclipse,Rogue Eclipse,1048,1024,24,24,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 7, 2026","Aug 7, 2026",False
+3423990,Frozen Ship,Frozen Ship,767,746,21,21,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 7, 2026","Aug 7, 2026",False
