@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-02T03:37:48.197265+00:00",
+    "timestamp": "20260802_033748",
+    "input_file": "data/spike_explainer/2026-08-02__appid_4687860__rank_1145_to_1050__up_95/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-02__appid_4687860__rank_1145_to_1050__up_95/llm_outputs/gemini_20260802_033748.md",
+    "game_title": "Guns and Dragons",
+    "appid": "4687860",
+    "duration_sec": 19.47,
+    "response_length": 5963,
+    "error": null
+}

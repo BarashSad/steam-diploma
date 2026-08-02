@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-08-01T13:48:24.392245+00:00,3749720,The Division Resurgence,data/spike_explainer/2026-08-01__appid_3749720__rank_835_to_793__up_42,42,55,data/spike_explainer/2026-08-01__appid_3749720__rank_835_to_793__up_42/llm_summary_input.md
+2026-08-02T03:37:26.521384+00:00,4687860,Guns and Dragons,data/spike_explainer/2026-08-02__appid_4687860__rank_1145_to_1050__up_95,95,85,data/spike_explainer/2026-08-02__appid_4687860__rank_1145_to_1050__up_95/llm_summary_input.md

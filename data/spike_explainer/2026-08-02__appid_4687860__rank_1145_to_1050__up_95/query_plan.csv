@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4687860,Guns and Dragons,"""Guns and Dragons"" Steam",general,1,tavily,True,,5
+4687860,Guns and Dragons,"""Guns and Dragons"" trailer",general,1,tavily,True,,5
+4687860,Guns and Dragons,"""Guns and Dragons"" gameplay",general,1,tavily,True,,5
+4687860,Guns and Dragons,"""Guns and Dragons"" demo",general,1,tavily,True,,5
+4687860,Guns and Dragons,"""Guns and Dragons"" release date",general,1,tavily,True,,5
+4687860,Guns and Dragons,"""Guns and Dragons"" announcement",general,1,tavily,True,,5
+4687860,Guns and Dragons,"""Guns and Dragons"" preview",general,1,tavily,True,,5
+4687860,Guns and Dragons,"""Guns and Dragons"" review",general,1,tavily,True,,5
+4687860,Guns and Dragons,"""Guns and Dragons"" publisher",general,1,tavily,True,,5
+4687860,Guns and Dragons,"""Guns and Dragons"" developer",general,1,tavily,True,,5
+4687860,Guns and Dragons,"site:pcgamer.com ""Guns and Dragons""",press,2,tavily,False,General budget exhausted,0
+4687860,Guns and Dragons,"site:rockpapershotgun.com ""Guns and Dragons""",press,2,tavily,False,General budget exhausted,0
+4687860,Guns and Dragons,"site:ign.com ""Guns and Dragons""",press,2,tavily,False,General budget exhausted,0
+4687860,Guns and Dragons,"site:gamespot.com ""Guns and Dragons""",press,2,tavily,False,General budget exhausted,0
+4687860,Guns and Dragons,"site:game8.co ""Guns and Dragons""",press,2,tavily,False,General budget exhausted,0
+4687860,Guns and Dragons,"site:reddit.com ""Guns and Dragons""",social,3,tavily,True,,5
+4687860,Guns and Dragons,"site:tiktok.com ""Guns and Dragons""",social,4,tavily,True,,1
+4687860,Guns and Dragons,"site:instagram.com ""Guns and Dragons""",social,4,tavily,True,,5
+4687860,Guns and Dragons,"site:x.com ""Guns and Dragons""",social,4,tavily,True,,5
+4687860,Guns and Dragons,"site: ""Guns and Dragons""",social,4,tavily,True,,5

@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: The Division Resurgence
+Analyzed: Guns and Dragons
 Tavily Budget Used: 15
 Errors: 0
