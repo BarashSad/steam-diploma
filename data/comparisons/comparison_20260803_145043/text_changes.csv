@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3919900,Dead Zone Revive,Dead Zone Revive,1049,975,74,74,up,upward_spike,Free,Free,False,"Aug 3, 2026",Coming soon,True
+3569420,Chained Beasts,Chained Beasts,371,370,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,October 2026,True
+2437390,Enginefall,Enginefall,109,109,0,0,stable,none,Unpriced (Coming Soon),Free,True,2026,2027,True

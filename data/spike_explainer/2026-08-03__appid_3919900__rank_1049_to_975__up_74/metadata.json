@@ -1,0 +1,40 @@
+{
+    "appid": "3919900",
+    "game_title": "Dead Zone Revive",
+    "safe_slug": "dead_zone_revive",
+    "analysis_date_utc": "2026-08-03T14:59:54.233064+00:00",
+    "spike_window_start": "2026-07-31T00:00:00+00:00",
+    "spike_window_end": "2026-08-03T00:00:00+00:00",
+    "extended_window_start": "2026-06-16T00:00:00+00:00",
+    "extended_window_end": "2026-08-06T00:00:00+00:00",
+    "dt_start": "2026-07-31 00:00:00+00:00",
+    "dt_end": "2026-08-03 00:00:00+00:00",
+    "ext_start": "2026-06-16 00:00:00+00:00",
+    "ext_end": "2026-08-06 00:00:00+00:00",
+    "window_inferred_fallback": false,
+    "prev_rank": 1049,
+    "curr_rank": 975,
+    "rank_delta": 74,
+    "movement_score": 0,
+    "is_new_entry": false,
+    "changed_fields_detected": [
+        "release_date"
+    ],
+    "input_diff_row": {
+        "appid": "3919900",
+        "title_old": "Dead Zone Revive",
+        "curr_title": "Dead Zone Revive",
+        "prev_rank": 1049,
+        "curr_rank": 975,
+        "rank_delta": 74,
+        "abs_rank_delta": 74,
+        "movement_type": "up",
+        "spike_type": "upward_spike",
+        "price_text_old": "Free",
+        "price_text_new": "Free",
+        "price_changed": false,
+        "release_text_old": "Aug 3, 2026",
+        "release_text_new": "Coming soon",
+        "release_changed": true
+    }
+}

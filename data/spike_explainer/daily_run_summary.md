@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: The Division Resurgence
-Tavily Budget Used: 15
-Errors: 0
+Analyzed: Dead Zone Revive
+Tavily Budget Used: 0
+Errors: 20

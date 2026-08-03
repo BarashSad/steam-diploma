@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3919900,Dead Zone Revive,"""Dead Zone Revive"" Steam",general,1,tavily,False,API Error: RetryError[<Future at 0x7f14bf78e050 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"""Dead Zone Revive"" trailer",general,1,tavily,False,API Error: RetryError[<Future at 0x7f14bf78ffd0 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"""Dead Zone Revive"" gameplay",general,1,tavily,False,API Error: RetryError[<Future at 0x7f14bf7a9a10 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"""Dead Zone Revive"" demo",general,1,tavily,False,API Error: RetryError[<Future at 0x7f14bf7ab1d0 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"""Dead Zone Revive"" release date",general,1,tavily,False,API Error: RetryError[<Future at 0x7f14bf7ab610 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"""Dead Zone Revive"" announcement",general,1,tavily,False,API Error: RetryError[<Future at 0x7f14bf7a8fd0 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"""Dead Zone Revive"" preview",general,1,tavily,False,API Error: RetryError[<Future at 0x7f14bf7a9610 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"""Dead Zone Revive"" review",general,1,tavily,False,API Error: RetryError[<Future at 0x7f14c00008d0 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"""Dead Zone Revive"" publisher",general,1,tavily,False,API Error: RetryError[<Future at 0x7f14bf7b5910 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"""Dead Zone Revive"" developer",general,1,tavily,False,API Error: RetryError[<Future at 0x7f14bf7b6210 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"site:pcgamer.com ""Dead Zone Revive""",press,2,tavily,False,API Error: RetryError[<Future at 0x7f14bf7b7fd0 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"site:rockpapershotgun.com ""Dead Zone Revive""",press,2,tavily,False,API Error: RetryError[<Future at 0x7f14bf7b9f90 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"site:ign.com ""Dead Zone Revive""",press,2,tavily,False,API Error: RetryError[<Future at 0x7f14bf7baa50 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"site:gamespot.com ""Dead Zone Revive""",press,2,tavily,False,API Error: RetryError[<Future at 0x7f14bf7bbfd0 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"site:game8.co ""Dead Zone Revive""",press,2,tavily,False,API Error: RetryError[<Future at 0x7f14bf7bae50 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"site:reddit.com ""Dead Zone Revive""",social,3,tavily,False,API Error: RetryError[<Future at 0x7f14bf7b8450 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"site:tiktok.com ""Dead Zone Revive""",social,4,tavily,False,API Error: RetryError[<Future at 0x7f14bf7ba410 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"site:instagram.com ""Dead Zone Revive""",social,4,tavily,False,API Error: RetryError[<Future at 0x7f14bf7b7110 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"site:x.com ""Dead Zone Revive""",social,4,tavily,False,API Error: RetryError[<Future at 0x7f14bf7b4110 state=finished raised HTTPError>],0
+3919900,Dead Zone Revive,"site: ""Dead Zone Revive""",social,4,tavily,False,API Error: RetryError[<Future at 0x7f14bf78f690 state=finished raised HTTPError>],0

@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3919900,Dead Zone Revive,Dead Zone Revive,1049,975,74,74,up,upward_spike,Free,Free,False,"Aug 3, 2026",Coming soon,True
+3749720,The Division Resurgence,The Division Resurgence,589,546,43,43,up,upward_spike,Free,Free,False,"Aug 5, 2026","Aug 5, 2026",False
+4547970,Pih 2,Pih 2,1123,1092,31,31,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 4, 2026","Aug 4, 2026",False
+4687860,Guns and Dragons,Guns and Dragons,945,918,27,27,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4067370,Prospice: Anomalous Logistics,Prospice: Anomalous Logistics,920,897,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False

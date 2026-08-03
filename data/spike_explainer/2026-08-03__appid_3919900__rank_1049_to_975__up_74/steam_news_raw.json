@@ -1,0 +1,60 @@
+{
+    "appnews": {
+        "appid": 3919900,
+        "newsitems": [
+            {
+                "gid": "1839676055883133",
+                "title": "Announcement Before the Release",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055883133",
+                "is_external_url": true,
+                "author": "XxmondoxX_115",
+                "contents": "Hey everyone, the big day is getting close. But first, we need to make an announcement to keep you all informed.A couple of days ago we started our private Early Access session to hunt for bugs before the August 3rd release. We are working every day \u2014 both our solo developer fixing issues and the testers looking for critical bugs. Let me clarify a few important things:1. Will the game release on August 3rd? Yes.August 3rd remains our fixed release date. That has not changed.2. Will the game launch on Steam and other platforms? No, it has been delayed.Let me explain why: When you want to release a game on Steam, you have to submit a review build so the Steam team can check it (that it\u2019s playable, meets the promised features, etc.). They usually take 1 to 2 weeks to validate the game. We didn\u2019t have enough time to send the build for review before the August 3rd date.This means we will submit the build soon, and if everything goes well, it will take approximately 1\u20132 weeks for the game to appear on Steam.\u201cSo how do we play then?\u201d Just like last time, we will provide a direct download link with its own launcher so you can play the game. We will also announce on the Discord when the game becomes available on Steam.Important reminder: If you play through the downloaded launcher, your accounts will still be saved for the Steam version and other platforms because it\u2019s the same game with the same servers.Here\u2019s the link to the Discord server so you can stay up to date with all the game announcements: https://discord.gg/E8aTHUcV42",
+                "feedlabel": "Community Announcements",
+                "date": 1785345313,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3919900
+            },
+            {
+                "gid": "1832065502819668",
+                "title": "New release date (alpha)",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502819668",
+                "is_external_url": true,
+                "author": "XxmondoxX_115",
+                "contents": "Hello everyone. We've recently added a new release date for the game: August 3rd. This release is planned as a second release of the alpha version with bug fixes. A patch note detailing the fixes will be uploaded on release day. Thank you all for your patience and continued support of the game. We recently reached over 8,000 wishlists. Here are some links of interest to keep you updated on new news: Official forum: https://forum.deadzonegame.net/ Official Discord: https://discord.gg/E8aTHUcV42",
+                "feedlabel": "Community Announcements",
+                "date": 1778432678,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3919900
+            },
+            {
+                "gid": "1827626365761068",
+                "title": "Steam Status Report",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365761068",
+                "is_external_url": true,
+                "author": "Beo",
+                "contents": "Hey everyone, I'm from the project's staff team, and just wanted to clarify some things. The main dev's currently juggling development with exams and sickness, however a new dev has joined the team. Unfortunately, we've encountered some roadblocks that ensure we won't have this released until August, at the very least. We can't secure a Steam greenlight with DZ in its current state, which isn't helped by how we jumped the gun. A lot more work is ahead of us, and we're sorry. We're still hard at work, in the mean time! This won't be abandoned over a few unexpected hurdles, nor will we give up. So-- keep an eye out for updates! Huge thanks to everyone for their patience and commitment to the project. Communication has been messy and we're working on improving that. Development cycles are naturally slow at points, especially when help is so limited in trying to reverse-engineer a complex game like this, in addition to a language barrier. We appreciate any and all patience. TLDR: The main dev is dealing with health issues, while juggling exam obligations. He needs some time. Another dev has joined, and progress will increase. Release is planned for August, which ideally won't be pushed back, just be understanding of the obstacles. Much of this involves reverse-engineering the old game's server logic, because the source code was lost to time. >\"Dead Zone Revive is a not-for-profit fan-run project, in agreement with Con Artist Games.\u201d ",
+                "feedlabel": "Community Announcements",
+                "date": 1774141092,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3919900
+            },
+            {
+                "gid": "1826362059933874",
+                "title": "DELAY ONLY IN STEAM/EPIC GAMES",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059933874",
+                "is_external_url": true,
+                "author": "XxmondoxX_115",
+                "contents": "This is a bit of sad news: the Steam and Epic Games release will be delayed by approximately 1 week due to some issues (already fixed) THIS DOES NOT MEAN THE GAME IS DELAYED! The release will still happen on all the other available platforms: https://deadzonegame.net/playnow \u201cCan I use my account from the other platforms on Steam/Epic?\u201d Yes. Just uninstall the launcher you downloaded from the website, download the game on Steam or Epic Games, and log in with your existing account details. ALL LAUNCHERS USES THE SAME SERVER",
+                "feedlabel": "Community Announcements",
+                "date": 1773171170,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3919900
+            }
+        ],
+        "count": 4
+    }
+}
