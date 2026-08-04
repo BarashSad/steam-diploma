@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-08-04T03:21:26.865587+00:00,4547970,Pih 2,data/spike_explainer/2026-08-04__appid_4547970__rank_1092_to_1032__up_60,60,75,data/spike_explainer/2026-08-04__appid_4547970__rank_1092_to_1032__up_60/llm_summary_input.md
+2026-08-04T14:36:49.379234+00:00,4935510,Cellar Keeper,data/spike_explainer/2026-08-04__appid_4935510__rank_1126_to_1090__up_36,36,90,data/spike_explainer/2026-08-04__appid_4935510__rank_1126_to_1090__up_36/llm_summary_input.md

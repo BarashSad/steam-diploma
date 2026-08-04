@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+1996090,Vapor World: Over The Mind,Vapor World: Over The Mind,1033,1030,3,3,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Aug 18, 2026",True
+3516590,Allumeria,Allumeria,1147,1144,3,3,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Aug 28, 2026",True
+1332100,Starship Simulator,Starship Simulator,351,350,1,1,up,none,Unpriced (Coming Soon),Free,True,To be announced,To be announced,False
+3639070,BLACKWOOD,BLACKWOOD,604,603,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Sep 16, 2026",True
