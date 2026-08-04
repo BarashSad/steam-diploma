@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Dead Zone Revive
-Tavily Budget Used: 0
-Errors: 20
+Analyzed: Pih 2
+Tavily Budget Used: 15
+Errors: 0

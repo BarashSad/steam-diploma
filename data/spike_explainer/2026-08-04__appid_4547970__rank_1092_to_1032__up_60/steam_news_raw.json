@@ -1,0 +1,21 @@
+{
+    "appnews": {
+        "appid": 4547970,
+        "newsitems": [
+            {
+                "gid": "1837955055366978",
+                "title": "Pih 2 Release Date: August 4",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366978",
+                "is_external_url": true,
+                "author": "becomeanobodyllc",
+                "contents": "Pih 2 launches August 4, exactly 2 years to the day after Pih 1 ! ",
+                "feedlabel": "Community Announcements",
+                "date": 1784058414,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4547970
+            }
+        ],
+        "count": 1
+    }
+}

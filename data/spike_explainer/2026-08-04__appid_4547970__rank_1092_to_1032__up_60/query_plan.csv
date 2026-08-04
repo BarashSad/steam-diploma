@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4547970,Pih 2,"""Pih 2"" Steam",general,1,tavily,True,,5
+4547970,Pih 2,"""Pih 2"" trailer",general,1,tavily,True,,5
+4547970,Pih 2,"""Pih 2"" gameplay",general,1,tavily,True,,5
+4547970,Pih 2,"""Pih 2"" demo",general,1,tavily,True,,5
+4547970,Pih 2,"""Pih 2"" release date",general,1,tavily,True,,5
+4547970,Pih 2,"""Pih 2"" announcement",general,1,tavily,True,,5
+4547970,Pih 2,"""Pih 2"" preview",general,1,tavily,True,,5
+4547970,Pih 2,"""Pih 2"" review",general,1,tavily,True,,5
+4547970,Pih 2,"""Pih 2"" publisher",general,1,tavily,True,,5
+4547970,Pih 2,"""Pih 2"" developer",general,1,tavily,True,,5
+4547970,Pih 2,"site:pcgamer.com ""Pih 2""",press,2,tavily,False,General budget exhausted,0
+4547970,Pih 2,"site:rockpapershotgun.com ""Pih 2""",press,2,tavily,False,General budget exhausted,0
+4547970,Pih 2,"site:ign.com ""Pih 2""",press,2,tavily,False,General budget exhausted,0
+4547970,Pih 2,"site:gamespot.com ""Pih 2""",press,2,tavily,False,General budget exhausted,0
+4547970,Pih 2,"site:game8.co ""Pih 2""",press,2,tavily,False,General budget exhausted,0
+4547970,Pih 2,"site:reddit.com ""Pih 2""",social,3,tavily,True,,5
+4547970,Pih 2,"site:tiktok.com ""Pih 2""",social,4,tavily,True,,1
+4547970,Pih 2,"site:instagram.com ""Pih 2""",social,4,tavily,True,,5
+4547970,Pih 2,"site:x.com ""Pih 2""",social,4,tavily,True,,5
+4547970,Pih 2,"site: ""Pih 2""",social,4,tavily,True,,5
