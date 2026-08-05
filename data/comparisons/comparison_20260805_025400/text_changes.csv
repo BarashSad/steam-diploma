@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4317690,Crimson Moon,Crimson Moon,276,270,6,6,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,September 2026,"Sep 1, 2026",True
+4024440,Haunted Heist,Haunted Heist,1017,1015,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Oct 12, 2026",True
+3560670,OpenFront,OpenFront,411,412,-1,1,down,none,Free,Unpriced (Coming Soon),True,Q3 2026,Q3 2026,False
