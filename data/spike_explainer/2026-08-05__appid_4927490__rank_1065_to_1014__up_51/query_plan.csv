@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4927490,Cleaning Up The Puzzle Gallery,"""Cleaning Up The Puzzle Gallery"" Steam",general,1,tavily,True,,5
+4927490,Cleaning Up The Puzzle Gallery,"""Cleaning Up The Puzzle Gallery"" trailer",general,1,tavily,True,,5
+4927490,Cleaning Up The Puzzle Gallery,"""Cleaning Up The Puzzle Gallery"" gameplay",general,1,tavily,True,,5
+4927490,Cleaning Up The Puzzle Gallery,"""Cleaning Up The Puzzle Gallery"" demo",general,1,tavily,True,,5
+4927490,Cleaning Up The Puzzle Gallery,"""Cleaning Up The Puzzle Gallery"" release date",general,1,tavily,True,,5
+4927490,Cleaning Up The Puzzle Gallery,"""Cleaning Up The Puzzle Gallery"" announcement",general,1,tavily,True,,5
+4927490,Cleaning Up The Puzzle Gallery,"""Cleaning Up The Puzzle Gallery"" preview",general,1,tavily,True,,5
+4927490,Cleaning Up The Puzzle Gallery,"""Cleaning Up The Puzzle Gallery"" review",general,1,tavily,True,,5
+4927490,Cleaning Up The Puzzle Gallery,"""Cleaning Up The Puzzle Gallery"" publisher",general,1,tavily,True,,5
+4927490,Cleaning Up The Puzzle Gallery,"""Cleaning Up The Puzzle Gallery"" developer",general,1,tavily,True,,5
+4927490,Cleaning Up The Puzzle Gallery,"site:pcgamer.com ""Cleaning Up The Puzzle Gallery""",press,2,tavily,False,General budget exhausted,0
+4927490,Cleaning Up The Puzzle Gallery,"site:rockpapershotgun.com ""Cleaning Up The Puzzle Gallery""",press,2,tavily,False,General budget exhausted,0
+4927490,Cleaning Up The Puzzle Gallery,"site:ign.com ""Cleaning Up The Puzzle Gallery""",press,2,tavily,False,General budget exhausted,0
+4927490,Cleaning Up The Puzzle Gallery,"site:gamespot.com ""Cleaning Up The Puzzle Gallery""",press,2,tavily,False,General budget exhausted,0
+4927490,Cleaning Up The Puzzle Gallery,"site:game8.co ""Cleaning Up The Puzzle Gallery""",press,2,tavily,False,General budget exhausted,0
+4927490,Cleaning Up The Puzzle Gallery,"site:reddit.com ""Cleaning Up The Puzzle Gallery""",social,3,tavily,True,,5
+4927490,Cleaning Up The Puzzle Gallery,"site:tiktok.com ""Cleaning Up The Puzzle Gallery""",social,4,tavily,True,,5
+4927490,Cleaning Up The Puzzle Gallery,"site:instagram.com ""Cleaning Up The Puzzle Gallery""",social,4,tavily,True,,5
+4927490,Cleaning Up The Puzzle Gallery,"site:x.com ""Cleaning Up The Puzzle Gallery""",social,4,tavily,True,,5
+4927490,Cleaning Up The Puzzle Gallery,"site: ""Cleaning Up The Puzzle Gallery""",social,4,tavily,True,,5

@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Cellar Keeper
+Analyzed: Cleaning Up The Puzzle Gallery
 Tavily Budget Used: 15
 Errors: 0
