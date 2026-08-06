@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4935510,Cellar Keeper,"""Cellar Keeper"" Steam",general,1,tavily,True,,5
+4935510,Cellar Keeper,"""Cellar Keeper"" trailer",general,1,tavily,True,,5
+4935510,Cellar Keeper,"""Cellar Keeper"" gameplay",general,1,tavily,True,,5
+4935510,Cellar Keeper,"""Cellar Keeper"" demo",general,1,tavily,True,,5
+4935510,Cellar Keeper,"""Cellar Keeper"" release date",general,1,tavily,True,,5
+4935510,Cellar Keeper,"""Cellar Keeper"" announcement",general,1,tavily,True,,5
+4935510,Cellar Keeper,"""Cellar Keeper"" preview",general,1,tavily,True,,5
+4935510,Cellar Keeper,"""Cellar Keeper"" review",general,1,tavily,True,,5
+4935510,Cellar Keeper,"""Cellar Keeper"" publisher",general,1,tavily,True,,5
+4935510,Cellar Keeper,"""Cellar Keeper"" developer",general,1,tavily,True,,5
+4935510,Cellar Keeper,"site:pcgamer.com ""Cellar Keeper""",press,2,tavily,False,General budget exhausted,0
+4935510,Cellar Keeper,"site:rockpapershotgun.com ""Cellar Keeper""",press,2,tavily,False,General budget exhausted,0
+4935510,Cellar Keeper,"site:ign.com ""Cellar Keeper""",press,2,tavily,False,General budget exhausted,0
+4935510,Cellar Keeper,"site:gamespot.com ""Cellar Keeper""",press,2,tavily,False,General budget exhausted,0
+4935510,Cellar Keeper,"site:game8.co ""Cellar Keeper""",press,2,tavily,False,General budget exhausted,0
+4935510,Cellar Keeper,"site:reddit.com ""Cellar Keeper""",social,3,tavily,True,,5
+4935510,Cellar Keeper,"site:tiktok.com ""Cellar Keeper""",social,4,tavily,True,,5
+4935510,Cellar Keeper,"site:instagram.com ""Cellar Keeper""",social,4,tavily,True,,5
+4935510,Cellar Keeper,"site:x.com ""Cellar Keeper""",social,4,tavily,True,,5
+4935510,Cellar Keeper,"site: ""Cellar Keeper""",social,4,tavily,True,,5

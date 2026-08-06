@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-06T14:33:36.935350+00:00",
+    "timestamp": "20260806_143336",
+    "input_file": "data/spike_explainer/2026-08-06__appid_4935510__rank_942_to_903__up_39/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-06__appid_4935510__rank_942_to_903__up_39/llm_outputs/gemini_20260806_143336.md",
+    "game_title": "Cellar Keeper",
+    "appid": "4935510",
+    "duration_sec": 23.97,
+    "response_length": 5494,
+    "error": null
+}

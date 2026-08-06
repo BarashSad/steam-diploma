@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4890760,THE DEAD WE KNEW: Open World Survival,THE DEAD WE KNEW: Open World Survival,916,896,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 24, 2026","Sep 17, 2026",True
+4012810,STEINS;GATE RE:BOOT,STEINS;GATE REBOOT DIGITAL DELUXE EDITION,173,174,-1,1,down,none,$53.99,$71.99,True,"Aug 19, 2026","Aug 19, 2026",False
+2900640,TOEM 2,TOEM 2,648,647,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Sep 29, 2026",True
+4117730,Slayblade,Slayblade,590,590,0,0,stable,none,Free,Unpriced (Coming Soon),True,Coming soon,"Aug 20, 2026",True

@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: WE ARE SO DEAD
+Analyzed: Cellar Keeper
 Tavily Budget Used: 15
 Errors: 0

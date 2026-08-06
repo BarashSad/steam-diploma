@@ -1,0 +1,2704 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+4935510,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895229,Official Trailer is Here!,,"Our official trailer has arrived!Step into the forgotten cellar, restore 2,448 bottles, uncover the story behind the mysterious chicken, and experience Cellar Keeper before launch.We've also updated our Steam page with new screenshots, an improved description, and more details about the game.📅 Launc",trailer,90,very_strong,Inside spike window (+30); Official Steam News (+20); Exact title match (+20); Keywords ['trailer'] (+20),
+4935510,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=6lwCKtsb0cM,Cellar Keeper | Official Trailer,,"Restore 2448 bottles, uncover the mystery of the forgotten keeper, and bring an abandoned cellar back to life. Launching ...",trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4935510,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=c_NfwXkL6wk,Cellar Keeper - Official Announcement Trailer,,"Organize all 2448 bottles, restore a forgotten cellar, and enjoy a relaxing cozy experience in Cellar Keeper. Wishlist on Steam: ...","trailer, announcement",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4935510,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=6FZxi1BPaKU,Cellar Keeper - Official Trailer,,"A dusty cellar, thousands of stray bottles, and the oddly soothing urge to put everything back where it belongs. Cellar Keeper turns ...",trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4935510,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=BMM0T-dDSxU,Château Pluie: The New Cellar Keeper — Official Trailer | Cozy Wine Cellar Sorter,,"Step into the cellar of Château Pluie, a cozy sorting game about organizing wine bottles by region and color, set to the slow ...",trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4935510,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=c_NfwXkL6wk,Cellar Keeper - Official Announcement Trailer,,"Organize all 2448 bottles, restore a forgotten cellar, and enjoy a relaxing cozy experience in Cellar Keeper. Wishlist on Steam: ...","trailer, announcement",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4935510,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=f1oJZI5tjHU,Sorting Thousands Of Wine Bottles To Stop A Curse ~ Cellar Keeper,,Cellar Keeper is a cozy single-player organizing simulator where you sort 2448 scattered bottles throughout a forgotten cellar.,,65,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20),
+4935510,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357036146,What's Next for Cellar Keeper?,,"While our main focus is polishing Cellar Keeper for launch, we've already started planning what's next.Here's a small preview of what we'd love to add after release:🛡️ Hardcore ModeA more realistic way to play.Bottles can break if dropped.Carry fewer bottles at once.Watch your step... you might brea",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4935510,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357030287,"Thank You for 10,000 Wishlists! 🎉",,"Hello everyone!We've just reached 10,000 wishlists on Steam! 🎉Reaching this milestone means a lot to us, and we want to thank everyone who has wishlisted Cellar Keeper, shared it with friends, or simply followed its journey so far.Every bit of support has helped more people discover the game, and it",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4935510,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357027554,"Thank You for 7,500 Wishlists! 🎉",,"Hello everyone!We've just reached 7,500 wishlists on Steam!It's been amazing to watch more and more people discover Cellar Keeper, and we wanted to take a moment to thank everyone who's been following the game.Every wishlist, share, and kind message helps us reach more players, and we truly apprecia",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4935510,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357024345,"Thank You for 5,000 Wishlists! 🎉",,"Hello everyone!We've just reached 5,000 wishlists on Steam!It's amazing to see so many people excited about Cellar Keeper, and we wanted to take a moment to say thank you.Every wishlist, comment, share, and kind message has helped more people discover the game. Your support has been incredible, and ",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4935510,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329264182,"Thank You for 1,000 Wishlists! 🎉",,"Hello everyone!We've just reached 1,000 wishlists on Steam, and we wanted to say thank you.Seeing so many people interested in Cellar Keeper means a lot to our two-person team. Every wishlist motivates us to keep polishing the game and make it the best experience we can.Development is moving forward",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4935510,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329262219,Cellar Keeper Has Officially Been Announced!,,"Hello everyone!We're excited to finally reveal Cellar Keeper, our cozy first-person organizing game.Restore a forgotten cellar by sorting 2,448 bottles into their proper racks. Organize collections by variety, unlock helpful abilities, and enjoy a relaxing experience at your own pace. If you're look",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4935510,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=lmLYwlAzC8I,We Made a Cozy Wine Cellar Organizing Game,,Cellar Keeper is a cozy organizing game coming to Steam on August 7. Search “Cellar Keeper” on Steam and add it to your ...,,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+4935510,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=3kw6R5SiLgo,"Let&#39;s Clean Up 2,448 Wine Bottles.... | Cellar Keeper First Look",,"In this First Look video, we take a look at a new tidy up game where we clean up wine bottles with a couple of unique twists.",,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+4935510,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=IbL_igQqM8A,New Sorting Abilities in Château Pluie: The New Cellar Keeper!,,I discovered these new abilities — sorting these bottles has become a lot easier! Château Pluie: The New Cellar Keeper is a ...,,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+4935510,social_post,unknown_date,https://www.instagram.com/reel/DblhNukw0Yk,Cellar Keeper is a cozy single-player organizing simulator ...,"Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.  
+  
+#indiegame #whattoplay #gaming #simgame   
+  
+A once-pristine cellar has fallen into complete disarray. [...] - Restore a forgotten cellar  
+  
+- Relaxing gameplay with no time limits  
+  
+- Dedicated Speedrun Mode  
+  
+- Online Leaderboards  
+  
+- Atmospheric underground environment [...] Return 2,448 bottles to their proper racks by identifying their varieties and restoring perfect order throughout the cellar.  
+  
+ 【The Forgotten Keeper】  
+Long ago, the cellar belonged to an eccentric collector who loved his bottle collection more than anything else.  
+  
+Desperate to preserve it forever, he attempted an ancient spell. The cellar survived... but the spell turned him into a chicken and trapped him inside a small cage.  
+  
+Now the cellar has fallen into ruin.",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+4935510,social_post,unknown_date,https://x.com/Egotrampoline,EgoTrampoline (@Egotrampoline) / X,"Jul 23
+
+  Would you organize 2,448 bottles? Cellar Keeper is a first-person tidy-up game where you restore a forgotten cellar, unlock new abilities, and compete for the fastest time. ❤️ Thank you for 7,500 wishlists! 🎮 store.steampowered.com/app/4935510/Ce…
+
+  
+
+  00:00 [...] Jul 27
+
+  Organize 2,448 bottles, restore a forgotten cellar, and relax in a cozy organizing game. 🍾 Cellar Keeper has now reached 20,000 wishlists on Steam. Thank you for all the support! ❤️ store.steampowered.com/app/4935510/Ce… #IndieGame #CozyGames #インディーゲーム #癒しゲーム
+
+  
+
+  00:00
+
+  20K
+ user avatar
+
+  EgoTrampoline
+
+  @Egotrampoline
+
+  Jul 26 [...] Jul 26
+
+  Restore a forgotten cellar by organizing 2,448 bottles. • Relaxing gameplay • Satisfying organization • Every shelf has its own order. • No timers or penalties in Cozy Mode Would you play Cellar Keeper? store.steampowered.com/app/4935510/Ce…
+
+  
+
+  00:00
+
+  251
+ user avatar
+
+  EgoTrampoline
+
+  @Egotrampoline
+
+  Jul 24",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+4935510,web_result,unknown_date,https://store.steampowered.com/app/4935510/Cellar_Keeper,Cellar Keeper on Steam,"All Games > Casual Games > Cellar Keeper
+
+Community Hub
+
+Cellar Keeper
+
+Cellar Keeper
+
+Cellar Keeper
+
+Developer
+
+EgoTrampoline
+
+Publisher
+
+EgoTrampoline
+
+Release
+
+6 Aug, 2026
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+All Reviews:
+
+No user reviews [...] Developer: EgoTrampoline
+
+Publisher: EgoTrampoline
+
+Release Date: 6 Aug, 2026
+
+View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Planned Release Date: 6 Aug, 2026
+
+This game plans to unlock in approximately 2 days
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+## 【A Cozy Cellar Organization Simulator】 [...] | Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Turkish | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| Italian | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+| Polish | ✔ |  | ✔ |
+| Russian | ✔ |  | ✔ |
+| Portuguese - Brazil | ✔ |  | ✔ |
+
+See all 13 supported languages
+
+Title: Cellar Keeper  
+ Genre: Casual, Indie, Simulation",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4935510,web_result,unknown_date,https://store.steampowered.com/news/app/4935510/view/713407782495193768?snr=1_5_9_,Cellar Keeper - What's Next for Cellar Keeper? - Steam News,"About This Game:
+
+Image 10: Cellar Keeper
+
+Add to wishlist
+
+Cellar Keeper
+
+RelaxingCasualOrganizingCollectathonSimulationIndiePuzzleHidden ObjectSingleplayer3D
+
+Aug 7, 2026
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+Available: Aug 7, 2026 [...] News Our official trailer is here! Get a fresh look at Cellar Keeper before launch. Image 8 Official Trailer is Here! News Mon, August 3, 2026 Our official trailer is here! Get a fresh look at Cellar Keeper before launch.
+
+News Cellar Keeper has reached 7,500 wishlists on Steam. Thank you for all the incredible support! Image 9 Thank You for 7,500 Wishlists! 🎉 News Thu, July 23, 2026 Cellar Keeper has reached 7,500 wishlists on Steam. Thank you for all the incredible support!
+
+About This Game: [...] Game
+
+Image 6: Cellar Keeper Available: Aug 7, 2026
+
+Posted
+
+Mon, July 27, 2026
+
+@
+
+4:50 PM GMT
+
+Type
+
+News 
+
+14
+
+Rate Up
+
+1
+
+Discuss
+
+Share
+
+More events from Cellar Keeper 
+
+View All
+
+News Cellar Keeper has reached 5,000 wishlists on Steam! Thank you for all the incredible support. Image 7 Thank You for 5,000 Wishlists! 🎉 News Wed, July 22, 2026 Cellar Keeper has reached 5,000 wishlists on Steam! Thank you for all the incredible support.",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4935510,web_result,unknown_date,https://www.youtube.com/watch?v=6FZxi1BPaKU,Cellar Keeper - Official Trailer,"# Cellar Keeper - Official Trailer
+## IndieBunny
+4820 subscribers
+4 likes
+
+### Description
+199 views
+Posted: 18 Jul 2026
+A dusty cellar, thousands of stray bottles, and the oddly soothing urge to put everything back where it belongs. Cellar Keeper turns organizing into a genuine time sink in the best possible way.
+Steam: 
+
+Subscribe to IndieBunny for the latest trailers, gameplay videos, credits and previews of indiegames here: 
+Read more: 
+
+Get the IndieBunny Discord Bot: 
+IndieBunny Discord: [...] #indiegames #trailer #gameplay #CellarKeeper
+
+1 comments
+### Transcript:",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4935510,web_result,unknown_date,/goto?url=CAESiwEB7keqTUXgSbm8ktp9CJynyN3FnqghcV6ULtypH8ZruAu0lyWLO2fKrWaplMFgvg2ZJS1ld2HotZPvdF7aRXp22UUjc2ywAl5eLTQ1ULIFI3skZ7BE94MWTgpCgeGrgaZvQWN10Kp_yAVyvi7s5gy6rkJEc2NxcFIyFir9xBWXb4cymtrn7GrP9xMq,Cellar Keeper - Announcement Trailer video,"Jul 18, 2026 — Cellar Keeper is a cozy first-person organizing game where you restore a forgotten cellar by sorting 2,448 bottles into their proper racks.Read more",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4935510,web_result,unknown_date,/goto?url=CAESYwHuR6pNdBK8HPvYlzkLTizOeX4fO8Dc5Fkauw3wvR1Q4BRkCmjEpQ0TTMrhAppsOHxGMVWWx-wMF7AWs0ww7nSW2tmJmGZ415lQNYqCK9GW4Vj8kknNGNwJfLQ49UeivhfT2A%3D%3D,Château Pluie: The New Cellar Keeper — Official Trailer,"Step into the cellar of Château Pluie, a cozy sorting game about organizing wine bottles by region and color, set to the slow rhythm of rain",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4935510,web_result,unknown_date,/goto?url=CAESigEB7keqTZxdduyUUIIJmGitYQiaY2eFVRfjRAXDkVB5bGRjByeWP7XVcbBwMnNjDcjMMJsIezYI373s_1yMkKZAubXLMQoU-US-KwB8AdLQgET-o0tGLFSj0Tj5gAPQjiZbRqDOsmV99hb4vwTzVEQ999FgNYDugXYV2Jajx_rDgUu8iAZ3tMJVSoo%3D,Cellar Keeper - Official Trailer is Here! - Steam News,Our official trailer is here! Get a fresh look at Cellar Keeper before launch. Cellar Keeper - Official Trailer is Here!,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4935510,web_result,unknown_date,/goto?url=CAESYwHuR6pNowOoaXTk9XlYgME1izAEvB0fS1AN4C9okaP1ozSY5wO8RdNgtWYTzOUsyQleSFLoaBkHDBgeIw97o_utAHwXpSkMmg6ebSQZoCXWmciTtqnJgf_jegq9xhwOtGRlOA%3D%3D,Cellar Keeper - Official Trailer,"A dusty cellar, thousands of stray bottles, and the oddly soothing urge to put everything back where it belongs. Cellar Keeper turns",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4935510,web_result,unknown_date,https://www.moddb.com/games/cellar-keeper,Cellar Keeper Windows game,"## Cellar Keeper
+
+### EgoTrampoline | Coming Aug 6, 2026
+
+   summary
+   articles
+   files
+   mods
+   videos
+   images
+
+Cellar Keeper is a cozy first-person organizing game where you restore a forgotten cellar by sorting 2,448 bottles into their proper racks. Organize collections by variety, unlock useful abilities, and enjoy a relaxing experience or challenge yourself in Speedrun Mode. [...] Image 1: View media
+   Image 2: View media
+   Image 3: View media
+   Image 4: View media
+   Image 5: View media
+   Image 6: View media
+   
+
+RTX Remix
+
+RTX Remix is a modding platform by NVIDIA, which allows modders to create stunning HD remasters of classic games (see all supported), with ray tracing and DLSS. Playing RTX mods requires a RT capable GPU. Learn more here.
+
+Cellar Keeper's compatibility with RTX Remix is: [...] FollowReportProfile
+
+1 Follow
+
+##### Icon
+
+Image 13: Cellar Keeper
+
+##### Platforms
+
+Windows
+
+##### Developer & Publisher
+
+EgoTrampoline
+
+##### Engine
+
+Unity
+
+##### Contact
+
+Send Message
+
+##### Release date
+
+Coming Aug 6, 2026
+
+##### Share
+
+
+
+Purchase
+
+WishlistImage 14: SteamView
+
+Style
+
+##### Genre
+
+Realistic Sim
+
+##### Theme
+
+Realism
+
+##### Players
+
+Single Player
+
+##### Project
+
+Indie
+
+Tags
+
+Cozy
+
+Organizing
+
+Relaxing
+
+Casual
+
+Simulation
+
+First-Person
+
+Singleplayer
+
+Embed Buttons",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4935510,web_result,unknown_date,https://store.steampowered.com/app/4935510/Cellar_Keeper,Cellar Keeper,"All Games > Casual Games > Cellar Keeper
+
+Community Hub
+
+Cellar Keeper
+
+Cellar Keeper
+
+Cellar Keeper
+
+Developer
+
+EgoTrampoline
+
+Publisher
+
+EgoTrampoline
+
+Release
+
+6 Aug, 2026
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+All Reviews:
+
+No user reviews [...] Choose your upgrades wisely and discover the most efficient way to organize the cellar.
+
+## 【Two Ways to Play】
+
+Cozy Mode
+
+- Relaxing gameplay
+
+- Unlock skills
+
+- No time limits
+
+- Organize at your own pace
+
+Speedrun Mode
+
+- No skill upgrades
+
+- Pure efficiency
+
+- Compete on the online leaderboard
+
+- Every second matters
+
+## 【Key Features】
+
+- Organize 2,448 bottles
+
+- Sort bottles by their varieties
+
+- Unlock powerful skills
+
+- Restore a forgotten cellar [...] Now the cellar has fallen into ruin.
+
+Restore every rack, break the curse, and help the forgotten keeper see the sunlight once again.
+
+## 【Restore Order, One Rack at a Time】
+
+The cellar starts in complete chaos.
+
+As you organize each rack, the room gradually transforms into a clean, beautiful collection.
+
+Watching disorder disappear is its own reward.
+
+## 【Learn Skills to Organize Faster】
+
+Unlock powerful abilities that improve carrying, searching, and movement.",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4935510,web_result,unknown_date,https://www.youtube.com/watch?v=6FZxi1BPaKU,Cellar Keeper - Official Trailer,"# Cellar Keeper - Official Trailer
+## IndieBunny
+4820 subscribers
+4 likes
+
+### Description
+199 views
+Posted: 18 Jul 2026
+A dusty cellar, thousands of stray bottles, and the oddly soothing urge to put everything back where it belongs. Cellar Keeper turns organizing into a genuine time sink in the best possible way.
+Steam: 
+
+Subscribe to IndieBunny for the latest trailers, gameplay videos, credits and previews of indiegames here: 
+Read more: 
+
+Get the IndieBunny Discord Bot: 
+IndieBunny Discord: [...] #indiegames #trailer #gameplay #CellarKeeper
+
+1 comments
+### Transcript:",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4935510,web_result,unknown_date,https://www.moddb.com/games/cellar-keeper/downloads,Downloads - Cellar Keeper - ModDB,"# Downloads - Cellar Keeper
+
+## Cellar Keeper
+
+### EgoTrampoline | Coming Aug 6, 2026
+
+Cellar Keeper is a cozy first-person organizing game where you restore a forgotten cellar by sorting 2,448 bottles into their proper racks. Organize collections by variety, unlock useful abilities, and enjoy a relaxing experience or challenge yourself in Speedrun Mode. [...] No files were found matching the criteria specified. We suggest you try the file list with no filter applied, to browse all available. Add file and help us achieve our mission of showcasing the best content from all developers. Join now to share your own content, we welcome creators and consumers alike and look forward to your comments.
+
+##### Icon
+
+Cellar Keeper
+
+##### Platforms
+
+##### Developer & Publisher
+
+##### Engine
+
+##### Contact
+
+##### Release date
+
+Steam
+
+##### Files
+
+##### Size [...] ##### Size
+
+##### Downloads
+
+##### Downloads Today
+
+##### New
+
+CS",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4935510,web_result,unknown_date,https://indiebunny.com/games/cellar-keeper,"Cellar Keeper - News, Trailers, Release Date & Requirements | IndieBunny","Graphics:
+:   NVIDIA GeForce GTX 1080 / AMD Radeon RX 5700 XT
+
+DirectX:
+:   Version 11
+
+Storage:
+:   1 GB available space
+
+### macOS
+
+### Linux
+
+## Cellar KeeperFAQ
+
+When does Cellar Keeper release?
+:   Cellar Keeper is scheduled to release 6 Aug, 2026 on Steam.
+
+What platforms is Cellar Keeper on?
+:   Cellar Keeper is available on PC via Steam.
+
+Who develops Cellar Keeper?
+:   Cellar Keeper is developed by EgoTrampoline. [...] Spirit CrossingElectrician Simulator
+
+Electrician SimulatorFarm & Feast
+
+Farm & FeastHardware Dev
+
+Hardware DevAll You Can FISH!
+
+All You Can FISH!The Glorious Colony
+
+The Glorious ColonyStamperor! The Jester's Decree
+
+Stamperor! The Jester's Decree
+
+## Cellar Keeper- Facts
+
+Release date
+:   6 Aug, 2026 (upcoming)
+
+Developer
+:   EgoTrampoline
+
+Publisher
+:   EgoTrampoline
+
+Platforms
+:   PC (Windows)
+
+Genres
+:   Casual, Indie, Simulation
+
+Price
+:   TBA
+
+View on Steam
+
+## Follow Cellar Keeper [...] IndieBunny
+
+All games
+
+Cellar Keeper key art
+
+# Cellar Keeper
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+byEgoTrampoline · 1 article · covered since Jul 18, 2026
+
+View on Steam Watch trailer
+
+Not rated yet
+
+## Cellar Keepernews",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+4935510,web_result,unknown_date,https://store.steampowered.com/app/4935510/Cellar_Keeper,Cellar Keeper,"All Games > Casual Games > Cellar Keeper
+
+Community Hub
+
+Cellar Keeper
+
+Cellar Keeper
+
+Cellar Keeper
+
+Developer
+
+EgoTrampoline
+
+Publisher
+
+EgoTrampoline
+
+Release
+
+6 Aug, 2026
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+All Reviews:
+
+No user reviews [...] Developer: EgoTrampoline
+
+Publisher: EgoTrampoline
+
+Release Date: 6 Aug, 2026
+
+View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Planned Release Date: 6 Aug, 2026
+
+This game plans to unlock in approximately 2 days
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+## 【A Cozy Cellar Organization Simulator】 [...] No user reviews
+
+Release Date:
+
+6 Aug, 2026
+
+Developer:
+
+EgoTrampoline
+
+Publisher:
+
+EgoTrampoline
+
+Tags
+
+Popular user-defined tags for this product:
+
+Relaxing  Casual  Organizing  Collectathon  Simulation  Indie  Puzzle  Hidden Object  Singleplayer  3D  Immersive Sim  Cleaning  Cozy  Funny  Atmospheric  Realistic  Underground  Artificial Intelligence  Job Simulator 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4935510,web_result,unknown_date,https://www.youtube.com/watch?v=6FZxi1BPaKU,Cellar Keeper - Official Trailer,"# Cellar Keeper - Official Trailer
+## IndieBunny
+4820 subscribers
+4 likes
+
+### Description
+199 views
+Posted: 18 Jul 2026
+A dusty cellar, thousands of stray bottles, and the oddly soothing urge to put everything back where it belongs. Cellar Keeper turns organizing into a genuine time sink in the best possible way.
+Steam: 
+
+Subscribe to IndieBunny for the latest trailers, gameplay videos, credits and previews of indiegames here: 
+Read more: 
+
+Get the IndieBunny Discord Bot: 
+IndieBunny Discord: [...] #indiegames #trailer #gameplay #CellarKeeper
+
+1 comments
+### Transcript:",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4935510,web_result,unknown_date,https://www.indiedb.com/games/cellar-keeper/videos/cellar-keeper-announcement-trailer,Cellar Keeper - Announcement Trailer video - IndieDB,"# Cellar Keeper - Announcement Trailer video
+
+## Cellar Keeper
+
+### EgoTrampoline | Coming Aug 6, 2026
+
+Cellar Keeper is a cozy first-person organizing game where you restore a forgotten cellar by sorting 2,448 bottles into their proper racks. Organize collections by variety, unlock useful abilities, and enjoy a relaxing experience or challenge yourself in Speedrun Mode.
+
+View media
+
+To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video [...] Your comment will be anonymous unless you join the community. Or sign in with your social account:
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+##### Tags
+
+##### Date
+
+##### By
+
+##### Duration
+
+##### Size
+
+##### Views
+
+##### Filename
+
+##### URL
+
+##### Embed [...] ##### Embed
+
+##### Autoplay
+
+##### Repeat
+
+##### Share
+
+##### New
+
+##### Feed
+
+##### Report",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4935510,web_result,unknown_date,https://www.youtube.com/watch?v=c_NfwXkL6wk,Cellar Keeper - Official Announcement Trailer,"# Cellar Keeper - Official Announcement Trailer
+## EgoTrampoline
+5 subscribers
+9 likes
+
+### Description
+326 views
+Posted: 17 Jul 2026
+Organize all 2,448 bottles, restore a forgotten cellar, and enjoy a relaxing cozy experience in Cellar Keeper.
+
+Wishlist on Steam:
+
+4 comments
+### Transcript:",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4935510,web_result,unknown_date,https://www.igdb.com/games/cellar-keeper,Cellar Keeper (2026) | IGDB.com,"Want 1
+
+Playing 0
+
+Played 0
+
+Video 1
+
+‹›
+
+Announcement Trailer — 1 of 1View trailers with IGDB TV
+
+N/A
+
+0 user ratings
+
+N/A
+
+0 critic ratings
+
+Want 1
+
+Playing 0
+
+Played 0
+
+Genre:Puzzle, Simulator, Indie
+
+Platforms:PC (Microsoft Windows)
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, ...Read more
+
+Add to lists
+
+Added to 5 lists
+
+About [...] Guidelines
+
+DEVELOPER API
+
+About the API
+
+Getting Started
+
+MCP Server
+
+About the API
+
+Getting Started
+
+MCP Server
+
+HELP
+
+About IGDB
+
+IGDB Press Kit
+
+Contact
+
+Discord
+
+UserVoice
+
+About IGDB
+
+IGDB Press Kit
+
+Contact
+
+Discord
+
+UserVoice
+
+0 0 1 DAYS    2 0 HOURS    5 7 MINUTES    2 2 SECONDS This is a countdown to the release day and the actual hour can vary.
+
+# Cellar Keeper
+
+8/7/2026
+
+Full Release
+
+EgoTrampoline
+
+Image 2: Cellar Keeper cover
+
+N/A
+
+0 user ratings
+
+N/A
+
+0 critic ratings
+
+Want 1 [...] Releases
+
+Detailed view
+
+PC (Microsoft Windows)
+
+2026-8-7
+
+Links
+
+Image 23: Steam
+
+  
+
+  
+
+Press Kit
+
+Supported Languages
+
+|  | Audio | Subtitles | Interface |
+ ---  --- |
+| Chinese (Simplified): |  | ✓ | ✓ |
+| Chinese (Traditional): |  | ✓ | ✓ |
+| English: |  | ✓ | ✓ |
+| Spanish (Spain): |  | ✓ | ✓ |
+| French: |  | ✓ | ✓ |
+
+Show all 13 supported languages
+
+Data completion 89%
+
+Missing 2 data points
+
+Themes
+
+Game Ratings
+
+Edit game data
+
+Last updated on:
+
+Fri Jul 24 2026
+
+Previous changes",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4935510,web_result,unknown_date,https://store.steampowered.com/app/4935510/Cellar_Keeper,Cellar Keeper,"All Games > Casual Games > Cellar Keeper
+
+Community Hub
+
+Cellar Keeper
+
+Cellar Keeper
+
+Cellar Keeper
+
+Developer
+
+EgoTrampoline
+
+Publisher
+
+EgoTrampoline
+
+Release
+
+6 Aug, 2026
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+All Reviews:
+
+No user reviews [...] Developer: EgoTrampoline
+
+Publisher: EgoTrampoline
+
+Release Date: 6 Aug, 2026
+
+View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Planned Release Date: 6 Aug, 2026
+
+This game plans to unlock in approximately 2 days
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+## 【A Cozy Cellar Organization Simulator】 [...] No user reviews
+
+Release Date:
+
+6 Aug, 2026
+
+Developer:
+
+EgoTrampoline
+
+Publisher:
+
+EgoTrampoline
+
+Tags
+
+Popular user-defined tags for this product:
+
+Relaxing  Casual  Organizing  Collectathon  Simulation  Indie  Puzzle  Hidden Object  Singleplayer  3D  Immersive Sim  Cleaning  Cozy  Funny  Atmospheric  Realistic  Underground  Artificial Intelligence  Job Simulator 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4935510,web_result,unknown_date,https://www.youtube.com/watch?v=6FZxi1BPaKU,Cellar Keeper - Official Trailer,"# Cellar Keeper - Official Trailer
+## IndieBunny
+4820 subscribers
+4 likes
+
+### Description
+199 views
+Posted: 18 Jul 2026
+A dusty cellar, thousands of stray bottles, and the oddly soothing urge to put everything back where it belongs. Cellar Keeper turns organizing into a genuine time sink in the best possible way.
+Steam: 
+
+Subscribe to IndieBunny for the latest trailers, gameplay videos, credits and previews of indiegames here: 
+Read more: 
+
+Get the IndieBunny Discord Bot: 
+IndieBunny Discord: [...] #indiegames #trailer #gameplay #CellarKeeper
+
+1 comments
+### Transcript:",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4935510,web_result,unknown_date,https://www.indiedb.com/games/cellar-keeper/videos/cellar-keeper-announcement-trailer,Cellar Keeper - Announcement Trailer video,"# Cellar Keeper - Announcement Trailer video
+
+## Cellar Keeper
+
+### EgoTrampoline | Coming Aug 6, 2026
+
+Cellar Keeper is a cozy first-person organizing game where you restore a forgotten cellar by sorting 2,448 bottles into their proper racks. Organize collections by variety, unlock useful abilities, and enjoy a relaxing experience or challenge yourself in Speedrun Mode.
+
+View media
+
+To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video [...] Your comment will be anonymous unless you join the community. Or sign in with your social account:
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+##### Tags
+
+##### Date
+
+##### By
+
+##### Duration
+
+##### Size
+
+##### Views
+
+##### Filename
+
+##### URL
+
+##### Embed [...] ##### Embed
+
+##### Autoplay
+
+##### Repeat
+
+##### Share
+
+##### New
+
+##### Feed
+
+##### Report",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4935510,web_result,unknown_date,https://store.steampowered.com/app/4935510/Cellar_Keeper,Cellar Keeper,"All Games > Casual Games > Cellar Keeper
+
+Community Hub
+
+Cellar Keeper
+
+Cellar Keeper
+
+Cellar Keeper
+
+Developer
+
+EgoTrampoline
+
+Publisher
+
+EgoTrampoline
+
+Release
+
+6 Aug, 2026
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+All Reviews:
+
+No user reviews [...] Now the cellar has fallen into ruin.
+
+Restore every rack, break the curse, and help the forgotten keeper see the sunlight once again.
+
+## 【Restore Order, One Rack at a Time】
+
+The cellar starts in complete chaos.
+
+As you organize each rack, the room gradually transforms into a clean, beautiful collection.
+
+Watching disorder disappear is its own reward.
+
+## 【Learn Skills to Organize Faster】
+
+Unlock powerful abilities that improve carrying, searching, and movement. [...] No user reviews
+
+Release Date:
+
+6 Aug, 2026
+
+Developer:
+
+EgoTrampoline
+
+Publisher:
+
+EgoTrampoline
+
+Tags
+
+Popular user-defined tags for this product:
+
+Relaxing  Casual  Organizing  Collectathon  Simulation  Indie  Puzzle  Hidden Object  Singleplayer  3D  Immersive Sim  Cleaning  Cozy  Funny  Atmospheric  Realistic  Underground  Artificial Intelligence  Job Simulator 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4935510,web_result,unknown_date,https://www.youtube.com/watch?v=BMM0T-dDSxU,Château Pluie: The New Cellar Keeper — Official Trailer | Cozy Wine Cellar Sorter,"### Description
+46 views
+Posted: 15 Jul 2026
+Step into the cellar of Château Pluie, a cozy sorting game about organizing wine bottles by region and color, set to the slow rhythm of rain against stone walls.
+No rush. No danger. Just satisfying, tactile organization in a warm, atmospheric cellar — perfect for unwinding after a long day.
+🍷 Sort and arrange bottles by region and color
+🌧️ Ambient rain, warm lighting, zero time pressure
+🎧 Best played with headphones and a cup of tea [...] # Château Pluie: The New Cellar Keeper — Official Trailer | Cozy Wine Cellar Sorter
+## Chateau Pluie: The New Cellar Keeper
+3 subscribers
+1 likes [...] Wishlist now on Steam
+#CozyGame #IndieGame #ChateauPluie #Simulation",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4935510,web_result,unknown_date,https://indiebunny.com/games/cellar-keeper,"Cellar Keeper - News, Trailers, Release Date & Requirements","IndieBunny
+
+All games
+
+Cellar Keeper key art
+
+# Cellar Keeper
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+byEgoTrampoline · 1 article · covered since Jul 18, 2026
+
+View on Steam Watch trailer
+
+Not rated yet
+
+## Cellar Keepernews [...] Spirit CrossingElectrician Simulator
+
+Electrician SimulatorFarm & Feast
+
+Farm & FeastHardware Dev
+
+Hardware DevAll You Can FISH!
+
+All You Can FISH!The Glorious Colony
+
+The Glorious ColonyStamperor! The Jester's Decree
+
+Stamperor! The Jester's Decree
+
+## Cellar Keeper- Facts
+
+Release date
+:   6 Aug, 2026 (upcoming)
+
+Developer
+:   EgoTrampoline
+
+Publisher
+:   EgoTrampoline
+
+Platforms
+:   PC (Windows)
+
+Genres
+:   Casual, Indie, Simulation
+
+Price
+:   TBA
+
+View on Steam
+
+## Follow Cellar Keeper [...] Graphics:
+:   NVIDIA GeForce GTX 1080 / AMD Radeon RX 5700 XT
+
+DirectX:
+:   Version 11
+
+Storage:
+:   1 GB available space
+
+### macOS
+
+### Linux
+
+## Cellar KeeperFAQ
+
+When does Cellar Keeper release?
+:   Cellar Keeper is scheduled to release 6 Aug, 2026 on Steam.
+
+What platforms is Cellar Keeper on?
+:   Cellar Keeper is available on PC via Steam.
+
+Who develops Cellar Keeper?
+:   Cellar Keeper is developed by EgoTrampoline.",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+4935510,web_result,unknown_date,https://store.steampowered.com/app/4935510/Cellar_Keeper,Cellar Keeper,"All Games > Casual Games > Cellar Keeper
+
+Community Hub
+
+Cellar Keeper
+
+Cellar Keeper
+
+Cellar Keeper
+
+Developer
+
+EgoTrampoline
+
+Publisher
+
+EgoTrampoline
+
+Release
+
+6 Aug, 2026
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+All Reviews:
+
+No user reviews [...] Now the cellar has fallen into ruin.
+
+Restore every rack, break the curse, and help the forgotten keeper see the sunlight once again.
+
+## 【Restore Order, One Rack at a Time】
+
+The cellar starts in complete chaos.
+
+As you organize each rack, the room gradually transforms into a clean, beautiful collection.
+
+Watching disorder disappear is its own reward.
+
+## 【Learn Skills to Organize Faster】
+
+Unlock powerful abilities that improve carrying, searching, and movement. [...] Choose your upgrades wisely and discover the most efficient way to organize the cellar.
+
+## 【Two Ways to Play】
+
+Cozy Mode
+
+- Relaxing gameplay
+
+- Unlock skills
+
+- No time limits
+
+- Organize at your own pace
+
+Speedrun Mode
+
+- No skill upgrades
+
+- Pure efficiency
+
+- Compete on the online leaderboard
+
+- Every second matters
+
+## 【Key Features】
+
+- Organize 2,448 bottles
+
+- Sort bottles by their varieties
+
+- Unlock powerful skills
+
+- Restore a forgotten cellar",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4935510,web_result,unknown_date,https://www.facebook.com/groups/cozygamer/posts/1772933073956666,Cellar Keeper game release date and gameplay details,"▫️ Conclusion: KEEPER is an experience for anyone seeking something different a game filled with meaning, art, and a refreshing sense of",,"gameplay, release date",40,medium,"Exact title match (+20); Keywords ['gameplay', 'release date'] (+20)",general
+4935510,web_result,unknown_date,https://store.steampowered.com/app/4935510/Cellar_Keeper,Cellar Keeper,"All Games > Casual Games > Cellar Keeper
+
+Community Hub
+
+Cellar Keeper
+
+Cellar Keeper
+
+Cellar Keeper
+
+Developer
+
+EgoTrampoline
+
+Publisher
+
+EgoTrampoline
+
+Release
+
+6 Aug, 2026
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+All Reviews:
+
+No user reviews [...] Developer: EgoTrampoline
+
+Publisher: EgoTrampoline
+
+Release Date: 6 Aug, 2026
+
+View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Planned Release Date: 6 Aug, 2026
+
+This game plans to unlock in approximately 2 days
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+## 【A Cozy Cellar Organization Simulator】 [...] No user reviews
+
+Release Date:
+
+6 Aug, 2026
+
+Developer:
+
+EgoTrampoline
+
+Publisher:
+
+EgoTrampoline
+
+Tags
+
+Popular user-defined tags for this product:
+
+Relaxing  Casual  Organizing  Collectathon  Simulation  Indie  Puzzle  Hidden Object  Singleplayer  3D  Immersive Sim  Cleaning  Cozy  Funny  Atmospheric  Realistic  Underground  Artificial Intelligence  Job Simulator 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4935510,web_result,unknown_date,https://kotaku.com/games/cellar-keeper,Cellar Keeper - Kotaku,"Skip to content 
+
+Cellar Keeper
+
+# Cellar Keeper
+
+## Game Details
+
+### Available on:
+
+ PC
+
+### Genres
+
+Puzzle, Simulator, Indie
+
+### Developer
+
+EgoTrampoline
+
+### Release Date
+
+August 6, 2026 (2 days from now)
+
+### Publisher
+
+EgoTrampoline
+
+### Content Rating
+
+N/A
+
+Cellar Keeper
+
+Cellar Keeper
+
+Cellar Keeper
+
+## Cellar Keeper Screenshots and Videos
+
+All the Latest Game Footage and Images from Cellar Keeper
+
+## Discover games
+
+## Summary [...] ## Summary
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+## More From EgoTrampoline
+
+ Star Fighters 
+
+  ### Star Fighters
+ Claria’s Great Maze 
+
+  ### Claria’s Great Maze
+ PilotXross 
+
+  ### PilotXross
+ Shadowless 
+
+  ### Shadowless
+ Doge Simulator [...] ### Doge Simulator
+ Slimes & Dusters TO 
+
+  ### Slimes & Dusters TO
+ NeptuneGL 
+
+  ### NeptuneGL
+ Loop Craft 
+
+  ### Loop Craft
+ In the Valley of Gods 
+
+  ### In the Valley of Gods
+ Plague Hunter 
+
+  ### Plague Hunter
+
+Games metadata is powered by IGDB.com
+
+## Cellar Keeper News
+
+ ## The Binding of Isaac’s Biggest Secret Nearly Broke The Guy Who Made it
+
+  By  Patrick Klepek
+ ## The Nintendo Download Is On Fire This Week
+
+  By  Mike Fahey
+
+ Deals
+ Ausgabe DE
+ Edición ES
+ Édition FR",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4935510,web_result,unknown_date,https://store.steampowered.com/app/4935510/Cellar_Keeper,Cellar Keeper,"All Games > Casual Games > Cellar Keeper
+
+Community Hub
+
+Cellar Keeper
+
+Cellar Keeper
+
+Cellar Keeper
+
+Developer
+
+EgoTrampoline
+
+Publisher
+
+EgoTrampoline
+
+Release
+
+6 Aug, 2026
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+All Reviews:
+
+No user reviews [...] Developer: EgoTrampoline
+
+Publisher: EgoTrampoline
+
+Release Date: 6 Aug, 2026
+
+View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Planned Release Date: 6 Aug, 2026
+
+This game plans to unlock in approximately 2 days
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+## 【A Cozy Cellar Organization Simulator】 [...] No user reviews
+
+Release Date:
+
+6 Aug, 2026
+
+Developer:
+
+EgoTrampoline
+
+Publisher:
+
+EgoTrampoline
+
+Tags
+
+Popular user-defined tags for this product:
+
+Relaxing  Casual  Organizing  Collectathon  Simulation  Indie  Puzzle  Hidden Object  Singleplayer  3D  Immersive Sim  Cleaning  Cozy  Funny  Atmospheric  Realistic  Underground  Artificial Intelligence  Job Simulator 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4935510,web_result,unknown_date,https://kotaku.com/games/cellar-keeper,Cellar Keeper,"Skip to content 
+
+Cellar Keeper
+
+# Cellar Keeper
+
+## Game Details
+
+### Available on:
+
+ PC
+
+### Genres
+
+Puzzle, Simulator, Indie
+
+### Developer
+
+EgoTrampoline
+
+### Release Date
+
+August 6, 2026 (2 days from now)
+
+### Publisher
+
+EgoTrampoline
+
+### Content Rating
+
+N/A
+
+Cellar Keeper
+
+Cellar Keeper
+
+Cellar Keeper
+
+## Cellar Keeper Screenshots and Videos
+
+All the Latest Game Footage and Images from Cellar Keeper
+
+## Discover games
+
+## Summary [...] ## Summary
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+## More From EgoTrampoline
+
+ Star Fighters 
+
+  ### Star Fighters
+ Claria’s Great Maze 
+
+  ### Claria’s Great Maze
+ PilotXross 
+
+  ### PilotXross
+ Shadowless 
+
+  ### Shadowless
+ Doge Simulator [...] ### Doge Simulator
+ Slimes & Dusters TO 
+
+  ### Slimes & Dusters TO
+ NeptuneGL 
+
+  ### NeptuneGL
+ Loop Craft 
+
+  ### Loop Craft
+ In the Valley of Gods 
+
+  ### In the Valley of Gods
+ Plague Hunter 
+
+  ### Plague Hunter
+
+Games metadata is powered by IGDB.com
+
+## Cellar Keeper News
+
+ ## The Binding of Isaac’s Biggest Secret Nearly Broke The Guy Who Made it
+
+  By  Patrick Klepek
+ ## The Nintendo Download Is On Fire This Week
+
+  By  Mike Fahey
+
+ Deals
+ Ausgabe DE
+ Edición ES
+ Édition FR",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4935510,web_result,unknown_date,https://www.moddb.com/games/cellar-keeper,Cellar Keeper Windows game,"FollowReportProfile
+
+1 Follow
+
+##### Icon
+
+Image 13: Cellar Keeper
+
+##### Platforms
+
+Windows
+
+##### Developer & Publisher
+
+EgoTrampoline
+
+##### Engine
+
+Unity
+
+##### Contact
+
+Send Message
+
+##### Release date
+
+Coming Aug 6, 2026
+
+##### Share
+
+
+
+Purchase
+
+WishlistImage 14: SteamView
+
+Style
+
+##### Genre
+
+Realistic Sim
+
+##### Theme
+
+Realism
+
+##### Players
+
+Single Player
+
+##### Project
+
+Indie
+
+Tags
+
+Cozy
+
+Organizing
+
+Relaxing
+
+Casual
+
+Simulation
+
+First-Person
+
+Singleplayer
+
+Embed Buttons [...] ## Cellar Keeper
+
+### EgoTrampoline | Coming Aug 6, 2026
+
+   summary
+   articles
+   files
+   mods
+   videos
+   images
+
+Cellar Keeper is a cozy first-person organizing game where you restore a forgotten cellar by sorting 2,448 bottles into their proper racks. Organize collections by variety, unlock useful abilities, and enjoy a relaxing experience or challenge yourself in Speedrun Mode. [...] RTX Remix
+       Games Compatibility
+       Remix Mods
+       Remix Files
+       PBR Assets
+       News
+       Tutorials
+       Statistics
+
+   videos
+       images
+       audio
+
+   articles
+       reviews
+       headlines
+       blogs
+       post article
+
+   engines
+       popular
+       latest
+       add engine
+
+   developers
+       popular
+       latest
+       add dev
+
+   groups
+       popular
+       latest
+       add group
+
+   forums
+   jobs
+       post job
+
+## Cellar Keeper",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4935510,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269294,"2,448 Bottles. 2,448 Wishlists.",,"Hello everyone!We've just reached 2,448 wishlists on Steam, and we wanted to celebrate this fun little coincidence.🍾 2,448 Bottles. ❤️ 2,448 Wishlists.If every wishlist carried just one bottle, organizing the cellar would be easy.Thank you so much for all the support. Every wishlist, comment, and sh",,35,medium,Inside extended window (+15); Official Steam News (+20),
+4935510,reddit_discussion,unknown_date,https://www.reddit.com/r/CozyGamers/comments/1v3lv7b/cellar_keeper_organize_2448_bottles_in_a,Cellar Keeper - Organize 2448 bottles in a forgotten cellar,"Cellar Keeper, a first-person organizing game where you restore a forgotten cellar by sorting 2,448 bottles into their proper racks.",,,30,weak,Reddit (+10); Exact title match (+20),general
+4935510,reddit_discussion,unknown_date,https://www.reddit.com/r/CozyGamers/comments/1v3lv7b/cellar_keeper_organize_2448_bottles_in_a,Cellar Keeper - Organize 2448 bottles in a forgotten cellar,"Cellar Keeper, a first-person organizing game where you restore a forgotten cellar by sorting 2,448 bottles into their proper racks.",,,30,weak,Reddit (+10); Exact title match (+20),social
+4935510,reddit_discussion,unknown_date,https://www.reddit.com/r/IndieGaming/comments/1v77xsg/my_cozy_game_is_about_organizing_2448_bottles_in,My cozy game is about organizing 2448 bottles in a ...,"In Cellar Keeper, your job is simple: bring order back to a forgotten cellar by putting every bottle where it belongs. Cozy Mode lets you",,,30,weak,Reddit (+10); Exact title match (+20),social
+4935510,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=Qr7q5qvArgg,Every Bottle Has a Correct Place to Find,,Every Bottle Has a Correct Place to Find A cozy single-player organizing simulator where you return 2448 scattered bottles to their ...,,30,weak,Inside extended window (+15); YouTube (+15),
+4935510,web_result,unknown_date,https://www.instagram.com/reel/DblhNukw0Yk,Instagram,"Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.  
+  
+#indiegame #whattoplay #gaming #simgame   
+  
+A once-pristine cellar has fallen into complete disarray. [...] Restore every rack, break the curse, and help the forgotten keeper see the sunlight once again.  
+  
+【Restore Order, One Rack at a Time】  
+The cellar starts in complete chaos.  
+  
+As you organize each rack, the room gradually transforms into a clean, beautiful collection.  
+  
+Watching disorder disappear is its own reward.  
+  
+【Learn Skills to Organize Faster】  
+Unlock powerful abilities that improve carrying, searching, and movement. [...] Return 2,448 bottles to their proper racks by identifying their varieties and restoring perfect order throughout the cellar.  
+  
+ 【The Forgotten Keeper】  
+Long ago, the cellar belonged to an eccentric collector who loved his bottle collection more than anything else.  
+  
+Desperate to preserve it forever, he attempted an ancient spell. The cellar survived... but the spell turned him into a chicken and trapped him inside a small cage.  
+  
+Now the cellar has fallen into ruin.",,,25,weak,Social Index (+5); Exact title match (+20),general
+4935510,web_result,unknown_date,https://www.instagram.com/reel/DblhNukw0Yk,Cellar Keeper is a cozy single-player organizing simulator ...,"indie.vault [...] Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.  
+  
+#indiegame #whattoplay #gaming #simgame   
+  
+A once-pristine cellar has fallen into complete disarray. [...] Return 2,448 bottles to their proper racks by identifying their varieties and restoring perfect order throughout the cellar.  
+  
+ 【The Forgotten Keeper】  
+Long ago, the cellar belonged to an eccentric collector who loved his bottle collection more than anything else.  
+  
+Desperate to preserve it forever, he attempted an ancient spell. The cellar survived... but the spell turned him into a chicken and trapped him inside a small cage.  
+  
+Now the cellar has fallen into ruin.",,,25,weak,Social Index (+5); Exact title match (+20),general
+4935510,social_post,unknown_date,https://www.tiktok.com/discover/diablo-4-purge-the-cellar,Diablo 4 Purge The Cellar | TikTok,"# Diablo 4 Purge The Cellar. Discover strategies for the Purge the Cellar quest in Diablo 4 and boost your gameplay! diablo 4 purge the cellar strategies, purge the cellar diablo 4 tips, how to complete purge cellar diablo 4. ## Discover strategies for the Purge the Cellar quest in Diablo 4 and boost your gameplay! diablo 4 purge the cellar strategies, purge the cellar diablo 4 tips, how to complete purge cellar diablo 4. #diablo #diablo4 #diablo4gameplay #diablo4news #diablo4k #cellar #dungeon #mini #trap #trick #pressue #plates #puzzle #fun #bad #lol #gotme #figured #it #out #eventually #diablodeaths #diabloIV #playdiablo #dadsoftiktok #husbandsoftiktok #gamerdad #gamerhusband #dad #husband #army #vet #veteran #mentalhealth #stressrelief #xbox #xboxseriesx #controller #gamer #fyp #fypシ #foryou #foryoupage #xyzbca #xyzcba #content #creator #contentcreator #grow #roadto1k #game #games #viral #youtube #gaming. Purging a cellar pt.1💯 #diablo4 #multiplayer #Rpg #fyp. feels good to play tbh #necromancer #diablo4 #diabloiv #asmongold #asmongoldclip #asmongoldreacts #asmongoldtv #diablo4gameplay Diablo 4 Necromancer Gameplay: Mastering Corpse Explosion. Diablo 4 Necromancer, buff corpse explosion, roleo meaning, necrocorpse, Diablo 4 gameplay, Diablo 4 strategies, Asmongold, Asmongold clip, Asmongold reacts, Asmongold TV. #fyp #diablo #diablo4 #diablo4tips #diablo4xp #diablo4guide #glitch #diabloiv #gaming Diablo 4: AFK XP/Gold Glitch - Is It Patched?. #diablo #diablo4 #diablo4tips #diablo4xp #diablo4guide #glitch #diabloiv #gaming. #screammovie #VozDosCriadores #HARDCORE #foryourpage #FYP #PC #PLAYSTATION #XBOX #VIDEOGAMES #DIABLOIV #DIABLO4 #BLIZZARD #blizzardentertainment #fyp #cellar #trap #season1. Explore the nastiest Rouge in Diablo 4 with tips and gameplay highlights! Diablo 4 Rouge gameplay tips, nasty Rouge strategies, Diablo 4 character guide, best Rouge skills in Diablo 4, gameplay highlights for Diablo 4, gaming tips for beginners, relatable gaming experiences, top build for Diablo 4 Rouge, Mississippi gaming community, Rouge gameplay success. The possessed cellar in Diablo 4 #diablo4 #diablo4beta #diablo4gameplay #twitch. Diablo 4 player completed 1270 cellars so you don't have to #diablo4 #diablo4gameplay #diablo4guide #diablo4news #gaming. ### Related to Diablo 4 Purge The Cellar. ## What is the storyline of Diablo 4: Purge the Cellar? ## What are the new features and gameplay mechanics in Diablo 4: Purge the Cellar? ## How to defeat the bosses and complete quests in Diablo 4: Purge the Cellar?",,gameplay,25,weak,Social Index (+5); Keywords ['gameplay'] (+20),social
+4935510,social_post,unknown_date,https://www.instagram.com/reel/DbQzSwWEjMk,Instagram,"who.els.but.me
+
+Could you organise 2,448 bottles back into perfect order? Cellar Keeper is a cozy organisation simulator where you sort bottles, restore a chaotic cellar and choose between relaxing Cozy Mode or competitive Speedrun Mode.  
+  
+#CellarKeeper #OrganizationGames #SortingGames #CozyGames #SimulationGames
+
+## No comments yet.
+
+Start the conversation.
+
+19
+
+Log in to like or comment.
+
+More posts from who.els.but.me [...] Log In
+
+Sign Up
+
+who.els.but.me's profile picture
+
+Never miss a post from who.els.but.me
+
+Sign up for Instagram to stay in the loop.
+
+Sign up
+
+Log in
+
+Video by Who Els But Me on July 26, 2026. May be a video game screenshot of text that says 'CELLAR KEEPER'.
+
+who.els.but.me's profile picture
+
+who.els.but.me
+
+•
+
+Follow
+
+who.els.but.me's profile picture
+
+who.els.but.me",,,25,weak,Social Index (+5); Exact title match (+20),social
+4935510,social_post,unknown_date,https://www.instagram.com/cellarkeeper1,Cellar Keeper (@cellarkeeper1) • Instagram photos and videos,"Video by Cellar Keeper on July 20, 2026. May be a meme of wine bottle, bottle, beer bottle, alcohol, refrigerator, jug and text that says 'Where does this bottle belong? 124 124/468 468 777 2448 No bottle in hands 農良良良員 農食 Interact: D ·曲商商會 PE Hearthside Hearthside-CheninBlanc Chenin Blanc Series:4'.
+
+Video by Cellar Keeper on July 19, 2026. May be a video game screenshot of text that says 'From chaos to perfection 467, 467/468 468 2446 2448 No bottle in hands 1C A A'. [...] Log In
+
+Sign Up
+
+## cellarkeeper1
+
+ 4 followers
+ 1 following
+
+Cellar Keeper
+
+Cellar Keeper
+
+store.steampowered.com/app/4935510/Cellar\_Keeper
+
+Video by Cellar Keeper on July 25, 2026. May be a video game screenshot of text.
+
+Video by Cellar Keeper on July 22, 2026. May be a video game screenshot of penguin, lego and text that says 'CAN YOU SORT THEM ALL? TAB UPGRADE SAPT SNIE'. [...] Video by Cellar Keeper on July 22, 2026. May be a video game screenshot of ‎text that says '‎This is so satisfying! 176/ 176/468 468 1078/ 2448 >KestrelRidge Kestre Ridge Mead(S: KestrelRIdge-Mead(S:3) Mead :3) Zmarw.htar- שיורית, 크 ن 産産産産 Interact: 0 ه ن‎'‎.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4935510,social_post,unknown_date,https://x.com/CoralMarineSeaD/status/1009571675627761664/photo/1,This is how our cellar keeper takes out bottles from ...,This is how our cellar keeper takes out bottles from our submarine cellar to be sent to our customers.,,,25,weak,Social Index (+5); Exact title match (+20),social
+4935510,social_post,unknown_date,https://x.com/marevodev/status/2082129613145149816,chat do you have any idea how to get 20k wishlists without ...,"Organize 2,448 bottles, restore a forgotten cellar, and relax in a cozy organizing game. Cellar Keeper has now reached 20,000 wishlists on",,,25,weak,Social Index (+5); Exact title match (+20),social
+4935510,social_post,unknown_date,https://store.steampowered.com/app/4935510/Cellar_Keeper,Cellar Keeper,"All Games > Casual Games > Cellar Keeper
+
+Community Hub
+
+Cellar Keeper
+
+Cellar Keeper
+
+Cellar Keeper
+
+Developer
+
+EgoTrampoline
+
+Publisher
+
+EgoTrampoline
+
+Release
+
+6 Aug, 2026
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+All Reviews:
+
+No user reviews [...] | Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Turkish | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| Italian | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+| Polish | ✔ |  | ✔ |
+| Russian | ✔ |  | ✔ |
+| Portuguese - Brazil | ✔ |  | ✔ |
+
+See all 13 supported languages
+
+Title: Cellar Keeper  
+ Genre: Casual, Indie, Simulation [...] You can write your own review for this product to share your experience with the community. Use the area above the purchase buttons on this page to write your review.
+
+You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam.
+
+Enter up to 375 characters to add a description to your widget:
+
+Create widget
+
+Copy and paste the HTML below into your website to make the above widget appear",,,25,weak,Social Index (+5); Exact title match (+20),social
+4935510,social_post,unknown_date,https://www.moddb.com/games/cellar-keeper,Cellar Keeper Windows game,"## Cellar Keeper
+
+### EgoTrampoline | Coming Aug 6, 2026
+
+   summary
+   articles
+   files
+   mods
+   videos
+   images
+
+Cellar Keeper is a cozy first-person organizing game where you restore a forgotten cellar by sorting 2,448 bottles into their proper racks. Organize collections by variety, unlock useful abilities, and enjoy a relaxing experience or challenge yourself in Speedrun Mode. [...] Embed Buttons
+
+ Link to Cellar Keeper by selecting a button and using the embed code provided more...
+
+Image 15: Cellar Keeper
+
+Image 16: Cellar Keeper
+
+Statistics
+
+##### Rank
+
+457 of 78,446
+
+##### Visits
+
+804 (6 today)
+
+##### Last Update
+
+2 weeks ago
+
+##### Watchers
+
+1 member
+
+Cookies | Terms of Use | Privacy PolicyBlog | About | Advertise | Contact | Submit Mod | Cross-Platform Mod Support | Site Map© 2002 - 2026 DBolical Pty Ltd. All Rights Reserved.20899 modders.
+
+× [...] RTX Remix
+       Games Compatibility
+       Remix Mods
+       Remix Files
+       PBR Assets
+       News
+       Tutorials
+       Statistics
+
+   videos
+       images
+       audio
+
+   articles
+       reviews
+       headlines
+       blogs
+       post article
+
+   engines
+       popular
+       latest
+       add engine
+
+   developers
+       popular
+       latest
+       add dev
+
+   groups
+       popular
+       latest
+       add group
+
+   forums
+   jobs
+       post job
+
+## Cellar Keeper",,,25,weak,Social Index (+5); Exact title match (+20),social
+4935510,social_post,unknown_date,https://www.amazon.com/White-Marble-Salt-Cellar-Keeper/dp/B0879FBHFC,Amazon.com: White Marble Salt Cellar Keeper With Lid : Home & Kitchen,".us
+
+Deliver to   Ukraine
+
+EN
+
+Hello, sign in
+
+Account & Lists
+
+ Returns & Orders  0
+
+Cart
+
+All)
+
+ Health AI
+ Amazon Haul
+ Medical Care
+ Amazon Basics
+ Best Sellers
+ Prime
+ New Releases
+ Today's Deals
+ Books
+ Gift Cards
+ Sell
+ Fashion
+ Registry
+ Music
+ Amazon Home
+ Toys & Games
+ Automotive
+ Home Improvement
+ Baby
+ Sports & Outdoors
+ Smart Home
+ Shop By Interest
+ Pharmacy
+ Everyday
+ Kindle Books [...] After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in.
+
+Get to Know Us
+
+ Careers
+ Amazon Newsletter
+ About Amazon
+ Accessibility
+ Sustainability
+ Press Center
+ Investor Relations
+ Amazon Devices
+ Amazon Science
+
+Make Money with Us [...] Amazon Home   Shop by Room   Shop by Style   Home Décor   Furniture   Kitchen & Dining   Bed & Bath   Garden & Outdoor   Home Improvement
+
+ 
+
+Sponsored
+
+ Home & Kitchen
+ ›
+ Kitchen & Dining
+ ›
+ Kitchen Utensils & Gadgets
+ ›
+ Seasoning & Spice Tools
+ ›
+ Spice Cellars
+
+No featured offers available  
+   Learn more)  
+
+No featured offers available
+
+We feature offers with an Add to Cart button when an offer meets our high standards for:",,,25,weak,Social Index (+5); Exact title match (+20),social
+4935510,web_result,unknown_date,https://niklasnotes.com/dashboard/game/285977/cellar_keeper,Cellar Keeper Analysis on Niklas Notes,"###### Loading Dashboard...
+
+Niklas Notes
+
+Gaming analytics platform providing insights for gamers and developers.
+
+Cellar Keeper Analysis
+
+Cellar Keeper header image
+
+# Cellar Keeper
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible. [...] Screenshot 1
+Screenshot 2
+Screenshot 3
+Screenshot 4
+Screenshot 5
+Screenshot 6
+
+A personalized taste match isn't supported for unreleased titles yet.",,,20,weak,Exact title match (+20),general
+4935510,web_result,unknown_date,https://store.steampowered.com/app/1852600/Cellar,Cellar on Steam,"## 30 Days Of Solitude, Tasks, and other People.[/i]
+
+## welcome to Cellar.
+
+  
+CELLAR is a story-focused game that takes place over 30 days, lasting around eight hours of gameplay. Events, character movements and dialogue are all unique and carefully crafted for each day.  
+  
+Gameplay is split between story events and carrying out a series of simple tasks, although many story events change gameplay in unconventional manners. [...] All Games > Adventure Games > Cellar
+
+Community Hub
+
+Cellar
+
+Cellar
+
+Cellar
+
+Developer
+
+William Rous
+
+Publisher
+
+William Rous
+
+Released
+
+27 Jan, 2022
+
+A story-focused game about six strangers stuck together for a month, and a machine that must be kept running.
+
+All Reviews:
+
+Positive  (10)   - 100% of the 10 user reviews for this game are positive.
+
+Release Date:
+
+27 Jan, 2022
+
+Developer:
+
+William Rous
+
+Publisher:
+
+William Rous
+
+Tags
+
+Popular user-defined tags for this product: [...] ##  Submit Daily Reports On the Pc- Pick Some Music From the Cd Collection
+[/h2]- Take Your Turn On the Machine
+[/h2]- Hang Out With the others
+[/h2]- Feed the Fish
+[/h2]- Play Piano Duets
+[/h2]- Wait For It All to Be Over
+[/list][/h2]  
+  
+Take your time. The game won't start without you.  
+
+CELLAR is the first game by solo developer William Rous. Contains strong language. Trailer by Edward Rous.
+
+## System Requirements
+
+Windows
+
+macOS
+
+SteamOS + Linux
+
+Minimum:",,"trailer, gameplay, release date",20,weak,"Keywords ['trailer', 'gameplay', 'release date'] (+20)",general
+4935510,web_result,unknown_date,/goto?url=CAESYAHuR6pNs0O0CvTgYy7VzNIXO0lU_hFYqHC5JR8Mm52mWcMaRH4UiSDVjb_8ywoJ8d5MkY-fSG1q_Mb8IT6FP_TCUk0oROb43djJMSKCMZZy4gk0uITQMI24o_4jh7DKJg%3D%3D,Girl in the Cellar - Official Trailer,"A mother imprisons her daughter in their basement to prevent bad choices, unaware she's recreating her own traumatic past.",,trailer,20,weak,Keywords ['trailer'] (+20),general
+4935510,web_result,unknown_date,https://www.metacritic.com/game/chateau-pluie-the-new-cellar-keeper,Chateau Pluie: The New Cellar Keeper Reviews - Metacritic,"SummaryA cozy single-player simulation game. You've inherited an old vineyard, and a cellar of 1,600 wine bottles, each waiting for its place. Sort, organize, and shelve them all as the new cellar keeper. Relax into the rain and music. Unlock new skills, trust your instincts, and bring the cellar to life.
+
+ Simulation
+
+Developer:Rainy
+
+# Chateau Pluie: The New Cellar Keeper
+
+Metascore
+
+Critic reviews are not available yet
+
+tbd
+
+User score
+
+User reviews are not available yet
+
+tbd [...] Platforms:
+
+ PC
+
+Publisher:Rainy
+
+Genres:
+
+ Simulation
+
+Full Credits & Details
+
+Advertisement
+
+## Related Games
+
+### VA-11 Hall-A: Cyberpunk Bartender Action
+
+83
+
+Generally Favorable
+
+### Starseed Pilgrim
+
+83
+
+Generally Favorable
+
+### Reigns: Her Majesty
+
+81
+
+Generally Favorable
+
+### Cart Life (2013)
+
+79
+
+Generally Favorable
+
+### Lushfoil Photography Sim
+
+79
+
+Generally Favorable
+
+### Hozy
+
+79
+
+Generally Favorable
+
+### Dawn of Discovery: Venice
+
+78
+
+Generally Favorable
+
+### Reigns
+
+77 [...] game
+
+### August/September Game Preview
+
+#### Phil Owen
+
+Get details on the most notable video game releases expected in August and September 2026, including Marvel's Wolverine and new installments in the CONTROL and Silent Hill franchises.
+
+ game
+
+### New Free & Subscription Games for All Platforms
+
+#### Jason Dietz",,,20,weak,Exact title match (+20),general
+4935510,web_result,unknown_date,https://www.youtube.com/watch?v=YzKnhWBpInc,💀 Opening the Cellar & Starting a Farm | Graveyard Keeper 1.0 Gameplay | Part 3,"# 💀 Opening the Cellar & Starting a Farm | Graveyard Keeper 1.0 Gameplay | Part 3
+## DemonRebuilt
+31300 subscribers
+54 likes
+
+### Description
+2297 views
+Posted: 25 Aug 2018
+Today in Graveyard Keeper, we finally get to clear the way into the cellar to meet Snake. We also check out the basement of the church and start our very own farm!This is part 3 of my Graveyard Keeper gameplay series. [...] In Graveyard Keeper, Build and manage a medieval graveyard while facing ethical dilemmas and making questionable decisions. Graveyard Keeper was developed by Lazy Bear Games and published by tinyBuild on 16 August 2018. [...] he has wine as well I still hangs out at the lighthouse every blue okay where is the lighthouse he doesn't know I know how to get to the library that's easy okay so blue is still four days away um what do I want to do now I think I want to go into the cellar of my house today just want to check what I need for that did I put anything in here would I take it all out I took it all that okay not sure why you have a trunk there so for this we need ten wedges two planks for simple parts okay ten",,"gameplay, demo",20,weak,"Keywords ['gameplay', 'demo'] (+20)",general
+4935510,web_result,unknown_date,https://store.steampowered.com/app/4935510/Cellar_Keeper,Cellar Keeper,"All Games > Casual Games > Cellar Keeper
+
+Community Hub
+
+Cellar Keeper
+
+Cellar Keeper
+
+Cellar Keeper
+
+Developer
+
+EgoTrampoline
+
+Publisher
+
+EgoTrampoline
+
+Release
+
+6 Aug, 2026
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+All Reviews:
+
+No user reviews [...] Now the cellar has fallen into ruin.
+
+Restore every rack, break the curse, and help the forgotten keeper see the sunlight once again.
+
+## 【Restore Order, One Rack at a Time】
+
+The cellar starts in complete chaos.
+
+As you organize each rack, the room gradually transforms into a clean, beautiful collection.
+
+Watching disorder disappear is its own reward.
+
+## 【Learn Skills to Organize Faster】
+
+Unlock powerful abilities that improve carrying, searching, and movement. [...] | Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Turkish | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| Italian | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+| Polish | ✔ |  | ✔ |
+| Russian | ✔ |  | ✔ |
+| Portuguese - Brazil | ✔ |  | ✔ |
+
+See all 13 supported languages
+
+Title: Cellar Keeper  
+ Genre: Casual, Indie, Simulation",,,20,weak,Exact title match (+20),general
+4935510,web_result,unknown_date,https://www.collectorcellar.ai/demo,Demo Cellar,Demo Cellar | Collector Cellar AI Demo Mode·Exploring a sample Cellar Pro collection·Unlock Your Cellar →,,demo,20,weak,Keywords ['demo'] (+20),general
+4935510,web_result,unknown_date,https://www.facebook.com/groups/cozygamer/posts/1769341410982499,Cellar Keeper wine simulation game coming soon to Steam,Saw this coming soon on steam. Its like library clean up and the supermarket one but all wine :),,,20,weak,Exact title match (+20),general
+4935510,web_result,unknown_date,https://en.wikipedia.org/wiki/The_Cellar_(2022_film),The Cellar (2022 film) - Wikipedia,"The Cellar is a 2022 supernatural horror film written and directed by Brendan Muldowney and starring Elisha Cuthbert and Eoin Macken. It follows a family whose daughter disappears in the cellar of the large estate they have just moved into. The film was released via Shudder ""Shudder (streaming service)"") on 15 April 2022.
+
+## Plot
+
+[edit&action=edit&section=1 ""Edit section: Plot"")] [...] | Promotional poster |
+| Directed by | Brendan Muldowney |
+| Written by | Brendan Muldowney |
+| Produced by |  Conor Barry  Richard Bolger |
+| Starring |  Elisha Cuthbert  Eoin Macken  Dylan Fitzmaurice Brady |
+| Cinematography | Tom Comerford |
+| Edited by | Mairead McIvor |
+| Music by | Stephen McKeon |
+| Production company | RLJE Films |
+| Distributed by | Shudder ""Shudder (streaming service)"") |
+| Release date |  April 15, 2022 (2022-04-15) (Shudder) |
+| Running time | 94 minutes | [...] An international co-production between Ireland and Belgium. The film was shot in November 2020 in Roscommon, Ireland.
+
+## Release
+
+[edit&action=edit&section=4 ""Edit section: Release"")]
+
+The film premiered at South by Southwest in March 2022 before being released via Shudder ""Shudder (streaming service)"") on 15 April 2022.
+
+## Reception
+
+[edit&action=edit&section=5 ""Edit section: Reception"")]",,release date,20,weak,Keywords ['release date'] (+20),general
+4935510,web_result,unknown_date,https://gamefaqs.gamespot.com/pc/682630-cellar-keeper/data,Cellar Keeper Release Information for PC,"PCPS4PS5SwitchSwitch 2Xbox OneXbox SeriesMore Systems
+   3DS
+   Android
+   Board / Card
+   DS
+   Game Boy Advance
+   GameCube
+   iOS
+   Nintendo 64
+   PlayStation
+   PlayStation 2
+   PlayStation 3
+   PSP
+   Super Nintendo
+   Vita
+   Wii
+   Wii U
+   Xbox 360
+   See All 143...
+
+Log InSign Up
+
+GameFAQs [...] Menu
+
+   Home
+   Boards
+   News
+   Q&A
+   Community
+   Contribute
+   Games
+
+   3DS
+   Android
+   Board/Card
+   iOS
+   PC
+   PlayStation 3
+   PlayStation 4
+   PlayStation 5
+   Switch
+   Switch 2
+   Vita
+   Xbox 360
+   Xbox One
+   Xbox Series
+   More Systems [...] GameFAQs
+
+BoardsNewsQ&ACommunityContributeGames
+   Blue on Black
+   Red
+   Red on Black
+   Green
+   Green on Black
+   Orange
+   Orange on Black
+   Purple
+   Purple on Black
+   Cloudy Blue
+   Grayscale
+   Sepia
+   Cotton Candy
+
+gamespot.commetacritic.comfandom.comfanatical.com
+
+SitemapPartnershipsCareersTerms of UseDigital Services Act
+
+Privacy PolicyCookie PreferencesReport Ad
+
+© 2026 FANDOM, INC. ALL RIGHTS RESERVED.
+
+Image 7: Company Logo
+
+## Do Not Sell or Share My Personal Data",,,20,weak,Exact title match (+20),general
+4935510,web_result,unknown_date,https://gamefaqs.gamespot.com/pc/682630-cellar-keeper/data,Cellar Keeper Release Information for PC - GameFAQs,"GameFAQs
+
+BoardsNewsQ&ACommunityContributeGames
+   Blue on Black
+   Red
+   Red on Black
+   Green
+   Green on Black
+   Orange
+   Orange on Black
+   Purple
+   Purple on Black
+   Cloudy Blue
+   Grayscale
+   Sepia
+   Cotton Candy
+
+gamespot.commetacritic.comfandom.comfanatical.com
+
+SitemapPartnershipsCareersTerms of UseDigital Services Act
+
+Privacy PolicyCookie PreferencesReport Ad
+
+© 2026 FANDOM, INC. ALL RIGHTS RESERVED.
+
+Image 7: Company Logo
+
+## Do Not Sell or Share My Personal Data [...] Menu
+
+   Home
+   Boards
+   News
+   Q&A
+   Community
+   Contribute
+   Games
+
+   3DS
+   Android
+   Board/Card
+   iOS
+   PC
+   PlayStation 3
+   PlayStation 4
+   PlayStation 5
+   Switch
+   Switch 2
+   Vita
+   Xbox 360
+   Xbox One
+   Xbox Series
+   More Systems [...] PCPS4PS5SwitchSwitch 2Xbox OneXbox SeriesMore Systems
+   3DS
+   Android
+   Board / Card
+   DS
+   Game Boy Advance
+   GameCube
+   iOS
+   Nintendo 64
+   PlayStation
+   PlayStation 2
+   PlayStation 3
+   PSP
+   Super Nintendo
+   Vita
+   Wii
+   Wii U
+   Xbox 360
+   See All 143...
+
+Log InSign Up
+
+GameFAQs",,,20,weak,Exact title match (+20),general
+4935510,web_result,unknown_date,https://steamcommunity.com/app/4935510,Steam Community :: Cellar Keeper,".
+
+7
+
+[☣Valtorde☣
+
+3 Aug @ 8:44am](
+
+General Discussions
+
+Librarian: Tidy up (alcoholic edition)
+
+I thought it was the same developer but nah
+
+5
+
+[Lyralowlife
+
+4 Aug @ 10:48am](
+
+General Discussions
+
+Won't this be sued by the Librarian developers?
+
+I hope it will. Seriously, this is almost an exact copy of Librarian: Tidy up the arcane library. Not many own ideas in this game, just stealing other people's succesful concept. No thanks, I'm not gonna support this one with my money.
+
+13 [...] Store Page
+
+Cellar Keeper
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Cellar Keeper
+
+Store Page
+
+0 in Group Chat;)
+
+0 in Group Chat;)
+
+Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.
+
+Visit the Store Page [...] Reaching this milestone means a lot to us, and we want to thank everyone who has wishlisted Cellar Keeper, shared it with friends, or simply followed its journey so far.
+
+Every bit of support has helped more people discover the game, and it's been incredible to watch the community continue to grow.
+
+We're still hard at work polishing the experience, improving every detail, and making sure the cellar is ready for launch.",,,20,weak,Exact title match (+20),general
+4935510,youtube_video,outside_window,https://www.youtube.com/watch?v=ZdrKzV6HNag,"A big, rich Argentine Malbec with a French style.",,Dave features this Malbec rich in organic Argentine terroir but made in the traditional French winemaking style. Summer isnt' quite ...,,15,weak,YouTube (+15),
+4935510,youtube_video,outside_window,https://www.youtube.com/watch?v=X6urGQ8ZDxw,AS A painter uses Andalusian wine watercolours to give colour to her work,,More videos at http://www.andalusianstories.com A painter from Seville has introduced Andalusian red wine in her watercolours.,,15,weak,YouTube (+15),
+4935510,youtube_video,outside_window,https://www.youtube.com/watch?v=r7EDPXlyWKU,Bessie Ratter Lure Course,,"Bessie Ratter, Lure Course, Purina Farms 2012 ,Missouri Earth dogs, Cairn Terrier.",,15,weak,YouTube (+15),
+4935510,reddit_discussion,unknown_date,https://www.reddit.com/r/Cooking/comments/1hahlbi/garlic_keeper_or_garlic_cellar_whats_the,"Garlic Keeper or Garlic Cellar, whats the difference? (same ...",They're dark inside and they help modulate temperature changes. A ceramic garlic keeper just keeps it from getting blasted by sun and quick,,,10,weak,Reddit (+10),social
+4935510,reddit_discussion,unknown_date,https://www.reddit.com/r/GraveyardKeeper/comments/18naotz/cellar_entrance,Cellar entrance : r/GraveyardKeeper,You have to unlock dough/wheat tech to go into the cellar. It's unlocked through the scene with Gerry. The cellar unlocks at the same time as,,,10,weak,Reddit (+10),social
+4935510,reddit_discussion,unknown_date,https://www.reddit.com/r/GraveyardKeeper/comments/yzyb9r/opinions_on_cellar_layout_please,"Opinions on Cellar Layout, Please : r/GraveyardKeeper","three layouts so far: One alcohol still, two fermentation barrels, one vine press, four vine barrels, four beer brewers, and six chests.",,,10,weak,Reddit (+10),social
+4935510,social_post,unknown_date,https://www.tiktok.com/discover/kyla-pratt-talks-girl-in-the-cellar,Kyla Pratt Talks Girl in The Cellar | TikTok,"Discover videos related to Kyla Pratt Talks Girl in The Cellar on TikTok. ## Discover videos related to Kyla Pratt Talks Girl in The Cellar on TikTok. Lifetime Movie “Girl in the Cellar” #fyp #lmn #movieclips #creatorsearchinsights #lifetime Exploring 'Girl in the Cellar' Lifetime Movie. Dive into the intense performance by Kyla Pratt in the Lifetime movie 'Girl in the Cellar.' Discover the gripping storyline and character dynamics. Girl in the Cellar Lifetime Movie, Kyla Pratt performance review, Lifetime movie character analysis, intense Lifetime thrillers, psychological drama film analysis, Lifetime movies to watch, movie plot breakdown, character dynamics in movies, psycho mom movie reviews, emotional impact of thriller films. Girl in The Cellar movie review, Kyla Pratt film analysis, psychological thriller movies, Lifetime movie recommendations, mother daughter thriller plot, abduction movie themes, hidden cellar suspense, thrillers about obsession, Lifetime psychological dramas, movie summaries. Kyla Pratt girl you something else in this movie 😭😭#kylapratt #movie #fypシ #movieclips #movietok Kyla Pratt's Memorable Performance in 'Girl In The Cellar'. Kyla Pratt movie performance, Girl In The Cellar Lifetime, must-watch Kyla Pratt films, captivating roles in movies, emotional movie clips, Lifetime movie reviews, Kyla Pratt acting skills, psychological thriller films, movie recommendations 2023, unforgettable movie characters. Lory's abduction thriller movie, Kyla Pratt films, Lifetime TV drama, suspenseful abduction story, Girl in the Cellar, female lead thriller, mysterious disappearance movie, psychological drama film, gripping Lifetime movies, Lifetime thriller story. Girl in the Cellar Lifetime movie, suspenseful Lifetime films, Kyla Pratt movie, must watch Lifetime movies, mystery films to stream, Lifetime TV premieres, abduction thrillers, drama movies with children, crime dramas 2023, Lifetime movie recommendations. #lifetime #thegirlinthecellar #kylapratt The Girl in the Cellar: Kyla Pratt's Compelling Role. Kyla Pratt film performance, The Girl in the Cellar review, Lifetime movie analysis, character depth in films, psychological thriller movie themes, Kyla Pratt character study, movie plot breakdown. #GirlInTheCellar #KylaPratt #StudioTFIAmerica #LifetimeMovie #FilmProduction Girl in the Cellar: A Kyla Pratt Lifetime Movie. Discover the intense world of 'Girl in the Cellar' starring Kyla Pratt. Girl in the Cellar lifetime movie, Kyla Pratt new movie, Lifetime films streaming, Studio TFI America productions, film production techniques.",,,5,weak,Social Index (+5),social
+4935510,social_post,unknown_date,https://www.tiktok.com/discover/i-found-a-hidden-door-in-my-cellar,I Found A Hidden Door in My Cellar | TikTok,"I Found A Hidden Door in My Cellar | TikTok. 1. I Found A Hidden Door in My Cellar. Discover the chilling secrets behind a hidden door in the cellar; what lies beneath your home could haunt you forever! hidden door in my cellar story, eerie tales about hidden doors, secrets of old houses. Discover the chilling secrets behind a hidden door in the cellar; what lies beneath your home could haunt you forever! hidden door in my cellar story, eerie tales about hidden doors, secrets of old houses. I found a hidden door in my cellar. I Found A Hidden Door In My Cellar #reddit #horrortok #redditstories #askreddit #scary #minecraftparkour. Embark on a chilling journey through a hidden crawl space to uncover a mysterious secret door in my house. crawl space in house, secret door in house, hidden doors in house found, scary stories tiktok, discover secret door in house. I found a hidden door in my cellar, and I think I’ve made a big mistake pt.1 #redditstories #askreddit #aitareddit #fyp #storytime. I found a hidden door in my cellar #reddit #horrortok #redditstories #askreddit #scary #minecraftparkour. #creepydoor #hiddendoor #hiddenroom #airbnbfinds #secrettunnel #secretdoor Exploring Hidden Rooms and Secret Doors: Full Basement Tour. Join us on a spooky adventure as we uncover hidden rooms, secret doors, and mysterious spaces in a basement tour. hidden rooms, secret doors, basement tour, creepy chest, secret tunnel, mysterious spaces, spooky adventure, mysterious rooms, Airbnb finds, creepy exploration. Join Julia as she uncovers a mysterious secret trap door in her house that leads to a hidden room with creepy stairs and strange artifacts. Julia secret trap door, hidden room discovery, mysterious staircase, creepy artifacts, haunted house mystery, secret storage room, strange jar findings, medium encounter, secret door exploration, hidden room names. door in cellar mystery, scary cellar stories, horror video Reddit, Reddit horror stories, chilling cellar adventures, frightening discoveries behind doors, Minecraft parkour scares, horror storytelling on Reddit, spooky cellar secrets, part two cellar exploration. ### Related to I Found A Hidden Door in My Cellar. What could a hidden door in my cellar lead to? ### Related to I Found A Hidden Door in My Cellar.",,,5,weak,Social Index (+5),social
+4935510,social_post,unknown_date,https://www.tiktok.com/discover/cellar-at-duckworth-charlotte-history,Cellar at Duckworth Charlotte History | TikTok,"# Cellar at Duckworth Charlotte History. Discover videos related to Cellar at Duckworth Charlotte History on TikTok. ## Discover videos related to Cellar at Duckworth Charlotte History on TikTok. Known for their mouthwatering steaks, the 📍Cellar at Duckworth’s feels like a prohibition-era speakeasy. I had: 🍕Ground duck and pear flatbread — it was in fact a FLAT BREAD. I loved the savory ground duck with the sweet pear and balsamic reduction. 🍔Burger with jalapeno bacon and onion jam — the onion jam provided a nice touch of sweetness. 🥩Dry-aged NY strip — EXTREMELY tender. I love a salty steak. 🍫Nutella cheesecake — it’s more like a mousse, very light and fluffy. I love the vibe in there, too. Have you been to the cellar? Charlotte NC Duckworth Cellar #duckworth #charlottenc #traveltok #foodtiktok #travellife #highvalueman #livingthedream. We went to the Cellar at Duckworths. Just hidden audio that blends with the Cellar at Duckworth’s design. #fyp #foryou #CODA #hiddentech #Duckworth. The Rosedale House In Charlotte NC #kevinthecustodianghosthunter #youtuber #ghosthunting #paranormal #haunted #cellar Full Video On Kevin The Custodian Ghost Hunter. We went to Duckworth’s Grill and Taphouse and it did not disappoint! Duckworth’s Grill and Taphouse #resturant #goodeats #food #placestovisit #charlottenc #eat #fyp #fouryou. #tomahawk #foodporn #steak #broiler #thecellar #duckworths #charlotte #truecooks #cheflife #foryoupage #chefshtackss #ouichef #queensbred #charlottefed #NYC #foodies #foodnetwork. Part 2 of our #bestfriend and #son #weekend #making #memories #forever #saints #charlotte #cellaratduckworth #bankofamericastadium #hardwork. Ok, so I know I missed some other great uptown Charlotte, NC spots to eat at. • • Alyssa Stone, NC & SC Realtor 👑 • • #movingtocharlotte #realestatehelp #charlotteRealtor #charlottencliving #charlotte #charlottenc #foodie #charlottefood #charlottefoodscene. Chris ❤️‍🔥 Charlotte, NC - Part 1 LADIES! The guys are at @merchantandtrade @thecellaratduckworths and @thecottonroomclt 🥂❤️‍🔥 Maybe you should try one of them with Chris 😉 “Like” this if you’d go out with Chris, or share with someone you know who would ❤️‍🔥 #readywillingstable #single #dating #charlotte #charlottenc #datingapps #realtalk #matchmaker. 🦆 #duckworth #cellar #charlotte #fyp #foodie. ### Related to Cellar at Duckworth Charlotte History. What Happened to Cellar at Duckworths CharlotteThe Loft at Duckworths CharlotteCharlotte BrinkworthThe Cellar Restaurant CharlotteDilworth Charlotte NcThe Cellar at Duckworth.",,,5,weak,Social Index (+5),social
+4935510,social_post,unknown_date,https://www.tiktok.com/discover/culvert-root-cellar,Culvert Root Cellar | TikTok,"Discover how to build a culvert root cellar for effective vegetable storage. culvert root cellar DIY, building a root cellar, off-grid root cellar ideas. ## Discover how to build a culvert root cellar for effective vegetable storage. culvert root cellar DIY, building a root cellar, off-grid root cellar ideas. If you think it may contain an error, please report at: Feedback and help - TikTok. Off-Grid Underground Wood Fired Sauna Build 🤝🛠️ • On today’s episode we begin to backfill and bury the 10ft diameter steel corrugated culvert into the mountain side. 🌱🥷 • #modern #rural #civilian #selfsufficient #off-grid #sustainableliving #rootcellar #switch-grid #strawbale #foodprodution #foodpreservation #beekeeping #rampump #homestead #waterislife #bushcraft #fatwood #apothecary #preparedness #precisionshooting #fish #overland #community #hunt #forage #icebath #modernruralcivilian Off-Grid Underground Wood Fired Sauna Build. off-grid underground sauna build, wood fired sauna construction, modern rural civilian, steel corrugated culvert, boulder faced rock walls, backfilling, cedar lined, wood fired sauna, mountain side, sustainable living, root cellar, homestead, DIY sauna, wood burning sauna, building a sauna, red cedar, sauna heater, construction project, wood working. hand dug root cellar construction, off grid living tips, sustainable root vegetable storage, tiny home root cellar ideas, hand digging techniques for cellars, off grid lifestyle updates, root cellar benefits for gardeners, nature and self-sufficiency, offgridmisty progress video, hand tools for root cellar. Off-Grid Homestead Root Cellar Build 🤝🛠💪 • On todays episode we complete all of the interior shelving inside of our repurposed off-grid root cellar build. 🌱🥷 • #modern #rural #civilian #selfsufficient #off-grid #sustainableliving #rootcellar #switch-grid #strawbale #foodprodution #foodpreservation #beekeeping #rampump #homestead #waterislife #bushcraft #fatwood #apothecary #preparedness #precisionshooting #fish #overland #community #hunt #forage #icebath #modernruralcivilian. DIY Off-Grid Homestead Root Cellar 🤝🛠️ • On today episode we discuss our DIY homestead root cellar, their benefits and their history. off grid living, underground root cellar tour, homesteading lifestyle, storing vegetables underground, tiny house living, Canada off grid experience, root cellar benefits, self-sufficient living, winter vegetable storage, building a bunker. Building a cool root cellar for a client. DIY Homestead Root Cellar Build Pt.2 🤝🛠💪 • On todays episode we complete the sealing of the wooden spools ground contact areas, using a product called Grace Vycor sealant tape. ## How to build a culvert root cellar?",,,5,weak,Social Index (+5),social
+4935510,social_post,unknown_date,https://www.instagram.com/p/Dalr6JSR0oA,Instagram,"A new chapter begins.  
+  
+I’m honored to announce my appointment as Director of Cellarius Club.  
+  
+Rooted in the spirit of the cellarius — the trusted keeper of the cellar — Cellarius Club is an invitation-only membership created for those who value access, rarity, discretion, and ease. [...] sandrapanerai
+
+Congratulazioni 👏🏻👏🏻🍷✨️
+
+Reply
+
+vintusnewyork's profile picture
+
+vintusnewyork
+
+Bravo, chef!
+
+Reply
+
+onyaddymode's profile picture
+
+onyaddymode
+
+👏👏
+
+Reply
+
+msaizamarquez's profile picture
+
+msaizamarquez
+
+Congratulations Mr. Nico!🙌👏👏👏👏
+
+Reply
+
+davidgallico's profile picture
+
+davidgallico
+
+Very well said- congrats to you! Cheers to your continued success and the immeasurable talent you bring to Cellarius.
+
+Reply
+
+karmamcdermott's profile picture
+
+karmamcdermott
+
+👏👏👏 Congrats!!! [...] I’m grateful to step into this role and excited to help shape what comes next.  
+  
+Cellarius Club  
+Luxury, orchestrated. Access, refined.",,,5,weak,Social Index (+5),social
+4935510,social_post,unknown_date,https://www.instagram.com/p/DYStRnHEkya,Instagram,"Know when to hold, open, or cellar.  
+  
+WhiskeyKeeper helps you track peak drinking windows by bottle, so your best bottles are opened at the right time, not forgotten on the shelf.  
+  
+Log your tasting notes, aging window, and collection status in one place. Then let the app surface what is ready now, what should rest longer, and what deserves a second look.  
+  
+Download WhiskeyKeeper at collection-keeper.app. [...] #WhiskeyKeeper #WhiskeyCollection #BourbonCollector #ScotchWhisky #WhiskeyNotes #CellarManagement #CollectorApp #CollectionKeeper [...] Photo by CollectionKeeper on June 20, 2026. May be an image of ‎wine bottle and ‎text that says '‎CollectionKeeper COLLECTIONKEEPER ECOSYSTEM CollectionKee.. USD English မှို QuickAocess 三 nsights +AddBottle Tasting WineKeeper Insights Introducing WineKeeper BulkImport The latest module in the CollectionKeeper Ecosystem WineKeeper Oeии CeleciaEppt&huranceRaport Cellection Export& Insurance Saport Curate your collection IvereeryCBV Track value& e insights Oc6юpo Log tastings & experiences Impart",,,5,weak,Social Index (+5),social
+4935510,social_post,unknown_date,https://x.com/Egotrampoline/status/2078214527829860369,Post,"A cozy first-person organizing game where you restore a forgotten cellar by sorting 2,448 bottles into their proper racks. ✨ Relaxing Cozy Mode",,,5,weak,Social Index (+5),social
+4935510,social_post,unknown_date,https://x.com/mcphersoncellar,McPherson Cellars (@mcphersoncellar) / X,"Jun 13, 2018
+
+  My father was at #TexasTech and the nursery was pulling up #grapevines to put in a greenhouse and he said to his friend we need to do something with these vines - they replanted in his friend’s backyard and we don’t know what the red grape was… #SommChat
+ user avatar
+
+  McPherson Cellars
+
+  @mcphersoncellar
+
+  Jun 13, 2018
+
+  I appreciate being here with Diane Dixon and @keepercoll and so excited to help ppl learn about #TX #wines on #SommChat today
+ user avatar [...] McPherson Cellars
+
+  @mcphersoncellar
+
+  Jun 13, 2018
+
+  This guy👆will be tweeting (yes, really!) talking… instagram.com/p/Bj-Fk2IFQ9x/… [...] Jun 13, 2018
+
+  I think we make #wines that R old world in style and varietally correct and drinkable and price appropriate #SommChat
+ user avatar
+
+  McPherson Cellars
+
+  @mcphersoncellar
+
+  Jun 13, 2018
+
+  My father’s friend said we can make fresh fruit or jelly and my dad said NO we will make #tx #wine! They called their grape “patio"" #SommChat
+ user avatar
+
+  McPherson Cellars
+
+  @mcphersoncellar
+
+  Jun 13, 2018",,,5,weak,Social Index (+5),social
+4935510,social_post,unknown_date,https://graveyardkeeper.fandom.com/wiki/Cellar,Cellar - Official Graveyard Keeper Wiki,"The cellar is primarily accessed through your house. It is used for storage, brewing and winemaking. From here you can access tunnels the morgue, the church,",,,5,weak,Social Index (+5),social
+4935510,social_post,unknown_date,https://vintagecellars.com/preservation/winekeeper-preservation/keeper.html,The Keeper Wine Dispenser and Preserver,"Serving Los Angeles County  
+ Vintage Cellars  
+ 2609 Manhattan Beach Blvd #200  
+ Redondo Beach, CA. 90278  
+ +1 (310) 362-5203
+
+Serving San Diego County  
+ Vintage Cellars  
+ 904 Rancheros Dr.  
+ San Marcos, CA. 92069  
+ +1 (866) 990-5484
+
+Serving Orange County  
+ Vintage Cellars  
+ 202 S Calle Seville  
+ San Clemente, CA. 92672  
+ +1 (949) 339-5653
+
+Serving Maricopa County  
+ Vintage Cellars  
+ 231 North Robson, Unit 7  
+ Mesa, AZ 85201  
+ +1 (480) 485-3483
+
+See All Locations [...] The store will not work correctly when cookies are disabled.
+
+Free Shipping on Hundreds of Products & 30 Years of Custom Built Wine Cellars
+
+Toggle Nav  Vintage Cellars Logo  1-800-876-8789
+
+Experts Available M-F 7am-5pm PST
+
+My Cart
+
+vintage cellars my account profile
+
+contact vintage cellars wine storage experts by cell phone
+
+Account
+
+ Home
+ Dispensers & Preservation
+ Winekeeper Wine Preservation Systems
+ The Keeper Wine Preserver / Dispenser
+
+# The Keeper Wine Preserver / Dispenser [...] See All Locations
+
+### Custom Wine Cellars",,,5,weak,Social Index (+5),social
+4935510,web_result,unknown_date,https://genieinanovel.com/2020/09/15/review-the-cellar,Review: The Cellar – Genie in a Novel,"Overall, the story was good. It kept me hooked and the life the girls had while trapped in the cellar felt like a thriller story. You could see how life down there affected them all, and I was satisfied with the realistic outcome of how the experience affected them afterward. Though I was a little disappointed with Clover’s ending in it all because I was expecting a different outcome for him. In any case, I though this was a great story and I’ll definitely be reading more of Natasha Preston’s [...] Rating: 4/5 stars
+
+### Share this:
+
+ Share on Threads (Opens in new window) Threads
+ Share on Bluesky (Opens in new window) Bluesky
+ Share on Facebook (Opens in new window) Facebook
+ Share on X (Opens in new window) X
+ Share on Reddit (Opens in new window) Reddit
+ Share on Tumblr (Opens in new window) Tumblr
+ Share on Pinterest (Opens in new window) Pinterest
+
+Like Loading...
+
+### Related
+
+### Leave a comment Cancel reply
+
+ Comment
+ Reblog
+ Subscribe Subscribed [...] Natasha Preston’s books!",,,0,weak,,general
+4935510,web_result,unknown_date,https://mjrrpg.com/whats-in-the-cellar-review-call-of-cthulhu-gateways-to-terror,What’s In The Cellar? Review – Call of Cthulhu (Gateways to Terror) - MJRRPG,"Indeed, in one run that featured a bit too much booze at the table, the players didn’t figure out they needed the ring, and just brute forced the monster. All but one investigator was incapacitated or killed, and the last one, armed with a baseball bat, came through thanks to a series of godly rolls. An extremely fun ending, though one only made possible by the drunken players (and Keeper) forgetting Luck spending was a thing. If they’d all burned Luck to dodge and get Extreme hits, the monster [...] The investigators then hop down into the cellar to begin rooting around, which takes up the bulk of the scenario. There are lots of goodies to find, handouts to skim, and spookiness to be spooked by. After poking around for a while, something starts poking back. [...] Luckily, the monster has telekinesis. Just have the trap door shut and lock. Done. Move on to bigger problems. And if any stubborn players refuse to go into the cellar, even after they’ve sat back and done nothing for fifteen minutes while the others investigate, then have something give them a push, sending them toppling over into the cellar and taking a nice 1D3 of damage for their trouble. Then slam the door shut.",,,0,weak,,general
+4935510,web_result,unknown_date,https://www.cellartracker.com,CellarTracker - Wine Reviews & Wine Cellar Management ...,"An intuitive wine tracker and wine review app for researching and managing your wine collection. Save personal notes, ratings, and reviews; Track storage",,,0,weak,,general
+4935510,web_result,unknown_date,https://www.amazon.com/Keys-Cellar-Strategies-Secrets-Collecting/dp/0471473596,"Keys to the Cellar: Strategies And Secrets of Wine Collecting: Meltzer, Peter D.: 9780471473596: Amazon.com: Books","1.   Print length  258 pages  
+2.   Language  English  
+3.   Publisher  Houghton Mifflin Harcourt  
+4.   Publication date  January 1, 2006  
+5.   Dimensions  6.25 x 1 x 9 inches  
+6.   ISBN-10  0471473596  
+7.   ISBN-13  978-0471473596  
+
+_Next slide of product details_
+
+See all details
+
+  
+
+Image 40: The%20Amazon%20Book%20Review
+
+The Amazon Book Review
+
+ Book recommendations, author interviews, editors' picks, and more. Read it now.
+
+  
+
+## Customers who bought this item also bought [...] Publisher ‏ : ‎ Houghton Mifflin Harcourt
+   Publication date ‏ : ‎ January 1, 2006
+   Edition ‏ : ‎ 1st
+   Language ‏ : ‎ English
+   Print length ‏ : ‎ 258 pages
+   ISBN-10 ‏ : ‎ 0471473596
+   ISBN-13 ‏ : ‎ 978-0471473596
+   Item Weight ‏ : ‎ 1.12 pounds
+   Dimensions ‏ : ‎ 6.25 x 1 x 9 inches
+    Best Sellers Rank:  #3,401,330 in Books (See Top 100 in Books) 
+        #79 in Wine Cellars (Books)
+        #2,307 in Wine (Books)
+        #2,502 in Homebrewing, Distilling & Wine Making [...] --Michael Batterberry, Editor in Chief and Publisher, Food Arts
+
+""Keys to the Cellar is fascinating, informative, and easy to read; with this book, you will truly understand the ins and outsof buying wines for your personal cellar.""
+
+--Kevin Zraly, educator and author of Windows on the World Complete Wine Course",,,0,weak,,general
+4935510,web_result,unknown_date,https://en.wikipedia.org/wiki/Cellars_(novel),Cellars (novel) - Wikipedia,"Print/export
+
+ Download as PDF
+ Printable version&printable=yes ""Printable version of this page [p]"")
+
+In other projects
+
+ Wikidata item
+
+Appearance
+
+From Wikipedia, the free encyclopedia
+
+1982 novel by John Shirley
+
+Cellars is a novel by John Shirley published in 1982.
+
+## Plot summary
+
+[edit&action=edit&section=1 ""Edit section: Plot summary"")] [...] Review by William Gibson (1982) in Science Fiction Review, Fall 1982
+ Review by Thomas M. Disch (1982) in Rod Serling's The Twilight Zone Magazine, November 1982
+
+## References
+
+[edit&action=edit&section=4 ""Edit section: References"")]
+
+1. 1 2 Pringle, Dave (October 1983). ""Book Review"". Imagine ""Imagine (AD&D magazine)"") (review) (7). TSR Hobbies (UK), Ltd.: 37.
+
+Retrieved from """"
+
+Categories: [...] Dave Pringle reviewed Cellars for Imagine ""Imagine (game magazine)"") magazine, and stated that ""Although entirely different in tone, it shows the same obsession with things lurking beneath our feet, unnameable terrors in the forgotten 'cellars' of modern civilisation.""
+
+## Reviews
+
+[edit&action=edit&section=3 ""Edit section: Reviews"")]",,,0,weak,,general
