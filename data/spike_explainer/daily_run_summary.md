@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Cleaning Up The Puzzle Gallery
+Analyzed: WE ARE SO DEAD
 Tavily Budget Used: 15
 Errors: 0

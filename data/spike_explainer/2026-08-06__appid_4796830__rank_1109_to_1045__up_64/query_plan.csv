@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4796830,WE ARE SO DEAD,"""WE ARE SO DEAD"" Steam",general,1,tavily,True,,3
+4796830,WE ARE SO DEAD,"""WE ARE SO DEAD"" trailer",general,1,tavily,True,,5
+4796830,WE ARE SO DEAD,"""WE ARE SO DEAD"" gameplay",general,1,tavily,True,,5
+4796830,WE ARE SO DEAD,"""WE ARE SO DEAD"" demo",general,1,tavily,True,,5
+4796830,WE ARE SO DEAD,"""WE ARE SO DEAD"" release date",general,1,tavily,True,,5
+4796830,WE ARE SO DEAD,"""WE ARE SO DEAD"" announcement",general,1,tavily,True,,5
+4796830,WE ARE SO DEAD,"""WE ARE SO DEAD"" preview",general,1,tavily,True,,5
+4796830,WE ARE SO DEAD,"""WE ARE SO DEAD"" review",general,1,tavily,True,,5
+4796830,WE ARE SO DEAD,"""WE ARE SO DEAD"" publisher",general,1,tavily,True,,5
+4796830,WE ARE SO DEAD,"""WE ARE SO DEAD"" developer",general,1,tavily,True,,5
+4796830,WE ARE SO DEAD,"site:pcgamer.com ""WE ARE SO DEAD""",press,2,tavily,False,General budget exhausted,0
+4796830,WE ARE SO DEAD,"site:rockpapershotgun.com ""WE ARE SO DEAD""",press,2,tavily,False,General budget exhausted,0
+4796830,WE ARE SO DEAD,"site:ign.com ""WE ARE SO DEAD""",press,2,tavily,False,General budget exhausted,0
+4796830,WE ARE SO DEAD,"site:gamespot.com ""WE ARE SO DEAD""",press,2,tavily,False,General budget exhausted,0
+4796830,WE ARE SO DEAD,"site:game8.co ""WE ARE SO DEAD""",press,2,tavily,False,General budget exhausted,0
+4796830,WE ARE SO DEAD,"site:reddit.com ""WE ARE SO DEAD""",social,3,tavily,True,,5
+4796830,WE ARE SO DEAD,"site:tiktok.com ""WE ARE SO DEAD""",social,4,tavily,True,,5
+4796830,WE ARE SO DEAD,"site:instagram.com ""WE ARE SO DEAD""",social,4,tavily,True,,5
+4796830,WE ARE SO DEAD,"site:x.com ""WE ARE SO DEAD""",social,4,tavily,True,,5
+4796830,WE ARE SO DEAD,"site: ""WE ARE SO DEAD""",social,4,tavily,True,,5
