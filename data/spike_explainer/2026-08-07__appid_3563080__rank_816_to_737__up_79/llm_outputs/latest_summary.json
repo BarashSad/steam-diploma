@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-07T13:24:01.315024+00:00",
+    "timestamp": "20260807_132401",
+    "input_file": "data/spike_explainer/2026-08-07__appid_3563080__rank_816_to_737__up_79/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-07__appid_3563080__rank_816_to_737__up_79/llm_outputs/gemini_20260807_132401.md",
+    "game_title": "Swords & Slippers",
+    "appid": "3563080",
+    "duration_sec": 18.55,
+    "response_length": 5744,
+    "error": null
+}
