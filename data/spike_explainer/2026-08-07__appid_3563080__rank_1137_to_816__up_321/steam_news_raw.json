@@ -1,0 +1,26 @@
+{
+    "appnews": {
+        "appid": 3563080,
+        "newsitems": [
+            {
+                "gid": "1840310314343112",
+                "title": "Wishlist Swords & Slippers on Steam!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314343112",
+                "is_external_url": true,
+                "author": "Swords & Slippers",
+                "contents": "Swords & Slippers is bringing back the spirit of the old days, when playing was the whole point, every slash felt earned, and the only thing that mattered was pure, unapologetic fun.Our Steam page is officially live.So let everyone know. Send this to your friends, your waifu, your squad, your Discord group. Tell anyone who has been starving for a game that does not hold back and does not apologize for what it is.Every wishlist and every recommendation puts this game in front of someone who would never have found it otherwise. Thank you for carrying it.",
+                "feedlabel": "Community Announcements",
+                "date": 1786048959,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3563080,
+                "tags": [
+                    "hide_store",
+                    "hide_library_overview",
+                    "hide_library_detail"
+                ]
+            }
+        ],
+        "count": 1
+    }
+}

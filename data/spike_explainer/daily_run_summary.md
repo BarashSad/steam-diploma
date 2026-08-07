@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Cellar Keeper
+Analyzed: Swords & Slippers
 Tavily Budget Used: 15
 Errors: 0

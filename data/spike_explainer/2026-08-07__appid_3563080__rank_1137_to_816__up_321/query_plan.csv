@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3563080,Swords & Slippers,"""Swords & Slippers"" Steam",general,1,tavily,True,,5
+3563080,Swords & Slippers,"""Swords & Slippers"" trailer",general,1,tavily,True,,5
+3563080,Swords & Slippers,"""Swords & Slippers"" gameplay",general,1,tavily,True,,5
+3563080,Swords & Slippers,"""Swords & Slippers"" demo",general,1,tavily,True,,5
+3563080,Swords & Slippers,"""Swords & Slippers"" release date",general,1,tavily,True,,5
+3563080,Swords & Slippers,"""Swords & Slippers"" announcement",general,1,tavily,True,,5
+3563080,Swords & Slippers,"""Swords & Slippers"" preview",general,1,tavily,True,,5
+3563080,Swords & Slippers,"""Swords & Slippers"" review",general,1,tavily,True,,5
+3563080,Swords & Slippers,"""Swords & Slippers"" publisher",general,1,tavily,True,,5
+3563080,Swords & Slippers,"""Swords & Slippers"" developer",general,1,tavily,True,,5
+3563080,Swords & Slippers,"site:pcgamer.com ""Swords & Slippers""",press,2,tavily,False,General budget exhausted,0
+3563080,Swords & Slippers,"site:rockpapershotgun.com ""Swords & Slippers""",press,2,tavily,False,General budget exhausted,0
+3563080,Swords & Slippers,"site:ign.com ""Swords & Slippers""",press,2,tavily,False,General budget exhausted,0
+3563080,Swords & Slippers,"site:gamespot.com ""Swords & Slippers""",press,2,tavily,False,General budget exhausted,0
+3563080,Swords & Slippers,"site:game8.co ""Swords & Slippers""",press,2,tavily,False,General budget exhausted,0
+3563080,Swords & Slippers,"site:reddit.com ""Swords & Slippers""",social,3,tavily,True,,5
+3563080,Swords & Slippers,"site:tiktok.com ""Swords & Slippers""",social,4,tavily,True,,5
+3563080,Swords & Slippers,"site:instagram.com ""Swords & Slippers""",social,4,tavily,True,,5
+3563080,Swords & Slippers,"site:x.com ""Swords & Slippers""",social,4,tavily,True,,5
+3563080,Swords & Slippers,"site: ""Swords & Slippers""",social,4,tavily,True,,5

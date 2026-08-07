@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-08-06T14:33:17.566393+00:00,4935510,Cellar Keeper,data/spike_explainer/2026-08-06__appid_4935510__rank_942_to_903__up_39,39,90,data/spike_explainer/2026-08-06__appid_4935510__rank_942_to_903__up_39/llm_summary_input.md
+2026-08-07T03:03:28.578234+00:00,3563080,Swords & Slippers,data/spike_explainer/2026-08-07__appid_3563080__rank_1137_to_816__up_321,321,70,data/spike_explainer/2026-08-07__appid_3563080__rank_1137_to_816__up_321/llm_summary_input.md

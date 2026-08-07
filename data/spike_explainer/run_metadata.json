@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-08-06T14:33:36.836054+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260806_142434/rank_changes.csv",
-    "selected_appid": "4935510",
-    "selected_game_title": "Cellar Keeper",
+    "started_at": "2026-08-07T03:03:50.293788+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260807_025329/rank_changes.csv",
+    "selected_appid": "3563080",
+    "selected_game_title": "Swords & Slippers",
     "top_n": 1,
-    "old_snapshot_date": "2026-08-03",
-    "new_snapshot_date": "2026-08-06",
+    "old_snapshot_date": "2026-08-04",
+    "new_snapshot_date": "2026-08-07",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-06T14:33:36.836071+00:00",
+    "finished_at": "2026-08-07T03:03:50.293802+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
