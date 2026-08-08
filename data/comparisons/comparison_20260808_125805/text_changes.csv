@@ -1,0 +1,3 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2798330,Dungeon Settlers,Dungeon Settlers,267,266,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 10, 2026","Sep 4, 2026",True
+4012810,STEINS;GATE REBOOT DIGITAL DELUXE EDITION,STEINS;GATE RE:BOOT,169,169,0,0,stable,none,$71.99,$53.99,True,"Aug 19, 2026","Aug 19, 2026",False

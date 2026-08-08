@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-08T13:07:27.918053+00:00",
+    "timestamp": "20260808_130727",
+    "input_file": "data/spike_explainer/2026-08-08__appid_4753290__rank_1075_to_987__up_88/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-08__appid_4753290__rank_1075_to_987__up_88/llm_outputs/gemini_20260808_130727.md",
+    "game_title": "JUJUTSU KAISEN RUMBLE: SURVIVATON",
+    "appid": "4753290",
+    "duration_sec": 20.13,
+    "response_length": 7544,
+    "error": null
+}

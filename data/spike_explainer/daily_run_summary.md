@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Swords & Slippers
+Analyzed: JUJUTSU KAISEN RUMBLE: SURVIVATON
 Tavily Budget Used: 15
 Errors: 0
