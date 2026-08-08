@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-08-07T13:23:40.206771+00:00,3563080,Swords & Slippers,data/spike_explainer/2026-08-07__appid_3563080__rank_816_to_737__up_79,79,70,data/spike_explainer/2026-08-07__appid_3563080__rank_816_to_737__up_79/llm_summary_input.md
+2026-08-08T02:08:02.191830+00:00,3563080,Swords & Slippers,data/spike_explainer/2026-08-08__appid_3563080__rank_737_to_669__up_68,68,85,data/spike_explainer/2026-08-08__appid_3563080__rank_737_to_669__up_68/llm_summary_input.md
