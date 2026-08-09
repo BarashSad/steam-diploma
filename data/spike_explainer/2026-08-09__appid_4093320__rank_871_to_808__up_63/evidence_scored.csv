@@ -1,0 +1,2310 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+4093320,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314342652,Our Doors Are Open! The Beastfolk Barber Demo Is Out Now,,"Hi everyone,We can finally share the news: the free Beastfolk Barber demo is out now! ✂️Our little barber shop is ready to welcome its first customers, and we’ve also released a brand-new trailer to mark the occasion.In Beastfolk Barber, a haircut is more than a change in style. It’s also how you be","trailer, demo",90,very_strong,"Inside spike window (+30); Official Steam News (+20); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+4093320,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=ugTRoTM5mfw,Beastfolk Barber Demo Trailer | Wholesome Games Celebration,,"Beastfolk Barber is set in a modern city where beastfolk live side by side with humans, navigating the tension between who they're ...","trailer, demo",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+4093320,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=MoE96yjmsZ8,coffee talk x barbershop? ✂️ | beastfolk barber cozy demo gameplay 🐺,,"today we're checking out the demo for beastfolk barber, a game that has a similar feel to coffee talk, only for barbers rather than ...","gameplay, demo",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+4093320,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=ugTRoTM5mfw,Beastfolk Barber Demo Trailer | Wholesome Games Celebration,,"Beastfolk Barber is set in a modern city where beastfolk live side by side with humans, navigating the tension between who they're ...","trailer, demo",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+4093320,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=Ag7ZRGDKuwg,Demo Day: Beastfolk Barber,,"a description reader got spotted in the wild, quick hide XD Thanks for watching^^ Watch your queen also live! on Twitch ...",demo,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4093320,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=2jCBfshZhvQ,"Beastfolk Barber Demo — I Came to Cut Hair, Not Hear Your Life Story 😹 | 8⭐",,I expected this to be a game about running a barbershop. Turns out it's mostly about talking. Your beastfolk customers sit down ...,demo,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4093320,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=ugTRoTM5mfw,Beastfolk Barber Demo Trailer | Wholesome Games Celebration,,"Beastfolk Barber is set in a modern city where beastfolk live side by side with humans, navigating the tension between who they're ...","trailer, demo",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+4093320,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=MoE96yjmsZ8,coffee talk x barbershop? ✂️ | beastfolk barber cozy demo gameplay 🐺,,"today we're checking out the demo for beastfolk barber, a game that has a similar feel to coffee talk, only for barbers rather than ...","gameplay, demo",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+4093320,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=cTDV_Wfp7AU,Beastfolk Barber｜Steam Demo Trailer,,Beastfolk Barber is officially open! ✂️ Every fluffy customer who sits in your chair has a story they want to share. Become a ...,"trailer, demo",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+4093320,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=2jCBfshZhvQ,"Beastfolk Barber Demo — I Came to Cut Hair, Not Hear Your Life Story 😹 | 8⭐",,I expected this to be a game about running a barbershop. Turns out it's mostly about talking. Your beastfolk customers sit down ...,demo,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4093320,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=Ag7ZRGDKuwg,Demo Day: Beastfolk Barber,,"a description reader got spotted in the wild, quick hide XD Thanks for watching^^ Watch your queen also live! on Twitch ...",demo,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4093320,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=B4xXSISTMQI,Beastfolk Barber - Official Reveal Trailer | PC 2026,,"In Beastfolk Barber (code name: Project Salon), you're a barber in a city full of beastfolk. Chat with your customers, style their look, ...",trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4093320,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721195326,Beastfolk Barber - Official Reveal Trailer,,"Hey there,Project Salon is now officially titled Beastfolk Barber.We’re thrilled to share that Beastfolk Barber has officially made its debut at the global games showcase Summer Game Fest, with its first trailer premiering during the official featured showcase Wholesome Direct.A snip here, a story t","trailer, showcase",60,medium,"Official Steam News (+20); Exact title match (+20); Keywords ['trailer', 'showcase'] (+20)",
+4093320,youtube_video,outside_window,https://www.youtube.com/watch?v=O2GWkWoU-MM,Beastfolk Barber - Official Announcement Trailer shorts,,Beastfolk Barber - Official Announcement Trailer shorts #oyun #gaming #gameplay #trailer #shorts.,"trailer, gameplay, announcement",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay', 'announcement'] (+20)",
+4093320,youtube_video,outside_window,https://www.youtube.com/watch?v=_mg3Lz7FMMQ,Beastfolk Barber - Official Announcement Trailer | Wholesome Direct 2026,,"Beastfolk Barber is set in a modern city where beastfolk live side by side with humans, navigating the tension between who they're ...","trailer, announcement",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4093320,youtube_video,outside_window,https://www.youtube.com/watch?v=YZBV-8CJv3I,Beastfolk Barber - Official Reveal Trailer,,"A snip here, a story there. Nowhere's more honest than the barber's chair. You're a barber in a city full of beastfolk. Chat with your ...",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4093320,youtube_video,outside_window,https://www.youtube.com/watch?v=_mg3Lz7FMMQ,Beastfolk Barber - Official Announcement Trailer | Wholesome Direct 2026,,"Beastfolk Barber is set in a modern city where beastfolk live side by side with humans, navigating the tension between who they're ...","trailer, announcement",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4093320,reddit_discussion,unknown_date,https://www.reddit.com/r/TrailerWorldsGames/comments/1vj4a8k/beastfolk_barber_steam_demo_trailer,Beastfolk Barber | Steam Demo Trailer,Beastfolk Barber is a single player game. Beastfolk Barber has a demo available so you can try it before you buy it. STEAM DEMO RELEASES JULY 29,,"trailer, demo",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",social
+4093320,reddit_discussion,unknown_date,https://www.reddit.com/r/247videogame/comments/1tyna7b/247_video_game_beastfolk_barber_official,🌐 24/7 Video Game | Beastfolk Barber – Official ...,Beastfolk Barber – Official Announcement Trailer | Wholesome Direct 2026. Our official Beast Games season 3 application!,,"trailer, announcement",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",social
+4093320,reddit_discussion,unknown_date,https://www.reddit.com/r/CozyGamers/comments/1vhm1yt/beastfolk_barber_demo_review,Beastfolk Barber Demo Review : r/CozyGamers,I recommend it to anyone who enjoys games where you talk to NPCs and have to solve problems using verbal ques from their dialoge.,,demo,50,medium,Reddit (+10); Exact title match (+20); Keywords ['demo'] (+20),social
+4093320,social_post,unknown_date,https://x.com/SPGMedia101/status/2086057568670277784,"Indie Games Hub on X: ""The demo for ""Beastfolk Barber"" is available NOW for you to try.
+
+You play as a barber running a small shop for beastfolk of all shapes and sizes.
+
+Dev: Safe Flight Games📷, GameWorks Ventures @sigonogames 
+Steam: https://t.co/btXIfjVw0d https://t.co/tGkKxfZWcG"" / X","## Post
+
+## Post
+
+user avatar
+
+Avatar
+
+See this post in the app
+
+Use the app to view all comments and discover more posts.",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+4093320,social_post,unknown_date,https://x.com/SPGMedia101,Indie Games Hub (@SPGMedia101) / X,"@SPGMedia101
+
+  20h
+
+  Explore and colonize an unknown planet in this pixel art survival RPG ""Alia Domus"" Dev: Cat Crate Games Steam: store.steampowered.com/app/4918370/Al…
+
+  
+
+  00:00
+ user avatar
+
+  Indie Games Hub
+
+  @SPGMedia101
+
+  22h
+
+  The demo for ""Beastfolk Barber"" is available NOW for you to try. You play as a barber running a small shop for beastfolk of all shapes and sizes. Dev: Safe Flight Games📷, GameWorks Ventures @sigonogames Steam: store.steampowered.com/app/4093320/Be… [...] 00:00
+ user avatar
+
+  Indie Games Hub
+
+  @SPGMedia101
+
+  Aug 8
+
+  First public demo of ""Wild n Chill"" is available NOW for you to try. Dev"" @WombatBrawler Steam: store.steampowered.com/app/3847920/Wi…
+
+  
+
+  00:00 [...] 17m
+
+  Create your own Warrior Cat and journey through the Lake Territories in this upcoming action-adventure game, ""Warrior Cats: Clans of the Forest"" Dev: @Trailmarkgames Steam: store.steampowered.com/app/3960600/Wa…
+
+  
+
+  00:00
+ user avatar
+
+  Indie Games Hub
+
+  @SPGMedia101
+
+  6h
+
+  Manage a monster-friendly inn in this upcoming pixel life sim game, ""Monsterest."" Dev: @41sile Steam: store.steampowered.com/app/2895410/Mo…
+
+  
+
+  00:00
+ user avatar
+
+  Indie Games Hub
+
+  @SPGMedia101",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+4093320,social_post,unknown_date,https://x.com/sigonogames/status/2063637109802488049,"SIGONO on X: ""Beastfolk Barber(code name: Project Salon) just premiered its first trailer at @summergamefest, during the official @_wholesomegames showcase! A snip here, a story there. In a city of beastfolk, every haircut reveals something new. Wishlist ✂️https://t.co/zWfsdc7js1 https://t.co/WAGy6JLlbj"" / X","## Post
+
+Log inSign up
+
+## Post
+
+ user avatar
+
+  SIGONO
+
+  @sigonogames
+
+  Beastfolk Barber(code name: Project Salon) just premiered its first trailer at @summergamefest, during the official @\_wholesomegames showcase! A snip here, a story there. In a city of beastfolk, every haircut reveals something new. Wishlist ✂️utm.to/96834j #BeastfolkBarber #indiegame #gamedev
+
+  
+
+  00:00
+
+  3:00 PM · Jun 7, 20266.2KViews",,"trailer, showcase",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'showcase'] (+20)",social
+4093320,social_post,unknown_date,https://x.com/sigonogames/status/2085585834049486996,"SIGONO on X: ""The Beastfolk Barber demo is now live for @_wholesomegames Run a barber shop for beastfolk, chat with your customers, and help them find something new in the mirror... and in themselves. Your first customer is waiting! Meet them in Steam demo✂️https://t.co/P9vts1Vnvu https://t.co/vDnHer05sG"" / X","Log inSign up
+
+## Post
+
+ user avatar
+
+  SIGONO
+
+  @sigonogames
+
+  The Beastfolk Barber demo is now live for @\_wholesomegames Run a barber shop for beastfolk, chat with your customers, and help them find something new in the mirror... and in themselves. Your first customer is waiting! Meet them in Steam demo✂️utm.to/9f949f #BeastfolkBarber #WholesomeGames #indiegame #gamedev
+
+  
+
+  00:00
+
+  4:36 AM · Aug 7, 20262.7KViews
+ user avatar
+
+  Nep (Zhima Edition)
+
+  @NepGlaceon
+
+  23h [...] 23h
+
+  I LOVE THIS AND I WANT THIS TO BE RELEASED SO BADLY",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+4093320,social_post,unknown_date,https://www.gamegrin.com/news/wholesome-direct-2026-beastfolk-barber,Wholesome Direct 2026: Beastfolk Barber | GameGrin,"Developed by Safe Flight Games and published by SIGONO, Beastfolk Barber is an upcoming job simulation game set in a world of anthropomorphic animals. Known previously as Project Salon, players will spend their time helping various folk get a haircut while striking up conversation, similar to Coffee Talk, except with a lot more snipping.
+
+The title announced its world premiere during this year's Wholesome Direct, dropping a trailer showcasing the game and art! The Steam page is up now. [...] > # Welcome to GameGrinOS v1.01 > # How can I help you? > # Press ` again to close
+
+Hello… | Log in or sign up
+
+GameGrin 
+
+ News
+ Reviews 
+
+  + Games
+  + Mobile
+  + Hardware
+ Previews
+ Articles 
+
+  + Features
+  + Series
+  + Interviews
+ Directory 
+
+  + Game Releases
+  + Company
+  + Event
+  + Game
+  + Platform
+  + Soundtracks
+ Community
+
+  + We're Playing?
+  + Discord
+ Podcast
+
+// News  // 6th Jun 2026 — 2 months ago // By Violet Plata
+
+# Wholesome Direct 2026: Beastfolk Barber [...] Beastfolk Barber will release on Steam; you can wishlist and follow to show support now!
+
+Prev
+
+Summer Game Fest 2026
+
+Next
+
+Violet Plata
+
+## Violet Plata
+
+### Staff Writer
+
+Resident news goblin
+
+Read more articles by Violet
+
+PEOPLE. NOT PROMPTS.
+
+GameGrin are proud to have all their articles researched, written, and edited by real people that care about gaming.
+
+Share this:
+
+#### COMMENTS
+
+### Series
+
+#### Summer Game Fest 2026
+
+Read the full “Summer Game Fest 2026” series
+
+First
+
+Prev
+
+Next",,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+4093320,social_post,unknown_date,https://store.steampowered.com/app/4093320/Beastfolk_Barber,Beastfolk Barber on Steam,"Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+Beastfolk Barber is a narrative game where every haircut is a conversation. You play as Freddie, a barber running a small shop for beastfolk of all shapes and sizes. With every cut and chat, learn what your customers like, what they need, and who they want to be. [...] All Games > Indie Games > Beastfolk Barber
+
+Community Hub
+
+Beastfolk Barber
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Beastfolk Barber
+
+Beastfolk Barber
+
+Developer
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher
+
+SIGONO INC.
+
+Released
+
+To be announced
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer: [...] )
+
+Features
+
+Single-player
+
+Family Sharing
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+
+Title: Beastfolk Barber  
+ Genre: Adventure, Casual, Indie, Simulation  
+
+Developer: Safe Flight Games, GameWorks Ventures
+
+Publisher: SIGONO INC.
+
+Release Date: To be announced",,release date,45,medium,Social Index (+5); Exact title match (+20); Keywords ['release date'] (+20),social
+4093320,social_post,unknown_date,https://store.steampowered.com/app/4093320,Beastfolk Barber on Steam,"Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+Beastfolk Barber is a narrative game where every haircut is a conversation. You play as Freddie, a barber running a small shop for beastfolk of all shapes and sizes. With every cut and chat, learn what your customers like, what they need, and who they want to be. [...] All Games > Indie Games > Beastfolk Barber
+
+Community Hub
+
+Beastfolk Barber
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Beastfolk Barber
+
+Beastfolk Barber
+
+Developer
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher
+
+SIGONO INC.
+
+Released
+
+To be announced
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer: [...] )
+
+Features
+
+Single-player
+
+Family Sharing
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+
+About IGRS Ratings on Steam
+
+ Click here to learn more
+
+Title: Beastfolk Barber  
+ Genre: Adventure, Casual, Indie, Simulation  
+
+Developer: Safe Flight Games, GameWorks Ventures
+
+Publisher: SIGONO INC.
+
+Release Date: To be announced",,release date,45,medium,Social Index (+5); Exact title match (+20); Keywords ['release date'] (+20),social
+4093320,social_post,unknown_date,https://steamcommunity.com/app/4093320,Beastfolk Barber - Steam Community,"You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+Beastfolk Barber is developed by Safe Flight Games, originally incubated by GameWorks, with development and publishing support from SIGONO.
+
+Beastfolk Barber
+
+50
+
+4
+
+Please dont tell me thats Ironmouse at the end....
+
+I'm not going to buy a game with her in it
+
+3
+
+[Cyber Witch ~
+
+3 hours ago](
+
+General Discussions
+
+Cannot Start the Demo.. [...] 49 minutes ago](
+
+General Discussions
+
+Beastfolk Barber - Official Reveal Trailer
+
+6 Jun
+
+Hey there,
+
+Project Salon is now officially titled Beastfolk Barber.
+
+We’re thrilled to share that Beastfolk Barber has officially made its debut at the global games showcase Summer Game Fest, with its first trailer premiering during the official featured showcase Wholesome Direct.
+
+A snip here, a story there. Nowhere's more honest than the barber's chair. [...] 6 Aug
+
+Hi everyone,
+
+We can finally share the news: the free Beastfolk Barber demo is out now! ✂️
+
+Our little barber shop is ready to welcome its first customers, and we’ve also released a brand-new trailer to mark the occasion.
+
+In Beastfolk Barber, a haircut is more than a change in style. It’s also how you begin to know each customer.
+
+Between every snip and conversation, you’ll hear about their worries, their hopes, and the things they haven’t been able to say out loud.",,"trailer, demo, showcase",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'demo', 'showcase'] (+20)",social
+4093320,social_post,unknown_date,https://www.youtube.com/watch?v=xcofXbUHyP8,Beastfolk Barber Announcement Trailer | Wholesome Direct 2026,"### Description
+5011 views
+Posted: 6 Jun 2026
+ Beastfolk Barber is set in a modern city where beastfolk live side by side with humans, navigating the tension between who they're expected to be and who they are. As their barber, you're someone they can open up to. With every conversation and every cut, you help them become who they truly are. Coming to Steam!  #summergamefest #wholesomedirect2026 #wholesomedirect
+
+10 comments
+### Transcript:
+[music] Heat. [music] Heat.",,"trailer, announcement",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",social
+4093320,web_result,unknown_date,https://store.steampowered.com/app/4093320/Beastfolk_Barber,Beastfolk Barber on Steam,"Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+Beastfolk Barber is a narrative game where every haircut is a conversation. You play as Freddie, a barber running a small shop for beastfolk of all shapes and sizes. With every cut and chat, learn what your customers like, what they need, and who they want to be. [...] )
+
+Features
+
+Single-player
+
+Family Sharing
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+
+Title: Beastfolk Barber  
+ Genre: Adventure, Casual, Indie, Simulation  
+
+Developer: Safe Flight Games, GameWorks Ventures
+
+Publisher: SIGONO INC.
+
+Release Date: To be announced [...] All Games > Indie Games > Beastfolk Barber
+
+Community Hub
+
+Beastfolk Barber
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Beastfolk Barber
+
+Beastfolk Barber
+
+Developer
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher
+
+SIGONO INC.
+
+Released
+
+To be announced
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer:",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4093320,web_result,unknown_date,https://store.steampowered.com/app/4093320,Beastfolk Barber on Steam,"Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+Beastfolk Barber is a narrative game where every haircut is a conversation. You play as Freddie, a barber running a small shop for beastfolk of all shapes and sizes. With every cut and chat, learn what your customers like, what they need, and who they want to be. [...] )
+
+Features
+
+Single-player
+
+Family Sharing
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+
+About IGRS Ratings on Steam
+
+ Click here to learn more
+
+Title: Beastfolk Barber  
+ Genre: Adventure, Casual, Indie, Simulation  
+
+Developer: Safe Flight Games, GameWorks Ventures
+
+Publisher: SIGONO INC.
+
+Release Date: To be announced [...] All Games > Indie Games > Beastfolk Barber
+
+Community Hub
+
+Beastfolk Barber
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Beastfolk Barber
+
+Beastfolk Barber
+
+Developer
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher
+
+SIGONO INC.
+
+Released
+
+To be announced
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer:",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4093320,web_result,unknown_date,https://store.steampowered.com/app/4920000/Beastfolk_Barber_Demo,Beastfolk Barber Demo on Steam,"## About This Demo
+
+Beastfolk Barber is a narrative game where every haircut is a conversation. You play as Freddie, a barber running a small shop for beastfolk of all shapes and sizes. With every cut and chat, learn what your customers like, what they need, and who they want to be. [...] All Games > Indie Games > Beastfolk Barber > Demo
+
+Community Hub
+
+Beastfolk Barber Demo
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Beastfolk Barber Demo
+
+Beastfolk Barber Demo
+
+Developer
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher
+
+SIGONO INC.
+
+Released
+
+6 Aug, 2026
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+All Reviews:",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4093320,web_result,unknown_date,https://store.steampowered.com/app/4920000/Beastfolk_Barber_Demo?snr=1_7_7_230_150_1,Beastfolk Barber Demo on Steam,"## About This Demo
+
+Beastfolk Barber is a narrative game where every haircut is a conversation. You play as Freddie, a barber running a small shop for beastfolk of all shapes and sizes. With every cut and chat, learn what your customers like, what they need, and who they want to be. [...] All Games > Indie Games > Beastfolk Barber > Demo
+
+Community Hub
+
+Beastfolk Barber Demo
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Beastfolk Barber Demo
+
+Beastfolk Barber Demo
+
+Developer
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher
+
+SIGONO INC.
+
+Released
+
+6 Aug, 2026
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+All Reviews: [...] +
+
+Reviews
+
+All Reviews:
+
+All Time: Very Positive (97% of 196)
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player
+
+Game demo
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+
+About IGRS Ratings on Steam
+
+ Click here to learn more
+
+Title: Beastfolk Barber Demo  
+ Genre: Casual, Indie, Simulation",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4093320,web_result,unknown_date,https://www.siliconera.com/project-salon-beastfolk-barber-game-gets-a-steam-page,Project Salon Beastfolk Barber Game Gets a Steam Page - Siliconera,"Sigono, Safe Flight Games, GameWorks Ventures and Shueisha shared an update on Project Salon, an upcoming pixel art and beastfolk barber adventure game about running a salon for furry characters. This is the first time Signono is tied to the title as a publisher. The Steam page is live for the PC title and there are now three screenshots offering looks at the title. Thanks, [4Gamer!]
+
+Recommended Videos [...] Recommended Videos
+
+In Project Salon, players act as a barber who cuts the hair (or fur) of certain customers that can include humans or the furry style beastfolk. The three initial screenshots show two potential customers, with one possibly being an orc-like character with horns and bear ears and the other a dragon with two heads. The official art also shows the player character, who seems to be human, working on a cat-like person while a bear, mouse, and unicorn wait their turn. [...] Here are the three screenshots:
+
+ 
+
+Images via Sigono, Safe Flight Games, GameWorks Ventures and Shueisha
+
+Project Salon is currently in development for PCs, though there’s no release date or official name for the beastfolk barber game yet.
+
+Jenni Lada
+
+About The Author
+
+Jenni Lada",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4093320,web_result,unknown_date,https://www.youtube.com/watch?v=xcofXbUHyP8,Beastfolk Barber Announcement Trailer | Wholesome Direct 2026,"### Description
+5011 views
+Posted: 6 Jun 2026
+ Beastfolk Barber is set in a modern city where beastfolk live side by side with humans, navigating the tension between who they're expected to be and who they are. As their barber, you're someone they can open up to. With every conversation and every cut, you help them become who they truly are. Coming to Steam!  #summergamefest #wholesomedirect2026 #wholesomedirect
+
+10 comments
+### Transcript:
+[music] Heat. [music] Heat. [...] # Beastfolk Barber Announcement Trailer | Wholesome Direct 2026
+## Wholesome Games
+61700 subscribers
+375 likes",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4093320,web_result,unknown_date,https://steamcommunity.com/app/4093320,Beastfolk Barber - Steam Community,"49 minutes ago](
+
+General Discussions
+
+Beastfolk Barber - Official Reveal Trailer
+
+6 Jun
+
+Hey there,
+
+Project Salon is now officially titled Beastfolk Barber.
+
+We’re thrilled to share that Beastfolk Barber has officially made its debut at the global games showcase Summer Game Fest, with its first trailer premiering during the official featured showcase Wholesome Direct.
+
+A snip here, a story there. Nowhere's more honest than the barber's chair. [...] 6 Aug
+
+Hi everyone,
+
+We can finally share the news: the free Beastfolk Barber demo is out now! ✂️
+
+Our little barber shop is ready to welcome its first customers, and we’ve also released a brand-new trailer to mark the occasion.
+
+In Beastfolk Barber, a haircut is more than a change in style. It’s also how you begin to know each customer.
+
+Between every snip and conversation, you’ll hear about their worries, their hopes, and the things they haven’t been able to say out loud. [...] You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+Beastfolk Barber is developed by Safe Flight Games, originally incubated by GameWorks, with development and publishing support from SIGONO.
+
+Beastfolk Barber
+
+50
+
+4
+
+Please dont tell me thats Ironmouse at the end....
+
+I'm not going to buy a game with her in it
+
+3
+
+[Cyber Witch ~
+
+3 hours ago](
+
+General Discussions
+
+Cannot Start the Demo..",,"trailer, demo, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'showcase'] (+20)",general
+4093320,web_result,unknown_date,https://playday.one/2026/08/07/beastfolk-barber-steam-demo-live-new-trailer,"'Beastfolk Barber' Steam Demo Live, New Trailer | DayOne","Additionally, for the occasion (being made part of the recently aired Wholesome Celebration 2026), a new trailer was made available for your perusal:
+
+Beastfolk Barber will launch when it’s good and ready. Keep an eye out for a potential demo preview from us—if I can find the time to, that is…
+
+Enjoying DayOne? Do us a favour, and make us a ‘Preferred Source on Google‘ – that way, you’ll only be delivered more gaming coverage from our team. [...] This demo is available for PCs running Windows and macOS (M1 and up), letting players have a glimpse into this coming cosy narrative game where you groom beastfolk customers, chat with them, and discover the stories behind the looks they ask for. As the publisher put it to us, “think Coffee Talk, but with haircuts for beastfolk.” That’s pretty rad. [...] This week, Safe Flight Games, GameWorks Ventures, and SIGONO INC. dropped a brand-new Steam demo for their upcoming interactive narrative adventure title ‘Beastfolk Barber’.",,"trailer, demo",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+4093320,web_result,unknown_date,https://www.youtube.com/watch?v=DQCyLLur6zA,Beastfolk Barber - Official Demo Trailer - YouTube,Try Demo: https://store.steampowered.com/app/4093320/Beastfolk_Barber/ Beastfolk Barber is a narrative game where every haircut is a,,"trailer, demo",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+4093320,web_result,unknown_date,https://store.steampowered.com/app/4093320/Beastfolk_Barber,Beastfolk Barber on Steam,"Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+Beastfolk Barber is a narrative game where every haircut is a conversation. You play as Freddie, a barber running a small shop for beastfolk of all shapes and sizes. With every cut and chat, learn what your customers like, what they need, and who they want to be. [...] All Games > Indie Games > Beastfolk Barber
+
+Community Hub
+
+Beastfolk Barber
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Beastfolk Barber
+
+Beastfolk Barber
+
+Developer
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher
+
+SIGONO INC.
+
+Released
+
+To be announced
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer: [...] )
+
+Features
+
+Single-player
+
+Family Sharing
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+
+Title: Beastfolk Barber  
+ Genre: Adventure, Casual, Indie, Simulation  
+
+Developer: Safe Flight Games, GameWorks Ventures
+
+Publisher: SIGONO INC.
+
+Release Date: To be announced",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4093320,web_result,unknown_date,https://store.steampowered.com/app/4093320/Beastfolk_Barber,Beastfolk Barber on Steam,"Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+Beastfolk Barber is a narrative game where every haircut is a conversation. You play as Freddie, a barber running a small shop for beastfolk of all shapes and sizes. With every cut and chat, learn what your customers like, what they need, and who they want to be. [...] One day, a demon appears in your mirror with an offer. Give her the perfect haircut, and she'll undo a past regret. But first, you'll need to keep serving customers, gather resources, and find a way to cut a demon's hair. Along the way, you'll come face to face with what you've been trying to avoid.
+
+## Features
+
+ The Mysterious Mirror [...] All Games > Indie Games > Beastfolk Barber
+
+Community Hub
+
+Beastfolk Barber
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Beastfolk Barber
+
+Beastfolk Barber
+
+Developer
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher
+
+SIGONO INC.
+
+Released
+
+To be announced
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer:",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+4093320,web_result,unknown_date,https://www.siliconera.com/project-salon-beastfolk-barber-game-gets-a-steam-page,Project Salon Beastfolk Barber Game Gets a Steam Page - Siliconera,"The three screenshots hint at how gameplay might work in the title. In one, we see the two-headed dragon Varo speaking. This seems to be a phase in which the customer tells us what type of haircut they might want. The two dragons both have long hair as they look at us from the barber mirror. This hints at the atmosphere in the game, as Varo’s quote reads, “Under current laws, only I count as a person. My brother is considered an organ.” A follow-up screenshot for them shows them both with [...] Recommended Videos
+
+In Project Salon, players act as a barber who cuts the hair (or fur) of certain customers that can include humans or the furry style beastfolk. The three initial screenshots show two potential customers, with one possibly being an orc-like character with horns and bear ears and the other a dragon with two heads. The official art also shows the player character, who seems to be human, working on a cat-like person while a bear, mouse, and unicorn wait their turn. [...] them both with shorter hair and a zoomed-in section of a knot being cut out of their hair. In another, we see us helping with the other customer and getting to choose what the front and back of her hair will look like. There are three options for each and the hint suggests what her response could be and said, “She should be happy with any of these… if she even has a preference.” It also shows there are up to three preview options or someone could just cut.",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4093320,web_result,unknown_date,https://www.youtube.com/watch?v=xcofXbUHyP8,Beastfolk Barber Announcement Trailer | Wholesome Direct 2026,"### Description
+5011 views
+Posted: 6 Jun 2026
+ Beastfolk Barber is set in a modern city where beastfolk live side by side with humans, navigating the tension between who they're expected to be and who they are. As their barber, you're someone they can open up to. With every conversation and every cut, you help them become who they truly are. Coming to Steam!  #summergamefest #wholesomedirect2026 #wholesomedirect
+
+10 comments
+### Transcript:
+[music] Heat. [music] Heat. [...] # Beastfolk Barber Announcement Trailer | Wholesome Direct 2026
+## Wholesome Games
+61700 subscribers
+375 likes",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4093320,web_result,unknown_date,https://steamcommunity.com/app/4093320,Beastfolk Barber - Steam Community,"Every fluffy customer who sits in your chair has a story they want to share.
+
+As the barber, you’ll trim and style their hair while slowly getting to know them through the conversations that unfold in your shop.
+
+And sometimes, a new look really can change something.
+
+Whether you’ve been following Beastfolk Barber for a while or you’re only discovering the game today, thank you for stepping into our shop. [...] 6 Aug
+
+Hi everyone,
+
+We can finally share the news: the free Beastfolk Barber demo is out now! ✂️
+
+Our little barber shop is ready to welcome its first customers, and we’ve also released a brand-new trailer to mark the occasion.
+
+In Beastfolk Barber, a haircut is more than a change in style. It’s also how you begin to know each customer.
+
+Between every snip and conversation, you’ll hear about their worries, their hopes, and the things they haven’t been able to say out loud. [...] You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+Beastfolk Barber is developed by Safe Flight Games, originally incubated by GameWorks, with development and publishing support from SIGONO.
+
+Beastfolk Barber
+
+50
+
+4
+
+Please dont tell me thats Ironmouse at the end....
+
+I'm not going to buy a game with her in it
+
+3
+
+[Cyber Witch ~
+
+3 hours ago](
+
+General Discussions
+
+Cannot Start the Demo..",,"trailer, demo",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+4093320,web_result,unknown_date,https://www.ign.com/games/beastfolk-barber,Beastfolk Barber - IGN,"# Beastfolk Barber
+
+Safe Flight Games, +1 more
+
+•
+
+Initial Release: TBA
+
+•PC
+
+NR
+
+IGN Rating
+
+OverviewPlaylistsReviews
+
+### Images & Screenshots
+
+### Summary
+
+In Beastfolk Barber (code name: Project Salon), you're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+Developers
+
+Safe Flight Games, GameWorks Ventures
+
+Publishers
+
+Sigono Inc.
+
+Initial Release
+
+TBA
+
+Platforms
+
+PC
+
+Genres
+
+Visual Novel [...] Visual Novel
+
+## Beastfolk Barber News
+
+Videos
+
+Jun 6, 2026
+
+Beastfolk Barber - Official Announcement Trailer | Wholesome Direct 2026
+
+Jun 6, 2026",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4093320,web_result,unknown_date,/goto?url=CAESdAHuR6pNGnLK8WAPELAL7H5QEK5KvfNn8Jd6WB2fEWlvVX9MFTw9LjsZAEIcPIuUZXgYTOM1tP-rEbOkpWaXOwkhbrkVFqs4xj4Ao3a8sCktUh3BxgxsaAVcW7ZGpdwkuGLo8tHplRNFJRJidBBAtN9cdrmQ,Beastfolk Barber on Steam,"the free Beastfolk Barber demo is out now! Beastfolk Barber is a narrative game where every haircut is a conversation. You play as Freddie, a barber running a",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4093320,web_result,unknown_date,/goto?url=CAESYwHuR6pNSZhE2u14dwqZyCiqlnLuqssy2ThlrwvQ5HKvNQWB_EAscGUgBJIYDzb9mMGmYCT4sgc4jHq0EF1R2abldnDDq-IbZd2yeu_ItX43SFFk_f0HOu7ne023MdTsII4RNA%3D%3D,Beastfolk Barber Demo Trailer | Wholesome Games ...,"Beastfolk Barber is set in a modern city where beastfolk live side by side with humans, navigating the tension between who they're expected",,"trailer, demo",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+4093320,web_result,unknown_date,/goto?url=CAESbAHuR6pNk4QowwGBpr0CvRoT-O2MZ74u2RxteiBAZU9SHyC-0m4g8esUtSX1BJviQ4qe47ugn92qBo0PTVXgg6440KMR6AeFJqUtsZc-MDIGo2zqBdF6PIVBHwdbH6S_Uk_2f8yhY1YUdBBFMQ%3D%3D,The Beastfolk Barber demo is now live ...,"The Beastfolk Barber demo is now live for @_wholesomegames. Run a barber shop for beastfolk, chat with your customers, and help them find ...Read more",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4093320,web_result,unknown_date,/goto?url=CAEShAEB7keqTTr94I0n8LBP3vNsyG-ZtTpWLvfGMhAx7W6Kv5ZPRFFdMCO2TK9EcTxVlYvf45eB8HySW4XvT8OyD0Zt9HR2t8eFPMKKZgfaEoKZoQ84UfMe83WNcYYC7BhxRO85BH7NHkBc_HvBXdn5w2i-nNAH73ZJfTEi67SeU9tEYzGyIFU%3D,"'Beastfolk Barber' Steam Demo Live, New Trailer | DayOne","2 days ago — This demo is available for PCs running Windows and macOS (M1 and up), letting players have a glimpse into this coming cosy narrative game where",,"trailer, demo",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+4093320,web_result,unknown_date,/goto?url=CAESlgEB7keqTc2sWSE8yTyf97svnfHwi9wl4gx4eIGZmt9h9XJMjJ456PYTMkasOPcI_L8XTdBE0Y8CfdPKncDmDVbPWXNl7eCs6-tQEK4rLHxhFXjrMYbsxvLH5RGBvRT-UVwpwyfYBT6OB7WWPuHHFct4tNXfr7mMtElOOWcRS6WaH6JrddiBkOfG_fRkh4nce_MtabU_f8A%3D,Beastfolk Barber Demo Trailer | Wholesome Games ...,"it introduces a mafia mob that ""breeds"" purebred species children to sell on the black market. s a game about anthro animals,",,"trailer, demo",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+4093320,web_result,unknown_date,https://www.ign.com/games/beastfolk-barber,Beastfolk Barber,"Visual Novel
+
+## Beastfolk Barber News
+
+Videos
+
+Jun 6, 2026
+
+Beastfolk Barber - Official Announcement Trailer | Wholesome Direct 2026
+
+Jun 6, 2026 [...] # Beastfolk Barber
+
+Safe Flight Games, +1 more
+
+•
+
+Initial Release: TBA
+
+•PC
+
+NR
+
+IGN Rating
+
+OverviewPlaylistsReviews
+
+### Images & Screenshots
+
+### Summary
+
+In Beastfolk Barber (code name: Project Salon), you're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+Developers
+
+Safe Flight Games, GameWorks Ventures
+
+Publishers
+
+Sigono Inc.
+
+Initial Release
+
+TBA
+
+Platforms
+
+PC
+
+Genres
+
+Visual Novel",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4093320,web_result,unknown_date,https://www.youtube.com/watch?v=xcofXbUHyP8,Beastfolk Barber Announcement Trailer | Wholesome Direct 2026,"### Description
+5011 views
+Posted: 6 Jun 2026
+ Beastfolk Barber is set in a modern city where beastfolk live side by side with humans, navigating the tension between who they're expected to be and who they are. As their barber, you're someone they can open up to. With every conversation and every cut, you help them become who they truly are. Coming to Steam!  #summergamefest #wholesomedirect2026 #wholesomedirect
+
+10 comments
+### Transcript:
+[music] Heat. [music] Heat. [...] # Beastfolk Barber Announcement Trailer | Wholesome Direct 2026
+## Wholesome Games
+61700 subscribers
+375 likes",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4093320,web_result,unknown_date,https://store.steampowered.com/app/4093320/Beastfolk_Barber,Beastfolk Barber on Steam,")
+
+Features
+
+Single-player
+
+Family Sharing
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+
+Title: Beastfolk Barber  
+ Genre: Adventure, Casual, Indie, Simulation  
+
+Developer: Safe Flight Games, GameWorks Ventures
+
+Publisher: SIGONO INC.
+
+Release Date: To be announced [...] All Games > Indie Games > Beastfolk Barber
+
+Community Hub
+
+Beastfolk Barber
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Beastfolk Barber
+
+Beastfolk Barber
+
+Developer
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher
+
+SIGONO INC.
+
+Released
+
+To be announced
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer: [...] X External   Threads External   YouTube External   Bilibili External   Facebook External   Discord External   Weibo External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Awards
+
+Awards
+
+Links & info
+
+# Download Beastfolk Barber Demo
+
+Learn more about this demo
+
+Download
+
+This game is not yet available on Steam
+
+# Planned Release Date: To be announced",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+4093320,web_result,unknown_date,https://steamcommunity.com/app/4093320,Beastfolk Barber - Steam Community,"6 Aug
+
+Hi everyone,
+
+We can finally share the news: the free Beastfolk Barber demo is out now! ✂️
+
+Our little barber shop is ready to welcome its first customers, and we’ve also released a brand-new trailer to mark the occasion.
+
+In Beastfolk Barber, a haircut is more than a change in style. It’s also how you begin to know each customer.
+
+Between every snip and conversation, you’ll hear about their worries, their hopes, and the things they haven’t been able to say out loud. [...] 49 minutes ago](
+
+General Discussions
+
+Beastfolk Barber - Official Reveal Trailer
+
+6 Jun
+
+Hey there,
+
+Project Salon is now officially titled Beastfolk Barber.
+
+We’re thrilled to share that Beastfolk Barber has officially made its debut at the global games showcase Summer Game Fest, with its first trailer premiering during the official featured showcase Wholesome Direct.
+
+A snip here, a story there. Nowhere's more honest than the barber's chair. [...] Store Page
+
+Beastfolk Barber
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Beastfolk Barber
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Our Doors Are Open! The Beastfolk Barber Demo Is Out Now
+
+6 Aug",,"trailer, demo, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'showcase'] (+20)",general
+4093320,web_result,unknown_date,https://www.siliconera.com/project-salon-beastfolk-barber-game-gets-a-steam-page,Project Salon Beastfolk Barber Game Gets a Steam Page - Siliconera,"Here are the three screenshots:
+
+ 
+
+Images via Sigono, Safe Flight Games, GameWorks Ventures and Shueisha
+
+Project Salon is currently in development for PCs, though there’s no release date or official name for the beastfolk barber game yet.
+
+Jenni Lada
+
+About The Author
+
+Jenni Lada [...] Sigono, Safe Flight Games, GameWorks Ventures and Shueisha shared an update on Project Salon, an upcoming pixel art and beastfolk barber adventure game about running a salon for furry characters. This is the first time Signono is tied to the title as a publisher. The Steam page is live for the PC title and there are now three screenshots offering looks at the title. Thanks, [4Gamer!]
+
+Recommended Videos [...] More recent comments
+
+  
+  
+   
+  
+
+#### Follow us:
+
+ ##### Facebook
+ ##### X
+
+ Home
+ Siliconera+
+ Nintendo
+  + Nintendo Switch
+  + Nintendo 3DS
+  + Wii U
+  + Wii
+ PlayStation
+  + PlayStation 5
+  + PlayStation 4
+  + PlayStation 3
+  + PlayStation Vita
+ Xbox
+  + Xbox Series X
+  + Xbox One
+  + Xbox 360
+ PC
+ Mobile
+  + Android
+  + iOS
+ Reviews
+ Interviews
+ Playtests
+ More
+  + About Us
+  + Contact
+  + Site Rules
+  + Privacy Policy
+  + Terms of Use
+  + Affiliate Policy",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4093320,web_result,unknown_date,https://steamcommunity.com/app/4093320,Beastfolk Barber - Steam Community,"6 Aug
+
+Hi everyone,
+
+We can finally share the news: the free Beastfolk Barber demo is out now! ✂️
+
+Our little barber shop is ready to welcome its first customers, and we’ve also released a brand-new trailer to mark the occasion.
+
+In Beastfolk Barber, a haircut is more than a change in style. It’s also how you begin to know each customer.
+
+Between every snip and conversation, you’ll hear about their worries, their hopes, and the things they haven’t been able to say out loud. [...] 49 minutes ago](
+
+General Discussions
+
+Beastfolk Barber - Official Reveal Trailer
+
+6 Jun
+
+Hey there,
+
+Project Salon is now officially titled Beastfolk Barber.
+
+We’re thrilled to share that Beastfolk Barber has officially made its debut at the global games showcase Summer Game Fest, with its first trailer premiering during the official featured showcase Wholesome Direct.
+
+A snip here, a story there. Nowhere's more honest than the barber's chair. [...] Store Page
+
+Beastfolk Barber
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Beastfolk Barber
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Our Doors Are Open! The Beastfolk Barber Demo Is Out Now
+
+6 Aug",,"trailer, demo, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'showcase'] (+20)",general
+4093320,web_result,unknown_date,https://ctrlaltnoob.com/tag/beastfolk-barber,Beastfolk Barber – CtrlAltNoob,"Release Date: To be announced
+
+In Beastfolk Barber (code name: Project Salon), you’re a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror… and in themselves.
+
+Wishlist Beastfolk Barber on Steam here.
+
+# Croakwood
+
+Developer: Texel Raptor
+
+Release Date: Coming soon [...] Wishlist Fields of Mistria on Steam here.
+
+# Fourleaf Fields
+
+Developer: BEHEMUTT
+
+Release Date: To be announced
+
+Welcome to the tiny world of Fourleaf Fields, a cozy farming life sim where you’re no bigger than a carrot. Grow towering crops, care for tiny farm bugs, and uncover a web of secrets fueled by gossip – solo or online with friends!
+
+Wishlist Fourleaf Fields on Steam here.
+
+# Momento
+
+Developer: Fat Alien Cat, Nomo Studio
+
+Release Date: 6 Jun 2026 [...] Join Dalia, the Nature Witch, on a heartwarming journey to restore her hometown. Tidy spaces, design magical rooms, solve gentle puzzles, and soothe magical creatures affected by mysterious corruption bringing warmth and peace back to the town. 🌸
+
+Wishlist Design and Conjure on Steam here, and there is currently a demo available!
+
+# Dressmaker
+
+Developer: Cozy Lives
+
+Release Date: September 2026",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+4093320,web_result,unknown_date,https://store.steampowered.com/app/4093320/Beastfolk_Barber,Beastfolk Barber on Steam,"All Games > Indie Games > Beastfolk Barber
+
+Community Hub
+
+Beastfolk Barber
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Beastfolk Barber
+
+Beastfolk Barber
+
+Developer
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher
+
+SIGONO INC.
+
+Released
+
+To be announced
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer: [...] )
+
+Features
+
+Single-player
+
+Family Sharing
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+
+Title: Beastfolk Barber  
+ Genre: Adventure, Casual, Indie, Simulation  
+
+Developer: Safe Flight Games, GameWorks Ventures
+
+Publisher: SIGONO INC.
+
+Release Date: To be announced [...] Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+Beastfolk Barber is a narrative game where every haircut is a conversation. You play as Freddie, a barber running a small shop for beastfolk of all shapes and sizes. With every cut and chat, learn what your customers like, what they need, and who they want to be.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4093320,web_result,unknown_date,https://www.ign.com/games/beastfolk-barber,Beastfolk Barber,"Visual Novel
+
+## Beastfolk Barber News
+
+Videos
+
+Jun 6, 2026
+
+Beastfolk Barber - Official Announcement Trailer | Wholesome Direct 2026
+
+Jun 6, 2026 [...] # Beastfolk Barber
+
+Safe Flight Games, +1 more
+
+•
+
+Initial Release: TBA
+
+•PC
+
+NR
+
+IGN Rating
+
+OverviewPlaylistsReviews
+
+### Images & Screenshots
+
+### Summary
+
+In Beastfolk Barber (code name: Project Salon), you're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+Developers
+
+Safe Flight Games, GameWorks Ventures
+
+Publishers
+
+Sigono Inc.
+
+Initial Release
+
+TBA
+
+Platforms
+
+PC
+
+Genres
+
+Visual Novel",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4093320,web_result,unknown_date,https://www.techtimes.com/articles/323601/20260807/beastfolk-barber-free-demo-drops-every-wrong-haircut-loses-customer-permanently.htm,Beastfolk Barber Free Demo Drops: Every Wrong Haircut Loses Customer Permanently,"The key mechanic is the Mysterious Mirror preview system, a device left by Freddie's late friend that can project a preview of a proposed hairstyle before a single cut is made. Those previews are limited — a resource to spend wisely. Get the read wrong, execute the wrong cut, and a dissatisfied customer may simply never return. The game is direct about the consequence: the Steam page states that how well each haircut goes ""affects your customers' stories and the chances you'll see them again. [...] Both games place a service worker at the center of a fantasy world where multiple species coexist, and both use the job as a vehicle for emotional conversations with customers. The key mechanical difference is consequence: in Beastfolk Barber, giving a customer a haircut they dislike may cause them to never return, permanently closing off that character's story arc. The Demon's Mirror preview system — which gives limited uses before you have to commit to a cut — is the specific mechanic that [...] The free demo for Beastfolk Barber — a narrative barbershop game from Safe Flight Games and Taiwanese publisher SIGONO INC. — launched August 6 on Steam as part of the ongoing Wholesome Games Celebration 2026, and early players have responded warmly to what may be the first cozy game to make you genuinely afraid of cutting someone's hair wrong. Unlike Coffee Talk's passive listen-and-serve loop, Beastfolk Barber introduces real mechanical stakes: give a customer a haircut they hate, and they",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4093320,web_result,unknown_date,https://steamcommunity.com/app/4093320,Beastfolk Barber - Steam Community,"6 Aug
+
+Hi everyone,
+
+We can finally share the news: the free Beastfolk Barber demo is out now! ✂️
+
+Our little barber shop is ready to welcome its first customers, and we’ve also released a brand-new trailer to mark the occasion.
+
+In Beastfolk Barber, a haircut is more than a change in style. It’s also how you begin to know each customer.
+
+Between every snip and conversation, you’ll hear about their worries, their hopes, and the things they haven’t been able to say out loud. [...] 49 minutes ago](
+
+General Discussions
+
+Beastfolk Barber - Official Reveal Trailer
+
+6 Jun
+
+Hey there,
+
+Project Salon is now officially titled Beastfolk Barber.
+
+We’re thrilled to share that Beastfolk Barber has officially made its debut at the global games showcase Summer Game Fest, with its first trailer premiering during the official featured showcase Wholesome Direct.
+
+A snip here, a story there. Nowhere's more honest than the barber's chair. [...] Store Page
+
+Beastfolk Barber
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Beastfolk Barber
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Our Doors Are Open! The Beastfolk Barber Demo Is Out Now
+
+6 Aug",,"trailer, demo, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'showcase'] (+20)",general
+4093320,web_result,unknown_date,https://playday.one/2026/08/07/beastfolk-barber-steam-demo-live-new-trailer,"'Beastfolk Barber' Steam Demo Live, New Trailer | DayOne - XboxEra","Additionally, for the occasion (being made part of the recently aired Wholesome Celebration 2026), a new trailer was made available for your perusal:
+
+Beastfolk Barber will launch when it’s good and ready. Keep an eye out for a potential demo preview from us—if I can find the time to, that is…
+
+Enjoying DayOne? Do us a favour, and make us a ‘Preferred Source on Google‘ – that way, you’ll only be delivered more gaming coverage from our team. [...] This demo is available for PCs running Windows and macOS (M1 and up), letting players have a glimpse into this coming cosy narrative game where you groom beastfolk customers, chat with them, and discover the stories behind the looks they ask for. As the publisher put it to us, “think Coffee Talk, but with haircuts for beastfolk.” That’s pretty rad. [...] This week, Safe Flight Games, GameWorks Ventures, and SIGONO INC. dropped a brand-new Steam demo for their upcoming interactive narrative adventure title ‘Beastfolk Barber’.",,"trailer, demo",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+4093320,web_result,unknown_date,https://store.steampowered.com/app/4093320/Beastfolk_Barber,Beastfolk Barber on Steam,"Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+Beastfolk Barber is a narrative game where every haircut is a conversation. You play as Freddie, a barber running a small shop for beastfolk of all shapes and sizes. With every cut and chat, learn what your customers like, what they need, and who they want to be. [...] Created by Freddie's late friend, this mirror can show customers their new hairstyle before you make the first cut. But previews are limited, so watch their reactions and make every choice count.
+
+ Haircuts and Conversations
+
+Every customer brings a different challenge to the barber's chair. Listen, observe, and find the look they're really after. As you cut their hair, customers open up about everyday worries unique to their species. And every haircut brings you closer to who they really are. [...] All Games > Indie Games > Beastfolk Barber
+
+Community Hub
+
+Beastfolk Barber
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Beastfolk Barber
+
+Beastfolk Barber
+
+Developer
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher
+
+SIGONO INC.
+
+Released
+
+To be announced
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer:",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4093320,web_result,unknown_date,https://www.ign.com/games/beastfolk-barber,Beastfolk Barber,"# Beastfolk Barber
+
+Safe Flight Games, +1 more
+
+•
+
+Initial Release: TBA
+
+•PC
+
+NR
+
+IGN Rating
+
+OverviewPlaylistsReviews
+
+### Images & Screenshots
+
+### Summary
+
+In Beastfolk Barber (code name: Project Salon), you're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+Developers
+
+Safe Flight Games, GameWorks Ventures
+
+Publishers
+
+Sigono Inc.
+
+Initial Release
+
+TBA
+
+Platforms
+
+PC
+
+Genres
+
+Visual Novel [...] Visual Novel
+
+## Beastfolk Barber News
+
+Videos
+
+Jun 6, 2026
+
+Beastfolk Barber - Official Announcement Trailer | Wholesome Direct 2026
+
+Jun 6, 2026",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4093320,web_result,unknown_date,https://store.steampowered.com/app/4920000/Beastfolk_Barber_Demo,Beastfolk Barber Demo on Steam,"+
+
+Reviews
+
+All Reviews:
+
+All Time: Very Positive (95% of 95)
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player
+
+Game demo
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+
+Title: Beastfolk Barber Demo  
+ Genre: Casual, Indie, Simulation  
+
+Developer: Safe Flight Games, GameWorks Ventures [...] Minimum:  
+
++ OS: macOS Monterey
++ Processor: 2.7 GHz Dual-Core Intel Core i5
++ Memory: 8 GB RAM
++ Graphics: Intel Iris Graphics 6100
++ Storage: 2 GB available space
++ Additional Notes: Runs at 30 FPS at 1920 × 1080 resolution.
+
+Recommended:
+
+## Customer reviews for Beastfolk Barber Demo About user reviews Your preferences
+
+Overall Reviews:
+
+Very Positive (95 reviews)
+
+Customize
+
+To view reviews within a date range, please click and drag a selection on a graph above or click on a specific bar. [...] All Reviews:
+
+Very Positive  (95)   - 95% of the 95 user reviews for this demo are positive.
+
+Release Date:
+
+6 Aug, 2026
+
+Developer:
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher:
+
+SIGONO INC.
+
+Tags
+
+Popular user-defined tags for this product:
+
+Visual Novel  Story Rich  Cozy  Interactive Fiction  Choices Matter  Atmospheric  Casual  Relaxing  Simulation  Dialogue Heavy  Narrative  LGBTQ+  2D  Emotional  Anime  Dragons  Female Protagonist  Philosophical  Indie  Fantasy 
+
++
+
+Reviews",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+4093320,web_result,unknown_date,https://steamcommunity.com/app/4093320,Beastfolk Barber - Steam Community,"6 Aug
+
+Hi everyone,
+
+We can finally share the news: the free Beastfolk Barber demo is out now! ✂️
+
+Our little barber shop is ready to welcome its first customers, and we’ve also released a brand-new trailer to mark the occasion.
+
+In Beastfolk Barber, a haircut is more than a change in style. It’s also how you begin to know each customer.
+
+Between every snip and conversation, you’ll hear about their worries, their hopes, and the things they haven’t been able to say out loud. [...] You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+Beastfolk Barber is developed by Safe Flight Games, originally incubated by GameWorks, with development and publishing support from SIGONO.
+
+Beastfolk Barber
+
+50
+
+4
+
+Please dont tell me thats Ironmouse at the end....
+
+I'm not going to buy a game with her in it
+
+3
+
+[Cyber Witch ~
+
+3 hours ago](
+
+General Discussions
+
+Cannot Start the Demo.. [...] 49 minutes ago](
+
+General Discussions
+
+Beastfolk Barber - Official Reveal Trailer
+
+6 Jun
+
+Hey there,
+
+Project Salon is now officially titled Beastfolk Barber.
+
+We’re thrilled to share that Beastfolk Barber has officially made its debut at the global games showcase Summer Game Fest, with its first trailer premiering during the official featured showcase Wholesome Direct.
+
+A snip here, a story there. Nowhere's more honest than the barber's chair.",,"trailer, demo, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'showcase'] (+20)",general
+4093320,web_result,unknown_date,https://store.steampowered.com/app/4093320/Beastfolk_Barber,Beastfolk Barber on Steam,"Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+Beastfolk Barber is a narrative game where every haircut is a conversation. You play as Freddie, a barber running a small shop for beastfolk of all shapes and sizes. With every cut and chat, learn what your customers like, what they need, and who they want to be. [...] All Games > Indie Games > Beastfolk Barber
+
+Community Hub
+
+Beastfolk Barber
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Beastfolk Barber
+
+Beastfolk Barber
+
+Developer
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher
+
+SIGONO INC.
+
+Released
+
+To be announced
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer: [...] You can write your own review for this product to share your experience with the community. Use the area above the purchase buttons on this page to write your review.
+
+You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam.
+
+Enter up to 375 characters to add a description to your widget:
+
+Create widget
+
+Copy and paste the HTML below into your website to make the above widget appear",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4093320,web_result,unknown_date,https://www.ign.com/videos/beastfolk-barber-official-announcement-trailer-wholesome-direct-2026,Beastfolk Barber - Official Announcement Trailer | Wholesome Direct 2026 - IGN,"Beastfolk Barber •
+
+# Beastfolk Barber - Official Announcement Trailer | Wholesome Direct 2026
+
+Beastfolk Barber is set in a modern city where beastfolk live side by side with humans, navigating the tension between who they're expected to be and who they are. As their barber, you're someone they can open up to. With every conversation and every cut, you help them become who they truly are.
+
+Head over to Steam and add the game to your wishlist.
+
+### Did you enjoy this video?
+
+### In This Video",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4093320,web_result,unknown_date,https://store.steampowered.com/app/4093320/Beastfolk_Barber,Beastfolk Barber on Steam,")
+
+Features
+
+Single-player
+
+Family Sharing
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+
+Title: Beastfolk Barber  
+ Genre: Adventure, Casual, Indie, Simulation  
+
+Developer: Safe Flight Games, GameWorks Ventures
+
+Publisher: SIGONO INC.
+
+Release Date: To be announced [...] All Games > Indie Games > Beastfolk Barber
+
+Community Hub
+
+Beastfolk Barber
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Beastfolk Barber
+
+Beastfolk Barber
+
+Developer
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher
+
+SIGONO INC.
+
+Released
+
+To be announced
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer: [...] Developer:
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher:
+
+SIGONO INC.
+
+Tags
+
+Popular user-defined tags for this product:
+
+Dialogue Heavy  Relaxing  Interactive Fiction  Visual Novel  Atmospheric  Simulation  2D  Pixel Graphics  Choices Matter  Story Rich  Casual  Fantasy  Anime  Emotional  Narrative  Cozy  Female Protagonist  Adventure  Philosophical  Singleplayer 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4093320,web_result,unknown_date,https://store.steampowered.com/app/4093320,Beastfolk Barber on Steam,")
+
+Features
+
+Single-player
+
+Family Sharing
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+
+About IGRS Ratings on Steam
+
+ Click here to learn more
+
+Title: Beastfolk Barber  
+ Genre: Adventure, Casual, Indie, Simulation  
+
+Developer: Safe Flight Games, GameWorks Ventures
+
+Publisher: SIGONO INC.
+
+Release Date: To be announced [...] All Games > Indie Games > Beastfolk Barber
+
+Community Hub
+
+Beastfolk Barber
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Beastfolk Barber
+
+Beastfolk Barber
+
+Developer
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher
+
+SIGONO INC.
+
+Released
+
+To be announced
+
+You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer: [...] Developer:
+
+Safe Flight Games, GameWorks Ventures
+
+Publisher:
+
+SIGONO INC.
+
+Tags
+
+Popular user-defined tags for this product:
+
+Dialogue Heavy  Relaxing  Interactive Fiction  Visual Novel  Atmospheric  Simulation  2D  Pixel Graphics  Choices Matter  Story Rich  Casual  Fantasy  Anime  Emotional  Narrative  Cozy  Female Protagonist  Adventure  Philosophical  Singleplayer 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4093320,web_result,unknown_date,https://steamcommunity.com/app/4093320,Beastfolk Barber - Steam Community,"You're a barber in a city full of beastfolk. Chat with your customers, style their look, help them see something new in the mirror... and in themselves.
+
+Beastfolk Barber is developed by Safe Flight Games, originally incubated by GameWorks, with development and publishing support from SIGONO.
+
+Beastfolk Barber
+
+50
+
+4
+
+Please dont tell me thats Ironmouse at the end....
+
+I'm not going to buy a game with her in it
+
+3
+
+[Cyber Witch ~
+
+3 hours ago](
+
+General Discussions
+
+Cannot Start the Demo.. [...] 49 minutes ago](
+
+General Discussions
+
+Beastfolk Barber - Official Reveal Trailer
+
+6 Jun
+
+Hey there,
+
+Project Salon is now officially titled Beastfolk Barber.
+
+We’re thrilled to share that Beastfolk Barber has officially made its debut at the global games showcase Summer Game Fest, with its first trailer premiering during the official featured showcase Wholesome Direct.
+
+A snip here, a story there. Nowhere's more honest than the barber's chair. [...] 6 Aug
+
+Hi everyone,
+
+We can finally share the news: the free Beastfolk Barber demo is out now! ✂️
+
+Our little barber shop is ready to welcome its first customers, and we’ve also released a brand-new trailer to mark the occasion.
+
+In Beastfolk Barber, a haircut is more than a change in style. It’s also how you begin to know each customer.
+
+Between every snip and conversation, you’ll hear about their worries, their hopes, and the things they haven’t been able to say out loud.",,"trailer, demo, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'showcase'] (+20)",general
+4093320,web_result,unknown_date,https://www.siliconera.com/project-salon-beastfolk-barber-game-gets-a-steam-page,Project Salon Beastfolk Barber Game Gets a Steam Page - Siliconera,"Sigono, Safe Flight Games, GameWorks Ventures and Shueisha shared an update on Project Salon, an upcoming pixel art and beastfolk barber adventure game about running a salon for furry characters. This is the first time Signono is tied to the title as a publisher. The Steam page is live for the PC title and there are now three screenshots offering looks at the title. Thanks, [4Gamer!]
+
+Recommended Videos [...] Here are the three screenshots:
+
+ 
+
+Images via Sigono, Safe Flight Games, GameWorks Ventures and Shueisha
+
+Project Salon is currently in development for PCs, though there’s no release date or official name for the beastfolk barber game yet.
+
+Jenni Lada
+
+About The Author
+
+Jenni Lada [...] Jenni Lada
+
+Jenni is Editor-in-Chief at Siliconera and has been playing games since getting access to her parents' Intellivision as a toddler. She continues to play on every possible platform and loves all of the systems she owns. (These include a PS4, Switch, Xbox One, WonderSwan Color and even a Vectrex!) You may have also seen her work at GamerTell, Cheat Code Central, Michibiku and PlayStation LifeStyle.
+
+ e-mail
+ Twitter
+
+More Stories by Jenni Lada
+
+### Popular
+
+- More popular stories",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4093320,web_result,unknown_date,https://www.siliconera.com/project-salon-beastfolk-barber-game-gets-a-steam-page,Project Salon Beastfolk Barber Game Gets a Steam Page - Siliconera,"Here are the three screenshots:
+
+ 
+
+Images via Sigono, Safe Flight Games, GameWorks Ventures and Shueisha
+
+Project Salon is currently in development for PCs, though there’s no release date or official name for the beastfolk barber game yet.
+
+Jenni Lada
+
+About The Author
+
+Jenni Lada [...] Sigono, Safe Flight Games, GameWorks Ventures and Shueisha shared an update on Project Salon, an upcoming pixel art and beastfolk barber adventure game about running a salon for furry characters. This is the first time Signono is tied to the title as a publisher. The Steam page is live for the PC title and there are now three screenshots offering looks at the title. Thanks, [4Gamer!]
+
+Recommended Videos [...] logo
+
+ Dark Mode
+ Reddit
+
+logo
+
+Menu
+
+NewsPC
+
+# Project Salon Beastfolk Barber Game Gets a Steam Page
+
+Jenni LadaBy Jenni Lada
+
+Project Salon Beastfolk Barber Game Gets a Steam Page
+
+Image via Safe Flight Games and GameWorks Ventures",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4093320,web_result,unknown_date,https://www.siliconera.com?p=1110601,Project Salon Beastfolk Barber Game Gets a Steam Page - Siliconera,"Here are the three screenshots:
+
+ 
+
+Images via Sigono, Safe Flight Games, GameWorks Ventures and Shueisha
+
+Project Salon is currently in development for PCs, though there’s no release date or official name for the beastfolk barber game yet.
+
+Jenni Lada
+
+About The Author
+
+Jenni Lada [...] Sigono, Safe Flight Games, GameWorks Ventures and Shueisha shared an update on Project Salon, an upcoming pixel art and beastfolk barber adventure game about running a salon for furry characters. This is the first time Signono is tied to the title as a publisher. The Steam page is live for the PC title and there are now three screenshots offering looks at the title. Thanks, [4Gamer!]
+
+Recommended Videos [...] logo
+
+ Dark Mode
+ Reddit
+
+logo
+
+Menu
+
+NewsPC
+
+# Project Salon Beastfolk Barber Game Gets a Steam Page
+
+Jenni LadaBy Jenni Lada
+
+Project Salon Beastfolk Barber Game Gets a Steam Page
+
+Image via Safe Flight Games and GameWorks Ventures",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4093320,reddit_discussion,unknown_date,https://www.reddit.com/r/Indiegamedeveloper/comments/1vj84ub/come_for_beastfolk_barbers_cute_furry,"Come for Beastfolk Barber's cute, furry hairdressing, but ...","Beastfolk Barber's cute, furry hairdressing, but stay for its thoughtful approach to worldbuilding. Interesting worldbuilding detail.",,,30,weak,Reddit (+10); Exact title match (+20),social
+4093320,reddit_discussion,unknown_date,https://www.reddit.com/r/furgonomics/comments/1viv4ts/wolf_motorcycle_helmet_from_beastfolk_barber,Wolf Motorcycle helmet from Beastfolk Barber : r/furgonomics,Wolf Motorcycle helmet from Beastfolk Barber. Found the Wolf hat I knew I had somewhere! 24 10 Wolf Head piece I drew.,,,30,weak,Reddit (+10); Exact title match (+20),social
+4093320,social_post,unknown_date,https://www.tiktok.com/discover/barber-rig,Barber Rig | TikTok,"Discover the essential features of the barber rig and how the SLCKR vest enhances your barbering experience for better efficiency. barber rig, slckr barber vest, essentials for barber workflow. Discover the essential features of the barber rig and how the SLCKR vest enhances your barbering experience for better efficiency. barber rig, slckr barber vest, essentials for barber workflow. If you think it may contain an error, please report at: Feedback and help - TikTok. New barber rig @SLCKR #slckr #barber #dallasbarber #vest #barbervest #beginnerbarber #fyp #explore. Its The Rig by @slckrusa keeps the essentials close by for more efficient workflow🔥 #barber #barberproducts #barbertools #slckr #FrescoBlendz Barber Chest Rig: The Rig by SLCKRUSA for Efficient Workflow. Discover the essential barber chest rig, The Rig by @slckrusa, designed to keep tools close for efficient workflow. barber chest rig, barber rig, barber chest, barber products, barber tools, slckr, FrescoBlendz, chest rig, barber kit, barber chest rig by SLCKRUSA. The Rig 🤝 a wearable tool station for the barber #barbertools #barberproducts #barber #hairstylist #barbershop #salon #fyp. Tool fitting a Barber Utility Rig #barber #barbertools #barberproducts #utility #productdesign Barber Utility Rig Tool Demonstration. Watch a demonstration of how to set up the Barber Utility Rig tool for maximum efficiency and convenience. Barber Utility Rig tool, Barber Utility Rig setup, Barber Utility Rig demonstration, Barber tool fitting, Utility products for barbers, Barber chest rig, Product design for barbers. The tool that holds it all✂️ #barbertools #barberproducts #barber #hairstylist #barbershop #salon #fyp. Everything the barber chest rig holds✂️ #barber #barberproducts #barbershop #barberwear #asmr #oddlysatisfying #barbertools #fyp. ASMR tool fitting #barbertools #barberproducts #barber #hairstylist #barbershop #salon #asmr #barberasmr #oddlysatisfying #fyp ASMR Barber Tools Fitting for Oddly Satisfying Sensations. #barbertools #barberproducts #barber #hairstylist #barbershop #salon #asmr #barberasmr #oddlysatisfying #fyp. ASMR barber tools fitting, barber products, hairstylist, barber shop, salon, ASMR, barber ASMR, oddly satisfying, chest rig ASMR. Cut hair anywhere with the rig #barbertools #barberproducts #barber #hairstylist #barbershop #salon #fyp. #barbertools #barberproducts #barber #hairstylist #barbershop #salon #fyp. Tool fotting our barber chest rig #barber #asmr #oddlysatisfying #barbertools #fyp #foryou. Eliminate all tool clutter with The Rig #barbertools #barberproducts #barber #barbershop #workwear #hairstylist #salon #fyp. Tool fitting our barber rig in beige 🫰 #barberlife #barber #fyp #barbershop.",,demo,25,weak,Social Index (+5); Keywords ['demo'] (+20),social
+4093320,social_post,unknown_date,https://x.com/_wholesomegames/status/2063295186214523183,"Wholesome Games | Celebration August 6-13 on X: ""WORLD PREMIERE: Beastfolk Barber is a narrative hair-styling game set in a city where humans and beastfolk live side by side. Between the scissors and the small talk, secrets are revealed! #WholesomeDirect2026 https://t.co/TBksAn3WgG"" / X","Beastfolk Barber on SteamFrom store.steampowered.com
+ user avatar
+
+  Jessica Given
+
+  @dancinjlg
+
+  Jun 6
+
+  That person at the end looks kind of familiar..... [...] Log inSign up
+
+## Post
+
+ user avatar
+
+  Wholesome Games | Celebration August 6-13
+
+  @\_wholesomegames
+
+  WORLD PREMIERE: Beastfolk Barber is a narrative hair-styling game set in a city where humans and beastfolk live side by side. Between the scissors and the small talk, secrets are revealed! #WholesomeDirect2026
+
+  
+
+  00:00
+
+  4:21 PM · Jun 6, 202623.7KViews
+ user avatar
+
+  Wholesome Games | Celebration August 6-13
+
+  @\_wholesomegames
+
+  Jun 6
+
+  Follow @SafeFlightGames, @sigonogames",,,25,weak,Social Index (+5); Exact title match (+20),social
+4093320,web_result,unknown_date,https://monstervine.com/2026/06/beastfolk-barber-revealed-wholesome-direct-2026,"Beastfolk Barber Revealed, Blending Haircuts With Heartfelt Narrative Choices - MonsterVine","Published
+
+ + Flipboard + Reddit + Pinterest + Whatsapp + Whatsapp + Email
+
+Safe Flight Games and Sigono have revealed Beastfolk Barber, a narrative barbershop game where every haircut leads to a personal conversation.
+
+Set in a city of beastfolk, the game puts players behind the chair of a small barbershop, meeting customers who are ready to change how they look and, in some cases, how they see themselves.
+
+## Haircuts, Conversation, and Identity [...] Beastfolk Barber centers on the intimate ritual of giving someone a new look.
+
+Players cut and style hair while listening to customers share stories about identity, prejudice, social pressure, and the parts of themselves they choose to show or hide.
+
+The setup brings to mind narrative games like Coffee Talk and VA-11 Hall-A, but with more hands-on interaction as players shape each customer’s appearance.
+
+## A City of Beastfolk Stories [...] Each customer brings their own personality, concerns, and reason for sitting in the chair.
+
+Some may want a practical cut. Others may be looking for a way to express something they have kept buried. Through conversation and styling choices, players help them take a step toward who they want to become.
+
+## Safe Flight Games’ Commercial Debut
+
+Beastfolk Barber is the commercial debut from Safe Flight Games.",,,20,weak,Exact title match (+20),general
+4093320,web_result,unknown_date,https://monstervine.com/2026/06/beastfolk-barber-revealed-wholesome-direct-2026,"Beastfolk Barber Revealed, Blending Haircuts With ...","Published
+
+ + Flipboard + Reddit + Pinterest + Whatsapp + Whatsapp + Email
+
+Safe Flight Games and Sigono have revealed Beastfolk Barber, a narrative barbershop game where every haircut leads to a personal conversation.
+
+Set in a city of beastfolk, the game puts players behind the chair of a small barbershop, meeting customers who are ready to change how they look and, in some cases, how they see themselves.
+
+## Haircuts, Conversation, and Identity [...] Beastfolk Barber centers on the intimate ritual of giving someone a new look.
+
+Players cut and style hair while listening to customers share stories about identity, prejudice, social pressure, and the parts of themselves they choose to show or hide.
+
+The setup brings to mind narrative games like Coffee Talk and VA-11 Hall-A, but with more hands-on interaction as players shape each customer’s appearance.
+
+## A City of Beastfolk Stories [...] Each customer brings their own personality, concerns, and reason for sitting in the chair.
+
+Some may want a practical cut. Others may be looking for a way to express something they have kept buried. Through conversation and styling choices, players help them take a step toward who they want to become.
+
+## Safe Flight Games’ Commercial Debut
+
+Beastfolk Barber is the commercial debut from Safe Flight Games.",,,20,weak,Exact title match (+20),general
+4093320,web_result,unknown_date,https://monstervine.com/2026/06/beastfolk-barber-revealed-wholesome-direct-2026,"Beastfolk Barber Revealed, Blending Haircuts With ...","Tokyo-based publisher Shueisha Games and developer Sigono have announced a short delay for their upcoming single-player photo adventure, Opus: Prism Peak. The game will...
+
+William SawMarch 4, 2026 [...] Published
+
+ + Flipboard + Reddit + Pinterest + Whatsapp + Whatsapp + Email
+
+Safe Flight Games and Sigono have revealed Beastfolk Barber, a narrative barbershop game where every haircut leads to a personal conversation.
+
+Set in a city of beastfolk, the game puts players behind the chair of a small barbershop, meeting customers who are ready to change how they look and, in some cases, how they see themselves.
+
+## Haircuts, Conversation, and Identity [...] The team previously worked on Some Goodbyes We Made, which won the IndieCade 2025 Narrative Award and received a BAFTA Student Awards nomination.
+
+Sigono, the studio behind Opus: Prism Peak, is supporting the project.
+
+Beastfolk Barber is available to wishlist now on Steam.
+
+In this article:Beastfolk Barber, Safe Flight Games, Sigono
+
+Written By William Saw
+
+Co-Founder & Owner of MonsterVine. You can reach me via e-mail: will@monstervine.com",,,20,weak,Exact title match (+20),general
+4093320,web_result,unknown_date,https://www.gamersheroes.com/gaming-news/beastfolk-barber-sim-project-salon-revealed,Beastfolk Barber Sim Project Salon Revealed - Gamers Heroes,"...
+
+News
+
+# Beastfolk Barber Sim Project Salon Revealed
+
+Casey ScheldJanuary 21, 2026
+
+Facebook   X   Reddit   WhatsApp   Telegram
+
+Proving there’s nowhere’s more honest than the barber’s chair, Safe Flight Games, GameWorks Ventures, and SIGONO have revealed their new Steam title Project Salon.
+
+Featuring a Zootopia-style world with Coffee Talk-style deep conversations, Project Salon will transport players to a world where beastfolk of all kinds live side-by-side in the city with humans. [...] Living up to its title, Project Salon will let players chat with customers in a salon, all while styling their look. Players will even be able to help them see something new in the mirror – and themselves.
+
+In the interim, one can wishlist Project Salon via its official Steam page.
+
+One can also learn more via the official SIGONO website, and stay connected via their official Twitter/X social media channel.
+
+Source: Press Release [...] writing roles. Joining in 2012, his role as EIC lets him explore the human element, tapping into the stories - and passion! - that make us all love the medium.
+
+ Website
+ X
+ LinkedIn
+ YouTube
+
+### Leave a Reply Cancel reply
+
+Close
+
+Close",,,20,weak,Exact title match (+20),general
+4093320,web_result,unknown_date,https://www.gamersheroes.com?p=165725,Beastfolk Barber Sim Project Salon Revealed - Gamers Heroes,"...
+
+News
+
+# Beastfolk Barber Sim Project Salon Revealed
+
+Casey ScheldJanuary 21, 2026
+
+Facebook   X   Reddit   WhatsApp   Telegram
+
+Proving there’s nowhere’s more honest than the barber’s chair, Safe Flight Games, GameWorks Ventures, and SIGONO have revealed their new Steam title Project Salon.
+
+Featuring a Zootopia-style world with Coffee Talk-style deep conversations, Project Salon will transport players to a world where beastfolk of all kinds live side-by-side in the city with humans. [...] Living up to its title, Project Salon will let players chat with customers in a salon, all while styling their look. Players will even be able to help them see something new in the mirror – and themselves.
+
+In the interim, one can wishlist Project Salon via its official Steam page.
+
+One can also learn more via the official SIGONO website, and stay connected via their official Twitter/X social media channel.
+
+Source: Press Release [...] writing roles. Joining in 2012, his role as EIC lets him explore the human element, tapping into the stories - and passion! - that make us all love the medium.
+
+ Website
+ X
+ LinkedIn
+ YouTube
+
+### Leave a Reply Cancel reply
+
+Close
+
+Close",,,20,weak,Exact title match (+20),general
+4093320,social_post,unknown_date,https://www.tiktok.com/tag/barber,#barber | TikTok,"I know wifey was happy too with the transformation 😂😂 LINK IN BIO TO SET AN APPOINTMENT ‼️ _______________________________________ #[**#richmondvabarber**#**#richmondva**#**#vabarber**#**#rvabarber**#**#barber**#**#taperfade**#**#haircut**#**#nguyensteadycutting****#transformation**]( ""I really love these big chops lol. I know wifey was happy too with the transformation 😂😂 LINK IN BIO TO SET AN APPOINTMENT ‼️ _______________________________________ ##richmondvabarber##richmondva##vabarber##rvabarber##barber##taperfade##haircut##nguyensteadycutting#transformation "") My client needed an emergency cut at 12am so you know DUTY CALLS 🫡😭😂 [**#dutycalls****#fyp****#funnydog****#mydog****#funny****#barber****#trending****#fypシ****#viral****#love****#haircut****#backtoschool**]( ""My client needed an emergency cut at 12am so you know DUTY CALLS 🫡😭😂 #dutycalls #fyp #funnydog #mydog #funny #barber #trending #fypシ #viral #love #haircut #backtoschool "") Low Fade✨ [**#CapCut****#xuhuongtiktok****#xuhuong****#viral_video****#barber****#thoduoique**]( ""Low Fade✨ #CapCut#xuhuongtiktok #xuhuong #viral_video #barber #thoduoique "") The last one ☠️ [**#haircut****#barber****#haircuttransformation****#fadehaircut****#viral****#usa_tiktok****#usa🇺🇸**]( ""The last one ☠️ #haircut #barber #haircuttransformation #fadehaircut #viral #usa_tiktok #usa🇺🇸 "") 10 points to Gryffindor if anyone can guess where the mic is! Anyways his girl got a new man now 😂 LINK IN BIO TO SET AN APPOINTMENT ‼️ _______________________________________ #[**#richmondvabarber**#**#richmondva**#**#vabarber**#**#rvabarber**#**#barber**#**#taperfade**#**#haircut**#**#nguyensteadycutting****#texturedfringe**]( ""Textured Fringe for the Anniversary Homeboy got the textured fringe with a taper fade. Anyways his girl got a new man now 😂 LINK IN BIO TO SET AN APPOINTMENT ‼️ _______________________________________ ##richmondvabarber##richmondva##vabarber##rvabarber##barber##taperfade##haircut##nguyensteadycutting#texturedfringe "") He went 1 year with no haircut 😳💈 [**#vicblends****#barber****#BillboardNXT****#FlauntItChallenge****#HowIBathAndBodyWorks****#motivation****#atl****#atlanta****#haircut**]( ""He went 1 year with no haircut 😳💈 #vicblends #barber #BillboardNXT #FlauntItChallenge #HowIBathAndBodyWorks #motivation #atl #atlanta #haircut"") He was so excited to meet me, I had to bless him! He got a low blowout taper fade with a textured fringe on top ""like everybody else"" LINK IN BIO TO SET AN APPOINTMENT ‼️ _______________________________________ #[**#richmondvabarber**#**#richmondva**#**#vabarber**#**#rvabarber**#**#barber**#**#taperfade**#**#haircut**#**#nguyensteadycutting****#blowouttaper**]( ""Blowout taper This 17 y/o is getting a PS5 if he gets a haircut?? He got a low blowout taper fade with a textured fringe on top \""like everybody else\"" LINK IN BIO TO SET AN APPOINTMENT ‼️ _______________________________________ ##richmondvabarber##richmondva##vabarber##rvabarber##barber##taperfade##haircut##nguyensteadycutting#blowouttaper "") AYOOOOO..😳😹😹 [**#sus****#barber****#fyp**]( ""AYOOOOO..😳😹😹 #sus #barber #fyp"") He looks almost like a different person 😅 [**#barber****#haircut****#braids**]( ""He looks almost like a different person 😅 #barber #haircut #braids "") What will the students say??🧐🤔 [**#fypシ****#foryoupage****#share****#trending****#barber****#viral****#famous****#love****#hair****#hairtransformation****#fyp****#duet****#tiktok**]( ""What will the students say??🧐🤔 #fypシ #foryoupage #share #trending #barber #viral #famous #love #hair #hairtransformation #fyp #duet #tiktok"")",,,5,weak,Social Index (+5),social
+4093320,social_post,unknown_date,https://www.tiktok.com/tag/barber?lang=en,#barber | TikTok,"TikTok
+
+Log in
+
+TikTok
+
+Search
+
+For You
+
+Explore
+
+Following
+
+LIVE
+
+Upload
+
+Profile
+
+More
+
+Log in
+
+© 2026 TikTok
+
+## Notifications
+
+All activity Likes Comments Mentions and tags Followers
+
+All activity
+
+Notifications about your account will appear here.
+
+# #barber
+
+Something went wrong
+
+Sorry about that! Please try again later.
+
+Refresh
+
+Log in
+
+Log in
+
+Log in",,,5,weak,Social Index (+5),social
+4093320,social_post,unknown_date,https://www.tiktok.com/@barber.corvaia/video/7598142145337298184,Perth Barber | Barber Corvaia on TikTok,"Mid Taper Flow: The Ultimate Barber Trend in Perth | TikTok. 1. Mid taper flow 🔥#taper#barber#flow#perth#perthbarbers. Mid Taper Flow: The Ultimate Barber Trend in Perth. The Mid Taper Flow is a hairstyle that has been gaining popularity among barbers in Perth for its stylish appearance and versatility. This cut features a mid taper on the sides, seamlessly blending into longer hair on the top, which can be styled into a flowing look. For those considering the Mid Taper Flow, it is essential to communicate with your barber about the desired length on top and the taper's degree on the sides. Overall, the Mid Taper Flow with curtain bangs stands out as a fashionable and contemporary hairstyle choice in Perth, perfect for those wanting to express their individuality through their hair. Keywords: Mid taper flow hairstyle, curtain bangs, Perth barbers, stylish taper haircuts, barber trends in Perth, men's hairstyle trends, flow haircut styles, mid taper haircuts, trendy barber styles, curtain bangs barber. If you think it may contain an error, please report at: Feedback and help - TikTok. Mid Taper Flow: The Ultimate Barber Trend in Perth. The Mid Taper Flow is a hairstyle that has been gaining popularity among barbers in Perth for its stylish appearance and versatility. This cut features a mid taper on the sides, seamlessly blending into longer hair on the top, which can be styled into a flowing look. Overall, the Mid Taper Flow with curtain bangs stands out as a fashionable and contemporary hairstyle choice in Perth, perfect for those wanting to express their individuality through their hair. Keywords: Mid taper flow hairstyle, curtain bangs, Perth barbers, stylish taper haircuts, barber trends in Perth, men's hairstyle trends, flow haircut styles, mid taper haircuts, trendy barber styles, curtain bangs barber. Mid taper fade hair transformation with a design. Mid taper fade 💈 taper haircuts have been my favorite type of mens haircut and hairstyles to do. Mid taper fade with wavy flow hair style 💇🏻‍♂️ client came in for a big hair transformation. Get this design, if you have a Taper pt.16💫 #melbournebarber #taperfade #taper #haircut #haircutdesign #taperdesign #edgar #barber #blowouttaper.",,,5,weak,Social Index (+5),social
+4093320,social_post,unknown_date,https://www.tiktok.com/discover/jeremiah-barber,Jeremiah Barber | TikTok,"# Jeremiah Barber. Join Jeremiah on his barber journey with firsthand experiences, haircut tutorials, and exciting barber community moments! Jeremiah barber haircut tutorial, barber life experiences, taper design for barbers. ## Join Jeremiah on his barber journey with firsthand experiences, haircut tutorials, and exciting barber community moments! Jeremiah barber haircut tutorial, barber life experiences, taper design for barbers. Jeremiah races his barber for a free haircut @Findjeremiah #jeremiah #race #streamer #fyp #foryou Jeremiah's Race for a Free Haircut. Watch Jeremiah race his barber for a chance at a free haircut! Jeremiah haircut race, free haircut challenge, barber racing video, streaming haircut contest, fun barber competition, hair cutting challenge, race for free haircut, Jeremiah streaming video, exciting haircuts, barber challenges. NBA Youngboy La Union Barbershop, Jeremiah barber experience, celebrity barber in Los Angeles, Barbers of TikTok, best barber haircuts in LA, barbershop fun moments, love in the community, TikTok barber highlights, LA barber culture, barbering with celebrities. Jeremiah barber 6th cut#haircut #taper #consistency #taperdesign #design #fresh #barber Jeremiah Barber's 6th Taper Design Haircut. Jeremiah Barber haircut tutorial, taper design for barbers, how to create taper cuts, best barber techniques, fresh haircut styling tips, consistency in barbering skills, razor technique for haircuts, barber design inspiration, modern haircut trends, hair grooming tips. #vicblends #barber #haircut #fyp #mentalhealth Kicked Out for Cutting Hair: Jeremiah's Inspiring Journey. Jeremiah the barber cut hit me up TikTok: Jeremiahcutzz #haircut#consistency #barber #fyp#. Jeremiah barbers first cut#haircut#barberlife #barber Jeremiah's First Haircut Experience as a Barber. Discover Jeremiah's journey as a barber during his first haircut. Jeremiah first haircut journey, barber life experiences, barber training stories, haircut tips for beginners, amazing barber transformations, local barber community, barbering skills development, hair cutting techniques, first time barber story, community barbershops. Jeremiah barber 16th cut come book with me#haircut #consistency #fyp. @jeremiahoo7 Looking all fresh ✨ #haircutwithjsk #jskvibe #haircut #barber #fyp Straightening My Son's Hair with a Spoon | jsk Beauty Salon. Check page for full Tutorial 👌🏽 @jeremiahoo7 slay with that cut ma boi 💈 #haircut #spoonfade #jskvibe #barber #artist #fyp Creative Haircutting Technique Using a Spoon Tutorial.",,,5,weak,Social Index (+5),social
+4093320,social_post,unknown_date,https://www.instagram.com/popular/top-barber,Top Barber,# Top Barber. # Top Barber. Watch reels about top barber from people around the world. ## top cut barber. ## top fade barbers. ## top barber shops near me. ## top rated barbers in las vegas. ## barber. ## topping. ## top rated barbers in houston. ## top rated barber shop near me. ## tops. ## barber top. ## top notch barber. ## barbers. ## barbering. ## topped. ## top barbers. ## tip top barber. ## top notch barber shop. ## top barbers in the world. ## top hats barber shop. ## top touch barber shop. ## top barber shop. ## top tier barber shop. ## barbers barber. ## top 10 barber. ## top g barbers. ## ivan top barber. ## top barber company. ## top rated barber shop.,,,5,weak,Social Index (+5),social
+4093320,social_post,unknown_date,https://www.instagram.com/popular/legacy-barber,Legacy Barber,"# Legacy Barber. # Legacy Barber. Legacy Barber has multiple locations, including Legacy Barber Shop & Studio in Delray Beach and Legacy Barber Studio in Solon. The Delray Beach location has received great reviews, with clients... ## legacy. ## barber. ## barber barber. ## legacy barber shop. ## barbers. ## barbering. ## legacies. ## legacy barber lounge. ## barbers barber. ## legacis. ## legacy barbers rosanna. ## legaci. ## barber legacy. ## legacy the barber. ## legacy barbers. ## legacy barber co. ## legacys. ## legacy barbering. ## mizuki okada's barber legacy. ## barberings. ## legacy fades, barber shop, whitney. ## the legacy barber shop. ## legacy barbers listowel. ## legacy. ## malik's legacy in the barbering industry. ## legacy barbers elkhart. ## barberic. ## legacy's. ## legacy barber co. ## barbers barbers.",,,5,weak,Social Index (+5),social
+4093320,social_post,unknown_date,https://www.instagram.com/popular/academy-barber,Academy Barber,# Academy Barber. # Academy Barber. Watch reels about academy barber from people around the world. ## barber. ## academies. ## barbers. ## barbering. ## barber academy. ## barber day academy. ## the barber academy. ## barber academy by sean casey. ## barber academy solo. ## barbers barber. ## sons of barber academy. ## academy barber shop. ## barber shop academy. ## first coast barber academy. ## academy barbers. ## american barber and beauty academy. ## the barbering academy. ## american barber academy. ## the spot barber academy. ## midwest barber academy. ## barberings. ## the academy barber. ## the master academy of barbering. ## total barber academy. ## sol barber academy. ## all american barber academy. ## barber academy bandung. ## barber life academy.,,,5,weak,Social Index (+5),social
+4093320,social_post,unknown_date,https://www.instagram.com/popular/spot-barber,Spot Barber,"# Spot Barber. # Spot Barber. Watch reels about spot barber from people around the world. ## lucky spot barber. ## barber. ## barberic. ## on the spot barber shop. ## barber spot. ## the spot barber lounge. ## spotting. ## spot. ## barbers. ## barbering. ## spots. ## spotted. ## the spot barber shop. ## the spot barber studio montclair. ## barbers barber. ## the spot barber. ## spotli. ## barbere. ## barberism. ## da spot barber shop. ## the spot barber academy. ## babyface e detroit barber spots. ## barberers. ## my spot barber shop houston texas. ## lucky spot leadership barber academy. ## my spot barber shop houston tx. ## spot of barber. ## """"""hair spot"""" tripoli lebanon barber"". ## mariah and bryan barber spotted together. ## los angeles celebrity barber spots.",,,5,weak,Social Index (+5),social
+4093320,social_post,unknown_date,https://www.instagram.com/popular/barber-fontana,Barber Fontana,# Barber Fontana. # Barber Fontana. Watch reels about barber fontana from people around the world. ## fontana barber studio. ## fontanas. ## fontana barber. ## fontana barbers. ## barber shop fontana. ## fontana barber shop. ## fontana barber shops. ## abs barber shop fontana. ## ab barber studio fontana. ## kd barber shop fontana. ## fontana barber services.,,,5,weak,Social Index (+5),social
+4093320,web_result,unknown_date,https://elderscrolls.fandom.com/wiki/Beastfolk,Beastfolk,"_Main article: Tsaesci_ [...] Tribunal (2002)
+           Bloodmoon (2003)
+
+       Oblivion (2006)
+
+           Travels: Oblivion (2006))
+           Knights of the Nine (2006)
+           Shivering Isles (2007)
+           Oblivion Remastered (2025)
+
+       Skyrim (2011)
+
+           Dawnguard (2012)
+           Hearthfire (2012)
+           Dragonborn (2012)
+
+       Other games [...] Tribunal (2002)
+           Bloodmoon (2003)
+
+       Oblivion (2006)
+
+           Travels: Oblivion (2006))
+           Knights of the Nine (2006)
+           Shivering Isles (2007)
+           Oblivion Remastered (2025)
+
+       Skyrim (2011)
+
+           Dawnguard (2012)
+           Hearthfire (2012)
+           Dragonborn (2012)
+
+       Other games",,,0,weak,,general

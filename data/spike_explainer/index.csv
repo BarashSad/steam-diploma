@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-08-09T02:14:13.418537+00:00,4093320,Beastfolk Barber,data/spike_explainer/2026-08-09__appid_4093320__rank_986_to_871__up_115,115,90,data/spike_explainer/2026-08-09__appid_4093320__rank_986_to_871__up_115/llm_summary_input.md
+2026-08-09T13:11:46.056747+00:00,4093320,Beastfolk Barber,data/spike_explainer/2026-08-09__appid_4093320__rank_871_to_808__up_63,63,90,data/spike_explainer/2026-08-09__appid_4093320__rank_871_to_808__up_63/llm_summary_input.md

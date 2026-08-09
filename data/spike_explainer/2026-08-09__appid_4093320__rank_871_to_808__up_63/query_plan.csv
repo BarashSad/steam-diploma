@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4093320,Beastfolk Barber,"""Beastfolk Barber"" Steam",general,1,tavily,True,,5
+4093320,Beastfolk Barber,"""Beastfolk Barber"" trailer",general,1,tavily,True,,5
+4093320,Beastfolk Barber,"""Beastfolk Barber"" gameplay",general,1,tavily,True,,5
+4093320,Beastfolk Barber,"""Beastfolk Barber"" demo",general,1,tavily,True,,5
+4093320,Beastfolk Barber,"""Beastfolk Barber"" release date",general,1,tavily,True,,5
+4093320,Beastfolk Barber,"""Beastfolk Barber"" announcement",general,1,tavily,True,,5
+4093320,Beastfolk Barber,"""Beastfolk Barber"" preview",general,1,tavily,True,,5
+4093320,Beastfolk Barber,"""Beastfolk Barber"" review",general,1,tavily,True,,5
+4093320,Beastfolk Barber,"""Beastfolk Barber"" publisher",general,1,tavily,True,,5
+4093320,Beastfolk Barber,"""Beastfolk Barber"" developer",general,1,tavily,True,,5
+4093320,Beastfolk Barber,"site:pcgamer.com ""Beastfolk Barber""",press,2,tavily,False,General budget exhausted,0
+4093320,Beastfolk Barber,"site:rockpapershotgun.com ""Beastfolk Barber""",press,2,tavily,False,General budget exhausted,0
+4093320,Beastfolk Barber,"site:ign.com ""Beastfolk Barber""",press,2,tavily,False,General budget exhausted,0
+4093320,Beastfolk Barber,"site:gamespot.com ""Beastfolk Barber""",press,2,tavily,False,General budget exhausted,0
+4093320,Beastfolk Barber,"site:game8.co ""Beastfolk Barber""",press,2,tavily,False,General budget exhausted,0
+4093320,Beastfolk Barber,"site:reddit.com ""Beastfolk Barber""",social,3,tavily,True,,5
+4093320,Beastfolk Barber,"site:tiktok.com ""Beastfolk Barber""",social,4,tavily,True,,5
+4093320,Beastfolk Barber,"site:instagram.com ""Beastfolk Barber""",social,4,tavily,True,,5
+4093320,Beastfolk Barber,"site:x.com ""Beastfolk Barber""",social,4,tavily,True,,5
+4093320,Beastfolk Barber,"site: ""Beastfolk Barber""",social,4,tavily,True,,5
