@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: JUJUTSU KAISEN RUMBLE: SURVIVATON
+Analyzed: Beastfolk Barber
 Tavily Budget Used: 15
 Errors: 0

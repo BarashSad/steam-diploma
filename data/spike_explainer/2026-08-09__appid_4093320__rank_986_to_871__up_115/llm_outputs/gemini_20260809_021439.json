@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-09T02:14:39.427663+00:00",
+    "timestamp": "20260809_021439",
+    "input_file": "data/spike_explainer/2026-08-09__appid_4093320__rank_986_to_871__up_115/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-09__appid_4093320__rank_986_to_871__up_115/llm_outputs/gemini_20260809_021439.md",
+    "game_title": "Beastfolk Barber",
+    "appid": "4093320",
+    "duration_sec": 17.89,
+    "response_length": 5329,
+    "error": null
+}

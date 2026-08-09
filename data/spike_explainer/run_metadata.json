@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-08-08T13:07:27.816043+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260808_125805/rank_changes.csv",
-    "selected_appid": "4753290",
-    "selected_game_title": "JUJUTSU KAISEN RUMBLE: SURVIVATON",
+    "started_at": "2026-08-09T02:14:39.324954+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260809_020545/rank_changes.csv",
+    "selected_appid": "4093320",
+    "selected_game_title": "Beastfolk Barber",
     "top_n": 1,
-    "old_snapshot_date": "2026-08-05",
-    "new_snapshot_date": "2026-08-08",
+    "old_snapshot_date": "2026-08-06",
+    "new_snapshot_date": "2026-08-09",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-08T13:07:27.816057+00:00",
+    "finished_at": "2026-08-09T02:14:39.324967+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
