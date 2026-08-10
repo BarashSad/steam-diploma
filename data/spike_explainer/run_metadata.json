@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-08-10T02:20:34.746736+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260810_021015/rank_changes.csv",
+    "started_at": "2026-08-10T13:30:13.263108+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260810_131946/rank_changes.csv",
     "selected_appid": "4657920",
     "selected_game_title": "War Fantasy",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-10T02:20:34.746747+00:00",
+    "finished_at": "2026-08-10T13:30:13.263124+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
