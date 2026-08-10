@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-10T02:20:34.829621+00:00",
+    "timestamp": "20260810_022034",
+    "input_file": "data/spike_explainer/2026-08-10__appid_4657920__rank_1104_to_1018__up_86/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-10__appid_4657920__rank_1104_to_1018__up_86/llm_outputs/gemini_20260810_022034.md",
+    "game_title": "War Fantasy",
+    "appid": "4657920",
+    "duration_sec": 15.36,
+    "response_length": 5897,
+    "error": null
+}
