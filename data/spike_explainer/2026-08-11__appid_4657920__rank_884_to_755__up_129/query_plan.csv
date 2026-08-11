@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4657920,War Fantasy,"""War Fantasy"" Steam",general,1,tavily,True,,5
+4657920,War Fantasy,"""War Fantasy"" trailer",general,1,tavily,True,,5
+4657920,War Fantasy,"""War Fantasy"" gameplay",general,1,tavily,True,,5
+4657920,War Fantasy,"""War Fantasy"" demo",general,1,tavily,True,,5
+4657920,War Fantasy,"""War Fantasy"" release date",general,1,tavily,True,,5
+4657920,War Fantasy,"""War Fantasy"" announcement",general,1,tavily,True,,5
+4657920,War Fantasy,"""War Fantasy"" preview",general,1,tavily,True,,5
+4657920,War Fantasy,"""War Fantasy"" review",general,1,tavily,True,,5
+4657920,War Fantasy,"""War Fantasy"" publisher",general,1,tavily,True,,5
+4657920,War Fantasy,"""War Fantasy"" developer",general,1,tavily,True,,5
+4657920,War Fantasy,"site:pcgamer.com ""War Fantasy""",press,2,tavily,False,General budget exhausted,0
+4657920,War Fantasy,"site:rockpapershotgun.com ""War Fantasy""",press,2,tavily,False,General budget exhausted,0
+4657920,War Fantasy,"site:ign.com ""War Fantasy""",press,2,tavily,False,General budget exhausted,0
+4657920,War Fantasy,"site:gamespot.com ""War Fantasy""",press,2,tavily,False,General budget exhausted,0
+4657920,War Fantasy,"site:game8.co ""War Fantasy""",press,2,tavily,False,General budget exhausted,0
+4657920,War Fantasy,"site:reddit.com ""War Fantasy""",social,3,tavily,True,,5
+4657920,War Fantasy,"site:tiktok.com ""War Fantasy""",social,4,tavily,True,,5
+4657920,War Fantasy,"site:instagram.com ""War Fantasy""",social,4,tavily,True,,5
+4657920,War Fantasy,"site:x.com ""War Fantasy""",social,4,tavily,True,,5
+4657920,War Fantasy,"site: ""War Fantasy""",social,4,tavily,True,,5

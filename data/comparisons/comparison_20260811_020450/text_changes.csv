@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4012810,STEINS;GATE REBOOT DIGITAL DELUXE EDITION,STEINS;GATE RE:BOOT,165,163,2,2,up,none,$71.99,$53.99,True,"Aug 19, 2026","Aug 19, 2026",False
+782260,Rogue Eclipse,Rogue Eclipse,815,816,-1,1,down,none,Free,Unpriced (Coming Soon),True,Coming soon,"Aug 14, 2026",True
+2929250,over the hill,over the hill,22,22,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Oct 14, 2026",True
+3949550,1666: Amsterdam,1666: Amsterdam,58,58,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Aug 25, 2026",True
