@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-11T13:26:38.782129+00:00",
+    "timestamp": "20260811_132638",
+    "input_file": "data/spike_explainer/2026-08-11__appid_4910490__rank_1071_to_797__up_274/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-11__appid_4910490__rank_1071_to_797__up_274/llm_outputs/gemini_20260811_132638.md",
+    "game_title": "Ignite the Depths",
+    "appid": "4910490",
+    "duration_sec": 24.33,
+    "response_length": 6768,
+    "error": null
+}

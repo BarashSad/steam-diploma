@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-08-11T02:13:33.680813+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260811_020450/rank_changes.csv",
-    "selected_appid": "4657920",
-    "selected_game_title": "War Fantasy",
+    "started_at": "2026-08-11T13:26:38.683676+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260811_131615/rank_changes.csv",
+    "selected_appid": "4910490",
+    "selected_game_title": "Ignite the Depths",
     "top_n": 1,
     "old_snapshot_date": "2026-08-08",
     "new_snapshot_date": "2026-08-11",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-11T02:13:33.680827+00:00",
+    "finished_at": "2026-08-11T13:26:38.683689+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

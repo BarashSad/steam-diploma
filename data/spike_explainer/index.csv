@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-08-11T02:13:12.113459+00:00,4657920,War Fantasy,data/spike_explainer/2026-08-11__appid_4657920__rank_884_to_755__up_129,129,70,data/spike_explainer/2026-08-11__appid_4657920__rank_884_to_755__up_129/llm_summary_input.md
+2026-08-11T13:26:18.980283+00:00,4910490,Ignite the Depths,data/spike_explainer/2026-08-11__appid_4910490__rank_1071_to_797__up_274,274,75,data/spike_explainer/2026-08-11__appid_4910490__rank_1071_to_797__up_274/llm_summary_input.md

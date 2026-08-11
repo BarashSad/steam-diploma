@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: War Fantasy
+Analyzed: Ignite the Depths
 Tavily Budget Used: 15
 Errors: 0
