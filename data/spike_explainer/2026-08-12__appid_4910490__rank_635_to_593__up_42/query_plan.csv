@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4910490,Ignite the Depths,"""Ignite the Depths"" Steam",general,1,tavily,True,,5
+4910490,Ignite the Depths,"""Ignite the Depths"" trailer",general,1,tavily,True,,5
+4910490,Ignite the Depths,"""Ignite the Depths"" gameplay",general,1,tavily,True,,5
+4910490,Ignite the Depths,"""Ignite the Depths"" demo",general,1,tavily,True,,5
+4910490,Ignite the Depths,"""Ignite the Depths"" release date",general,1,tavily,True,,5
+4910490,Ignite the Depths,"""Ignite the Depths"" announcement",general,1,tavily,True,,5
+4910490,Ignite the Depths,"""Ignite the Depths"" preview",general,1,tavily,True,,5
+4910490,Ignite the Depths,"""Ignite the Depths"" review",general,1,tavily,True,,5
+4910490,Ignite the Depths,"""Ignite the Depths"" publisher",general,1,tavily,True,,5
+4910490,Ignite the Depths,"""Ignite the Depths"" developer",general,1,tavily,True,,5
+4910490,Ignite the Depths,"site:pcgamer.com ""Ignite the Depths""",press,2,tavily,False,General budget exhausted,0
+4910490,Ignite the Depths,"site:rockpapershotgun.com ""Ignite the Depths""",press,2,tavily,False,General budget exhausted,0
+4910490,Ignite the Depths,"site:ign.com ""Ignite the Depths""",press,2,tavily,False,General budget exhausted,0
+4910490,Ignite the Depths,"site:gamespot.com ""Ignite the Depths""",press,2,tavily,False,General budget exhausted,0
+4910490,Ignite the Depths,"site:game8.co ""Ignite the Depths""",press,2,tavily,False,General budget exhausted,0
+4910490,Ignite the Depths,"site:reddit.com ""Ignite the Depths""",social,3,tavily,True,,5
+4910490,Ignite the Depths,"site:tiktok.com ""Ignite the Depths""",social,4,tavily,True,,5
+4910490,Ignite the Depths,"site:instagram.com ""Ignite the Depths""",social,4,tavily,True,,5
+4910490,Ignite the Depths,"site:x.com ""Ignite the Depths""",social,4,tavily,True,,5
+4910490,Ignite the Depths,"site: ""Ignite the Depths""",social,4,tavily,True,,5

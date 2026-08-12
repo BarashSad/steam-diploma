@@ -1,0 +1,21 @@
+{
+    "appnews": {
+        "appid": 4910490,
+        "newsitems": [
+            {
+                "gid": "1839041357038988",
+                "title": "Thank you all for 20,000 Wishlists!!!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038988",
+                "is_external_url": true,
+                "author": "blink",
+                "contents": "Hey everyone,We're happy to announce that Ignite the Depths has reached 20,000 wishlists in just four days!! That number is unreal and we appreciate every single one of you supporting us.We'll have an announcement in the coming weeks regarding our playtests, so please stay tuned! You can join our Discord to get notified the second we announce things :)https://discord.gg/exvggNDWDKThank you,SK Studios",
+                "feedlabel": "Community Announcements",
+                "date": 1785262202,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4910490
+            }
+        ],
+        "count": 1
+    }
+}
