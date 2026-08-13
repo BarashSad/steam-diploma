@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"""Probably Stolen - Cyberpunk Pawnshop Simulator"" Steam",general,1,tavily,True,,5
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"""Probably Stolen - Cyberpunk Pawnshop Simulator"" trailer",general,1,tavily,True,,5
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"""Probably Stolen - Cyberpunk Pawnshop Simulator"" gameplay",general,1,tavily,True,,5
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"""Probably Stolen - Cyberpunk Pawnshop Simulator"" demo",general,1,tavily,True,,5
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"""Probably Stolen - Cyberpunk Pawnshop Simulator"" release date",general,1,tavily,True,,5
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"""Probably Stolen - Cyberpunk Pawnshop Simulator"" announcement",general,1,tavily,True,,5
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"""Probably Stolen - Cyberpunk Pawnshop Simulator"" preview",general,1,tavily,True,,5
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"""Probably Stolen - Cyberpunk Pawnshop Simulator"" review",general,1,tavily,True,,5
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"""Probably Stolen - Cyberpunk Pawnshop Simulator"" publisher",general,1,tavily,True,,5
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"""Probably Stolen - Cyberpunk Pawnshop Simulator"" developer",general,1,tavily,True,,5
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"site:pcgamer.com ""Probably Stolen - Cyberpunk Pawnshop Simulator""",press,2,tavily,False,General budget exhausted,0
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"site:rockpapershotgun.com ""Probably Stolen - Cyberpunk Pawnshop Simulator""",press,2,tavily,False,General budget exhausted,0
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"site:ign.com ""Probably Stolen - Cyberpunk Pawnshop Simulator""",press,2,tavily,False,General budget exhausted,0
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"site:gamespot.com ""Probably Stolen - Cyberpunk Pawnshop Simulator""",press,2,tavily,False,General budget exhausted,0
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"site:game8.co ""Probably Stolen - Cyberpunk Pawnshop Simulator""",press,2,tavily,False,General budget exhausted,0
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"site:reddit.com ""Probably Stolen - Cyberpunk Pawnshop Simulator""",social,3,tavily,True,,5
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"site:tiktok.com ""Probably Stolen - Cyberpunk Pawnshop Simulator""",social,4,tavily,True,,5
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"site:instagram.com ""Probably Stolen - Cyberpunk Pawnshop Simulator""",social,4,tavily,True,,5
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"site:x.com ""Probably Stolen - Cyberpunk Pawnshop Simulator""",social,4,tavily,True,,5
+4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,"site: ""Probably Stolen - Cyberpunk Pawnshop Simulator""",social,4,tavily,True,,5

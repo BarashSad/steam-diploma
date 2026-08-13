@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Ignite the Depths
+Analyzed: Probably Stolen - Cyberpunk Pawnshop Simulator
 Tavily Budget Used: 15
 Errors: 0

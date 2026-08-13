@@ -1,0 +1,58 @@
+{
+    "appnews": {
+        "appid": 4348910,
+        "newsitems": [
+            {
+                "gid": "1840310314345942",
+                "title": "Playtest Patch 48.3.12 - The Rat Wrangler",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314345942",
+                "is_external_url": true,
+                "author": "[tB] Tira",
+                "contents": "Hey Shopkeepers,Another update just released, where we have unhidden the Rat Wrangler starting scenario!ChangesThe Rat Wrangler starting scenario (previously secret) is now visible alongside the other starting scenariosA cleared inspection that resulted from showing contraband in the display case will no longer grant Security reputation. This prevents players from farming free Security reputation by repeatedly displaying contraband and then hiding it in the smuggler bay to pass inspectionBug FixesThe \"i\" info hover tooltip now works in Full Screen mode on non-16:9 aspect ratio monitorsScratcher tickets can now be scratched in Full Screen mode on non-16:9 aspect ratio monitorsFixed a bug where the Junk Processing Module for the furnace was secretly using twice the amount of power displayedFixed a bug where shooting an Aug in Hard Mode could still progress the Aug game over meterFixed a bug where shooting while someone was leaving could softlock the gameFixed a bug that allowed players to store non-owned cassettes in the cassette playerFixed a bug where a bugged item called \"nutrichips\" could sometimes be givenJOIN THE DISCORDX/TWITTER | REDDIT | INSTAGRAM | TIKTOK",
+                "feedlabel": "Community Announcements",
+                "date": 1786128846,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4348910,
+                "tags": [
+                    "patchnotes",
+                    "mod_reviewed",
+                    "ModAct_1870293249_1786130824_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1840310314342898",
+                "title": "Playtest Patch 48.3.10 - Rock Bottom & Water Upgrade",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314342898",
+                "is_external_url": true,
+                "author": "[tB] Tira",
+                "contents": "Hey Shopkeepers,We've rolled out an update to the open Playtest build, including a new hard mode starting scenario, water upgrades and lots of quality of life and bug fixes!New Content New starting scenario: Rock Bottom (hardcore mode, you start with nothing) Water trading guide can now be bought from Dr. Jackson New Wild Network upgrades available in the open playtest: Retired Water Merchant, Gutterflow on Tap, Rustwater on Tap (Not the Water Trade Starting Scenario when starting a new game) Quality of Life Non-16:9 aspect ratios monitors can now use Full Screen mode, which will display black barsChanges Display case will no longer work on the first day if the tutorial is enabled to not mess up the tutorial sequence Blank disposable keycards can no longer be inserted into the output slot of the cryptographic desequencer, to avoid confusion Cassette player will resume playing on load if it was playing when the game was saved Changed the sprite used to represent \\ in the underground exchange directive to the cyanide pill, to avoid confusion The vacuum robot now displays more clearly that it only operates at night and that it has a manual function At -40 reputation with the Black Market, players now retain access to the janitorial service, but the cost is doubled Players can no longer lose the game with the \"Augmented\" ending for missing too many augs, unless playing on Hard Mode Added a 60 FPS cap to prevent increased load on faster hardwareBug Fixes Fixed a bug where players could use non-owned bandages Fixed a bug where the auto-play feature would sometimes break on the music cassette after reloading Fixed a bug where certain languages set in the player's operating system could cause localization issues (a fresh save is required to see the change if you were affected by this bug) Certain essential recurring customers are now marked as non-shootable Fixed a bug where the store attractiveness meter did not match the real value when additional bonuses were applied, such as from the Mirage Projector Fixed a bug that caused players to get stuck with the security inspector Fixed a bug where some text in German, Russian, and Chinese was mixed up Fixed a bug where players could enter a state that blocked them from interacting with inventory items after certain UI interactions Fixed a bug where phone-ordered supplies would not register if the player hung up too early Fixed a bug where certain barter customers offered nothing in the trade Fixed a minor visual bug where a single vertical line in the inventory was slightly thicker than the othersP.S. Have you guys found the secret scenario yet? It's there in the playtest build from the very beginning. Look closely at the starting professions selection screen.",
+                "feedlabel": "Community Announcements",
+                "date": 1786042893,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4348910,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1888979151_1786043560_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1839676055895202",
+                "title": "Probably Stolen: Cyberpunk Pawnshop Simulator",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895202",
+                "is_external_url": true,
+                "author": "[tB] Tira",
+                "contents": "Welcome shopkeepers,We\u2019re thrilled to announce our new game called Probably Stolen, with a playtest available right now! What is the game?Probably Stolen is a cyberpunk pawnshop simulator set in a dystopian space station where you gotta trade, craft, flip goods, maybe smuggle a little on the side, and try not to piss off the wrong people. It\u2019s up to you to decide how far you\u2019re willing to go to stay afloat and earn enough cash to own the shop before rent gets out of hand. About the developer:Developed by Questing Goose Studio and published by tinyBuild, Probably Stolen initially began as a solo project by dev Bei Ning Pan, who has since been joined by a team of 4 artists and 3 audio developers. Probably Stolen was built on top of a previous project originally called Space Looter, which was a turn-based sci-fi space station crawler. However, it has since been shelved until Bei Ning returned from a trip where he had an idea of turning it into a shopkeeping simulator. His biggest inspirations for Probably Stolen have been Space Station 13 and also a bit of Papers, Please. In the past, Bei Ning worked as an intern at a Microsoft Xbox Game Studio (Coalition Studio), Ubisoft Montreal, and Eidos. His favorite games include The Witcher 3, Divinity Original Sin 2, and Space Station 13! Join the Playtest now!There are very few games like it and we can\u2019t wait to hear what you think! ",
+                "feedlabel": "Community Announcements",
+                "date": 1785773591,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4348910
+            }
+        ],
+        "count": 3
+    }
+}
