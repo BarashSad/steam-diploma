@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-13T13:33:13.422277+00:00",
+    "timestamp": "20260813_133313",
+    "input_file": "data/spike_explainer/2026-08-13__appid_4626940__rank_1067_to_1034__up_33/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-13__appid_4626940__rank_1067_to_1034__up_33/llm_outputs/gemini_20260813_133313.md",
+    "game_title": "Scratch the Ticket",
+    "appid": "4626940",
+    "duration_sec": 27.39,
+    "response_length": 6067,
+    "error": null
+}

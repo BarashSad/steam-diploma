@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4626940,Scratch the Ticket,"""Scratch the Ticket"" Steam",general,1,tavily,True,,5
+4626940,Scratch the Ticket,"""Scratch the Ticket"" trailer",general,1,tavily,True,,5
+4626940,Scratch the Ticket,"""Scratch the Ticket"" gameplay",general,1,tavily,True,,5
+4626940,Scratch the Ticket,"""Scratch the Ticket"" demo",general,1,tavily,True,,5
+4626940,Scratch the Ticket,"""Scratch the Ticket"" release date",general,1,tavily,True,,5
+4626940,Scratch the Ticket,"""Scratch the Ticket"" announcement",general,1,tavily,True,,5
+4626940,Scratch the Ticket,"""Scratch the Ticket"" preview",general,1,tavily,True,,5
+4626940,Scratch the Ticket,"""Scratch the Ticket"" review",general,1,tavily,True,,5
+4626940,Scratch the Ticket,"""Scratch the Ticket"" publisher",general,1,tavily,True,,5
+4626940,Scratch the Ticket,"""Scratch the Ticket"" developer",general,1,tavily,True,,5
+4626940,Scratch the Ticket,"site:pcgamer.com ""Scratch the Ticket""",press,2,tavily,False,General budget exhausted,0
+4626940,Scratch the Ticket,"site:rockpapershotgun.com ""Scratch the Ticket""",press,2,tavily,False,General budget exhausted,0
+4626940,Scratch the Ticket,"site:ign.com ""Scratch the Ticket""",press,2,tavily,False,General budget exhausted,0
+4626940,Scratch the Ticket,"site:gamespot.com ""Scratch the Ticket""",press,2,tavily,False,General budget exhausted,0
+4626940,Scratch the Ticket,"site:game8.co ""Scratch the Ticket""",press,2,tavily,False,General budget exhausted,0
+4626940,Scratch the Ticket,"site:reddit.com ""Scratch the Ticket""",social,3,tavily,True,,5
+4626940,Scratch the Ticket,"site:tiktok.com ""Scratch the Ticket""",social,4,tavily,True,,5
+4626940,Scratch the Ticket,"site:instagram.com ""Scratch the Ticket""",social,4,tavily,True,,5
+4626940,Scratch the Ticket,"site:x.com ""Scratch the Ticket""",social,4,tavily,True,,5
+4626940,Scratch the Ticket,"site: ""Scratch the Ticket""",social,4,tavily,True,,5

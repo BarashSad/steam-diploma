@@ -1,0 +1,34 @@
+{
+    "appnews": {
+        "appid": 4626940,
+        "newsitems": [
+            {
+                "gid": "1836506165554309",
+                "title": "Scratch the Ticket drops August 13th!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165554309",
+                "is_external_url": true,
+                "author": "Koushin",
+                "contents": "Hey everyone, We\u2019re thrilled to announce that Scratch the Ticket is releasing on August 13th! Right now, we as developers are working hard every day to polish the game and deliver the best possible experience at launch. The full version will include more tools, more different ticket types, and many requested QoL features based on your feedback from the demo. We\u2019re super grateful for all the support and suggestions so far, it\u2019s making the game a lot better. New to the game? Well, let us tell you a little bit about it! Here you manage your greed, upgrade your setup, grow your operation, and work your way toward that insanely expensive downtown apartment. Scratch the Ticket combines first-person scratching, tense risk-reward decisions, and satisfying progression into one addictive loop. Will you keep your cool when the multipliers get huge? Test yourself on August 13th! Wishlist/follow the game: ",
+                "feedlabel": "Community Announcements",
+                "date": 1782487130,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4626940
+            },
+            {
+                "gid": "1835236783574850",
+                "title": "Scratch The Ticket Demo OUT NOW!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783574850",
+                "is_external_url": true,
+                "author": "Koushin",
+                "contents": "This is a first\u2011person incremental gambling sim where every ticket is a test of nerves. Print tickets, scratch cells, and use espionage and scanning tech to tilt the odds in your favor. These couple of weeks were really exciting. Thousands of playtesters, hundreds of feedback submissions. Some are bug-related, other with genuinely cool ideas and wishes for the game. We can't even begin to describe how we feel right now from all your support. So we did what we do best, in our opinions. We were hard at work on our new Demo version that everyone can play right now. We pushed tons of fixes and some quality-of-life improvements based on your feedback. If you already playtested the game - we urge you to try our new version and tell us if we're moving in the right direction. New player? That's even better! Please tell us what you think of the new version as a first time player! We're glad to have all of you here. After all, it's your feedback that pushes us forward. Now, who's ready to become a millionaire? All tools are in your hands. Wishlist/follow the game: ",
+                "feedlabel": "Community Announcements",
+                "date": 1781625751,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4626940
+            }
+        ],
+        "count": 2
+    }
+}

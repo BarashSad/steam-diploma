@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Probably Stolen - Cyberpunk Pawnshop Simulator
+Analyzed: Scratch the Ticket
 Tavily Budget Used: 15
 Errors: 0

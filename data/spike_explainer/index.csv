@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-08-13T02:32:39.147041+00:00,4348910,Probably Stolen - Cyberpunk Pawnshop Simulator,data/spike_explainer/2026-08-13__appid_4348910__rank_923_to_887__up_36,36,70,data/spike_explainer/2026-08-13__appid_4348910__rank_923_to_887__up_36/llm_summary_input.md
+2026-08-13T13:32:48.169599+00:00,4626940,Scratch the Ticket,data/spike_explainer/2026-08-13__appid_4626940__rank_1067_to_1034__up_33,33,70,data/spike_explainer/2026-08-13__appid_4626940__rank_1067_to_1034__up_33/llm_summary_input.md
