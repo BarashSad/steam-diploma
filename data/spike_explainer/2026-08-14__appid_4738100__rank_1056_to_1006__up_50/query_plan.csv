@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4738100,10 Million Pixels,"""10 Million Pixels"" Steam",general,1,tavily,True,,5
+4738100,10 Million Pixels,"""10 Million Pixels"" trailer",general,1,tavily,True,,5
+4738100,10 Million Pixels,"""10 Million Pixels"" gameplay",general,1,tavily,True,,5
+4738100,10 Million Pixels,"""10 Million Pixels"" demo",general,1,tavily,True,,5
+4738100,10 Million Pixels,"""10 Million Pixels"" release date",general,1,tavily,True,,5
+4738100,10 Million Pixels,"""10 Million Pixels"" announcement",general,1,tavily,True,,5
+4738100,10 Million Pixels,"""10 Million Pixels"" preview",general,1,tavily,True,,5
+4738100,10 Million Pixels,"""10 Million Pixels"" review",general,1,tavily,True,,5
+4738100,10 Million Pixels,"""10 Million Pixels"" publisher",general,1,tavily,True,,5
+4738100,10 Million Pixels,"""10 Million Pixels"" developer",general,1,tavily,True,,5
+4738100,10 Million Pixels,"site:pcgamer.com ""10 Million Pixels""",press,2,tavily,False,General budget exhausted,0
+4738100,10 Million Pixels,"site:rockpapershotgun.com ""10 Million Pixels""",press,2,tavily,False,General budget exhausted,0
+4738100,10 Million Pixels,"site:ign.com ""10 Million Pixels""",press,2,tavily,False,General budget exhausted,0
+4738100,10 Million Pixels,"site:gamespot.com ""10 Million Pixels""",press,2,tavily,False,General budget exhausted,0
+4738100,10 Million Pixels,"site:game8.co ""10 Million Pixels""",press,2,tavily,False,General budget exhausted,0
+4738100,10 Million Pixels,"site:reddit.com ""10 Million Pixels""",social,3,tavily,True,,5
+4738100,10 Million Pixels,"site:tiktok.com ""10 Million Pixels""",social,4,tavily,True,,5
+4738100,10 Million Pixels,"site:instagram.com ""10 Million Pixels""",social,4,tavily,True,,5
+4738100,10 Million Pixels,"site:x.com ""10 Million Pixels""",social,4,tavily,True,,5
+4738100,10 Million Pixels,"site: ""10 Million Pixels""",social,4,tavily,True,,5

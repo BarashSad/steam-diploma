@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Scratch the Ticket
+Analyzed: 10 Million Pixels
 Tavily Budget Used: 15
 Errors: 0

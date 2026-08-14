@@ -1,0 +1,21 @@
+{
+    "appnews": {
+        "appid": 4738100,
+        "newsitems": [
+            {
+                "gid": "1840944183773442",
+                "title": "Mining for that one single golden bit in '10 Million Pixels' is going to consume me",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1840944183773442",
+                "is_external_url": true,
+                "author": "",
+                "contents": "Another interesting upcoming incremental game here for you called 10 Million Pixels, and it's all about hunting for the golden pixel. Read the full article here: https://www.gamingonlinux.com/2026/08/mining-for-that-one-single-golden-bit-in-10-million-pixels-is-going-to-consume-me/ ",
+                "feedlabel": "GamingOnLinux",
+                "date": 1786525764,
+                "feedname": "GamingOnLinux",
+                "feed_type": 0,
+                "appid": 4738100
+            }
+        ],
+        "count": 1
+    }
+}

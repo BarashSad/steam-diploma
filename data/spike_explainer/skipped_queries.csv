@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-4626940,Scratch the Ticket,"site:pcgamer.com ""Scratch the Ticket""",press,2,tavily,False,General budget exhausted,0
-4626940,Scratch the Ticket,"site:rockpapershotgun.com ""Scratch the Ticket""",press,2,tavily,False,General budget exhausted,0
-4626940,Scratch the Ticket,"site:ign.com ""Scratch the Ticket""",press,2,tavily,False,General budget exhausted,0
-4626940,Scratch the Ticket,"site:gamespot.com ""Scratch the Ticket""",press,2,tavily,False,General budget exhausted,0
-4626940,Scratch the Ticket,"site:game8.co ""Scratch the Ticket""",press,2,tavily,False,General budget exhausted,0
+4738100,10 Million Pixels,"site:pcgamer.com ""10 Million Pixels""",press,2,tavily,False,General budget exhausted,0
+4738100,10 Million Pixels,"site:rockpapershotgun.com ""10 Million Pixels""",press,2,tavily,False,General budget exhausted,0
+4738100,10 Million Pixels,"site:ign.com ""10 Million Pixels""",press,2,tavily,False,General budget exhausted,0
+4738100,10 Million Pixels,"site:gamespot.com ""10 Million Pixels""",press,2,tavily,False,General budget exhausted,0
+4738100,10 Million Pixels,"site:game8.co ""10 Million Pixels""",press,2,tavily,False,General budget exhausted,0
