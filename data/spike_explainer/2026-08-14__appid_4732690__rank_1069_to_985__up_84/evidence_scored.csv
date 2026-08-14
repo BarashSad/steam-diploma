@@ -1,0 +1,1277 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+4732690,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775547,Arknights: Endfield Steam Launch Milestone Event,,"Dear Endministrator,To celebrate Arknights: Endfield's upcoming launch on Steam, we're holding a special Wishlist Milestone Event!Starting today, add Arknights: Endfield to your Steam Wishlist and help us reach the final milestone to unlock a special commemorative portrait frame and other exciting r",,70,strong,Inside spike window (+30); Official Steam News (+20); Exact title match (+20),
+4732690,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=kTHEqpvUnzA,Arknights: Endfield Operator Combat Demo: Liino,,"Wherever we go, I want to be the star that catches everyone's eye!",demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4732690,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=ml5uIYYiNo4,Arknights: Endfield Operator Combat Demo: Arcane,,Target confirmed. Secure the AO. ▽//Download game from official website https://akendfield.gryphline.com/d27t/tejmevxp ...,demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4732690,youtube_video,outside_window,https://www.youtube.com/watch?v=oJ00ggFb8A0,Arknights: Endfield Official Release Trailer: Back to Endfield,,Start here and watch your choices unfold. Special thanks to @starsetonline for the brand-new theme song—We Are Empire.,trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4732690,youtube_video,outside_window,https://www.youtube.com/watch?v=EfwGJH-etgk,Arknights: Endfield Beta Test Trailer,,"The storm rages, tearing our homeland apart. Yet hope stands strong, as Endfield Industries has long been prepared.",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4732690,youtube_video,outside_window,https://www.youtube.com/watch?v=QqrL09StjDE,Arknights: Endfield - Official Cinematic Launch Trailer,,"Take a look at the Cinematic Launch Trailer for Arknights: Endfield, a free-to-play anime action RPG developed by Hypergryph.",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4732690,youtube_video,outside_window,https://www.youtube.com/watch?v=tN80M6IEMo0,Arknights: Endfield New Horizons Trailer [The Mission],,"""You may have forgotten these faces, but they will always remember yours."" Defy destiny, reboot Life, and reshape the future of ...",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4732690,youtube_video,outside_window,https://www.youtube.com/watch?v=6CGS_C6XqG8,Arknights: Endfield - Gameplay Trailer | gamescom 2025,,"Watch the Gameplay Trailer for Arknights: Endfield, a free-to-play action RPG developed by Hypergryph. Embark on a grand ...","trailer, gameplay",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+4732690,youtube_video,outside_window,https://www.youtube.com/watch?v=VhGbcqsVEBs,"Arknights: Endfield - Gameplay Walkthrough Part 1 - Intro &amp; Tutorial (iOS, Android)",,"New Arknights: Endfield - Gameplay Walkthrough Part 1 - Intro & Tutorial (iOS, Android) Game Name: Arknights: Endfield ...",gameplay,55,medium,YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+4732690,youtube_video,outside_window,https://www.youtube.com/watch?v=6CGS_C6XqG8,Arknights: Endfield - Gameplay Trailer | gamescom 2025,,"Watch the Gameplay Trailer for Arknights: Endfield, a free-to-play action RPG developed by Hypergryph. Embark on a grand ...","trailer, gameplay",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+4732690,youtube_video,outside_window,https://www.youtube.com/watch?v=WAtMeUFbDY8,Arknights: Endfield INSANE CHANGES | Alpha Test vs Beta Test,,Arknights: Endfield insane changes from Alpha Technical Test to Beta Test Arknights: Endfield Beta Test gameplay ...,gameplay,55,medium,YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+4732690,reddit_discussion,unknown_date,https://www.reddit.com/r/arknights/comments/tgrlqa/arknights_endfield_official_trailer,Arknights: Endfield Official Trailer,"Probably the main gameplay is a TPS RPG, Endfield Corps discovering the wreckage of Rhodes Island landship … it's a multisided moba RPG with",,"trailer, gameplay",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4732690,reddit_discussion,unknown_date,https://www.reddit.com/r/gachagaming/comments/1hekg6s/arknights_endfield_gameplay_demo_03,Arknights: Endfield Gameplay Demo 03 : r/gachagaming - Reddit,It kind of feels similar to Scarlet Nexus combat system where when you attack enemies there is a chance to trigger a chain combo with someone,,"gameplay, demo",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+4732690,reddit_discussion,unknown_date,https://www.reddit.com/r/gachagaming/comments/1hekg6s/arknights_endfield_gameplay_demo_03,Arknights: Endfield Gameplay Demo 03 : r/gachagaming - Reddit,"Go over the UI, see what it's telling you, experiment to find what works, or what changes, etc. the textures and animations are really",,"gameplay, demo",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+4732690,reddit_discussion,unknown_date,https://www.reddit.com/r/Endfield/comments/1u0tow3/arknights_endfield_preview_trailer_back_to_the,Arknights: Endfield Preview Trailer | Back to the North,"A Nature DPS would be built around Death By A Thousand Cuts, right? To best take advantage of the Corrosion Reaction of Nature Inflictions.",,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+4732690,social_post,unknown_date,https://www.tiktok.com/@happylemonusa/video/7641729512429964575,Arknights: Endfield Collab Cosplay — Have You Tried It?,"The collab blends Arknights' tactical character roster with Endfield's gacha mechanics, creating new cosmetic and gameplay crossovers viewers",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+4732690,social_post,unknown_date,https://www.instagram.com/popular/arknights-endfield-gameplay-news,Arknights Endfield Gameplay News,"Arknights: Endfield is a highly anticipated action-RPG game developed by Hypergryph. The game launched on PS5 on January 22, 2026, and features a layered combat ...Read more",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+4732690,web_result,unknown_date,https://www.rpgsite.net/news/21101-arknights-endfield-coming-to-steam,Arknights: Endfield is coming to Steam | RPG Site,"Arknights: Endfield is currently available via the standalone client and Epic Games Store. It will be released on Steam at a later date with a wishlist campaign now live. You can wishlist it here on Steam. Arknights: Endfield is now available on iOS, Android, PS5, and PC platforms. You can find details for the upcoming Steam launch via Gryphline below:
+
+  .
+>
+> Head to Steam now and add Arknights: Endfield to your Steam Wishlist. Let's push towards the final goal! [...] Developer Hypergryph and publisher Gryphline have announced that Arknights: Endfield will be coming to PC (Steam) in the future.
+
+Advertisement. Keep scrolling for more [...] RPG Site
+
+RPG Site on X   RPG Site on Facebook   RPG Site on YouTube   RPG Site on Bluesky   RPG Site on Discord   RPG Site on Patreon   RPG Site news feed
+
+ Toggle: light/dark mode
+
+2026 RPGs List & Release Dates | Best Steam Deck RPGs | The Adventures of Elliot Walkthrough | FF Pixel Remaster guides
+
+Arknights: Endfield is coming to Steam
+
+Arknights: Endfield › News
+
+# Arknights: Endfield is coming to Steam
+
+by Mikhail Madnani on 13 August, 2026",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4732690,web_result,unknown_date,https://automaton-media.com/en/news/arknights-endfield-confirmed-for-steam-release-store-page-now-live-alongside-wishlist-reward-campaign,Arknights: Endfield confirmed for Steam release. Store page now live alongside Wishlist reward campaign - AUTOMATON WEST,"GRYPHLINE has announced that its 3D real-time strategy RPG Arknights: Endfield is coming to Steam. The store page went live on August 13, alongside an event that will reward players for each Wishlist milestone the game achieves leading up to the launch. [...] Arknights: Endfield originally released in January 2026 for PC, PS5 and mobile platforms, with the PC version being available via native client and Epic Games Store. Now, the developers have confirmed a much-requested Steam version, though the release date has yet to be announced. [...] This news comes not long after Arknights – the mobile live-service title Arknights: Endfield is based on, got a global PC version of its own (albeit not on Steam). It seems the publisher is taking steps to ensure both titles are as accessible as possible to international players.
+
+As for Arknights: Endfield’s Steam release, the developers have announced the following Wishlist reward campaign:",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4732690,web_result,unknown_date,https://store.steampowered.com/app/4732690/Arknights_Endfield,Arknights: Endfield on Steam,"# Coming soon
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+## Endministrator, Welcome to Talos-II!
+
+Arknights: Endfield is a 3D real-time strategy RPG from Gryphline.
+
+On the planet [Talos-II], visitors to this world, the earliest settlers, braved wars and disasters. Through over 150 years of relentless effort, they rebuilt a foundation for humanity: the [Civilization Band]. [...] All Games > Free To Play Games > Arknights: Endfield
+
+Community Hub
+
+Arknights: Endfield
+
+Arknights: Endfield
+
+Arknights: Endfield
+
+Developer
+
+Hypergryph
+
+Publisher
+
+GRYPHLINE
+
+Released
+
+Coming soon
+
+Arknights: Endfield is a 3D real-time strategy RPG from Gryphline. You will take on the role of the Endministrator of Endfield Industries, explore Talos-II, and defend and expand the frontiers of human civilization.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Coming soon
+
+Developer: [...] Title: Arknights: Endfield  
+ Genre: Action, Adventure, RPG, Free To Play  
+
+Developer: Hypergryph
+
+Publisher: GRYPHLINE
+
+Release Date: Coming soon
+
+View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Ratings
+
+12+
+
+Includes Interactive Elements
+
+In-game purchases, Chance based in-game purchases, Online interactivity
+
+Age rating for: PEGI
+
+Links & info
+
+This game is not yet available on Steam
+
+# Coming soon",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=OaL1rpIUzzY,Arknights: Endfield - Official Trailer - IGN Live 2026,"Watch the latest Arknights: Endfield trailer for a peek at what's coming to the action RPG. The new trailer showcases characters fighting off enemies and various locations. In Arknights: Endfield, take on the role of the Endministrator of Endfield Industries, where you will lead your operators to defend and expand the frontiers of humanity. A new update will bring new playable characters, a new area, a fan-favorite game mode, and more to Arknights: Endfield on June 5, 2026. Arknights: Endfield [...] Arknights: Endfield is available now on PlayStation 5 (PS5), PC, and mobile devices via Apple App Store and Google Play Store. [...] # Arknights: Endfield - Official Trailer - IGN Live 2026
+## IGN
+19900000 subscribers
+4924 likes",,"trailer, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'showcase'] (+20)",general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=6CGS_C6XqG8,Arknights: Endfield - Gameplay Trailer | gamescom 2025,"# Arknights: Endfield - Gameplay Trailer | gamescom 2025
+## IGN
+19900000 subscribers
+2223 likes
+
+### Description
+108354 views
+Posted: 19 Aug 2025
+Watch the Gameplay Trailer for Arknights: Endfield, a free-to-play action RPG developed by Hypergryph. Embark on a grand adventure to take on enemies in a strategic fashion in Arknights: Endfield, coming soon to PlayStation 5 (PS5), iOS, Android, and PC.
+
+#ign #gamescom2025 [...] #ign #gamescom2025
+
+262 comments
+### Transcript:
+[Applause] The automated industry complex will be the link connecting and uniting every fragment of this shattered world. This is the driving force that will keep us going. Continuous improvement is essential for keeping pace with advancements in technology. Endfield. We don't simply talk about our dreams. We do what we can to make them a reality. All operators accounted for. The team is ready for the mission. Heat [Music] up [Music]",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=oJ00ggFb8A0,Arknights: Endfield Official Release Trailer: Back to Endfield,Arknights: Endfield launches on January 22nd across all platforms. Endfield Official Release Trailer: Back to Endfield,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=EfwGJH-etgk,Arknights: Endfield Beta Test Trailer,"The storm rages, tearing our homeland apart. Yet hope stands strong, as Endfield Industries has long been prepared.Read more",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=1ZOxE19XlPI,Arknights: Endfield Review,"intentional moves. Violation. As you explore, you'll encounter groups of various enemies camped out, like sedimentary spiders or sword wielding bandits. Instead of controlling the Endman alone, you can switch between all the members of your team in battle, applying flashy combos that feel engaging in motion and are extremely easy to pull off. Each character has a dodge, a light attack, and a special attack that string together nicely, delivering well choreographed synergies. Once you knock back [...] to construct and automate machinery. At my command. To do this, you'll build a team of up to four operators who fight and collect items alongside you to push the lengthy story ever onwards. [music] Early on, you'll have a limited pool of story specific characters to play as, like the masked Endman and the empathetic missionoriented Plica. Though eventually you'll be able to use a gacha currency to randomly pull new pals too. It doesn't have the most imaginative gameplay in the genre with most [...] ""Arknights: Endfield is a beautiful addition to the gacha genre that stands out by blending a complex factoring-building simulation with an enticing open-world RPG. While it shines with its bright vocal performances, fashionable character designs, and funny dialogue, a slog of predictable puzzles and an Olympic-sized pool of currencies dulls the experience somewhat. Even so, with a meditative combat system and a plethora of building options to try out, it’s still extremely easy to sink hours",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=2GjOGijE9fM,Arknights: Endfield PlayStation®5 Gameplay Demo,"# Arknights: Endfield PlayStation®5 Gameplay Demo
+## Arknights: Endfield
+1010000 subscribers
+16243 likes
+
+### Description
+344222 views
+Posted: 25 Sep 2025
+Watch the full prologue walkthrough of Arknights: Endfield, recorded on PlayStation®5 Pro.
+
+The PlayStation®5 Store page for Arknights: Endfield is now live!
+Wishlist now: 
+
+#ArknightsEndfield #Endfield
+
+1704 comments
+### Transcript:",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=9_AAkKDU8rY,ARKNIGHTS ENDFIELD New Gameplay Demo 17 Minutes 4K,"Arknights: Endfield New Gameplay Demo 17 Minutes 4K presents an extended look at real-time combat, exploration, and base-oriented mechanics",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+4732690,web_result,unknown_date,https://www.youtube.com/channel/UCowPaVRBzg8CE6K4CB6LJfw,Arknights: Endfield - YouTube,Arknights: Endfield is a real-time 3D RPG with strategic elements published by GRYPHLINE. Arknights: Endfield Operator Combat Demo: Liino 1.3M views 6 days ago,,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=2GjOGijE9fM,Arknights: Endfield PlayStation®5 Gameplay Demo - YouTube,"# Arknights: Endfield PlayStation®5 Gameplay Demo
+## Arknights: Endfield
+1010000 subscribers
+16243 likes
+
+### Description
+344222 views
+Posted: 25 Sep 2025
+Watch the full prologue walkthrough of Arknights: Endfield, recorded on PlayStation®5 Pro.
+
+The PlayStation®5 Store page for Arknights: Endfield is now live!
+Wishlist now: 
+
+#ArknightsEndfield #Endfield
+
+1704 comments
+### Transcript:",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+4732690,web_result,unknown_date,https://game8.co/games/Arknights-Endfield/archives/523411,Release Times and Countdown | Arknights: Endfield｜Game8,"| Endfield is now out! |
+
+Arknights: Endfield released on January 22, 2026 at 9:00 AM (GMT+8).
+
+## Arknights: Endfield Release Time
+
+### Endfield Released on January 22, 2026
+
+| Arknights: Endfield Release Date |
+
+|
+| Release Date | January 22, 2026 at 09:00 GMT+8 |
+
+Arknights: Endfield released on January 22, 2026 at 11:00 AM (GMT+8) for the PC, PS5, Android, and iOS platforms.
+
+The release date for the game was shown in a trailer during the The Game Awards 2025 on December 11, 2025 (UTC-5). [...] Arknights: Endfield was released last January 22, 2026! Check out the game's release times for all time zones, a countdown for its release, as well as 1.0 banners, characters, patch notes, and events in this guide!
+
+List of Contents
+
+ Release Countdown
+ Release Time
+ Version Summary
+ Banners
+ Characters
+ Maps
+ Missions
+ Events
+ Features
+ Related Guides
+
+## Arknights: Endfield Release Countdown
+
+### Endfield Release Countdown
+
+| Time Left Until Arknights: Endfield Releases | [...] The game officially released on January 22, 2026 (GMT+8), and is available for PC, PS5, Android, and iOS.
+
+## Arknights: Endfield 1.0 Summary
+
+### 1.0 Content and Patch Notes
+
+The patch notes for Version 1.0 of Arknights: Endfield are listed below.
+
+| Version 1.0 News |",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+4732690,web_result,unknown_date,https://en.wikipedia.org/wiki/Arknights:_Endfield,Arknights: Endfield - Wikipedia,"In 2022, Hypergryph opened user accounts for Arknights: Endfield and released a pilot trailer. A first technical test of the game on PC by prospective players took place in January 2024. Another limited beta test took place in January 2025. Endfield's released date was officially revealed at The Game Awards 2025 and was released on 22 January 2026. [...] 2026 video game
+
+| Arknights: Endfield |
+
+| Developers | Hypergryph Mountain Contour |
+| Publishers |  CHN: Hypergryph  TWN/HKG/MAC: Ariel  WW: Gryphline  Vietnam: Hồng Hà JSC |
+| Series | Arknights |
+| Engine | Unity ""Unity (game engine)"") |
+| Platforms |  Android ""Android (operating system)"")  iOS  PlayStation 5  Windows |
+| Release | 22 January 2026 |
+| Genre | Action-adventure |
+| Modes | Single-player, multiplayer |
+
+| Arknights: Endfield | [...] | Traditional Chinese | 明日方舟：終末地 |
+| Simplified Chinese | 明日方舟：终末地 |
+| Literal meaning | Ark of Tomorrow: Land of the End |
+| | Transcriptions |  | Standard Mandarin | | Hanyu Pinyin | Míngrì Fāngzhōu: Zhōngmòdì | |
+|  |
+
+Arknights: Endfield is an action role-playing game developed and published by Hypergryph. A spin-off of Arknights (2019), the game was released on 22 January 2026, for Android ""Android (operating system)""), iOS, PlayStation 5 and Windows.
+
+## Gameplay
+
+[edit]
+
+|  |",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4732690,web_result,unknown_date,https://mobalytics.gg/arknights-endfield/guides/release-date-pre-registration,Release Date & Pre-Registration - Arknights: Endfield,"Beijing / Hong Kong / Philippines January 22, 2026 09:00 AM (GMT+8)
+Tokyo, Japan / Seoul, Korea January 22, 2026 10:00 AM (UTC+9)
+Sydney, Australia January 22, 2026 12:00 PM (AEDT)
+Auckland, New Zealand January 22, 2026 02:00 PM (NZDT) [...] By Mobalytics
+Chicago, United States / Mexico City January 21, 2026 07:00 PM (CST)
+Toronto, Canada / New York, United States January 21, 2026 08:00 PM (EST)
+São Paulo, Brazil January 21, 2026 10:00 PM (UTC-3)
+London, United Kingdom January 22, 2026 01:00 AM (GMT)
+Berlin, Germany / Paris, France January 22, 2026 02:00 AM (CET)
+Riyadh, Saudi Arabia January 22, 2026 04:00 AM (UTC+3)
+Bangkok, Thailand January 22, 2026 08:00 AM (UTC+7)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4732690,web_result,unknown_date,https://en.wikipedia.org/wiki/Arknights:_Endfield,Arknights: Endfield,"On 10 March 2022, Hypergryph opened official accounts for Arknights: Endfield on various social media platforms. On 16 March, a teaser trailer PV was released, and a multilingual official website was announced. Players could pre-register for the game on the official website. The image on the back of the website showed a countdown of 48:00:00, indicating that the official game PV would be released in two days. On 18 March, a new concept CG and an initial gameplay demonstration video were [...] On 14 December 2024, the official game released a PV for the ""Second Test"", announcing that the second test would be launched in mid-January 2025. The test was conducted from 17 January to 17 February 2025. Subsequently, on 28 April 2025, the official announced the launch of player recruitment for the ""Second Test"" of the mobile version of Arknights: Endfield. The test was a confidential test, and the recruitment event lasted until 23:59 on 11 May 2025. [...] video were released. The CG provided voice acting in Chinese, English, Japanese and Korean, and it was announced that Arknights: Endfield would be a real-time strategy role-playing game.",,"trailer, gameplay, demo",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo'] (+20)",general
+4732690,web_result,unknown_date,https://endfield.gryphline.com/en-us/news/4499,"Arknights: Endfield - Over the Frontier, Into the Front","This is the Arknights: Endfield Team. The official release will mark the beginning of our journey together. As the release approaches, we would like to use this DEV Comm to share the major optimizations and adjustments made in the official release.
+
+### Game Progression and Exploration
+
+· Main Mission Adjustments: We have lowered the Authority Level requirements for certain main missions and streamlined the early main missions in Valley IV to improve the narrative pacing. [...] Version Calendar
+
+Gameplay & AIC Factory Intro
+
+Top-up Center
+
+Creators
+
+Go to Game
+
+Go to Game
+
+Go to Game
+
+Log In
+
+Creators
+
+Home
+
+Operators
+
+Lore
+
+Media
+
+Version Calendar
+
+Gameplay
+
+AIC Factory Intro
+
+News
+
+ENDFIELD
+
+News2026-01-17 12:00
+
+Arknights: Endfield [Official Release Preview] DEV Comm
+
+Dear Endministrator: [...] · New Regional Development Progress Notifications: When Recycling Stations, Stock Redistribution Terminals, depot nodes, or monitoring terminals within a region are available to be unlocked or upgraded, a notification will now appear under [Map - Mission Reminder - Key Mission].
+
+### Combat System
+
+· Action Fluidity Optimizations: We have refined combat controls for a better feel; casting most battle skills and combo skills will no longer interrupt basic attack sequences.",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4732690,web_result,unknown_date,https://endfield.gryphline.com/en-us/news,"Arknights: Endfield - Over the Frontier, Into the Front","News2026-07-23
+
+Arknights: Endfield Game Tools Updated for the New Version!
+
+![[Protocol Invitation: The Return] Web Event Details](
+
+Events2026-07-16
+
+[Protocol Invitation: The Return] Web Event Details
+
+![[Military Grade Issue] LTO Details](
+
+Notices2026-07-15
+
+[Military Grade Issue] LTO Details
+
+![[North Yearns the Rift Vigile] Chartered Headhunting](
+
+Notices2026-07-15
+
+[North Yearns the Rift Vigile] Chartered Headhunting
+
+Select Language
+
+English
+
+English
+
+繁體中文
+
+日本語
+
+한국어
+
+Español [...] ![Arknights: Endfield [Homecoming] Core Chapter Version DEV Comm](
+
+News2026-07-11
+
+Arknights: Endfield [Homecoming] Core Chapter Version DEV Comm
+
+Wishlist Milestone Event
+
+Events2026-08-13
+
+Wishlist Milestone Event
+
+WhatsApp & Messenger Subscription Event Now Live!
+
+Events2026-08-10
+
+WhatsApp & Messenger Subscription Event Now Live!
+
+![[Bedazzled Issue] LTO Details](
+
+Notices2026-08-08
+
+[Bedazzled Issue] LTO Details
+
+Arknights: Endfield Game Tools Updated for the New Version!
+
+News2026-07-23 [...] Version Calendar
+
+Gameplay & AIC Factory Intro
+
+Top-up Center
+
+Creators
+
+Go to Game
+
+Go to Game
+
+Go to Game
+
+Log In
+
+Creators
+
+Home
+
+Operators
+
+Lore
+
+Media
+
+Version Calendar
+
+Gameplay
+
+AIC Factory Intro
+
+News
+
+ENDFIELD
+
+News
+
+News
+
+Latest
+
+Notices
+
+Events
+
+News
+
+![[Good Morning from Your Dawnstar] Chartered Headhunting](
+
+Notices2026-08-08
+
+[Good Morning from Your Dawnstar] Chartered Headhunting
+
+![[Homecoming] Version Update Notes](
+
+Notices2026-07-16
+
+[Homecoming] Version Update Notes",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4732690,web_result,unknown_date,https://www.rpgsite.net/news/20669-arknights-endfield-next-update-trailer-arcane,Arknights: Endfield previews the next update in new Back to the North trailer | RPG Site,"> Global game publisher GRYPHLINE revealed the “Back to the North” trailer for Arknights: Endfield during IGN Live this weekend, offering an early look at the game’s next update and the return of Arcane, captain of the Yinglung Special Task Force. The new trailer signals the next step for Arknights: Endfield as the game continues to expand its story, world and real-time squad combat. Built around Endfield’s industrial sci-fi identity, the upcoming update will bring players deeper into the [...] >
+> The latest entry in the popular Arknights universe, Arknights: Endfield marks the first time the IP has expanded beyond mobile, bringing its signature strategic depth to console and PC. Arknights: Endfield builds off the wildly popularArknightsexperience, which has exceeded 100 million downloads to date, by introducing a new frontier storyline and a world built around exploration, real-time combat and base-building.
+> [...] by Mikhail Madnani on 12 June, 2026
+
+Developer Hypergryph and publisher Gryphline have shared a new trailer for the free-to-play ""3D Industrial RPG"" Arknights: Endfieldpreviewing the next update.
+
+Advertisement. Keep scrolling for more",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=OaL1rpIUzzY,Arknights: Endfield - Official Trailer - IGN Live 2026,"Watch the latest Arknights: Endfield trailer for a peek at what's coming to the action RPG. The new trailer showcases characters fighting off enemies and various locations. In Arknights: Endfield, take on the role of the Endministrator of Endfield Industries, where you will lead your operators to defend and expand the frontiers of humanity. A new update will bring new playable characters, a new area, a fan-favorite game mode, and more to Arknights: Endfield on June 5, 2026. Arknights: Endfield [...] Arknights: Endfield is available now on PlayStation 5 (PS5), PC, and mobile devices via Apple App Store and Google Play Store. [...] # Arknights: Endfield - Official Trailer - IGN Live 2026
+## IGN
+19900000 subscribers
+4924 likes",,"trailer, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'showcase'] (+20)",general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=oJ00ggFb8A0,Arknights: Endfield Official Release Trailer: Back to Endfield,Arknights: Endfield launches on January 22nd across all platforms. Endfield Official Release Trailer: Back to Endfield,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4732690,web_result,unknown_date,https://www.gamespress.com/en-US/Arknights-Endfield-Sets-Jan-22-2026-Global-Launch-Date-Revealed-at-The,"""Arknights: Endfield Sets Jan. 22, 2026 Global Launch Date, Revealed at The Game Awards"" - Games Press","SHANGHAI — Dec. 11, 2025 — Global publisher GRYPHLINE today announced that Arknights: Endfield, the highly anticipated 3D strategy RPG set in the Arknights universe, will launch globally on Jan. 22, 2026, for PlayStationⓇ5, PC, and mobile. The reveal was made during The Game Awards, accompanied by a high-energy trailer featuring an original track, Give Me Something, composed and performed by OneRepublic exclusively for this announcement. [...] GRYPHLINE is the global publishing brand of HYPERGRYPH, headquartered in Singapore, with branches across multiple countries and regions. Our mission is to bring unique and high-quality gaming experiences to players across the world. As the trusted global publishing partner of HYPERGRYPH, we are responsible for releasing titles including Arknights: Endfield, Ex Astris, and POPUCOM. We are also expanding into more areas of global publishing, launching the official player community SKPORT, and [...] Throughout 2025, GRYPHLINE showcasedArknights: Endfieldacross major global events — including Anime Expo, Japan Expo, Gamescom, and a recent Apple Event featuring the title’s first mobile gameplay footage — bringing the world of Talos-II to audiences worldwide.",,"trailer, gameplay, announcement, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'announcement', 'showcase'] (+20)",general
+4732690,web_result,unknown_date,https://en.wikipedia.org/wiki/Arknights:_Endfield,Arknights: Endfield,"| Traditional Chinese | 明日方舟：終末地 |
+| Simplified Chinese | 明日方舟：终末地 |
+| Literal meaning | Ark of Tomorrow: Land of the End |
+| | Transcriptions |  | Standard Mandarin | | Hanyu Pinyin | Míngrì Fāngzhōu: Zhōngmòdì | |
+|  |
+
+Arknights: Endfield is an action role-playing game developed and published by Hypergryph. A spin-off of Arknights (2019), the game was released on 22 January 2026, for Android ""Android (operating system)""), iOS, PlayStation 5 and Windows.
+
+## Gameplay
+
+[edit]
+
+|  | [...] 2026 video game
+
+| Arknights: Endfield |
+
+| Developers | Hypergryph Mountain Contour |
+| Publishers |  CHN: Hypergryph  TWN/HKG/MAC: Ariel  WW: Gryphline  Vietnam: Hồng Hà JSC |
+| Series | Arknights |
+| Engine | Unity ""Unity (game engine)"") |
+| Platforms |  Android ""Android (operating system)"")  iOS  PlayStation 5  Windows |
+| Release | 22 January 2026 |
+| Genre | Action-adventure |
+| Modes | Single-player, multiplayer |
+
+| Arknights: Endfield | [...] ## Development and release
+
+[edit]
+
+Arknights: Endfield was developed by Hypergryph, which had released its predecessor, Arknights. Endfield uses the Unity engine ""Unity (game engine)"").",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4732690,web_result,unknown_date,https://en.wikipedia.org/wiki/Arknights:_Endfield,Arknights: Endfield,"## Development and release
+
+[edit]
+
+Arknights: Endfield was developed by Hypergryph, which had released its predecessor, Arknights. Endfield uses the Unity engine ""Unity (game engine)""). [...] | Traditional Chinese | 明日方舟：終末地 |
+| Simplified Chinese | 明日方舟：终末地 |
+| Literal meaning | Ark of Tomorrow: Land of the End |
+| | Transcriptions |  | Standard Mandarin | | Hanyu Pinyin | Míngrì Fāngzhōu: Zhōngmòdì | |
+|  |
+
+Arknights: Endfield is an action role-playing game developed and published by Hypergryph. A spin-off of Arknights (2019), the game was released on 22 January 2026, for Android ""Android (operating system)""), iOS, PlayStation 5 and Windows.
+
+## Gameplay
+
+[edit]
+
+|  | [...] 2026 video game
+
+| Arknights: Endfield |
+
+| Developers | Hypergryph Mountain Contour |
+| Publishers |  CHN: Hypergryph  TWN/HKG/MAC: Ariel  WW: Gryphline  Vietnam: Hồng Hà JSC |
+| Series | Arknights |
+| Engine | Unity ""Unity (game engine)"") |
+| Platforms |  Android ""Android (operating system)"")  iOS  PlayStation 5  Windows |
+| Release | 22 January 2026 |
+| Genre | Action-adventure |
+| Modes | Single-player, multiplayer |
+
+| Arknights: Endfield |",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4732690,web_result,unknown_date,https://developer.apple.com/news?id=cpt08xv8,The rise of Arknights: Endfield - Discover - Apple Developer,"May 15, 2026
+
+It's easy to understand why Arknights: Endfield became an instant hit upon release: With gorgeous graphics, 3D combat action, and large-scale linear environments, the latest game from Shanghai-based developer HyperGryph pushes the boundaries of what's possible on iPhone and iPad. [...] Yayan: For Arknights: Endfield, we broke it down into three steps. First, we worked with narrative and game designers to define the theme of the levels and gameplay, while our concept artists quickly put together sketches to validate those ideas. [...] Developed over the course of four years, Arknights: Endfield encourages players to not only build their own futuristic factory, but to defend it from constant dangers. We spoke with senior technical director Will and senior environment concept artist Yayan about the technology, tenacity, and challenges involved in bringing Arknights: Endfield to life.
+
+### Arknights: Endfield
+
+Download Arknights: Endfield from the App Store >",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4732690,web_result,unknown_date,https://www.gamespress.com/Arknights-Endfield-Reimagined-An-In-depth-Interview-with-Light-Zhong-a,"""Arknights: Endfield Reimagined — An In-depth Interview with Light Zhong and Yifeng Huang"" - Games Press","[The following reflects a translated version of the interview GCORES conducted with HYPERGRYPH’s Arknights Endfielddevelopers, Light Zhong and Yifeng Huang in which they shared insights on the game’s evolution and the upcoming Beta Test.]
+
+On December 14th, after more than a year of silence, Arknights: Endfield unveiled a brand-new trailer. The announcement revealed the Beta Test has been slated for Jan 16, 2025, 22:00 (UTC-5).
+
+Arknights: Endfield December 14 trailer [...] Since the lead devs talked about character design, we naturally asked the developers about their approach to 3D modeling. Their answer: The Endfield team aims to preserve the signature blend of warmth and somberness that defines Arknights characters. This goal has been clear from the very beginning. It is also a popular aspect of Arknights that players continue to talk about. [...] The Endfield team worked hard to harmonize environment and character visuals. The lead devs illustrated this with an example: A realistic-looking concrete wall in the game. Its textures, stains, and colors are not exactly the same as an actual concrete wall. In fact, they've been meticulously processed and adjusted through iterative evaluations. Plenty of detailed artistic work must be carried out to ensure that things do not look out of place. The hope is to create a believable physical space",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4732690,youtube_video,outside_window,https://www.youtube.com/watch?v=NCIOjui7nbE,Arknights Endfield Gameplay Preview - SHOULD You PLAY It? Is It Worth it?,,"Arknights Endfield Gameplay Preview - SHOULD You PLAY It? Is It Worth it? In this Fextralife video, we'll be taking a look at ...",gameplay,35,medium,YouTube (+15); Keywords ['gameplay'] (+20),
+4732690,youtube_video,outside_window,https://www.youtube.com/watch?v=yleMtwJ-Omc,The Truth Of Arknights Endfield Gameplay After 80+ Hours - How I Actually Feel,,I spent more than 80 hours playing Arknights:Endfield and these are my thoughts! I've pretty much learned everything there is ...,gameplay,35,medium,YouTube (+15); Keywords ['gameplay'] (+20),
+4732690,youtube_video,outside_window,https://www.youtube.com/watch?v=NCIOjui7nbE,Arknights Endfield Gameplay Preview - SHOULD You PLAY It? Is It Worth it?,,"Arknights Endfield Gameplay Preview - SHOULD You PLAY It? Is It Worth it? In this Fextralife video, we'll be taking a look at ...",gameplay,35,medium,YouTube (+15); Keywords ['gameplay'] (+20),
+4732690,reddit_discussion,unknown_date,https://www.reddit.com/r/Endfield/comments/1vmyd0j/arknights_endfield_is_coming_to_steam,Arknights: Endfield is coming to Steam,Arknights: Endfield is coming to Steam store.steampowered.com … additionally give you access to steam overlay in game and full controller,,,30,weak,Reddit (+10); Exact title match (+20),general
+4732690,reddit_discussion,unknown_date,https://www.reddit.com/r/Endfield,Arknights: Endfield,"Welcome to r/Endfield, the community-run subreddit for the Strategic 3D RPG game Arknights: Endfield. Endfield is coming to Steam Patch 1.4.",,,30,weak,Reddit (+10); Exact title match (+20),social
+4732690,reddit_discussion,unknown_date,https://www.reddit.com/r/Endfield/comments/1qg5alv/arknights_endfield_will_officially_release,Arknights: Endfield will officially release worldwide on Jan. ...,"Arknights: Endfield Beta Test II will end on Dec. 29, 2025 at 2:00 PM (UTC+8). r/Endfield. • 8mo ...Read more",,,30,weak,Reddit (+10); Exact title match (+20),social
+4732690,reddit_discussion,unknown_date,https://www.reddit.com/r/ArknightsEndfield,r/ArknightsEndfield,r/ArknightsEndfield: The unofficial subreddit for Arknights: Endfield. We are under new management and looking for more mods for our fast,,,30,weak,Reddit (+10); Exact title match (+20),social
+4732690,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1qiivl2/arknights_endfield_review_so_far,r/Games - Arknights: Endfield Review So Far,"This has such a nice blend of anime aesthetics with high fidelity graphics, it's a game with fun, stylish combat, cool team building, charming",,,30,weak,Reddit (+10); Exact title match (+20),social
+4732690,reddit_discussion,unknown_date,https://www.reddit.com/r/Endfield/new,Arknights: Endfield,"Image 1
+
+# Prove your humanity
+
+We’re committed to safety and security. But not for bots. Complete the challenge below and let us know you’re a real person.
+
+Reddit, Inc. © ""2026"". All rights reserved.
+
+User AgreementPrivacy PolicyContent PolicyHelp",,,30,weak,Reddit (+10); Exact title match (+20),social
+4732690,reddit_discussion,unknown_date,https://www.reddit.com/r/Endfield/new,Arknights: Endfield,"Image 1
+
+# Prove your humanity
+
+We’re committed to safety and security. But not for bots. Complete the challenge below and let us know you’re a real person.
+
+Reddit, Inc. © ""2026"". All rights reserved.
+
+User AgreementPrivacy PolicyContent PolicyHelp",,,30,weak,Reddit (+10); Exact title match (+20),social
+4732690,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=sbgBjj2bBRs,Arknights Endfield 6 Months Later... How I Actually Feel,,My updated thoughts & review on Arknights Endfield after playing it for 6 months :D Sciel's channel: ...,,30,weak,Inside extended window (+15); YouTube (+15),
+4732690,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=sbgBjj2bBRs,Arknights Endfield 6 Months Later... How I Actually Feel,,My updated thoughts & review on Arknights Endfield after playing it for 6 months :D Sciel's channel: ...,,30,weak,Inside extended window (+15); YouTube (+15),
+4732690,web_result,unknown_date,https://x.com/AKEndfield,Arknights: Endfield (@AKEndfield) / X,"Aug 12
+
+  🎁Welcome to Endfield Ask Me Anything Special Event, Endministrator. This is a Q&A event for all Endministrators, where different operators will join from time to time. You can ask them questions. Operator Liino is a rising star in the Civilization Band's pop culture scene,
+
+  
+ user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Aug 11 [...] 18h
+
+  Arknights: Endfield Steam Launch Milestone Event Dear Endministrator, To celebrate Arknights: Endfield's upcoming launch on Steam, we're holding a special Wishlist Milestone Event! Starting today, add Arknights: Endfield to your Steam Wishlist and help us reach the final
+
+  
+ user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Aug 12 [...] Log inSign up
+
+Arknights: Endfield
+
+Arknights: Endfield profile banner
+
+user avatar
+
+# Arknights: Endfield
+
+Arknights: Endfield is a real-time 3D RPG with strategic elements published by GRYPHLINE.
+
+endfield.gryphline.com/en-us/
+
+Joined March 2022
+
+10
+
+Following405.7K
+
+Followers
+
+AffiliatesAffiliatesRepliesRepliesMediaMedia
+
+ Pinned
+
+  user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Jul 10",,,25,weak,Social Index (+5); Exact title match (+20),general
+4732690,web_result,unknown_date,https://x.com/AKEndfield,Arknights: Endfield (@AKEndfield) / Posts / X,"Log inSign up
+
+Arknights: Endfield
+
+Arknights: Endfield profile banner
+
+user avatar
+
+# Arknights: Endfield
+
+Arknights: Endfield is a real-time 3D RPG with strategic elements published by GRYPHLINE.
+
+endfield.gryphline.com/en-us/
+
+Joined March 2022
+
+10
+
+Following405.7K
+
+Followers
+
+AffiliatesAffiliatesRepliesRepliesMediaMedia
+
+ Pinned
+
+  user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Jul 10 [...] 18h
+
+  Arknights: Endfield Steam Launch Milestone Event Dear Endministrator, To celebrate Arknights: Endfield's upcoming launch on Steam, we're holding a special Wishlist Milestone Event! Starting today, add Arknights: Endfield to your Steam Wishlist and help us reach the final
+
+  
+ user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Aug 12 [...] Aug 11
+
+  🎁Excuse me — the real star of the show is here! When it comes to looking good on camera, Liino is THE expert. From glossy magazine shoots to fan-favorite photos, Liino nails every angle and every pose! Now Liino wants to see if your camera skills are next level! Share this
+
+  
+
+  00:00
+ user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Aug 11",,,25,weak,Social Index (+5); Exact title match (+20),general
+4732690,web_result,unknown_date,https://x.com/AKEndfield,Arknights: Endfield (@AKEndfield) / Posts / X,"Log inSign up
+
+Arknights: Endfield
+
+Arknights: Endfield profile banner
+
+user avatar
+
+# Arknights: Endfield
+
+Arknights: Endfield is a real-time 3D RPG with strategic elements published by GRYPHLINE.
+
+endfield.gryphline.com/en-us/
+
+Joined March 2022
+
+10
+
+Following405.7K
+
+Followers
+
+AffiliatesAffiliatesRepliesRepliesMediaMedia
+
+ Pinned
+
+  user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Jul 10 [...] Aug 12
+
+  🎁Welcome to Endfield Ask Me Anything Special Event, Endministrator. This is a Q&A event for all Endministrators, where different operators will join from time to time. You can ask them questions. Operator Liino is a rising star in the Civilization Band's pop culture scene,
+
+  
+ user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Aug 11 [...] 18h
+
+  Arknights: Endfield Steam Launch Milestone Event Dear Endministrator, To celebrate Arknights: Endfield's upcoming launch on Steam, we're holding a special Wishlist Milestone Event! Starting today, add Arknights: Endfield to your Steam Wishlist and help us reach the final
+
+  
+ user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Aug 12",,,25,weak,Social Index (+5); Exact title match (+20),general
+4732690,social_post,unknown_date,https://shop.tiktok.com/ph/pdp/1735126656046433713,Arknights: Endfield Gugugaga Little Penguin 25 cm plush toy ...,"Arknights: Endfield Gugugaga Little Penguin 25 cm plush toy, stuffed toys, action figure. 6 / 6. -52%₱395.33₱823.62. Arknights: Endfield Gugugaga Little",,,25,weak,Social Index (+5); Exact title match (+20),social
+4732690,social_post,unknown_date,https://www.tiktok.com/@qndzy/video/7600248219775290655,Arknights: Endfield – Join 30 Million Players Now!,"Download Arknights: Endfield and join 30 million players today! Available for free on both Steam and mobile platforms,",,,25,weak,Social Index (+5); Exact title match (+20),social
+4732690,social_post,unknown_date,https://www.instagram.com/reel/DbF1L16MMmo,"Arknights: Endfield Cutscene - Beyond the Traces ""Take up ...",Arknights: Endfield version 1.4 is live. Here's a video that shows you how to pair and level up the new operator Arcane. Arcane,,,25,weak,Social Index (+5); Exact title match (+20),social
+4732690,social_post,unknown_date,https://www.instagram.com/akendfieldofficial,Arknights: Endfield (@akendfieldofficial),227K followers · 0 following · 505 posts · @akendfieldofficial: “Arknights: Endfield is a real-time 3D RPG with strategic elements published by GRYPHLINE.”,,,25,weak,Social Index (+5); Exact title match (+20),social
+4732690,social_post,unknown_date,https://www.instagram.com/p/DT0yUqyEmmP,"Got to do some voice work for Arknights: Endfield, out today ...","Arknights: Endfield, the hit action RPG developed by Hypergryph. Players can become familiar with Liino, a new operator in the game",,,25,weak,Social Index (+5); Exact title match (+20),social
+4732690,social_post,unknown_date,https://www.instagram.com/p/DYub81YFp8S,This is my artistic rendition of Ardashir from Arknights ...,Arknights: Endfield is an f2p action rpg with factory simulation. It is a spinoff of Hypergryph's 2019 tower defense game Arknights. 2019 tower,,,25,weak,Social Index (+5); Exact title match (+20),social
+4732690,social_post,unknown_date,https://x.com/AKEndfield,Arknights: Endfield (@AKEndfield) / Posts / X,"Log inSign up
+
+Arknights: Endfield
+
+Arknights: Endfield profile banner
+
+user avatar
+
+# Arknights: Endfield
+
+Arknights: Endfield is a real-time 3D RPG with strategic elements published by GRYPHLINE.
+
+endfield.gryphline.com/en-us/
+
+Joined March 2022
+
+10
+
+Following405.7K
+
+Followers
+
+AffiliatesAffiliatesRepliesRepliesMediaMedia
+
+ Pinned
+
+  user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Jul 10 [...] 18h
+
+  Arknights: Endfield Steam Launch Milestone Event Dear Endministrator, To celebrate Arknights: Endfield's upcoming launch on Steam, we're holding a special Wishlist Milestone Event! Starting today, add Arknights: Endfield to your Steam Wishlist and help us reach the final
+
+  
+ user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Aug 12 [...] Aug 12
+
+  🎁Welcome to Endfield Ask Me Anything Special Event, Endministrator. This is a Q&A event for all Endministrators, where different operators will join from time to time. You can ask them questions. Operator Liino is a rising star in the Civilization Band's pop culture scene,
+
+  
+ user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Aug 11",,,25,weak,Social Index (+5); Exact title match (+20),social
+4732690,social_post,unknown_date,https://x.com/AKEndfield/status/2087735903565602984,"Arknights: Endfield on X: ""Arknights: Endfield Steam Launch Milestone Event Dear Endministrator, To celebrate Arknights: Endfield's upcoming launch on Steam, we're holding a special Wishlist Milestone Event! Starting today, add Arknights: Endfield to your Steam Wishlist and help us reach the final https://t.co/EKSqyf3agw"" / X","(the exact launch date will be announced later). ▼// Milestone Rewards · Phase 1 (30,000): T-Creds×8,000 · Phase 2 (100,000): Elementary Cognitive Carrier×2 · Phase 3 (200,000): Arms INSP Set×2 · Final Goal (300,000): Special Commemorative Portrait Frame×1 Head to Steam now and add Arknights: Endfield to your Steam Wishlist. Let's push towards the final goal! store.steampowered.com/app/4732690/ #ArknightsEndfield #Endfield #CompanionshipCelebration [...] 3:00 AM · Aug 13, 2026265.4KViews
+ user avatar
+
+  nananana
+
+  @OkboiN
+
+  Aug 13
+
+  >og arknights global release in pc finally >endfield in steam finally Where is my lowlight giga
+ user avatar
+
+  Endmin
+
+  @endfieldendmin
+
+  Aug 13
+
+  Please get rid of the 13 hour delay for NA/EU while you're at it. 🙏 Getting the second half banners and all events half a day later is annoying.
+ user avatar
+
+  Ace Lord
+
+  @AceLord1996
+
+  23h
+
+  Sorry I just couldn't help myself 🤣🤣🤣 [...] Arknights: Endfield Steam Launch Milestone Event Dear Endministrator, To celebrate Arknights: Endfield's upcoming launch on Steam, we're holding a special Wishlist Milestone Event! Starting today, add Arknights: Endfield to your Steam Wishlist and help us reach the final milestone to unlock a special commemorative portrait frame and other exciting rewards! ▼// Event Time From the start of the event on Aug. 13, 2026, until the official launch of Arknights: Endfield on Steam (the exact launch",,,25,weak,Social Index (+5); Exact title match (+20),social
+4732690,social_post,unknown_date,https://x.com/i/communities/1877212135140245970,Arknights: Endfield Community on X - 4.8K Members,"Join 4795 members discussing Gaming in the Arknights: Endfield community on X. The growing home for all Endministrators. Gacha discussions, lore dives and more!",,,25,weak,Social Index (+5); Exact title match (+20),social
+4732690,social_post,unknown_date,https://x.com/AKEndfield/status/2080684439794041326,Arknights: Endfield,"This August, we're bringing Arknights: Endfield to both #AnimeNYC and #gamescom! Get ready for immersive booth experiences, exclusive",,,25,weak,Social Index (+5); Exact title match (+20),social
+4732690,social_post,unknown_date,https://x.com/AKEndfieldES,Arknights: Endfield ES (@AKEndfieldES) / Posts / X,"Desde el inicio del evento, el 13 de agosto de 2026, hasta el lanzamiento oficial de Arknights: Endfield en Steam (la fecha exacta de",,,25,weak,Social Index (+5); Exact title match (+20),social
+4732690,social_post,unknown_date,https://x.com/AKEndfield,Arknights: Endfield (@AKEndfield) / Posts / X,"Log inSign up
+
+Arknights: Endfield
+
+Arknights: Endfield profile banner
+
+user avatar
+
+# Arknights: Endfield
+
+Arknights: Endfield is a real-time 3D RPG with strategic elements published by GRYPHLINE.
+
+endfield.gryphline.com/en-us/
+
+Joined March 2022
+
+10
+
+Following405.7K
+
+Followers
+
+AffiliatesAffiliatesRepliesRepliesMediaMedia
+
+ Pinned
+
+  user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Jul 10 [...] 18h
+
+  Arknights: Endfield Steam Launch Milestone Event Dear Endministrator, To celebrate Arknights: Endfield's upcoming launch on Steam, we're holding a special Wishlist Milestone Event! Starting today, add Arknights: Endfield to your Steam Wishlist and help us reach the final
+
+  
+ user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Aug 12 [...] Aug 12
+
+  🎁Welcome to Endfield Ask Me Anything Special Event, Endministrator. This is a Q&A event for all Endministrators, where different operators will join from time to time. You can ask them questions. Operator Liino is a rising star in the Civilization Band's pop culture scene,
+
+  
+ user avatar
+
+  Arknights: Endfield
+
+  @AKEndfield
+
+  Aug 11",,,25,weak,Social Index (+5); Exact title match (+20),social
+4732690,social_post,unknown_date,https://endfield.gryphline.com,Arknights: Endfield - GRYPHLINE,Eliminate the Blight and neutralize Ankhor threats. Lead Endfield Industries in expanding across the planet as you build and develop each region along the way.,,,25,weak,Social Index (+5); Exact title match (+20),social
+4732690,social_post,unknown_date,https://play.google.com/store/apps/details?id=com.gryphline.endfield.gp&hl=en_US,Arknights: Endfield - Apps on Google Play,"Icon image
+
+# Arknights: Endfield
+
+Icon image
+Content rating
+Content rating
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+Screenshot image
+
+## About this game
+
+## Data safety
+
+Icon image
+Icon image
+Icon image
+Icon image
+
+## Ratings and reviews [...] ## What’s new
+
+Content rating
+
+## App support
+
+## More by GRYPHLINE
+
+Thumbnail image
+Thumbnail image
+
+## Similar games
+
+Thumbnail image
+Thumbnail image
+Thumbnail image
+Thumbnail image
+Thumbnail image
+Thumbnail image
+
+Play Pass
+
+Play Points
+
+Gift cards
+
+Redeem
+
+Refund policy
+
+Parent Guide
+
+Family sharing
+
+Terms of Service
+
+Privacy
+
+About Google Play
+
+Developers
+
+Google Store",,,25,weak,Social Index (+5); Exact title match (+20),social
+4732690,web_result,unknown_date,https://steamdeckhq.com/game-reviews/arknights-endfield,Arknights: Endfield - Steam Deck HQ,"To play Arknights: Endfield on the Steam Deck, you will have to install it from a third-party. This could be from Epic using the Heroic Games Launcher or NonSteamLaunchers, or installing the launcher directly and adding it to Steam. [...] Exploration strikes a smart balance between freedom and focus. Rather than dropping you into an overwhelming open world, Endfield offers tightly connected spaces that encourage poking around without killing momentum. Movement feels good, traversal options keep things snappy, and there’s a pleasing sense of forward motion that stops the game from bogging down between combat and story. It respects your time more than its early pacing might suggest. [...] Arknights: Endfield performs better than might be expected for a visually dense, PC-first release. With sensible settings in place, specifically keeping it at the ""Very Low"" preset, albeit with an FPS cap of 60, the game is certainly capable of mostly holding that 60fps target, delivering a surprisingly smooth experience during exploration and combat alike. While there can be the occasional dip during busier moments, overall performance feels stable enough to comfortably justify a higher",,,20,weak,Exact title match (+20),general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=NCIOjui7nbE,Arknights Endfield Gameplay Preview - SHOULD You PLAY It? Is It Worth it?,"and combat, which is what I know you really want to hear about. Arknights Endfield is an action role-playing title that doesn't seem to have a typical open-world map, but instead, it features vast intertwined areas that provides a considerable amount of landmarks and zones for players to explore. There is also modernized base building and industrial management through the AIC, or Automated Industrial Complex, while also incorporating some conventional elements of RPG combat and progression that [...] to travel in. Just like other RPGs, Arknights Endfield will seem familiar compared with other games in the gacha market. A player's team consists of four operators, and each operator can execute a unique string of basic attacks, a battle skill, combo skills, and an ultimate ability. Combining these moves allows for seamless chaining of offensive reactions to execute bursts of damage, applying a variety of status effects, and an execution of cool flashy moves. What anime-inspired action RPG [...] progression that will seem familiar for players who have played other action RPG titles and gacha games. Currently, there are two regions for players to explore, Valley Four and the City of Wuling. Arknights Endfield has no shortage of activities for players to discover. There are various quests, storylines, puzzles, secrets, collectibles to find, and challenges to complete to earn extra rewards and personal achievements. As mentioned, the game consists of large interconnected zones, which is,",,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=7_Zrxg7lZWw,Arknights Endfield - Gameplay Walkthrough Part 1 (No Commentary),"near the base. Out of concern for safety, Director Chin and Andre are at the hub base. In accordance with the contingency plan, [music] they will take control of the scene as critical events happen. Fiona, keep hailing the hub base regardless of whether we've received any [music] response from them. Inform them that I'm coming soon. Also, tell operator Chen to rende with me there. Roger. We're prepping your drop. Initiating alignment. Target Valley 4. All systems green for landing. Fire away. [...] if you see that old fool, tie him up and haul him back to the control tower. This might be the only safe place left [music] in the base. We'll find him. Have faith in us. The anchor at the old factory [music] is still spawning Inglloy. We must first eliminate this threat. Time to initiate our mission. End. The stabilizing core of the anchor is its weakness. Take that out and the entire construct will disintegrate. The core itself is fragile. But the real challenge is the anglo swarming around [...] landing. Fire away. [music] Destination Talos 2. Need a progress update. Fiona, I'm still trying to reestablish contact. Wait, helicopter. We have multiple unknown objects coming in back. Watch out. Hold on tight. stay [music] close to me. Administrator Strike man. And administrator, you all right? [music] Are you hurt? I'm okay, but we'll have to walk the rest of the [music] way. The Angola even managed to reach this place. The situation in the field is far more severe than our previous",,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+4732690,web_result,unknown_date,https://endfield.gryphline.com,Arknights: Endfield - GRYPHLINE,Arknights: Endfield is a real-time 3D RPG with strategic elements published by GRYPHLINE. Eliminate the Blight and neutralize Ankhor threats.,,,20,weak,Exact title match (+20),general
+4732690,web_result,unknown_date,https://www.pcgamesn.com/arknights-endfield/guide,"Arknights Endfield guides, gameplay, trailers, and more","## Arknights Endfield guides
+
+Here are all the Arknights Endfield guides you'll need to expand your factory operations deep into Talos-II:
+
+### Core guides
+
+### Character guides
+
+YouTube Thumbnail
+
+## Arknights Endfield release date
+
+The Arknights Endfield release date was Thursday, January 22, 2026. It launched worldwide on PC, PlayStation 5, Android, and iOS.
+
+The Endfield download became available the day before launch, letting people download its modest installation package in advance. [...] While Endfield was originally slated to arrive in 2025, publisher Gryphline confirmed that the Arknights Endfield launch window had shifted into 2026 during a Gamescom special trailer.
+
+Speculation that Endfield would arrive in August 2025 was rife ahead of Gryphline's announcement following Endfield's appearance on China's NPPA list of upcoming games granted license for publication. However, the theory that this license expires after one year was quickly debunked.
+
+YouTube Thumbnail [...] Endfield's appearance at Anime Expo, Japan Expo, and Gamescom preceded full confirmation of the global release date during The Game Awards 2025.
+
+The global pre-registration milestone rewards included the five-star character Snowshine, ten banner pulls and more goodies to help players hit the ground running at launch.",,"trailer, gameplay, announcement, release date",20,weak,"Keywords ['trailer', 'gameplay', 'announcement', 'release date'] (+20)",general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=5Xm45NwWOlo,Worldwide Release on January 22nd | Arknights: Endfield Official Release PV,"# Worldwide Release on January 22nd | Arknights: Endfield Official Release PV
+## Arknights: Endfield
+1020000 subscribers
+30645 likes
+
+### Description
+20004837 views
+Posted: 12 Dec 2025
+From these lands beneath to the planets above, the path we tread together remains unbroken. Once more, we venture forth as one—to chart the unknown and forge the future
+
+Arknights: Endfield is officially set for its worldwide release on January 22nd, 2026 [...] that I know. I'm chasing the glow. Give me something. [music] Someone to love. Someone to count these stars above. [music] Give me something. [...] Special guest @OneRepublic  presents the brand-new theme track for Arknights: Endfield ""Give Me Something""
+
+New Sound Track: 
+
+Pre-registration is now open on all available platforms:",,,20,weak,Exact title match (+20),general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=5Xm45NwWOlo,Arknights: Endfield Official Release PV,"# Worldwide Release on January 22nd | Arknights: Endfield Official Release PV
+## Arknights: Endfield
+1020000 subscribers
+30645 likes
+
+### Description
+20004837 views
+Posted: 12 Dec 2025
+From these lands beneath to the planets above, the path we tread together remains unbroken. Once more, we venture forth as one—to chart the unknown and forge the future
+
+Arknights: Endfield is officially set for its worldwide release on January 22nd, 2026 [...] Special guest @OneRepublic  presents the brand-new theme track for Arknights: Endfield ""Give Me Something""
+
+New Sound Track: 
+
+Pre-registration is now open on all available platforms: [...] [music] Somewhere that I know. I'm chasing the glow. Give me something. Someone to love. Someone to count [music] these stars above. Give me something. Tell me lies. Make it up. [music] Paint the picture. Take me with you. I don't care what what you say. [music] I'm making a new day. It's a new world. It's a new [music] world. I don't care where where this goes. I'm making it happen. It's a new world. It's a new [music] world. Give me something. Somewhere to go. Somewhere that I know. I'm",,,20,weak,Exact title match (+20),general
+4732690,web_result,unknown_date,https://endfield.gryphline.com,Arknights: Endfield - GRYPHLINE,Arknights: Endfield is a real-time 3D RPG with strategic elements published by GRYPHLINE. It is the current headquarters of Endfield Industries.,,,20,weak,Exact title match (+20),general
+4732690,web_result,unknown_date,https://cogconnected.com/review/arknights-endfield-review,"Arknights: Endfield Review - Fighting, Factories and Lotsa Gacha - COGconnected","Arknights: Endfield is a distantly related spinoff of 2019’s Arknights from Chinese developer Hypergryph. Arknights combined tower defense mechanics with a gacha system. For Arknights: Endfield, the developer has turned up the knob to 11 on the ambition scale. The new game brings together semi-open world third-person action, a complex factory simulator, exploration, and ever-present (i.e. intrusive) gacha mechanics. After all, Arknights: Endfield is a free-to-play game and Hypergryph has to pay [...] For a free-to-play game, Arknights: Endfield offers a wealth of well-made content. The factory building, tower defense mechanics, exploration, and team-based combat elements offer engaging hours of play, certainly worth the price of admission for fans of those genres. Mid to late game, Arknight: Endfield loses a bit of luster, devolving into more tedious gacha mechanics and not evolving its systems enough to keep the fun going for more casual players. [...] While we’re talking about Arknights: Endfield’s selling points, let’s acknowledge that by and large, the game looks very good. The environments are colorful and the manmade structures glisten. Character design is about what you’d expect for the genre (wink-wink, nudge-nudge), though there’s no character creator beyond selecting a gender.  Animations are fluid and visually, combat is flashy to the point of being a little hard to parse on occasion. A lot of the visual polish is surface level,",,,20,weak,Exact title match (+20),general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=1ZOxE19XlPI,Arknights: Endfield Review - YouTube,"setting, too. We now have a road to reach the Valley Pass. Ark Knight's Endfield is a beautiful addition to the gacha genre that stands out by blending a complex factorybuilding simulation with an enticing openw world RPG. While it shines with its bright vocal performances, fashionable character designs, and funny dialogue, a slo of predictable puzzles, and an Olympic sized pool of currencies dulls the experience somewhat, even so, with a meditative combat system, and a plethora of building [...] ""Arknights: Endfield is a beautiful addition to the gacha genre that stands out by blending a complex factoring-building simulation with an enticing open-world RPG. While it shines with its bright vocal performances, fashionable character designs, and funny dialogue, a slog of predictable puzzles and an Olympic-sized pool of currencies dulls the experience somewhat. Even so, with a meditative combat system and a plethora of building options to try out, it’s still extremely easy to sink hours [...] # Arknights: Endfield Review
+## IGN
+19900000 subscribers
+739 likes
+
+### Description
+66596 views
+Posted: 6 Feb 2026
+Arknights: Endfield reviewed on PC by Sarah Thwaites, also available on PlayStation 5 and Mobile.",,,20,weak,Exact title match (+20),general
+4732690,web_result,unknown_date,https://www.ign.com/articles/arknights-endfield-review,Arknights: Endfield Review - IGN,"Arknights: Endfield is a beautiful addition to the gacha genre that stands out by blending a complex factoring-building simulation with an enticing open-world RPG. While it shines with its bright vocal performances, fashionable character designs, and funny dialogue, a slog of predictable puzzles and an Olympic-sized pool of currencies dulls the experience somewhat. Even so, with a meditative combat system and a plethora of building options to try out, it’s still extremely easy to sink hours [...] mix of high-octane combat, endearing character development, and Y2K flair. Arknights: Endfield is the latest competitor in this genre’s fierce attention economy, offering not only an engrossing sci-fi open world to explore, but another mechanically moreish addition: base building and automation. It’s a clever combination that keeps you pushing, but, after 38 hours of grinding, I’ve found that Arknights leans a little too heavily on the tropes of the genre, and stops it just short of feeling [...] ### In This Article
+
+Arknights: EndfieldHypergryph
+
+Initial Release: Jan 22, 2026
+
+ESRB: Teen
+iPhonePCAndroidPlayStation 5
+
++1
+
+Related Guides
+
+OverviewAll Arknights: Endfield CharactersArknights Endfield Tier ListThe Best Arknights Endfield Teams
+
+### Arknights: Endfield Review
+
+7
+
+Review scoring
+
+Arknights: Endfield is a fresh take on a gacha game that tries to divert expectations with factory-building, but never quite breaks the wheel.
+
+Sarah Thwaites Avatar Avatar
+
+Sarah Thwaites",,,20,weak,Exact title match (+20),general
+4732690,web_result,unknown_date,https://gamerescape.com/2026/01/20/review-arknights-endfield,"Gamer Escape: Gaming News, Reviews, Wikis, and Podcasts","Arknights: Endfield is a unique beast. It is a very fun game that I found very hard to play. I do want to reiterate that I like this game. The best part about games as a service is if what I found frustrating proves to be a sticking point for others, then those issues can and will be addressed. I also think Endfield is a game that can give you as much back as you want to put in. Engaging with ALL of its systems isn’t strictly necessary. In that sense, free-to-play is a damn steal! [...] ## Review: Arknights: Endfield
+
+by  Mike Thomas
+
+20  Jan 2026",,,20,weak,Exact title match (+20),general
+4732690,web_result,unknown_date,https://www.adyen.com/en_SG/press-and-media/gryphline-levels-up-with-adyen,GRYPHLINE Levels Up with Adyen as it Launches Multiplatform ‘Arknights: Endfield’ - Adyen,"GRYPHLINE is the global publishing brand of Hypergryph, headquartered in Singapore, with branches across multiple countries and regions. Our mission is to bring unique and high-quality gaming experiences to players across the world. As the trusted global publishing partner of Hypergryph, we are responsible for releasing titles including Arknights: Endfield, Ex Astris, and POPUCOM. We are also expanding into more areas of global publishing, launching the official player community SKPORT, and [...] Adyen, the global financial technology platform of choice for leading businesses, has partnered with GRYPHLINE, the global publishing arm of Hypergryph, as the company expands its reach with the global release of its 3D role-playing game “Arknights: Endfield”. [...] Following the global success of the original “Arknights” mobile game, GRYPHLINE’s release of “Arknights: Endfield” represented its first independent, simultaneous global rollout across multiple major platforms, including PlayStation 5 alongside PC, iOS, and Android. As its new flagship title, the launch of this massive multiplatform 3D game has achieved exceptional performance and positive player feedback, marking another milestone for the company.",,,20,weak,Exact title match (+20),general
+4732690,web_result,unknown_date,https://www.gryphline.com/en-us/info,GRYPHLINE,"GRYPHLINE is the global publishing brand of HYPERGRYPH, headquartered in Singapore, with branches across multiple countries and regions. Our mission is to bring unique and high-quality gaming experiences to players across the world. As the trusted global publishing partner of HYPERGRYPH, we are responsible for releasing titles including Arknights: Endfield, Ex Astris, and POPUCOM. We are also expanding into more areas of global publishing, launching the official player community SKPORT, and [...] ## About Us [...] SKPORT, and actively engaging in investments and IP licensing, to grow our global business.",,,20,weak,Exact title match (+20),general
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=1ZOxE19XlPI,Arknights: Endfield Review - YouTube,"Every operator you meet throws out a handful of quippy oneliners and flashy moves that are effective enough to tug on the heartstrings. Why do I have to do this again? There's the cute peak shredding snowshine whose fuzzy bear shoes and jumbo buster sword are immediately endearing. Another favorite is the Ark Light, a cyberpunk rendition of the Energizer Bunny who dazzles with sparks and sharp movements. There's plenty of variety available in this roster and it's clear developer Hypergri has [...] of building options to try out, it's still extremely easy to sink hours into. If you have plenty of time to burn and an affinity for automation, Archanite's Endfields provides more than enough to keep you busy for months and potentially years to come. Memories are the essence of who we are. For more on epic adventures, check out our reviews of Dragon Quest 7 Reimagined or CAN. And for everything else, stick with IGM. [...] # Arknights: Endfield Review
+## IGN
+19900000 subscribers
+739 likes
+
+### Description
+66596 views
+Posted: 6 Feb 2026
+Arknights: Endfield reviewed on PC by Sarah Thwaites, also available on PlayStation 5 and Mobile.",,,20,weak,Exact title match (+20),general
+4732690,social_post,unknown_date,https://shop.tiktok.com/us/pdp/arknights-endfield-pramanix-cosplay-bell-prop-3d-printed-25x11-5cm/1732385267818467635,Endfield Pramanix The Prerita Anime Cosplay Handmade Bell ...,"100% Brand new & High qualityMaterial: 3D printingSize: 25*11.5cmPlease Note: Due to the difference between the shooting light and the display,",,,5,weak,Social Index (+5),social
+4732690,social_post,unknown_date,https://shop.tiktok.com/us/pdp/game-arknights-anime-thermos-cup-520ml-stainless-steel/1732388915487674675,Endfield Chen Qianyu Gilberta Anime Thermos Cup Stainless ...,"100% Brand new & High qualityMaterial: stainless steelSize:520MLPlease Note:Due to the difference between the shooting light and the display, there may be a",,,5,weak,Social Index (+5),social
+4732690,social_post,unknown_date,https://apps.apple.com/us/app/arknights-endfield/id6752642477,‎iPhone 版“Today” - App Store,"安全无广告，听故事涨知识，守护孩子童年
+
+### 爱奇艺奇巴布
+
+少儿动画儿歌启蒙
+
+### 熊猫博士小镇故事
+
+创造你专属的奇妙世界和有趣的故事
+
+给小朋友
+
+开启《Dora: 探索与玩耍》的探索之旅
+
+### Dora：探索与玩耍
+
+儿童英语启蒙与益智教育冒险
+
+## 培养新爱好
+
+找到热情所在，发现更多乐趣
+
+主打推荐
+
+主打推荐
+
+## 好故事，好游戏
+
+尝鲜
+
+### 匿名爱人
+
+心碎妻子的复仇
+
+主打推荐
+
+高沉浸互动恋爱手游
+
+### 光与夜之恋
+
+高沉浸互动恋爱手游
+
+## 如果能穿越时空
+
+在游戏世界中改写历史
+
+主打推荐
+
+### 奥比岛：梦想国度
+
+第112星际大赛开赛
+
+主打推荐
+
+解锁更强技能形态，开启新一轮成长冲刺
+
+### 冒险岛：枫之传说
+
+解锁更强技能形态，开启新一轮成长冲刺
+
+## 财务状况全掌握
+
+尝鲜
+
+试试超可爱的《喵喵记账》
+
+深度解析
+
+### MOZE
+
+最美记账
+
+## 你的世界你做主
+
+在这些虚拟世界中成为主宰
+
+时下热门
+
+### 三国志·战略版
+
+1亿玩家的立体战争策略手游
+
+游戏文化
+
+### 江南百景图 [...] 真心换真心，整活即正义
+
+### 无畏契约：源能行动
+
+全新潮流英雄射击手游力作
+
+### 开心消消乐
+
+长盛不衰，8亿人都在玩
+
+### 洛克王国：世界
+
+精灵大世界定义之作
+
+### 永远的蔚蓝星球-周杰伦代言
+
+周杰伦推荐的休闲手游,1000抽上线即送
+
+### 无尽冬日
+
+一亿玩家在玩的冰雪游戏
+
+### 时光杂货店
+
+开店有套路，重生当首富
+
+### 穿越火线-枪战王者
+
+全新玩法超能爆破上线
+
+### 梦幻模拟战
+
+《天空战记》联动！
+
+### 冒险者日记
+
+跟卡皮巴拉一起冒险吧！
+
+### 无极仙途：指尖修仙
+
+好评如潮，一款沉浸式高品质修仙手游！
+
+### 攻城天下-城战赛季
+
+超真实国战巨制，三国手游震撼来袭
+
+### 百战群英-经典三国怀旧版
+
+高度还原群英玩法，致敬经典
+
+### 奔奔王国
+
+轻松塔防，保卫王国
+
+### 风之国世界-全职法师正版联动开启
+
+联动启幕，与莫凡一起探索风之国！
+
+### 功夫熊猫：神龙大侠
+
+与阿宝同行，探索未知江湖！
+
+重磅更新
+
+莉莉首款幻梦品质时装上线
+
+### 超自然行动组-鬼吹灯联动
+
+史上最欢乐的组队恐怖游戏 [...] 游戏文化
+
+### 江南百景图
+
+模拟大明，经营江南
+
+## 数字生活大扫除
+
+用这些 App 优化空间，整理一切
+
+生活解决方案
+
+主打推荐
+
+《百度网盘》让珍贵记忆永远在线
+
+### 百度网盘
+
+美好由我 全盘掌握
+
+## 越奇怪，越好玩
+
+发现不同寻常的游戏体验
+
+编辑挚爱游戏
+
+在《人类跌落梦境》中机智解谜，妙趣逃生
+
+### 人类跌落梦境
+
+智熄操作 互相折磨
+
+编辑挚爱游戏
+
+颜值能打、玩法出色的独立佳作《无尽旅图》
+
+### 无尽旅图
+
+翻转地图 踏上奇遇
+
+## 办公必备 App
+
+这些实用工具，助你提升效率
+
+生活解决方案
+
+让这些精选 App 助你保持高效状态
+
+编辑挚爱 APP
+
+《Penbook》还原纸质笔记的温暖手感
+
+### Penbook
+
+规划本、日记本、日志和 PDF
+
+## 主打推荐
+
+时下热门
+
+### 和平精英
+
+夏日探险，刺激一夏！
+
+### 恋与深空
+
+超现实3D沉浸恋爱互动手游
+
+### 金铲铲之战
+
+英雄联盟云顶之弈正版授权手游
+
+### 宗师之上
+
+年度爆款放置！登录送非人哉角色联动时装！
+
+### 鹅鸭杀
+
+真心换真心，整活即正义",,,5,weak,Social Index (+5),social
+4732690,web_result,unknown_date,https://www.youtube.com/watch?v=HNdaacY1NBs,Arknights Endfield Review - A Factory Building RPG That Fills the Gap Genshin Hasn't,"### Description
+7564 views
+Posted: 23 Feb 2026
+Arknights Endfield blends squad based action combat with surprisingly robust factory automation, creating a loop that feels distinct from Genshin Impact and Wuthering Waves. In this review, we examine its exploration design, monetization structure, banner pity system, and whether its industry driven progression is enough to stand out in the modern gacha landscape.
+
+#ArknightsEndfield #GachaGames #ActionRPG [...] were handled, which is something I didn't feel comfortable judging in the preview build. The goal was to gather more information before giving a scored review. Special mission reboot of life. Someone very important commissioned us with the zeroth directive. Ark Knight's Endfield is a semi-openworld action RPG with minor tower defense elements and very much not minor factory building elements. You play as the administrator, the leader of an initiative to colonize the world of Talos 2, which has [...] Talos 2, which has had varying amounts of success and catastrophe. You've been in a coma inside a crystal for a while and wake up with no memory and a bunch of fires to put out. You're tasked with not only dealing with the enemy factions now inhabiting Talos 2, but saving the world through the power of industry, building factories in various zones to develop outposts and help reestablish civilization one step at a time. Endfield is a spin-off of Ark Knights more than a sequel, as it sort of",,,0,weak,,general

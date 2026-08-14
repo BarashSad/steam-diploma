@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-08-14T02:32:42.314736+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260814_022216/rank_changes.csv",
-    "selected_appid": "4738100",
-    "selected_game_title": "10 Million Pixels",
+    "started_at": "2026-08-14T13:26:28.231537+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260814_131718/rank_changes.csv",
+    "selected_appid": "4732690",
+    "selected_game_title": "Arknights: Endfield",
     "top_n": 1,
     "old_snapshot_date": "2026-08-11",
     "new_snapshot_date": "2026-08-14",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-14T02:32:42.314749+00:00",
+    "finished_at": "2026-08-14T13:26:28.231552+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
