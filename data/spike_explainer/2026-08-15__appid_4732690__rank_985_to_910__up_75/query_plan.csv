@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4732690,Arknights: Endfield,"""Arknights: Endfield"" Steam",general,1,tavily,True,,5
+4732690,Arknights: Endfield,"""Arknights: Endfield"" trailer",general,1,tavily,True,,1
+4732690,Arknights: Endfield,"""Arknights: Endfield"" gameplay",general,1,tavily,True,,5
+4732690,Arknights: Endfield,"""Arknights: Endfield"" demo",general,1,tavily,True,,5
+4732690,Arknights: Endfield,"""Arknights: Endfield"" release date",general,1,tavily,True,,5
+4732690,Arknights: Endfield,"""Arknights: Endfield"" announcement",general,1,tavily,True,,5
+4732690,Arknights: Endfield,"""Arknights: Endfield"" preview",general,1,tavily,True,,5
+4732690,Arknights: Endfield,"""Arknights: Endfield"" review",general,1,tavily,True,,5
+4732690,Arknights: Endfield,"""Arknights: Endfield"" publisher",general,1,tavily,True,,5
+4732690,Arknights: Endfield,"""Arknights: Endfield"" developer",general,1,tavily,True,,5
+4732690,Arknights: Endfield,"site:pcgamer.com ""Arknights: Endfield""",press,2,tavily,False,General budget exhausted,0
+4732690,Arknights: Endfield,"site:rockpapershotgun.com ""Arknights: Endfield""",press,2,tavily,False,General budget exhausted,0
+4732690,Arknights: Endfield,"site:ign.com ""Arknights: Endfield""",press,2,tavily,False,General budget exhausted,0
+4732690,Arknights: Endfield,"site:gamespot.com ""Arknights: Endfield""",press,2,tavily,False,General budget exhausted,0
+4732690,Arknights: Endfield,"site:game8.co ""Arknights: Endfield""",press,2,tavily,False,General budget exhausted,0
+4732690,Arknights: Endfield,"site:reddit.com ""Arknights: Endfield""",social,3,tavily,True,,5
+4732690,Arknights: Endfield,"site:tiktok.com ""Arknights: Endfield""",social,4,tavily,True,,5
+4732690,Arknights: Endfield,"site:instagram.com ""Arknights: Endfield""",social,4,tavily,True,,5
+4732690,Arknights: Endfield,"site:x.com ""Arknights: Endfield""",social,4,tavily,True,,5
+4732690,Arknights: Endfield,"site: ""Arknights: Endfield""",social,4,tavily,True,,5
