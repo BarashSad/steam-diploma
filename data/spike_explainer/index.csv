@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-08-15T01:42:46.571021+00:00,4732690,Arknights: Endfield,data/spike_explainer/2026-08-15__appid_4732690__rank_985_to_910__up_75,75,70,data/spike_explainer/2026-08-15__appid_4732690__rank_985_to_910__up_75/llm_summary_input.md
+2026-08-15T12:55:22.441492+00:00,4732690,Arknights: Endfield,data/spike_explainer/2026-08-15__appid_4732690__rank_910_to_860__up_50,50,70,data/spike_explainer/2026-08-15__appid_4732690__rank_910_to_860__up_50/llm_summary_input.md
