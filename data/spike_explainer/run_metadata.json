@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-08-15T12:55:43.497989+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260815_124656/rank_changes.csv",
+    "started_at": "2026-08-16T01:50:17.906755+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260816_014112/rank_changes.csv",
     "selected_appid": "4732690",
     "selected_game_title": "Arknights: Endfield",
     "top_n": 1,
-    "old_snapshot_date": "2026-08-12",
-    "new_snapshot_date": "2026-08-15",
+    "old_snapshot_date": "2026-08-13",
+    "new_snapshot_date": "2026-08-16",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-15T12:55:43.498003+00:00",
+    "finished_at": "2026-08-16T01:50:17.906769+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

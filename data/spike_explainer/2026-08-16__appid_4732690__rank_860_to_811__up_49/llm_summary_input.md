@@ -1,0 +1,129 @@
+# SPIKE ANALYSIS INPUT
+
+## 1. SPIKE OVERVIEW
+**Game**: Arknights: Endfield (AppID: 4732690)
+**Movement**: Rank 860 -> 811 (Delta: +49)
+**New Entry**: False
+
+## 2. TIME WINDOWS
+**Spike Window**: 2026-08-13T00:00:00+00:00 to 2026-08-16T00:00:00+00:00
+**Extended Window**: 2026-06-29T00:00:00+00:00 to 2026-08-19T00:00:00+00:00
+*Note: Inferred Fallback: False*
+
+## 3. STORE CHANGES
+**Changed Fields**: None
+
+## 4. STEAM NEWS EVIDENCE
+- [70/100 | inside_spike_window] Arknights: Endfield Steam Launch Milestone Event
+  URL: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775547
+  Preview: Dear Endministrator,To celebrate Arknights: Endfield's upcoming launch on Steam, we're holding a special Wishlist Milestone Event!Starting today, add...
+
+
+## 5. TAVILY WEB SEARCH EVIDENCE
+- [50/100 | unknown_date] Arknights Endfield Official Release Date : r/gachagaming - Reddit
+  URL: https://www.reddit.com/r/gachagaming/comments/1pkht1v/arknights_endfield_official_release_date
+  Preview: Arknights: Endfield's Core Chapter Version, [Homecoming], will officially launch on July 16! Endfield Beta test will start from Jan 16, 2025...
+- [45/100 | unknown_date] Arknights: Endfield (@AKEndfield) / Posts / X - Twitter
+  URL: https://x.com/AKEndfield
+  Preview: Jul 24
+
+  Dear Endministrators, This August, we're bringing Arknights: Endfield to both #AnimeNYC and #gamescom! Get ready for immersive booth experie...
+- [40/100 | unknown_date] Arknights: Endfield on Steam
+  URL: https://store.steampowered.com/app/4732690/Arknights_Endfield
+  Preview: # Coming soon
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game
+
+## Endministrat...
+- [40/100 | unknown_date] Arknights: Endfield - Official Trailer - IGN Live 2026
+  URL: https://www.youtube.com/watch?v=OaL1rpIUzzY
+  Preview: Watch the latest Arknights: Endfield trailer for a peek at what's coming to the action RPG. The new trailer showcases characters fighting off enemies...
+- [40/100 | unknown_date] Arknights: Endfield New Horizons – "The Mission" Trailer - Big Red Barrel
+  URL: https://www.bigredbarrel.com/2026/01/16/gbarknights-endfield-new-horizons-the-mission-trailer
+  Preview: Big Red Barrel
+
+The New Horizons Trailer offers a fresh look at Arknights: Endfield, the free-to-play anime action RPG from Hypergryph. The footage hi...
+
+
+## 6. YOUTUBE EVIDENCE
+- [70/100 | inside_extended_window] Arknights: Endfield Operator Combat Demo: Liino
+  URL: https://www.youtube.com/watch?v=kTHEqpvUnzA
+  Preview: Wherever we go, I want to be the star that catches everyone's eye!...
+- [70/100 | inside_extended_window] Arknights: Endfield Operator Combat Demo: Arcane
+  URL: https://www.youtube.com/watch?v=ml5uIYYiNo4
+  Preview: Target confirmed. Secure the AO. ▽//Download game from official website https://akendfield.gryphline.com/d27t/tejmevxp ......
+- [65/100 | inside_spike_window] PERLICA (Arknights Endfield) Gameplay Wins Zero Build (NEW FORTNITE CHAPTER 7 SEASON 3)
+  URL: https://www.youtube.com/watch?v=qoKvYquuSO0
+  Preview: PERLICA (Arknights Endfield) Fortnite Gameplay CHUN LI Fortnite Gameplay: https://youtu.be/L19yOg4CQWg #fortnitememes ......
+- [55/100 | outside_window] Arknights: Endfield Official Release Trailer: Back to Endfield
+  URL: https://www.youtube.com/watch?v=oJ00ggFb8A0
+  Preview: Start here and watch your choices unfold. Special thanks to @starsetonline for the brand-new theme song—We Are Empire....
+- [55/100 | outside_window] Arknights: Endfield New Horizons Trailer [The Mission]
+  URL: https://www.youtube.com/watch?v=tN80M6IEMo0
+  Preview: "You may have forgotten these faces, but they will always remember yours." Defy destiny, reboot Life, and reshape the future of ......
+
+
+## 7. SOCIAL / PLATFORM-SPECIFIC INDEXED RESULTS
+- [45/100 | unknown_date] Arknights Endfield Gameplay News
+  URL: https://www.instagram.com/popular/arknights-endfield-gameplay-news
+  Preview: Log In
+
+Sign Up
+
+# Arknights Endfield Gameplay News
+
+Arknights: Endfield is a highly anticipated action-RPG game developed by Hypergryph. The game lau...
+- [30/100 | unknown_date] Arknights: Endfield
+  URL: https://www.reddit.com/r/Endfield/new
+  Preview: Welcome to r/Endfield, the community-run subreddit for the Strategic 3D RPG game Arknights: Endfield. Arknights: Endfield is coming to Steam Patch 1.4...
+- [30/100 | unknown_date] Arknights: Endfield
+  URL: https://www.reddit.com/r/Endfield
+  Preview: /Endfield, the community-run subreddit for the Strategic 3D RPG game Arknights: Endfield. New version update goes live July 16th! Arknights:...
+- [30/100 | unknown_date] r/Games - Arknights: Endfield Review So Far
+  URL: https://www.reddit.com/r/Games/comments/1qiivl2/arknights_endfield_review_so_far
+  Preview: This has such a nice blend of anime aesthetics with high fidelity graphics, it's a game with fun, stylish combat, cool team building, charming...
+- [30/100 | unknown_date] What should I know before playing Arknights Endfield?
+  URL: https://www.reddit.com/r/ArknightsEndfield/comments/1q6q3gv/what_should_i_know_before_playing_arknights
+  Preview: I plan to play Arknights: Endfield, but I haven't played or seen much of the Arknights series. Aside from the tower defense game, I don't know if ther...
+
+
+## 8. TOP SCORED EVIDENCE (OVERALL)
+- [70/100 | inside_spike_window] Arknights: Endfield Steam Launch Milestone Event
+  URL: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775547
+  Preview: Dear Endministrator,To celebrate Arknights: Endfield's upcoming launch on Steam, we're holding a special Wishlist Milestone Event!Starting today, add...
+- [70/100 | inside_extended_window] Arknights: Endfield Operator Combat Demo: Liino
+  URL: https://www.youtube.com/watch?v=kTHEqpvUnzA
+  Preview: Wherever we go, I want to be the star that catches everyone's eye!...
+- [70/100 | inside_extended_window] Arknights: Endfield Operator Combat Demo: Arcane
+  URL: https://www.youtube.com/watch?v=ml5uIYYiNo4
+  Preview: Target confirmed. Secure the AO. ▽//Download game from official website https://akendfield.gryphline.com/d27t/tejmevxp ......
+
+
+## 9. MISSING OR WEAK EVIDENCE
+Look at the above. If no high-score evidence is found inside the spike window, attribution is weak.
+
+## 10. ADVANCED CAUSES NOT CHECKED AUTOMATICALLY
+If automated evidence is lacking, consider these unverified possibilities:
+- Giveaway/discount of a related base game/prequel
+- Publisher-wide sale campaign
+- In-game cross-promotion
+- Non-indexed influencer campaign (e.g., live Twitch segment)
+- Platform-side visibility boost (Steam algorithm)
+- Franchise-level marketing beat
+
+---
+**TASK FOR LLM:**
+Use only the evidence below. Do not invent facts. Separate confirmed facts from hypotheses. If evidence is weak, say so. Explain the most likely causes of the Steam Top Wishlists rank movement. Consider that absence of evidence is not proof of absence. Mention advanced causes only as unverified possibilities if not supported by evidence.
+
+Produce:
+1. Short executive summary
+2. Confirmed facts
+3. Likely causes of the spike
+4. Weak or uncertain hypotheses
+5. Recommended next manual checks
+6. Marketing lessons for a developer
