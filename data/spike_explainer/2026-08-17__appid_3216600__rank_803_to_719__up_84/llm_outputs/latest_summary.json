@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-17T01:48:55.835979+00:00",
+    "timestamp": "20260817_014855",
+    "input_file": "data/spike_explainer/2026-08-17__appid_3216600__rank_803_to_719__up_84/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-17__appid_3216600__rank_803_to_719__up_84/llm_outputs/gemini_20260817_014855.md",
+    "game_title": "KINGDOM HEARTS IV",
+    "appid": "3216600",
+    "duration_sec": 14.11,
+    "response_length": 5097,
+    "error": null
+}
