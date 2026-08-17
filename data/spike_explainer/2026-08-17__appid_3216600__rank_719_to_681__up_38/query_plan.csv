@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3216600,KINGDOM HEARTS IV,"""KINGDOM HEARTS IV"" Steam",general,1,tavily,True,,5
+3216600,KINGDOM HEARTS IV,"""KINGDOM HEARTS IV"" trailer",general,1,tavily,True,,5
+3216600,KINGDOM HEARTS IV,"""KINGDOM HEARTS IV"" gameplay",general,1,tavily,True,,5
+3216600,KINGDOM HEARTS IV,"""KINGDOM HEARTS IV"" demo",general,1,tavily,True,,5
+3216600,KINGDOM HEARTS IV,"""KINGDOM HEARTS IV"" release date",general,1,tavily,True,,4
+3216600,KINGDOM HEARTS IV,"""KINGDOM HEARTS IV"" announcement",general,1,tavily,True,,5
+3216600,KINGDOM HEARTS IV,"""KINGDOM HEARTS IV"" preview",general,1,tavily,True,,5
+3216600,KINGDOM HEARTS IV,"""KINGDOM HEARTS IV"" review",general,1,tavily,True,,5
+3216600,KINGDOM HEARTS IV,"""KINGDOM HEARTS IV"" publisher",general,1,tavily,True,,5
+3216600,KINGDOM HEARTS IV,"""KINGDOM HEARTS IV"" developer",general,1,tavily,True,,5
+3216600,KINGDOM HEARTS IV,"site:pcgamer.com ""KINGDOM HEARTS IV""",press,2,tavily,False,General budget exhausted,0
+3216600,KINGDOM HEARTS IV,"site:rockpapershotgun.com ""KINGDOM HEARTS IV""",press,2,tavily,False,General budget exhausted,0
+3216600,KINGDOM HEARTS IV,"site:ign.com ""KINGDOM HEARTS IV""",press,2,tavily,False,General budget exhausted,0
+3216600,KINGDOM HEARTS IV,"site:gamespot.com ""KINGDOM HEARTS IV""",press,2,tavily,False,General budget exhausted,0
+3216600,KINGDOM HEARTS IV,"site:game8.co ""KINGDOM HEARTS IV""",press,2,tavily,False,General budget exhausted,0
+3216600,KINGDOM HEARTS IV,"site:reddit.com ""KINGDOM HEARTS IV""",social,3,tavily,True,,5
+3216600,KINGDOM HEARTS IV,"site:tiktok.com ""KINGDOM HEARTS IV""",social,4,tavily,True,,5
+3216600,KINGDOM HEARTS IV,"site:instagram.com ""KINGDOM HEARTS IV""",social,4,tavily,True,,5
+3216600,KINGDOM HEARTS IV,"site:x.com ""KINGDOM HEARTS IV""",social,4,tavily,True,,5
+3216600,KINGDOM HEARTS IV,"site: ""KINGDOM HEARTS IV""",social,4,tavily,True,,5

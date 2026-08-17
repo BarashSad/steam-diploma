@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-08-17T01:48:55.726742+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260817_013859/rank_changes.csv",
+    "started_at": "2026-08-17T13:03:11.683742+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260817_125317/rank_changes.csv",
     "selected_appid": "3216600",
     "selected_game_title": "KINGDOM HEARTS IV",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-17T01:48:55.726763+00:00",
+    "finished_at": "2026-08-17T13:03:11.683761+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

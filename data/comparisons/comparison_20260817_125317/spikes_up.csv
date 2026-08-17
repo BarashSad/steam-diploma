@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3216600,KINGDOM HEARTS IV,KINGDOM HEARTS IV,719,681,38,38,up,upward_spike,Free,Free,False,2027,2027,False
+4664840,In the Van,In the Van,953,918,35,35,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4796830,WE ARE SO DEAD,WE ARE SO DEAD,462,431,31,31,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 17, 2026","Aug 17, 2026",False
+3817250,"CICADAMATA""","CICADAMATA""",835,804,31,31,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 21, 2026","Aug 21, 2026",False
+4120790,The Sorting Bureau,The Sorting Bureau,1066,1038,28,28,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 21, 2026","Aug 21, 2026",False

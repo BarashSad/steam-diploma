@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-08-17T01:48:27.436638+00:00,3216600,KINGDOM HEARTS IV,data/spike_explainer/2026-08-17__appid_3216600__rank_803_to_719__up_84,84,85,data/spike_explainer/2026-08-17__appid_3216600__rank_803_to_719__up_84/llm_summary_input.md
+2026-08-17T13:02:37.464001+00:00,3216600,KINGDOM HEARTS IV,data/spike_explainer/2026-08-17__appid_3216600__rank_719_to_681__up_38,38,85,data/spike_explainer/2026-08-17__appid_3216600__rank_719_to_681__up_38/llm_summary_input.md
