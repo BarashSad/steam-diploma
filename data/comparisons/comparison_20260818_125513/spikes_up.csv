@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3937470,Sally Face 2,Sally Face 2,732,677,55,55,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+2962780,BeastLink,BeastLink,714,673,41,41,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 18, 2026","Aug 18, 2026",False
+3216600,KINGDOM HEARTS IV,KINGDOM HEARTS IV,642,610,32,32,up,upward_spike,Free,Free,False,2027,2027,False
+3396920,Settler's Domain,Settler's Domain,1072,1049,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 21, 2026","Aug 21, 2026",False

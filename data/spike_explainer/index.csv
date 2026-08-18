@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-08-18T01:43:26.315416+00:00,3937470,Sally Face 2,data/spike_explainer/2026-08-18__appid_3937470__rank_907_to_732__up_175,175,85,data/spike_explainer/2026-08-18__appid_3937470__rank_907_to_732__up_175/llm_summary_input.md
+2026-08-18T13:04:28.639379+00:00,3937470,Sally Face 2,data/spike_explainer/2026-08-18__appid_3937470__rank_732_to_677__up_55,55,85,data/spike_explainer/2026-08-18__appid_3937470__rank_732_to_677__up_55/llm_summary_input.md

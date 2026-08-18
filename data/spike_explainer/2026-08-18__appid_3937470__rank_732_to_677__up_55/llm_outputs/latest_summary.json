@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-18T13:04:56.945749+00:00",
+    "timestamp": "20260818_130456",
+    "input_file": "data/spike_explainer/2026-08-18__appid_3937470__rank_732_to_677__up_55/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-18__appid_3937470__rank_732_to_677__up_55/llm_outputs/gemini_20260818_130456.md",
+    "game_title": "Sally Face 2",
+    "appid": "3937470",
+    "duration_sec": 20.79,
+    "response_length": 5679,
+    "error": null
+}
