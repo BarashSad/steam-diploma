@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: KINGDOM HEARTS IV
+Analyzed: Sally Face 2
 Tavily Budget Used: 15
 Errors: 0

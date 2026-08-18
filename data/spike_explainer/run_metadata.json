@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-08-17T13:03:11.683742+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260817_125317/rank_changes.csv",
-    "selected_appid": "3216600",
-    "selected_game_title": "KINGDOM HEARTS IV",
+    "started_at": "2026-08-18T01:43:50.554159+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260818_013411/rank_changes.csv",
+    "selected_appid": "3937470",
+    "selected_game_title": "Sally Face 2",
     "top_n": 1,
-    "old_snapshot_date": "2026-08-14",
-    "new_snapshot_date": "2026-08-17",
+    "old_snapshot_date": "2026-08-15",
+    "new_snapshot_date": "2026-08-18",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-17T13:03:11.683761+00:00",
+    "finished_at": "2026-08-18T01:43:50.554176+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
