@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4132330,Pizza House Simulator🍕,"""Pizza House Simulator🍕"" Steam",general,1,tavily,True,,5
+4132330,Pizza House Simulator🍕,"""Pizza House Simulator🍕"" trailer",general,1,tavily,True,,4
+4132330,Pizza House Simulator🍕,"""Pizza House Simulator🍕"" gameplay",general,1,tavily,True,,5
+4132330,Pizza House Simulator🍕,"""Pizza House Simulator🍕"" demo",general,1,tavily,True,,5
+4132330,Pizza House Simulator🍕,"""Pizza House Simulator🍕"" release date",general,1,tavily,True,,5
+4132330,Pizza House Simulator🍕,"""Pizza House Simulator🍕"" announcement",general,1,tavily,True,,5
+4132330,Pizza House Simulator🍕,"""Pizza House Simulator🍕"" preview",general,1,tavily,True,,5
+4132330,Pizza House Simulator🍕,"""Pizza House Simulator🍕"" review",general,1,tavily,True,,5
+4132330,Pizza House Simulator🍕,"""Pizza House Simulator🍕"" publisher",general,1,tavily,True,,5
+4132330,Pizza House Simulator🍕,"""Pizza House Simulator🍕"" developer",general,1,tavily,True,,5
+4132330,Pizza House Simulator🍕,"site:pcgamer.com ""Pizza House Simulator🍕""",press,2,tavily,False,General budget exhausted,0
+4132330,Pizza House Simulator🍕,"site:rockpapershotgun.com ""Pizza House Simulator🍕""",press,2,tavily,False,General budget exhausted,0
+4132330,Pizza House Simulator🍕,"site:ign.com ""Pizza House Simulator🍕""",press,2,tavily,False,General budget exhausted,0
+4132330,Pizza House Simulator🍕,"site:gamespot.com ""Pizza House Simulator🍕""",press,2,tavily,False,General budget exhausted,0
+4132330,Pizza House Simulator🍕,"site:game8.co ""Pizza House Simulator🍕""",press,2,tavily,False,General budget exhausted,0
+4132330,Pizza House Simulator🍕,"site:reddit.com ""Pizza House Simulator🍕""",social,3,tavily,True,,5
+4132330,Pizza House Simulator🍕,"site:tiktok.com ""Pizza House Simulator🍕""",social,4,tavily,True,,5
+4132330,Pizza House Simulator🍕,"site:instagram.com ""Pizza House Simulator🍕""",social,4,tavily,True,,5
+4132330,Pizza House Simulator🍕,"site:x.com ""Pizza House Simulator🍕""",social,4,tavily,True,,5
+4132330,Pizza House Simulator🍕,"site: ""Pizza House Simulator🍕""",social,4,tavily,True,,5

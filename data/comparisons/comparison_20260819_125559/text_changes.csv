@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2412960,Breathedge 2,Breathedge 2,120,118,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 30, 2026",August 2026,True
+3031880,Car Park Capital,Car Park Capital,519,518,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Oct 9, 2026",True
+1167820,Airport Contraband,Airport Contraband,787,786,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,Q4 2026,True
+4012810,STEINS;GATE RE:BOOT,STEINS;GATE REBOOT DIGITAL DELUXE EDITION,147,147,0,0,stable,none,$53.99,$71.99,True,"Aug 19, 2026","Aug 19, 2026",False
