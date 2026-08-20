@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+632950,SiN Reloaded,SiN Reloaded,811,803,8,8,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Sep 24, 2026",True
+1510440,Honeycomb: The World Beyond,Honeycomb: The World Beyond,283,281,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,"Sep 8, 2026",True
+2412960,Breathedge 2,Breathedge 2,118,118,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,August 2026,"Aug 31, 2026",True

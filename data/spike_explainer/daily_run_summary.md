@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Pizza House Simulator🍕
+Analyzed: Sally Face 2
 Tavily Budget Used: 15
 Errors: 0

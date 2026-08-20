@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3937470,Sally Face 2,"""Sally Face 2"" Steam",general,1,tavily,True,,5
+3937470,Sally Face 2,"""Sally Face 2"" trailer",general,1,tavily,True,,5
+3937470,Sally Face 2,"""Sally Face 2"" gameplay",general,1,tavily,True,,5
+3937470,Sally Face 2,"""Sally Face 2"" demo",general,1,tavily,True,,5
+3937470,Sally Face 2,"""Sally Face 2"" release date",general,1,tavily,True,,5
+3937470,Sally Face 2,"""Sally Face 2"" announcement",general,1,tavily,True,,5
+3937470,Sally Face 2,"""Sally Face 2"" preview",general,1,tavily,True,,5
+3937470,Sally Face 2,"""Sally Face 2"" review",general,1,tavily,True,,5
+3937470,Sally Face 2,"""Sally Face 2"" publisher",general,1,tavily,True,,5
+3937470,Sally Face 2,"""Sally Face 2"" developer",general,1,tavily,True,,5
+3937470,Sally Face 2,"site:pcgamer.com ""Sally Face 2""",press,2,tavily,False,General budget exhausted,0
+3937470,Sally Face 2,"site:rockpapershotgun.com ""Sally Face 2""",press,2,tavily,False,General budget exhausted,0
+3937470,Sally Face 2,"site:ign.com ""Sally Face 2""",press,2,tavily,False,General budget exhausted,0
+3937470,Sally Face 2,"site:gamespot.com ""Sally Face 2""",press,2,tavily,False,General budget exhausted,0
+3937470,Sally Face 2,"site:game8.co ""Sally Face 2""",press,2,tavily,False,General budget exhausted,0
+3937470,Sally Face 2,"site:reddit.com ""Sally Face 2""",social,3,tavily,True,,5
+3937470,Sally Face 2,"site:tiktok.com ""Sally Face 2""",social,4,tavily,True,,5
+3937470,Sally Face 2,"site:instagram.com ""Sally Face 2""",social,4,tavily,True,,5
+3937470,Sally Face 2,"site:x.com ""Sally Face 2""",social,4,tavily,True,,5
+3937470,Sally Face 2,"site: ""Sally Face 2""",social,4,tavily,True,,5

@@ -1,0 +1,7 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3937470,Sally Face 2,Sally Face 2,574,531,43,43,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4120790,The Sorting Bureau,The Sorting Bureau,933,901,32,32,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 21, 2026","Aug 21, 2026",False
+4948000,Moo Who?,Moo Who?,545,521,24,24,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 21, 2026","Aug 21, 2026",False
+3216600,KINGDOM HEARTS IV,KINGDOM HEARTS IV,567,544,23,23,up,upward_spike,Free,Free,False,2027,2027,False
+3817250,"CICADAMATA""","CICADAMATA""",688,666,22,22,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 21, 2026","Aug 21, 2026",False
+3396920,Settler's Domain,Settler's Domain,998,976,22,22,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 21, 2026","Aug 21, 2026",False
