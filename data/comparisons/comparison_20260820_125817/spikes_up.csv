@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3396920,Settler's Domain,Settler's Domain,976,950,26,26,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 21, 2026","Aug 21, 2026",False
+4120790,The Sorting Bureau,The Sorting Bureau,901,878,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Aug 21, 2026","Aug 21, 2026",False
+1343010,Antimatter,Antimatter,1100,1078,22,22,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False

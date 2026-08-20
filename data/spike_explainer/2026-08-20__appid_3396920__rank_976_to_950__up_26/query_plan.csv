@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3396920,Settler's Domain,"""Settler's Domain"" Steam",general,1,tavily,True,,5
+3396920,Settler's Domain,"""Settler's Domain"" trailer",general,1,tavily,True,,5
+3396920,Settler's Domain,"""Settler's Domain"" gameplay",general,1,tavily,True,,5
+3396920,Settler's Domain,"""Settler's Domain"" demo",general,1,tavily,True,,5
+3396920,Settler's Domain,"""Settler's Domain"" release date",general,1,tavily,True,,5
+3396920,Settler's Domain,"""Settler's Domain"" announcement",general,1,tavily,True,,5
+3396920,Settler's Domain,"""Settler's Domain"" preview",general,1,tavily,True,,5
+3396920,Settler's Domain,"""Settler's Domain"" review",general,1,tavily,True,,5
+3396920,Settler's Domain,"""Settler's Domain"" publisher",general,1,tavily,True,,5
+3396920,Settler's Domain,"""Settler's Domain"" developer",general,1,tavily,True,,5
+3396920,Settler's Domain,"site:pcgamer.com ""Settler's Domain""",press,2,tavily,False,General budget exhausted,0
+3396920,Settler's Domain,"site:rockpapershotgun.com ""Settler's Domain""",press,2,tavily,False,General budget exhausted,0
+3396920,Settler's Domain,"site:ign.com ""Settler's Domain""",press,2,tavily,False,General budget exhausted,0
+3396920,Settler's Domain,"site:gamespot.com ""Settler's Domain""",press,2,tavily,False,General budget exhausted,0
+3396920,Settler's Domain,"site:game8.co ""Settler's Domain""",press,2,tavily,False,General budget exhausted,0
+3396920,Settler's Domain,"site:reddit.com ""Settler's Domain""",social,3,tavily,True,,5
+3396920,Settler's Domain,"site:tiktok.com ""Settler's Domain""",social,4,tavily,True,,5
+3396920,Settler's Domain,"site:instagram.com ""Settler's Domain""",social,4,tavily,True,,5
+3396920,Settler's Domain,"site:x.com ""Settler's Domain""",social,4,tavily,True,,5
+3396920,Settler's Domain,"site: ""Settler's Domain""",social,4,tavily,True,,5

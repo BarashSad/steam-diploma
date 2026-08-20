@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-08-20T01:44:10.599831+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260820_013517/rank_changes.csv",
-    "selected_appid": "3937470",
-    "selected_game_title": "Sally Face 2",
+    "started_at": "2026-08-20T13:07:11.741490+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260820_125817/rank_changes.csv",
+    "selected_appid": "3396920",
+    "selected_game_title": "Settler's Domain",
     "top_n": 1,
     "old_snapshot_date": "2026-08-17",
     "new_snapshot_date": "2026-08-20",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-20T01:44:10.599846+00:00",
+    "finished_at": "2026-08-20T13:07:11.741508+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

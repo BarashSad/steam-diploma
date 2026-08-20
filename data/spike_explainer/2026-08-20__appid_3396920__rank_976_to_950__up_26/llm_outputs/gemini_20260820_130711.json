@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-20T13:07:11.849016+00:00",
+    "timestamp": "20260820_130711",
+    "input_file": "data/spike_explainer/2026-08-20__appid_3396920__rank_976_to_950__up_26/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-20__appid_3396920__rank_976_to_950__up_26/llm_outputs/gemini_20260820_130711.md",
+    "game_title": "Settler's Domain",
+    "appid": "3396920",
+    "duration_sec": 24.37,
+    "response_length": 5385,
+    "error": null
+}

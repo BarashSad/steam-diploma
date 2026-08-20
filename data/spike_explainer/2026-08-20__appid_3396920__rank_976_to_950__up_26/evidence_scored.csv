@@ -1,0 +1,1882 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+3396920,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=EUa95162q38,Settler&#39;s Domain - Official Trailer,,"Settler's Domain is a strategy game about founding and expanding a settlement in untamed lands. Explore the map, manage ...",trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+3396920,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314339553,Demo De-activation,,"Demo Update I will be de-activating the Settler's Domain demo on August 14! That will be 1 week before the full release. If you want to try the demo, now's your time!! :D",demo,75,strong,Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3396920,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357032072,Release Date Update!,,"Settler's Domain is now releasing on August 21! I realized that the 25th is opening night for gamescom, so it's probably not the best day to release. But hey, now you get the game 4 days earlier!! Woohoo!",release date,75,strong,Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['release date'] (+20),
+3396920,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=S_Bwm-aSQls,Settler&#39;s Domain - Official Trailer | Strategy 2026,,"Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, ...",trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+3396920,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=oQ0BtqnzW7o,Protect Your Domain - Open World Survival Strategy City Builder - Settler&#39;s Domain - Full Gameplay,,"Let's Play Settler's Domain. Gameplay. Walkthrough. Tutorial. New Game Coverage. In this Let's Play video, you will see me play ...",gameplay,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+3396920,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=yeczFDR8s6E,A Brand New Colony Sim Where Your Neighbours Can Be Bribed Or Burned!,,Settler's Domain gameplay with Orbital Potato! Settler's Domain is a strategy game about building a new settlement in unknown ...,gameplay,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+3396920,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=Oa4lA_Livo8,Settler&#39;s Domain (Demo) Gameplay,,"Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, ...","gameplay, demo",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+3396920,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=oQ0BtqnzW7o,Protect Your Domain - Open World Survival Strategy City Builder - Settler&#39;s Domain - Full Gameplay,,"Let's Play Settler's Domain. Gameplay. Walkthrough. Tutorial. New Game Coverage. In this Let's Play video, you will see me play ...",gameplay,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+3396920,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566604,Release Date Announcement!,,"After almost two years of development, Settler's Domain finally has a release date! On August 25, 2026, I'll be excited to share it with everyone!Check out the release date trailer:Mark your calendars! It'll be the best Tuesday you've had in a while.-rick","trailer, announcement, release date",60,medium,"Official Steam News (+20); Exact title match (+20); Keywords ['trailer', 'announcement', 'release date'] (+20)",
+3396920,youtube_video,outside_window,https://www.youtube.com/watch?v=C_hn5LRZJAA,Settler&#39;s Domain - Release Date Announcement Trailer,,"Settler's Domain is releasing August 25, 2026 on Steam! Settler's Domain is a strategy game about building a new settlement in ...","trailer, announcement, release date",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement', 'release date'] (+20)",
+3396920,youtube_video,outside_window,https://www.youtube.com/watch?v=FYpmIxQyhYg,"Settler&#39;s Domain, A 1-Year Survival Colony Manager",,"Settler's Domain, A 1-Year Survival Colony Manager (DEMO VERSION) ambiguousamphibian's Main Channel: ...",demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+3396920,youtube_video,outside_window,https://www.youtube.com/watch?v=FYpmIxQyhYg,"Settler&#39;s Domain, A 1-Year Survival Colony Manager",,"Settler's Domain, A 1-Year Survival Colony Manager (DEMO VERSION) ambiguousamphibian's Main Channel: ...",demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+3396920,youtube_video,outside_window,https://www.youtube.com/watch?v=_e0yLvwf4O4,Settler&#39;s Domain (Demo),,"Settler's Domain, Demo, City Builder, Resource Management, Survival, Pixel Graphics, Strategy, 2D, Top-Down, Sandbox, ...",demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+3396920,reddit_discussion,unknown_date,https://www.reddit.com/r/indiegames/comments/1i8jree/settlers_domain_prealpha_gameplay,Settler's Domain - Pre-alpha Gameplay : r/indiegames - Reddit,"66 votes, 35 comments. Settler's Domain is a settlement builder with resource and citizen management aspects in a top down pixel world.",,gameplay,50,medium,Reddit (+10); Exact title match (+20); Keywords ['gameplay'] (+20),general
+3396920,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1sproq8/settlers_domain_rick_strategy_settlementbuilder,Settler's Domain - rick - Strategy Settlement-Builder : r/Games,"Your goal is to eventually annex them, peacefully or by force. Check out the trailer: Settler's Domain Trailer. And the Steam page to wishlist",,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+3396920,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1sproq8/settlers_domain_rick_strategy_settlementbuilder,Settler's Domain - rick - Strategy Settlement-Builder : r/Games,It's a strategy settlement building game where resource management and diplomacy play a big role. the Steam page to wishlist or try the demo:,,demo,50,medium,Reddit (+10); Exact title match (+20); Keywords ['demo'] (+20),general
+3396920,reddit_discussion,unknown_date,https://www.reddit.com/r/indiegames/comments/1i8jree/settlers_domain_prealpha_gameplay,Settler's Domain - Pre-alpha Gameplay : r/indiegames - Reddit,"66 votes, 35 comments. Settler's Domain is a settlement builder with resource and citizen management aspects in a top down pixel world.",,gameplay,50,medium,Reddit (+10); Exact title match (+20); Keywords ['gameplay'] (+20),general
+3396920,reddit_discussion,unknown_date,https://www.reddit.com/r/CozyGamers/comments/1hwl4mg/what_do_you_guys_think_cozy_im_making_a_city,"What do you guys think, cozy? I'm making a city builder- ...","Settler's Domain involves gathering resources, building structures, recruiting settlers, and exploring your surroundings. Releasing a demo ...Read more",,demo,50,medium,Reddit (+10); Exact title match (+20); Keywords ['demo'] (+20),social
+3396920,social_post,unknown_date,https://x.com/__rick________/status/2081024735681405043,Release Date Update Settler's Domain is now ...,"Settler's Domain is now releasing on August 21! I realized that the 25th is opening night for @gamescom, so it's probably not the best day",,release date,45,medium,Social Index (+5); Exact title match (+20); Keywords ['release date'] (+20),social
+3396920,social_post,unknown_date,https://store.steampowered.com/app/3396920/Settlers_Domain,Settler's Domain on Steam,"All Games > Strategy Games > Settler's Domain
+
+Community Hub
+
+Settler's Domain
+
+Settler's Domain
+
+Settler's Domain
+
+Developer
+
+rick
+
+Publisher
+
+rick
+
+Release
+
+21 Aug, 2026
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+21 Aug, 2026
+
+Developer:
+
+rick
+
+Publisher:
+
+rick
+
+Tags [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  |  |
+
+Title: Settler's Domain  
+ Genre: Indie, Strategy  
+
+Developer: rick
+
+Publisher: rick
+
+Release Date: 21 Aug, 2026
+
+Discord External   X External   Bluesky External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Awards
+
+Awards
+
+Links & info
+
+This game is not yet available on Steam [...] ## About This Game
+
+Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research new structures with a variety of functionalities. When resources grow scarce, explore your surroundings for more. Encounter other settlements and deal with them using diplomacy or hostility.
+
+## Harvest
+
+Collect resources to build new structures and keep your settlers alive. Resource management is essential for a thriving settlement.
+
+## Build",,release date,45,medium,Social Index (+5); Exact title match (+20); Keywords ['release date'] (+20),social
+3396920,social_post,unknown_date,https://steamcommunity.com/app/3396920,Settler's Domain - Steam Community,"Store Page
+
+Settler's Domain
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Settler's Domain
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Demo De-activation
+
+5 Aug [...] I realized that the 25th is opening night for gamescom, so it's probably not the best day to release. But hey, now you get the game 4 days earlier!! Woohoo!
+
+Settler's Domain
+
+22
+
+0
+
+Release Date Announcement!
+
+1 Jul
+
+After almost two years of development, Settler's Domain finally has a release date! On August 25, 2026, I'll be excited to share it with everyone!
+
+Check out the release date trailer:
+
+Mark your calendars! It'll be the best Tuesday you've had in a while.
+
+-rick
+
+Settler's Domain [...] Unlike the other resources, it doesn't seem to respawn naturally and I can't seem to explore fast enough to get more of it yet (plus there are neighbouring villages). Is the idea to trade for it until I can get a quarry up to get limestone going? Thanks in advance!...
+
+1
+
+[Techhead7890
+
+12 Aug @ 11:43am](
+
+General Discussions
+
+Release Date Update!
+
+25 Jul
+
+Settler's Domain is now releasing on August 21!",,"trailer, demo, announcement, release date",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'demo', 'announcement', 'release date'] (+20)",social
+3396920,social_post,unknown_date,https://www.gamespress.com/After-Almost-Two-Years-in-Development-Settlers-Domain-Has-a-Release-Da,"""After Almost Two Years in Development, Settler's Domain Has ...","July 1, 2026  
+   
+ Strategy settlement-building game Settler’s Domain is releasing August 25, 2026 on Steam! Check out the brand new release date announcement trailer:  
+   
+   
+   
+ Solo-developed by rick, Settler’s Domain combines pixel graphics and thoughtful, strategic, gameplay: Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive. [...] Build over 80 structures
+ Manage resources
+ Survive against hunger and disease
+ Explore the map
+ Engage with other settlements
+
+Wishlist or try the demo on Steam: Settler's Domain on Steam  
+   
+ Press kit: 
+
+This is taking longer than usual to load.
+
+Close
+
+### Your downloads
+
+Total download size:
+
+These files can be freely downloaded without watermarks because they were uploaded by using Games Press Elite. [...] Close video player
+End of video player
+
+Close lightbox
+
+View previous image
+
+View next image
+
+1. Home
+2. Press releases
+3. After Almost Two Years in Development, Settler’s Domain Has a Release Date!
+
+### Press release
+
+01/07/2026
+
+# After Almost Two Years in Development, Settler’s Domain Has a Release Date!",,"trailer, gameplay, demo, announcement, release date",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo', 'announcement', 'release date'] (+20)",social
+3396920,social_post,unknown_date,https://www.youtube.com/watch?v=a39_mbnNawI,Settler's Domain - Official Release Date Trailer,"# Settler's Domain - Official Release Date Trailer
+## Indie Games Hub
+188000 subscribers
+341 likes
+
+### Description
+13496 views
+Posted: 1 Jul 2026
+Settler's Domain will be released on 25 August 2026 for PC.
+Wishlist on Steam:",,"trailer, release date",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",social
+3396920,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546893,Settler's Domain Closed Beta!!!,,"BIG NEWS!! I am starting to give out keys for the closed beta of Settler's Domain! The beta has all the intended content that the full release will have, but it's still very rough around the edges (it needs balancing, UX improvements, finished game sprites, bug fixes, etc). If you want to playtest t",,40,medium,Official Steam News (+20); Exact title match (+20),
+3396920,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790650,Settler's Domain Discord Server,,"Hey all! With some milestones coming up, I wanted a place where people can leave feedback and talk about the game! Feel free to join (:discord.gg/qFDtxMm57F",,40,medium,Official Steam News (+20); Exact title match (+20),
+3396920,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588594494,Update - Demo Build v0.3 and Working Toward Full Release,,"Demo build v0.3 is live!It's been a while! Almost a year since I've updated the demo, and over a year since the original demo release. Just crazy. Thanks all for your patience as it's just me working on this thing, and I only have so much time!That being said, I've been pouring hours into Settler's ",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3396920,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1794830910940732,Update - Demo Build v0.2,,"Demo build v0.2 is live! This update contains a decent amount of changes, which I'll do my best to outline below. As always, feedback encouraged! There's a feedback button in the game menu which links to a Google form. Feel free to post in the community hub as well. Bug reporting is also much apprec",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3396920,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1794830910888656,Playtest Signups Open Once Again!,,"Hey all! I just pushed a new build to the playtest, and I'm looking for some more testers before publishing to the public demo. There are a decent amount of new changes to check out! I posted version notes on the playtest page, so be sure to check them out once you are accepted. Thanks! -rick {STEAM",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3396920,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1792116353363015,Steam Next Fest,,I streamed a quick run through of the demo for anyone visiting the page during next fest! There's some commentary and explanation throughout the video. {STEAM_CLAN_IMAGE}/45355702/ad0767e7465a1a4bc0315acd88ac8ab8122af970.gif,demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3396920,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1790848102664738,Settler's Domain Playtest is Live!,,"The first iteration of testing has begun! This is an exciting time as the game has only ever been tested by a small pool of people (so there are likely many bugs). The game is in a basic state, but is playable and needs feedback as well as bug reporting. I'll be giving players access incrementally, ",,40,medium,Official Steam News (+20); Exact title match (+20),
+3396920,web_result,unknown_date,https://store.steampowered.com/app/3396920/Settlers_Domain,Settler's Domain on Steam,"All Games > Strategy Games > Settler's Domain
+
+Community Hub
+
+Settler's Domain
+
+Settler's Domain
+
+Settler's Domain
+
+Developer
+
+rick
+
+Publisher
+
+rick
+
+Release
+
+21 Aug, 2026
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+21 Aug, 2026
+
+Developer:
+
+rick
+
+Publisher:
+
+rick
+
+Tags [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  |  |
+
+Title: Settler's Domain  
+ Genre: Indie, Strategy  
+
+Developer: rick
+
+Publisher: rick
+
+Release Date: 21 Aug, 2026
+
+Discord External   X External   Bluesky External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Awards
+
+Awards
+
+Links & info
+
+This game is not yet available on Steam [...] ## About This Game
+
+Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research new structures with a variety of functionalities. When resources grow scarce, explore your surroundings for more. Encounter other settlements and deal with them using diplomacy or hostility.
+
+## Harvest
+
+Collect resources to build new structures and keep your settlers alive. Resource management is essential for a thriving settlement.
+
+## Build",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3396920,web_result,unknown_date,https://steamcommunity.com/app/3396920,Steam Community :: Settler's Domain,"Store Page
+
+Settler's Domain
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Settler's Domain
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Demo De-activation
+
+5 Aug [...] I realized that the 25th is opening night for gamescom, so it's probably not the best day to release. But hey, now you get the game 4 days earlier!! Woohoo!
+
+Settler's Domain
+
+22
+
+0
+
+Release Date Announcement!
+
+1 Jul
+
+After almost two years of development, Settler's Domain finally has a release date! On August 25, 2026, I'll be excited to share it with everyone!
+
+Check out the release date trailer:
+
+Mark your calendars! It'll be the best Tuesday you've had in a while.
+
+-rick
+
+Settler's Domain [...] Found this through a Reddit ad, it's a nice little demo. Love the artstyle! I love how the game is challenging from the start and like the general feel! Some points of critique: - The map seems a bit vast. After a few days the resources around your town are all gone and your guys need to walk a lot to keep gathering, this makes the map large and the pixels small. Maybe make it a bit more dense? - The different energy levels of vills seems a bit arbitrary. Once you figure out the high-energy",,"trailer, demo, announcement, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'announcement', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=RzvpuRSk5r0,Settler's Domain - Official Gameplay Trailer,"Wishlist on Steam: 
+
+Developer: rick
+
+#indiegame #citybuilder #colonysim
+
+14 comments
+### Transcript: [...] ### Description
+6672 views
+Posted: 14 Mar 2026
+Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research new structures with a variety of functionalities. When resources grow scarce, explore your surroundings for more. Encounter other settlements and deal with them using diplomacy or hostility. Create sprawling settlements, organized central villages, or anything in between- whatever works to expand your domain. [...] # Settler's Domain - Official Gameplay Trailer
+## Indie Games Hub
+187000 subscribers
+236 likes",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=a39_mbnNawI,Settler's Domain - Official Release Date Trailer,"# Settler's Domain - Official Release Date Trailer
+## Indie Games Hub
+188000 subscribers
+341 likes
+
+### Description
+13496 views
+Posted: 1 Jul 2026
+Settler's Domain will be released on 25 August 2026 for PC.
+Wishlist on Steam: [...] Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research new structures with a variety of functionalities. When resources grow scarce, explore your surroundings for more. Encounter other settlements and deal with them using diplomacy or hostility. 
+
+Developer: rick
+X: 
+
+20 comments
+### Transcript:
+[երաժշտություն] [երաժշտություն] เฮ [երաժշտություն] [երաժշտություն] [երաժշտություն] ฮ",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://steamcommunity.com/app/3396920,Settler's Domain - Steam Community,"I realized that the 25th is opening night for gamescom, so it's probably not the best day to release. But hey, now you get the game 4 days earlier!! Woohoo!
+
+Settler's Domain
+
+22
+
+0
+
+Release Date Announcement!
+
+1 Jul
+
+After almost two years of development, Settler's Domain finally has a release date! On August 25, 2026, I'll be excited to share it with everyone!
+
+Check out the release date trailer:
+
+Mark your calendars! It'll be the best Tuesday you've had in a while.
+
+-rick
+
+Settler's Domain [...] Store Page
+
+Settler's Domain
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Settler's Domain
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Demo De-activation
+
+5 Aug [...] Found this through a Reddit ad, it's a nice little demo. Love the artstyle! I love how the game is challenging from the start and like the general feel! Some points of critique: - The map seems a bit vast. After a few days the resources around your town are all gone and your guys need to walk a lot to keep gathering, this makes the map large and the pixels small. Maybe make it a bit more dense? - The different energy levels of vills seems a bit arbitrary. Once you figure out the high-energy",,"trailer, demo, announcement, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'announcement', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=RzvpuRSk5r0,Settler's Domain - Official Gameplay Trailer - YouTube,"### Description
+6672 views
+Posted: 14 Mar 2026
+Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research new structures with a variety of functionalities. When resources grow scarce, explore your surroundings for more. Encounter other settlements and deal with them using diplomacy or hostility. Create sprawling settlements, organized central villages, or anything in between- whatever works to expand your domain. [...] # Settler's Domain - Official Gameplay Trailer
+## Indie Games Hub
+187000 subscribers
+236 likes [...] Wishlist on Steam: 
+
+Developer: rick
+
+#indiegame #citybuilder #colonysim
+
+14 comments
+### Transcript:",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3396920,web_result,unknown_date,https://store.steampowered.com/app/3396920/Settlers_Domain,Settler's Domain on Steam,"All Games > Strategy Games > Settler's Domain
+
+Community Hub
+
+Settler's Domain
+
+Settler's Domain
+
+Settler's Domain
+
+Developer
+
+rick
+
+Publisher
+
+rick
+
+Release
+
+21 Aug, 2026
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+21 Aug, 2026
+
+Developer:
+
+rick
+
+Publisher:
+
+rick
+
+Tags [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  |  |
+
+Title: Settler's Domain  
+ Genre: Indie, Strategy  
+
+Developer: rick
+
+Publisher: rick
+
+Release Date: 21 Aug, 2026
+
+Discord External   X External   Bluesky External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Awards
+
+Awards
+
+Links & info
+
+This game is not yet available on Steam [...] ## About This Game
+
+Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research new structures with a variety of functionalities. When resources grow scarce, explore your surroundings for more. Encounter other settlements and deal with them using diplomacy or hostility.
+
+## Harvest
+
+Collect resources to build new structures and keep your settlers alive. Resource management is essential for a thriving settlement.
+
+## Build",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=OnS7OsLVveA,Let's Play - Settler's Domain - Survival Colony City Builder - Full Gameplay (Steam Next Fest),"Steam Description: Settler's Domain is a settlement-building game with citizen and resource management elements. Build structures, recruit settlers, gather resources, and explore your surroundings. The demo gives players an experience representative of the full game, but with limited structures and resources unlocked. This game is developed by rick.
+Steam Page: 
+
+#SettlersDomain #coloybuilder #settlementsurvival #steamnextfest #colonysim #citybuilder [...] What's up everybody? My name is Ron Empire and welcome to my channel. Welcome back everybody. Today we're going to check out a game called Settlers Domain. This is another Steam Next Festival game. Settler's Domain is a settlement building game with citizen and resource management elements. Build structures, recruit settlers, gather resources, and explore your surroundings. The demo gives players an experience representative of the full game but with limited structures and resources unlocked. [...] new Settlers with Influence in this game. Earn Influence each day (or by achieving Milestones) to recruit more. Gather Wood, Mine Stones and Ore (Smelt to get Metal) to build new buildings.  Each of the gathering resource building types have a radius reach.  You will only be able to get resources that are in that area.  If you deplete the resources in the radius, you will want to demolish the building to get a partial refund the construction materials used.  Explore the map by building an",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=epF2vU6W_gk,Settler's Domain | Gameplay & First Impression!,"Check out Settler's Domain on Steam:
+🌲 
+""Settler's Domain is a settlement-building game with citizen and resource management elements. Build structures, recruit settlers, gather resources, and uncover your surroundings to expand your domain. "" [...] greetings settling comrades and welcome to the continuation of our next Fest Feast where we suspend our regular broadcast schedule to bring you exciting and interesting demos from the world of steam our next course is this little game that caught my eye it's called Settler's domain it's a settlement building game so let's see what is up it's really pretty I like the pixel art it looks really nice uh and and that's about all that I know about it I looked at the screenshots I looked at the [...] # Settler's Domain | Gameplay & First Impression!
+## Lelling
+1410 subscribers
+8 likes
+
+### Description
+224 views
+Posted: 26 Feb 2025
+Our Next Fest Feast continues with Settler's Domain, a cute settlement-building management game with a lot of promise!
+
+Come say hi to me on Twitch:
+🏡",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+3396920,web_result,unknown_date,https://store.steampowered.com/app/3396920/Settlers_Domain,Settler's Domain on Steam,"All Games > Strategy Games > Settler's Domain
+
+Community Hub
+
+Settler's Domain
+
+Settler's Domain
+
+Settler's Domain
+
+Developer
+
+rick
+
+Publisher
+
+rick
+
+Release
+
+21 Aug, 2026
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+21 Aug, 2026
+
+Developer:
+
+rick
+
+Publisher:
+
+rick
+
+Tags [...] ## Build
+
+Use resources to build structures with a variety of uses.
+
+## Explore
+
+Clear away the unknown to discover more resources and and other settlements in a procedural world.
+
+## Recruit
+
+Use Influence to recruit new settlers to your cause. Larger populations can produce more resources, but need more food, medicine, and housing to survive.
+
+## Research
+
+Research new structures from a large tech tree.
+
+## Diplomacy [...] ## About This Game
+
+Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research new structures with a variety of functionalities. When resources grow scarce, explore your surroundings for more. Encounter other settlements and deal with them using diplomacy or hostility.
+
+## Harvest
+
+Collect resources to build new structures and keep your settlers alive. Resource management is essential for a thriving settlement.
+
+## Build",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3396920,web_result,unknown_date,https://steamcommunity.com/app/3396920,Settler's Domain - Steam Community,"Store Page
+
+Settler's Domain
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Settler's Domain
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Demo De-activation
+
+5 Aug [...] I have explored about 3x screen size (current settlers: ~100). All territories I discovered had no enemies, so I could annex immediately. After my explored area didnt fit in 2 screens worth anymore, things started to become laggy and settlers would never go to their assigned stations (too far, distracted before). I really really enjoyed the demo and poured a lot of hours into it! But I think, ""late game"" needs some optimizations: -Showing male/female in the settler overview list as well [...] Found this through a Reddit ad, it's a nice little demo. Love the artstyle! I love how the game is challenging from the start and like the general feel! Some points of critique: - The map seems a bit vast. After a few days the resources around your town are all gone and your guys need to walk a lot to keep gathering, this makes the map large and the pixels small. Maybe make it a bit more dense? - The different energy levels of vills seems a bit arbitrary. Once you figure out the high-energy",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=RzvpuRSk5r0,Settler's Domain - Official Gameplay Trailer - YouTube,"### Description
+6672 views
+Posted: 14 Mar 2026
+Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research new structures with a variety of functionalities. When resources grow scarce, explore your surroundings for more. Encounter other settlements and deal with them using diplomacy or hostility. Create sprawling settlements, organized central villages, or anything in between- whatever works to expand your domain. [...] # Settler's Domain - Official Gameplay Trailer
+## Indie Games Hub
+187000 subscribers
+236 likes [...] Wishlist on Steam: 
+
+Developer: rick
+
+#indiegame #citybuilder #colonysim
+
+14 comments
+### Transcript:",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=anBFuHSEb6w,Settler's Domain (Settlement Builder - Demo),Settler's Domain is a good old settlement builder where we build up a settlement from barely anything at all into a bustling town!,,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3396920,web_result,unknown_date,https://steamcommunity.com/app/3396920,Settler's Domain - Steam Community,"Found this through a Reddit ad, it's a nice little demo. Love the artstyle! I love how the game is challenging from the start and like the general feel! Some points of critique: - The map seems a bit vast. After a few days the resources around your town are all gone and your guys need to walk a lot to keep gathering, this makes the map large and the pixels small. Maybe make it a bit more dense? - The different energy levels of vills seems a bit arbitrary. Once you figure out the high-energy [...] Store Page
+
+Settler's Domain
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Settler's Domain
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Demo De-activation
+
+5 Aug [...] I have explored about 3x screen size (current settlers: ~100). All territories I discovered had no enemies, so I could annex immediately. After my explored area didnt fit in 2 screens worth anymore, things started to become laggy and settlers would never go to their assigned stations (too far, distracted before). I really really enjoyed the demo and poured a lot of hours into it! But I think, ""late game"" needs some optimizations: -Showing male/female in the settler overview list as well",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3396920,web_result,unknown_date,https://store.steampowered.com/app/3396920/Settlers_Domain,Settler's Domain on Steam,"All Games > Strategy Games > Settler's Domain
+
+Community Hub
+
+Settler's Domain
+
+Settler's Domain
+
+Settler's Domain
+
+Developer
+
+rick
+
+Publisher
+
+rick
+
+Release
+
+21 Aug, 2026
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+21 Aug, 2026
+
+Developer:
+
+rick
+
+Publisher:
+
+rick
+
+Tags [...] ## Build
+
+Use resources to build structures with a variety of uses.
+
+## Explore
+
+Clear away the unknown to discover more resources and and other settlements in a procedural world.
+
+## Recruit
+
+Use Influence to recruit new settlers to your cause. Larger populations can produce more resources, but need more food, medicine, and housing to survive.
+
+## Research
+
+Research new structures from a large tech tree.
+
+## Diplomacy [...] ## About This Game
+
+Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research new structures with a variety of functionalities. When resources grow scarce, explore your surroundings for more. Encounter other settlements and deal with them using diplomacy or hostility.
+
+## Harvest
+
+Collect resources to build new structures and keep your settlers alive. Resource management is essential for a thriving settlement.
+
+## Build",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3396920,web_result,unknown_date,https://www.gamespress.com/After-Almost-Two-Years-in-Development-Settlers-Domain-Has-a-Release-Da,"""After Almost Two Years in Development, Settler’s Domain Has a Release Date!"" - Games Press","July 1, 2026  
+   
+ Strategy settlement-building game Settler’s Domain is releasing August 25, 2026 on Steam! Check out the brand new release date announcement trailer:  
+   
+   
+   
+ Solo-developed by rick, Settler’s Domain combines pixel graphics and thoughtful, strategic, gameplay: Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive. [...] Close video player
+End of video player
+
+Close lightbox
+
+View previous image
+
+View next image
+
+1. Home
+2. Press releases
+3. After Almost Two Years in Development, Settler’s Domain Has a Release Date!
+
+### Press release
+
+01/07/2026
+
+# After Almost Two Years in Development, Settler’s Domain Has a Release Date! [...] Key Features:",,"trailer, gameplay, announcement, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'announcement', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://store.steampowered.com/app/3396920/Settlers_Domain,Settler's Domain on Steam,"All Games > Strategy Games > Settler's Domain
+
+Community Hub
+
+Settler's Domain
+
+Settler's Domain
+
+Settler's Domain
+
+Developer
+
+rick
+
+Publisher
+
+rick
+
+Release
+
+21 Aug, 2026
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+21 Aug, 2026
+
+Developer:
+
+rick
+
+Publisher:
+
+rick
+
+Tags [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  |  |
+
+Title: Settler's Domain  
+ Genre: Indie, Strategy  
+
+Developer: rick
+
+Publisher: rick
+
+Release Date: 21 Aug, 2026
+
+Discord External   X External   Bluesky External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Awards
+
+Awards
+
+Links & info
+
+This game is not yet available on Steam [...] # Planned Release Date: 21 Aug, 2026
+
+This game plans to unlock in approximately 1 day and 12 hours
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3396920,web_result,unknown_date,https://indiebunny.com/games/settler-s-domain,"Settler's Domain - News, Trailers, Release Date & ...","Settler's Domain is scheduled to release 21 Aug, 2026 on Steam. Settler's Domain is available on PC via Steam. Download on the App Store Get it on Google Play",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://steamcommunity.com/app/3396920,Settler's Domain - Steam Community,"I realized that the 25th is opening night for gamescom, so it's probably not the best day to release. But hey, now you get the game 4 days earlier!! Woohoo!
+
+Settler's Domain
+
+22
+
+0
+
+Release Date Announcement!
+
+1 Jul
+
+After almost two years of development, Settler's Domain finally has a release date! On August 25, 2026, I'll be excited to share it with everyone!
+
+Check out the release date trailer:
+
+Mark your calendars! It'll be the best Tuesday you've had in a while.
+
+-rick
+
+Settler's Domain [...] Unlike the other resources, it doesn't seem to respawn naturally and I can't seem to explore fast enough to get more of it yet (plus there are neighbouring villages). Is the idea to trade for it until I can get a quarry up to get limestone going? Thanks in advance!...
+
+1
+
+[Techhead7890
+
+12 Aug @ 11:43am](
+
+General Discussions
+
+Release Date Update!
+
+25 Jul
+
+Settler's Domain is now releasing on August 21! [...] 5 Aug
+
+Demo Update
+
+I will be de-activating the Settler's Domain demo on August 14!
+
+That will be 1 week before the full release. If you want to try the demo, now's your time!! :D
+
+Settler's Domain
+
+13
+
+1
+
+How are you supposed to get early stone?",,"trailer, demo, announcement, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'announcement', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://www.gamespress.com/After-Almost-Two-Years-in-Development-Settlers-Domain-Has-a-Release-Da,"""After Almost Two Years in Development, Settler’s Domain Has a Release Date!"" - Games Press","July 1, 2026  
+   
+ Strategy settlement-building game Settler’s Domain is releasing August 25, 2026 on Steam! Check out the brand new release date announcement trailer:  
+   
+   
+   
+ Solo-developed by rick, Settler’s Domain combines pixel graphics and thoughtful, strategic, gameplay: Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive. [...] Close video player
+End of video player
+
+Close lightbox
+
+View previous image
+
+View next image
+
+1. Home
+2. Press releases
+3. After Almost Two Years in Development, Settler’s Domain Has a Release Date!
+
+### Press release
+
+01/07/2026
+
+# After Almost Two Years in Development, Settler’s Domain Has a Release Date! [...] Build over 80 structures
+ Manage resources
+ Survive against hunger and disease
+ Explore the map
+ Engage with other settlements
+
+Wishlist or try the demo on Steam: Settler's Domain on Steam  
+   
+ Press kit: 
+
+This is taking longer than usual to load.
+
+Close
+
+### Your downloads
+
+Total download size:
+
+These files can be freely downloaded without watermarks because they were uploaded by using Games Press Elite.",,"trailer, gameplay, demo, announcement, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo', 'announcement', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://steamcommunity.com/app/3396920,Settler's Domain - Steam Community,"I realized that the 25th is opening night for gamescom, so it's probably not the best day to release. But hey, now you get the game 4 days earlier!! Woohoo!
+
+Settler's Domain
+
+22
+
+0
+
+Release Date Announcement!
+
+1 Jul
+
+After almost two years of development, Settler's Domain finally has a release date! On August 25, 2026, I'll be excited to share it with everyone!
+
+Check out the release date trailer:
+
+Mark your calendars! It'll be the best Tuesday you've had in a while.
+
+-rick
+
+Settler's Domain [...] Store Page
+
+Settler's Domain
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Settler's Domain
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Demo De-activation
+
+5 Aug [...] Unlike the other resources, it doesn't seem to respawn naturally and I can't seem to explore fast enough to get more of it yet (plus there are neighbouring villages). Is the idea to trade for it until I can get a quarry up to get limestone going? Thanks in advance!...
+
+1
+
+[Techhead7890
+
+12 Aug @ 11:43am](
+
+General Discussions
+
+Release Date Update!
+
+25 Jul
+
+Settler's Domain is now releasing on August 21!",,"trailer, demo, announcement, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'announcement', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://store.steampowered.com/app/3396920/Settlers_Domain,Settler's Domain on Steam,"All Games > Strategy Games > Settler's Domain
+
+Community Hub
+
+Settler's Domain
+
+Settler's Domain
+
+Settler's Domain
+
+Developer
+
+rick
+
+Publisher
+
+rick
+
+Release
+
+21 Aug, 2026
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+21 Aug, 2026
+
+Developer:
+
+rick
+
+Publisher:
+
+rick
+
+Tags [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  |  |
+
+Title: Settler's Domain  
+ Genre: Indie, Strategy  
+
+Developer: rick
+
+Publisher: rick
+
+Release Date: 21 Aug, 2026
+
+Discord External   X External   Bluesky External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Awards
+
+Awards
+
+Links & info
+
+This game is not yet available on Steam [...] # Planned Release Date: 21 Aug, 2026
+
+This game plans to unlock in approximately 1 day and 12 hours
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=a39_mbnNawI,Settler's Domain - Official Release Date Trailer,"# Settler's Domain - Official Release Date Trailer
+## Indie Games Hub
+188000 subscribers
+341 likes
+
+### Description
+13496 views
+Posted: 1 Jul 2026
+Settler's Domain will be released on 25 August 2026 for PC.
+Wishlist on Steam: [...] Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research new structures with a variety of functionalities. When resources grow scarce, explore your surroundings for more. Encounter other settlements and deal with them using diplomacy or hostility. 
+
+Developer: rick
+X: 
+
+20 comments
+### Transcript:
+[երաժշտություն] [երաժշտություն] เฮ [երաժշտություն] [երաժշտություն] [երաժշտություն] ฮ",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://www.gamespress.com/After-Almost-Two-Years-in-Development-Settlers-Domain-Has-a-Release-Da,"""After Almost Two Years in Development, Settler's Domain ...","July 1, 2026  
+   
+ Strategy settlement-building game Settler’s Domain is releasing August 25, 2026 on Steam! Check out the brand new release date announcement trailer:  
+   
+   
+   
+ Solo-developed by rick, Settler’s Domain combines pixel graphics and thoughtful, strategic, gameplay: Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive. [...] Build over 80 structures
+ Manage resources
+ Survive against hunger and disease
+ Explore the map
+ Engage with other settlements
+
+Wishlist or try the demo on Steam: Settler's Domain on Steam  
+   
+ Press kit: 
+
+This is taking longer than usual to load.
+
+Close
+
+### Your downloads
+
+Total download size:
+
+These files can be freely downloaded without watermarks because they were uploaded by using Games Press Elite. [...] Close video player
+End of video player
+
+Close lightbox
+
+View previous image
+
+View next image
+
+1. Home
+2. Press releases
+3. After Almost Two Years in Development, Settler’s Domain Has a Release Date!
+
+### Press release
+
+01/07/2026
+
+# After Almost Two Years in Development, Settler’s Domain Has a Release Date!",,"trailer, gameplay, demo, announcement, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo', 'announcement', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://store.steampowered.com/app/3396920/Settlers_Domain,Settler's Domain on Steam,"All Games > Strategy Games > Settler's Domain
+
+Community Hub
+
+Settler's Domain
+
+Settler's Domain
+
+Settler's Domain
+
+Developer
+
+rick
+
+Publisher
+
+rick
+
+Release
+
+21 Aug, 2026
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+21 Aug, 2026
+
+Developer:
+
+rick
+
+Publisher:
+
+rick
+
+Tags [...] ## Build
+
+Use resources to build structures with a variety of uses.
+
+## Explore
+
+Clear away the unknown to discover more resources and and other settlements in a procedural world.
+
+## Recruit
+
+Use Influence to recruit new settlers to your cause. Larger populations can produce more resources, but need more food, medicine, and housing to survive.
+
+## Research
+
+Research new structures from a large tech tree.
+
+## Diplomacy [...] ## About This Game
+
+Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research new structures with a variety of functionalities. When resources grow scarce, explore your surroundings for more. Encounter other settlements and deal with them using diplomacy or hostility.
+
+## Harvest
+
+Collect resources to build new structures and keep your settlers alive. Resource management is essential for a thriving settlement.
+
+## Build",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3396920,web_result,unknown_date,https://steamcommunity.com/app/3396920,Settler's Domain - Steam Community,"Store Page
+
+Settler's Domain
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Settler's Domain
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Demo De-activation
+
+5 Aug [...] I realized that the 25th is opening night for gamescom, so it's probably not the best day to release. But hey, now you get the game 4 days earlier!! Woohoo!
+
+Settler's Domain
+
+22
+
+0
+
+Release Date Announcement!
+
+1 Jul
+
+After almost two years of development, Settler's Domain finally has a release date! On August 25, 2026, I'll be excited to share it with everyone!
+
+Check out the release date trailer:
+
+Mark your calendars! It'll be the best Tuesday you've had in a while.
+
+-rick
+
+Settler's Domain [...] Found this through a Reddit ad, it's a nice little demo. Love the artstyle! I love how the game is challenging from the start and like the general feel! Some points of critique: - The map seems a bit vast. After a few days the resources around your town are all gone and your guys need to walk a lot to keep gathering, this makes the map large and the pixels small. Maybe make it a bit more dense? - The different energy levels of vills seems a bit arbitrary. Once you figure out the high-energy",,"trailer, demo, announcement, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'announcement', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=RzvpuRSk5r0,Settler's Domain - Official Gameplay Trailer - YouTube,"### Description
+6672 views
+Posted: 14 Mar 2026
+Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research new structures with a variety of functionalities. When resources grow scarce, explore your surroundings for more. Encounter other settlements and deal with them using diplomacy or hostility. Create sprawling settlements, organized central villages, or anything in between- whatever works to expand your domain. [...] # Settler's Domain - Official Gameplay Trailer
+## Indie Games Hub
+187000 subscribers
+236 likes [...] Wishlist on Steam: 
+
+Developer: rick
+
+#indiegame #citybuilder #colonysim
+
+14 comments
+### Transcript:",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=a39_mbnNawI,Settler's Domain - Official Release Date Trailer,"# Settler's Domain - Official Release Date Trailer
+## Indie Games Hub
+188000 subscribers
+341 likes
+
+### Description
+13496 views
+Posted: 1 Jul 2026
+Settler's Domain will be released on 25 August 2026 for PC.
+Wishlist on Steam: [...] Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research new structures with a variety of functionalities. When resources grow scarce, explore your surroundings for more. Encounter other settlements and deal with them using diplomacy or hostility. 
+
+Developer: rick
+X: 
+
+20 comments
+### Transcript:
+[երաժշտություն] [երաժշտություն] เฮ [երաժշտություն] [երաժշտություն] [երաժշտություն] ฮ",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://store.steampowered.com/app/3396920/Settlers_Domain,Settler's Domain on Steam,"All Games > Strategy Games > Settler's Domain
+
+Community Hub
+
+Settler's Domain
+
+Settler's Domain
+
+Settler's Domain
+
+Developer
+
+rick
+
+Publisher
+
+rick
+
+Release
+
+21 Aug, 2026
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+21 Aug, 2026
+
+Developer:
+
+rick
+
+Publisher:
+
+rick
+
+Tags [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  |  |
+
+Title: Settler's Domain  
+ Genre: Indie, Strategy  
+
+Developer: rick
+
+Publisher: rick
+
+Release Date: 21 Aug, 2026
+
+Discord External   X External   Bluesky External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Awards
+
+Awards
+
+Links & info
+
+This game is not yet available on Steam [...] rick
+
+Tags
+
+Popular user-defined tags for this product:
+
+City Builder  Colony Sim  Resource Management  Strategy  Diplomacy  Economy  Management  Medieval  Base Building  Top-Down  Cozy  Procedural Generation  Pixel Graphics  Singleplayer  Indie  Survival  Building  Exploration  2D  Sandbox 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player
+
+Steam Achievements
+
+Steam Cloud
+
+Stats
+
+Family Sharing",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3396920,web_result,unknown_date,https://steamcommunity.com/app/3396920,Settler's Domain - Steam Community,"Store Page
+
+Settler's Domain
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Settler's Domain
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Demo De-activation
+
+5 Aug [...] Found this through a Reddit ad, it's a nice little demo. Love the artstyle! I love how the game is challenging from the start and like the general feel! Some points of critique: - The map seems a bit vast. After a few days the resources around your town are all gone and your guys need to walk a lot to keep gathering, this makes the map large and the pixels small. Maybe make it a bit more dense? - The different energy levels of vills seems a bit arbitrary. Once you figure out the high-energy [...] I have explored about 3x screen size (current settlers: ~100). All territories I discovered had no enemies, so I could annex immediately. After my explored area didnt fit in 2 screens worth anymore, things started to become laggy and settlers would never go to their assigned stations (too far, distracted before). I really really enjoyed the demo and poured a lot of hours into it! But I think, ""late game"" needs some optimizations: -Showing male/female in the settler overview list as well",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=epF2vU6W_gk,Settler's Domain | Gameplay & First Impression! - YouTube,"Check out Settler's Domain on Steam:
+🌲 
+""Settler's Domain is a settlement-building game with citizen and resource management elements. Build structures, recruit settlers, gather resources, and uncover your surroundings to expand your domain. "" [...] greetings settling comrades and welcome to the continuation of our next Fest Feast where we suspend our regular broadcast schedule to bring you exciting and interesting demos from the world of steam our next course is this little game that caught my eye it's called Settler's domain it's a settlement building game so let's see what is up it's really pretty I like the pixel art it looks really nice uh and and that's about all that I know about it I looked at the screenshots I looked at the [...] # Settler's Domain | Gameplay & First Impression!
+## Lelling
+1410 subscribers
+8 likes
+
+### Description
+224 views
+Posted: 26 Feb 2025
+Our Next Fest Feast continues with Settler's Domain, a cute settlement-building management game with a lot of promise!
+
+Come say hi to me on Twitch:
+🏡",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+3396920,web_result,unknown_date,https://store.steampowered.com/app/3396920/Settlers_Domain,Settler's Domain on Steam,"All Games > Strategy Games > Settler's Domain
+
+Community Hub
+
+Settler's Domain
+
+Settler's Domain
+
+Settler's Domain
+
+Developer
+
+rick
+
+Publisher
+
+rick
+
+Release
+
+21 Aug, 2026
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+21 Aug, 2026
+
+Developer:
+
+rick
+
+Publisher:
+
+rick
+
+Tags [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  |  |
+
+Title: Settler's Domain  
+ Genre: Indie, Strategy  
+
+Developer: rick
+
+Publisher: rick
+
+Release Date: 21 Aug, 2026
+
+Discord External   X External   Bluesky External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Awards
+
+Awards
+
+Links & info
+
+This game is not yet available on Steam [...] 简体中文 (Simplified Chinese)   繁體中文 (Traditional Chinese)   日本語 (Japanese)   한국어 (Korean)   ไทย (Thai)   Bahasa Indonesia (Indonesian)   Bahasa Melayu (Malay) BETA   Български (Bulgarian)   Čeština (Czech)   Dansk (Danish)   Deutsch (German)   Español - España (Spanish - Spain)   Español - Latinoamérica (Spanish - Latin America)   Ελληνικά (Greek)   Français (French)   Italiano (Italian)   Magyar (Hungarian)   Nederlands (Dutch)   Norsk (Norwegian)   Polski (Polish)   Português (Portuguese -",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3396920,web_result,unknown_date,https://www.gamespress.com/After-Almost-Two-Years-in-Development-Settlers-Domain-Has-a-Release-Da,"""After Almost Two Years in Development, Settler's Domain Has ...","July 1, 2026  
+   
+ Strategy settlement-building game Settler’s Domain is releasing August 25, 2026 on Steam! Check out the brand new release date announcement trailer:  
+   
+   
+   
+ Solo-developed by rick, Settler’s Domain combines pixel graphics and thoughtful, strategic, gameplay: Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive. [...] Build over 80 structures
+ Manage resources
+ Survive against hunger and disease
+ Explore the map
+ Engage with other settlements
+
+Wishlist or try the demo on Steam: Settler's Domain on Steam  
+   
+ Press kit: 
+
+This is taking longer than usual to load.
+
+Close
+
+### Your downloads
+
+Total download size:
+
+These files can be freely downloaded without watermarks because they were uploaded by using Games Press Elite. [...] These files can be freely downloaded without watermarks because they've been fed through from 's press room.
+
+Downloading these files requires Games Press credits, but you currently only have credits.  Top up credits
+
+Downloading these files requires a Games Press Pro account  More information
+
+Clear list Download Download with
+
+(#)",,"trailer, gameplay, demo, announcement, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo', 'announcement', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=epF2vU6W_gk,Settler's Domain | Gameplay & First Impression! - YouTube,"Check out Settler's Domain on Steam:
+🌲 
+""Settler's Domain is a settlement-building game with citizen and resource management elements. Build structures, recruit settlers, gather resources, and uncover your surroundings to expand your domain. "" [...] greetings settling comrades and welcome to the continuation of our next Fest Feast where we suspend our regular broadcast schedule to bring you exciting and interesting demos from the world of steam our next course is this little game that caught my eye it's called Settler's domain it's a settlement building game so let's see what is up it's really pretty I like the pixel art it looks really nice uh and and that's about all that I know about it I looked at the screenshots I looked at the [...] # Settler's Domain | Gameplay & First Impression!
+## Lelling
+1410 subscribers
+8 likes
+
+### Description
+224 views
+Posted: 26 Feb 2025
+Our Next Fest Feast continues with Settler's Domain, a cute settlement-building management game with a lot of promise!
+
+Come say hi to me on Twitch:
+🏡",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+3396920,web_result,unknown_date,https://steamcommunity.com/app/3396920,Settler's Domain - Steam Community,"Store Page
+
+Settler's Domain
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Settler's Domain
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Demo De-activation
+
+5 Aug [...] I realized that the 25th is opening night for gamescom, so it's probably not the best day to release. But hey, now you get the game 4 days earlier!! Woohoo!
+
+Settler's Domain
+
+22
+
+0
+
+Release Date Announcement!
+
+1 Jul
+
+After almost two years of development, Settler's Domain finally has a release date! On August 25, 2026, I'll be excited to share it with everyone!
+
+Check out the release date trailer:
+
+Mark your calendars! It'll be the best Tuesday you've had in a while.
+
+-rick
+
+Settler's Domain [...] Sign in   Store 
+
+Home   Discovery Queue   Wishlist   Points Shop   News   Charts
+
+ Community 
+
+Home   Discussions   Workshop   Market   Broadcasts
+
+ About   Support 
+
+Change language
+
+Get the Steam Mobile App
+
+View desktop website
+
+© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.  Privacy Policy  |  Legal  |  Accessibility  |  Steam Subscriber Agreement  |  Refunds  |  Cookies
+
+STEAM
+
+Link to the Steam Homepage",,"trailer, demo, announcement, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'announcement', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://store.steampowered.com/app/3396920/Settlers_Domain,Settler's Domain on Steam,"All Games > Strategy Games > Settler's Domain
+
+Community Hub
+
+Settler's Domain
+
+Settler's Domain
+
+Settler's Domain
+
+Developer
+
+rick
+
+Publisher
+
+rick
+
+Release
+
+21 Aug, 2026
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+21 Aug, 2026
+
+Developer:
+
+rick
+
+Publisher:
+
+rick
+
+Tags [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  |  |
+
+Title: Settler's Domain  
+ Genre: Indie, Strategy  
+
+Developer: rick
+
+Publisher: rick
+
+Release Date: 21 Aug, 2026
+
+Discord External   X External   Bluesky External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Awards
+
+Awards
+
+Links & info
+
+This game is not yet available on Steam [...] ## Build
+
+Use resources to build structures with a variety of uses.
+
+## Explore
+
+Clear away the unknown to discover more resources and and other settlements in a procedural world.
+
+## Recruit
+
+Use Influence to recruit new settlers to your cause. Larger populations can produce more resources, but need more food, medicine, and housing to survive.
+
+## Research
+
+Research new structures from a large tech tree.
+
+## Diplomacy",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3396920,web_result,unknown_date,https://www.gamespress.com/After-Almost-Two-Years-in-Development-Settlers-Domain-Has-a-Release-Da,"""After Almost Two Years in Development, Settler's Domain Has ...","July 1, 2026  
+   
+ Strategy settlement-building game Settler’s Domain is releasing August 25, 2026 on Steam! Check out the brand new release date announcement trailer:  
+   
+   
+   
+ Solo-developed by rick, Settler’s Domain combines pixel graphics and thoughtful, strategic, gameplay: Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive. [...] Key Features: [...] Build over 80 structures
+ Manage resources
+ Survive against hunger and disease
+ Explore the map
+ Engage with other settlements
+
+Wishlist or try the demo on Steam: Settler's Domain on Steam  
+   
+ Press kit: 
+
+This is taking longer than usual to load.
+
+Close
+
+### Your downloads
+
+Total download size:
+
+These files can be freely downloaded without watermarks because they were uploaded by using Games Press Elite.",,"trailer, gameplay, demo, announcement, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo', 'announcement', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=a39_mbnNawI,Settler's Domain - Official Release Date Trailer,"Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research new structures with a variety of functionalities. When resources grow scarce, explore your surroundings for more. Encounter other settlements and deal with them using diplomacy or hostility. 
+
+Developer: rick
+X: 
+
+20 comments
+### Transcript:
+[երաժշտություն] [երաժշտություն] เฮ [երաժշտություն] [երաժշտություն] [երաժշտություն] ฮ [...] # Settler's Domain - Official Release Date Trailer
+## Indie Games Hub
+188000 subscribers
+341 likes
+
+### Description
+13496 views
+Posted: 1 Jul 2026
+Settler's Domain will be released on 25 August 2026 for PC.
+Wishlist on Steam:",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+3396920,web_result,unknown_date,https://steamcommunity.com/app/3396920,Settler's Domain - Steam Community,"I realized that the 25th is opening night for gamescom, so it's probably not the best day to release. But hey, now you get the game 4 days earlier!! Woohoo!
+
+Settler's Domain
+
+22
+
+0
+
+Release Date Announcement!
+
+1 Jul
+
+After almost two years of development, Settler's Domain finally has a release date! On August 25, 2026, I'll be excited to share it with everyone!
+
+Check out the release date trailer:
+
+Mark your calendars! It'll be the best Tuesday you've had in a while.
+
+-rick
+
+Settler's Domain [...] Store Page
+
+Settler's Domain
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Settler's Domain
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Demo De-activation
+
+5 Aug [...] Unlike the other resources, it doesn't seem to respawn naturally and I can't seem to explore fast enough to get more of it yet (plus there are neighbouring villages). Is the idea to trade for it until I can get a quarry up to get limestone going? Thanks in advance!...
+
+1
+
+[Techhead7890
+
+12 Aug @ 11:43am](
+
+General Discussions
+
+Release Date Update!
+
+25 Jul
+
+Settler's Domain is now releasing on August 21!",,"trailer, demo, announcement, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'announcement', 'release date'] (+20)",general
+3396920,youtube_video,outside_window,https://www.youtube.com/watch?v=RzvpuRSk5r0,Settler&#39;s Domain - Official Gameplay Trailer,,Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research ...,"trailer, gameplay",35,medium,"YouTube (+15); Keywords ['trailer', 'gameplay'] (+20)",
+3396920,youtube_video,outside_window,https://www.youtube.com/watch?v=v0P2dv8qhg4,Settler&#39;s Domain - Official Gameplay Trailer,,Play the demo or wishlist on Steam: https://store.steampowered.com/app/3396920/Settlers_Domain?utm_source=rick_yt Settler's ...,"trailer, gameplay, demo",35,medium,"YouTube (+15); Keywords ['trailer', 'gameplay', 'demo'] (+20)",
+3396920,youtube_video,outside_window,https://www.youtube.com/watch?v=RzvpuRSk5r0,Settler&#39;s Domain - Official Gameplay Trailer,,Manage your ever-growing settlement! Use the resources at your disposal to build structures necessary for survival. Research ...,"trailer, gameplay",35,medium,"YouTube (+15); Keywords ['trailer', 'gameplay'] (+20)",
+3396920,youtube_video,outside_window,https://www.youtube.com/watch?v=uULkI-pjYqw,Settler&#39;s Domain Early Beta Playthrough,,"Hello, and welcome to another beta test play through. Settler's Domain is a settlement-building game with citizen and resource ...",,35,medium,YouTube (+15); Exact title match (+20),
+3396920,youtube_video,outside_window,https://www.youtube.com/watch?v=rZ5muLHMMbs,Settler&#39;s Domain Demo Gameplay (No Commentary),,Demo People Rating: 3☆ Steam: https://store.steampowered.com/app/3396920/Settlers_Domain/ #steamdemo #gampleplay ...,"gameplay, demo",35,medium,"YouTube (+15); Keywords ['gameplay', 'demo'] (+20)",
+3396920,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1sproq8/settlers_domain_rick_strategy_settlementbuilder,Settler's Domain - rick - Strategy Settlement-Builder : r/Games,It's a strategy settlement building game where resource management and diplomacy play a big role. You explore procedurally generated maps and,,,30,weak,Reddit (+10); Exact title match (+20),general
+3396920,reddit_discussion,unknown_date,https://www.reddit.com/r/CozyGamers/comments/1hwl4mg/what_do_you_guys_think_cozy_im_making_a_city,"What do you guys think, cozy? I'm making a city builder- doing all the ...","Settler's Domain involves gathering resources, building structures, recruiting settlers, and exploring your surroundings. art style and",,,30,weak,Reddit (+10); Exact title match (+20),general
+3396920,reddit_discussion,unknown_date,https://www.reddit.com/r/DreamStationcc/comments/1ukny7s/settlers_domain_releasing_on_steam_on_august_25,"Settler's Domain - Releasing on Steam on August 25, 2026","Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements",,,30,weak,Reddit (+10); Exact title match (+20),social
+3396920,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1ui4qqk/settlers_domain_rick_strategy_settlementbuilder,Settler's Domain - rick - Strategy Settlement-Builder : r/Games,"Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with ...Read more",,,30,weak,Reddit (+10); Exact title match (+20),social
+3396920,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1sproq8/settlers_domain_rick_strategy_settlementbuilder,Settler's Domain - rick - Strategy Settlement-Builder : r/Games,It's a strategy settlement building game where resource management and diplomacy play a big role. You explore procedurally generated maps and,,,30,weak,Reddit (+10); Exact title match (+20),social
+3396920,reddit_discussion,unknown_date,https://www.reddit.com/r/indiegames/comments/1hx62jp/im_making_a_city_builder_heres_some_screenshots,I'm making a city builder: here's some screenshots from ...,"Gather resources, build structures, recruit settlers, and explore your surroundings. Releasing a demo sometime in the next month- Settler's",,demo,30,weak,Reddit (+10); Keywords ['demo'] (+20),social
+3396920,social_post,unknown_date,https://www.tiktok.com/@settlersdomainrick,rick (@settlersdomainrick),Solo indie game developer working on Settler's Domain. I'm making a settlement building game!! #indiegames #gamedev #indiedev.,,,25,weak,Social Index (+5); Exact title match (+20),social
+3396920,social_post,unknown_date,https://www.instagram.com/p/DaShRYRDflo,"Build, Explore, Survive: Solo-Dev Gem 'Settler's Domain' Brings ...","Build, Explore, Survive: Solo-Dev Gem 'Settler's Domain' Brings Strategic Pixel Art Goodness to Steam",,,25,weak,Social Index (+5); Exact title match (+20),social
+3396920,social_post,unknown_date,https://x.com/__rick________/status/2052513380225716537,"I'm developing Settler's Domain, a strategy settlement-building ...","Settler's Domain, a strategy settlement-building game on a map with NPC settlements. If another settlement's opinion of you reaches 1000, you",,,25,weak,Social Index (+5); Exact title match (+20),social
+3396920,social_post,unknown_date,https://x.com/__rick________/status/2053451534688485675,"In Settler's Domain, you start out with a few ...","In Settler's Domain, you start out with a few settlers surviving off wild resources. As your settlement grows, you research better structures,",,,25,weak,Social Index (+5); Exact title match (+20),social
+3396920,social_post,unknown_date,https://x.com/SynthGl1tchz/status/2051352050756202735,I'm developing Settler's Domain to be a relaxed settlement ...,"I'm developing Settler's Domain to be a relaxed settlement building game that still requires thoughtful and strategic choices. You can play at 1x, 2x, 5x,",,,25,weak,Social Index (+5); Exact title match (+20),social
+3396920,social_post,unknown_date,https://x.com/__rick________,rick (@__rick________) / Posts / X,"Settler's Domain is releasing August 25, 2026 on Steam! I've been developing this strategy settlement-building game for almost two years, and it's finally",,,25,weak,Social Index (+5); Exact title match (+20),social
+3396920,social_post,unknown_date,https://robsgameshack.com/games/settlers-domain,Settler's Domain: Settlement Building Game,"Settler’s Domain is a settlement builder through and through. You start small, gathering resources just to keep your settlers fed and housed, then slowly grow into a proper thriving hub with a research tree full of new structures to unlock and put to use. [...] Skip to content 
+
+# Settler’s Domain
+
+Going Gold
+
+ by rick · 21 Aug, 2026
+
+Single-player   Achievements   Cloud Saves   Family Sharing
+
+Build up your settlement from scratch, manage resources, research new tech and decide whether to make friends or enemies of your neighbours. It's classic settlement building done right. [...] The world around you is procedurally generated, so you’ll need to clear away the fog of war to find fresh resources and stumble across other settlements along the way. What you do with those neighbours is up to you. Trade with them, team up, or go in guns blazing. Just be ready for the consequences either way.",,,25,weak,Social Index (+5); Exact title match (+20),social
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=sgx1c5Bh6gY,Settler's Domain - Strategy Settlement Builder - YouTube,"Settler's Domain is a settlement-building game with citizen and resource management elements. Build structures, recruit settlers,",,,20,weak,Exact title match (+20),general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=sgx1c5Bh6gY,Settler's Domain - Strategy Settlement Builder,"Settler's Domain is a settlement-building game with citizen and resource management elements. Build structures, recruit settlers, gather",,,20,weak,Exact title match (+20),general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=sgx1c5Bh6gY,Settler's Domain - Strategy Settlement Builder - YouTube,"Settler's Domain is a settlement-building game with citizen and resource management elements. Build structures, recruit settlers,",,,20,weak,Exact title match (+20),general
+3396920,web_result,unknown_date,https://www.youtube.com/watch?v=sgx1c5Bh6gY,Settler's Domain - Strategy Settlement Builder - YouTube,"Settler's Domain is a settlement-building game with citizen and resource management elements. Build structures, recruit settlers,",,,20,weak,Exact title match (+20),general
+3396920,web_result,unknown_date,https://techmash.co.uk/2026/07/02/build-explore-survive-solo-dev-gem-settlers-domain-brings-strategic-pixel-art-goodness-to-steam,"Build, Explore, Survive: Solo-Dev Gem ‘Settler’s Domain’ Brings Strategic Pixel Art Goodness to Steam – TECHMASH","David Allen
+
+If there is one thing we love here at TechMash, it’s the sheer magic of indie games—especially those crafted by a lone developer pouring their heart, soul, and coding hours into something special. Enter rick, a solo developer who has spent the last two years building a gorgeous, thoughtful colony sim that strategy fans will definitely want to keep on their radar.
+
+Say hello to Settler’s Domain. [...] > Release Date Update: After nearly two years of hard work, rick has officially announced that Settler’s Domain is launching on Steam on August 25, 2026.
+
+If you love city builders, colony sims, or classic RTS games, you can head over to Steam right now to try out the demo and add it to your wishlist. Supporting solo developers is what keeps the gaming industry fresh, and Settler’s Domain looks like it’s going to be an absolute gem. [...] Skip to content
+
+TECHMASH
+
+# TECHMASH
+
+# Build, Explore, Survive: Solo-Dev Gem ‘Settler’s Domain’ Brings Strategic Pixel Art Goodness to Steam
+
+·
+
+Gamers, Games, Gaming, Gaming News, Video Games
+
+David Allen avatar
+
+David Allen",,"demo, release date",20,weak,"Keywords ['demo', 'release date'] (+20)",general
+3396920,social_post,unknown_date,https://www.tiktok.com/@settlersdomainrick/video/7637125713178430734,Building Your First Settlement: The Humble House,TikTok video from rick (@settlersdomainrick): “Discover the significance of the humble house in settlement building within indie games.,,,5,weak,Social Index (+5),social
+3396920,social_post,unknown_date,https://www.tiktok.com/@tabletokgames/video/7219204357701602566,Set up Settlers of Catan Card Game with me #CardGames ...,"In this cutting card game, players aim to build their domain with only the esteemed members of society. In order to do so they must play 3",,,5,weak,Social Index (+5),social
+3396920,social_post,unknown_date,https://www.tiktok.com/@game_demos/video/7645061761418136854,Dungeon Settlers: Colony Sim Dungeon Crawler Strategy Game,Players manage an expedition to establish a settlement in desolate terrain. This involves providing essential food and shelter for the settlers.,,,5,weak,Social Index (+5),social
+3396920,social_post,unknown_date,https://www.tiktok.com/@pacifllwg13/video/7433898612461014314,Clash of Settlers: Rivals for CATAN 2 Player Card Game Fun ...,"* BUILD AND DEVELOP: Utilize gold, resource combinations, and trade to construct settlements and cities, recruit heroes, and fortify your lands.",,,5,weak,Social Index (+5),social
+3396920,social_post,unknown_date,https://www.instagram.com/settlersdomainrick,rick (@settlersdomainrick) • Instagram photos and videos,“Solo indie game developer working on Settler&#39;s Domain” My settlement building game is finally releasing August 25!! over 70 structures! Game is called,,,5,weak,Social Index (+5),social
+3396920,social_post,unknown_date,https://www.instagram.com/p/DYHmFr6jaO7,Instagram,"In 1853 the New York State Legislature passed the Central Park Act designating the land for public use. Seneca Village existed until 1857 when through eminent domain the villagers and other settlers in the area were forced to leave and their homes were torn down for the construction of Central Park. Residents protested and filed lawsuits for two years. The press campaign against them described residents as squatters and vagabonds, language directly contradicted by census records showing [...] tie.wood's profile picture
+
+tie.wood
+
+Formally removed?
+
+Reply
+
+id_fw_u's profile picture
+
+id\_fw\_u
+
+Wow! Never knew this. 😢
+
+Reply
+
+lestinev's profile picture
+
+lestinev
+
+The GREATEST TRAGEDY IS AND ALWAYS WILL BE THE NATIVE AMERICAN, every inch of that land has their blood written all over it, including this piece of land in article....let us NOT FORGET
+
+Reply
+
+reglouada62's profile picture
+
+reglouada62
+
+Exactly 👏👏👏
+
+Reply
+
+mspurplerain699's profile picture
+
+mspurplerain699 [...] YOURS. LINK IN OUR BIO'.",,,5,weak,Social Index (+5),social
+3396920,social_post,unknown_date,https://www.instagram.com/reel/DbSFttBCVh-,Hack Day 2026 | Collaboration. Innovation. Growth. Our team ...,"Our team came together at Settlers Run for an inspiring Hack Day, spending the morning exploring new ideas, smarter systems, and innovative",,,5,weak,Social Index (+5),social
+3396920,social_post,unknown_date,https://www.instagram.com/p/DW6s3t2F3mX,Instagram,"iii_initiative's profile picture
+Photo by The Triple-i Initiative on April 09, 2026.
+beartwigsstudio's profile picture
+iii_initiative's profile picture
+iii_initiative's profile picture
+
+## No comments yet. [...] Video by The Triple-i Initiative on April 16, 2026.
+Photo by The Triple-i Initiative on April 16, 2026.
+Photo by The Triple-i Initiative on April 10, 2026.
+Photo by Unity on April 09, 2026.
+Video by The Triple-i Initiative on April 09, 2026.
+Photo by The Triple-i Initiative on April 09, 2026.
+Photo by The Triple-i Initiative on April 09, 2026.
+Photo by The Triple-i Initiative on April 09, 2026.
+Photo by The Triple-i Initiative on April 09, 2026.",,,5,weak,Social Index (+5),social
