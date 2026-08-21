@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-21T13:06:00.874729+00:00",
+    "timestamp": "20260821_130600",
+    "input_file": "data/spike_explainer/2026-08-21__appid_3135380__rank_1089_to_1048__up_41/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-21__appid_3135380__rank_1089_to_1048__up_41/llm_outputs/gemini_20260821_130600.md",
+    "game_title": "Verse Project",
+    "appid": "3135380",
+    "duration_sec": 20.43,
+    "response_length": 5574,
+    "error": null
+}

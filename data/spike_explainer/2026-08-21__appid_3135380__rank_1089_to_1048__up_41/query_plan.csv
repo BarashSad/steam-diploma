@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3135380,Verse Project,"""Verse Project"" Steam",general,1,tavily,True,,5
+3135380,Verse Project,"""Verse Project"" trailer",general,1,tavily,True,,5
+3135380,Verse Project,"""Verse Project"" gameplay",general,1,tavily,True,,5
+3135380,Verse Project,"""Verse Project"" demo",general,1,tavily,True,,5
+3135380,Verse Project,"""Verse Project"" release date",general,1,tavily,True,,5
+3135380,Verse Project,"""Verse Project"" announcement",general,1,tavily,True,,5
+3135380,Verse Project,"""Verse Project"" preview",general,1,tavily,True,,5
+3135380,Verse Project,"""Verse Project"" review",general,1,tavily,True,,5
+3135380,Verse Project,"""Verse Project"" publisher",general,1,tavily,True,,5
+3135380,Verse Project,"""Verse Project"" developer",general,1,tavily,True,,5
+3135380,Verse Project,"site:pcgamer.com ""Verse Project""",press,2,tavily,False,General budget exhausted,0
+3135380,Verse Project,"site:rockpapershotgun.com ""Verse Project""",press,2,tavily,False,General budget exhausted,0
+3135380,Verse Project,"site:ign.com ""Verse Project""",press,2,tavily,False,General budget exhausted,0
+3135380,Verse Project,"site:gamespot.com ""Verse Project""",press,2,tavily,False,General budget exhausted,0
+3135380,Verse Project,"site:game8.co ""Verse Project""",press,2,tavily,False,General budget exhausted,0
+3135380,Verse Project,"site:reddit.com ""Verse Project""",social,3,tavily,True,,5
+3135380,Verse Project,"site:tiktok.com ""Verse Project""",social,4,tavily,True,,5
+3135380,Verse Project,"site:instagram.com ""Verse Project""",social,4,tavily,True,,5
+3135380,Verse Project,"site:x.com ""Verse Project""",social,4,tavily,True,,5
+3135380,Verse Project,"site: ""Verse Project""",social,4,tavily,True,,5
