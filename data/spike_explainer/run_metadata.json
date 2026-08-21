@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-08-20T13:07:11.741490+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260820_125817/rank_changes.csv",
-    "selected_appid": "3396920",
-    "selected_game_title": "Settler's Domain",
+    "started_at": "2026-08-21T01:50:34.291508+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260821_014016/rank_changes.csv",
+    "selected_appid": "4120790",
+    "selected_game_title": "The Sorting Bureau",
     "top_n": 1,
-    "old_snapshot_date": "2026-08-17",
-    "new_snapshot_date": "2026-08-20",
+    "old_snapshot_date": "2026-08-18",
+    "new_snapshot_date": "2026-08-21",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-20T13:07:11.741508+00:00",
+    "finished_at": "2026-08-21T01:50:34.291522+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

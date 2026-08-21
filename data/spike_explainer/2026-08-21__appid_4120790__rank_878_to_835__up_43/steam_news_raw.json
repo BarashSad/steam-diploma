@@ -1,0 +1,68 @@
+{
+    "appnews": {
+        "appid": 4120790,
+        "newsitems": [
+            {
+                "gid": "1840944183782095",
+                "title": "The Sorting Bureau launches August 21: piles, fewer drags, and a lot of fixes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183782095",
+                "is_external_url": true,
+                "author": "Dmitrii Zaitsev",
+                "contents": "The full version is out on August 21 Launch is this Friday. If you only played the demo, you played a three month old build. It went up in May, and everything since then went into the full version. Here is what is different. {STEAM_CLAN_IMAGE}/46062643/00ff7ded01e1e35aee19200f49302b63b4b4d606.png The hand: piles instead of hundreds of drags The demo asked a lot of your hand: hundreds of small drags, one item at a time. That is the first thing we changed. Piles. Put a few items down next to each other and they settle into a pile, and from then on the pile is picked up and carried as one thing. Nothing sticks to your cursor on its own, you gather the pile yourself. Boxes accept a whole pile. Drop a pile over the right box and all of it goes in together, instead of one item going in and the rest scattering around it. No more overshooting. Throw an item towards a pile and the inertia is damped, so it lands closer to where you aimed. A Spread Out button in the pause menu, for when things end up lying on top of each other and the one you want is buried. One click and what is left on the table opens up. {STEAM_CLAN_IMAGE}/46062643/97fe31ae1ba22f2e42e7165cd7488b9c47fb6f60.png The rule is explained now, too: the pile visibly settles in front of you, and Sayoko sends a letter that puts it in words. It is still a game you play with your hand on the mouse, and we are not going to pretend otherwise. But the number of identical repeated drags went down a lot, and the session feels calmer for it. The table before and after the Spread Out button. {STEAM_CLAN_IMAGE}/46062643/c09813e464f4597a1d3c8008eea3463494585559.png {STEAM_CLAN_IMAGE}/46062643/bbdd0357625d083917cd28a7a7be3a08fcca5134.png What else the demo did not have Boxes can be moved. Drag a box by its label and put it where your hand prefers it. The whole row can be pulled closer to what is left on the table. Knolling orders. Instead of sorting into boxes, you lay everything out in neat rows, and the result is photographed for your album. Jigsaw orders on torn and broken things. Lay a piece down correctly and it sticks and waits for the rest of the set. Morning drinks that quietly shape the day: how much comes in, what the weather does outside, which kind of order shows up. New things on the desk: Japanese stamps, lego bricks, hair bows, cookies, pasta, seashells and more. Plus boxes that go inside other boxes. The room. Seasons and weather outside the window, a train that never passes at quite the same speed, a lamp you can switch on in the evening, a cat, a plant that arrives as a gift. An order summary screen, a replay of the order you can watch or skip, a credits screen, and 15 achievements. A larger text option, tuned for Steam Deck. 15 languages. French and Chinese were reworked from scratch after players told us they were not good enough. {STEAM_CLAN_IMAGE}/46062643/3f6733c589f6671227f67060ef731ac2b70126d4.png {STEAM_CLAN_IMAGE}/46062643/7871d410bdce86a910711c6181b8377b96b70d90.png {STEAM_CLAN_IMAGE}/46062643/3abb53618cf15e7ff2b3346c16ec411a0c7b92d8.png {STEAM_CLAN_IMAGE}/46062643/bb5e2af4d9decddb25629d6702f6742fc1c7111e.png Fixed since the demo Some of what you ran into and will not run into again: Windows 11: letters and boxes showing up completely blank. Orders that could not be finished because an item had drifted off the visible table. Colored things landing in Everything Else instead of their color box. Warm and cool, which nobody could read. The labels are now printed in the color they mean, with icons of what belongs inside. Items poking out through the sides of a closed box. The client's reaction vanishing before you had time to read it. And dozens of smaller ones: box labels that did not match what belonged in them, orders that arrived almost sorted, rusty and clean metal that looked identical, typos and clumsy English in the letters. {STEAM_CLAN_IMAGE}/46062643/84fa456d8535acdd71a10236e0e33d5f181d66d0.png If the demo let you down The demo is a May build and it is not getting updated. Everything went into the full version instead. If the bug you ran into is not on the list above, write it in the discussions on the game page. We read them and answer there ourselves. And something will surely come up at launch, it always does. We will be around and patching. {STEAM_CLAN_IMAGE}/46062643/72d5fb87c28a7c157ac99cb834f084f6428a0aca.png August 21. Thank you to everyone who wrote, recorded a video or sent us an email. Almost everything above exists because somebody told us about it.",
+                "feedlabel": "Community Announcements",
+                "date": 1786800168,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4120790,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1847323374_1786801876_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1835236783566030",
+                "title": "Demo Update 0.8.1 \u2014 the cat now reacts when you click on him",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783566030",
+                "is_external_url": true,
+                "author": "Dmitrii Zaitsev",
+                "contents": "Quiet rain outside, a calm corner of Tokyo, a cat asleep on the windowsill. He used to just doze there - now, if you disturb him, he gives an annoyed little ear twitch and a nervous flick of the tail. He's not thrilled about being woken up. What's new: \ud83d\udc31 The cat is alive. He sleeps and breathes, and reacts with mild displeasure when you click him - twitching ears, flicking tail, a soft purr. The sleepy \"Z\"s above him pop if you stir him awake. {STEAM_CLAN_IMAGE}/46062643/c63b3fd6664d13d25daf5f215f87b7edc680583c.gif \u2615 A mug on the table. You can nudge it around, and the steam above it gently disperses as it moves. \u23ef\ufe0f Replay controls. Pause, 2x speed, and skip - rewatch how you sorted everything at your own pace. \ud83c\udf27\ufe0f Quieter with the window closed. Rain and city noise soften when the window is shut. Fixes: An order you've picked up is no longer lost when you exit to the main menu. Color-sorting orders now fill out more completely. P.S. It's still a demo, and it's growing with your feedback. Stop by, poke the cat, and let us know what you think. Please consider leaving a review on the demo page: https://store.steampowered.com/app/4556140/The_Sorting_Bureau_Demo/ It really helps other players get a sense of what our game is about and the mood it lives in. We'd be deeply grateful. \ud83d\udc3e",
+                "feedlabel": "Community Announcements",
+                "date": 1781361900,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4120790
+            },
+            {
+                "gid": "1833968530899962",
+                "title": "Demo Big Update 0.8.0 + Devlog",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530899962",
+                "is_external_url": true,
+                "author": "Dmitrii Zaitsev",
+                "contents": "Hey everyone. Thanks for spending time at the Bureau. Here's what's new. More orders to sort through The regulars came back with a lot of new requests, so the desk should feel fresh again instead of showing you the same piles. Nagisa especially: she brought in a whole batch of seashell orders, sorting by color, by size, by shape. The shells on the banner up top are hers, actually. {STEAM_CLAN_IMAGE}/46062643/70263632aeacfc591e56bbc22350633b5d895ad0.png {STEAM_CLAN_IMAGE}/46062643/916c0a3e2093d367ffcbd133c8e42e2082171ceb.png City sounds, now actually from Tokyo We rebuilt the city ambience around real recordings made in Tokyo. The demo starts in late spring and slides into summer by the end, so you can hear the city wake up a little more, and the cicadas come in. It's a small thing, but it's one I wanted to get right. {STEAM_CLAN_IMAGE}/46062643/dbbb4da2630e007c65b239d6b9a10cb4e7d016d0.png Steam Next Fest \u2014 June 15 We're taking part in Steam Next Fest starting June 15. The demo will be there, and we're planning to update it a few more times during the fest, so it's worth checking back. If you enjoyed your time at the Bureau, leaving a review on the demo page genuinely helps us out, and we read every one of them. (And if you played an earlier build, don't worry, your progress carries over. Saves are compatible.) We're reading We go through the forum and your suggestions carefully. A good chunk of what's in the Bureau started with your ideas. About the cat The cat somehow ended up being the star of the game. So yes, one day you'll be able to pet him. We've also got a couple more cozy ideas for him that we're saving for later. \ud83d\udc08 {STEAM_CLAN_IMAGE}/46062643/800ff2d0b98801e02869325d300500fefdade6c8.png That's it for this one. See you at the fest. https://store.steampowered.com/app/4556140/The_Sorting_Bureau_Demo/",
+                "feedlabel": "Community Announcements",
+                "date": 1780394925,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4120790
+            },
+            {
+                "gid": "1832700592789136",
+                "title": "Demo Update 0.7.3: Fixes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789136",
+                "is_external_url": true,
+                "author": "Dmitrii Zaitsev",
+                "contents": "A handful of quiet fixes to make the desk feel a bit more settled. Items stay on the desk. Bumping a piece near the edge no longer pushes it off the visible area. Puzzle pieces play nicer. Placing a fragment no longer nudges its neighbors out of position while you're assembling. Localization polish across many languages. Notes, character voices, and small wording fixes. Thank you for sorting with us.",
+                "feedlabel": "Community Announcements",
+                "date": 1778766745,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4120790,
+                "tags": [
+                    "patchnotes"
+                ]
+            }
+        ],
+        "count": 4
+    }
+}

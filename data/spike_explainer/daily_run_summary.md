@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Settler's Domain
+Analyzed: The Sorting Bureau
 Tavily Budget Used: 15
 Errors: 0

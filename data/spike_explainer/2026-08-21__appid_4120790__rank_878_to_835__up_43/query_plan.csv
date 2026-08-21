@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4120790,The Sorting Bureau,"""The Sorting Bureau"" Steam",general,1,tavily,True,,5
+4120790,The Sorting Bureau,"""The Sorting Bureau"" trailer",general,1,tavily,True,,5
+4120790,The Sorting Bureau,"""The Sorting Bureau"" gameplay",general,1,tavily,True,,5
+4120790,The Sorting Bureau,"""The Sorting Bureau"" demo",general,1,tavily,True,,5
+4120790,The Sorting Bureau,"""The Sorting Bureau"" release date",general,1,tavily,True,,5
+4120790,The Sorting Bureau,"""The Sorting Bureau"" announcement",general,1,tavily,True,,5
+4120790,The Sorting Bureau,"""The Sorting Bureau"" preview",general,1,tavily,True,,5
+4120790,The Sorting Bureau,"""The Sorting Bureau"" review",general,1,tavily,True,,5
+4120790,The Sorting Bureau,"""The Sorting Bureau"" publisher",general,1,tavily,True,,5
+4120790,The Sorting Bureau,"""The Sorting Bureau"" developer",general,1,tavily,True,,5
+4120790,The Sorting Bureau,"site:pcgamer.com ""The Sorting Bureau""",press,2,tavily,False,General budget exhausted,0
+4120790,The Sorting Bureau,"site:rockpapershotgun.com ""The Sorting Bureau""",press,2,tavily,False,General budget exhausted,0
+4120790,The Sorting Bureau,"site:ign.com ""The Sorting Bureau""",press,2,tavily,False,General budget exhausted,0
+4120790,The Sorting Bureau,"site:gamespot.com ""The Sorting Bureau""",press,2,tavily,False,General budget exhausted,0
+4120790,The Sorting Bureau,"site:game8.co ""The Sorting Bureau""",press,2,tavily,False,General budget exhausted,0
+4120790,The Sorting Bureau,"site:reddit.com ""The Sorting Bureau""",social,3,tavily,True,,5
+4120790,The Sorting Bureau,"site:tiktok.com ""The Sorting Bureau""",social,4,tavily,True,,5
+4120790,The Sorting Bureau,"site:instagram.com ""The Sorting Bureau""",social,4,tavily,True,,5
+4120790,The Sorting Bureau,"site:x.com ""The Sorting Bureau""",social,4,tavily,True,,5
+4120790,The Sorting Bureau,"site: ""The Sorting Bureau""",social,4,tavily,True,,5
