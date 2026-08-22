@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4785110,Tulpa the Unseen Lover,"""Tulpa the Unseen Lover"" Steam",general,1,tavily,True,,5
+4785110,Tulpa the Unseen Lover,"""Tulpa the Unseen Lover"" trailer",general,1,tavily,True,,5
+4785110,Tulpa the Unseen Lover,"""Tulpa the Unseen Lover"" gameplay",general,1,tavily,True,,5
+4785110,Tulpa the Unseen Lover,"""Tulpa the Unseen Lover"" demo",general,1,tavily,True,,5
+4785110,Tulpa the Unseen Lover,"""Tulpa the Unseen Lover"" release date",general,1,tavily,True,,5
+4785110,Tulpa the Unseen Lover,"""Tulpa the Unseen Lover"" announcement",general,1,tavily,True,,5
+4785110,Tulpa the Unseen Lover,"""Tulpa the Unseen Lover"" preview",general,1,tavily,True,,5
+4785110,Tulpa the Unseen Lover,"""Tulpa the Unseen Lover"" review",general,1,tavily,True,,5
+4785110,Tulpa the Unseen Lover,"""Tulpa the Unseen Lover"" publisher",general,1,tavily,True,,5
+4785110,Tulpa the Unseen Lover,"""Tulpa the Unseen Lover"" developer",general,1,tavily,True,,5
+4785110,Tulpa the Unseen Lover,"site:pcgamer.com ""Tulpa the Unseen Lover""",press,2,tavily,False,General budget exhausted,0
+4785110,Tulpa the Unseen Lover,"site:rockpapershotgun.com ""Tulpa the Unseen Lover""",press,2,tavily,False,General budget exhausted,0
+4785110,Tulpa the Unseen Lover,"site:ign.com ""Tulpa the Unseen Lover""",press,2,tavily,False,General budget exhausted,0
+4785110,Tulpa the Unseen Lover,"site:gamespot.com ""Tulpa the Unseen Lover""",press,2,tavily,False,General budget exhausted,0
+4785110,Tulpa the Unseen Lover,"site:game8.co ""Tulpa the Unseen Lover""",press,2,tavily,False,General budget exhausted,0
+4785110,Tulpa the Unseen Lover,"site:reddit.com ""Tulpa the Unseen Lover""",social,3,tavily,True,,5
+4785110,Tulpa the Unseen Lover,"site:tiktok.com ""Tulpa the Unseen Lover""",social,4,tavily,True,,5
+4785110,Tulpa the Unseen Lover,"site:instagram.com ""Tulpa the Unseen Lover""",social,4,tavily,True,,5
+4785110,Tulpa the Unseen Lover,"site:x.com ""Tulpa the Unseen Lover""",social,4,tavily,True,,5
+4785110,Tulpa the Unseen Lover,"site: ""Tulpa the Unseen Lover""",social,4,tavily,True,,5
