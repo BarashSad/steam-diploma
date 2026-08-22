@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-08-21T13:06:00.772310+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260821_125704/rank_changes.csv",
-    "selected_appid": "3135380",
-    "selected_game_title": "Verse Project",
+    "started_at": "2026-08-22T01:42:37.133123+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260822_013316/rank_changes.csv",
+    "selected_appid": "4785110",
+    "selected_game_title": "Tulpa the Unseen Lover",
     "top_n": 1,
-    "old_snapshot_date": "2026-08-18",
-    "new_snapshot_date": "2026-08-21",
+    "old_snapshot_date": "2026-08-19",
+    "new_snapshot_date": "2026-08-22",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-21T13:06:00.772346+00:00",
+    "finished_at": "2026-08-22T01:42:37.133142+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
