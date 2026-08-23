@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4645360,Titanic Escape Simulator™,"""Titanic Escape Simulator™"" Steam",general,1,tavily,True,,5
+4645360,Titanic Escape Simulator™,"""Titanic Escape Simulator™"" trailer",general,1,tavily,True,,5
+4645360,Titanic Escape Simulator™,"""Titanic Escape Simulator™"" gameplay",general,1,tavily,True,,5
+4645360,Titanic Escape Simulator™,"""Titanic Escape Simulator™"" demo",general,1,tavily,True,,5
+4645360,Titanic Escape Simulator™,"""Titanic Escape Simulator™"" release date",general,1,tavily,True,,5
+4645360,Titanic Escape Simulator™,"""Titanic Escape Simulator™"" announcement",general,1,tavily,True,,5
+4645360,Titanic Escape Simulator™,"""Titanic Escape Simulator™"" preview",general,1,tavily,True,,5
+4645360,Titanic Escape Simulator™,"""Titanic Escape Simulator™"" review",general,1,tavily,True,,5
+4645360,Titanic Escape Simulator™,"""Titanic Escape Simulator™"" publisher",general,1,tavily,True,,5
+4645360,Titanic Escape Simulator™,"""Titanic Escape Simulator™"" developer",general,1,tavily,True,,5
+4645360,Titanic Escape Simulator™,"site:pcgamer.com ""Titanic Escape Simulator™""",press,2,tavily,False,General budget exhausted,0
+4645360,Titanic Escape Simulator™,"site:rockpapershotgun.com ""Titanic Escape Simulator™""",press,2,tavily,False,General budget exhausted,0
+4645360,Titanic Escape Simulator™,"site:ign.com ""Titanic Escape Simulator™""",press,2,tavily,False,General budget exhausted,0
+4645360,Titanic Escape Simulator™,"site:gamespot.com ""Titanic Escape Simulator™""",press,2,tavily,False,General budget exhausted,0
+4645360,Titanic Escape Simulator™,"site:game8.co ""Titanic Escape Simulator™""",press,2,tavily,False,General budget exhausted,0
+4645360,Titanic Escape Simulator™,"site:reddit.com ""Titanic Escape Simulator™""",social,3,tavily,True,,5
+4645360,Titanic Escape Simulator™,"site:tiktok.com ""Titanic Escape Simulator™""",social,4,tavily,True,,5
+4645360,Titanic Escape Simulator™,"site:instagram.com ""Titanic Escape Simulator™""",social,4,tavily,True,,5
+4645360,Titanic Escape Simulator™,"site:x.com ""Titanic Escape Simulator™""",social,4,tavily,True,,5
+4645360,Titanic Escape Simulator™,"site: ""Titanic Escape Simulator™""",social,4,tavily,True,,5

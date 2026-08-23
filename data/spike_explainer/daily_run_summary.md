@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Tulpa the Unseen Lover
+Analyzed: Titanic Escape Simulator™
 Tavily Budget Used: 15
 Errors: 0

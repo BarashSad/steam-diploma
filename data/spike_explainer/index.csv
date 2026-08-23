@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-08-23T01:51:58.334262+00:00,4785110,Tulpa the Unseen Lover,data/spike_explainer/2026-08-23__appid_4785110__rank_902_to_823__up_79,79,85,data/spike_explainer/2026-08-23__appid_4785110__rank_902_to_823__up_79/llm_summary_input.md
+2026-08-23T12:59:18.491000+00:00,4645360,Titanic Escape Simulator™,data/spike_explainer/2026-08-23__appid_4645360__rank_929_to_862__up_67,67,70,data/spike_explainer/2026-08-23__appid_4645360__rank_929_to_862__up_67/llm_summary_input.md

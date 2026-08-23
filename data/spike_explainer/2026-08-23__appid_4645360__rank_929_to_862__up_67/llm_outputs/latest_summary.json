@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-23T12:59:40.612535+00:00",
+    "timestamp": "20260823_125940",
+    "input_file": "data/spike_explainer/2026-08-23__appid_4645360__rank_929_to_862__up_67/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-23__appid_4645360__rank_929_to_862__up_67/llm_outputs/gemini_20260823_125940.md",
+    "game_title": "Titanic Escape Simulator\u2122",
+    "appid": "4645360",
+    "duration_sec": 15.21,
+    "response_length": 5534,
+    "error": null
+}
