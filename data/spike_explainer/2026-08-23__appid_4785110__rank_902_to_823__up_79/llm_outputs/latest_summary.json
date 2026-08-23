@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-23T01:52:25.712029+00:00",
+    "timestamp": "20260823_015225",
+    "input_file": "data/spike_explainer/2026-08-23__appid_4785110__rank_902_to_823__up_79/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-23__appid_4785110__rank_902_to_823__up_79/llm_outputs/gemini_20260823_015225.md",
+    "game_title": "Tulpa the Unseen Lover",
+    "appid": "4785110",
+    "duration_sec": 18.76,
+    "response_length": 6665,
+    "error": null
+}
