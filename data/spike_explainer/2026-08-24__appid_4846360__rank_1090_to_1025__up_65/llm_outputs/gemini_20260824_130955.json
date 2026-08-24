@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-24T13:09:55.694636+00:00",
+    "timestamp": "20260824_130955",
+    "input_file": "data/spike_explainer/2026-08-24__appid_4846360__rank_1090_to_1025__up_65/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-24__appid_4846360__rank_1090_to_1025__up_65/llm_outputs/gemini_20260824_130955.md",
+    "game_title": "Heatwarped",
+    "appid": "4846360",
+    "duration_sec": 19.84,
+    "response_length": 5702,
+    "error": null
+}

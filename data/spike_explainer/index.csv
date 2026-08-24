@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-08-24T01:49:38.426815+00:00,4645360,Titanic Escape Simulator™,data/spike_explainer/2026-08-24__appid_4645360__rank_862_to_763__up_99,99,70,data/spike_explainer/2026-08-24__appid_4645360__rank_862_to_763__up_99/llm_summary_input.md
+2026-08-24T13:09:35.028556+00:00,4846360,Heatwarped,data/spike_explainer/2026-08-24__appid_4846360__rank_1090_to_1025__up_65,65,85,data/spike_explainer/2026-08-24__appid_4846360__rank_1090_to_1025__up_65/llm_summary_input.md

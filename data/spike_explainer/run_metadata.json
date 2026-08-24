@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-08-24T01:50:00.384859+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260824_014041/rank_changes.csv",
-    "selected_appid": "4645360",
-    "selected_game_title": "Titanic Escape Simulator\u2122",
+    "started_at": "2026-08-24T13:09:55.576048+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260824_125941/rank_changes.csv",
+    "selected_appid": "4846360",
+    "selected_game_title": "Heatwarped",
     "top_n": 1,
     "old_snapshot_date": "2026-08-21",
     "new_snapshot_date": "2026-08-24",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-24T01:50:00.384874+00:00",
+    "finished_at": "2026-08-24T13:09:55.576065+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

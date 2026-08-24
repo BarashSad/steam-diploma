@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4846360,Heatwarped,"""Heatwarped"" Steam",general,1,tavily,True,,5
+4846360,Heatwarped,"""Heatwarped"" trailer",general,1,tavily,True,,5
+4846360,Heatwarped,"""Heatwarped"" gameplay",general,1,tavily,True,,5
+4846360,Heatwarped,"""Heatwarped"" demo",general,1,tavily,True,,5
+4846360,Heatwarped,"""Heatwarped"" release date",general,1,tavily,True,,5
+4846360,Heatwarped,"""Heatwarped"" announcement",general,1,tavily,True,,5
+4846360,Heatwarped,"""Heatwarped"" preview",general,1,tavily,True,,5
+4846360,Heatwarped,"""Heatwarped"" review",general,1,tavily,True,,5
+4846360,Heatwarped,"""Heatwarped"" publisher",general,1,tavily,True,,5
+4846360,Heatwarped,"""Heatwarped"" developer",general,1,tavily,True,,5
+4846360,Heatwarped,"site:pcgamer.com ""Heatwarped""",press,2,tavily,False,General budget exhausted,0
+4846360,Heatwarped,"site:rockpapershotgun.com ""Heatwarped""",press,2,tavily,False,General budget exhausted,0
+4846360,Heatwarped,"site:ign.com ""Heatwarped""",press,2,tavily,False,General budget exhausted,0
+4846360,Heatwarped,"site:gamespot.com ""Heatwarped""",press,2,tavily,False,General budget exhausted,0
+4846360,Heatwarped,"site:game8.co ""Heatwarped""",press,2,tavily,False,General budget exhausted,0
+4846360,Heatwarped,"site:reddit.com ""Heatwarped""",social,3,tavily,True,,5
+4846360,Heatwarped,"site:tiktok.com ""Heatwarped""",social,4,tavily,True,,5
+4846360,Heatwarped,"site:instagram.com ""Heatwarped""",social,4,tavily,True,,5
+4846360,Heatwarped,"site:x.com ""Heatwarped""",social,4,tavily,True,,5
+4846360,Heatwarped,"site: ""Heatwarped""",social,4,tavily,True,,5
