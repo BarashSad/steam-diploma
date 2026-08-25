@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Heatwarped
+Analyzed: Fell & Sell
 Tavily Budget Used: 15
 Errors: 0

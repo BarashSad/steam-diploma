@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4627110,Fell & Sell,"""Fell & Sell"" Steam",general,1,tavily,True,,5
+4627110,Fell & Sell,"""Fell & Sell"" trailer",general,1,tavily,True,,5
+4627110,Fell & Sell,"""Fell & Sell"" gameplay",general,1,tavily,True,,5
+4627110,Fell & Sell,"""Fell & Sell"" demo",general,1,tavily,True,,5
+4627110,Fell & Sell,"""Fell & Sell"" release date",general,1,tavily,True,,5
+4627110,Fell & Sell,"""Fell & Sell"" announcement",general,1,tavily,True,,5
+4627110,Fell & Sell,"""Fell & Sell"" preview",general,1,tavily,True,,5
+4627110,Fell & Sell,"""Fell & Sell"" review",general,1,tavily,True,,5
+4627110,Fell & Sell,"""Fell & Sell"" publisher",general,1,tavily,True,,5
+4627110,Fell & Sell,"""Fell & Sell"" developer",general,1,tavily,True,,5
+4627110,Fell & Sell,"site:pcgamer.com ""Fell & Sell""",press,2,tavily,False,General budget exhausted,0
+4627110,Fell & Sell,"site:rockpapershotgun.com ""Fell & Sell""",press,2,tavily,False,General budget exhausted,0
+4627110,Fell & Sell,"site:ign.com ""Fell & Sell""",press,2,tavily,False,General budget exhausted,0
+4627110,Fell & Sell,"site:gamespot.com ""Fell & Sell""",press,2,tavily,False,General budget exhausted,0
+4627110,Fell & Sell,"site:game8.co ""Fell & Sell""",press,2,tavily,False,General budget exhausted,0
+4627110,Fell & Sell,"site:reddit.com ""Fell & Sell""",social,3,tavily,True,,5
+4627110,Fell & Sell,"site:tiktok.com ""Fell & Sell""",social,4,tavily,True,,5
+4627110,Fell & Sell,"site:instagram.com ""Fell & Sell""",social,4,tavily,True,,5
+4627110,Fell & Sell,"site:x.com ""Fell & Sell""",social,4,tavily,True,,5
+4627110,Fell & Sell,"site: ""Fell & Sell""",social,4,tavily,True,,5

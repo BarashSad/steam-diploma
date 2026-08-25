@@ -1,0 +1,199 @@
+{
+    "appnews": {
+        "appid": 4627110,
+        "newsitems": [
+            {
+                "gid": "1841579228676458",
+                "title": "Demo Update 2.0.1",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676458",
+                "is_external_url": true,
+                "author": "starykazia",
+                "contents": "Hello, Shopkeepers!With the full game's grand opening just two days away, we are still hard at work polishing the experience! We want to give a massive thank you to everyone playing Demo 2.0. We are constantly reading all your feedback, watching your gameplay, and taking notes from every single thread on our Discord and the Steam Discussions.Based directly on your reports over the weekend, we are deploying Update 2.0.1 to address some balance issues, squash a few nasty bugs, and introduce a highly requested accessibility feature.Accessibility & Quality of Life:Furniture Scrolls: Furniture is now dropped in the form of elegant scrolls.Toggle Options: You can now toggle Sprint and Crouch instead of holding the keys down (you can find it in the options menu).TAB Panel Adjustment: The TAB menu now opens by holding the key instead of a simple press, preventing accidental pop-ups during intense moments.Audio Tweaks: The music will now properly mute during loading screens and while the game is paused. Balance Adjustments:Economy Tweaks: Hut prices have been adjusted.Trap Danger: The dungeon is now slightly deadlier. We have increased the trap spawn ratio by ~30%. Watch your step!Potion Drops: We have drastically reduced the chance of finding potions inside destructible objects.Chest Loot: Decreased the sheer amount of common item drops coming from chests to keep your inventory a bit cleaner and more valuable.Fire Damage: Fire is still dangerous, but stepping in it will no longer kill you instantly.Bug Fixes:Dungeon Generation: Fixed a critical bug that caused dungeon entrances or exits to spawn completely blocked off.Item Eating Furniture: Whole stacks of swords and armor no longer disappear when put on sale.Void Falling Fix: Fixed an issue where moving your character (pressing 'S') during a black loading screen would cause you to fall into the void before the level fully loaded.Prayer Glitches: Fixed the infinite prayer glitch and corrected some typos in the Midas prayer text.German Localization: Fixed an error in the German settings menu where the crouch key was incorrectly labeled as \"kucken\" (to look) instead of \"ducken\" (to duck/crouch).Thank you again for helping us fine-tune everything. Keep the feedback coming, and get your shops ready\u2014the full launch is almost here!AGS aka Venturing Traders Guild",
+                "feedlabel": "Community Announcements",
+                "date": 1787598793,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4627110,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1447510170_1787600509_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1841579228669889",
+                "title": "Developer Gameplay",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669889",
+                "is_external_url": true,
+                "author": "starykazia",
+                "contents": "Hello, Shopkeepers!Want to see how the creators fare in their own dungeons? Join us for a special Developer Gameplay Broadcast!We are going live to showcase the world of Fell & Sell Demo 2.0, dive deep into the treacherous dungeons, and try our best to run a profitable, booming shop without getting ourselves killed by those pesky skeletons (hopefully :))",
+                "feedlabel": "Community Announcements",
+                "date": 1787340749,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4627110,
+                "tags": [
+                    "hide_store",
+                    "hide_library_detail"
+                ]
+            },
+            {
+                "gid": "1841579228669089",
+                "title": "Demo 2.0",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669089",
+                "is_external_url": true,
+                "author": "starykazia",
+                "contents": "Hello, Shopkeepers!We have a massive update for you today. We are incredibly excited to announce that the Fell & Sell Demo 2.0 is officially live!First and foremost, a huge THANK YOU to everyone who has played the demo so far. We have spent the last few weeks reading every single comment and piece of feedback you left on our Discord and the Steam Discussions. We took your thoughts to heart, learned a lot, and got straight back to work.Our primary goal with this update was to apply those lessons and make sure the demo reflects the full-game experience.This is not just a small patch\u2014this is a massive overhaul! Get ready to smash up the dungeon, enjoy a buttery-smooth frame rate, and bring in more customers than ever before.Here is everything new in Demo 2.0:Major Features:Destructible Dungeon Environment: Time to break some stuff! The dungeons are now highly interactive, allowing you to smash through the environment.Major Optimization: Enjoy a massive 30-40% FPS boost for a much smoother shopkeeping and monster-slaying experience!Overhauled Hand Animations: We have introduced brand-new, much smoother, and more immersive hand animations for your character.New Sounds & Music: Turn up the volume! The audio experience has been significantly upgraded.Shop & Customer Improvements:More Customer Traffic: Business is booming! Expect more foot traffic and eager buyers rushing to your store.Improved NPC Navigation: Customers should now avoid walls better and walk closer to the ground.Customer Interactions: You can now actively invite customers into your shop... or just hit them (hey, we won't judge!).Comfort Rebalance: Shop Comfort now affects the number of customers that visit your store neighborhood.Crafting Rebalance: Crafting recipes require fewer materials and way less gold.Prices Rebalance: Lowered the prices of the basic materials to better suit the game economy.Transaction Display: Now you can see what the NPC is buying on the scroll on your counter.Gameplay & Quality of Life:Double-Tap Dash: Dodge incoming attacks with a quick double-tap of the move button (this can be toggled off in the settings if you don't like it).WSAD Rebind: Full freedom to rebind your movement keys!New Cursor Icon: A fresh new look for your pointer.Improved Tutorials Menu: We have revamped the tutorials and added a dedicated menu, just in case you ever forget a mechanic after a long day in the dungeons.Location Nameplates: Now, when entering a new location, you can see its name.Technical Fixes & Stability:Improved Save System: Further backend upgrades to keep your progress absolutely safe and sound.Alt-Tab Fix: Fixed an annoying issue where Alt-Tabbing out of the window would cause the game to crash on some systems.Squashed Bugs: Tons of small bug fixes across the board to ensure a seamless experience.Jump right back in, test out all the new features, and let us know what you think on Discord or in the Steam Discussions! AGS aka Venturing Traders Guild",
+                "feedlabel": "Community Announcements",
+                "date": 1787324506,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4627110
+            },
+            {
+                "gid": "1841579228662765",
+                "title": "7 Days Left!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662765",
+                "is_external_url": true,
+                "author": "starykazia",
+                "contents": "Hello, Shopkeepers!The official countdown has started! We are exactly 7 days away from the full launch of Fell & Sell.Get your counters wiped down, your display racks built, and prepare to open the doors to your very own shop. Of course, you can't run a successful business with empty shelves, so you'll need to stock up on top-tier goods... which means it's almost time to dive headfirst back into the deadly dungeons (hehe).The full version of the game offers so much more than you experienced in the demo. In just one week, you will be exploring deeper and darker dungeon biomes, facing off against ruthless new enemies and massive bosses, and expanding your merchant empire with tons of new items and shop upgrades. Whether you are haggling with demanding customers or fighting for your life against Necromancers in the Darkest Dungeon, every run will test your skills as both a warrior and an entrepreneur.We have spent these last few weeks polishing every single detail, and we are so incredibly proud of what this game has become. We truly couldn't have done it without your amazing support, bug reports, and hype over the past months.The grand opening is just around the corner. Make sure your wishlist is ready, sharpen your weapons, and we will see you exactly one week from today, on August 26th!If you have any questions, feel free to join our Discord or hit the Steam Discussions. See you very soon! AGS aka Venturing Traders Guild",
+                "feedlabel": "Community Announcements",
+                "date": 1787149275,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4627110
+            },
+            {
+                "gid": "1840944183786726",
+                "title": "Content Creators Explore the World of Fell & Sell",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183786726",
+                "is_external_url": true,
+                "author": "starykazia",
+                "contents": "Hello, Shopkeepers!As we mentioned in our last update, we recently sent out early access keys to a fantastic group of content creators. We are thrilled to announce that the first videos and streams are now officially live across YouTube and Twitch!If you have been eagerly waiting to see what the full release of Fell & Sell looks like, now is your chance. You can watch players dive straight into the brand-new dungeon biomes, battle unseen enemies and bosses, test out the expanded arsenal of weapons, and discover all the massive new additions we've packed into the game.Here are some of the (English) Creators we recommend you watch:Kage848GameEdgedMon EvenStarWe want to send a massive THANK YOU to all the amazing creators (not only those featured in this announcement) who decided to record videos and stream our game. ",
+                "feedlabel": "Community Announcements",
+                "date": 1786986318,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4627110
+            },
+            {
+                "gid": "1840310314344447",
+                "title": "Before the release - 26 August",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314344447",
+                "is_external_url": true,
+                "author": "starykazia",
+                "contents": "Hello, Shopkeepers!We are officially in the home stretch! Before we open the doors for the grand launch of Fell & Sell, we want to take a moment to look back and say a massive THANK YOU.The response to our demo has been absolutely incredible. Seeing so many of you jump into the dungeons, set up your shops, and share your feedback has fueled us more than you can imagine. Your support is what makes this entire journey so special, and it has set the stage for an epic launch.So, what are we doing right now? We are currently in the final, intensive phase of testing. We are diving deep into every dungeon biome, balancing the economy, polishing mechanics, and aggressively squashing any remaining bugs. We are working around the clock to ensure that when you step into your shop on day one, the experience is as smooth, polished, and fun as possible.Watch out for Early Gameplay!If you are hungry for more content before launch, keep a close eye on YouTube and Twitch in the coming days! Soon, we'll be handing out early-access keys to some fantastic content creators. Very soon, you will be able to watch them explore the dark depths, fight the new bosses, and expand their merchant empires. It is the perfect way to get a sneak peek at all the additions coming to the full game.The Countdown is On!As a quick reminder, the full version of the game drops on August 26th. Looking at the calendar today, that means there are exactly 19 days left until release!The hype is real, and we cannot wait to share the full game with you. Please make sure your wishlist is ready, prepare your gear, and get ready for the grand opening.If you have any questions, feel free to join our Discord or hit the Steam Discussions. See you very soon! AGS aka Venturing Traders Guild ",
+                "feedlabel": "Community Announcements",
+                "date": 1786096096,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4627110
+            },
+            {
+                "gid": "1839676055882840",
+                "title": "Descend into the Depths",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882840",
+                "is_external_url": true,
+                "author": "starykazia",
+                "contents": "Hello, Shopkeepers!Running a successful shop requires a steady supply of top-tier goods, and the best loot isn't found sitting safely behind the counter. Today, we are taking a closer look at the Dungeon Biomes you will be exploring in the full release of Fell & Sell.Your descent into the underground is a true test of endurance and skill. As you enter the dungeon, you will traverse progressively deeper floors. At the end of each zone, a formidable Boss awaits. Defeat them, and you will descend into an entirely new biome\u2014one that brings new enemies, deadly traps, mysterious special rooms, and, most importantly, much better loot!Here is a sneak peek at the biomes you will have to conquer:The Shallow DungeonThis is where every venturing shopkeeper begins their journey. Familiar to those who played the demo, the Shallow Dungeon has been significantly improved and expanded with brand-new special rooms and fresh enemy variants. Beware of the Skeletons roaming these halls; even in their most basic form, they have recruited more than a few careless adventurers into their undead ranks.The Overgrown DungeonDescend further, and you will find a level where nature is slowly reclaiming its territory. Thick bushes, vines, and tall grass cover the ancient stone floors. The skeletons here have been completely wiped out by Goblins, who have claimed this biome as their personal hideout. Though small in stature, these goblins are fiercely territorial and relentless. Do not underestimate them\u2014winning a turf war against an undead horde speaks for itself!The Darkest DungeonThe deepest, most perilous level of the underground. Very little light reaches this abyss; the eerie glow illuminating your path comes primarily from rivers of souls flowing through the cavern. The few who have ventured this deep and returned speak of the ironic horror of reanimated adventurers endlessly attacking the living.The skeletons down here have evolved. They are heavily armored, well-equipped, and extremely dangerous. However, the absolute apex predators of this biome are the Necromancers. They command powerful ranged magic and summon hordes of zombies to do their bidding. It is an extremely hostile environment, but those who brave the depths will find the absolute best loot imaginable\u2014treasures most merchants only dream of.Prepare your gear, upgrade your weapons, and get ready to face the depths on the 26th of August. We cannot wait for you to experience these new challenges!If you have any questions, feel free to join our Discord or hit the Steam Discussions; we await you there \ud83d\udc80 AGS aka Venturing Traders Guild",
+                "feedlabel": "Community Announcements",
+                "date": 1785338382,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4627110
+            },
+            {
+                "gid": "1839041357029709",
+                "title": "Release Date Reveal",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357029709",
+                "is_external_url": true,
+                "author": "starykazia",
+                "contents": "Hello, Shopkeepers!The moment we have all been waiting for is finally here. We are beyond incredibly excited to announce that Fell & Sell will officially launch in its full version on August 26th! Mark your calendars, sharpen your blades, and get your storefronts ready because the real adventure is about to begin.Before we dive into the details, we want to take a moment to say a massive, heartfelt THANK YOU.To everyone who played the demo, joined our community, and meticulously reported bugs\u2014you are the real MVPs. Your feedback, testing, and enthusiasm have been the driving force behind this project. We have squashed the bugs you found and polished the mechanics you tested, all to make sure the final release is as spectacular as possible.If you enjoyed the core gameplay loop of fighting, looting, and managing your shop in the demo, get ready... You are going to\u00a0love\u00a0the full version absolutely! We are turning everything up to eleven.What to Expect in the Full Version:New Dungeon Types: Dive into completely new, uncharted dungeons filled with unknown threats.A Brand-New Location: Step out of the familiar and explore the untamed dangers of The Forest.New Enemies & Epic Bosses: Test your combat skills against a fresh roster of deadly foes and massive, challenging bosses.Expanded Arsenal: Craft and wield powerful new weapons and equip brand-new armor sets to survive the depths.A Mountain of New Inventory: Stock your shelves with a literal ton of new items to trade, craft, and sell to your customers.Deep Customization: Decorate with a massive variety of new furniture and unlock entirely new shop models to build the ultimate merchant empire.The Story Continues: Uncover what happens next with the continuation of the main storyline.Customer Interactions: Engage with the people entering your store with new and deepened customer interaction mechanics.Polished Experience: Enjoy brand-new hand animations, massive balance improvements, and endless quality-of-life tweaks....and so much more!The countdown has officially started. If you haven't already, please make sure to Wishlist the game so you get notified the second we hit the launch button.Thank you once again for being on this incredible journey with us. We cannot wait to see the merchant empires you build.See you on August 26th! AGS aka Venturing Traders Guild",
+                "feedlabel": "Community Announcements",
+                "date": 1784902381,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4627110
+            },
+            {
+                "gid": "1838407329256381",
+                "title": "Demo Update #4",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256381",
+                "is_external_url": true,
+                "author": "starykazia",
+                "contents": "Hello, Shopkeepers!First, we want to start with a sincere apology. We know that our previous update, unfortunately, broke save files for a portion of our players. We are truly sorry for the loss of your progress and for any frustration this caused. We are constantly working and iterating to make this demo the best experience it can be, and your patience means everything to us.To make sure your progress is protected moving forward, we have added new, robust safeguards to the quest and save systems to prevent this from happening again.Now, onto the exciting news for this patch!The main addition in today's update is full support for Traditional Chinese (\u7e41\u9ad4\u4e2d\u6587)! We are thrilled to welcome even more players from around the world to open their shops, craft gear, and explore the dungeons.Here is what is changing in today's update:Added full Traditional Chinese localization!Implemented major safeguards to the save and quest systems to prevent progress loss and save file corruption.Fixed a bug that caused certain NPC customers to freeze in place indefinitely when returning from the dungeon/loading the game.Fixed a bug where saving and loading your game while inside the dungeon would incorrectly spawn the first letter from Grandma and force the tutorial to restart.The Cart will no longer magically change its location or wander off after you load a game or return from the dungeons.Fixed an issue where the boss chest in the dungeon was dropping useless, \"fake\" legendary and epic crafting recipes. Bramka is now translated :)Thank you once again for your understanding, your bug reports, and for helping us shape the game. Please keep sharing your thoughts with us on Discord and the Steam Discussions!Happy selling! AGS aka Venturing Traders Guild",
+                "feedlabel": "Community Announcements",
+                "date": 1784201149,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4627110
+            },
+            {
+                "gid": "1838407329254067",
+                "title": "Demo Update #3",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254067",
+                "is_external_url": true,
+                "author": "starykazia",
+                "contents": "Hello again, Shopkeepers!For this update, we focused on your most frequent requests and squashed some pesky bugs that were interrupting your shopkeeping and adventuring.The dungeon is now yours to conquer endlessly! Many of you wanted to keep playing and grinding after finishing the main demo content. We heard you loud and clear: we have completely removed the restriction on entering the dungeon after completing the demo. You can now return to the dungeon to gather loot, fight, and test your skills as many times as you want!Here is what is changing in today's update:Removed the restriction on entering the dungeon after completing the demo. You can now return to the dungeon freely and as often as you like!Placing armor on the armor rack has been significantly improved. You no longer need to drop it in a specific, perfect spot.Added coins sound when the NPCs pay for the goods.Fixed a bug where loading a saved game while already inside the dungeon would fail to generate the correct dungeon layout.Fixed an issue that caused furniture bonuses to disappear after saving and loading the game inside the dungeon.Fixed an issue where NPCs would accidentally \"steal\" items if they were in the middle of a purchase right when the player left for the dungeon. (No more freebies for sneaky customers!)Improved boss movement and pathfinding, specifically fixing issues where the boss would get stuck or act out on the stairs inside the boss room.Fixed the problem with the dungeon end room sometimes appearing inside other rooms in the dungeons.Customers can now buy upper Armors and Helmets.Cart can now be properly placed.Fixed disappearing quest rewards.The boss's room now closes after the player passes the gateReduced the size of colliders on wall banners so they get in your way less while navigating the shop.Kills with the staff in the left hand now count properly. Item drop, attack, and dash sounds are now properly categorized as Sound Effects and can be controlled in Audio options.Changed the sound effect when completing quests.Locked the crafting recipes that require items not available in the demo.Keep the feedback coming, and enjoy your unlimited dungeon runs! If you run into any more issues, please let us know in the Steam Discussions or on Discord.Happy selling, and good luck down there! AGS aka Venturing Traders Guild",
+                "feedlabel": "Community Announcements",
+                "date": 1784116693,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4627110
+            },
+            {
+                "gid": "1837955055363785",
+                "title": "Demo Update #2",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055363785",
+                "is_external_url": true,
+                "author": "Sewu",
+                "contents": "Hello, Shopkeepers!We are back with the Demo Update #2! It brings one of the most requested demo features - Keybindings!We are still carefully reading your feedback on Steam Discussions and enjoying hanging out with you on Discord.Here is what is changing in today's update:Added keybinding options; players can now customize their controls. Added the ability to change an item's price using the Right Mouse Button (RMB) while it is on the table, without needing to pick it up first. You can now delete save files by clicking the small trash can icon next to them. Added protection against accidental save overwriting; a confirmation panel now appears to ask if you are sure you want to start a new game. Implemented a save safeguard when returning from a dungeon to ensure players do not lose their world progress. Added an option to reset settings to their defaults. Added safeguards to prevent the player from falling out of bounds in the dungeons. Added a collider to the dungeon exit in the boss room so the player no longer falls through the map. Shop buffs now correctly carry over into the dungeons. Added a protection against crafting items with full inventory weight (preventing the loss of crafting materials and gold).Please keep the feedback coming! If you encounter any new issues or want to share your thoughts on the latest tweaks, drop by our Discord or leave a post in the Steam forums.Good luck in the dungeons, and happy selling! AGS aka Venturing Traders Guild",
+                "feedlabel": "Community Announcements",
+                "date": 1783957371,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4627110
+            },
+            {
+                "gid": "1837955055360762",
+                "title": "Demo Update #1",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055360762",
+                "is_external_url": true,
+                "author": "starykazia",
+                "contents": "Hello, Shopkeepers! First and foremost: THANK YOU! Since we launched the demo, it has been absolutely incredible to see so many of you opening your shops, crafting your first items, and diving headfirst into the dungeons. We have been closely studying your feedback and hanging out with you in the Steam Discussions and on our Discord. Building this game is a journey, and having you involved this early means the world to us. Your insights into the first-person combat, the shop mechanics, and the overall balance are exactly what we need to make Fell & Sell the best experience possible. Here is what is changing in today's update: Removed NPC colliders to prevent them from blocking the player. Raised map boundary colliders so the player can no longer go out of bounds. Fixed a bug with bonus calculations when placing furniture. Fixed an item duplication exploit/bug. Fixed an issue where player settings were not saving properly. The game now automatically applies the monitor's native resolution on startup. Improved and added missing localizations in various places. Fixed a bug where the player could drop to 0 HP and become immortal in the dungeons. Fixed an issue where starting a new game would retain certain states from a previously loaded save slot. Fixed a bug where furniture buffs were lost after loading a saved game. Fixed an issue where the game would automatically change the language during gameplay. Disabled the ability to interact with the Transaction UI while the game is paused. Blocked the ability to place items on door frames. Fixed a bug where Alt-Tabbing would crash the game. Fixed a bug where the player would lose items placed on the armor rack when building a new shop. Please keep the feedback coming! If you encounter any new issues or just want to share your thoughts on the latest tweaks, drop by our Discord or leave a post in the Steam forums. Good luck in the dungeons, and happy selling! AGS aka Venturing Traders Guild",
+                "feedlabel": "Community Announcements",
+                "date": 1783847260,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4627110
+            },
+            {
+                "gid": "1837955055356538",
+                "title": "Demo Out NOW!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055356538",
+                "is_external_url": true,
+                "author": "starykazia",
+                "contents": "Welcome, aspiring shopkeepers!The day has finally arrived. We are thrilled to announce that the official demo for Fell & Sell is now available to play! It\u2019s time to dust off those shelves, grab your gear, and see if you have what it takes to run a booming business while surviving deadly dungeons.Here is a taste of what you can experience in the demo:Run Your Own Business: Open your shop and start selling a selection of basic goods to your first customers. (Don't worry, there will be waaay more items to trade in the full version!)Master Basic Crafting: Get your hands dirty at the workstation. Craft basic furniture, items, and weapons\u2014you'll even get to create your very first broken sword! (Again, expect a massive expansion of crafting recipes in the full release).Upgrade Your Store: Reinvest your hard-earned profits to build and upgrade your shop to a much better model.Brave the Dungeons: Step into the first-person hack'n'slash action! Delve into the dungeons, face the dangers within, and take down your very first boss.\ud83d\udcbe Your Progress Matters! We value the time you put into our demo. That\u2019s why any progress, loot, and coins you gather here will carry over to the full version of the game. You won't lose a single coin of your hard-earned progress.\ud83c\udf81 Exclusive Demo Reward As a massive \"Thank You\" to our early supporters, everyone who braves this demo will be rewarded with an exclusive piece of furniture upon the game's full release. Show off your veteran status to every customer who walks through your doors!\u270d\ufe0f We Need Your Feedback! Fell & Sell is growing, and your voice is crucial in shaping its future. Please leave your feedback, suggestions, and bug reports on our Discord or right here in the Steam Discussions. We read everything!Hit that download button, survive the dungeon, and make some gold. See you in the shop! AGS aka Venturing Traders Guild",
+                "feedlabel": "Community Announcements",
+                "date": 1783682312,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4627110
+            },
+            {
+                "gid": "1836506165570682",
+                "title": "Demo coming soon! - 10th of July",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570682",
+                "is_external_url": true,
+                "author": "starykazia",
+                "contents": "Welcome, aspiring shopkeepers!Soon you'll be able to play the Fell & Sell demo and test yourselves in the dungeons and at the counter. 10th of July - Save the date! Some of you may have already seen gameplay from content creators during the demo's early access. Now, you'll be able to test it yourself. We've used their feedback to improve the experience, ensuring you'll receive the best demo possible!Remember the policies of our Venturing Traders Guild:Any progress, loot, and coins you gather here will carry over to the full version of the game.Everyone who braves this demo will be rewarded with an exclusive piece of furniture upon the game's full release. Please leave your feedback, suggestions, and bug reports on our Discord or Steam Discussions.See you on the 10th of July! AGS aka Venturing Traders Guild",
+                "feedlabel": "Community Announcements",
+                "date": 1783089186,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4627110
+            }
+        ],
+        "count": 14
+    }
+}

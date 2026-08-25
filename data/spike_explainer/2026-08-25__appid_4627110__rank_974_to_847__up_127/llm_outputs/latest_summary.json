@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-25T01:45:02.463198+00:00",
+    "timestamp": "20260825_014502",
+    "input_file": "data/spike_explainer/2026-08-25__appid_4627110__rank_974_to_847__up_127/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-25__appid_4627110__rank_974_to_847__up_127/llm_outputs/gemini_20260825_014502.md",
+    "game_title": "Fell & Sell",
+    "appid": "4627110",
+    "duration_sec": 25.92,
+    "response_length": 5911,
+    "error": null
+}

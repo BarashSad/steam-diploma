@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3699590,Well Dweller,Well Dweller,643,638,5,5,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Sep 22, 2026",True
+3695930,Penguin Colony,Penguin Colony,986,983,3,3,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Oct 8, 2026",True
+3509420,Planetbase 2,Planetbase 2,398,400,-2,2,down,none,Free,Free,False,Q1 2027,"Mar 19, 2027",True
+4513480,Scarlet Skips,Scarlet Skips,875,873,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Sep 3, 2026",True
