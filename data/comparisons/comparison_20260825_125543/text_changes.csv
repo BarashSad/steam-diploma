@@ -1,0 +1,3 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4413130,Battlespace Command,Battlespace Command,705,700,5,5,up,none,Unpriced (Coming Soon),Free,True,To be announced,2027,True
+2887580,Active Matter,Active Matter,88,88,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Sep 15, 2026",True

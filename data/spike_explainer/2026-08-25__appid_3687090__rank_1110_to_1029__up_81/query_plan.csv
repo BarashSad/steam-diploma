@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3687090,Dice Hoarder,"""Dice Hoarder"" Steam",general,1,tavily,True,,5
+3687090,Dice Hoarder,"""Dice Hoarder"" trailer",general,1,tavily,True,,5
+3687090,Dice Hoarder,"""Dice Hoarder"" gameplay",general,1,tavily,True,,5
+3687090,Dice Hoarder,"""Dice Hoarder"" demo",general,1,tavily,True,,5
+3687090,Dice Hoarder,"""Dice Hoarder"" release date",general,1,tavily,True,,5
+3687090,Dice Hoarder,"""Dice Hoarder"" announcement",general,1,tavily,True,,5
+3687090,Dice Hoarder,"""Dice Hoarder"" preview",general,1,tavily,True,,5
+3687090,Dice Hoarder,"""Dice Hoarder"" review",general,1,tavily,True,,5
+3687090,Dice Hoarder,"""Dice Hoarder"" publisher",general,1,tavily,True,,5
+3687090,Dice Hoarder,"""Dice Hoarder"" developer",general,1,tavily,True,,5
+3687090,Dice Hoarder,"site:pcgamer.com ""Dice Hoarder""",press,2,tavily,False,General budget exhausted,0
+3687090,Dice Hoarder,"site:rockpapershotgun.com ""Dice Hoarder""",press,2,tavily,False,General budget exhausted,0
+3687090,Dice Hoarder,"site:ign.com ""Dice Hoarder""",press,2,tavily,False,General budget exhausted,0
+3687090,Dice Hoarder,"site:gamespot.com ""Dice Hoarder""",press,2,tavily,False,General budget exhausted,0
+3687090,Dice Hoarder,"site:game8.co ""Dice Hoarder""",press,2,tavily,False,General budget exhausted,0
+3687090,Dice Hoarder,"site:reddit.com ""Dice Hoarder""",social,3,tavily,True,,5
+3687090,Dice Hoarder,"site:tiktok.com ""Dice Hoarder""",social,4,tavily,True,,5
+3687090,Dice Hoarder,"site:instagram.com ""Dice Hoarder""",social,4,tavily,True,,5
+3687090,Dice Hoarder,"site:x.com ""Dice Hoarder""",social,4,tavily,True,,5
+3687090,Dice Hoarder,"site: ""Dice Hoarder""",social,4,tavily,True,,5

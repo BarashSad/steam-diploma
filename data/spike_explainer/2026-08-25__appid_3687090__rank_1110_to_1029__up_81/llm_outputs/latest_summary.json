@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-25T13:04:22.551857+00:00",
+    "timestamp": "20260825_130422",
+    "input_file": "data/spike_explainer/2026-08-25__appid_3687090__rank_1110_to_1029__up_81/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-25__appid_3687090__rank_1110_to_1029__up_81/llm_outputs/gemini_20260825_130422.md",
+    "game_title": "Dice Hoarder",
+    "appid": "3687090",
+    "duration_sec": 21.32,
+    "response_length": 6153,
+    "error": null
+}
