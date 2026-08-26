@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Dice Hoarder
+Analyzed: STAGE TOUR
 Tavily Budget Used: 15
 Errors: 0

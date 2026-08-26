@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-26T01:51:00.558606+00:00",
+    "timestamp": "20260826_015100",
+    "input_file": "data/spike_explainer/2026-08-26__appid_4452700__rank_822_to_601__up_221/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-26__appid_4452700__rank_822_to_601__up_221/llm_outputs/gemini_20260826_015100.md",
+    "game_title": "STAGE TOUR",
+    "appid": "4452700",
+    "duration_sec": 17.86,
+    "response_length": 7443,
+    "error": null
+}

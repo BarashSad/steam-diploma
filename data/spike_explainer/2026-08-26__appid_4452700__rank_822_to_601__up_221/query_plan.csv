@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4452700,STAGE TOUR,"""STAGE TOUR"" Steam",general,1,tavily,True,,5
+4452700,STAGE TOUR,"""STAGE TOUR"" trailer",general,1,tavily,True,,5
+4452700,STAGE TOUR,"""STAGE TOUR"" gameplay",general,1,tavily,True,,5
+4452700,STAGE TOUR,"""STAGE TOUR"" demo",general,1,tavily,True,,5
+4452700,STAGE TOUR,"""STAGE TOUR"" release date",general,1,tavily,True,,5
+4452700,STAGE TOUR,"""STAGE TOUR"" announcement",general,1,tavily,True,,5
+4452700,STAGE TOUR,"""STAGE TOUR"" preview",general,1,tavily,True,,5
+4452700,STAGE TOUR,"""STAGE TOUR"" review",general,1,tavily,True,,5
+4452700,STAGE TOUR,"""STAGE TOUR"" publisher",general,1,tavily,True,,5
+4452700,STAGE TOUR,"""STAGE TOUR"" developer",general,1,tavily,True,,5
+4452700,STAGE TOUR,"site:pcgamer.com ""STAGE TOUR""",press,2,tavily,False,General budget exhausted,0
+4452700,STAGE TOUR,"site:rockpapershotgun.com ""STAGE TOUR""",press,2,tavily,False,General budget exhausted,0
+4452700,STAGE TOUR,"site:ign.com ""STAGE TOUR""",press,2,tavily,False,General budget exhausted,0
+4452700,STAGE TOUR,"site:gamespot.com ""STAGE TOUR""",press,2,tavily,False,General budget exhausted,0
+4452700,STAGE TOUR,"site:game8.co ""STAGE TOUR""",press,2,tavily,False,General budget exhausted,0
+4452700,STAGE TOUR,"site:reddit.com ""STAGE TOUR""",social,3,tavily,True,,5
+4452700,STAGE TOUR,"site:tiktok.com ""STAGE TOUR""",social,4,tavily,True,,5
+4452700,STAGE TOUR,"site:instagram.com ""STAGE TOUR""",social,4,tavily,True,,5
+4452700,STAGE TOUR,"site:x.com ""STAGE TOUR""",social,4,tavily,True,,5
+4452700,STAGE TOUR,"site: ""STAGE TOUR""",social,4,tavily,True,,5
