@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-26T13:12:12.237178+00:00",
+    "timestamp": "20260826_131212",
+    "input_file": "data/spike_explainer/2026-08-26__appid_3809850__rank_1068_to_610__up_458/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-26__appid_3809850__rank_1068_to_610__up_458/llm_outputs/gemini_20260826_131212.md",
+    "game_title": "Heroes of Might and Magic III Remake",
+    "appid": "3809850",
+    "duration_sec": 15.56,
+    "response_length": 5619,
+    "error": null
+}

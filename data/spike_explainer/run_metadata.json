@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-08-26T01:51:00.461046+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260826_014039/rank_changes.csv",
-    "selected_appid": "4452700",
-    "selected_game_title": "STAGE TOUR",
+    "started_at": "2026-08-26T13:12:12.145688+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260826_130157/rank_changes.csv",
+    "selected_appid": "3809850",
+    "selected_game_title": "Heroes of Might and Magic III Remake",
     "top_n": 1,
     "old_snapshot_date": "2026-08-23",
     "new_snapshot_date": "2026-08-26",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-26T01:51:00.461061+00:00",
+    "finished_at": "2026-08-26T13:12:12.145701+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

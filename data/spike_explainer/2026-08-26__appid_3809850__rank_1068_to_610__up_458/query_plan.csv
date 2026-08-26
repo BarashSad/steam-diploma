@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3809850,Heroes of Might and Magic III Remake,"""Heroes of Might and Magic III Remake"" Steam",general,1,tavily,True,,5
+3809850,Heroes of Might and Magic III Remake,"""Heroes of Might and Magic III Remake"" trailer",general,1,tavily,True,,5
+3809850,Heroes of Might and Magic III Remake,"""Heroes of Might and Magic III Remake"" gameplay",general,1,tavily,True,,5
+3809850,Heroes of Might and Magic III Remake,"""Heroes of Might and Magic III Remake"" demo",general,1,tavily,True,,5
+3809850,Heroes of Might and Magic III Remake,"""Heroes of Might and Magic III Remake"" release date",general,1,tavily,True,,5
+3809850,Heroes of Might and Magic III Remake,"""Heroes of Might and Magic III Remake"" announcement",general,1,tavily,True,,5
+3809850,Heroes of Might and Magic III Remake,"""Heroes of Might and Magic III Remake"" preview",general,1,tavily,True,,5
+3809850,Heroes of Might and Magic III Remake,"""Heroes of Might and Magic III Remake"" review",general,1,tavily,True,,5
+3809850,Heroes of Might and Magic III Remake,"""Heroes of Might and Magic III Remake"" publisher",general,1,tavily,True,,5
+3809850,Heroes of Might and Magic III Remake,"""Heroes of Might and Magic III Remake"" developer",general,1,tavily,True,,5
+3809850,Heroes of Might and Magic III Remake,"site:pcgamer.com ""Heroes of Might and Magic III Remake""",press,2,tavily,False,General budget exhausted,0
+3809850,Heroes of Might and Magic III Remake,"site:rockpapershotgun.com ""Heroes of Might and Magic III Remake""",press,2,tavily,False,General budget exhausted,0
+3809850,Heroes of Might and Magic III Remake,"site:ign.com ""Heroes of Might and Magic III Remake""",press,2,tavily,False,General budget exhausted,0
+3809850,Heroes of Might and Magic III Remake,"site:gamespot.com ""Heroes of Might and Magic III Remake""",press,2,tavily,False,General budget exhausted,0
+3809850,Heroes of Might and Magic III Remake,"site:game8.co ""Heroes of Might and Magic III Remake""",press,2,tavily,False,General budget exhausted,0
+3809850,Heroes of Might and Magic III Remake,"site:reddit.com ""Heroes of Might and Magic III Remake""",social,3,tavily,True,,5
+3809850,Heroes of Might and Magic III Remake,"site:tiktok.com ""Heroes of Might and Magic III Remake""",social,4,tavily,True,,5
+3809850,Heroes of Might and Magic III Remake,"site:instagram.com ""Heroes of Might and Magic III Remake""",social,4,tavily,True,,5
+3809850,Heroes of Might and Magic III Remake,"site:x.com ""Heroes of Might and Magic III Remake""",social,4,tavily,True,,5
+3809850,Heroes of Might and Magic III Remake,"site: ""Heroes of Might and Magic III Remake""",social,4,tavily,True,,5

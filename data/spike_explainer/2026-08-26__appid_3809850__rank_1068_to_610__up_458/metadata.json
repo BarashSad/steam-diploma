@@ -1,0 +1,41 @@
+{
+    "appid": "3809850",
+    "game_title": "Heroes of Might and Magic III Remake",
+    "safe_slug": "heroes_of_might_and_magic_iii_remake",
+    "analysis_date_utc": "2026-08-26T13:11:44.545133+00:00",
+    "spike_window_start": "2026-08-23T00:00:00+00:00",
+    "spike_window_end": "2026-08-26T00:00:00+00:00",
+    "extended_window_start": "2026-07-09T00:00:00+00:00",
+    "extended_window_end": "2026-08-29T00:00:00+00:00",
+    "dt_start": "2026-08-23 00:00:00+00:00",
+    "dt_end": "2026-08-26 00:00:00+00:00",
+    "ext_start": "2026-07-09 00:00:00+00:00",
+    "ext_end": "2026-08-29 00:00:00+00:00",
+    "window_inferred_fallback": false,
+    "prev_rank": 1068,
+    "curr_rank": 610,
+    "rank_delta": 458,
+    "movement_score": 0,
+    "is_new_entry": false,
+    "changed_fields_detected": [
+        "price",
+        "release_date"
+    ],
+    "input_diff_row": {
+        "appid": "3809850",
+        "title_old": "Heroes of Might and Magic III Remake",
+        "curr_title": "Heroes of Might and Magic III Remake",
+        "prev_rank": 1068,
+        "curr_rank": 610,
+        "rank_delta": 458,
+        "abs_rank_delta": 458,
+        "movement_type": "up",
+        "spike_type": "upward_spike",
+        "price_text_old": "Unpriced (Coming Soon)",
+        "price_text_new": "Free",
+        "price_changed": true,
+        "release_text_old": "To be announced",
+        "release_text_new": "2027",
+        "release_changed": true
+    }
+}

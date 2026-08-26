@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-4452700,STAGE TOUR,"site:pcgamer.com ""STAGE TOUR""",press,2,tavily,False,General budget exhausted,0
-4452700,STAGE TOUR,"site:rockpapershotgun.com ""STAGE TOUR""",press,2,tavily,False,General budget exhausted,0
-4452700,STAGE TOUR,"site:ign.com ""STAGE TOUR""",press,2,tavily,False,General budget exhausted,0
-4452700,STAGE TOUR,"site:gamespot.com ""STAGE TOUR""",press,2,tavily,False,General budget exhausted,0
-4452700,STAGE TOUR,"site:game8.co ""STAGE TOUR""",press,2,tavily,False,General budget exhausted,0
+3809850,Heroes of Might and Magic III Remake,"site:pcgamer.com ""Heroes of Might and Magic III Remake""",press,2,tavily,False,General budget exhausted,0
+3809850,Heroes of Might and Magic III Remake,"site:rockpapershotgun.com ""Heroes of Might and Magic III Remake""",press,2,tavily,False,General budget exhausted,0
+3809850,Heroes of Might and Magic III Remake,"site:ign.com ""Heroes of Might and Magic III Remake""",press,2,tavily,False,General budget exhausted,0
+3809850,Heroes of Might and Magic III Remake,"site:gamespot.com ""Heroes of Might and Magic III Remake""",press,2,tavily,False,General budget exhausted,0
+3809850,Heroes of Might and Magic III Remake,"site:game8.co ""Heroes of Might and Magic III Remake""",press,2,tavily,False,General budget exhausted,0
