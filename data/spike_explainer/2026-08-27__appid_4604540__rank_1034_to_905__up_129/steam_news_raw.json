@@ -1,0 +1,21 @@
+{
+    "appnews": {
+        "appid": 4604540,
+        "newsitems": [
+            {
+                "gid": "1842212951299428",
+                "title": "TARAE: The Unbound Is Here at gamescom 2026!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299428",
+                "is_external_url": true,
+                "author": "siwoocha",
+                "contents": "We're taking TARAE: The Unbound at gamescom 2026.Join us at Hall 9, to be among the first to go hands-on with our playable demo.",
+                "feedlabel": "Community Announcements",
+                "date": 1787822229,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4604540
+            }
+        ],
+        "count": 1
+    }
+}

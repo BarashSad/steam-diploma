@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-27T22:14:12.153928+00:00",
+    "timestamp": "20260827_221412",
+    "input_file": "data/spike_explainer/2026-08-27__appid_4604540__rank_1034_to_905__up_129/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-27__appid_4604540__rank_1034_to_905__up_129/llm_outputs/gemini_20260827_221412.md",
+    "game_title": "TARAE: The Unbound",
+    "appid": "4604540",
+    "duration_sec": 22.65,
+    "response_length": 5142,
+    "error": null
+}
