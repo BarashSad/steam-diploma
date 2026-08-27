@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Heroes of Might and Magic III Remake
+Analyzed: Tom Clancy’s Rainbow Six Tactics
 Tavily Budget Used: 15
 Errors: 0

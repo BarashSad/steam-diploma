@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-08-26T13:12:12.145688+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260826_130157/rank_changes.csv",
-    "selected_appid": "3809850",
-    "selected_game_title": "Heroes of Might and Magic III Remake",
+    "started_at": "2026-08-27T08:43:19.539745+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260827_083439/rank_changes.csv",
+    "selected_appid": "3621390",
+    "selected_game_title": "Tom Clancy\u2019s Rainbow Six Tactics",
     "top_n": 1,
-    "old_snapshot_date": "2026-08-23",
-    "new_snapshot_date": "2026-08-26",
+    "old_snapshot_date": "2026-08-24",
+    "new_snapshot_date": "2026-08-27",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-26T13:12:12.145701+00:00",
+    "finished_at": "2026-08-27T08:43:19.539759+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

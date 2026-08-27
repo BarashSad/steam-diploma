@@ -1,0 +1,47 @@
+{
+    "appnews": {
+        "appid": 3621390,
+        "newsitems": [
+            {
+                "gid": "1842212951297423",
+                "title": "COMMUNITY DEV BLOG \u2013 MEET THE TEAM",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297423",
+                "is_external_url": true,
+                "author": "FrFrFrog",
+                "contents": "After several years of development, we just announced Tom Clancy's Rainbow Six Tactics during Gamescom\u2019s Opening Night Live! We were so excited to share our new project with everyone and we\u2019re taking the opportunity to share a few words in this very first Community Dev Blog. Developed by our dedicated team located in Paris, this new singleplayer turn-based tactical game is set in the universe and lore of Rainbow Six Siege from the same franchise. Our team is composed of passionate and veteran developers of both the tactical FPS and turned-based tactics genres. We worked closely with the Siege team based in Montreal in order to give the most accurate representation of Siege if it were to be a turn-based tactical game. \"Having worked on several Tom Clancy titles throughout my career, the opportunity to revisit the Rainbow Six franchise's tactical roots as Creative Director is a privilege. As long-time fans of tactical games, we've focused on building the kind of tactical experience we'd want to play ourselves, and we hope it resonates with as many players as possible.\" - Elie Benhamou, Creative Director Want a quick highlight of what we are planning for you? 15 Siege operatorsDozens of unique maps around the worldEnvironmental destructionA unique Breach system to deploy synchronized assaultsSeveral enemy archetypes to challenge your operator rosterAnd more to be announced! If you missed our video announcement and want to see those features in action, have a look at our first reveal trailer! Tom Clancy's Rainbow Six Tactics video trailer shown at Gamescom's Opening Night Live. Join us on August 29 during our conversation with Tactics and Siege\u2019s Narrative Directors broadcasted live on the Ubisoft channels from Gamescom! We\u2019ll ask them about the collaboration between the two game teams as well as how they managed to incorporate Tactics into the lore and ongoing timeline of Rainbow Six. For the next months, we are excited to start this new adventure with everyone who will be following us while we are advancing through development until the official release. Rainbow Six Tactics will hit Ubisoft Connect, Steam, PS5, and Xbox Series next year \u2013 exact release date to be announced. We will bring you into our world, share our progress, wins, but also challenges, via Community posts on Steam and the Ubisoft website. We\u2019re also available on Discord, come chat with us! :) - FrFrFrog & the Rainbow Six Tactics team",
+                "feedlabel": "Community Announcements",
+                "date": 1787760598,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3621390
+            },
+            {
+                "gid": "1842212951296112",
+                "title": "Tom Clancy's Rainbow Six Tactics Is Revealed",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296112",
+                "is_external_url": true,
+                "author": "CRM_OP******",
+                "contents": "TACTICAL. TURN-BASED. RAINBOW SIX. Tom Clancy\u2019s Rainbow Six Tactics is a single-player, turn-based tactical game set in the iconic Rainbow Six universe. Step into the role of commander, rebuild the unit, and deploy elite operators across dangerous missions worldwide to stop a shadowy conspiracy. https://store.steampowered.com/app/3621390 COMMAND OPERATOR SQUADS IN TENSE BATTLES https://ubistatic-a.akamaihd.net/0175/CRM/STEAM/SND/V1_B2.gif Assemble squads of operators, each with signature abilities and gear. Analyze the battlefield with recon tools, choose your approach, take part in tense, turn-based tactical battles, and use destructible environments to create new opportunities. Learn more",
+                "feedlabel": "Community Announcements",
+                "date": 1787731213,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3621390
+            },
+            {
+                "gid": "1841579228679186",
+                "title": "Rainbow Six Tactics transforms the demolition-driven Siege into a turn-based game while keeping the destructible environments, operators, and reconnaissance drones",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1841579228679186",
+                "is_external_url": true,
+                "author": "",
+                "contents": "Ubisoft have done the sensible thing and turned Rainbow Six into a turn-based tactical game. Nabbing the special ability-laden operators of Rainbow Six Siege and dropping them into the XCOM: Chimera Squad framework. The Mario + Rabbids developer have found a spin off that looks to be a natural fit for the series. <a href=\"https://www.rockpapershotgun.com/rainbow-six-tactics-transforms-the-demolition-driven-siege-into-a-turn-based-game-while-keeping-the-destructible-environments-operators-and-reconnaissance-drones\">Read more</a> ",
+                "feedlabel": "Rock, Paper, Shotgun",
+                "date": 1787681717,
+                "feedname": "Rock, Paper, Shotgun",
+                "feed_type": 0,
+                "appid": 3621390
+            }
+        ],
+        "count": 3
+    }
+}

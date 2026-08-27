@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3621390,Tom Clancy’s Rainbow Six Tactics,"""Tom Clancy’s Rainbow Six Tactics"" Steam",general,1,tavily,True,,5
+3621390,Tom Clancy’s Rainbow Six Tactics,"""Tom Clancy’s Rainbow Six Tactics"" trailer",general,1,tavily,True,,5
+3621390,Tom Clancy’s Rainbow Six Tactics,"""Tom Clancy’s Rainbow Six Tactics"" gameplay",general,1,tavily,True,,5
+3621390,Tom Clancy’s Rainbow Six Tactics,"""Tom Clancy’s Rainbow Six Tactics"" demo",general,1,tavily,True,,5
+3621390,Tom Clancy’s Rainbow Six Tactics,"""Tom Clancy’s Rainbow Six Tactics"" release date",general,1,tavily,True,,5
+3621390,Tom Clancy’s Rainbow Six Tactics,"""Tom Clancy’s Rainbow Six Tactics"" announcement",general,1,tavily,True,,5
+3621390,Tom Clancy’s Rainbow Six Tactics,"""Tom Clancy’s Rainbow Six Tactics"" preview",general,1,tavily,True,,4
+3621390,Tom Clancy’s Rainbow Six Tactics,"""Tom Clancy’s Rainbow Six Tactics"" review",general,1,tavily,True,,5
+3621390,Tom Clancy’s Rainbow Six Tactics,"""Tom Clancy’s Rainbow Six Tactics"" publisher",general,1,tavily,True,,5
+3621390,Tom Clancy’s Rainbow Six Tactics,"""Tom Clancy’s Rainbow Six Tactics"" developer",general,1,tavily,True,,5
+3621390,Tom Clancy’s Rainbow Six Tactics,"site:pcgamer.com ""Tom Clancy’s Rainbow Six Tactics""",press,2,tavily,False,General budget exhausted,0
+3621390,Tom Clancy’s Rainbow Six Tactics,"site:rockpapershotgun.com ""Tom Clancy’s Rainbow Six Tactics""",press,2,tavily,False,General budget exhausted,0
+3621390,Tom Clancy’s Rainbow Six Tactics,"site:ign.com ""Tom Clancy’s Rainbow Six Tactics""",press,2,tavily,False,General budget exhausted,0
+3621390,Tom Clancy’s Rainbow Six Tactics,"site:gamespot.com ""Tom Clancy’s Rainbow Six Tactics""",press,2,tavily,False,General budget exhausted,0
+3621390,Tom Clancy’s Rainbow Six Tactics,"site:game8.co ""Tom Clancy’s Rainbow Six Tactics""",press,2,tavily,False,General budget exhausted,0
+3621390,Tom Clancy’s Rainbow Six Tactics,"site:reddit.com ""Tom Clancy’s Rainbow Six Tactics""",social,3,tavily,True,,5
+3621390,Tom Clancy’s Rainbow Six Tactics,"site:tiktok.com ""Tom Clancy’s Rainbow Six Tactics""",social,4,tavily,True,,1
+3621390,Tom Clancy’s Rainbow Six Tactics,"site:instagram.com ""Tom Clancy’s Rainbow Six Tactics""",social,4,tavily,True,,5
+3621390,Tom Clancy’s Rainbow Six Tactics,"site:x.com ""Tom Clancy’s Rainbow Six Tactics""",social,4,tavily,True,,5
+3621390,Tom Clancy’s Rainbow Six Tactics,"site: ""Tom Clancy’s Rainbow Six Tactics""",social,4,tavily,True,,5
