@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4039200,Exterminauts,"""Exterminauts"" Steam",general,1,tavily,True,,5
+4039200,Exterminauts,"""Exterminauts"" trailer",general,1,tavily,True,,3
+4039200,Exterminauts,"""Exterminauts"" gameplay",general,1,tavily,True,,5
+4039200,Exterminauts,"""Exterminauts"" demo",general,1,tavily,True,,5
+4039200,Exterminauts,"""Exterminauts"" release date",general,1,tavily,True,,5
+4039200,Exterminauts,"""Exterminauts"" announcement",general,1,tavily,True,,5
+4039200,Exterminauts,"""Exterminauts"" preview",general,1,tavily,True,,5
+4039200,Exterminauts,"""Exterminauts"" review",general,1,tavily,True,,5
+4039200,Exterminauts,"""Exterminauts"" publisher",general,1,tavily,True,,5
+4039200,Exterminauts,"""Exterminauts"" developer",general,1,tavily,True,,5
+4039200,Exterminauts,"site:pcgamer.com ""Exterminauts""",press,2,tavily,False,General budget exhausted,0
+4039200,Exterminauts,"site:rockpapershotgun.com ""Exterminauts""",press,2,tavily,False,General budget exhausted,0
+4039200,Exterminauts,"site:ign.com ""Exterminauts""",press,2,tavily,False,General budget exhausted,0
+4039200,Exterminauts,"site:gamespot.com ""Exterminauts""",press,2,tavily,False,General budget exhausted,0
+4039200,Exterminauts,"site:game8.co ""Exterminauts""",press,2,tavily,False,General budget exhausted,0
+4039200,Exterminauts,"site:reddit.com ""Exterminauts""",social,3,tavily,True,,5
+4039200,Exterminauts,"site:tiktok.com ""Exterminauts""",social,4,tavily,True,,4
+4039200,Exterminauts,"site:instagram.com ""Exterminauts""",social,4,tavily,True,,0
+4039200,Exterminauts,"site:x.com ""Exterminauts""",social,4,tavily,True,,5
+4039200,Exterminauts,"site: ""Exterminauts""",social,4,tavily,True,,5
