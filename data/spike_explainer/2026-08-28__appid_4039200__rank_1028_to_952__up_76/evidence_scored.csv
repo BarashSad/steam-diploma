@@ -1,0 +1,816 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+4039200,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297627,WORK ORDER #001: OFFICIAL GAMEPLAY WALKTHROUGH,,"Clock in. Your first Work Order starts here. Our first official gameplay walkthrough takes you through one complete Exterminauts work order, from deployment to extraction — and a closer look at everything standing between your crew and a finished job. On Planet Tian, completing the contract means mo",gameplay,90,very_strong,Inside spike window (+30); Official Steam News (+20); Exact title match (+20); Keywords ['gameplay'] (+20),
+4039200,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=ek43hhb5ItI,Exterminauts - Gameplay Trailer | Xbox @ gamescom 2026,,"Do the jobs nobody else in the galaxy will. Go in, clean up, get paid. Shoot aliens, blast them with ice or lightning, and otherwise ...","trailer, gameplay",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+4039200,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=Wlka-ypMHTQ,Exterminauts | Official Reveal Trailer | Gamescom 2026,,We're hiring. Punch in for the next shift—and a brand-new line of work. Exterminauts is a three-player co-op third-person shooter ...,trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4039200,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=DIauIpZAzpY,Exterminauts - Gameplay Trailer | Xbox @ gamescom 2026,,"Do the jobs nobody else in the galaxy will. Go in, clean up, get paid. Shoot aliens, blast them with ice or lightning, and otherwise ...","trailer, gameplay",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+4039200,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=MJgEDgx1lT4,Exterminauts Reveal Trailer | gamescom 2026,,"Get your first look at Exterminauts with the official Reveal Trailer, showcased at gamescom 2026. Prepare for an explosive new ...","trailer, showcase",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'showcase'] (+20)",
+4039200,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=5Tq6zbkNlkE,Exterminauts | Wishlist Trailer Gamescom 2026,,"Exterminauts | Wishlist Trailer Gamescom 2026 If you enjoyed the video, please leave a Like, Subscribe or Share with your friends ...",trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4039200,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=ek43hhb5ItI,Exterminauts - Gameplay Trailer | Xbox @ gamescom 2026,,"Do the jobs nobody else in the galaxy will. Go in, clean up, get paid. Shoot aliens, blast them with ice or lightning, and otherwise ...","trailer, gameplay",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+4039200,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=rzSkcg8DZi4,(Pre-Dev) Exterminauts - Contract Gameplay,,"Exterminauts was just announced at Gamescom yesterday. So I wanted to give you all a little... preview, of how the game looks.",gameplay,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+4039200,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=DIauIpZAzpY,Exterminauts - Gameplay Trailer | Xbox @ gamescom 2026,,"Do the jobs nobody else in the galaxy will. Go in, clean up, get paid. Shoot aliens, blast them with ice or lightning, and otherwise ...","trailer, gameplay",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+4039200,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=0M9Yp1aGkRw,Exterminauts - Announcement Trailer | PS5 Games,,https://store.playstation.com/concept/10018969/ You're not saving the universe — you're just on the clock. In the 3-player co-op ...,"trailer, announcement",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4039200,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=MJgEDgx1lT4,Exterminauts Reveal Trailer | gamescom 2026,,"Get your first look at Exterminauts with the official Reveal Trailer, showcased at gamescom 2026. Prepare for an explosive new ...","trailer, showcase",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'showcase'] (+20)",
+4039200,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=fJVNP348hTE,Exterminauts | Official Gameplay Walkthrough,,Clock in and see what it takes to complete a full work order on Planet Tian. This official gameplay walkthrough takes you through ...,gameplay,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+4039200,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=iP8e_ffngyQ,Exterminauts | Official Reveal Trailer,,Exterminauts is a co-op third-person PvE shooter using weaponized power tools and mad-science gadgets to exterminate alien ...,trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4039200,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=waBA5J6bQBY,Exterminauts | Official Reveal Trailer,,Exterminauts is a co-op third-person PvE shooter using weaponized power tools and mad-science gadgets to exterminate alien ...,trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4039200,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228679401,NOW HIRING: EXTERMINAUTS ,,"Forward into the next shift—and a brand-new line of work.Exterminauts is a three-player co-op third-person shooter where blue-collar crews take the contracts no one else will touch. Head into the hottest zones on Planet Tian, keep the worksite running, and fight through a living alien ecosystem unti",,70,strong,Inside spike window (+30); Official Steam News (+20); Exact title match (+20),
+4039200,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=xy92QCnI5xU,#Exterminauts Best new game coming? 👀 #Exterminauts #gaming # #iferg @iFerg,,,,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+4039200,web_result,unknown_date,https://www.youtube.com/watch?v=DIauIpZAzpY,Exterminauts - Gameplay Trailer | Xbox @ gamescom 2026 - YouTube,"Do the jobs nobody else in the galaxy will. Go in, clean up, get paid. Shoot aliens, blast them with ice or lightning, and otherwise mop up",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4039200,web_result,unknown_date,https://www.youtube.com/watch?v=ek43hhb5ItI,Exterminauts - Gameplay Trailer | Xbox @ gamescom 2026 - YouTube,"I'm not the only one who misread it as ""Exterminatus"", am I? 18:07. Go to channel IGN · Fable - Official Quest Gameplay | gamescom 2026. IGN.",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4039200,youtube_video,outside_window,https://www.youtube.com/watch?v=um3KCpZgook,The Sky City Syndicate - Exterminatus (Demo),,"First Single from the upcoming EP ""Two Weeks in Limbo"" by The Sky City Syndicate. http://www.facebook.com/theskycitysyndicate ...",demo,35,medium,YouTube (+15); Keywords ['demo'] (+20),
+4039200,reddit_discussion,unknown_date,https://www.reddit.com/r/Warhammer40k/comments/13xdhon/is_exterminatus_an_actual_gameplay_mechanics_in,Is Exterminatus an actual gameplay mechanics in the ...,it's basically an endgame option to choose to basically get a stalemate and everybody loses. It's. Exterminatus is used as an absolute last,,gameplay,30,weak,Reddit (+10); Keywords ['gameplay'] (+20),general
+4039200,social_post,unknown_date,https://www.tiktok.com/@wizz_edits/video/7678420316649000212,New Exterminauts game Reveal #EXTERMINAUTSPartner ...,TikTok video from Wizz edits (@wizz_edits): “New Exterminauts game Reveal #EXTERMINAUTSPartner #exterminauts #pve #reveal”.,,,25,weak,Social Index (+5); Exact title match (+20),social
+4039200,social_post,unknown_date,https://www.instagram.com/reel/DciejdQIY_N,#ExterminautsPartner MEET THE NEW EXTERMINAUTS 👽 ...,"Exterminauts est maintenant dévoilé! Développé par les équipes de Behaviour Interactif, Exterminauts est un jeu de science-fiction coopératif",,,25,weak,Social Index (+5); Exact title match (+20),social
+4039200,social_post,unknown_date,https://www.instagram.com/reel/DciSIJMIVT-,Exterminauts is on ANOTHER LEVEL ...,"Exterminauts est maintenant dévoilé! Développé par les équipes de Behaviour Interactif, Exterminauts est un jeu de science-fiction",,,25,weak,Social Index (+5); Exact title match (+20),social
+4039200,social_post,unknown_date,https://www.instagram.com/behaviour_interactive,Behaviour Interactive (@behaviour_interactive) • Instagram photos and videos,"Log In
+
+Sign Up
+
+## behaviour\_interactive
+
+ 36.6K followers
+ 105 following
+
+Behaviour Interactive
+
+🎮 Game since 1992  
+🎮 Game depuis 1992
+
+linktr.ee/bhvr
+
+ behaviour_interactive's highlight story picture
+
+  Behaviour Life
+ behaviour_interactive's highlight story picture
+
+  Playtest
+ behaviour_interactive's highlight story picture
+
+  Events
+
+Video by Behaviour Interactive on August 25, 2026. May be an image of text that says '話 EXTERMINAUTS'. [...] Video by Behaviour Interactive on July 15, 2026. May be an image of magazine, crowd and text that says 'bE 曲 T HAVIOUR 0 RU T MERESE'.
+
+Video by Behaviour Interactive on June 30, 2026. May be an image of toy, poster, costume, helmet and text.
+
+Photo by Scary Kid Studios on June 27, 2026.
+
+Photo by Behaviour Interactive on June 23, 2026.
+
+Photo by Behaviour Interactive on June 17, 2026.
+
+Video by Behaviour Interactive on June 10, 2026. May be an image of magazine and poster. [...] Video by Behaviour Interactive on June 09, 2026. May be an image of eye patch and costume.
+
+Photo by Behaviour Interactive on June 08, 2026.
+
+Video by Behaviour Interactive on June 07, 2026. May be a video game screenshot.
+
+Video by Behaviour Interactive on June 07, 2026. May be an image of card and poster.
+
+Video by Behaviour Interactive on May 26, 2026.
+
+Show more posts from behaviour\_interactive",,,25,weak,Social Index (+5); Exact title match (+20),social
+4039200,social_post,unknown_date,https://www.instagram.com/p/DcivN20AZLw,"Powered by @alienware: Sometimes, the ...","The Exterminauts Field Office is officially open at gamescom, and the first new hires are already discovering what “routine maintenance” looks",,,25,weak,Social Index (+5); Exact title match (+20),social
+4039200,social_post,unknown_date,https://www.instagram.com/p/DchO3yDFz5O,Did someone call an exterminator? Haha #Exterminauts ...,Did someone call an exterminator? Haha #Exterminauts #Xbox #Microsoft #Gaming #VideoGames #Gamer #Retro #XboxSeriesS #XboxSeriesX · 22,,,25,weak,Social Index (+5); Exact title match (+20),social
+4039200,web_result,unknown_date,https://store.steampowered.com/app/3425580/The_Island_Exterminatus,The Island: Exterminatus on Steam,"See all 103 supported languages
+
+Title: The Island: Exterminatus  
+ Genre: Action, Adventure, Casual, Indie  
+
+Developer: Victor Sardinha Bexiga
+
+Publisher: BexigaGames
+
+Release Date: Mar 15, 2025
+
+Visit the website   Instagram   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Links & info
+
+## Buy Exterminatus: A Grim Odyssey
+
+$3.99
+
+Add to Cart;)
+
+View Community Hub
+
+## About This Game [...] All Games > Action Games > The Island: Exterminatus
+
+Community Hub
+
+The Island: Exterminatus
+
+The Island: Exterminatus
+
+Developer
+
+Victor Sardinha Bexiga
+
+Publisher
+
+BexigaGames
+
+Released
+
+Mar 15, 2025
+
+A futuristic game, with lots of beatings, in the best Pancadaria style! Punch down several enemies in an underground atmosphere through cyberpunk places! Use kicking, punching, grabbing techniques or even weapons, such as daggers, nunchucks, whips, grenades, pistols, etc.
+
+All Reviews: [...] ## About This Game
+
+This game is a typical BEAT UP in the 80s style, with a good availability of blows in an intense storyline. Your mission is to help Azax, our hero, take revenge on an environmental NGO he was part of. To do this, he will attack the faction on several fronts, wiping out its leaders one by one. The game takes place in the city of Belém, on the eve of COP 30, and an environment threatened by possible political attacks from a criminal organization.",,release date,20,weak,Keywords ['release date'] (+20),general
+4039200,web_result,unknown_date,https://store.steampowered.com/app/4039200/Exterminauts,Exterminauts on Steam,"© 2026 Behaviour Interactive Inc. and Proxima Beta Pte. Limited. All rights reserved. EXTERMINAUTS and BEHAVIOUR are trademarks or registered trademarks of Behaviour Interactive Inc. All other trademarks and logos cited herein are the property of their respective owners.
+
+## What Curators Say
+
+You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam. [...] and power tools (i.e Ice Cannon, Acid foams) to shoot and kill the intergalactic pests. Combat is accompanied by frequent sprays of unrealistic alien blood and gore as players exterminate the alien pests with wide assortment of weapons and tools.   
+  
+Some mature language are used to express the blue-collar theme of the game.
+
+## System Requirements [...] STEAM
+Link to the Steam Homepage
+
+Exterminauts
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+|  | Interface | Full Audio | Subtitles |
+ ---  --- |
+| English | ✔ | ✔ | ✔ |
+| French | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+| Portuguese - Brazil | ✔ |  | ✔ |
+| Russian | ✔ |  | ✔ |
+| Simplified Chinese | ✔ | ✔ | ✔ |
+| Spanish - Latin America | ✔ |  | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+| Italian | ✔ |  | ✔ |",,,20,weak,Exact title match (+20),general
+4039200,web_result,unknown_date,https://spacemarine.fandom.com/wiki/Exterminatus,Exterminatus | Space Marine Wiki | Fandom,"Because extra hidden achievements were accidentally put up on Steam earlier (and subsequently removed), it is speculated that 9 more achievements may be added for Exterminatus later on.
+
+## Scoring[]
+
+Points are given for each kill in a manner like so:
+
+In addition, the player gain bonus points for special types of kills. Most of these bonus point modifiers are the same as the ones in Versus mode, such as ""Variety"", earned for dealing damage to the same enemy with multiple weapons. [...] # Exterminatus
+
+Exterminatus gameplay
+Exterminatus gameplay
+
+Exterminatus gameplay
+
+Exterminatus is a co-operative ""horde"" defense mode for up to four players in Warhammer 40,000: Space Marine. It was released as free DLC on October 25, 2011 for the PC and PlayStation 3, with the Xbox 360 version released on November 2, 2011.
+
+An new DLC called Chaos Unleashed was announced on November 3, planned for December 2011 and containing a new Exterminatus scenario playable as Chaos Space Marines. [...] Performance is scored and displayed on the leaderboards, encouraging players to take the risk on dynamic in-game challenges that pop up during play (for example, ""Kill 10 Orks in 10 seconds"") with extra lives and points up for grabs if a challenge is completed.
+
+Experience earned in Exterminatus counts towards multiplayer ranks, allowing players to level up in both Versus and Exterminatus simultaneously. Weapon and armor challenges, however, cannot be gained in Exterminatus.",,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+4039200,web_result,unknown_date,https://www.gamespot.com/videos/warhammer-40000-space-marine-exterminatus-launch-t/2300-6342162,"Warhammer 40,000: Space Marine - Exterminatus - Launch Trailer","The co-op mode for Warhammer 40,000: Space Marine - Exterminatus is now free for the PS3 and PC, with the Xbox 360 version to follow live",,trailer,20,weak,Keywords ['trailer'] (+20),general
+4039200,web_result,unknown_date,https://www.youtube.com/watch?v=XFv6dVl4YL4,"Warhammer 40,000: Space Marine Exterminatus Launch Trailer - Official",The Exterminatus Co-op mode is now available to download for free on PC & PS3 and will be available soon on Xbox Live.,,trailer,20,weak,Keywords ['trailer'] (+20),general
+4039200,web_result,unknown_date,https://spacemarine.fandom.com/wiki/Exterminatus,Exterminatus | Space Marine Wiki | Fandom,"## Scenarios[]
+
+### Assault on Hab Center Andreas[]
+
+...
+
+### Escape From Kalkys Facility[]
+
+...
+
+## Videos[]
+
+Warhammer_40,000_Space_Marine_Exterminatus_Launch_Trailer_-_Official     Warhammer_40,000_Space_Marine_-_Exterminatus_Co-op_DLC
+
+Warhammer_40,000_Space_Marine_Exterminatus_Launch_Trailer_-_Official
+Warhammer_40,000_Space_Marine_-_Exterminatus_Co-op_DLC
+
+## Gallery[]
+
+"")
+"")
+"")
+"")
+"")
+"")
+"")
+"")
+
+## External links[]
+
+## New to Fandom? Let's make it official. [...] # Exterminatus
+
+Exterminatus gameplay
+Exterminatus gameplay
+
+Exterminatus gameplay
+
+Exterminatus is a co-operative ""horde"" defense mode for up to four players in Warhammer 40,000: Space Marine. It was released as free DLC on October 25, 2011 for the PC and PlayStation 3, with the Xbox 360 version released on November 2, 2011.
+
+An new DLC called Chaos Unleashed was announced on November 3, planned for December 2011 and containing a new Exterminatus scenario playable as Chaos Space Marines. [...] ## Contents
+
+## Overview[]
+
+Coopshot1
+Coopshot1
+Coopshot2
+Coopshot2
+Coopshot4
+Coopshot4
+
+Exterminatus Mode pits an elite squad of up to four Space Marines against hordes of alien enemies in a score-based fight to the death. You can choose from the Tactical, Devastator or Assault Marine classes as well as utilize any weapons and perks available to those classes if you have unlocked them.",,"trailer, gameplay",20,weak,"Keywords ['trailer', 'gameplay'] (+20)",general
+4039200,web_result,unknown_date,https://spacemarine.fandom.com/wiki/Exterminatus,Exterminatus - Space Marine Wiki - Fandom,"# Exterminatus
+
+Exterminatus gameplay
+Exterminatus gameplay
+
+Exterminatus gameplay
+
+Exterminatus is a co-operative ""horde"" defense mode for up to four players in Warhammer 40,000: Space Marine. It was released as free DLC on October 25, 2011 for the PC and PlayStation 3, with the Xbox 360 version released on November 2, 2011.
+
+An new DLC called Chaos Unleashed was announced on November 3, planned for December 2011 and containing a new Exterminatus scenario playable as Chaos Space Marines. [...] Performance is scored and displayed on the leaderboards, encouraging players to take the risk on dynamic in-game challenges that pop up during play (for example, ""Kill 10 Orks in 10 seconds"") with extra lives and points up for grabs if a challenge is completed.
+
+Experience earned in Exterminatus counts towards multiplayer ranks, allowing players to level up in both Versus and Exterminatus simultaneously. Weapon and armor challenges, however, cannot be gained in Exterminatus. [...] ## Contents
+
+## Overview[]
+
+Coopshot1
+Coopshot1
+Coopshot2
+Coopshot2
+Coopshot4
+Coopshot4
+
+Exterminatus Mode pits an elite squad of up to four Space Marines against hordes of alien enemies in a score-based fight to the death. You can choose from the Tactical, Devastator or Assault Marine classes as well as utilize any weapons and perks available to those classes if you have unlocked them.",,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+4039200,web_result,unknown_date,https://www.youtube.com/watch?v=ZGTjZ6hgGMo,Space Marine Exterminatus!! Warhammer 40K: Space Marine ...,Gameplay from Warhammer Space Marine. Space Marine Exterminatus!! Space Marine Anniversary Edition - Exterminatus -2K 60fps. All 21 waves,,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+4039200,web_result,unknown_date,https://www.pcgamer.com/games/action/brother-your-world-faces-exterminatus-unless-you-watch-this-new-space-marine-2-gameplay-footage-right-now,"Brother, your world faces exterminatus unless you watch this new Space Marine 2 gameplay footage right now | PC Gamer","Titus and his squadmates as they carve through xenos scum. I've embedded it below, as The Emperor wills. [...] My excitement levels for Space Marine 2 have been fully restored. This feels like the inflection point after which, if it's a success, we could see more big budget 40k titles, eventually leading to my dream of Respawn creating an FPS set during the Horus Heresy. For now, if you're feeling thirsty to watch more purging, there is 30 minutes of 4K gameplay on the Punish channel, complete with zero commentary, so you can just enjoy the surprisingly well-written dialogue of Lieutenant Titus and his [...] Since then, the devs have had to deal with the fallout from a full build of the game leaking online, (at least it was long out of date), and more recently abandoned a planned public beta test in order to further focus on polish. Which brings us to this week, and a fresh round of playable impressions, the verdict from which is: Actually, this rips.",,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+4039200,web_result,unknown_date,https://www.iheart.com/artist/exterminatus-32294705/albums/demo-ll-365941330,Exterminatus - Demo ll,"Exterminatus - Demo ll. Betrayed By Life Records … radio and podcasts, all free. Listen online or download the iHeart App.",,demo,20,weak,Keywords ['demo'] (+20),general
+4039200,web_result,unknown_date,https://exterminatushc.bandcamp.com,Music | EXTERMINATUS,"EXTERMINATUS. Plymouth, UK. Hardcore from the BCITW. Betrayed By Life ... Demo II. Demo. Shopping cart. subtotal. taxes calculated at checkout. Check out",,demo,20,weak,Keywords ['demo'] (+20),general
+4039200,web_result,unknown_date,https://www.angrymetalguy.com/exterminatus-echoes-from-a-distant-star-part-1-review,Exterminatus - Echoes From a Distant Star Part 1 Review,"“Exterminatus” is a Warhammer 40k. Originally demoed in 2012, Echoes From a Distant Star Part I was to be the follow-up to Xenocide's debut",,demo,20,weak,Keywords ['demo'] (+20),general
+4039200,web_result,unknown_date,https://steamcommunity.com/id/texasermey/recommended/4546880,Review for Breaking Armor Demo - Exterminatus,Breaking Armor Demo … mounting crucial O2 tanks of the OUTSIDE of the tank turret making you vulnerable to small arms kind of defeats the,,demo,20,weak,Keywords ['demo'] (+20),general
+4039200,web_result,unknown_date,https://spacemarine.fandom.com/wiki/Exterminatus,Exterminatus - Space Marine Wiki - Fandom,"# Exterminatus
+
+Exterminatus gameplay
+Exterminatus gameplay
+
+Exterminatus gameplay
+
+Exterminatus is a co-operative ""horde"" defense mode for up to four players in Warhammer 40,000: Space Marine. It was released as free DLC on October 25, 2011 for the PC and PlayStation 3, with the Xbox 360 version released on November 2, 2011.
+
+An new DLC called Chaos Unleashed was announced on November 3, planned for December 2011 and containing a new Exterminatus scenario playable as Chaos Space Marines. [...] ## Contents
+
+## Overview[]
+
+Coopshot1
+Coopshot1
+Coopshot2
+Coopshot2
+Coopshot4
+Coopshot4
+
+Exterminatus Mode pits an elite squad of up to four Space Marines against hordes of alien enemies in a score-based fight to the death. You can choose from the Tactical, Devastator or Assault Marine classes as well as utilize any weapons and perks available to those classes if you have unlocked them. [...] ## Scenarios[]
+
+### Assault on Hab Center Andreas[]
+
+...
+
+### Escape From Kalkys Facility[]
+
+...
+
+## Videos[]
+
+Warhammer_40,000_Space_Marine_Exterminatus_Launch_Trailer_-_Official     Warhammer_40,000_Space_Marine_-_Exterminatus_Co-op_DLC
+
+Warhammer_40,000_Space_Marine_Exterminatus_Launch_Trailer_-_Official
+Warhammer_40,000_Space_Marine_-_Exterminatus_Co-op_DLC
+
+## Gallery[]
+
+"")
+"")
+"")
+"")
+"")
+"")
+"")
+"")
+
+## External links[]
+
+## New to Fandom? Let's make it official.",,"trailer, gameplay",20,weak,"Keywords ['trailer', 'gameplay'] (+20)",general
+4039200,web_result,unknown_date,https://spacemarine.fandom.com/wiki/Exterminatus,Exterminatus - Space Marine Wiki - Fandom,"# Exterminatus
+
+Exterminatus gameplay
+Exterminatus gameplay
+
+Exterminatus gameplay
+
+Exterminatus is a co-operative ""horde"" defense mode for up to four players in Warhammer 40,000: Space Marine. It was released as free DLC on October 25, 2011 for the PC and PlayStation 3, with the Xbox 360 version released on November 2, 2011.
+
+An new DLC called Chaos Unleashed was announced on November 3, planned for December 2011 and containing a new Exterminatus scenario playable as Chaos Space Marines. [...] ## Scenarios[]
+
+### Assault on Hab Center Andreas[]
+
+...
+
+### Escape From Kalkys Facility[]
+
+...
+
+## Videos[]
+
+Warhammer_40,000_Space_Marine_Exterminatus_Launch_Trailer_-_Official     Warhammer_40,000_Space_Marine_-_Exterminatus_Co-op_DLC
+
+Warhammer_40,000_Space_Marine_Exterminatus_Launch_Trailer_-_Official
+Warhammer_40,000_Space_Marine_-_Exterminatus_Co-op_DLC
+
+## Gallery[]
+
+"")
+"")
+"")
+"")
+"")
+"")
+"")
+"")
+
+## External links[]
+
+## New to Fandom? Let's make it official. [...] Because extra hidden achievements were accidentally put up on Steam earlier (and subsequently removed), it is speculated that 9 more achievements may be added for Exterminatus later on.
+
+## Scoring[]
+
+Points are given for each kill in a manner like so:
+
+In addition, the player gain bonus points for special types of kills. Most of these bonus point modifiers are the same as the ones in Versus mode, such as ""Variety"", earned for dealing damage to the same enemy with multiple weapons.",,"trailer, gameplay",20,weak,"Keywords ['trailer', 'gameplay'] (+20)",general
+4039200,web_result,unknown_date,https://spacemarine.fandom.com/wiki/Exterminatus,Exterminatus - Space Marine Wiki - Fandom,"# Exterminatus
+
+Exterminatus gameplay
+Exterminatus gameplay
+
+Exterminatus gameplay
+
+Exterminatus is a co-operative ""horde"" defense mode for up to four players in Warhammer 40,000: Space Marine. It was released as free DLC on October 25, 2011 for the PC and PlayStation 3, with the Xbox 360 version released on November 2, 2011.
+
+An new DLC called Chaos Unleashed was announced on November 3, planned for December 2011 and containing a new Exterminatus scenario playable as Chaos Space Marines. [...] ## Scenarios[]
+
+### Assault on Hab Center Andreas[]
+
+...
+
+### Escape From Kalkys Facility[]
+
+...
+
+## Videos[]
+
+Warhammer_40,000_Space_Marine_Exterminatus_Launch_Trailer_-_Official     Warhammer_40,000_Space_Marine_-_Exterminatus_Co-op_DLC
+
+Warhammer_40,000_Space_Marine_Exterminatus_Launch_Trailer_-_Official
+Warhammer_40,000_Space_Marine_-_Exterminatus_Co-op_DLC
+
+## Gallery[]
+
+"")
+"")
+"")
+"")
+"")
+"")
+"")
+"")
+
+## External links[]
+
+## New to Fandom? Let's make it official. [...] Performance is scored and displayed on the leaderboards, encouraging players to take the risk on dynamic in-game challenges that pop up during play (for example, ""Kill 10 Orks in 10 seconds"") with extra lives and points up for grabs if a challenge is completed.
+
+Experience earned in Exterminatus counts towards multiplayer ranks, allowing players to level up in both Versus and Exterminatus simultaneously. Weapon and armor challenges, however, cannot be gained in Exterminatus.",,"trailer, gameplay",20,weak,"Keywords ['trailer', 'gameplay'] (+20)",general
+4039200,web_result,unknown_date,https://www.shacknews.com/article/70774/free-space-marine-exterminatus-co-op-dlc-launches,Free Space Marine 'Exterminatus' co-op DLC launches | Shacknews,"Here's the announcement trailer, of which I'm sure the Emperor would approve.
+
+Jeff Mattas
+
+Filed Under
+
+ xbox 360
+ PlayStation 3
+ Relic Entertainment
+ THQ
+ PC
+
+From The Chatty
+
+Refresh Go To Thread
+
+ Shacknews legacy 10 years legacy 20 years
+
+   reply
+
+  October 25, 2011 5:00 PM [...] A new trailer for said 'Exterminatus' mode accompanies the launch, showing off the game's three classes--Assault, Devastator, and Tatical Marines--fending off waves of the Orkish horde. Experience earned while playing the two co-op maps--called ""Assault on Hab Center Andreas"" and ""Escape From Kalkys Facility"" contributes to the running XP total for multiplayer unlocks, which also means you'll retain access to perks and weapons unlocked while playing the game's competitive multiplayer modes. [...] Jeff Mattas
+
+3
+
+It might be time to slip into some power armor again and dust off your chainsword again--this time, with friends. some As promised, Relic Entertainment has released free co-op DLC for Warhammer 40,000: Space Marine today, called 'Exterminatus.' Available now for PC and PlayStation 3, the press release notes that the Xbox 360 version of the content will be available ""soon.""",,"trailer, announcement",20,weak,"Keywords ['trailer', 'announcement'] (+20)",general
+4039200,web_result,unknown_date,https://www.facebook.com/merlinminiatures/posts/its-nearly-time-to-say-exterminatus-to-2025another-year-purged-and-archived-than/741028705711727,It's nearly time to say Exterminatus to 2025⁣ ⁣ Another year purged and ...,"Coming in 2025 +++ In case you missed the announcement, the Emperor's Children will be making a suitably noisy entrance next year!",,announcement,20,weak,Keywords ['announcement'] (+20),general
+4039200,web_result,unknown_date,https://wh40k.lexicanum.com/wiki/Exterminatus,Exterminatus - Warhammer 40k - Lexicanum,"Exterminatus is essentially one of the many tools in the armoury of the Imperium, used in those cases where complete destruction is deemed a better solution than conventional or covert methods. The world in question may have fallen to Chaos worship, or its Imperial government overthrown and replaced by the rule of aliens such as Genestealers, or it may be a non-Imperial world harbouring an extraordinarily powerful and dangerous species of alien. Exterminatus is often a last resort taken when a [...] ## Overview
+
+Exterminatus is the most extreme method of dealing with some form of heresy, corruption or alien infiltration which has taken root within a planet's population. Accordingly it is only used in the most extreme of circumstances, when the level of corruption a world bears is so monumental that it cannot be wiped out by any other means. The destruction of the entire population is deemed necessary to prevent the contagion from spreading further.(#fn_4) [...] ## Images
+
+The Ordo Malleus arrives at Typhon Primaris and initiates Exterminatus with massed Orbital Strikes(#fn_2)
+
+Exterminatus depicted in Battlefleet Gothic: Armada ""Battlefleet Gothic: Armada (Video Game)"")
+
+## Related Videos
+
+Exterminatus trailer for Warhammer 40,000: Rogue Trader (Video Game) ""Warhammer 40,000: Rogue Trader (Video Game)"")(#fn_23)
+
+## Trivia",,trailer,20,weak,Keywords ['trailer'] (+20),general
+4039200,web_result,unknown_date,https://spacemarine.fandom.com/wiki/Exterminatus,Exterminatus - Space Marine Wiki - Fandom,"## Contents
+
+## Overview[]
+
+Coopshot1
+Coopshot1
+Coopshot2
+Coopshot2
+Coopshot4
+Coopshot4
+
+Exterminatus Mode pits an elite squad of up to four Space Marines against hordes of alien enemies in a score-based fight to the death. You can choose from the Tactical, Devastator or Assault Marine classes as well as utilize any weapons and perks available to those classes if you have unlocked them. [...] # Exterminatus
+
+Exterminatus gameplay
+Exterminatus gameplay
+
+Exterminatus gameplay
+
+Exterminatus is a co-operative ""horde"" defense mode for up to four players in Warhammer 40,000: Space Marine. It was released as free DLC on October 25, 2011 for the PC and PlayStation 3, with the Xbox 360 version released on November 2, 2011.
+
+An new DLC called Chaos Unleashed was announced on November 3, planned for December 2011 and containing a new Exterminatus scenario playable as Chaos Space Marines. [...] ## Scenarios[]
+
+### Assault on Hab Center Andreas[]
+
+...
+
+### Escape From Kalkys Facility[]
+
+...
+
+## Videos[]
+
+Warhammer_40,000_Space_Marine_Exterminatus_Launch_Trailer_-_Official     Warhammer_40,000_Space_Marine_-_Exterminatus_Co-op_DLC
+
+Warhammer_40,000_Space_Marine_Exterminatus_Launch_Trailer_-_Official
+Warhammer_40,000_Space_Marine_-_Exterminatus_Co-op_DLC
+
+## Gallery[]
+
+"")
+"")
+"")
+"")
+"")
+"")
+"")
+"")
+
+## External links[]
+
+## New to Fandom? Let's make it official.",,"trailer, gameplay",20,weak,"Keywords ['trailer', 'gameplay'] (+20)",general
+4039200,web_result,unknown_date,https://www.youtube.com/watch?v=OdH0TQ7d3Q8,Warhammer 40k: Space Marine - Exterminatus Mode Trailer - YouTube,"THQ today announced that the co-op mode for Warhammer 40000: Space Marine, 'Exterminatus' is available on Playstation 3 and PC to download",,trailer,20,weak,Keywords ['trailer'] (+20),general
+4039200,web_result,unknown_date,https://store.steampowered.com/app/3425580/The_Island_Exterminatus,The Island: Exterminatus on Steam,"All Games > Action Games > The Island: Exterminatus
+
+Community Hub
+
+The Island: Exterminatus
+
+The Island: Exterminatus
+
+Developer
+
+Victor Sardinha Bexiga
+
+Publisher
+
+BexigaGames
+
+Released
+
+Mar 15, 2025
+
+A futuristic game, with lots of beatings, in the best Pancadaria style! Punch down several enemies in an underground atmosphere through cyberpunk places! Use kicking, punching, grabbing techniques or even weapons, such as daggers, nunchucks, whips, grenades, pistols, etc.
+
+All Reviews: [...] See all 103 supported languages
+
+Title: The Island: Exterminatus  
+ Genre: Action, Adventure, Casual, Indie  
+
+Developer: Victor Sardinha Bexiga
+
+Publisher: BexigaGames
+
+Release Date: Mar 15, 2025
+
+Visit the website   Instagram   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Links & info
+
+## Buy Exterminatus: A Grim Odyssey
+
+$3.99
+
+Add to Cart;)
+
+View Community Hub
+
+## About This Game [...] All Reviews:
+
+1 user reviews  - Need more user reviews to generate a score
+
+Release Date:
+
+Mar 15, 2025
+
+Developer:
+
+Victor Sardinha Bexiga
+
+Publisher:
+
+BexigaGames
+
+Tags
+
+Popular user-defined tags for this product:
+
+Action  Indie  Beat 'em up  Hack and Slash  3D  Cyberpunk  Singleplayer  Stealth  Spectacle fighter  Ninja  Old School  1990's  Atmospheric  Fantasy  Casual  Adventure  Combat  Linear  Quick-Time Events  Story Rich 
+
++
+
+Reviews
+
+All Reviews:
+
+All Time: 1 user reviews ()",,release date,20,weak,Keywords ['release date'] (+20),general
+4039200,reddit_discussion,unknown_date,https://www.reddit.com/r/40kLore/comments/1dmjk8f/horus_heresy_book_23_angel_exterminatus_by_graham,Horus Heresy Book 23: Angel Exterminatus by Graham ...,Angel Exterminatus by Graham McNeil. It is a quest story. Alderi ancient superweapon known as the “Angel Exterminatus.” Graham McNeil (Limited,,,10,weak,Reddit (+10),general
+4039200,reddit_discussion,unknown_date,https://www.reddit.com/r/40kLore/comments/rl2b9m/what_exactly_is_the_process_for_declaring,What exactly is the process for declaring exterminatus like? - Reddit,"Exterminatus is basically a declaration of complete loss on the Imperium's part Inquisitor participating in the Third Tyrannic War, ordered a",,,10,weak,Reddit (+10),general
+4039200,reddit_discussion,unknown_date,https://www.reddit.com/r/Warhammer40k/comments/i0h0nb/what_i_imagine_exterminatus_looks_like,What I imagine Exterminatus looks like. : r/Warhammer40k - Reddit,Torkotah. •. 6y ago. That owl is more invasive than the inquisition... 2 more replies · Gadorian. •. 6y ago. I can smell this video. [deleted].,,,10,weak,Reddit (+10),general
+4039200,reddit_discussion,unknown_date,https://www.reddit.com/r/Warhammer40k/comments/1pf3jh7/how_legit_is_exterminatus_co,How legit is Exterminatus Co.? : r/Warhammer40k - Reddit,"Its 100% a scam . Not a scam necessarily, but is a dropshipping site for marked up cheap knockoff. its not really good quality or even actually",,,10,weak,Reddit (+10),general
+4039200,reddit_discussion,unknown_date,https://www.reddit.com/r/40kLore/comments/jyjj73/what_is_the_exterminatus_trilogy,"What is the ""Exterminatus trilogy"" ? : r/40kLore - Reddit",Exterminatus is a graphic novel published by Boom Studios which follows the story of Inquisitor Alastor as he investigates the appearance of a,,,10,weak,Reddit (+10),general
+4039200,reddit_discussion,unknown_date,https://www.reddit.com/r/40kLore/comments/a56rp8/what_are_the_criteriaswhat_is_the_process_of,What are the criterias/What is the process of Exterminatus?,"To launch your Exterminatus mission, you need to a) ensure that your Exterminatus payload will impact in numbers and saturation that will be",,,10,weak,Reddit (+10),general
+4039200,reddit_discussion,unknown_date,https://www.reddit.com/r/40kLore/comments/rl2b9m/what_exactly_is_the_process_for_declaring,What exactly is the process for declaring exterminatus like?,"Exterminatus is basically a declaration of complete loss on the Imperium's part, ordered when the planet is fully lost and unsalvageable.",,,10,weak,Reddit (+10),social
+4039200,reddit_discussion,unknown_date,https://www.reddit.com/r/Spacemarine/comments/1g4x9ml/at_this_point_why_no_exterminatus,At this point why no Exterminatus ? : r/Spacemarine,"Exterminatus is used to prevent a foothold, as Tyranids do not establish footholds, They come, they destroy, they consume, they leave. There is",,,10,weak,Reddit (+10),social
+4039200,reddit_discussion,unknown_date,https://www.reddit.com/r/40kLore/comments/10mhnd5/excerpt_rulebook_only_four_types_of_individuals,[Excerpt: Rulebook] Only four types of individuals can order ...,The order for Exterminatus is a death knell for a world. It calls for the complete eradication of all life on a planet.Read more,,,10,weak,Reddit (+10),social
+4039200,reddit_discussion,unknown_date,https://www.reddit.com/r/40kLore/comments/a56rp8/what_are_the_criteriaswhat_is_the_process_of,What are the criterias/What is the process of Exterminatus?,"Exterminatus normally involves moving ships with specialist munitions into orbit, calculating the correct spread and saturation for the ...Read more",,,10,weak,Reddit (+10),social
+4039200,reddit_discussion,unknown_date,https://www.reddit.com/r/40kLore/comments/133vzho/how_rare_is_exterminatus,How rare is exterminatus? : r/40kLore,"Some lore material imply the Imperium is all too happy to give out the order, others say it’s an order rarely given. How often does the Imperium carry",,,10,weak,Reddit (+10),social
+4039200,reddit_discussion,unknown_date,https://www.reddit.com/r/40kLore/comments/4dlhnd/how_common_is_an_exterminatus,How common is an Exterminatus? : r/40kLore,An exterminatus order typically wipes out all life on a planet. an exterminatus is the final action used to address a problematic planet.,,,10,weak,Reddit (+10),social
+4039200,social_post,unknown_date,https://www.tiktok.com/tag/exterminatus,exterminatus,solution this is known as exterminates. and that basically. means to exterminate all life on a planet. being overrun by tyrants.,,,5,weak,Social Index (+5),social
+4039200,social_post,unknown_date,https://shop.tiktok.com/us/k/angel-exterminatus,angel exterminatus,"Angel Exterminatus delves into the intricate and captivating world of Warhammer 40,000, offering readers a thrilling narrative filled with rich lore and complex",,,5,weak,Social Index (+5),social
+4039200,social_post,unknown_date,https://www.tiktok.com/@exterminatus471/video/7678106507564567840,Have no money #warhammer40k #warhammer #fy #fyp # ...,TikTok video from Exterminatus (@exterminatus471): “Have no money ・ warhammer figures | TikTok Global video community ・ themed work in,,,5,weak,Social Index (+5),social
+4039200,social_post,unknown_date,https://x.com/Strippin/status/1950786370718589057,For those who are asking 'what happened to the Wasps ...,Sam Thorne (@Strippin). 38 replies. For those who are asking 'what happened to the Wasps nest' Exterminatus.,,,5,weak,Social Index (+5),social
+4039200,social_post,unknown_date,https://x.com/JustMetallich/status/2089851511476023795,The whole Typhon Exterminatus mission is still so good ...,"The whole Typhon Exterminatus mission is still so good, might be one of my favorite mission in DoW.",,,5,weak,Social Index (+5),social
+4039200,social_post,unknown_date,https://x.com/GrahamMcNeill/status/2039125470604923183,Graham McNeill,the Lord of Iron commands you to reacquaint yourself with the events of Angel Exterminatus that forged the him into the terror he has become,,,5,weak,Social Index (+5),social
+4039200,social_post,unknown_date,https://x.com/theengingamer,John Deer Exterminatus🔞 (@theengingamer) / Posts / X,John Deer Exterminatus (@theengingamer) - Posts - a reposter of things i like. 22 sometimes on and off - im a cool dude i guess. | X (formerly Twitter),,,5,weak,Social Index (+5),social
+4039200,social_post,unknown_date,https://x.com/BoLSNEWS/status/2087042184260587817,Warhammer 40K: The Imperium's Ultimate Sanction,Warhammer 40K: The Imperium&#39;s Ultimate Sanction – Weapons of Exterminatus.,,,5,weak,Social Index (+5),social
+4039200,social_post,unknown_date,https://wh40k.lexicanum.com/wiki/Exterminatus,Exterminatus - Warhammer 40k - Lexicanum,"Exterminatus is essentially one of the many tools in the armoury of the Imperium, used in those cases where complete destruction is deemed a better solution than conventional or covert methods. The world in question may have fallen to Chaos worship, or its Imperial government overthrown and replaced by the rule of aliens such as Genestealers, or it may be a non-Imperial world harbouring an extraordinarily powerful and dangerous species of alien. Exterminatus is often a last resort taken when a [...] |  |  |  |
+ --- 
+| Planet name | Segmentum | Notes |
+| Agrellan | Ultima | Destroyed due to continued T'au occupation.text-middle(/wiki/Lexicanum:Citation ""Lexicanum:Citation"") |
+| Amun'an Morrus | Obscurus | Destroyed during the Angevin Crusade.text-middle(/wiki/Lexicanum:Citation ""Lexicanum:Citation"") |
+| Azoth |  | The planet was site of a Daemonic incursion and so was purged of life by the Revilers in 999.M37.text-middle(/wiki/Lexicanum:Citation ""Lexicanum:Citation"") | [...] ## Overview
+
+Exterminatus is the most extreme method of dealing with some form of heresy, corruption or alien infiltration which has taken root within a planet's population. Accordingly it is only used in the most extreme of circumstances, when the level of corruption a world bears is so monumental that it cannot be wiped out by any other means. The destruction of the entire population is deemed necessary to prevent the contagion from spreading further.(#fn_4)",,,5,weak,Social Index (+5),social
+4039200,social_post,unknown_date,https://warhammer40k.fandom.com/wiki/Exterminatus,Exterminatus - Warhammer 40k Wiki - Fandom,"When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. Click on the different category headings to find out more. For more information about the First and Third Party Cookies used please follow this link. 
+
+Privacy Policy
+
+Allow All
+### Categories & Purposes List [...] These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.
+
+### Cookie List
+
+Clear
+
+   - [x] checkbox label label 
+
+Apply Cancel [...] These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+#### Targeting Cookies
+
+- [x] Targeting Cookies",,,5,weak,Social Index (+5),social
+4039200,social_post,unknown_date,http://exterminatusnow.co.uk,Exterminatus Now -,"Exterminatus Now may be basically over, Service has been restored. It was originally written as a cliff-hangery epilogue for “Tangled Web”, before deciding to",,,5,weak,Social Index (+5),social
+4039200,social_post,unknown_date,https://www.quora.com/Can-you-explain-what-an-exterminatus-is-and-how-it-works-in-the-game-of-Warhammer-Is-it-a-weapon-or-power-that-is-exclusive-to-certain-factions,Can you explain what an exterminatus is and how it works ...,Can you explain what an exterminatus is and how it works in the game of Warhammer? Is it a weapon or power that is exclusive to certain factions?,,,5,weak,Social Index (+5),social
+4039200,web_result,unknown_date,https://steamcommunity.com/sharedfiles/filedetails?id=3233872665,Steam Community :: Guide :: Codex Exterminatus,"STEAM
+Link to the Steam Homepage
+
+### Warhammer 40,000: Space Marine - Anniversary Edition
+
+|  |  |
+ --- |
+| 5,085 | Unique Visitors |
+| 177 | Current Favorites |
+
+:SM2bloodangels:
+
+Close
+
+Close",,,0,weak,,general
+4039200,web_result,unknown_date,https://www.youtube.com/watch?v=HtiIzepujUk,Exterminatus - Space Marine's Co-Op Game Mode,for help at the top of your lungs and hope your homie could save you but they're also screaming because they're training around an orc while that is beating down on them like OverWatch 2 got beat down on when they thought it was a good idea to go on Steam one of my favorite parts of the game mode is how challenging is it doesn't pull any punches I'm pretty sure no matter how many people you have in your squad the game throws the amount of Orcs or chaos forces at you that is meant for four [...] least in the online circles I'm in and you probably already read the video title so I won't act like you're stupid it's extrem Anonymous mode from Space Marine which is a side mode you could do instead of multiplayer to get some sweet beautiful XP to slather all over your account cause I mean good luck trying to find a full Lobby to play Space Marine multiplayer with nowadays that's rarer than a small indie game developer from Finland making a Trippy first person shooter game which I mean it [...] waves but that's kind of the primer to get you ready for everything else you must have alternating enemy types depending on the type of app you're playing sometimes it starts off with you fighting Orcs And then chaos invades or sometimes it's just raw chaos throughout the entire thing as well as the Arenas changing allowing a different kind of feel for each and every Mission and despite its shortcomings because of its combination with the multiplayer XP system the game modes fire allowing you,,,0,weak,,general
+4039200,web_result,unknown_date,https://steamcommunity.com/sharedfiles/filedetails?id=3233872665,Steam Community :: Guide :: Codex Exterminatus,"STEAM
+Link to the Steam Homepage
+
+### Warhammer 40,000: Space Marine - Anniversary Edition
+
+|  |  |
+ --- |
+| 5,085 | Unique Visitors |
+| 177 | Current Favorites |
+
+:SM2bloodangels:
+
+Close
+
+Close",,,0,weak,,general
+4039200,web_result,unknown_date,https://booksrun.com/9781784964689-exterminatus-warhammer-40-000,Exterminatus (Warhammer 40000),"Publication date: 2016. Category: Sci-Fi, Comics, Graphic Novels. Series: Warhammer 40,000 (fiction) #1166. Other offers. Seller. Condition. Note. Price.",,,0,weak,,general
+4039200,web_result,unknown_date,https://wh40k.lexicanum.com/wiki/Angel_Exterminatus_(Novel),Angel Exterminatus (Novel) - Warhammer 40k - Lexicanum,"Released October 2012 Pages. A special edition hardback was released in October 2012, the mass-market paperback being released in July 2013.",,,0,weak,,general
+4039200,web_result,unknown_date,https://www.youtube.com/watch?v=,Drones are burning down Russian oil refineries one by one,"Back Image 1
+
+Skip navigation
+
+ Search 
+
+ Search with your voice 
+
+[](
+
+Sign in
+
+Image 2
+
+[](
+
+[](
+
+[](
+
+[](
+
+NaN / NaN
+
+Show more
+
+Image 3
+
+## Try searching to get started
+
+Start watching videos to help us build a feed of videos you'll love.
+
+[](",,,0,weak,,general
+4039200,web_result,unknown_date,https://wh40k.lexicanum.com/wiki/Exterminatus,Exterminatus - Warhammer 40k - Lexicanum,"## Overview
+
+Exterminatus is the most extreme method of dealing with some form of heresy, corruption or alien infiltration which has taken root within a planet's population. Accordingly it is only used in the most extreme of circumstances, when the level of corruption a world bears is so monumental that it cannot be wiped out by any other means. The destruction of the entire population is deemed necessary to prevent the contagion from spreading further.(#fn_4) [...] Inquisiton.png
+
+Exterminatus extremis(#fn_3) is the obliteration of a world's entire population through some form of weapon used from orbit or nearby space.
+
+## Overview [...] Exterminatus is essentially one of the many tools in the armoury of the Imperium, used in those cases where complete destruction is deemed a better solution than conventional or covert methods. The world in question may have fallen to Chaos worship, or its Imperial government overthrown and replaced by the rule of aliens such as Genestealers, or it may be a non-Imperial world harbouring an extraordinarily powerful and dangerous species of alien. Exterminatus is often a last resort taken when a",,,0,weak,,general
+4039200,web_result,unknown_date,https://steamcommunity.com/sharedfiles/filedetails?id=3233872665,Steam Community :: Guide :: Codex Exterminatus,"STEAM
+Link to the Steam Homepage
+
+### Warhammer 40,000: Space Marine - Anniversary Edition
+
+|  |  |
+ --- |
+| 5,085 | Unique Visitors |
+| 177 | Current Favorites |
+
+:SM2bloodangels:
+
+Close
+
+Close",,,0,weak,,general
+4039200,web_result,unknown_date,https://elitistbookreviews.com/2016/06/15/angel-exterminatus,Review: Angel Exterminatus by Graham McNeill - Elitist Book Reviews,"Complaints aside there is a ton to love about ANGEL EXTERMINATUS from McNeill’s portrayal of Perturabo to the continued downward spiral of Fulgrim and his legion. The ragtag band of loyalist space marine survivors of the Dropsite Massacre on Isstvan V were a nice addition. It was good to see the loyalists finally give back as good as they got and the lone Raven Guard space marine Nykona Sharrowkyn sold me on a legion I’ve never much cared for. It was cool to see the return of characters from [...] ANGEL EXTERMINATUS was the last book I bought from Black Library before I took my hiatus but I never got around to reading it. I’d love to go back in time and kick past-Nick for dropping the ball because it’s a fantastic addition to the Horus Heresy. Of all the traitor legions the Iron Warriors have always had a special place in my heart (thanks solely to McNeill’s STORM OF IRON and DEAD SKY BLACK SUN. Despite that I never considered Perturabo, Primarch of the Iron Warriors, to be especially [...] I’ve read, ANGEL EXTERMINATUS by Graham McNeill (Amazon), is the 23rd book in a series that is currently on its 37th installment. The books are penned by multiple authors, and all of the books are connected by larger events and characters but not all are necessarily sequential. It’s a truly impressive collaboration. It’s been ten years since Black Library began publishing the Horus Heresy and a lot has happened since the opening trilogy. ANGEL EXTERMINATUS is perhaps most closely tied to the",,,0,weak,,general
+4039200,web_result,unknown_date,https://www.angrymetalguy.com/exterminatus-echoes-from-a-distant-star-part-1-review,Exterminatus - Echoes From a Distant Star Part 1 Review | Angry Metal Guy,"Exterminatus mostly operates in overdrive on Echoes, peppering the limited moments of empty space with Faceless-esque grooves and melodic leads",,,0,weak,,general
+4039200,web_result,unknown_date,https://davidmuscatliterature.wordpress.com/2026/05/10/book-review-angel-exterminatus,Book review: Angel Exterminatus - David Muscat Literature,"It contains everything we all adore about Warhammer – butchery, betrayal and planet-destroying goodness. It's unashamedly gratuitous, The",,,0,weak,,general
+4039200,web_result,unknown_date,http://www.mengelminiatures.com/2015/04/review-angel-exterminatus.html,Mengel Miniatures: REVIEW: Angel Exterminatus,"Mengel Miniatures
+
+## Navigation Bar
+
+ Painting Tutorials
+ The Army Painter Blog
+ Book & Game Reviews
+ Interviews
+ Mini of the Week
+ YouTube Channel
+
+## Monday, April 20, 2015
+
+### REVIEW: Angel Exterminatus
+
+   
+
+Email ThisBlogThis!Share to XShare to FacebookShare to Pinterest
+
+Labels: Review, Warhammer 40K
+
+#### No comments:
+
+#### Post a Comment
+
+Subscribe to: Post Comments (Atom)",,,0,weak,,general
+4039200,web_result,unknown_date,https://elitistbookreviews.com/2016/06/15/angel-exterminatus,Review: Angel Exterminatus by Graham McNeill,"I’ve read, ANGEL EXTERMINATUS by Graham McNeill (Amazon), is the 23rd book in a series that is currently on its 37th installment. The books are penned by multiple authors, and all of the books are connected by larger events and characters but not all are necessarily sequential. It’s a truly impressive collaboration. It’s been ten years since Black Library began publishing the Horus Heresy and a lot has happened since the opening trilogy. ANGEL EXTERMINATUS is perhaps most closely tied to the [...] closely tied to the fifth book in the series, FULGRIM (Amazon), also written by Graham McNeill. ANGEL EXTERMINATUS is also a prequel of sorts to several of Graham McNeill’s books set 10,000 years after the Horus Heresy two of my favorite 40k books: STORM OF IRON (Amazon), DEAD SKY BLACK SUN (Amazon); one of my least favorite: CHAPTER’S DUE (Amazon). In any case, ANGEL EXTERMINATUS is not the place for newbies to start. [...] ## Review Tags
+
+alternate history Anthology Audible Books for Chicks Books vs. Shows Collection Fairy Tales fantasy Ghost Stories Graphic Novels historical fantasy Hugo Awards LGBTQ+ Occult Fantasy RPGs Self-Published Science Fiction Competition Short Fiction Speculatively Lite Subterranean Press The Great Self-published Fantasy Blog-off
+
+## Recent Comments
+
+ Mary on The Goblin Emperor",,,0,weak,,general
+4039200,web_result,unknown_date,https://www.youtube.com/watch?v=-ForIrRBbBw,"40K EXTERMINATUS - The Planet Killer | Warhammer 40,000 Lore/History","Games workshop, Warhammer 40,000, Warhammer, 40k, Space Marine Etc are all Trademarks of Games Workshop Ltd. Games Workshop does not endorse or support the 'Lore' videos. All views and opinions expressed in this video belong to Luetin09 and in no way reflect the views or opinions of Games Workshop Ltd. [...] This video is an opinion editorial commentary.
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use purposes such as criticism, commentary, parody, news reporting, teaching, scholarship, and research.
+
+All works used in this video (Images, audio etc) belong to their respective authors
+(This does not include the audio commentary or licensed BGM). [...] act of defiance in the face of the many enemies of man exterminators has been used to cleanse planets rightfully owned by mankind in the face of unrecoverable and planet-wide heresy Mutai no disease that has spread like wildfire past the point of return to stop Warcraft's opening or when they have already become too severe it is also employed when xenos are so entrenched that a planet is considered too costly to recover this is not especially common because the disposable manpower the Imperium",,,0,weak,,general
+4039200,web_result,unknown_date,https://www.amazon.com/Warhammer-000-Exterminatus-Dan-Abnett/dp/1934506559,Warhammer 40000: Exterminatus - Amazon.com,"Warhammer 40000: Exterminatus [Dan Abnett, Ian Edginton, Daniel Lapham, Kevin Hopgood] on Amazon.com. *FREE* shipping on qualifying offers.",,,0,weak,,general
+4039200,web_result,unknown_date,https://warhammer40k.fandom.com/wiki/Exterminatus,Exterminatus,"## Sources
+
+   _Warhammer 40,000: Rulebook_ (6th Edition), pg. 154
+   _Ultramarines Series_ (Novels) by Graham McNeill
+   _Inquisition War Trilogy_ (Novels) by Ian Watson
+   _Fall of Macharius_ (Novel) by William King, pp. 215-217
+   _Dawn of War II_ (PC Game)
+   _Dawn of War II - Retribution_ (PC Game)
+   _Warhammer 40,000: Fire Warrior ""Fire Warrior (Game)"")_ (Video Game) (Campaign Ending Cutscene)
+
+ Categories [...] Categories 
+
+   Categories: 
+   E
+   Adepts
+   Imperial Guard
+   Imperial Navy
+   Imperium
+   Imperial weapons
+   Inquisition
+   Space Marines
+   Weapons
+
+ Languages 
+
+Español
+
+ Community content is available under CC-BY-SA unless otherwise noted. 
+
+ More Fandoms 
+
+   Fantasy
+   Sci-fi
+
+ Advertisement 
+
+ Advertisement 
+
+ Advertisement 
+
+## Image 7: Fandom logo
+
+### Explore properties
+
+   Fandom
+   Fanatical
+   GameSpot
+   Metacritic
+   TV Guide
+   Honest Entertainment
+
+### Follow Us [...] These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.
+
+### Cookie List
+
+Clear
+
+   - [x] checkbox label label 
+
+Apply Cancel",,,0,weak,,general
+4039200,web_result,unknown_date,https://warhammer40k.fandom.com/wiki/Exterminatus,Exterminatus - Warhammer 40k Wiki - Fandom,"## Sources
+
+   _Warhammer 40,000: Rulebook_ (6th Edition), pg. 154
+   _Ultramarines Series_ (Novels) by Graham McNeill
+   _Inquisition War Trilogy_ (Novels) by Ian Watson
+   _Fall of Macharius_ (Novel) by William King, pp. 215-217
+   _Dawn of War II_ (PC Game)
+   _Dawn of War II - Retribution_ (PC Game)
+   _Warhammer 40,000: Fire Warrior ""Fire Warrior (Game)"")_ (Video Game) (Campaign Ending Cutscene)
+
+ Categories [...] Recently, during the 13 th Black Crusade of 999.M41, Lord CastellanUrsarkar E. Creed, the Planetary Governor of Cadia and Imperial Commander of the entire Cadian Sector of the Segmentum Obscurus, ordered a massive nuclear fusion Plasma Reactor (Generatorium), on the prison world of St. Josmane's Hope in the Cadia System to be overloaded when it seemed that the forces of Chaos would finally take the world. [...] ### Other
+
+During the conquest of the world of Loki, Lord Commander Solar Macharius ordered the destruction of the entire world. Macharius instructed the Tech-priests to change the orbit of Loki's moon, which was achieved by using huge machines placed on the surface that employed massive plasma drives to reposition the moon into the correct orbital path.",,,0,weak,,general
+4039200,web_result,unknown_date,https://developer.valvesoftware.com/wiki/Exterminatus,Exterminatus,The playable beta version of Exterminatus is available for download from The 40k Source Website. This download includes Three Species: Imperials,,,0,weak,,general
+4039200,web_result,unknown_date,https://steamcommunity.com/sharedfiles/filedetails?id=,A beginner's guide to hordes in Total War: Attila,"Link to the Steam Homepage%20--%3e%3c!DOCTYPE%20svg%20PUBLIC%20'-//W3C//DTD%20SVG%201.1//EN'%20'
+
+Install Steam sign in  | [...] 简体中文 (Simplified Chinese)繁體中文 (Traditional Chinese)日本語 (Japanese)한국어 (Korean)ไทย (Thai)Bahasa Indonesia (Indonesian)Bahasa Melayu (Malay)BETAБългарски (Bulgarian)Čeština (Czech)Dansk (Danish)Deutsch (German)EnglishEspañol - España (Spanish - Spain)Español - Latinoamérica (Spanish - Latin America)Ελληνικά (Greek)Français (French)Italiano (Italian)Magyar (Hungarian)Nederlands (Dutch)Norsk (Norwegian)Polski (Polish)Português - Portugal (Portuguese - Portugal)Português - Brasil (Portuguese - [...] # Sorry!
+
+An error was encountered while processing your request:
+
+You've made too many requests recently. Please wait and try your request again later.",,,0,weak,,general

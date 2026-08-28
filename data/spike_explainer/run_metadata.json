@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-08-27T22:14:12.043897+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260827_220429/rank_changes.csv",
-    "selected_appid": "4604540",
-    "selected_game_title": "TARAE: The Unbound",
+    "started_at": "2026-08-28T10:58:00.894454+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260828_104743/rank_changes.csv",
+    "selected_appid": "4039200",
+    "selected_game_title": "Exterminauts",
     "top_n": 1,
-    "old_snapshot_date": "2026-08-24",
-    "new_snapshot_date": "2026-08-27",
+    "old_snapshot_date": "2026-08-25",
+    "new_snapshot_date": "2026-08-28",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-08-27T22:14:12.043913+00:00",
+    "finished_at": "2026-08-28T10:58:00.894467+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

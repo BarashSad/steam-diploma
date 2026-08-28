@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-4604540,TARAE: The Unbound,"site:pcgamer.com ""TARAE: The Unbound""",press,2,tavily,False,General budget exhausted,0
-4604540,TARAE: The Unbound,"site:rockpapershotgun.com ""TARAE: The Unbound""",press,2,tavily,False,General budget exhausted,0
-4604540,TARAE: The Unbound,"site:ign.com ""TARAE: The Unbound""",press,2,tavily,False,General budget exhausted,0
-4604540,TARAE: The Unbound,"site:gamespot.com ""TARAE: The Unbound""",press,2,tavily,False,General budget exhausted,0
-4604540,TARAE: The Unbound,"site:game8.co ""TARAE: The Unbound""",press,2,tavily,False,General budget exhausted,0
+4039200,Exterminauts,"site:pcgamer.com ""Exterminauts""",press,2,tavily,False,General budget exhausted,0
+4039200,Exterminauts,"site:rockpapershotgun.com ""Exterminauts""",press,2,tavily,False,General budget exhausted,0
+4039200,Exterminauts,"site:ign.com ""Exterminauts""",press,2,tavily,False,General budget exhausted,0
+4039200,Exterminauts,"site:gamespot.com ""Exterminauts""",press,2,tavily,False,General budget exhausted,0
+4039200,Exterminauts,"site:game8.co ""Exterminauts""",press,2,tavily,False,General budget exhausted,0

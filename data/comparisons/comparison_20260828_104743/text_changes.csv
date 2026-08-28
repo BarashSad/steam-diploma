@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4814120,ANANTA,ANANTA,207,196,11,11,up,none,Free,Free,False,Coming soon,"Jan 15, 2027",True
+4218620,Double Dealers,Double Dealers,745,747,-2,2,down,none,Free,Unpriced (Coming Soon),True,Coming soon,September 2026,True
+4258290,We Are So Cooked,We Are So Cooked,122,123,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Oct 15, 2026",True
+2161710,NO LAW,NO LAW,58,58,0,0,stable,none,Unpriced (Coming Soon),Free,True,To be announced,2027,True
