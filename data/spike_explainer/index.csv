@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-08-28T22:12:26.942730+00:00,4039200,Exterminauts,data/spike_explainer/2026-08-28__appid_4039200__rank_952_to_893__up_59,59,90,data/spike_explainer/2026-08-28__appid_4039200__rank_952_to_893__up_59/llm_summary_input.md
+2026-08-29T06:44:47.695765+00:00,4039200,Exterminauts,data/spike_explainer/2026-08-29__appid_4039200__rank_893_to_868__up_25,25,90,data/spike_explainer/2026-08-29__appid_4039200__rank_893_to_868__up_25/llm_summary_input.md
