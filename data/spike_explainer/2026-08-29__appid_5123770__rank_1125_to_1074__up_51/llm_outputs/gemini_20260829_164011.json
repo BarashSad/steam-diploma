@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-08-29T16:40:11.277362+00:00",
+    "timestamp": "20260829_164011",
+    "input_file": "data/spike_explainer/2026-08-29__appid_5123770__rank_1125_to_1074__up_51/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-08-29__appid_5123770__rank_1125_to_1074__up_51/llm_outputs/gemini_20260829_164011.md",
+    "game_title": "Ylem's Cat",
+    "appid": "5123770",
+    "duration_sec": 22.31,
+    "response_length": 5821,
+    "error": null
+}

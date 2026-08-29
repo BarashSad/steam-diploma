@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5123770,Ylem's Cat,"""Ylem's Cat"" Steam",general,1,tavily,True,,5
+5123770,Ylem's Cat,"""Ylem's Cat"" trailer",general,1,tavily,True,,5
+5123770,Ylem's Cat,"""Ylem's Cat"" gameplay",general,1,tavily,True,,5
+5123770,Ylem's Cat,"""Ylem's Cat"" demo",general,1,tavily,True,,5
+5123770,Ylem's Cat,"""Ylem's Cat"" release date",general,1,tavily,True,,5
+5123770,Ylem's Cat,"""Ylem's Cat"" announcement",general,1,tavily,True,,5
+5123770,Ylem's Cat,"""Ylem's Cat"" preview",general,1,tavily,True,,5
+5123770,Ylem's Cat,"""Ylem's Cat"" review",general,1,tavily,True,,5
+5123770,Ylem's Cat,"""Ylem's Cat"" publisher",general,1,tavily,True,,3
+5123770,Ylem's Cat,"""Ylem's Cat"" developer",general,1,tavily,True,,5
+5123770,Ylem's Cat,"site:pcgamer.com ""Ylem's Cat""",press,2,tavily,False,General budget exhausted,0
+5123770,Ylem's Cat,"site:rockpapershotgun.com ""Ylem's Cat""",press,2,tavily,False,General budget exhausted,0
+5123770,Ylem's Cat,"site:ign.com ""Ylem's Cat""",press,2,tavily,False,General budget exhausted,0
+5123770,Ylem's Cat,"site:gamespot.com ""Ylem's Cat""",press,2,tavily,False,General budget exhausted,0
+5123770,Ylem's Cat,"site:game8.co ""Ylem's Cat""",press,2,tavily,False,General budget exhausted,0
+5123770,Ylem's Cat,"site:reddit.com ""Ylem's Cat""",social,3,tavily,True,,5
+5123770,Ylem's Cat,"site:tiktok.com ""Ylem's Cat""",social,4,tavily,True,,5
+5123770,Ylem's Cat,"site:instagram.com ""Ylem's Cat""",social,4,tavily,True,,4
+5123770,Ylem's Cat,"site:x.com ""Ylem's Cat""",social,4,tavily,True,,5
+5123770,Ylem's Cat,"site: ""Ylem's Cat""",social,4,tavily,True,,5
