@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4604540,TARAE: The Unbound,"""TARAE: The Unbound"" Steam",general,1,tavily,True,,5
+4604540,TARAE: The Unbound,"""TARAE: The Unbound"" trailer",general,1,tavily,True,,4
+4604540,TARAE: The Unbound,"""TARAE: The Unbound"" gameplay",general,1,tavily,True,,5
+4604540,TARAE: The Unbound,"""TARAE: The Unbound"" demo",general,1,tavily,True,,5
+4604540,TARAE: The Unbound,"""TARAE: The Unbound"" release date",general,1,tavily,True,,5
+4604540,TARAE: The Unbound,"""TARAE: The Unbound"" announcement",general,1,tavily,True,,5
+4604540,TARAE: The Unbound,"""TARAE: The Unbound"" preview",general,1,tavily,True,,5
+4604540,TARAE: The Unbound,"""TARAE: The Unbound"" review",general,1,tavily,True,,5
+4604540,TARAE: The Unbound,"""TARAE: The Unbound"" publisher",general,1,tavily,True,,5
+4604540,TARAE: The Unbound,"""TARAE: The Unbound"" developer",general,1,tavily,True,,4
+4604540,TARAE: The Unbound,"site:pcgamer.com ""TARAE: The Unbound""",press,2,tavily,False,General budget exhausted,0
+4604540,TARAE: The Unbound,"site:rockpapershotgun.com ""TARAE: The Unbound""",press,2,tavily,False,General budget exhausted,0
+4604540,TARAE: The Unbound,"site:ign.com ""TARAE: The Unbound""",press,2,tavily,False,General budget exhausted,0
+4604540,TARAE: The Unbound,"site:gamespot.com ""TARAE: The Unbound""",press,2,tavily,False,General budget exhausted,0
+4604540,TARAE: The Unbound,"site:game8.co ""TARAE: The Unbound""",press,2,tavily,False,General budget exhausted,0
+4604540,TARAE: The Unbound,"site:reddit.com ""TARAE: The Unbound""",social,3,tavily,True,,5
+4604540,TARAE: The Unbound,"site:tiktok.com ""TARAE: The Unbound""",social,4,tavily,True,,5
+4604540,TARAE: The Unbound,"site:instagram.com ""TARAE: The Unbound""",social,4,tavily,True,,5
+4604540,TARAE: The Unbound,"site:x.com ""TARAE: The Unbound""",social,4,tavily,True,,5
+4604540,TARAE: The Unbound,"site: ""TARAE: The Unbound""",social,4,tavily,True,,5
