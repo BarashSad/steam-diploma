@@ -1,0 +1,29 @@
+{
+    "appnews": {
+        "appid": 2870790,
+        "newsitems": [
+            {
+                "gid": "1842212951297023",
+                "title": "Dumpster Gang is coming December 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297023",
+                "is_external_url": true,
+                "author": "Natalie_Curve",
+                "contents": "Attention all raccoons!\u00a0It\u2019s Sam and Jake here, developers of Dumpster Gang! We're so excited to finally introduce this chaotic co-op sandbox! Dang, it\u2019s been tough to keep this one a secret...\u00a0Grab up to four players or go solo as you play as mischievous raccoons causing as much mayhem as possible. Steal shiny junk. Knock over trash cans. Raid snacks. Escape a very angry exterminator. Amass the greatest hoard the forest has ever known.\u00a0Basically... live your best raccoon life.\u00a0Our very first trailer is here!!!!\u00a0If our trailer has awakened your inner trash bandit, please wishlist Dumpster Gang and follow the game here on Steam! It really helps our tiny team.\u00a0You can also join us on DISCORD and become part of our new community! We\u2019ll be sharing lots of exciting stuff there and we\u2019d love to chat.\u00a0Welcome to the Gang! \ud83e\udd9d\u00a0Sam & Jake\u00a0",
+                "feedlabel": "Community Announcements",
+                "date": 1787753517,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2870790,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1894963720_1787753654_0",
+                    "ModAct_1894963720_1787755788_4",
+                    "ModAct_1894963720_1787756310_4",
+                    "ModAct_1607812438_1787758688_4",
+                    "mod_require_rereview"
+                ]
+            }
+        ],
+        "count": 1
+    }
+}
