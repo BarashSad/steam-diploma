@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4821880,Roco Kingdom,"""Roco Kingdom"" Steam",general,1,tavily,True,,5
+4821880,Roco Kingdom,"""Roco Kingdom"" trailer",general,1,tavily,True,,5
+4821880,Roco Kingdom,"""Roco Kingdom"" gameplay",general,1,tavily,True,,5
+4821880,Roco Kingdom,"""Roco Kingdom"" demo",general,1,tavily,True,,5
+4821880,Roco Kingdom,"""Roco Kingdom"" release date",general,1,tavily,True,,5
+4821880,Roco Kingdom,"""Roco Kingdom"" announcement",general,1,tavily,True,,5
+4821880,Roco Kingdom,"""Roco Kingdom"" preview",general,1,tavily,True,,5
+4821880,Roco Kingdom,"""Roco Kingdom"" review",general,1,tavily,True,,5
+4821880,Roco Kingdom,"""Roco Kingdom"" publisher",general,1,tavily,True,,5
+4821880,Roco Kingdom,"""Roco Kingdom"" developer",general,1,tavily,True,,5
+4821880,Roco Kingdom,"site:pcgamer.com ""Roco Kingdom""",press,2,tavily,False,General budget exhausted,0
+4821880,Roco Kingdom,"site:rockpapershotgun.com ""Roco Kingdom""",press,2,tavily,False,General budget exhausted,0
+4821880,Roco Kingdom,"site:ign.com ""Roco Kingdom""",press,2,tavily,False,General budget exhausted,0
+4821880,Roco Kingdom,"site:gamespot.com ""Roco Kingdom""",press,2,tavily,False,General budget exhausted,0
+4821880,Roco Kingdom,"site:game8.co ""Roco Kingdom""",press,2,tavily,False,General budget exhausted,0
+4821880,Roco Kingdom,"site:reddit.com ""Roco Kingdom""",social,3,tavily,True,,5
+4821880,Roco Kingdom,"site:tiktok.com ""Roco Kingdom""",social,4,tavily,True,,5
+4821880,Roco Kingdom,"site:instagram.com ""Roco Kingdom""",social,4,tavily,True,,5
+4821880,Roco Kingdom,"site:x.com ""Roco Kingdom""",social,4,tavily,True,,5
+4821880,Roco Kingdom,"site: ""Roco Kingdom""",social,4,tavily,True,,5
