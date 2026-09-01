@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-09-01T04:40:38.013508+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260901_043045/rank_changes.csv",
-    "selected_appid": "4821880",
-    "selected_game_title": "Roco Kingdom",
+    "started_at": "2026-09-01T16:30:14.619991+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260901_162131/rank_changes.csv",
+    "selected_appid": "2843060",
+    "selected_game_title": "Into the Wind",
     "top_n": 1,
     "old_snapshot_date": "2026-08-29",
     "new_snapshot_date": "2026-09-01",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-01T04:40:38.013524+00:00",
+    "finished_at": "2026-09-01T16:30:14.620008+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

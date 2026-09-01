@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+2843060,Into the Wind,"""Into the Wind"" Steam",general,1,tavily,True,,5
+2843060,Into the Wind,"""Into the Wind"" trailer",general,1,tavily,True,,2
+2843060,Into the Wind,"""Into the Wind"" gameplay",general,1,tavily,True,,3
+2843060,Into the Wind,"""Into the Wind"" demo",general,1,tavily,True,,5
+2843060,Into the Wind,"""Into the Wind"" release date",general,1,tavily,True,,5
+2843060,Into the Wind,"""Into the Wind"" announcement",general,1,tavily,True,,5
+2843060,Into the Wind,"""Into the Wind"" preview",general,1,tavily,True,,5
+2843060,Into the Wind,"""Into the Wind"" review",general,1,tavily,True,,5
+2843060,Into the Wind,"""Into the Wind"" publisher",general,1,tavily,True,,5
+2843060,Into the Wind,"""Into the Wind"" developer",general,1,tavily,True,,5
+2843060,Into the Wind,"site:pcgamer.com ""Into the Wind""",press,2,tavily,False,General budget exhausted,0
+2843060,Into the Wind,"site:rockpapershotgun.com ""Into the Wind""",press,2,tavily,False,General budget exhausted,0
+2843060,Into the Wind,"site:ign.com ""Into the Wind""",press,2,tavily,False,General budget exhausted,0
+2843060,Into the Wind,"site:gamespot.com ""Into the Wind""",press,2,tavily,False,General budget exhausted,0
+2843060,Into the Wind,"site:game8.co ""Into the Wind""",press,2,tavily,False,General budget exhausted,0
+2843060,Into the Wind,"site:reddit.com ""Into the Wind""",social,3,tavily,True,,5
+2843060,Into the Wind,"site:tiktok.com ""Into the Wind""",social,4,tavily,True,,3
+2843060,Into the Wind,"site:instagram.com ""Into the Wind""",social,4,tavily,True,,5
+2843060,Into the Wind,"site:x.com ""Into the Wind""",social,4,tavily,True,,5
+2843060,Into the Wind,"site: ""Into the Wind""",social,4,tavily,True,,5

@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-01T16:30:14.718224+00:00",
+    "timestamp": "20260901_163014",
+    "input_file": "data/spike_explainer/2026-09-01__appid_2843060__rank_507_to_473__up_34/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-01__appid_2843060__rank_507_to_473__up_34/llm_outputs/gemini_20260901_163014.md",
+    "game_title": "Into the Wind",
+    "appid": "2843060",
+    "duration_sec": 24.1,
+    "response_length": 6015,
+    "error": null
+}

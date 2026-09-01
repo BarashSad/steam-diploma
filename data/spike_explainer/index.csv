@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-09-01T04:40:18.512312+00:00,4821880,Roco Kingdom,data/spike_explainer/2026-09-01__appid_4821880__rank_924_to_884__up_40,40,85,data/spike_explainer/2026-09-01__appid_4821880__rank_924_to_884__up_40/llm_summary_input.md
+2026-09-01T16:29:49.277995+00:00,2843060,Into the Wind,data/spike_explainer/2026-09-01__appid_2843060__rank_507_to_473__up_34,34,85,data/spike_explainer/2026-09-01__appid_2843060__rank_507_to_473__up_34/llm_summary_input.md
