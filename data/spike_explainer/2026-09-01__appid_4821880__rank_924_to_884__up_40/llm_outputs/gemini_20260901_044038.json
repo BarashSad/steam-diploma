@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-01T04:40:38.116640+00:00",
+    "timestamp": "20260901_044038",
+    "input_file": "data/spike_explainer/2026-09-01__appid_4821880__rank_924_to_884__up_40/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-01__appid_4821880__rank_924_to_884__up_40/llm_outputs/gemini_20260901_044038.md",
+    "game_title": "Roco Kingdom",
+    "appid": "4821880",
+    "duration_sec": 13.52,
+    "response_length": 5659,
+    "error": null
+}

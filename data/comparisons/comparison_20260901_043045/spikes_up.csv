@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4821880,Roco Kingdom,Roco Kingdom,924,884,40,40,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+2870790,Dumpster Gang,Dumpster Gang,866,828,38,38,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,December 2026,December 2026,False
+4412000,Zad Archery,Zad Archery,1001,969,32,32,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 1, 2026","Sep 1, 2026",False
+4216080,Wolcen 2,Wolcen 2,895,868,27,27,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4513480,Scarlet Skips,Scarlet Skips,625,604,21,21,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 3, 2026","Sep 3, 2026",False
