@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4163960,Another Eden Begins,"""Another Eden Begins"" Steam",general,1,tavily,True,,5
+4163960,Another Eden Begins,"""Another Eden Begins"" trailer",general,1,tavily,True,,5
+4163960,Another Eden Begins,"""Another Eden Begins"" gameplay",general,1,tavily,True,,4
+4163960,Another Eden Begins,"""Another Eden Begins"" demo",general,1,tavily,True,,5
+4163960,Another Eden Begins,"""Another Eden Begins"" release date",general,1,tavily,True,,5
+4163960,Another Eden Begins,"""Another Eden Begins"" announcement",general,1,tavily,True,,5
+4163960,Another Eden Begins,"""Another Eden Begins"" preview",general,1,tavily,True,,5
+4163960,Another Eden Begins,"""Another Eden Begins"" review",general,1,tavily,True,,5
+4163960,Another Eden Begins,"""Another Eden Begins"" publisher",general,1,tavily,True,,5
+4163960,Another Eden Begins,"""Another Eden Begins"" developer",general,1,tavily,True,,5
+4163960,Another Eden Begins,"site:pcgamer.com ""Another Eden Begins""",press,2,tavily,False,General budget exhausted,0
+4163960,Another Eden Begins,"site:rockpapershotgun.com ""Another Eden Begins""",press,2,tavily,False,General budget exhausted,0
+4163960,Another Eden Begins,"site:ign.com ""Another Eden Begins""",press,2,tavily,False,General budget exhausted,0
+4163960,Another Eden Begins,"site:gamespot.com ""Another Eden Begins""",press,2,tavily,False,General budget exhausted,0
+4163960,Another Eden Begins,"site:game8.co ""Another Eden Begins""",press,2,tavily,False,General budget exhausted,0
+4163960,Another Eden Begins,"site:reddit.com ""Another Eden Begins""",social,3,tavily,True,,5
+4163960,Another Eden Begins,"site:tiktok.com ""Another Eden Begins""",social,4,tavily,True,,5
+4163960,Another Eden Begins,"site:instagram.com ""Another Eden Begins""",social,4,tavily,True,,5
+4163960,Another Eden Begins,"site:x.com ""Another Eden Begins""",social,4,tavily,True,,5
+4163960,Another Eden Begins,"site: ""Another Eden Begins""",social,4,tavily,True,,5

@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Wolcen 2
+Analyzed: Another Eden Begins
 Tavily Budget Used: 15
 Errors: 0
