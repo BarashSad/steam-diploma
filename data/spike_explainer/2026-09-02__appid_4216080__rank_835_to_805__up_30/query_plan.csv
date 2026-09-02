@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4216080,Wolcen 2,"""Wolcen 2"" Steam",general,1,tavily,True,,5
+4216080,Wolcen 2,"""Wolcen 2"" trailer",general,1,tavily,True,,5
+4216080,Wolcen 2,"""Wolcen 2"" gameplay",general,1,tavily,True,,5
+4216080,Wolcen 2,"""Wolcen 2"" demo",general,1,tavily,True,,5
+4216080,Wolcen 2,"""Wolcen 2"" release date",general,1,tavily,True,,5
+4216080,Wolcen 2,"""Wolcen 2"" announcement",general,1,tavily,True,,5
+4216080,Wolcen 2,"""Wolcen 2"" preview",general,1,tavily,True,,5
+4216080,Wolcen 2,"""Wolcen 2"" review",general,1,tavily,True,,5
+4216080,Wolcen 2,"""Wolcen 2"" publisher",general,1,tavily,True,,5
+4216080,Wolcen 2,"""Wolcen 2"" developer",general,1,tavily,True,,5
+4216080,Wolcen 2,"site:pcgamer.com ""Wolcen 2""",press,2,tavily,False,General budget exhausted,0
+4216080,Wolcen 2,"site:rockpapershotgun.com ""Wolcen 2""",press,2,tavily,False,General budget exhausted,0
+4216080,Wolcen 2,"site:ign.com ""Wolcen 2""",press,2,tavily,False,General budget exhausted,0
+4216080,Wolcen 2,"site:gamespot.com ""Wolcen 2""",press,2,tavily,False,General budget exhausted,0
+4216080,Wolcen 2,"site:game8.co ""Wolcen 2""",press,2,tavily,False,General budget exhausted,0
+4216080,Wolcen 2,"site:reddit.com ""Wolcen 2""",social,3,tavily,True,,5
+4216080,Wolcen 2,"site:tiktok.com ""Wolcen 2""",social,4,tavily,True,,5
+4216080,Wolcen 2,"site:instagram.com ""Wolcen 2""",social,4,tavily,True,,5
+4216080,Wolcen 2,"site:x.com ""Wolcen 2""",social,4,tavily,True,,5
+4216080,Wolcen 2,"site: ""Wolcen 2""",social,4,tavily,True,,5

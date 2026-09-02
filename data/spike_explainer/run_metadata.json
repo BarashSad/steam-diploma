@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-09-01T16:30:14.619991+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260901_162131/rank_changes.csv",
-    "selected_appid": "2843060",
-    "selected_game_title": "Into the Wind",
+    "started_at": "2026-09-02T04:03:10.786445+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260902_035344/rank_changes.csv",
+    "selected_appid": "4216080",
+    "selected_game_title": "Wolcen 2",
     "top_n": 1,
-    "old_snapshot_date": "2026-08-29",
-    "new_snapshot_date": "2026-09-01",
+    "old_snapshot_date": "2026-08-30",
+    "new_snapshot_date": "2026-09-02",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-01T16:30:14.620008+00:00",
+    "finished_at": "2026-09-02T04:03:10.786460+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

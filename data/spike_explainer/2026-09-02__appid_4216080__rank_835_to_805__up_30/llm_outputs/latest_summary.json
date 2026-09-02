@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-02T04:03:10.881707+00:00",
+    "timestamp": "20260902_040310",
+    "input_file": "data/spike_explainer/2026-09-02__appid_4216080__rank_835_to_805__up_30/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-02__appid_4216080__rank_835_to_805__up_30/llm_outputs/gemini_20260902_040310.md",
+    "game_title": "Wolcen 2",
+    "appid": "4216080",
+    "duration_sec": 23.37,
+    "response_length": 5627,
+    "error": null
+}
