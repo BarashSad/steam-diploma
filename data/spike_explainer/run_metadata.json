@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-09-02T16:28:47.772437+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260902_161953/rank_changes.csv",
-    "selected_appid": "4163960",
-    "selected_game_title": "Another Eden Begins",
+    "started_at": "2026-09-03T04:01:32.942403+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260903_035221/rank_changes.csv",
+    "selected_appid": "2870790",
+    "selected_game_title": "Dumpster Gang",
     "top_n": 1,
-    "old_snapshot_date": "2026-08-30",
-    "new_snapshot_date": "2026-09-02",
+    "old_snapshot_date": "2026-08-31",
+    "new_snapshot_date": "2026-09-03",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-02T16:28:47.772454+00:00",
+    "finished_at": "2026-09-03T04:01:32.942418+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

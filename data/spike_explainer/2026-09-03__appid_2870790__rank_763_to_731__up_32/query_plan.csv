@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+2870790,Dumpster Gang,"""Dumpster Gang"" Steam",general,1,tavily,True,,5
+2870790,Dumpster Gang,"""Dumpster Gang"" trailer",general,1,tavily,True,,4
+2870790,Dumpster Gang,"""Dumpster Gang"" gameplay",general,1,tavily,True,,5
+2870790,Dumpster Gang,"""Dumpster Gang"" demo",general,1,tavily,True,,5
+2870790,Dumpster Gang,"""Dumpster Gang"" release date",general,1,tavily,True,,5
+2870790,Dumpster Gang,"""Dumpster Gang"" announcement",general,1,tavily,True,,5
+2870790,Dumpster Gang,"""Dumpster Gang"" preview",general,1,tavily,True,,5
+2870790,Dumpster Gang,"""Dumpster Gang"" review",general,1,tavily,True,,5
+2870790,Dumpster Gang,"""Dumpster Gang"" publisher",general,1,tavily,True,,5
+2870790,Dumpster Gang,"""Dumpster Gang"" developer",general,1,tavily,True,,5
+2870790,Dumpster Gang,"site:pcgamer.com ""Dumpster Gang""",press,2,tavily,False,General budget exhausted,0
+2870790,Dumpster Gang,"site:rockpapershotgun.com ""Dumpster Gang""",press,2,tavily,False,General budget exhausted,0
+2870790,Dumpster Gang,"site:ign.com ""Dumpster Gang""",press,2,tavily,False,General budget exhausted,0
+2870790,Dumpster Gang,"site:gamespot.com ""Dumpster Gang""",press,2,tavily,False,General budget exhausted,0
+2870790,Dumpster Gang,"site:game8.co ""Dumpster Gang""",press,2,tavily,False,General budget exhausted,0
+2870790,Dumpster Gang,"site:reddit.com ""Dumpster Gang""",social,3,tavily,True,,5
+2870790,Dumpster Gang,"site:tiktok.com ""Dumpster Gang""",social,4,tavily,True,,5
+2870790,Dumpster Gang,"site:instagram.com ""Dumpster Gang""",social,4,tavily,True,,5
+2870790,Dumpster Gang,"site:x.com ""Dumpster Gang""",social,4,tavily,True,,5
+2870790,Dumpster Gang,"site: ""Dumpster Gang""",social,4,tavily,True,,5

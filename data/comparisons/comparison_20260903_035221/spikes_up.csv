@@ -1,0 +1,7 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2870790,Dumpster Gang,Dumpster Gang,763,731,32,32,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,December 2026,December 2026,False
+3180340,RIG Riot,RIG Riot,1105,1073,32,32,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 14, 2026","Sep 14, 2026",False
+4513480,Scarlet Skips,Scarlet Skips,565,544,21,21,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 3, 2026","Sep 3, 2026",False
+5123770,Ylem's Cat,Ylem's Cat,739,718,21,21,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+2770330,Chaos Front,Chaos Front,1077,1056,21,21,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 3, 2026","Sep 3, 2026",False
+3265840,BioEden,BioEden,1124,1104,20,20,up,upward_spike,$19.99,$19.99,False,"Sep 3, 2026","Sep 3, 2026",False
