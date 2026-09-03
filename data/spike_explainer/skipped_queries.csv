@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-2870790,Dumpster Gang,"site:pcgamer.com ""Dumpster Gang""",press,2,tavily,False,General budget exhausted,0
-2870790,Dumpster Gang,"site:rockpapershotgun.com ""Dumpster Gang""",press,2,tavily,False,General budget exhausted,0
-2870790,Dumpster Gang,"site:ign.com ""Dumpster Gang""",press,2,tavily,False,General budget exhausted,0
-2870790,Dumpster Gang,"site:gamespot.com ""Dumpster Gang""",press,2,tavily,False,General budget exhausted,0
-2870790,Dumpster Gang,"site:game8.co ""Dumpster Gang""",press,2,tavily,False,General budget exhausted,0
+3180340,RIG Riot,"site:pcgamer.com ""RIG Riot""",press,2,tavily,False,General budget exhausted,0
+3180340,RIG Riot,"site:rockpapershotgun.com ""RIG Riot""",press,2,tavily,False,General budget exhausted,0
+3180340,RIG Riot,"site:ign.com ""RIG Riot""",press,2,tavily,False,General budget exhausted,0
+3180340,RIG Riot,"site:gamespot.com ""RIG Riot""",press,2,tavily,False,General budget exhausted,0
+3180340,RIG Riot,"site:game8.co ""RIG Riot""",press,2,tavily,False,General budget exhausted,0

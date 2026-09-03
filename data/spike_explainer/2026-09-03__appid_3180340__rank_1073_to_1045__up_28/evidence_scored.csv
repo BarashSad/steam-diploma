@@ -1,0 +1,1458 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+3180340,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=PYIRZQ8zvtA,RIG Riot - Official Release Date Trailer,,RIG Riot will be released on 14 September 2026 for PC. Steam: https://store.steampowered.com/app/3180340/RIG_Riot/ RIG Riot ...,"trailer, release date",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",
+3180340,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=PYIRZQ8zvtA,RIG Riot - Official Release Date Trailer,,RIG Riot will be released on 14 September 2026 for PC. Steam: https://store.steampowered.com/app/3180340/RIG_Riot/ RIG Riot ...,"trailer, release date",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",
+3180340,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814438950,New Devlog | Making RIG Riot,,New devlog talking about the creation of RIG Riot and some of the decisions I made along the way. Check it out! I can't wait for you all to have the game in your hands on September 14th! -Sage,,70,strong,Inside spike window (+30); Official Steam News (+20); Exact title match (+20),
+3180340,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=p-8bOC4Xgbc,Fatal Foliage &amp; Rusted Robots - Trees Hate You (Demo) &amp; RIG Riot (Demo),,Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/matthewmspace.,demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+3180340,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=pkhzUQ39ts4,I Spent 2 YEARS Making a MECHA ROGUELIKE,,Wishlist/Try the Demo on Steam: https://store.steampowered.com/app/3180340/RIG_Riot Download the Demo on Itch: ...,demo,65,strong,Inside spike window (+30); YouTube (+15); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633195413,"Quad Leg Buffs and Bug Fixes - Demo Patch - February 23rd, 2026",,"Hey folks, got some buffs for quad legs and some bug fixes. Also, Next Fest has started so if you're willing I'd love some help spreading the word about RIG Riot. Hope you're having fun with the update!Changes- Innate Dash Boost Duration multipliers from leg parts now also apply to Dash Boost Cooldo",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633189231,The Quad Leg Update - RIG Riot Demo,,"Hey folks, this update is the last content update planned for the demo and it adds RIG Riot's second leg type, Quad Legs. Quad Legs are much more focused on ground-based gameplay, and you will have a chance to receive a set anytime you receive a new Leg part. I'm very excited to hear what you all th","gameplay, demo",60,medium,"Official Steam News (+20); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746163155,"Tutorialization Tweaks - Demo Patch - January 23rd, 2026",,"Hey folks, today's update is focused on improving the Tutorial. One of RIG Riot's biggest weaknesses is that it does not explain itself well, so I'm trying to improve that. Even if you've played the tutorial already I suggest taking another run through, just in case. Let me know what you think and w",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3180340,youtube_video,outside_window,https://www.youtube.com/watch?v=BqM-u7YZEDY,RIG Riot - Official Demo Launch Trailer,,Try Demo: https://store.steampowered.com/app/3180340/RIG_Riot/ RIG Riot is a roguelike third-person mech-action shooter.,"trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+3180340,youtube_video,outside_window,https://www.youtube.com/watch?v=JnJR_7KAISk,RIG Riot - Official Launch Date Trailer,,Wishlist/Try the Demo on Steam: https://store.steampowered.com/app/3180340/RIG_Riot Download the Demo on Itch: ...,"trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+3180340,youtube_video,outside_window,https://www.youtube.com/watch?v=RAuYxGm6104,RIG Riot - Announcement Trailer,,Wishlist RIG Riot on Steam: https://store.steampowered.com/app/3180340/RIG_Riot Join the Discord: ...,"trailer, announcement",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+3180340,youtube_video,outside_window,https://www.youtube.com/watch?v=tyEFp14Rdkw,RIG Riot - Official Demo Launch Trailer,,Wishlist/Try the Demo on Steam: https://store.steampowered.com/app/3180340/RIG_Riot Download the Demo on Itch: ...,"trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+3180340,youtube_video,outside_window,https://www.youtube.com/watch?v=JnJR_7KAISk,RIG Riot - Official Launch Date Trailer,,Wishlist/Try the Demo on Steam: https://store.steampowered.com/app/3180340/RIG_Riot Download the Demo on Itch: ...,"trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+3180340,youtube_video,outside_window,https://www.youtube.com/watch?v=s7RmOq5tMCE,This New Mech Building Apocalyptic Roguelite is NUTS - Rig Riot,,Rig Riot gameplay with Splat! Let's Play Rig Riot and check out a game where you'll build a mech to throw down on the ...,gameplay,55,medium,YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+3180340,youtube_video,outside_window,https://www.youtube.com/watch?v=RQyRrBmzbR4,Here&#39;s What I Learned | RIG Riot Devlog,,Wishlist/Try the Demo on Steam: https://store.steampowered.com/app/3180340/RIG_Riot Download the Demo on Itch: ...,demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+3180340,youtube_video,outside_window,https://www.youtube.com/watch?v=0MFxdw1kRqw,RIG Riot | Demo | Gameplay PC,,"RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, ...","gameplay, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+3180340,youtube_video,outside_window,https://www.youtube.com/watch?v=tyEFp14Rdkw,RIG Riot - Official Demo Launch Trailer,,Wishlist/Try the Demo on Steam: https://store.steampowered.com/app/3180340/RIG_Riot Download the Demo on Itch: ...,"trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+3180340,youtube_video,outside_window,https://www.youtube.com/watch?v=JnJR_7KAISk,RIG Riot - Official Launch Date Trailer,,Wishlist/Try the Demo on Steam: https://store.steampowered.com/app/3180340/RIG_Riot Download the Demo on Itch: ...,"trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+3180340,reddit_discussion,unknown_date,https://www.reddit.com/r/TwoBestFriendsPlay/comments/1qeyswi/rig_riot_official_launchdemo_trailer,RIG Riot - Official Launch/Demo Trailer : r/TwoBestFriendsPlay,RIG Riot - Official Launch/Demo Trailer ... Wow cool robot. Try demo?,,"trailer, demo",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+3180340,reddit_discussion,unknown_date,https://www.reddit.com/r/TwoBestFriendsPlay/comments/1qeyswi/rig_riot_official_launchdemo_trailer,RIG Riot - Official Launch/Demo Trailer : r/TwoBestFriendsPlay,"I've been playing the playtest on and off for a while now, I find it interesting but it kinda felt like the permanent progression was way",,"trailer, demo",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+3180340,web_result,unknown_date,https://www.gamingonlinux.com/2026/01/third-person-mech-action-shooter-roguelike-rig-riot-gets-a-demo,Third-person mech-action shooter roguelike RIG Riot gets ...,"Give me some of that sweet mech combat action - RIG Riot looks pretty fantastic, and now there's a demo available for you to try.",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),general
+3180340,web_result,unknown_date,https://www.gamingonlinux.com/2026/01/third-person-mech-action-shooter-roguelike-rig-riot-gets-a-demo,Third-person mech-action shooter roguelike RIG Riot gets ...,"RIG Riot gets a demo 16 Jan 2026 at 5:14 pm UTC. You'll need Proton to run it on Linux / SteamOS. Added rerolls for upgrades and augments,",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),general
+3180340,web_result,unknown_date,https://www.gamingonlinux.com/2025/08/roguelike-third-person-mech-action-shooter-rig-riot-to-be-steam-deck-optimised,Roguelike third-person mech-action shooter RIG Riot to be Steam Deck optimised | GamingOnLinux,"More about it: ""RIG Riot is a roguelike third-person mech-action shooter. Travel through increasingly difficult stages and collect weapons and mods with powerful effects. Discover unique synergies that suit your playstyle, and travel the megastructure in search of rare permanent parts to perfect your RIG.""
+
+Check out the latest trailer which shows off some action along with mech customization:
+
+YouTube Thumbnail [...] 0 comments
+
+I'm a ridiculous sucker for mech-action games and RIG Riot just landed on my radar. A roguelike third-person mech-action shooter with some fun looking combat.
+
+The developer has posted an announcement on Steam to note how they plan to ensure it works well on Steam Deck, with current testing showing it will run at 60FPS after only a few tweaks of the settings and they plan to continue optimising it. [...] >
+> Deep Customization
+>
+> In RIG Riot, every loss is an opportunity. Dive into the garage and check out the exciting new parts you've earned. Every part in RIG Riot is made out of a combination of components from the various full sets available in the game. On top of that, rare parts can be found with their own powerful effects. There are an incredible amount of parts to find- which will you use?
+>
+> Powerful Synergies
+>",,"trailer, announcement",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+3180340,web_result,unknown_date,https://www.gamingonlinux.com/2026/01/third-person-mech-action-shooter-roguelike-rig-riot-gets-a-demo,Third-person mech-action shooter roguelike RIG Riot gets a demo | GamingOnLinux,"[](
+
+DXVK-Sarek 1.13.0 is a big release for older GPUs to play modern games on Linux
+
+[](
+
+W4 Games, the company formed by Godot Engine veterans, gets help and funding from Tencent
+
+[](
+
+Bazzite 44 getting a hotfix for various issues after the recent big release
+
+Comments icon You can also find comments for this article on social media:
+
+Mastodon  Bluesky [...] Platform: ⚛ Proton / Wine (Windows)
+
+Devs:Sage Boatman
+
+Official links:Steam
+
+Article taken from GamingOnLinux.com.
+
+Tags: Proton, Action, Demo, Indie Game, Roguelike, Steam, Upcoming | Apps: RIG Riot
+
+3 Likes
+
+Share
+
+Bluesky
+
+Mastodon
+
+Reddit
+
+Facebook
+
+Telegram
+
+About the author - Liam Squires-Hand
+
+author picture [...] More about it from Steam: ""RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other"".",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),general
+3180340,social_post,unknown_date,https://www.tiktok.com/@masterklownx3/video/7486329661106949406,RIG Riot: An Engaging Mech Action Shooter - TikTok,"Explore RIG Riot, a customizable mech shooter with unique gameplay. Join the playtest now.",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+3180340,social_post,unknown_date,https://www.instagram.com/reel/DT4h9qLDHzO,"RIG Riot Demo Genre: Action, Shooter, Roguelike, Indie ... - Instagram","RIG Riot is a fast-paced action shooter with roguelike elements, focusing on intense combat and build customization. Players pilot powerful rigs",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+3180340,social_post,unknown_date,https://sageboatman.itch.io/rig-riot,RIG Riot by Sage - itch.io,"Follow SageFollowFollowing SageFollowing
+ Add To CollectionCollection
+ Community
+ Devlog
+ Related gamesRelated
+
+RIG Riot
+
+# RIG Riot
+
+A downloadable demo for Windows
+
+Download NowName your own price
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. [...] Wishlist the Full Game on Steam: 
+
+Join the Discord: 
+
+Watch Devlogs on YouTube: 
+
+PLAYTEST DISCLAIMER: The 'name your price' is just for if you would like to support the game's development, not a pre-purchase. Please don't feel the need to pay for the playtest unless you want to help fund the game's development.
+
+If you would like to support me separately from the 'name your price' prompt you can do so through ko-fi or patreon, linked below.
+
+Ko-fi: 
+
+Patreon: 
+
+More information) [...] More information)
+
+|  |  |
+ --- |
+| Status | In development |
+| Platforms | Windows |
+| Rating | Rated 4.9 out of 5 stars (14 total ratings) |
+| Author | Sage |
+| Genre | Action |
+| Tags | 3D, Bullet Hell, Character Customization, Fast-Paced, Mechs, Robots, Roguelike, Roguelite, Singleplayer, Third-Person Shooter |
+| Average session | About a half-hour |
+| Accessibility | Configurable controls |
+| Links | Steam |
+| Content | No generative AI was used |
+
+## Download",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+3180340,social_post,unknown_date,https://steamcommunity.com/app/3180340,RIG Riot,"Store Page
+
+RIG Riot
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### RIG Riot
+
+Store Page
+
+0 in Group Chat;)
+
+0 in Group Chat;)
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.
+
+Visit the Store Page [...] Most popular community and official content for the past week.  (?)
+
+New Devlog | Making RIG Riot
+
+1 Sep
+
+New devlog talking about the creation of RIG Riot and some of the decisions I made along the way. Check it out!  
+  
+I can't wait for you all to have the game in your hands on September 14th!
+
+-Sage
+
+RIG Riot
+
+26
+
+0
+
+Speed is closer to AC4A than AC6
+
+Feels that way to me. Fun demo.
+
+1
+
+[A Gamer Gaming
+
+16 hours ago](
+
+General Discussions
+
+Artwork
+
+Award)
+
+8
+
+0
+
+0
+
+Current Sagemobile",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+3180340,social_post,unknown_date,https://store.steampowered.com/app/3180340/RIG_Riot,RIG Riot on Steam,"Sep 14, 2026 
+
+ RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. 
+
+All Reviews: No user reviews
+
+Release Date:
+
+Sep 14, 2026
+
+Developer:
+
+Sage Boatman
+
+Publisher:
+
+Sage Boatman
+
+Tags
+
+Popular user-defined tags for this product: [...] ## About This Game
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.
+
+## Exciting Combat [...] Full Controller Support
+
+Xbox Controllers
+
+ Languages:
+
+ English 
+
+|  | Interface | Full Audio | Subtitles |
+ ---  --- |
+| English | ✔ | ✔ | ✔ |
+
+Steam Deck Compatibility
+
+Unknown
+
+Learn more
+
+Developer Comments
+
+Title: RIG Riot
+
+Genre:Action
+
+Developer:Sage Boatman
+
+Publisher:Sage Boatman
+
+Release Date: Sep 14, 2026
+
+YouTubeImage 27: ExternalDiscordImage 28: ExternalView update historyRead related newsView discussionsFind Community Groups
+
+Embed)
+
+Image 29: Report this Product)
+
+Links & info",,release date,45,medium,Social Index (+5); Exact title match (+20); Keywords ['release date'] (+20),social
+3180340,social_post,unknown_date,https://www.gamingonlinux.com/2026/01/third-person-mech-action-shooter-roguelike-rig-riot-gets-a-demo,Third-person mech-action shooter roguelike RIG Riot gets ...,"More about it from Steam: ""RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other"". [...] This website makes use of cookies to enhance your browsing experience and provide additional functionality -> More info Deny Cookies - Allow Cookies
+
+⨯ Did you know we have a Forum? Come and say hi to the wider community!
+
+# Third-person mech-action shooter roguelike RIG Riot gets a demo
+
+By Liam Squires-Hand
+
+0 comments [...] Platform: ⚛ Proton / Wine (Windows)
+
+Devs:Sage Boatman
+
+Official links:Steam
+
+Article taken from GamingOnLinux.com.
+
+Tags: Proton, Action, Demo, Indie Game, Roguelike, Steam, Upcoming | Apps: RIG Riot
+
+3 Likes
+
+Share
+
+Bluesky
+
+Mastodon
+
+Reddit
+
+Facebook
+
+Telegram
+
+About the author - Liam Squires-Hand
+
+author picture",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+3180340,social_post,unknown_date,https://rigriot.miraheze.org/wiki/RIG_Riot_Wiki,RIG Riot Wiki,"Anonymous
+
+ Not logged in
+ My talk
+ Contributions
+ Create account
+ Log in
+
+×
+
+RIG Riot Wiki
+
+RIG Riot Wiki
+
+66Articles
+
+Add new page
+
+# RIG Riot Wiki
+
+View source
+
+ View history
+ Purge
+
+Discussion
+
+Welcome to the RIG Riot Wiki! We are a collaborative community documenting the demo and upcoming mech-action rogue-like game, RIG Riot. [...] This wiki is an online encyclopedia which anyone can edit and contribute to, creating a new page or improving an existing one. If you're new and don't know where to start, feel free to reach out to one of our administrators. This wiki is a Work In Progress.
+
+ Getting Started
+
+  Getting Started
+ Weapons
+
+  Weapons
+ Enemies
+
+  Enemies
+ Augments
+
+  Augments
+ Volatile Mods
+
+  Volatile Mods
+
+ Status Effects
+
+  Status Effects
+ Part Mods
+
+  Part Mods
+ Raids
+
+  Raids
+ RIG Parts
+
+  RIG Parts [...] RIG Parts
+
+Retrieved from """"
+
+Category:
+
+ RIG Riot Wiki
+
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+
+ What links here
+ Related changes
+ Printable version; ""Printable version of this page [p]"")
+ Permanent link
+ Page information
+ Cite this page
+ Get shortened URL
+
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366958,"Bipeds, Arena, and Launch Date",,"Hey all, big demo update and launch date confirmation. Excited for you all to get the full game into your hands in September, and I hope you enjoy the demo update in the meantime.If you're interested in joining the upcoming closed beta and helping out with testing the full game I recommend joining t",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530888438,RIG Riot Launch Timing,,"Hey all, hope you're well. I just wanted to provide a little update on what to expect in terms of timing for the launch of RIG Riot.If you've been keeping an eye on the game's Steam page you will have seen that the launch month has slowly crept back. As of typing I just set it to August, but I wante",,40,medium,Official Steam News (+20); Exact title match (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592802003,New Devlog | Demo and Progress Update,,New devlog talking about the demo and the state of development- check it out! -Sage,demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365770939,"Bug Fixes - Demo Patch - March 26th, 2026",,"Hey folks, a pretty notable bug was found related to updating friction values for different movement modes. This patch fixes that but it might make some things feel different, let me know if you like it or hate it. I did test it out in the playtest beforehand and feedback was good so I felt it was w",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365762293,"Bug Fixes - Demo Patch - March 22nd, 2026",,Changes- Added support for chain procs to projectiles spawned by augments or volatile mods- Stat tooltips can now be viewed at any time when hovering with the mouse instead of only when stat explanations are enabledBug Fixes- Removed achievement reward descriptions for certain achievements that have,demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365755479,"Clarity Tweaks and Bug Fixes - Demo Hotfix - March 19th, 2026",,Changes- Outer part drops from the introductory raid are now all based on the starter sets and are no longer guaranteed to include an 'Expendable' shell- Red objective location indicator is now moved upon picking up package delivery packages- Objective compass icon indicating package location is now,demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365753508,"Onboarding Improvements - Demo Update - March 19th, 2026",,"Hey Folks,Thanks for being patient while I worked on this patch. The main focus here is onboarding, which required a lot of things to be adjusted & reworked under the hood. That stuff being in-progress also meant that I couldn't really push bug fixes out as quickly as usual, which is not my favorite",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633190939,"Quad Leg Bug Fixes - Demo Patch - February 21st, 2026",,"Hey folks, this is the first set of bug fixes for the recent Quad Leg update. More fixes are in the works but I wanted to get some of the major issues addressed quickly. Let me know if you run into any issues or if you're having a good time with the update :DChanges- Switched name of Void Slot to Bl",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466490931,"Lighting Improvements and Bug Fixes - Demo Patch - February 3rd, 2026",,"Hey folks, this update is mostly fixes for larger bugs from the recent patch but it also includes some major lighting improvements- let me know what you think!Changes- Reverted punch animation change- Adjusted Wastes lighting and material used for player partsNote: The goal here is to make your colo",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612586,"Melee and Balance Improvements - Demo Patch - February 2nd, 2026",,"Hey folks, this update is mostly about improvements to melee auto lunge behavior and balance. Make sure to let me know what you think of the scaling in your runs with the new more measured enemy appearance logic!Changes- Horde enemies now have a manually set earliest spawn time- Spreading Swarm comb",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198606292,"Range Reassessment - Demo Hotfix - January 30th, 2026",,"Hey folks, just some small bug fixes. Have a great weekend!Balance- Increased spawn cost for Fire Demon enemyBug Fixes- Fixed numerous enemy weapons not having damage falloff",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198606183,"Aiming and Adjustments - Demo Update - January 29th, 2026",,"(Sorry for the late patch notes, I literally forgot to click the ""Publish"" button smh) Hey folks- lots of changes, fixes, and tweaks in this one. Many of these are based on community requests so let me know what you think. There are also definitely things I forgot to mention so keep an eye out and k",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746164739,"Key Rebind Fixes - Demo Patch - January 24th, 2026",,"Hey folks, the focus here is on some balance changes and bug fixes. In the background I've begun working on some new content/features, so look forward to that!Changes- The player now receives additional scrap rewards per objective based on how many objectives have been completed- Your RIG is no long",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746159268,"Ambidextrous Aid - Demo Hotfix - January 22nd, 2026",,"Hey folks, hotfix here to fix dual wielding. If you didn't know, you can equip a second copy of a weapon if you find it as an upgrade and click a valid open slot before selecting your upgrade. Note that you do need to have enough weapon capacity available, otherwise you will just receive an upgrade ",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157509,"Dupes Destroyed - Demo Patch - January 21st, 2026",,"Hey folks, small update here with a fix to the mod duplication bug and a couple other little Quality of Life improvements.Changes- You will now receive a 50% Scrap refund when recycling parts with unlocked Part Mod slots- Removed the now-redundant confirmation button from the Upgrade Selection menu-",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921824382,"One Click Upgrades - Demo Patch - January 20th, 2026",,"Hey folks, made some improvements to the upgrade selection menu to simplify the experience, let me know if you like it, hate it, or wish I would change it juuuust a little. next on the list is improving the new player experience, so look forward to that!Changes- Upgrade selection now requires only a",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3180340,web_result,unknown_date,https://store.steampowered.com/app/3180340/RIG_Riot,RIG Riot on Steam,"Sep 14, 2026 
+
+ RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. 
+
+All Reviews: No user reviews
+
+Release Date:
+
+Sep 14, 2026
+
+Developer:
+
+Sage Boatman
+
+Publisher:
+
+Sage Boatman
+
+Tags
+
+Popular user-defined tags for this product: [...] ## About This Game
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.
+
+## Exciting Combat [...] Full Controller Support
+
+Xbox Controllers
+
+ Languages:
+
+ English 
+
+|  | Interface | Full Audio | Subtitles |
+ ---  --- |
+| English | ✔ | ✔ | ✔ |
+
+Steam Deck Compatibility
+
+Unknown
+
+Learn more
+
+Developer Comments
+
+Title: RIG Riot
+
+Genre:Action
+
+Developer:Sage Boatman
+
+Publisher:Sage Boatman
+
+Release Date: Sep 14, 2026
+
+YouTubeImage 27: ExternalDiscordImage 28: ExternalView update historyRead related newsView discussionsFind Community Groups
+
+Embed)
+
+Image 29: Report this Product)
+
+Links & info",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3180340,web_result,unknown_date,https://store.steampowered.com/app/3992510/RIG_Riot_Demo,RIG Riot Demo,"RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3180340,web_result,unknown_date,https://store.steampowered.com/app/3180340/RIG_Riot,RIG Riot on Steam,"ActionMechsAction RoguelikeCharacter CustomizationLooter ShooterSingleplayerRobotsThird-Person ShooterRoguelikeRogueliteFast-PacedDifficultThird PersonBullet HellSci-fiShooterLootAtmosphericAdventureFuturistic
+
++
+
+Reviews
+
+All Reviews: No user reviews
+
+RIG Riot - Trailers & Screenshots
+
+Video 1
+
+0:00/1:05
+
+Gameplay Launch Date Trailer
+
+1 of 10
+
+Image 10
+
+Image 11
+
+Image 12
+
+Image 13
+
+Image 14
+
+Image 15
+
+Image 16
+
+Image 17
+
+Image 18
+
+Image 19 [...] ## About This Game
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.
+
+## Exciting Combat [...] Sep 14, 2026 
+
+ RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. 
+
+All Reviews: No user reviews
+
+Release Date:
+
+Sep 14, 2026
+
+Developer:
+
+Sage Boatman
+
+Publisher:
+
+Sage Boatman
+
+Tags
+
+Popular user-defined tags for this product:",,"trailer, gameplay, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'release date'] (+20)",general
+3180340,web_result,unknown_date,https://www.youtube.com/@RIGRiot,RIG Riot,RIG Riot - Official Launch Date Trailer · Videos · Shorts · Move Fast or Stop Forever · Playlists.,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+3180340,web_result,unknown_date,https://www.youtube.com/watch?v=0MFxdw1kRqw,RIG Riot | Demo | Gameplay PC - YouTube,"RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up,",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+3180340,web_result,unknown_date,https://store.steampowered.com/app/3180340/RIG_Riot,RIG Riot on Steam,"## About This Game
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.
+
+## Exciting Combat [...] Sep 14, 2026 
+
+ RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. 
+
+All Reviews: No user reviews
+
+Release Date:
+
+Sep 14, 2026
+
+Developer:
+
+Sage Boatman
+
+Publisher:
+
+Sage Boatman
+
+Tags
+
+Popular user-defined tags for this product: [...] ActionMechsAction RoguelikeCharacter CustomizationLooter ShooterSingleplayerRobotsThird-Person ShooterRoguelikeRogueliteFast-PacedDifficultThird PersonBullet HellSci-fiShooterLootAtmosphericAdventureFuturistic
+
++
+
+Reviews
+
+All Reviews: No user reviews
+
+RIG Riot - Trailers & Screenshots
+
+Video 1
+
+0:00/1:05
+
+Gameplay Launch Date Trailer
+
+1 of 10
+
+Image 10
+
+Image 11
+
+Image 12
+
+Image 13
+
+Image 14
+
+Image 15
+
+Image 16
+
+Image 17
+
+Image 18
+
+Image 19",,"trailer, gameplay, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'release date'] (+20)",general
+3180340,web_result,unknown_date,https://www.youtube.com/watch?v=s7RmOq5tMCE,This New Mech Building Apocalyptic Roguelite is NUTS - Rig Riot,Rig Riot gameplay with Splat! Let's Play Rig Riot and check out a game where you'll build a mech to throw down on the battlefields of the,,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+3180340,web_result,unknown_date,https://sageboatman.itch.io/rig-riot,RIG Riot by Sage - itch.io,A downloadable demo for Windows Download. RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing,,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3180340,web_result,unknown_date,https://store.steampowered.com/app/3180340/RIG_Riot,RIG Riot on Steam,"Links & info
+
+READ MORE
+
+# Download RIG Riot Demo
+
+Learn more about this demo
+
+Download)
+
+This game is not yet available on Steam
+# Planned Release Date: Sep 14, 2026
+
+This game plans to unlock in approximately 13 days
+
+Interested?
+
+Add to your wishlist and get notified when it becomes available.
+
+Add to your wishlist
+
+## Content For This GameBrowse all _(1)_
+
+RIG Riot Soundtrack N/A
+
+View Community Hub
+
+## Recent Events & AnnouncementsView All [...] Major Update Hey all, big demo update and launch date confirmation. Excited for you all to get the full game into your hands in September, and I hope you enjoy the demo update in the meantime. Image 30 Bipeds, Arena, and Launch Date Major Update Tue, July 14, 2026 Hey all, big demo update and launch date confirmation. Excited for you all to get the full game into your hands in September, and I hope you enjoy the demo update in the meantime. [...] Sep 14, 2026 
+
+ RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. 
+
+All Reviews: No user reviews
+
+Release Date:
+
+Sep 14, 2026
+
+Developer:
+
+Sage Boatman
+
+Publisher:
+
+Sage Boatman
+
+Tags
+
+Popular user-defined tags for this product:",,"demo, announcement, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'announcement', 'release date'] (+20)",general
+3180340,web_result,unknown_date,https://www.facebook.com/groups/armoredcoregamers/posts/10164108285834255,"Rig Riot demo release, an Armored Core style roguelike - Facebook",Guide a daring renegade through a post-apocalyptic world. Play the Rogue Mech demo today! https://speedomon.itch.io/rogue-mech-demo.,,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3180340,web_result,unknown_date,https://store.steampowered.com/app/3180340/RIG_Riot,RIG Riot on Steam,"Sep 14, 2026 
+
+ RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. 
+
+All Reviews: No user reviews
+
+Release Date:
+
+Sep 14, 2026
+
+Developer:
+
+Sage Boatman
+
+Publisher:
+
+Sage Boatman
+
+Tags
+
+Popular user-defined tags for this product: [...] Full Controller Support
+
+Xbox Controllers
+
+ Languages:
+
+ English 
+
+|  | Interface | Full Audio | Subtitles |
+ ---  --- |
+| English | ✔ | ✔ | ✔ |
+
+Steam Deck Compatibility
+
+Unknown
+
+Learn more
+
+Developer Comments
+
+Title: RIG Riot
+
+Genre:Action
+
+Developer:Sage Boatman
+
+Publisher:Sage Boatman
+
+Release Date: Sep 14, 2026
+
+YouTubeImage 27: ExternalDiscordImage 28: ExternalView update historyRead related newsView discussionsFind Community Groups
+
+Embed)
+
+Image 29: Report this Product)
+
+Links & info [...] Links & info
+
+READ MORE
+
+# Download RIG Riot Demo
+
+Learn more about this demo
+
+Download)
+
+This game is not yet available on Steam
+# Planned Release Date: Sep 14, 2026
+
+This game plans to unlock in approximately 13 days
+
+Interested?
+
+Add to your wishlist and get notified when it becomes available.
+
+Add to your wishlist
+
+## Content For This GameBrowse all _(1)_
+
+RIG Riot Soundtrack N/A
+
+View Community Hub
+
+## Recent Events & AnnouncementsView All",,"demo, announcement, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'announcement', 'release date'] (+20)",general
+3180340,web_result,unknown_date,https://www.youtube.com/watch?v=PYIRZQ8zvtA,RIG Riot - Official Release Date Trailer - YouTube,RIG Riot will be released on 14 September 2026 for PC. Steam: https://store.steampowered.com/app/3180340/RIG_Riot/ RIG Riot is a roguelike,,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+3180340,web_result,unknown_date,https://sageboatman.itch.io/rig-riot,RIG Riot by Sage - itch.io,"Launch Date - Demo Update - July 14th, 2026 50 days ago. Demo patch - March 26th, 2026. February 23rd, RIG Riot Demo Feb 20, 2026",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3180340,web_result,unknown_date,https://steamcommunity.com/app/3180340,RIG Riot - Steam Community,"Launch Date Jul 14 Hey all, big demo update and launch date confirmation. Excited for you all to get the full game into your hands in September,",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3180340,web_result,unknown_date,https://www.facebook.com/groups/armoredcoregamers/posts/10164108285834255,"Rig Riot demo release, an Armored Core style roguelike - Facebook","Rig Riot demo release, wishlisting the game and awaiting its full release. You can try the free Steam demo now. Steam release date arrives in",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+3180340,web_result,unknown_date,https://store.steampowered.com/app/3180340/RIG_Riot,RIG Riot on Steam,"Sep 14, 2026 
+
+ RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. 
+
+All Reviews: No user reviews
+
+Release Date:
+
+Sep 14, 2026
+
+Developer:
+
+Sage Boatman
+
+Publisher:
+
+Sage Boatman
+
+Tags
+
+Popular user-defined tags for this product: [...] ## About This Game
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.
+
+## Exciting Combat [...] News Hey all, hope you're well. I just wanted to provide a little update on what to expect in terms of timing for the launch of RIG Riot. Image 31 RIG Riot Launch Timing News Thu, May 28, 2026 Hey all, hope you're well. I just wanted to provide a little update on what to expect in terms of timing for the launch of RIG Riot.
+
+See all updates (Latest: Jul 14)
+
+## About This Game",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3180340,web_result,unknown_date,https://steamdb.info/app/3180340,RIG Riot,RIG Riot is a roguelike third-person mech-action shooter. 1 September 2026 – 14:07:32. Release Date 14 September 2026 – 17:00:00 UTC ( in 13 days ) RIG Riot is,,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3180340,web_result,unknown_date,https://steamcommunity.com/app/3180340,RIG Riot,"Hey all, big demo update and launch date confirmation. Excited for you all to get the full game into your hands in September, and I hope you enjoy the demo",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3180340,web_result,unknown_date,https://store.steampowered.com/app/3180340/RIG_Riot,RIG Riot on Steam,"Sep 14, 2026 
+
+ RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. 
+
+All Reviews: No user reviews
+
+Release Date:
+
+Sep 14, 2026
+
+Developer:
+
+Sage Boatman
+
+Publisher:
+
+Sage Boatman
+
+Tags
+
+Popular user-defined tags for this product: [...] ## About This Game
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.
+
+## Exciting Combat [...] ActionMechsAction RoguelikeCharacter CustomizationLooter ShooterSingleplayerRobotsThird-Person ShooterRoguelikeRogueliteFast-PacedDifficultThird PersonBullet HellSci-fiShooterLootAtmosphericAdventureFuturistic
+
++
+
+Reviews
+
+All Reviews: No user reviews
+
+RIG Riot - Trailers & Screenshots
+
+Video 1
+
+0:00/1:05
+
+Gameplay Launch Date Trailer
+
+1 of 10
+
+Image 10
+
+Image 11
+
+Image 12
+
+Image 13
+
+Image 14
+
+Image 15
+
+Image 16
+
+Image 17
+
+Image 18
+
+Image 19",,"trailer, gameplay, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'release date'] (+20)",general
+3180340,web_result,unknown_date,https://sageboatman.itch.io/rig-riot,RIG Riot by Sage,"Follow SageFollowFollowing SageFollowing
+ Add To CollectionCollection
+ Community
+ Devlog
+ Related gamesRelated
+
+RIG Riot
+
+# RIG Riot
+
+A downloadable demo for Windows
+
+Download NowName your own price
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. [...] Mar 19, 2026
+ Onboarding Improvements - Demo update - March 19th, 2026
+
+  Mar 19, 2026
+ Quad Buffs and Bug Fixes - Demo Patch - February 23rd, 2026
+
+  Feb 23, 2026
+ Quad Leg Bug Fixes - Demo Patch - February 21st, 2026
+
+  Feb 21, 2026
+ The Quad Leg Update - RIG Riot Demo
+
+  Feb 20, 2026
+
+View all posts
+
+## Community
+
+question regarding steam
+
+by duketired · 3 posts
+
+3h
+
+Feedback from an Armored Core veteran (After playing the Steam test.)
+
+by Bennifer · 4 posts
+
+172d
+
+Question [...] ## Download
+
+Download NowName your own price
+
+Click download now to get access to the following files:
+
+rig-riot-windows-playtest.zip 2.6 GB
+
+Version 78
+
+## Development log
+
+ Bipeds, Arena, and Launch Date - Demo Update - July 14th, 2026
+
+  50 days ago
+ Bug Fixes - Demo patch - March 26th, 2026
+
+  Mar 26, 2026
+ Bug Fixes - Demo Patch - March 22nd, 2026
+
+  Mar 22, 2026
+ Clarity Tweaks and Bug Fixes - Demo Hotfix - March 19th, 2026",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3180340,web_result,unknown_date,https://www.youtube.com/@RIGRiot,RIG Riot,"The official channel for RIG Riot, an upcoming indie mech-customizing third-person action roguelike. RIG Riot - Official Launch Date Trailer Videos",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+3180340,web_result,unknown_date,https://store.steampowered.com/app/3180340/RIG_Riot,RIG Riot on Steam,"Sep 14, 2026 
+
+ RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. 
+
+All Reviews: No user reviews
+
+Release Date:
+
+Sep 14, 2026
+
+Developer:
+
+Sage Boatman
+
+Publisher:
+
+Sage Boatman
+
+Tags
+
+Popular user-defined tags for this product: [...] ## About This Game
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.
+
+## Exciting Combat [...] ActionMechsAction RoguelikeCharacter CustomizationLooter ShooterSingleplayerRobotsThird-Person ShooterRoguelikeRogueliteFast-PacedDifficultThird PersonBullet HellSci-fiShooterLootAtmosphericAdventureFuturistic
+
++
+
+Reviews
+
+All Reviews: No user reviews
+
+RIG Riot - Trailers & Screenshots
+
+Video 1
+
+0:00/1:05
+
+Gameplay Launch Date Trailer
+
+1 of 10
+
+Image 10
+
+Image 11
+
+Image 12
+
+Image 13
+
+Image 14
+
+Image 15
+
+Image 16
+
+Image 17
+
+Image 18
+
+Image 19",,"trailer, gameplay, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'release date'] (+20)",general
+3180340,web_result,unknown_date,https://steamcommunity.com/app/3180340,Steam Community :: RIG Riot,"Store Page
+
+RIG Riot
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### RIG Riot
+
+Store Page
+
+0 in Group Chat;)
+
+0 in Group Chat;)
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.
+
+Visit the Store Page [...] The demo is fun and I like the concept, but the targeting ruins it. It's way too random and unreliable, especially at longer ranges, constantly switching between enemies or not locking on the enemy I am aiming at. This is especially frustrating if I want a dangerous enemy locked, but can't get a lock on ... or the lock keeps switching even though it's hard-locked. This really needs to be fixed, so my suggestion is: Give the player a center crosshair where the gun automatically shoots at if no [...] -Sage
+
+Features/Content
+
+- Biped legs can now be found as part drops
+
+- Added an Arena
+
+- Added a few new Objectives
+
+- Added a new Bandit enemy type
+
+- Added weapon customization
+
+- Weapons are now saved to loadouts
+
+- Colors and palettes can now be saved for future use
+
+- Added interface customization
+
+Changes
+
+- Improved various textures
+
+- Various lighting improvements
+
+- Rewrote enemy RIG behavior logic
+
+- Enemies can now proc status effects",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3180340,web_result,unknown_date,https://sageboatman.itch.io/rig-riot,RIG Riot by Sage - itch.io,"More information)
+
+|  |  |
+ --- |
+| Status | In development |
+| Platforms | Windows |
+| Rating | Rated 4.9 out of 5 stars (14 total ratings) |
+| Author | Sage |
+| Genre | Action |
+| Tags | 3D, Bullet Hell, Character Customization, Fast-Paced, Mechs, Robots, Roguelike, Roguelite, Singleplayer, Third-Person Shooter |
+| Average session | About a half-hour |
+| Accessibility | Configurable controls |
+| Links | Steam |
+| Content | No generative AI was used |
+
+## Download [...] Follow SageFollowFollowing SageFollowing
+ Add To CollectionCollection
+ Community
+ Devlog
+ Related gamesRelated
+
+RIG Riot
+
+# RIG Riot
+
+A downloadable demo for Windows
+
+Download NowName your own price
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. [...] Mar 19, 2026
+ Onboarding Improvements - Demo update - March 19th, 2026
+
+  Mar 19, 2026
+ Quad Buffs and Bug Fixes - Demo Patch - February 23rd, 2026
+
+  Feb 23, 2026
+ Quad Leg Bug Fixes - Demo Patch - February 21st, 2026
+
+  Feb 21, 2026
+ The Quad Leg Update - RIG Riot Demo
+
+  Feb 20, 2026
+
+View all posts
+
+## Community
+
+question regarding steam
+
+by duketired · 3 posts
+
+3h
+
+Feedback from an Armored Core veteran (After playing the Steam test.)
+
+by Bennifer · 4 posts
+
+172d
+
+Question",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3180340,web_result,unknown_date,https://store.steampowered.com/app/3180340/RIG_Riot,RIG Riot on Steam,"Sep 14, 2026 
+
+ RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. 
+
+All Reviews: No user reviews
+
+Release Date:
+
+Sep 14, 2026
+
+Developer:
+
+Sage Boatman
+
+Publisher:
+
+Sage Boatman
+
+Tags
+
+Popular user-defined tags for this product: [...] Browse
+
+Recommendations
+
+Categories
+
+Hardware
+
+Ways to Play
+
+Special Sections
+
+Advanced Search
+
+Open in Desktop App
+
+You're not signed in!
+
+Open this page in the Steam App to wishlist, follow, purchase and see recommendations
+
+Image 5Image 6
+
+All Games>Action Games>RIG Riot
+
+Community Hub
+
+Image 7
+
+RIG Riot
+
+Image 8: RIG Riot
+
+Image 9
+
+RIG Riot
+
+Developer
+
+Sage Boatman
+
+Publisher
+
+Sage Boatman
+
+Release
+
+ Sep 14, 2026 [...] Full Controller Support
+
+Xbox Controllers
+
+ Languages:
+
+ English 
+
+|  | Interface | Full Audio | Subtitles |
+ ---  --- |
+| English | ✔ | ✔ | ✔ |
+
+Steam Deck Compatibility
+
+Unknown
+
+Learn more
+
+Developer Comments
+
+Title: RIG Riot
+
+Genre:Action
+
+Developer:Sage Boatman
+
+Publisher:Sage Boatman
+
+Release Date: Sep 14, 2026
+
+YouTubeImage 27: ExternalDiscordImage 28: ExternalView update historyRead related newsView discussionsFind Community Groups
+
+Embed)
+
+Image 29: Report this Product)
+
+Links & info",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3180340,web_result,unknown_date,https://steamdb.info/app/3180340,RIG Riot,Type Game Developer Sage Boatman Publisher Sage Boatman. Release Date 14 September 2026 – 17:00:00. Store Release Date 14 September 2026 – 17:00:00 UTC,,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3180340,web_result,unknown_date,https://sageboatman.itch.io/rig-riot,RIG Riot by Sage - itch.io,"Follow SageFollowFollowing SageFollowing
+ Add To CollectionCollection
+ Community
+ Devlog
+ Related gamesRelated
+
+RIG Riot
+
+# RIG Riot
+
+A downloadable demo for Windows
+
+Download NowName your own price
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. [...] More information)
+
+|  |  |
+ --- |
+| Status | In development |
+| Platforms | Windows |
+| Rating | Rated 4.9 out of 5 stars (14 total ratings) |
+| Author | Sage |
+| Genre | Action |
+| Tags | 3D, Bullet Hell, Character Customization, Fast-Paced, Mechs, Robots, Roguelike, Roguelite, Singleplayer, Third-Person Shooter |
+| Average session | About a half-hour |
+| Accessibility | Configurable controls |
+| Links | Steam |
+| Content | No generative AI was used |
+
+## Download [...] Wishlist the Full Game on Steam: 
+
+Join the Discord: 
+
+Watch Devlogs on YouTube: 
+
+PLAYTEST DISCLAIMER: The 'name your price' is just for if you would like to support the game's development, not a pre-purchase. Please don't feel the need to pay for the playtest unless you want to help fund the game's development.
+
+If you would like to support me separately from the 'name your price' prompt you can do so through ko-fi or patreon, linked below.
+
+Ko-fi: 
+
+Patreon: 
+
+More information)",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3180340,web_result,unknown_date,https://steamcommunity.com/app/3180340,RIG Riot,"Most popular community and official content for the past week.  (?)
+
+New Devlog | Making RIG Riot
+
+1 Sep
+
+New devlog talking about the creation of RIG Riot and some of the decisions I made along the way. Check it out!  
+  
+I can't wait for you all to have the game in your hands on September 14th!
+
+-Sage
+
+RIG Riot
+
+26
+
+0
+
+Speed is closer to AC4A than AC6
+
+Feels that way to me. Fun demo.
+
+1
+
+[A Gamer Gaming
+
+16 hours ago](
+
+General Discussions
+
+Artwork
+
+Award)
+
+8
+
+0
+
+0
+
+Current Sagemobile [...] Store Page
+
+RIG Riot
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### RIG Riot
+
+Store Page
+
+0 in Group Chat;)
+
+0 in Group Chat;)
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.
+
+Visit the Store Page [...] Current Sagemobile
+
+[Superb Television
+
+View artwork](
+
+Bipeds, Arena, and Launch Date
+
+14 Jul
+
+Hey all, big demo update and launch date confirmation. Excited for you all to get the full game into your hands in September, and I hope you enjoy the demo update in the meantime.
+
+If you're interested in joining the upcoming closed beta and helping out with testing the full game I recommend joining the game's discord, as I'll be making an announcement there when I'm ready for testers.
+
+-Sage",,"demo, announcement",40,medium,"Exact title match (+20); Keywords ['demo', 'announcement'] (+20)",general
+3180340,web_result,unknown_date,https://store.steampowered.com/app/3992510/RIG_Riot_Demo,RIG Riot Demo on Steam,"All Games > Action Games > RIG Riot > Demo
+
+Community Hub
+
+RIG Riot Demo
+
+RIG Riot Demo
+
+RIG Riot Demo
+
+Developer
+
+Sage Boatman
+
+Publisher
+
+Sage Boatman
+
+Released
+
+16 Jan, 2026
+
+RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.
+
+Recent Reviews: [...] English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+
+Title: RIG Riot Demo  
+ Genre: Action, Adventure  
+
+Developer: Sage Boatman
+
+Publisher: Sage Boatman
+
+Release Date: 16 Jan, 2026
+
+YouTube External   Discord External   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+Free Demo
+
+## Play RIG Riot Demo
+
+Install Demo
+
+## Check out the full game
+
+View Community Hub
+
+## About This Demo
+
+## Take Your First Steps into the Megastructure [...] Recent Reviews:
+
+Very Positive  (11)   - 100% of the 11 user reviews in the last 30 days are positive. All Reviews:
+
+Very Positive  (125)   - 92% of the 125 user reviews for this demo are positive.
+
+Release Date:
+
+16 Jan, 2026
+
+Developer:
+
+Sage Boatman
+
+Publisher:
+
+Sage Boatman
+
+Tags
+
+Popular user-defined tags for this product:",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+3180340,web_result,unknown_date,https://store.steampowered.com/app/3180340/RIG_Riot,RIG Riot on Steam,"Sep 14, 2026 
+
+ RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other. 
+
+All Reviews: No user reviews
+
+Release Date:
+
+Sep 14, 2026
+
+Developer:
+
+Sage Boatman
+
+Publisher:
+
+Sage Boatman
+
+Tags
+
+Popular user-defined tags for this product: [...] Full Controller Support
+
+Xbox Controllers
+
+ Languages:
+
+ English 
+
+|  | Interface | Full Audio | Subtitles |
+ ---  --- |
+| English | ✔ | ✔ | ✔ |
+
+Steam Deck Compatibility
+
+Unknown
+
+Learn more
+
+Developer Comments
+
+Title: RIG Riot
+
+Genre:Action
+
+Developer:Sage Boatman
+
+Publisher:Sage Boatman
+
+Release Date: Sep 14, 2026
+
+YouTubeImage 27: ExternalDiscordImage 28: ExternalView update historyRead related newsView discussionsFind Community Groups
+
+Embed)
+
+Image 29: Report this Product)
+
+Links & info [...] Browse
+
+Recommendations
+
+Categories
+
+Hardware
+
+Ways to Play
+
+Special Sections
+
+Advanced Search
+
+Open in Desktop App
+
+You're not signed in!
+
+Open this page in the Steam App to wishlist, follow, purchase and see recommendations
+
+Image 5Image 6
+
+All Games>Action Games>RIG Riot
+
+Community Hub
+
+Image 7
+
+RIG Riot
+
+Image 8: RIG Riot
+
+Image 9
+
+RIG Riot
+
+Developer
+
+Sage Boatman
+
+Publisher
+
+Sage Boatman
+
+Release
+
+ Sep 14, 2026",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3180340,web_result,unknown_date,https://store.steampowered.com/app/3180340/RIG_Riot?l=koreana,Steam의 RIG Riot,"Title: Steam의 RIG Riot
+홈   맞춤 대기열   찜 목록   포인트 상점   뉴스   차트. 홈   맞춤 대기열   찜 목록   포인트 상점   뉴스   차트. 모든 게임 > 액션 게임 > RIG Riot. RIG Riot is a roguelike third-person mech-action shooter. Discover thousands of permanent parts, and build a RIG unlike any other. 로그인하셔서 게임을 찜 목록에 추가하거나, 팔로우하거나 또는 제외로 지정하세요. Steam에서 이 게임에 대한 정보를 수집하고 있습니다. YouTube 외부   Discord 외부   업데이트 기록 보기   관련 뉴스 보기   토론장 보기   커뮤니티 그룹 찾기. 이 제품은 귀하의 로컬 언어를 지원하지 않습니다. # RIG Riot Demo 다운로드. 이 체험판에 관해 자세히 알아보기. # RIG Riot Playtest 참가. 이 게임은 아직 Steam에 출시되지 않았습니다. 찜 목록에 추가하고 출시가 되면 알림을 받으세요. RIG Riot is a roguelike third-person mech-action shooter. Discover thousands of permanent parts, and build a RIG unlike any other. ## Exciting Combat. Combat can feel quite different depending on the style of RIG you build. Do you prefer a light and mobile mech that bombards their foes from range with a trusty sniper? Or maybe you prefer a tanky build that barrels through all opposition with laser blades and shotguns? Put together your build and then prepare for fast-paced combat against a wide array of enemies. In RIG Riot, every loss is an opportunity. Dive into the garage and check out the exciting new parts you've earned. Every part in RIG Riot is made out of a combination of components from the various full sets available in the game. There are an incredible amount of parts to find- which will you use? Finds the best ways to make your unique RIG shine as you travel through increasingly difficult stages. Search for rare weapons and mods with effects that compliment your build to see just how far you can go. ## 성인 콘텐츠 설명. ## 큐레이터의 설명. 큐레이터 12명이 이 제품을 평가했습니다. 이 제품에는 아직 평가가 없습니다. 이 제품의 평가를 직접 써서 자신의 경험을 커뮤니티와 공유할 수 있습니다. 여러분은 이 위젯 생성기를 통해 HTML 코드를 생성하여 웹사이트에 삽입함으로써 고객들이 이 게임을 Steam에서 쉽게 구매하도록 할 수 있습니다. 아래 HTML 코드를 복사하여 귀하의 웹사이트에 붙여넣으면 위의 위젯이 나타납니다. ## 이 제품의 인기 태그:(?). 이 제품에 자신만의 태그를 붙이려면 로그인 하세요.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3180340,web_result,unknown_date,https://rig-riot.en.softonic.com,Rig Riot - Download,"Title: Rig Riot - Download
+Icon of program: Rig Riot. # Rig Riot for Windows. ## Intense Mech-Action in Rig Riot. Rig Riot is a fast-paced third-person mech-action roguelike game designed for Windows. Players engage in thrilling battles while controlling customizable mechs, navigating through dynamically generated environments that ensure a unique experience in every session. The game features a variety of weapons and abilities, allowing for diverse combat strategies and play styles. In Rig Riot, players face off against waves of enemies, collecting upgrades and resources to enhance their mech's capabilities. With its engaging gameplay mechanics and vibrant graphics, Rig Riot promises an exhilarating experience for action game enthusiasts. ## Program available in other languages. Icon of program: Rig Riot. ## Rig Riot for PC. ## User reviews about Rig Riot. Have you tried Rig Riot? ## Top downloads Action for Windows. * Icon of program: Geometry Dash. * Icon of program: Among Us. * Icon of program: Grand Theft Auto V. ### Grand Theft Auto V. Rockstar's open-world blockbuster. * Icon of program: Poppy Playtime. * Icon of program: Grand Theft Auto: Vice Ci…. ### Grand Theft Auto: Vice City. Iconic open-world action adventure. ## Top downloads Action for Windows. * Icon of program: Geometry Dash. * Icon of program: Among Us. * Icon of program: Grand Theft Auto V. ### Grand Theft Auto V. Rockstar's open-world blockbuster. * Icon of program: Grand Theft Auto: Vice Ci…. ### Grand Theft Auto: Vice City. Iconic open-world action adventure. * Icon of program: Project IGI. ## Top downloads Action for Windows. * Icon of program: Grand Theft Auto V. ### Grand Theft Auto V. Rockstar's open-world blockbuster. * Icon of program: Free Fire. * Icon of program: Grand Theft Auto: Vice Ci…. ### Grand Theft Auto: Vice City. Iconic open-world action adventure. * Icon of program: Geometry Dash. * Icon of program: Project IGI. ## Related topics about Rig Riot. * ### When it was celebrated that man won against AI: the chess game that changed the world. * ### The biggest enemy of the players of Crimson Desert? We do not encourage or condone the use of this program if it is in violation of these laws.",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+3180340,youtube_video,outside_window,https://www.youtube.com/watch?v=Q4IIDY_NdOs,Armored Core Inspired Roguelite With A TON Of Potential! - Rig Riot [Playtest],,Try Rig Riot: https://store.steampowered.com/app/3180340/RIG_Riot/ RIG Riot is a roguelike third-person mech-action shooter.,,35,medium,YouTube (+15); Exact title match (+20),
+3180340,social_post,unknown_date,https://www.tiktok.com/@supercrossliveofficial/video/7628747737009278221,Monster Energy Rig Riot Nashville | Supercross LIVE SMX - TikTok,"The Monster Energy Rig Riot brought the energy to Nashville, creating a spectacle for fans. This event, captured using Insta360 technology, was",,,25,weak,Social Index (+5); Exact title match (+20),social
+3180340,social_post,unknown_date,https://www.tiktok.com/@speedwaygp/video/7654626250178235670,Wroclaw SGP Monster Energy Rig Riot | Best Speedway ... - TikTok,"436 Likes, TikTok video from FIM Speedway Grand Prix (@speedwaygp): “Experience the Wroclaw SGP Monster Energy Rig Riot — epic speedway",,,25,weak,Social Index (+5); Exact title match (+20),social
+3180340,social_post,unknown_date,https://www.tiktok.com/@baggsyboyuk/video/7661771443172117782,You never know who's going to turn up at a Rig Riot… Safe to say th...,"1760 Likes, TikTok video from Steve Baggsy Biagioni (@baggsyboyuk): “You never know who's going to turn up at a Rig Riot…",,,25,weak,Social Index (+5); Exact title match (+20),social
+3180340,social_post,unknown_date,https://www.instagram.com/p/DUlsQnhkWkg,The @MonsterEnergy Rig Riot is always a party #SupercrossLIVE ...,"Rig Riot is always a party. The Monster Energy Rider Lounge located behind the starting area in staging. Plenty of water, ice and air",,,25,weak,Social Index (+5); Exact title match (+20),social
+3180340,social_post,unknown_date,https://www.instagram.com/reel/DaqSvomoJUE,The Monster Energy Rig Riot at Goodwood Festival Speed was not ...,The Monster Energy girls brought the ENERGYYYYY at Goodwood Festival of Speed! ✨Who saw us at the rig riot? #monsterenergy #,,,25,weak,Social Index (+5); Exact title match (+20),social
+3180340,social_post,unknown_date,https://www.instagram.com/p/DOT45LJiFZf,Rig Riot wasn't ready for us! #monsterenergy #monsterenergygirls ...,"Rig Riot wasn't ready for us! Two of the best females I know !!! Photo by Monster Energy Girls on August 10, 2026.",,,25,weak,Social Index (+5); Exact title match (+20),social
+3180340,social_post,unknown_date,https://www.instagram.com/reel/DYIjPmVy4yY,The @MonsterEnergy Rig Riot going down in Fan Fest ... - Instagram,"Plan to visit the Monster Energy space between the Observation Deck and Grandstands throughout all 3 DAYS of the show, September 25-27.",,,25,weak,Social Index (+5); Exact title match (+20),social
+3180340,social_post,unknown_date,https://x.com/gamespark/status/2012283920965058598,"Game*Spark   on X: ""カスタマイズしたメカで戦うローグライト ...",カスタマイズしたメカで戦うローグライト・アクションシューター『RIG Riot』無料デモ版公開！ ゲーム序盤を体験可能で、最初のステージと思う存分,,,25,weak,Social Index (+5); Exact title match (+20),social
+3180340,social_post,unknown_date,https://x.com/itchio/status/1963240565073408476,"RIG Riot: Discover unique synergies that suit your playstyle, and ...","RIG Riot: Discover unique synergies that suit your playstyle, and travel the megastructure in search of rare permanent parts to perfect your RIG",,,25,weak,Social Index (+5); Exact title match (+20),social
+3180340,social_post,unknown_date,https://x.com/SupercrossLIVE/status/2021303899622182986,"Supercross LIVE! on X: ""The @MonsterEnergy Rig Riot is always a ...","The @MonsterEnergy Rig Riot is always a party #SupercrossLIVE #SMX #MonsterEnergy · 11:22 AM · Feb 10, 20263.7KViews.",,,25,weak,Social Index (+5); Exact title match (+20),social
+3180340,social_post,unknown_date,https://x.com/SpeedwayGP/status/2069454839122202701,"FIM Speedway GP on X: ""The #WroclawSGP Monster Energy Rig ...","The #WroclawSGP Monster Energy Rig Riot, why would you want to be anywhere else? #SGP. 00:00. 9:17 AM · Jun 23, 20263KViews.",,,25,weak,Social Index (+5); Exact title match (+20),social
+3180340,web_result,unknown_date,https://steamcommunity.com/app/3180340,RIG Riot,"RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and",,,20,weak,Exact title match (+20),general
+3180340,web_result,unknown_date,https://steamdb.info/app/3180340,RIG Riot,"RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons",,,20,weak,Exact title match (+20),general
+3180340,web_result,unknown_date,https://sageboatman.itch.io/rig-riot,RIG Riot by Sage - itch.io,"RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons",,,20,weak,Exact title match (+20),general
+3180340,web_result,unknown_date,https://steamdb.info/app/3180340,RIG Riot,"RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons",,,20,weak,Exact title match (+20),general
+3180340,web_result,unknown_date,https://steamcommunity.com/app/3180340,RIG Riot,"RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons",,,20,weak,Exact title match (+20),general
+3180340,web_result,unknown_date,https://steamcommunity.com/app/3180340,RIG Riot - Steam Community,"RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons",,,20,weak,Exact title match (+20),general
+3180340,web_result,unknown_date,https://steamcommunity.com/app/3180340,RIG Riot - Steam Community,"RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons",,,20,weak,Exact title match (+20),general
+3180340,web_result,unknown_date,https://sageboatman.itch.io/rig-riot,RIG Riot by Sage - itch.io,"RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons",,,20,weak,Exact title match (+20),general
+3180340,web_result,unknown_date,https://steamcommunity.com/app/3180340,RIG Riot,"RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons",,,20,weak,Exact title match (+20),general
+3180340,web_result,unknown_date,https://steamdb.info/app/3180340,RIG Riot,"RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons",,,20,weak,Exact title match (+20),general
+3180340,web_result,unknown_date,https://steamcommunity.com/app/3180340/discussions/0/800089396009279457,First impressions of this game :: RIG Riot General ...,"Mar 4, 2026 — Movement feels smooth with boosters and super boost, I tried scout and I can just fly indefinitely by disabling boosters for recharge.",,,20,weak,Exact title match (+20),general
+3180340,web_result,unknown_date,https://rig-riot.softonic.com,Rig Riot - Descargar,"Title: Rig Riot - Descargar
+Icono del programa: Rig Riot. # Rig Riot para Windows. ## Rig Riot: Acción Mech en Tercera Persona. Rig Riot es un emocionante juego de acción en tercera persona que combina mecánicas de roguelike con intensos combates de mechas. Los jugadores se sumergen en un mundo lleno de desafíos, donde deben enfrentarse a enemigos variados y superar niveles generados aleatoriamente. Con un enfoque en la velocidad y la estrategia, cada partida ofrece una experiencia única que mantiene a los jugadores en la tensión constante de la batalla. El juego destaca por su jugabilidad dinámica y su variedad de opciones de personalización para los mechas. Los usuarios pueden mejorar sus vehículos con diferentes armas y habilidades, lo que les permite adaptar su estilo de juego a medida que avanzan. Rig Riot ofrece un entorno visual atractivo y un diseño sonoro inmersivo, lo que lo convierte en una opción destacada para los amantes de los juegos de acción y los roguelikes. ## Programa disponible en otros idiomas. ## Rig Riot para PC. ## Opinión usuarios sobre Rig Riot. * Icono de programa: Free Fire. * Icono de programa: Geometry Dash. * Icono de programa: Grand Theft Auto V. * Icono de programa: Among Us. * Icono de programa: Call of Duty: Mobile for …. * Icono de programa: Schedule I. * Icono de programa: Poppy Playtime. ## Temas relacionadoscon Rig Riot. * Juegos De Roguelike Para Windows. * Icono de programa: Batman: Arkham City. Un programa de versión de prueba para Windows, de WarnerBros. * Icono de programa: Call of Juarez: The Carte…. Una versión completa de la aplicación para Windows, de Ubisoft. * Icono de programa: SuperMan Mod para GTA IV. * Icono de programa: Super Smash Land. * Icono de programa: Hard Reset. * Icono de programa: Tom Clancy's Rainbow Six:…. Un programa de versión completa para Windows, de Ubisoft Montreal. * Icono de programa: Magrunner: Dark Pulse. Una aplicación de versión completa para Windows, de Frogwares. * Icono de programa: The Sinking City. * Icono de programa: Bubble Bobble Sugar Dunge…. * Icono de programa: River City: Rival Showdow…. * Icono de programa: King Arthur's Gold.",,,20,weak,Exact title match (+20),general
+3180340,reddit_discussion,unknown_date,https://www.reddit.com/r/ValueInvesting/comments/1rak9mw/riot_platforms_riot_bitcoin_leverage_with_real,Riot Platforms (RIOT) - Bitcoin Leverage With Real Infrastructure Assets : r/ValueInvesting,"# Riot Platforms (RIOT) - Bitcoin Leverage With Real Infrastructure Assets : r/ValueInvesting. Skip to main contentRiot Platforms (RIOT) - Bitcoin Leverage With Real Infrastructure Assets : r/ValueInvesting. Open menu Open navigationGo to Reddit Home. Sign UpSign up for RedditLog InLog in to Reddit. Expand user menu Open settings menu. # Riot Platforms (RIOT) - Bitcoin Leverage With Real Infrastructure Assets. Riot Platforms (RIOT) is often lumped into the generic “crypto miner” category, but the business is more nuanced than that. Riot operates large-scale Bitcoin mining facilities with significant power capacity. In a world where Bitcoin remains volatile but institutional participation has grown, miners like RIOT act as leveraged exposure to BTC price movements. What makes RIOT interesting at this level is the combination of operating infrastructure and optionality. The company controls substantial energy capacity in Texas, and energy contracts matter. Mining economics depend heavily on electricity costs and hash rate competition. Efficient operators survive bear markets better than high-cost competitors. * Bitcoin price relative to mining difficulty. * Operational efficiency and hash rate growth. * Power agreements and curtailment strategies. If Bitcoin rallies, miners typically amplify those gains. Operational leverage works in favor of equity holders when margins expand. If Bitcoin drops sharply or mining difficulty increases significantly, profitability compresses quickly. One overlooked aspect is infrastructure value. Large-scale data center capacity tied to power access could potentially be repurposed over time for high-performance computing or AI workloads, depending on strategic decisions. RIOT is not a defensive name. It is high beta to crypto sentiment and macro liquidity. For investors comfortable with volatility and crypto exposure, it represents operational leverage with real assets, not just token speculation. Crypto cycles are brutal in both directions. Create your account and connect with a world of communities. By continuing, you agree to ourUser Agreementand acknowledge that you understand thePrivacy Policy. # Related Answers Section. Overview of Riot Platforms in Bitcoin mining. Top undervalued stocks to watch this year. Best value investing books for beginners. Key principles of Benjamin Grahams philosophy. Anyone can view, post, and comment to this community. Reddit RulesPrivacy PolicyUser AgreementYour Privacy ChoicesAccessibilityReddit, Inc.",,,10,weak,Reddit (+10),social
+3180340,reddit_discussion,unknown_date,https://www.reddit.com/r/stocks/comments/1efyk6b/riot_buy_or_sell,RIOT Buy or Sell? : r/stocks,"8.8M Members Online ### Opinion on RIOT 4 upvotes ·17 comments * riot platforms: r/wallstreetbets icon r/wallstreetbets•2 yr. 19M Members Online ### riot platforms 3 upvotes ·25 comments * Promoted : sidebar promoted post thumbnailBuy Riot stocks now: r/LeagueOfMemes icon r/LeagueOfMemes•1 yr. 589K Members Online ### Buy Riot stocks now : r/LeagueOfMemes - Buy Riot stocks now 3.5K upvotes ·340 comments * Bullish on Riot / Bitcoin miners: r/wallstreetbets icon r/wallstreetbets•6 mo. 19M Members Online ### Bullish on Riot / Bitcoin miners 95 upvotes ·84 comments * RIOT: r/wallstreetbets icon r/wallstreetbets•1 yr. 19M Members Online ### RIOT 4 upvotes ·8 comments * Bitcoin mining: Riot Platforms’ 10-K is full of tentacles (By Amy Castor and David Gerard): r/Buttcoin icon r/Buttcoin•1 yr. Join this discord to chat: 198K Members Online ### Bitcoin mining: Riot Platforms’ 10-K is full of tentacles (By Amy Castor and David Gerard) : r/Buttcoin - Bitcoin mining: Riot Platforms’ 10-K is full of tentacles (By Amy Castor and David Gerard)"")amycastor 54 upvotes ·32 comments * Riot Platforms: The Company Behind the Most Energy Intensive Bitcoin Mine in the 28: r/environment icon r/environment•1 yr. 1.4K upvotes ·584 comments * Riot Social Impact Fund Crosses $50 Million Mark: r/leagueoflegends icon r/leagueoflegends•2 yr. 8.1M Members Online ### Riot Social Impact Fund Crosses $50 Million Mark : r/leagueoflegends - Riot Social Impact Fund Crosses $50 Million Markestnn 256 upvotes ·73 comments * Riot Games Faces Lawsuit Over Failed Crypto Partnership: r/leagueoflegends icon r/leagueoflegends•1 yr. 8.1M Members Online ### Riot Games Faces Lawsuit Over Failed Crypto Partnership 1.3K upvotes ·152 comments * Skins and Charity Event: r/VALORANT icon r/VALORANT•3 yr. 8.8M Members Online ### Selling all stocks to reinvest 39 comments : r/DogeVerse icon r/DogeVerse•1 yr. ago : r/programming iconr/programming 6.8M Members Online ### The hard realities of working at Riot Games(x-post from /r/leagueoflegends) : r/programming - The hard realities of working at Riot Games(x-post from /r/leagueoflegends)"")reddit 36 upvotes ·53 comments * Better Buy: Riot Platforms or Marathon Digital | The Motley Fool: r/CryptoCurrency icon r/CryptoCurrency•2 yr. 1.1M Members Online ### Received a text about a job 81 upvotes ·234 comments * Riot removed Mythmaker Jhin as a charity skin for the LA Wildfires: r/leagueoflegends icon r/leagueoflegends•4 mo.",,,10,weak,Reddit (+10),social
+3180340,reddit_discussion,unknown_date,https://www.reddit.com/r/RiotBlockchain/comments/1dz7e0p/what_is_happening_with_riot,What is happening with RIOT? : r/RiotBlockchain,"ago : A banner for the subreddit : r/RammusMains iconr/RammusMains Welcome to Rammus Mains, press ok to ok 11K Members 3 Online ### Really riot? ago : A banner for the subreddit : r/TwitchMains iconr/TwitchMains 32K Members 6 Online ### YES RIOT : r/TwitchMains - YES RIOT 366 upvotes ·75 comments * Bring it back Riot: r/QuinnMains icon r/QuinnMains•8 mo. 14K Members 3 Online ### Bring it back Riot : r/QuinnMains - Bring it back Riot 171 upvotes ·24 comments * Wtf Riot: r/SwainMains icon r/SwainMains•7 mo. 30K Members 5 Online ### Wtf Riot : r/SwainMains - Wtf Riot 203 upvotes ·25 comments * What does riot mean by this? 7.3K Members 6 Online ### Riot outplayed me ngl : r/KSanteMains - Riot outplayed me ngl0:18 60 upvotes ·22 comments * Promoted : sidebar promoted post thumbnailWow, thanks riot.: r/TwitchMains icon r/TwitchMains•5 mo. ago : A banner for the subreddit : r/TwitchMains iconr/TwitchMains 32K Members 6 Online ### Wow, thanks riot. ago : A banner for the subreddit : r/YasuoMains iconr/YasuoMains ""M'Yasuo."" *tips fedora, High Noon style* 65K Members 5 Online ### thanks riot : r/YasuoMains - thanks riot 0:04 42 upvotes ·22 comments * A blessing from Riot Support: r/HeimerdingerMains icon r/HeimerdingerMains•1 mo. 9K Members 4 Online ### A blessing from Riot Support : r/HeimerdingerMains - A blessing from Riot Support2 74 upvotes ·6 comments * I love RIOT: r/singedmains icon r/singedmains•2 mo. 23K Members 5 Online ### I love RIOT 45 upvotes ·7 comments * It's time to play this champ as riot intended: r/singedmains icon r/singedmains•2 mo. 23K Members 5 Online ### It's time to play this champ as riot intended 49 upvotes ·14 comments * What's happening to Options? ago : A banner for the subreddit : r/StarStable iconr/StarStable The unofficial community run subreddit to discuss all things Star Stable 37K Members 26 Online ### What is happening with sso 3 comments * What is happening with Sailing? ago : A banner for the subreddit : r/viktormains iconr/viktormains 30K Members 9 Online ### Do you think Riot will make an official statement after all this mess?",,,10,weak,Reddit (+10),social
+3180340,reddit_discussion,unknown_date,https://www.reddit.com/r/MMORPG/comments/12n0rsz/riot_xenogenic_principal_game_designer_for_the,Riot Xenogenic Principal Game Designer for the Riot MMO steps down. : r/MMORPG,"Riot Xenogenic Principal Game Designer for the Riot MMO steps down. Skip to main contentRiot Xenogenic Principal Game Designer for the Riot MMO steps down. Open menu Open navigationGo to Reddit Home r/MMORPG A chip A close button Log InLog in to Reddit Expand user menu Open settings menu r/MMORPG is an online community dedicated to all things massively multiplayer online role-playing games (MMORPGs). Here, MMO enthusiasts gather to discuss their favorite games, share news, insights, and connect with like-minded individuals who share a passion for immersive online gaming experiences. Riot Xenogenic Principal Game Designer for the Riot MMO steps down. Riot MMO news about Xenogenic stepping down Overview of Riot Games' MMO developments Ghostcrawler's role in Riot Games Is League of Legends considered an MMO Riot Games Project T details Create your account and connect with a world of communities. By continuing, you agree to ourUser Agreementand acknowledge that you understand thePrivacy Policy. Anyone can view, post, and comment to this community * Reddit reReddit: Top posts of April 15, 2023 * * * * Reddit reReddit: Top posts of April 2023 * * * * Reddit reReddit: Top posts of 2023 * * * Reddit RulesPrivacy PolicyUser AgreementAccessibilityReddit, Inc.",,,10,weak,Reddit (+10),social
+3180340,reddit_discussion,unknown_date,https://www.reddit.com/r/nosleep/comments/8ylmcr/the_candlestick_riot,The Candlestick Riot : r/nosleep,"Title: The Candlestick Riot : r/nosleep
+# The Candlestick Riot : r/nosleep. Skip to main contentThe Candlestick Riot : r/nosleep. # The Candlestick Riot. Children make their way to the fire, throw their wax masks into the flames, and offer the Candlestick King some of their candy bounty. At the end of the night the children bury their candlesticks in their backyards - where they stay until the next year. But that's not what the Candlestick Riot is. My great grandfather was present at the first Candlestick Riot. My great grandfather, Elias, thinks it happened around 9:00 pm. His father, my great great grandfather Mathias, beat his wife to death with a heavy iron candlestick. Afterwards, my great grandfather, his father, and his elder sister stepped outside. Those who gathered the most candles from their skirmishes lit small fires all over town. They melted their candle wax. While they did this, those who lost their candles but who were not too injured to walk, gathered wood and carried it to the center of town. The outer, and bigger, circle were all those who lost their candles. The inner circle were those who all wore wax masks and held bloody candlesticks. Protect us from the echo. Mathias shouted, “Who is your Candlestick King?”. The outer circle reformed with locked arms and chanted back, “You are the Candlestick King.”. As his body burned the outer circle chanted, “Shadow and echo are defeated. Long live the flame.” Over the chanting, my great grandfather claimed to have heard his father’s last words: “Keep a candle lit, Elias.”. Ash and a skeleton covered in melted wax, clutching a candlestick. The outer circle collected the candlesticks and dispersed back to their homes. When the anniversary of, what was now referred to as The Candlestick Riot, approached, the town again worried the event might repeat itself. No one can tell me when The Candlestick Riot turned into an annual holiday. Elias believes Sinatra has knowledge of whatever forces compelled our town to behave the way it did during the Candlestick Riot. But as they did, Sinatra said to him, “Keep a candle lit, Elias.”. *   Reddit reReddit: Top posts of 2018 * * *.",,,10,weak,Reddit (+10),social
+3180340,social_post,unknown_date,https://www.tiktok.com/@jdspearsmusic/video/7650734184729791758,Composer rig at Riot Games: touring my growing music gear | TikTok,"106 Likes, TikTok video from J.D. Spears (@jdspearsmusic): “A tour of a composer's growing rig at Riot Games — why gear matters, what I use,",,,5,weak,Social Index (+5),social
+3180340,social_post,unknown_date,https://x.com/80Level/status/2051346118202773699,"Take a closer look at Warwick's rig, made for Riot Games' 2XKO ...","Take a closer look at Warwick's rig, made for Riot Games' 2XKO fighting game by Mason Smigel. Enjoy: 80.lv/articles/a-clo…",,,5,weak,Social Index (+5),social

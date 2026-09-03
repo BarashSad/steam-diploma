@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-03T16:20:08.450799+00:00",
+    "timestamp": "20260903_162008",
+    "input_file": "data/spike_explainer/2026-09-03__appid_3180340__rank_1073_to_1045__up_28/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-03__appid_3180340__rank_1073_to_1045__up_28/llm_outputs/gemini_20260903_162008.md",
+    "game_title": "RIG Riot",
+    "appid": "3180340",
+    "duration_sec": 20.57,
+    "response_length": 5615,
+    "error": null
+}

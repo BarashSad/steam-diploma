@@ -1,0 +1,307 @@
+{
+    "appnews": {
+        "appid": 3180340,
+        "newsitems": [
+            {
+                "gid": "1842846814438950",
+                "title": "New Devlog | Making RIG Riot",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814438950",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "New devlog talking about the creation of RIG Riot and some of the decisions I made along the way. Check it out! I can't wait for you all to have the game in your hands on September 14th! -Sage",
+                "feedlabel": "Community Announcements",
+                "date": 1788311220,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340
+            },
+            {
+                "gid": "1837955055366958",
+                "title": "Bipeds, Arena, and Launch Date",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366958",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey all, big demo update and launch date confirmation. Excited for you all to get the full game into your hands in September, and I hope you enjoy the demo update in the meantime.If you're interested in joining the upcoming closed beta and helping out with testing the full game I recommend joining the game's discord, as I'll be making an announcement there when I'm ready for testers.-Sage Features/Content- Biped legs can now be found as part drops- Added an Arena- Added a few new Objectives- Added a new Bandit enemy type- Added weapon customization- Weapons are now saved to loadouts- Colors and palettes can now be saved for future use- Added interface customizationChanges- Improved various textures- Various lighting improvements- Rewrote enemy RIG behavior logic- Enemies can now proc status effects- Charged status procs now also deplete 10% of the target's energy- Major Objective pools are now based on how many Major Objectives you've completedNote: Functionally this means that the first Major Objective is easier and the rest are more consistent in their difficulty- Locked stages are now displayed as locked to prevent spoilers- Added movement sounds for melee weapons and backpacks- Added a HUD Opacity slider- Major polish pass for the UI- Adjusted turbo boost cost calculation to no longer factor in weight as heavily and to adjust the cost based on your dash duration- The mouse should now be automatically moved to the top left of the screen when controller inputs are detectedBalance- Drastically reduced base damage per projectile for Fire Demon's gatling guns (210 -> 60)- Reduced turret damage mitigation amount- Increased Load Limit for the Assassin set- Increased Dash Power's effect on wall kicks- Reworked stats for all internal parts- Buffed several part mods- Doubled the horizontal movement speed boost from the Watcher pack- Turbo boost startup has become cheaper overallBug Fixes- Fixed player movement being affected by projectilesNote: Please let me know if you still have issues with this- Fixed certain Major Objectives that were meant to include some weaker enemies not spawning those enemies\u00a0- Fixed melee weapon effects/hitbox indicators being off center- Fixed the Brace shield being upside down when equipped to the right hand- Fixed responsiveness modifiers not applying to boosting and turbo boosting correctly- Fixed the exit without saving confirmation not being focused when attempting to exit the customization menu- Fixed Raid button not displaying as focused when first opening the garage menu",
+                "feedlabel": "Community Announcements",
+                "date": 1784057240,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340
+            },
+            {
+                "gid": "1833968530888438",
+                "title": "RIG Riot Launch Timing",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530888438",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey all, hope you're well. I just wanted to provide a little update on what to expect in terms of timing for the launch of RIG Riot.If you've been keeping an eye on the game's Steam page you will have seen that the launch month has slowly crept back. As of typing I just set it to August, but I wanted to provide a little more detail to anyone interested.Progress toward completing the game is going well and the end is in sight, even if it's a little further than I initially estimated. I expect to release the game before August, but I don't want to keep moving the date each month, so I set it to August just to be safe. At this time I don't think the game will launch in June but I anticipate having it content complete in the next 2 weeks, after which I'll be doing a bit of a closed beta to try and make sure everything is as tight and bug-free as possible for launch. Get plugged into the game's discord if you're interested in helping, I'll be putting the call out at some point. TL;DR: Don't worry, the game will definitely launch soon, probably before August, but timing is just difficult to estimate. Thanks for your patience as I work on getting the game wrapped up- I've been having a blast getting all the content added and I'm so excited for you all to experience the full game.-Sage",
+                "feedlabel": "Community Announcements",
+                "date": 1779980567,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340
+            },
+            {
+                "gid": "1832700592802003",
+                "title": "New Devlog | Demo and Progress Update",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592802003",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "New devlog talking about the demo and the state of development- check it out! -Sage",
+                "feedlabel": "Community Announcements",
+                "date": 1779227131,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340
+            },
+            {
+                "gid": "1827626365770939",
+                "title": "Bug Fixes - Demo Patch - March 26th, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365770939",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey folks, a pretty notable bug was found related to updating friction values for different movement modes. This patch fixes that but it might make some things feel different, let me know if you like it or hate it. I did test it out in the playtest beforehand and feedback was good so I felt it was worth pushing out.Changes- Made turbo boost section in the tutorial easierBug Fixes- Fixed the player being able to open the equipment menu while selecting an upgrade, leading to the game being unpaused with a menu open- The tooltip shown when hovering your mouse over a stat is now hidden immediately when activating stat explanations- Fixed a bug causing grounded friction to not be applied as intended- Fixed start menu not scrolling when using Thematic font- Fix Interface category display not being reset when switching categories- Fixed tutorial enemies being able to drop Scrap",
+                "feedlabel": "Community Announcements",
+                "date": 1774540710,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1827626365762293",
+                "title": "Bug Fixes - Demo Patch - March 22nd, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365762293",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Changes- Added support for chain procs to projectiles spawned by augments or volatile mods- Stat tooltips can now be viewed at any time when hovering with the mouse instead of only when stat explanations are enabledBug Fixes- Removed achievement reward descriptions for certain achievements that have changed since they were initially implemented- Fixed garage performance degradationNote: Gun muzzle flash particle effects were being remade every time weapon stats got updated, this should be addressed now- Adjusted some things about how enemy spawns are handled to try and prevent enemies from spawning in an inactive state- Fixed projectiles getting stuck upon hitting shields",
+                "feedlabel": "Community Announcements",
+                "date": 1774212040,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1827626365755479",
+                "title": "Clarity Tweaks and Bug Fixes - Demo Hotfix - March 19th, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365755479",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Changes- Outer part drops from the introductory raid are now all based on the starter sets and are no longer guaranteed to include an 'Expendable' shell- Red objective location indicator is now moved upon picking up package delivery packages- Objective compass icon indicating package location is now removed upon picking up package delivery packages- Improved button size scaling behaviorBug Fixes- Added a missing button prompt to the tutorial Mini Hotfix- Fixed the End of Run menu not working when using a controller",
+                "feedlabel": "Community Announcements",
+                "date": 1773948094,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1827626365753508",
+                "title": "Onboarding Improvements - Demo Update - March 19th, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365753508",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey Folks,Thanks for being patient while I worked on this patch. The main focus here is onboarding, which required a lot of things to be adjusted & reworked under the hood. That stuff being in-progress also meant that I couldn't really push bug fixes out as quickly as usual, which is not my favorite. I'm really looking for feedback on this update, especially on balance and how easy it is for you to figure the game out, so please let me know your thoughts! I also especially want to know if there are any other questions you still have- even if certain things don't come up during the tutorials I'm working on fleshing out the pilot manual so it can be a super helpful reference.Additionally, if you've looked at the Steam page, you'll notice that the release month has changed from April to May. Basically, I took a week off of work (day job) to try and get all of the remaining content added to the game so that I could focus on polish/translation/steam integration/etc until release. Unfortunately, I got sick early in the week and lost a ton of valuable work time. I'm not exactly sure what the release timing looks like at the moment but I will let you all know as soon as I know.Also, yes, you heard that right: translation. If your native language isn't English and you'd like to help proofread the game's text, please join the game's Discord and check out the rig-riot-localization channel. Not all the text for the game has been written yet, but I'm hoping that the text needed for the demo is at least nearing completion.Thanks for trying my small, weird game. I've still got a lot to learn so your feedback truly means the world. Thanks for being part of this project.- SageFeatures/Content- Added an Introductory Raid to provide a better explanation of the game's mechanics- Added a new \"Mission\" game mode which does not include respawning Patrol enemies and scales based on how many objectives you've completed instead of based on how much time has passed- Added new pop-ups to the Gameplay Tutorial to explain the function of each element of the HUD- Added some other new tutorials to the Pilot ManualChanges- For Package Retrieval objectives the objective marker now appears near the packageNote: Seemed like this was causing some difficulties for a few folks so I've removed the \"searching\" portion of the task. Once you know where to look it usually stops mattering anyway- Added a way to proc status effects for all Volatile Mods that previously did nothing without some other source of status effect damage- Tripled the power of downward dash boosts- Upgrade rerolls now prevent the three current options from reappearing, unless there are no additional options- Augment rerolls now prevent the three current options from reappearing- Reduced length of objective indicator beacon to alleviate confusion when objective is on a lower platform- The objective indicator icon now appears on the edge of your screen if the objective's location is not in the direction you're looking- The \"damaged taken\" screen effect now takes longer to fade away- Removed the tiny weapon render in the background of weapon stat displays- Increased height of Firing Range- Adjusted lighting for Firing Range and Tutorial- Increased size of damage type icons shown when dealing damage of a Special type- Updated achievements to specify actual names of required duelists- Enemies spawned as part of Objectives are now also subject to \"Earliest Possible Spawn Time\"-like checks. This should result in a more gradual difficulty ramp as you complete more objectives- Increased loot pickup radius and reduced horizontal velocity applied upon spawning loot- Added a visual effect that appears in loot chests when loot appears so that there is still some visual if the loot is picked up instantly- Added a way to directly navigate to settlement upgrades from the part menu- Added an \"are you sure?\" check when attempting to leave the Personalization menu without saving- Added input device detection to menu screens- Added keybinds for next/previous navigation when viewing a tutorial pop-up- Adjusted some default settingsBalance- Increased player upgrade acquisition rate overall- Increased time between patrol enemy spawns (3s -> 6s)- Slight reduction to enemy base health scaling- Reduced enemy max health scaling (10 -> 9)- Increased health restored by Recycler (1% -> 3%)Bug Fixes- Fixed the virtual keyboard- Fixed secondary objectives required per major objective not functioning as intended- Fixed several mod effects failing when attempting to use the wrong projectile pool- Fixed defeated enemies often not showing death explosion effects- Changing your weapon now correctly marks your RIG as having changes that need to be saved- Added an \"are you sure?\" check when attempting to leave the personalization screen without saving",
+                "feedlabel": "Community Announcements",
+                "date": 1773928680,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340
+            },
+            {
+                "gid": "1825093633195413",
+                "title": "Quad Leg Buffs and Bug Fixes - Demo Patch - February 23rd, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633195413",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey folks, got some buffs for quad legs and some bug fixes. Also, Next Fest has started so if you're willing I'd love some help spreading the word about RIG Riot. Hope you're having fun with the update!Changes- Innate Dash Boost Duration multipliers from leg parts now also apply to Dash Boost CooldownNote: Quads have reduced Dash Boost Duration due to being focused on a \"burstier\" playstyle. This should help with situations where consecutive boosts are needed to avoid damageBalance- Increased Reverse leg jump power multiplier (1.1 -> 1.25)- Reduced Quad leg jump multiplier (0.95 -> 0.9)- Increased Quad grounded boost multiplier (1.25 -> 1.3)- Increased Quad load limit multiplier (1.1 -> 1.2)Bug Fixes- Fixed newly unlocked weapons not being correctly added to garage weapon boxes- Fixed semi auto weapons sometimes firing into the ground with hold to fire all enabled- Fixed bonus health from mods not affecting max health- Attempted fix for weird missile targeting behavior- Added a fallback check upon opening the pause menu that should close upgrade menus in case they get stuck",
+                "feedlabel": "Community Announcements",
+                "date": 1771873420,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1825093633190939",
+                "title": "Quad Leg Bug Fixes - Demo Patch - February 21st, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633190939",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey folks, this is the first set of bug fixes for the recent Quad Leg update. More fixes are in the works but I wanted to get some of the major issues addressed quickly. Let me know if you run into any issues or if you're having a good time with the update :DChanges- Switched name of Void Slot to Blocked Slot and updated description to include an explanation of how to leave a slot empty but open for upgrades. Will likely improve this further in the future when I have more time- Adjusted experience curve- Weapon weight no longer factors into held ammo capacity calculationNote: Lighter weapons are already tuned to deal less damage, but I think the extra total ammo reduction was salt in the wound. You should already expect to take longer to finish fights with lighter weapons due to their lower DPS, so it's probably not necessary to reduce their ammo capacity as well.- Bandit missile drones now fire explosive missiles instead of kinetic- Added a new particle effect for Fire Demon's incendiary missiles- Changing to a new RIG part category now focuses your currently equipped part- Adjusted Shot Caller's weaponsBalance- Increased the player's base damage increase per upgrade level (2.5% -> 5%)- Player unpredictability now takes longer to wear off (enemy accuracy will be lower for longer after performing evasive movements)- Reduced enemy damage scaling- Termite base damage increased (50 -> 52)- Repeater base damage increased (120 -> 123)Bug Fixes- Updated garage logic to try and fix performance degradation from switching parts. Also improved general garage optimization.- Fixed upgrade rate multiplier double-dipping- Fixed Booster Efficiency being used to calculate bonuses to Generator Output Efficiency and Generator Recharge Efficiency- Fixed Booster Efficiency receiving an unintended +1 to its effect multiplier- Fixed controller being able to leave the confirmation and alert windows in the part select menu- Fixed player unable to move their mech until activating boosters- Fixed infinite load upon opening the tutorial",
+                "feedlabel": "Community Announcements",
+                "date": 1771712649,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1825093633189231",
+                "title": "The Quad Leg Update - RIG Riot Demo",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633189231",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey folks, this update is the last content update planned for the demo and it adds RIG Riot's second leg type, Quad Legs. Quad Legs are much more focused on ground-based gameplay, and you will have a chance to receive a set anytime you receive a new Leg part. I'm very excited to hear what you all think about them!In addition to Quad Legs, this update also includes an update to the starter weapon system. Namely, you can now start with multiple weapons- I've tried to keep some incentives to start with less predetermined gear, though, so let me know if you feel like more is needed. I think starting with less weapons is the best way to experience the game and I really want to make sure that doesn't go away.Furthermore, this update includes a bunch of adjustments to game balance, as well as a significant optimization pass. Let me know how all of that feels.Some things are likely to be broken so let me know if you run into any issues, I'll be very focused on this over the weekend! I really want to make sure things are in a great state going into Next Fest. Thanks for playing RIG Riot!- SageFeatures/Content- You can now equip multiple starting weapon from the garage. Note: This is a big change so expect some balance adjustments to be needed- Looted leg parts now have a chance to be Quad Legs- Added a new Void Slot starter weapon which allows you to prevent a slot from being considered while generating upgrade options- Added a setting that allows you to fire semi-automatic guns as if they were automatic- Significant optimization pass- Added a new missile drone enemy typeChanges- Part Mods are now percentage based instead of being flat values. Effect values have also all been adjusted- Fortified now provides an equal amount of Weight and Weight Load instead of flat Weapon CapacityNote: Weapon Capacity is an incredibly powerful stat due to weapon damage being balanced relative to a weapon's weight requirement. Previously it was okay to allow RIGs to have a very high Weapon Capacity from only Part Mods due to there being no guarantee the player would be able to use all of their weapon slots to the fullest. However, the inclusion of multiple starting weapons means that there would be very little reason for any build to use anything except 4 heavy weapons. Because of this I am reigning in the general availability of Weapon Capacity so that it needs to be built around instead of added onto every build.- Added world icon to improve visibility for repair pickups dropped when using the Scrapper backpack- 0 roughness is now available again- Dash Boosting while hovering now reactivates your hover upon completing the dash- Slightly increased initial speed and homing delay for Plasma Pincer- Kick damage now scales with overall upgrade level- Base weapon damage now scales with overall upgrade level instead of weapon upgrade level- Improved enemy RIG melee behavior- Updated stat distribution for all outer part shells to reduce instances of identical or mostly identical parts- Weapon stats can now be compared from the parts menu- Parts can now be sorted alphabetically- Enemy shot leading accuracy is now based on how unpredictably you are moving instead of how fast- Increased size of jump pad player detection area- Various updates to enemies to improve variety and increase challengeBalance- Slightly increased enemy base health- Reduced damage dealt by Antsy Veteran's single missile- Slight reduced mitigator and termite damage- Numerous other updates to enemy projectilesBug Fixes- Fixed part select menu not updating equipped parts upon changing loadout- Fixed projectile lifetime not applying to missiles- Fixed mitigator firing 5 projectiles per shot instead of the intended 10",
+                "feedlabel": "Community Announcements",
+                "date": 1771631025,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340
+            },
+            {
+                "gid": "1823825466490931",
+                "title": "Lighting Improvements and Bug Fixes - Demo Patch - February 3rd, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466490931",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey folks, this update is mostly fixes for larger bugs from the recent patch but it also includes some major lighting improvements- let me know what you think!Changes- Reverted punch animation change- Adjusted Wastes lighting and material used for player partsNote: The goal here is to make your color customization during runs look more like it does in the garageBug Fixes- Fixed Downward Dash not working after using a Chain Jump during a Melee Lunge- Reduced instances of melee weapons getting stuck- Fixed timer starting before load completes- Improved detection for multiple active events",
+                "feedlabel": "Community Announcements",
+                "date": 1770160384,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1823191198612586",
+                "title": "Melee and Balance Improvements - Demo Patch - February 2nd, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612586",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey folks, this update is mostly about improvements to melee auto lunge behavior and balance. Make sure to let me know what you think of the scaling in your runs with the new more measured enemy appearance logic!Changes- Horde enemies now have a manually set earliest spawn time- Spreading Swarm combination status should no longer last forever- Spreading Inferno fireballs now do double the damage but have a 50% chance to activate per tick- Updated visuals for area effects- Leaving the firing range via the pause menu now returns you to the garage- Melee auto lunge has had its maximum vertical adjustment increased- Adjusted melee auto lunge timing to prevent the player from running into their target every time- Target switching is now disabled during melee auto lunge- Tweaked punch-style melee animations to improve forward reach- Improved the visibility of the arrows indicating whether a compass object is above or below the player- Changed the method of displaying the starter RIG descriptions because the text wrapping wouldn't behaveBalance- Adjusted the scaling of Dropped Training Weights and improved the descriptorNote: It might look like dropped weights got a colossal nerf- it did get nerfed but not as much as you'd think from looking at the stats. Its highest upgrade level is now comparable to its previous second-highest level. The stat display has just never been very good so I attempted to improve it. Bug Fixes- Fixed melee auto lunge occasionally ending early after initiating it during a dash boost- Fixed post-kick launch not sending the player backward when activated close to an enemy",
+                "feedlabel": "Community Announcements",
+                "date": 1770080819,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1823191198606292",
+                "title": "Range Reassessment - Demo Hotfix - January 30th, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198606292",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey folks, just some small bug fixes. Have a great weekend!Balance- Increased spawn cost for Fire Demon enemyBug Fixes- Fixed numerous enemy weapons not having damage falloff",
+                "feedlabel": "Community Announcements",
+                "date": 1769801742,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1823191198606183",
+                "title": "Aiming and Adjustments - Demo Update - January 29th, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198606183",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "(Sorry for the late patch notes, I literally forgot to click the \"Publish\" button smh) Hey folks- lots of changes, fixes, and tweaks in this one. Many of these are based on community requests so let me know what you think. There are also definitely things I forgot to mention so keep an eye out and keep the feedback coming.Features/Content- Added a Manual Aim mode that can be toggled in the Gameplay Settings- Added a Setting to adjust the opacity of your reticle, located in the Interface Settings- Added a Setting to toggle whether you are able to switch targets while firing. Previously the default behavior was that you could not switch while firing, the new default is that you can.- Implemented Melee weapon swing delay- You can now change which side your starter weapon is equipped to by clicking the weapon button again- Added new enemies to the horde poolChanges- Objective-related enemies are now teleported back to the objective if they move too far away- Reverse Joint Legs have had their stats adjusted as part of the implementation of Quad Legs- Melee Dashes are now activated regardless of Dash Boost cooldown state. They do still require energy- Updated target selection priority settings to make it harder to create a \"bad\" setup- Volatile Mods now show the stats they will improve passively before they actually affect those stats- Profiles now display the last time they were saved- Visual changes to menus- Added a slight delay before color personalization is applied to improve performance- Your starter weapon is now equipped when visiting the firing range- You now load back into the garage upon exiting the firing range instead of the start menu- Your equipped part is now re-focused upon hovering off of a partNote: This is because some folks mentioned that they accidentally equipped part mods to unintended parts, let me know if this helps or doesn't- Difficulty scaling is no longer paused upon beginning your final boss encounter- Difficulty scaling now increases more quickly after 15 minutesBalance- Increased armor efficacy- Slight reduction to bonus scrap drop quantity scaling rate- Slightly increased base health scaling for a few Major Objective enemies- Increased maximum swing delay for Pile Bunker (0.2s -> 0.3s)- Reduced proto scout generator output efficiency (160 -> 142)- Doubled efficacy of Brawling Binge and Recovery Window- Reduced duration of the Infested status- Reduced efficacy of Enthusiastic Infestation- Adjusted application interval of A Little SomethingBug Fixes- Fixed hard lock breaking when enemy is off-screen- Improved loadout snapshot display accuracy- Brace no longer gets -75 reload speed upon leveling up- Adjusted maximum reload speed for Auxiliary Launcher (0s -> 0.3s)- Adjusted maximum reload speed for Repeater (0.1s -> 0.4s)- Fixed \"Go Back\" Keybind not working from settlement menu",
+                "feedlabel": "Community Announcements",
+                "date": 1769798246,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340
+            },
+            {
+                "gid": "1822556746164739",
+                "title": "Key Rebind Fixes - Demo Patch - January 24th, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746164739",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey folks, the focus here is on some balance changes and bug fixes. In the background I've begun working on some new content/features, so look forward to that!Changes- The player now receives additional scrap rewards per objective based on how many objectives have been completed- Your RIG is no longer prevented from turning during a Dash BoostBalance- Energy Blade length increased (400 -> 600)- Hydraulic Fist base magazine size increased (2 -> 3)- Hydraulic Fist base damage increased (800 -> 1050)- Pile Bunker explosion radius increased (400 -> 450)Bug Fixes- Fixed garage weapon display background- Fixed various input rebinding edge cases",
+                "feedlabel": "Community Announcements",
+                "date": 1769304209,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1822556746163155",
+                "title": "Tutorialization Tweaks - Demo Patch - January 23rd, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746163155",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey folks, today's update is focused on improving the Tutorial. One of RIG Riot's biggest weaknesses is that it does not explain itself well, so I'm trying to improve that. Even if you've played the tutorial already I suggest taking another run through, just in case. Let me know what you think and what you would improve- I assume there is still some iteration to do.Also, a personal note: today marks 1 week since the launch of RIG Riot's demo, and I continue to be blown away by the love and support I'm seeing for the game. As of yesterday the game's wishlists are DOUBLE what they were before the launch of the demo, and that's a pretty big deal. Thank you all for being excited about RIG Riot, it means the world and I can't wait to show you what else I have in store.-SageChanges- Improved the Tutorial (Better explanations, videos of mechanics, and easy future reference in the Pilot Manual)- Added a tutorial for Part Mods- Adjusted the background color of menus to make them easier to look at- Minimum roughness when personalizing your RIG is now 0.3Note: If your RIG turns a weird yellow color upon entering your runs you will probably want to adjust your customization since this change is not retroactiveBug Fixes- Fixed Chain Lightning creating an infinite loop and crashing the gameNote: Chain lightning can proc itself, which is pretty dangerous. However, it's also cool, so the solution was to reduce the proc chance for each separate self-chain-proc instead of totally removing the self-proc. This of course can still cause performance fluctuations but it should no longer cause a crash due to infinite loops.- Fixed Assault Sentry firing 3-round bursts",
+                "feedlabel": "Community Announcements",
+                "date": 1769212161,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1822556746159268",
+                "title": "Ambidextrous Aid - Demo Hotfix - January 22nd, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746159268",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey folks, hotfix here to fix dual wielding. If you didn't know, you can equip a second copy of a weapon if you find it as an upgrade and click a valid open slot before selecting your upgrade. Note that you do need to have enough weapon capacity available, otherwise you will just receive an upgrade to your existing weapon.Bug Fixes- Fixed inability to dual-wield weapons",
+                "feedlabel": "Community Announcements",
+                "date": 1769095620,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1822556746157509",
+                "title": "Dupes Destroyed - Demo Patch - January 21st, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157509",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey folks, small update here with a fix to the mod duplication bug and a couple other little Quality of Life improvements.Changes- You will now receive a 50% Scrap refund when recycling parts with unlocked Part Mod slots- Removed the now-redundant confirmation button from the Upgrade Selection menu- Newly unlocked starter weapons will now show up in the garage immediately instead of requiring the level to be reloadedBalance- Increased Base Damage and Upgrade Damage for the Mitigator (Energy Shotgun) by 50%Bug Fixes- Fixed a bug causing the player to receive upgraded duplicate volatile mods",
+                "feedlabel": "Community Announcements",
+                "date": 1769022475,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1821922921824382",
+                "title": "One Click Upgrades - Demo Patch - January 20th, 2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921824382",
+                "is_external_url": true,
+                "author": "Superb Television",
+                "contents": "Hey folks, made some improvements to the upgrade selection menu to simplify the experience, let me know if you like it, hate it, or wish I would change it juuuust a little. next on the list is improving the new player experience, so look forward to that!Changes- Upgrade selection now requires only a single click. Let me know if anything does not seem to be behaving as you would expect. If you want to dual-wield Weapons or equip duplicates of a Volatile Mod you now need to select the slot you want to equip the upgrade to before selecting the upgrade- Changed default photo mode keybind for gamepad to d-pad-down instead of right- Changed default Backpack Ability keybind for gamepad to d-pad-right instead of down- Reduced base volume of energy depleted sound- The player's mouse is now moved out of the way when opening the upgrade selection screen while using a controller- Adjusted location of stat displays in the RIG Part menu to cover your RIG less- Adjusted the default target selection behavior furtherBalance- Slightly increased scrap rewards from completing objectives- Reduced cost of many settlement upgrades- Adjusted horde enemy costs to reduce spawn frequency of powerful enemies early in your runs- Adjusted enemy spawn location determination logic to reduce enemies spawning on top of the playerNote: Previously, if the game could not find an open area to spawn enemies at a reasonable distance from the player, it would instead spawn them in the nearest hotspot (procedural generation mini-levels used for objectives). Unfortunately, this created situations where enemies would spawn effectively on-top of the player if they were in a hotspot at the time. Now the game instead chooses the second-nearest hotspot to the player if the player is too close to their nearest hotspot- Reduced bandit assault sentry damageBug Fixes- Fix part menu scrolling not working for gamepad users",
+                "feedlabel": "Community Announcements",
+                "date": 1768948103,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3180340,
+                "tags": [
+                    "patchnotes"
+                ]
+            }
+        ],
+        "count": 39
+    }
+}

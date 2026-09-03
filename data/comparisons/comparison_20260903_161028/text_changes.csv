@@ -1,0 +1,9 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3758950,Death at Fleming Manor,Death at Fleming Manor,928,905,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,November 2026,"Nov 3, 2026",True
+4061170,SlashZero,SlashZero,518,508,10,10,up,none,Unpriced (Coming Soon),Free,True,To be announced,Q1 2027,True
+4009490,Arctic Drive,Arctic Drive,1112,1104,8,8,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,November 2026,True
+1963680,GUNDAM ROGUE ORBIT,GUNDAM ROGUE ORBIT,237,233,4,4,up,none,Free,$59.99,True,2027,"Mar 4, 2027",True
+3486530,Stupid Never Dies,Stupid Never Dies,285,281,4,4,up,none,Unpriced (Coming Soon),$49.99,True,"Oct 21, 2026","Oct 21, 2026",False
+4354570,FINAL FANTASY VII REVELATION,FINAL FANTASY VII REVELATION,101,98,3,3,up,none,Free,$69.99,True,2027,"Apr 8, 2027",True
+2590240,METRO 2039,METRO 2039,20,20,0,0,stable,none,Free,Free,False,February 2027,"Feb 4, 2027",True
+4005900,Froggin' Around,Froggin' Around,253,253,0,0,stable,none,Free,Unpriced (Coming Soon),True,Coming soon,To be announced,True

@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3180340,RIG Riot,"""RIG Riot"" Steam",general,1,tavily,True,,5
+3180340,RIG Riot,"""RIG Riot"" trailer",general,1,tavily,True,,5
+3180340,RIG Riot,"""RIG Riot"" gameplay",general,1,tavily,True,,5
+3180340,RIG Riot,"""RIG Riot"" demo",general,1,tavily,True,,5
+3180340,RIG Riot,"""RIG Riot"" release date",general,1,tavily,True,,5
+3180340,RIG Riot,"""RIG Riot"" announcement",general,1,tavily,True,,5
+3180340,RIG Riot,"""RIG Riot"" preview",general,1,tavily,True,,5
+3180340,RIG Riot,"""RIG Riot"" review",general,1,tavily,True,,5
+3180340,RIG Riot,"""RIG Riot"" publisher",general,1,tavily,True,,5
+3180340,RIG Riot,"""RIG Riot"" developer",general,1,tavily,True,,5
+3180340,RIG Riot,"site:pcgamer.com ""RIG Riot""",press,2,tavily,False,General budget exhausted,0
+3180340,RIG Riot,"site:rockpapershotgun.com ""RIG Riot""",press,2,tavily,False,General budget exhausted,0
+3180340,RIG Riot,"site:ign.com ""RIG Riot""",press,2,tavily,False,General budget exhausted,0
+3180340,RIG Riot,"site:gamespot.com ""RIG Riot""",press,2,tavily,False,General budget exhausted,0
+3180340,RIG Riot,"site:game8.co ""RIG Riot""",press,2,tavily,False,General budget exhausted,0
+3180340,RIG Riot,"site:reddit.com ""RIG Riot""",social,3,tavily,True,,5
+3180340,RIG Riot,"site:tiktok.com ""RIG Riot""",social,4,tavily,True,,5
+3180340,RIG Riot,"site:instagram.com ""RIG Riot""",social,4,tavily,True,,5
+3180340,RIG Riot,"site:x.com ""RIG Riot""",social,4,tavily,True,,5
+3180340,RIG Riot,"site: ""RIG Riot""",social,4,tavily,True,,5

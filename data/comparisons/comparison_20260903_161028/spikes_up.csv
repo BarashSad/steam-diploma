@@ -1,0 +1,8 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3180340,RIG Riot,RIG Riot,1073,1045,28,28,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 14, 2026","Sep 14, 2026",False
+2837690,Dungeons & Dragons: Long Rest Tavern,Dungeons & Dragons: Long Rest Tavern,889,863,26,26,up,upward_spike,Free,Free,False,2027,2027,False
+3596040,Time Takers,Time Takers,716,691,25,25,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4163960,Another Eden Begins,Another Eden Begins,960,936,24,24,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 16, 2026","Sep 16, 2026",False
+3758950,Death at Fleming Manor,Death at Fleming Manor,928,905,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,November 2026,"Nov 3, 2026",True
+2870790,Dumpster Gang,Dumpster Gang,731,709,22,22,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,December 2026,December 2026,False
+3084810,Tower Lab,Tower Lab,934,912,22,22,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 7, 2026","Sep 7, 2026",False

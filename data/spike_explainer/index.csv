@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-09-03T04:01:12.472362+00:00,2870790,Dumpster Gang,data/spike_explainer/2026-09-03__appid_2870790__rank_763_to_731__up_32,32,85,data/spike_explainer/2026-09-03__appid_2870790__rank_763_to_731__up_32/llm_summary_input.md
+2026-09-03T16:19:44.985972+00:00,3180340,RIG Riot,data/spike_explainer/2026-09-03__appid_3180340__rank_1073_to_1045__up_28,28,85,data/spike_explainer/2026-09-03__appid_3180340__rank_1073_to_1045__up_28/llm_summary_input.md
