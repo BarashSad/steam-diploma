@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-04T16:15:36.097588+00:00",
+    "timestamp": "20260904_161536",
+    "input_file": "data/spike_explainer/2026-09-04__appid_2643540__rank_1001_to_953__up_48/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-04__appid_2643540__rank_1001_to_953__up_48/llm_outputs/gemini_20260904_161536.md",
+    "game_title": "Age Twisters",
+    "appid": "2643540",
+    "duration_sec": 18.37,
+    "response_length": 4782,
+    "error": null
+}
