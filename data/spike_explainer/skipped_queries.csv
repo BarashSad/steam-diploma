@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-3180340,RIG Riot,"site:pcgamer.com ""RIG Riot""",press,2,tavily,False,General budget exhausted,0
-3180340,RIG Riot,"site:rockpapershotgun.com ""RIG Riot""",press,2,tavily,False,General budget exhausted,0
-3180340,RIG Riot,"site:ign.com ""RIG Riot""",press,2,tavily,False,General budget exhausted,0
-3180340,RIG Riot,"site:gamespot.com ""RIG Riot""",press,2,tavily,False,General budget exhausted,0
-3180340,RIG Riot,"site:game8.co ""RIG Riot""",press,2,tavily,False,General budget exhausted,0
+3788160,Terminal War,"site:pcgamer.com ""Terminal War""",press,2,tavily,False,General budget exhausted,0
+3788160,Terminal War,"site:rockpapershotgun.com ""Terminal War""",press,2,tavily,False,General budget exhausted,0
+3788160,Terminal War,"site:ign.com ""Terminal War""",press,2,tavily,False,General budget exhausted,0
+3788160,Terminal War,"site:gamespot.com ""Terminal War""",press,2,tavily,False,General budget exhausted,0
+3788160,Terminal War,"site:game8.co ""Terminal War""",press,2,tavily,False,General budget exhausted,0

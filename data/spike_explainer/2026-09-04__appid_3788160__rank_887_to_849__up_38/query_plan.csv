@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3788160,Terminal War,"""Terminal War"" Steam",general,1,tavily,True,,5
+3788160,Terminal War,"""Terminal War"" trailer",general,1,tavily,True,,2
+3788160,Terminal War,"""Terminal War"" gameplay",general,1,tavily,True,,5
+3788160,Terminal War,"""Terminal War"" demo",general,1,tavily,True,,4
+3788160,Terminal War,"""Terminal War"" release date",general,1,tavily,True,,5
+3788160,Terminal War,"""Terminal War"" announcement",general,1,tavily,True,,5
+3788160,Terminal War,"""Terminal War"" preview",general,1,tavily,True,,5
+3788160,Terminal War,"""Terminal War"" review",general,1,tavily,True,,5
+3788160,Terminal War,"""Terminal War"" publisher",general,1,tavily,True,,5
+3788160,Terminal War,"""Terminal War"" developer",general,1,tavily,True,,5
+3788160,Terminal War,"site:pcgamer.com ""Terminal War""",press,2,tavily,False,General budget exhausted,0
+3788160,Terminal War,"site:rockpapershotgun.com ""Terminal War""",press,2,tavily,False,General budget exhausted,0
+3788160,Terminal War,"site:ign.com ""Terminal War""",press,2,tavily,False,General budget exhausted,0
+3788160,Terminal War,"site:gamespot.com ""Terminal War""",press,2,tavily,False,General budget exhausted,0
+3788160,Terminal War,"site:game8.co ""Terminal War""",press,2,tavily,False,General budget exhausted,0
+3788160,Terminal War,"site:reddit.com ""Terminal War""",social,3,tavily,True,,5
+3788160,Terminal War,"site:tiktok.com ""Terminal War""",social,4,tavily,True,,5
+3788160,Terminal War,"site:instagram.com ""Terminal War""",social,4,tavily,True,,5
+3788160,Terminal War,"site:x.com ""Terminal War""",social,4,tavily,True,,5
+3788160,Terminal War,"site: ""Terminal War""",social,4,tavily,True,,5

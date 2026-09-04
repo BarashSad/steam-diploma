@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-09-03T16:19:44.985972+00:00,3180340,RIG Riot,data/spike_explainer/2026-09-03__appid_3180340__rank_1073_to_1045__up_28,28,85,data/spike_explainer/2026-09-03__appid_3180340__rank_1073_to_1045__up_28/llm_summary_input.md
+2026-09-04T04:03:14.196033+00:00,3788160,Terminal War,data/spike_explainer/2026-09-04__appid_3788160__rank_887_to_849__up_38,38,85,data/spike_explainer/2026-09-04__appid_3788160__rank_887_to_849__up_38/llm_summary_input.md
