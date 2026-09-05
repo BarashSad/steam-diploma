@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-09-05T04:00:43.503340+00:00,3084810,Tower Lab,data/spike_explainer/2026-09-05__appid_3084810__rank_909_to_877__up_32,32,75,data/spike_explainer/2026-09-05__appid_3084810__rank_909_to_877__up_32/llm_summary_input.md
+2026-09-05T15:03:33.850843+00:00,2643540,Age Twisters,data/spike_explainer/2026-09-05__appid_2643540__rank_923_to_902__up_21,21,85,data/spike_explainer/2026-09-05__appid_2643540__rank_923_to_902__up_21/llm_summary_input.md

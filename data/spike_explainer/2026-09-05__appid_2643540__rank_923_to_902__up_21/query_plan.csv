@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+2643540,Age Twisters,"""Age Twisters"" Steam",general,1,tavily,True,,5
+2643540,Age Twisters,"""Age Twisters"" trailer",general,1,tavily,True,,4
+2643540,Age Twisters,"""Age Twisters"" gameplay",general,1,tavily,True,,5
+2643540,Age Twisters,"""Age Twisters"" demo",general,1,tavily,True,,5
+2643540,Age Twisters,"""Age Twisters"" release date",general,1,tavily,True,,5
+2643540,Age Twisters,"""Age Twisters"" announcement",general,1,tavily,True,,5
+2643540,Age Twisters,"""Age Twisters"" preview",general,1,tavily,True,,5
+2643540,Age Twisters,"""Age Twisters"" review",general,1,tavily,True,,5
+2643540,Age Twisters,"""Age Twisters"" publisher",general,1,tavily,True,,5
+2643540,Age Twisters,"""Age Twisters"" developer",general,1,tavily,True,,5
+2643540,Age Twisters,"site:pcgamer.com ""Age Twisters""",press,2,tavily,False,General budget exhausted,0
+2643540,Age Twisters,"site:rockpapershotgun.com ""Age Twisters""",press,2,tavily,False,General budget exhausted,0
+2643540,Age Twisters,"site:ign.com ""Age Twisters""",press,2,tavily,False,General budget exhausted,0
+2643540,Age Twisters,"site:gamespot.com ""Age Twisters""",press,2,tavily,False,General budget exhausted,0
+2643540,Age Twisters,"site:game8.co ""Age Twisters""",press,2,tavily,False,General budget exhausted,0
+2643540,Age Twisters,"site:reddit.com ""Age Twisters""",social,3,tavily,True,,5
+2643540,Age Twisters,"site:tiktok.com ""Age Twisters""",social,4,tavily,True,,5
+2643540,Age Twisters,"site:instagram.com ""Age Twisters""",social,4,tavily,True,,5
+2643540,Age Twisters,"site:x.com ""Age Twisters""",social,4,tavily,True,,5
+2643540,Age Twisters,"site: ""Age Twisters""",social,4,tavily,True,,5
