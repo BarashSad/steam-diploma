@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-09-04T16:15:35.974591+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260904_160515/rank_changes.csv",
-    "selected_appid": "2643540",
-    "selected_game_title": "Age Twisters",
+    "started_at": "2026-09-05T04:01:12.980698+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260905_035211/rank_changes.csv",
+    "selected_appid": "3084810",
+    "selected_game_title": "Tower Lab",
     "top_n": 1,
-    "old_snapshot_date": "2026-09-01",
-    "new_snapshot_date": "2026-09-04",
+    "old_snapshot_date": "2026-09-02",
+    "new_snapshot_date": "2026-09-05",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-04T16:15:35.974610+00:00",
+    "finished_at": "2026-09-05T04:01:12.980715+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

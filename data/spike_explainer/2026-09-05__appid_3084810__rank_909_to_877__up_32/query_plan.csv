@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3084810,Tower Lab,"""Tower Lab"" Steam",general,1,tavily,True,,5
+3084810,Tower Lab,"""Tower Lab"" trailer",general,1,tavily,True,,5
+3084810,Tower Lab,"""Tower Lab"" gameplay",general,1,tavily,True,,5
+3084810,Tower Lab,"""Tower Lab"" demo",general,1,tavily,True,,5
+3084810,Tower Lab,"""Tower Lab"" release date",general,1,tavily,True,,5
+3084810,Tower Lab,"""Tower Lab"" announcement",general,1,tavily,True,,5
+3084810,Tower Lab,"""Tower Lab"" preview",general,1,tavily,True,,5
+3084810,Tower Lab,"""Tower Lab"" review",general,1,tavily,True,,5
+3084810,Tower Lab,"""Tower Lab"" publisher",general,1,tavily,True,,5
+3084810,Tower Lab,"""Tower Lab"" developer",general,1,tavily,True,,5
+3084810,Tower Lab,"site:pcgamer.com ""Tower Lab""",press,2,tavily,False,General budget exhausted,0
+3084810,Tower Lab,"site:rockpapershotgun.com ""Tower Lab""",press,2,tavily,False,General budget exhausted,0
+3084810,Tower Lab,"site:ign.com ""Tower Lab""",press,2,tavily,False,General budget exhausted,0
+3084810,Tower Lab,"site:gamespot.com ""Tower Lab""",press,2,tavily,False,General budget exhausted,0
+3084810,Tower Lab,"site:game8.co ""Tower Lab""",press,2,tavily,False,General budget exhausted,0
+3084810,Tower Lab,"site:reddit.com ""Tower Lab""",social,3,tavily,True,,5
+3084810,Tower Lab,"site:tiktok.com ""Tower Lab""",social,4,tavily,True,,5
+3084810,Tower Lab,"site:instagram.com ""Tower Lab""",social,4,tavily,True,,5
+3084810,Tower Lab,"site:x.com ""Tower Lab""",social,4,tavily,True,,5
+3084810,Tower Lab,"site: ""Tower Lab""",social,4,tavily,True,,5

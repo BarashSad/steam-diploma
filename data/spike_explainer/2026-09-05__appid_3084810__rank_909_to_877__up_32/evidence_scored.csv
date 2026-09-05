@@ -1,0 +1,1290 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+3084810,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228675542,EARLY ACCESS RELEASE DATE!,,"Hey everyone! We're excited to announce that...Tower Lab is coming to Early Access on September 7th!Early Access initially includes:3 Regions with a roguelite deckbuilding campaign mode with meta progression. Unlock new towers, cores, machines, traps, utility cards, and physics effects.40 Playable C",release date,75,strong,Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['release date'] (+20),
+3084810,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=aC4Tmu_awkU,Ultron vs Avengers 🔥Ultron&#39;s First Strike in Avengers Tower Lab ⚡Avengers: Age of Ultron #thebazz2,,Ultron vs Avengers Ultron's First Strike in Avengers Tower Lab ⚡Avengers: Age of Ultron #thebazz2.,,65,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20),
+3084810,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313499,The Road to Early Access!,,"Hey everyone! We wanted to take a minute to say thank you all for playing Tower Lab's demo! The demo has already been live for over 6 months, and we've received tons of valuable feedback, suggestions, and bug reports from all of you during that time. It has been an absolute joy hearing what you have",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3084810,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746162227,Tower Lab Demo is out!,,"The demo includes multiple standard stages, endless mode, and leaderboards to compete on.Share your feedback with us, tell your friends, and add the game to your wishlist ",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3084810,youtube_video,outside_window,https://www.youtube.com/watch?v=FCEoowKglGA,Tower Lab - Early Gameplay Trailer,,Wishlist on Steam! https://store.steampowered.com/app/3084810/Tower_Lab/ Tower Lab is a roguelike tower defense game ...,"trailer, gameplay",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+3084810,youtube_video,outside_window,https://www.youtube.com/watch?v=GQ4bQGXJy_E,Tower Lab trailer,,https://store.steampowered.com/app/3084810/Tower_Lab/,trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+3084810,youtube_video,outside_window,https://www.youtube.com/watch?v=FCEoowKglGA,Tower Lab - Early Gameplay Trailer,,Wishlist on Steam! https://store.steampowered.com/app/3084810/Tower_Lab/ Tower Lab is a roguelike tower defense game ...,"trailer, gameplay",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+3084810,youtube_video,outside_window,https://www.youtube.com/watch?v=dacl_oDCZg8,TOWER LAB Demo - OP STRATEGY Fourth Game (Kinetic Towers),,"This time around I tried the Kinetic Towers and I got a huge score, easily finishing the demo. It was so chaotic by the end in the ...",demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+3084810,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1u65c99/tower_lab_play_tug_studio_pure_physicsbased_td,Tower Lab - Play Tug Studio - Pure physics-based TD ...,[Tower Lab] The demo for our love letter to physics-contraption building games is out now! r/GamePhysics. •,,demo,50,medium,Reddit (+10); Exact title match (+20); Keywords ['demo'] (+20),general
+3084810,social_post,unknown_date,https://store.steampowered.com/app/3084810/Tower_Lab,Tower Lab on Steam,"All Games > Strategy Games > Tower Lab
+
+Community Hub
+
+Tower Lab
+
+Tower Lab
+
+Developer
+
+Devon Powell, Xueer Zhu
+
+Publisher
+
+Devon Powell, Xueer Zhu
+
+Release
+
+Sep 7, 2026
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Sep 7, 2026
+
+Developer:
+
+Devon Powell, Xueer Zhu [...] ### What is the current state of the Early Access version? [...] “Tower Lab is a fully physics-driven tower defense game where depth comes from how towers combine. This kind of emergent design gets dramatically better with a large community experimenting, breaking things, and telling us what feels great and what falls flat.",,release date,45,medium,Social Index (+5); Exact title match (+20); Keywords ['release date'] (+20),social
+3084810,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199309190,"Demo Patch Notes - New cards, rebalancing, bug fixes",,GAMEPLAY:Enemy pathing physics overhaulRework Conversion Field to double Matter earned for one wave rather than instant matterRevert Kinetic Tower's projectiles so their pulse effect no longer pushes them apartCONTENT:Added physics-based utility card “Aftershock”Added physics-based utility card “Arc,"gameplay, demo",40,medium,"Official Steam News (+20); Keywords ['gameplay', 'demo'] (+20)",
+3084810,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783571761,Demo Update,,"Hi everyone, the updated demo just went up for Steam Next Fest. I have attached all the changes relevant to the demo build below. I have already received some submitted bug reports for the new build. So we will get on those ASAP. Thank you! v0.0.6 Demo Update Gameplay Added tower tech trees with bra","gameplay, demo",40,medium,"Official Steam News (+20); Keywords ['gameplay', 'demo'] (+20)",
+3084810,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198608866,Demo Patch Notes v0.0.4.1,,New FeatureAdded right click Tower Context Menu to sell tower and view tower info after placement Bug FixesFixed wave progression and shop occurrence in endless mode (starts at wave 6)Fixed hand card duplication when pressing F to start wave while hovering over a cardFixed losing tower when moving a,demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3084810,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365121453,Progress Update - A bunch of new things!,,"Hi, everyone!We hope you had a wonderful holiday season! We've been hard at work throughout the break, and Community Playtest 2 has been invaluable in shaping the demo. Here's a summary of what we've accomplished over the past couple weeks.Deckbuilding System OverhaulThe core deckbuilding loop has r",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+3084810,web_result,unknown_date,https://store.steampowered.com/app/3084810/Tower_Lab,Tower Lab on Steam,"### What is the current state of the Early Access version? [...] All Games > Strategy Games > Tower Lab
+
+Community Hub
+
+Tower Lab
+
+Tower Lab
+
+Developer
+
+Devon Powell, Xueer Zhu
+
+Publisher
+
+Devon Powell, Xueer Zhu
+
+Release
+
+Sep 7, 2026
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Sep 7, 2026
+
+Developer:
+
+Devon Powell, Xueer Zhu [...] “Tower Lab is a fully physics-driven tower defense game where depth comes from how towers combine. This kind of emergent design gets dramatically better with a large community experimenting, breaking things, and telling us what feels great and what falls flat.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3084810,web_result,unknown_date,https://steamcommunity.com/app/3084810/discussions,Tower Lab General Discussions :: Steam Community,"Store Page
+
+Tower Lab
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Tower Lab
+
+Store Page
+
+Start a New Discussion
+
+START A NEW DISCUSSION
+
+You need to sign in or create an account to do that.
+
+< >
+
+Showing 1-15 of 28 active topics
+
+ 0
+
+10 Aug @ 5:18pm
+
+DEVS PLS!
+
+kiriharra
+
+ 2
+
+11 Jul @ 7:13am
+
+will we be able to build our own maze? the overall game feels very limited fast...
+
+Napoleonic S
+
+ 6
+
+22 Jun @ 10:04am [...] SUB FORUMS
+
+General Discussions
+
+Events & Announcements
+
+ Discussions Rules and Guidelines
+
+Close) [...] STORE 
+
+Home   Discovery Queue   Wishlist   Points Shop   News   Charts
+
+ COMMUNITY 
+
+Home   Discussions   Workshop   Market   Broadcasts
+
+ About   SUPPORT
+
+Install Steam sign in  |  language",,announcement,40,medium,Exact title match (+20); Keywords ['announcement'] (+20),general
+3084810,web_result,unknown_date,https://www.rockpapershotgun.com/tower-lab-is-a-neat-little-tower-defence-roguelite-i-would-have-loved-wasting-time-with-in-it-class-as-a-teen,Tower Lab is a neat little tower defence roguelite I would have loved wasting time with in IT class as a teen | Rock Paper Shotgun,"Home
+ News
+ Tower Lab
+
+# Tower Lab is a neat little tower defence roguelite I would have loved wasting time with in IT class as a teen
+
+Now you're thinking with physics
+
+Multipler towers with pathways connecting to each other feature portals with bean-like enemies pouring out of portals in Tower Lab.  
+
+Image credit: Play Tug Studio
+
+Oisin Kuhnke avatar
+
+News  by Oisin Kuhnke  Contributor
+
+Published on
+
+2 comments [...] Tower Lab works thusly: there are two portals, one where variously coloured upright beans are emitted, another where they enter. You are presented with a selection of cards, all of which cost a certain amount of points, points which you are in limited supply of, that allow you to plant different bits of machinery to try and shove these enemy beans off a ledge.
+
+Cover image for YouTube videoTower Lab - Early Gameplay Trailer
+
+Watch on YouTube [...] This is exactly the kind of game I would have loved messing about with as a distracted teen. IT class is a waste of time! But a game like Tower Lab isn't. It's quite satisfying in small doses, and levels don't waste your time either. I quite like the foundations that have been laid here, and look forward to recreating scenes from my youth when it launches later this year. In the meantime, you can wishlist the game on Steam right here.",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3084810,web_result,unknown_date,https://www.rockpapershotgun.com/tower-lab-is-a-neat-little-tower-defence-roguelite-i-would-have-loved-wasting-time-with-in-it-class-as-a-teen,Tower Lab is a neat little tower defence roguelite I would ...,"Tower Lab works thusly: there are two portals, one where variously coloured upright beans are emitted, another where they enter. You are presented with a selection of cards, all of which cost a certain amount of points, points which you are in limited supply of, that allow you to plant different bits of machinery to try and shove these enemy beans off a ledge.
+
+Cover image for YouTube videoTower Lab - Early Gameplay Trailer
+
+Watch on YouTube [...] Home
+ News
+ Tower Lab
+
+# Tower Lab is a neat little tower defence roguelite I would have loved wasting time with in IT class as a teen
+
+Now you're thinking with physics
+
+Multipler towers with pathways connecting to each other feature portals with bean-like enemies pouring out of portals in Tower Lab.  
+
+Image credit: Play Tug Studio
+
+Oisin Kuhnke avatar
+
+News  by Oisin Kuhnke  Contributor
+
+Published on
+
+2 comments [...] you attempt to blast enemies off a ledge into an infinite void to their demise, feels pretty close.",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3084810,web_result,unknown_date,https://store.steampowered.com/app/3084810/Tower_Lab,Tower Lab on Steam,"All Games > Strategy Games > Tower Lab
+
+Community Hub
+
+Tower Lab
+
+Tower Lab
+
+Developer
+
+Devon Powell, Xueer Zhu
+
+Publisher
+
+Devon Powell, Xueer Zhu
+
+Release
+
+Sep 7, 2026
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Sep 7, 2026
+
+Developer:
+
+Devon Powell, Xueer Zhu [...] “Tower Lab is a fully physics-driven tower defense game where depth comes from how towers combine. This kind of emergent design gets dramatically better with a large community experimenting, breaking things, and telling us what feels great and what falls flat. [...] ### What is the current state of the Early Access version?",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3084810,web_result,unknown_date,https://steamcommunity.com/app/3084810,Tower Lab,"If you would like to play the game before then, we have a couple more playtests planned before release. Feel free to keep an eye on the Steam page for playtest signups or join our Discord to keep up to date!
+
+Thank you all for checking out the game!
+
+Devon & Xueer
+
+Tower Lab
+
+16
+
+5
+
+Demo Patch Notes - New cards, rebalancing, bug fixes
+
+Jun 20
+
+GAMEPLAY: [...] This game really doesn't need the roguelike deckbuilding part of the game, I'd argue it does nothing but subtract from the experience. Any of the cards that aren't a tower basically just shuffle around a few resources (health, money, energy, shield), or cause you to draw or discard cards. None of the non-tower cards have any meaningful consequence on the actual tower defense gameplay, and only serve to pad out your deck, and distract from the usual choices that make tower defenses interesting. [...] Jun 20
+
+GAMEPLAY:
+
+ Enemy pathing physics overhaul
+ Rework Conversion Field to double Matter earned for one wave rather than instant matter
+ Revert Kinetic Tower's projectiles so their pulse effect no longer pushes them apart
+
+CONTENT:
+
+ Added physics-based utility card “Aftershock”
+ Added physics-based utility card “Arc Discharge”
+ Added physics-based utility card “Gravity Dampener”
+ Added physics-based utility card “Black Ice”
+
+QOL:",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+3084810,web_result,unknown_date,https://www.rockpapershotgun.com/tower-lab-is-a-neat-little-tower-defence-roguelite-i-would-have-loved-wasting-time-with-in-it-class-as-a-teen,Tower Lab is a neat little tower defence roguelite I would ...,"Tower Lab works thusly: there are two portals, one where variously coloured upright beans are emitted, another where they enter. You are presented with a selection of cards, all of which cost a certain amount of points, points which you are in limited supply of, that allow you to plant different bits of machinery to try and shove these enemy beans off a ledge.
+
+Cover image for YouTube videoTower Lab - Early Gameplay Trailer
+
+Watch on YouTube [...] Home
+ News
+ Tower Lab
+
+# Tower Lab is a neat little tower defence roguelite I would have loved wasting time with in IT class as a teen
+
+Now you're thinking with physics
+
+Multipler towers with pathways connecting to each other feature portals with bean-like enemies pouring out of portals in Tower Lab.  
+
+Image credit: Play Tug Studio
+
+Oisin Kuhnke avatar
+
+News  by Oisin Kuhnke  Contributor
+
+Published on
+
+2 comments [...] you attempt to blast enemies off a ledge into an infinite void to their demise, feels pretty close.",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3084810,web_result,unknown_date,https://store.steampowered.com/app/3084810/Tower_Lab,Tower Lab on Steam,"“Community feedback has shaped Tower Lab since our earliest playtests, and Early Access continues that same loop at a larger scale:  
+   
+ - Our Discord is the heart of development. We're active there daily, and it's where players report bugs, share contraptions, and discuss balance directly with us.  
+ - We publish regular updates covering new content, gameplay changes, QOL improvements, and bug fixes. So players can see how their feedback turns into real improvements. [...] Roguelite Deckbuilding Campaign: strategic contraption and escalating hazard difficulties
+ Standard Tower Defense Arcade: more casual and traditional gameplay
+ Endless Arcade: procedurally expanding map
+ Puzzle Arcade: focus on simulation and optimization
+ Workshop Level Editor: build and share your own creations
+
+## ・Synergies are not scripted; they happen through strategic contraption building
+
+Bounce mines off the deflector tower panel.
+
+Move bomb tower projectile with your fans. [...] All Games > Strategy Games > Tower Lab
+
+Community Hub
+
+Tower Lab
+
+Tower Lab
+
+Developer
+
+Devon Powell, Xueer Zhu
+
+Publisher
+
+Devon Powell, Xueer Zhu
+
+Release
+
+Sep 7, 2026
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Sep 7, 2026
+
+Developer:
+
+Devon Powell, Xueer Zhu",,"gameplay, release date",40,medium,"Exact title match (+20); Keywords ['gameplay', 'release date'] (+20)",general
+3084810,web_result,unknown_date,https://tower-lab-demo.en.softonic.com/mac,Tower Lab Demo for Mac - Download,"This demo features deck-building elements where every run is unique, letting you unlock new towers and upgrades, experiment with creative",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3084810,web_result,unknown_date,https://steamcommunity.com/app/3084810,Tower Lab,"We're anticipating launching Tower Lab into Early Access in Q3 of this year, and because we're just a two-person team, we want to shift our focus to developing the main game. Tower Lab has grown so much since the initial demo launch that we feel it no longer accurately represents the game, and keeping the demo updated was pulling significant time away from our release plans. We want to put as much effort as possible into the Early Access release. As a result, we have decided to take the demo [...] to take the demo offline one week from today, on 6/29/2026. [...] 6
+
+[EX512
+
+Jun 22 @ 10:04am](
+
+General Discussions
+
+The Road to Early Access!
+
+Jun 22
+
+Hey everyone!
+
+We wanted to take a minute to say thank you all for playing Tower Lab's demo!
+
+The demo has already been live for over 6 months, and we've received tons of valuable feedback, suggestions, and bug reports from all of you during that time. It has been an absolute joy hearing what you have to say and adding your ideas to the game.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3084810,web_result,unknown_date,https://steamdb.info/app/3108620/info,Tower Lab Demo (App 3108620),Accessibility Categories · Camera Comfort · Custom Volume Controls · Playable without Timed Input · Mouse Only Option · Adjustable Difficulty · Save Anytime,,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3084810,web_result,unknown_date,https://store.steampowered.com/app/3084810/Tower_Lab,Tower Lab on Steam,"All Games > Strategy Games > Tower Lab
+
+Community Hub
+
+Tower Lab
+
+Tower Lab
+
+Developer
+
+Devon Powell, Xueer Zhu
+
+Publisher
+
+Devon Powell, Xueer Zhu
+
+Release
+
+Sep 7, 2026
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Sep 7, 2026
+
+Developer:
+
+Devon Powell, Xueer Zhu [...] “Tower Lab is a fully physics-driven tower defense game where depth comes from how towers combine. This kind of emergent design gets dramatically better with a large community experimenting, breaking things, and telling us what feels great and what falls flat. [...] ### What is the current state of the Early Access version?",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3084810,web_result,unknown_date,https://steamdb.info/app/3084810,Tower Lab,"Release Date, 7 September 2026 – 13:00:00 UTC ( in 9 days ). Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3084810,web_result,unknown_date,https://store.steampowered.com/app/3084810/_,Tower Lab on Steam,Planned Release Date: Q3 2026 ; Gameplay · Save Anytime ; Visual. Camera Comfort ; Audio. Custom Volume Controls ; Input · Mouse Only Option.,,"gameplay, release date",40,medium,"Exact title match (+20); Keywords ['gameplay', 'release date'] (+20)",general
+3084810,web_result,unknown_date,https://store.steampowered.com/app/3084810/Tower_Lab,Tower Lab on Steam,"All Games > Strategy Games > Tower Lab
+
+Community Hub
+
+Tower Lab
+
+Tower Lab
+
+Developer
+
+Devon Powell, Xueer Zhu
+
+Publisher
+
+Devon Powell, Xueer Zhu
+
+Release
+
+Sep 7, 2026
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Sep 7, 2026
+
+Developer:
+
+Devon Powell, Xueer Zhu [...] Read more
+
+This game is not yet available on Steam
+
+# Planned Release Date: Sep 7, 2026
+
+This game plans to unlock in approximately 5 days
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+See all discussions 
+
+Report bugs and leave feedback for this game on the discussion boards
+
+## About This Game
+
+## ・An experimental pure physics tower defense
+
+Enemies have no health. Every robot and projectile is a physics object. [...] See all 17 supported languages
+
+Title: Tower Lab  
+ Genre: Action, Casual, Indie, Simulation, Strategy, Early Access  
+
+Developer: Devon Powell, Xueer Zhu
+
+Publisher: Devon Powell, Xueer Zhu
+
+Release Date: Sep 7, 2026
+
+Visit the website   Discord   YouTube   Instagram   Bilibili   TikTok   X   View privacy policy   View update history   Read related news   View discussions   Visit the Workshop   Find Community Groups
+
+Embed
+
+Links & info
+
+## Coming Soon To Early Access",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3084810,web_result,unknown_date,https://steamcommunity.com/app/3084810,Tower Lab,"If you would like to play the game before then, we have a couple more playtests planned before release. Feel free to keep an eye on the Steam page for playtest signups or join our Discord to keep up to date!
+
+Thank you all for checking out the game!
+
+Devon & Xueer
+
+Tower Lab
+
+16
+
+5
+
+Demo Patch Notes - New cards, rebalancing, bug fixes
+
+Jun 20
+
+GAMEPLAY: [...] Early Access Game
+
+Get instant access and start playing; get involved with this game as it develops. Learn more.
+
+Most popular community and official content for the past week.  (?)
+
+EARLY ACCESS RELEASE DATE!
+
+Aug 24
+
+Hey everyone!
+
+We're excited to announce that...
+
+Tower Lab is coming to Early Access on September 7th!
+
+Early Access initially includes: [...] We're anticipating launching Tower Lab into Early Access in Q3 of this year, and because we're just a two-person team, we want to shift our focus to developing the main game. Tower Lab has grown so much since the initial demo launch that we feel it no longer accurately represents the game, and keeping the demo updated was pulling significant time away from our release plans. We want to put as much effort as possible into the Early Access release. As a result, we have decided to take the demo",,"gameplay, demo, release date",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo', 'release date'] (+20)",general
+3084810,web_result,unknown_date,https://store.steampowered.com/app/3084810/Tower_Lab,Tower Lab on Steam,"All Games > Strategy Games > Tower Lab
+
+Community Hub
+
+Tower Lab
+
+Tower Lab
+
+Developer
+
+Devon Powell, Xueer Zhu
+
+Publisher
+
+Devon Powell, Xueer Zhu
+
+Release
+
+Sep 7, 2026
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Sep 7, 2026
+
+Developer:
+
+Devon Powell, Xueer Zhu [...] “Tower Lab is a fully physics-driven tower defense game where depth comes from how towers combine. This kind of emergent design gets dramatically better with a large community experimenting, breaking things, and telling us what feels great and what falls flat. [...] ### What is the current state of the Early Access version?",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3084810,web_result,unknown_date,https://store.steampowered.com/app/3084810/Tower_Lab,Tower Lab on Steam,"All Games > Strategy Games > Tower Lab
+
+Community Hub
+
+Tower Lab
+
+Tower Lab
+
+Developer
+
+Devon Powell, Xueer Zhu
+
+Publisher
+
+Devon Powell, Xueer Zhu
+
+Release
+
+Sep 7, 2026
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Sep 7, 2026
+
+Developer:
+
+Devon Powell, Xueer Zhu [...] “Tower Lab is a fully physics-driven tower defense game where depth comes from how towers combine. This kind of emergent design gets dramatically better with a large community experimenting, breaking things, and telling us what feels great and what falls flat. [...] ### What is the current state of the Early Access version?",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3084810,web_result,unknown_date,https://store.steampowered.com/app/3084810/Tower_Lab,Tower Lab on Steam,"All Games > Strategy Games > Tower Lab
+
+Community Hub
+
+Tower Lab
+
+Tower Lab
+
+Developer
+
+Devon Powell, Xueer Zhu
+
+Publisher
+
+Devon Powell, Xueer Zhu
+
+Release
+
+Sep 7, 2026
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Sep 7, 2026
+
+Developer:
+
+Devon Powell, Xueer Zhu [...] “Tower Lab is a fully physics-driven tower defense game where depth comes from how towers combine. This kind of emergent design gets dramatically better with a large community experimenting, breaking things, and telling us what feels great and what falls flat. [...] Roguelite Deckbuilding Campaign: strategic contraption and escalating hazard difficulties
+ Standard Tower Defense Arcade: more casual and traditional gameplay
+ Endless Arcade: procedurally expanding map
+ Puzzle Arcade: focus on simulation and optimization
+ Workshop Level Editor: build and share your own creations
+
+## ・Synergies are not scripted; they happen through strategic contraption building
+
+Bounce mines off the deflector tower panel.
+
+Move bomb tower projectile with your fans.",,"gameplay, release date",40,medium,"Exact title match (+20); Keywords ['gameplay', 'release date'] (+20)",general
+3084810,web_result,unknown_date,https://store.steampowered.com/app/3084810/Tower_Lab,Tower Lab on Steam,"Publisher:
+
+Devon Powell, Xueer Zhu
+
+Tags
+
+Popular user-defined tags for this product:
+
+Roguelite  Physics  Tower Defense  Deckbuilding  Sandbox  Strategy  Building  Simulation  Base Building  Roguelike  3D  Action  Isometric  Sci-fi  Arcade  Tactical  Singleplayer  Casual  Indie  Early Access 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+Features [...] All Games > Strategy Games > Tower Lab
+
+Community Hub
+
+Tower Lab
+
+Tower Lab
+
+Developer
+
+Devon Powell, Xueer Zhu
+
+Publisher
+
+Devon Powell, Xueer Zhu
+
+Release
+
+Sep 7, 2026
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Sep 7, 2026
+
+Developer:
+
+Devon Powell, Xueer Zhu [...] See all 17 supported languages
+
+Title: Tower Lab  
+ Genre: Action, Casual, Indie, Simulation, Strategy, Early Access  
+
+Developer: Devon Powell, Xueer Zhu
+
+Publisher: Devon Powell, Xueer Zhu
+
+Release Date: Sep 7, 2026
+
+Visit the website   Discord   YouTube   Instagram   Bilibili   TikTok   X   View privacy policy   View update history   Read related news   View discussions   Visit the Workshop   Find Community Groups
+
+Embed
+
+Links & info
+
+## Coming Soon To Early Access",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3084810,web_result,unknown_date,https://steamdb.info/app/3084810,Tower Lab,"Developer Devon Powell, Xueer Zhu Publisher Devon Powell, Xueer Zhu … this roguelite tower defense game. Release Date 7 September 2026",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3084810,web_result,unknown_date,https://store.steampowered.com/app/3084810/Tower_Lab,Tower Lab on Steam,"All Games > Strategy Games > Tower Lab
+
+Community Hub
+
+Tower Lab
+
+Tower Lab
+
+Developer
+
+Devon Powell, Xueer Zhu
+
+Publisher
+
+Devon Powell, Xueer Zhu
+
+Release
+
+Sep 7, 2026
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Sep 7, 2026
+
+Developer:
+
+Devon Powell, Xueer Zhu [...] See all 17 supported languages
+
+Title: Tower Lab  
+ Genre: Action, Casual, Indie, Simulation, Strategy, Early Access  
+
+Developer: Devon Powell, Xueer Zhu
+
+Publisher: Devon Powell, Xueer Zhu
+
+Release Date: Sep 7, 2026
+
+Visit the website   Discord   YouTube   Instagram   Bilibili   TikTok   X   View privacy policy   View update history   Read related news   View discussions   Visit the Workshop   Find Community Groups
+
+Embed
+
+Links & info
+
+## Coming Soon To Early Access [...] ### What is the current state of the Early Access version?",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3084810,youtube_video,outside_window,https://www.youtube.com/watch?v=wS9mm1ptLsg,FRANKENSTEIN 2025 #shortsfeed #trailer #shorts #short #shortvideo #movie#song #edit,,"Overview & Release Directed and written by Guillermo del Toro, the film reimagines the classic Frankenstein; or, The Modern ...",trailer,35,medium,YouTube (+15); Keywords ['trailer'] (+20),
+3084810,youtube_video,outside_window,https://www.youtube.com/watch?v=jVTzDhcy2P4,A Physics Based Tower Defense?! [ Tower Lab ],,You can find Tower Lab on Steam ...,,35,medium,YouTube (+15); Exact title match (+20),
+3084810,youtube_video,outside_window,https://www.youtube.com/watch?v=2Kh8UB5ho7E,Tower Lab - Gravity Tower,,Wishlist Tower Lab on Steam! https://s.team/a/3084810 #games #indiegame #indiegames #gamedev #gamedevelopment.,,35,medium,YouTube (+15); Exact title match (+20),
+3084810,youtube_video,outside_window,https://www.youtube.com/watch?v=FH-YJ8dAmQ4,Tower Lab - Kinetic Tower Introduction,,Wishlist Tower Lab on Steam! https://s.team/a/3084810 #games #indiegame #indiegames #gamedev #gamedevelopment.,,35,medium,YouTube (+15); Exact title match (+20),
+3084810,youtube_video,outside_window,https://www.youtube.com/watch?v=2Kh8UB5ho7E,Tower Lab - Gravity Tower,,Wishlist Tower Lab on Steam! https://s.team/a/3084810 #games #indiegame #indiegames #gamedev #gamedevelopment.,,35,medium,YouTube (+15); Exact title match (+20),
+3084810,youtube_video,outside_window,https://www.youtube.com/watch?v=FH-YJ8dAmQ4,Tower Lab - Kinetic Tower Introduction,,Wishlist Tower Lab on Steam! https://s.team/a/3084810 #games #indiegame #indiegames #gamedev #gamedevelopment.,,35,medium,YouTube (+15); Exact title match (+20),
+3084810,reddit_discussion,unknown_date,https://www.reddit.com/r/IndieGaming/comments/1ed4r8p/our_whacky_physicsbased_tower_defense_game_now,Our whacky physics-based tower defense game now has a Steam page! : r/IndieGaming,"Tower Lab - Play Tug Studio - An emergent physics roguelite where entities interactImage 39 r/Games•8mo ago    ### Tower Lab - Play Tug Studio - An emergent physics roguelite where entities interact    3 comments [...] Skip to main contentOur whacky physics-based tower defense game now has a Steam page! : r/IndieGaming
+
+Open menu Open navigation and are hard at work getting the core loop in, we have just published our Steam page and would love to hear what you think!
+
+Steam Page:Tower Lab
+
+ Reply  Share 
+
+# People also ask about section
+
+ People also ask about 
+
+Overview of Tower Lab game features
+
+Tips for prioritizing labs in tower defense
+
+Most anticipated indie games of 2024 [...] Image 8: u/MEGA-W-21 avatar MEGA-W-21  •Ad    Uma aposta pode mudar tudo.    Image 9: Thumbnail image: Uma aposta pode mudar tudo.    talentogamer.com  Play Now   
+
+  
+
+   Tower Lab - Play Tug Studio - Pure physics-based TD where the enemies have no healthImage 10 r/Games•3mo ago    ### Tower Lab - Play Tug Studio - Pure physics-based TD where the enemies have no health    29 upvotes ·3 comments",,,30,weak,Reddit (+10); Exact title match (+20),general
+3084810,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1u65c99/tower_lab_play_tug_studio_pure_physicsbased_td,Tower Lab - Play Tug Studio - Pure physics-based TD ...,"Use towers to push, bounce and manipulate the speed of objects to move them around. Connect objects together with ropes to design your own crowd",,,30,weak,Reddit (+10); Exact title match (+20),general
+3084810,reddit_discussion,unknown_date,https://www.reddit.com/r/TheTowerGame/comments/1tc2y1p/new_tool_time_say_hello_to_tower_labs,"New tool time, say hello to ""Tower Labs. : r/TheTowerGame","The app allows you to plot out your labs just like in game with the same layout, import, export, share, and compare lab configs easily. All",,,30,weak,Reddit (+10); Exact title match (+20),general
+3084810,social_post,unknown_date,https://www.instagram.com/reel/DMjsdH_qPqG,"Devon | Making Tower Lab 💥 on Instagram: ""Tower Lab - Shrink Enemies, Grow Projectiles
+
+#gamedev #indiedev #gamedevelopment #games""","Never miss a post from devonpowell3d. Sign up for Instagram to stay in the loop. Tower Lab - Shrink Enemies, Grow Projectiles. That would be perfect as a phone game. When does this come out. I say I'm an Average Tower Defense Enjoyer. So I'm definitely looking forward to this! TicTacs have never been such a threat to humanity until today. Looks fun, added it to my wishlist! im just wondering about the scalability. Doing so is very easy on HP defenses but with no hp and just collision? Also the varity of turrets seems limited. Wish you the best of luck.(can you add a boss that instead of stunning the towers it is ignoring a fundamental fizic law?). Hey man love this idea, and I was wondering if I could suggest something? reminds of one of my all time favorites, a mobile game named mekorama. This looks so fun, I really like Tower defense games but I sometimes feel like they all feel too similar. It's great to see such a unique idea 💖💖🙌. Love to see new takes on classic genres like this. I follow that with big interest. Log in to like or comment.",,,25,weak,Social Index (+5); Exact title match (+20),social
+3084810,social_post,unknown_date,https://www.instagram.com/p/C8GEEQUSNS6?hl=am-et,"Architecture Lab on Instagram: ""Milan Mihelič's 1978 office tower in Ljubljana showcases a blend of modernism and functionality. This tower features clean lines, extensive use of glass, and a sleek, minimalist design that emphasizes efficiency and contemporary aesthetics.
+
+© Photographer Valentin Je...","#1978OfficeTower #MilanMihelič #LjubljanaArchitecture""
+Milan Mihelič's 1978 office tower in Ljubljana showcases a blend of modernism and functionality. This tower features clean lines, extensive use of glass, and a sleek, minimalist design that emphasizes efficiency and contemporary aesthetics. Log in to like or comment. Never miss a post from architecturelab. Sign up for Instagram to stay in the loop.",,showcase,25,weak,Social Index (+5); Keywords ['showcase'] (+20),social
+3084810,social_post,unknown_date,https://x.com/DevonPowell3d,Devon | Tower Lab (@DevonPowell3d) / Posts / X - Twitter,"Hey #pitchyagame! Tower Lab is a physics-based, roguelike tower defense game where the enemies have to be pushed off the level.",,,25,weak,Social Index (+5); Exact title match (+20),social
+3084810,social_post,unknown_date,https://x.com/NATS/status/1626232354980401155,Always a thrill to visit our Digital Tower Lab at @HeathrowAirport ...,Always a thrill to visit our Digital Tower Lab at @HeathrowAirport. Amazing work looking at applications for Artificial Intelligence in air,,,25,weak,Social Index (+5); Exact title match (+20),social
+3084810,social_post,unknown_date,https://x.com/BlankenshipLRUE/status/1619501544260648960,"Taylor Blankenship on X: ""Inertia Tower Lab with 6th graders last ...","Inertia Tower Lab with 6th graders last week! I have to say, it was one of the most exciting labs we've done so far!",,,25,weak,Social Index (+5); Exact title match (+20),social
+3084810,social_post,unknown_date,https://x.com/TAMUEngineering/status/2087985817171952123,TAMU Engineering on X,"a 142-foot vertical assembly of pipes, pumps and tanks — known as the “Tower Lab” (or “Tower of Terror”) — forms a massive flow loop used for",,,25,weak,Social Index (+5); Exact title match (+20),social
+3084810,social_post,unknown_date,https://steamcommunity.com/app/3084810,Tower Lab,"Devon & Xueer
+
+Early Access Roadmap:
+
+Tower Lab
+
+21
+
+3
+
+The deckbuilder aspect feels extremely shoehorned in [...] interesting. The whole sy... [...] game with new and novel mechan...",,,25,weak,Social Index (+5); Exact title match (+20),social
+3084810,social_post,unknown_date,https://www.towerlabs.com,Tower Laboratories | Top U.S. Effervescent Manufacturer,"Skip to content
+
+businessdevelopment@towerlabs.com | (860) 767-2127
+
+Careers | Contact Us | Locations
+
+tower laboratories logo
+
+Careers | Contact Us | Locations
+
+tower laboratories logo
+
+# Effervescence Starts Here [...] ### Commitment to Quality & Compliance
+
+All Tower facilities are registered with the FDA and operate under strict cGMP directives. Our in‑house labs test raw materials and finished products to guarantee performance and regulatory compliance across OTC, prescription, supplement, and cosmetic categories.
+
+Explore Compliance Standards
+
+capa Tower Laboratories
+
+tower laboratories headquarters
+
+Manufacturing facilities
+
+### Built for Scale. Engineered for Precision. [...] Tower Laboratories has expertise in the development of all types of effervescent products from concept through commercialization. Tower has produced and developed a number of effervescent products ranging from drugs to cosmetic applications to beverages.
+
+###### Private Label
+
+National Brand Equivalent store brand products are available in multiple item categories. Tower Laboratories has direct selling relationships with top domestic retailers, consistently achieving high service levels.",,,25,weak,Social Index (+5); Exact title match (+20),social
+3084810,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641588688,Community Playtest 1 Wrap-up!,,"Thank you all so much for participating in our very first community playtest! We are genuinely blown away by the response. The amount of time you all put into writing up feedback, reporting bugs, and sharing your experiences with us has been incredible, and we couldn't be more grateful for this comm",,20,weak,Official Steam News (+20),
+3084810,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641396428,Game Update! v0.0.2,,"Hi, everyone!Hope you are having a great week so far ☺️We’ve chosen this coming weekend to launch the first playtest on Steam. Any feedback and suggestions are welcome and highly valued!This playtest will be available from October 24th to 26th, 2025 - a total of 3 days. It will be announced on our D",,20,weak,Official Steam News (+20),
+3084810,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772502506,"Welcome, welcome, welcome ⚙️🔧",,"Hi there! Welcome to our first devlog! It’s great to have you here 😊It’s crazy to think that this was just a little jam entry a year ago. We picked it up again a few months later after discovering how much we enjoy the idea of expanding on it. The game has come so far already, and we’re only getting",,20,weak,Official Steam News (+20),
+3084810,web_result,unknown_date,https://steamcommunity.com/app/3084810,Steam Community :: Tower Lab,"Devon & Xueer
+
+Early Access Roadmap:
+
+Tower Lab
+
+21
+
+3
+
+The deckbuilder aspect feels extremely shoehorned in [...] interesting. The whole sy... [...] game with new and novel mechan...",,,20,weak,Exact title match (+20),general
+3084810,web_result,unknown_date,https://steamcommunity.com/app/3084810,Tower Lab,"Devon & Xueer
+
+Early Access Roadmap:
+
+Tower Lab
+
+21
+
+3
+
+The deckbuilder aspect feels extremely shoehorned in [...] Store Page
+
+Tower Lab
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Tower Lab
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+Visit the Store Page
+
+Early Access Game [...] BALANCE:
+
+ Rebalanced all enemies, waves, towers, and the game’s general economy to account for physics overhaul and improved difficulty scaling
+ Removed Tesla Tower, Salvage, and Hot Swap from Region 1 starting deck
+
+Tower Lab
+
+1
+
+0
+
+will we be able to build our own maze? the overall game feels very limited fast...",,,20,weak,Exact title match (+20),general
+3084810,web_result,unknown_date,https://steamdb.info/app/3084810,Tower Lab,"Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes",,,20,weak,Exact title match (+20),general
+3084810,web_result,unknown_date,https://steamcommunity.com/app/3084810,Tower Lab,"Devon & Xueer
+
+Early Access Roadmap:
+
+Tower Lab
+
+21
+
+3
+
+The deckbuilder aspect feels extremely shoehorned in [...] Store Page
+
+Tower Lab
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Tower Lab
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+Visit the Store Page
+
+Early Access Game [...] BALANCE:
+
+ Rebalanced all enemies, waves, towers, and the game’s general economy to account for physics overhaul and improved difficulty scaling
+ Removed Tesla Tower, Salvage, and Hot Swap from Region 1 starting deck
+
+Tower Lab
+
+1
+
+0
+
+will we be able to build our own maze? the overall game feels very limited fast...",,,20,weak,Exact title match (+20),general
+3084810,web_result,unknown_date,https://steamcommunity.com/app/3084810,Tower Lab,"Devon & Xueer
+
+Early Access Roadmap:
+
+Tower Lab
+
+21
+
+3
+
+The deckbuilder aspect feels extremely shoehorned in [...] Store Page
+
+Tower Lab
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Tower Lab
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+Visit the Store Page
+
+Early Access Game [...] BALANCE:
+
+ Rebalanced all enemies, waves, towers, and the game’s general economy to account for physics overhaul and improved difficulty scaling
+ Removed Tesla Tower, Salvage, and Hot Swap from Region 1 starting deck
+
+Tower Lab
+
+1
+
+0
+
+will we be able to build our own maze? the overall game feels very limited fast...",,,20,weak,Exact title match (+20),general
+3084810,web_result,unknown_date,https://steamdb.info/app/3084810,Tower Lab,"Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes",,,20,weak,Exact title match (+20),general
+3084810,web_result,unknown_date,https://www.rockpapershotgun.com/tower-lab-is-a-neat-little-tower-defence-roguelite-i-would-have-loved-wasting-time-with-in-it-class-as-a-teen,Tower Lab is a neat little tower defence roguelite I would ...,"Home
+ News
+ Tower Lab
+
+# Tower Lab is a neat little tower defence roguelite I would have loved wasting time with in IT class as a teen
+
+Now you're thinking with physics
+
+Multipler towers with pathways connecting to each other feature portals with bean-like enemies pouring out of portals in Tower Lab.  
+
+Image credit: Play Tug Studio
+
+Oisin Kuhnke avatar
+
+News  by Oisin Kuhnke  Contributor
+
+Published on
+
+2 comments [...] you attempt to blast enemies off a ledge into an infinite void to their demise, feels pretty close. [...] How do teens in IT classes waste their time these days? When I was a young whippersnapper, when my teacher wasn't looking I'd head to sites like Miniclip, Nitrome, wherever I could get my hands on some Flash games, to play all sorts of little oddities, particularly system heavy ones that were fun to mess around with for 10 minutes once in a while. Games like that feel rare now with the death of Flash, but I think Tower Lab, a physics roguelite tower defence deckbuilder where you attempt to",,,20,weak,Exact title match (+20),general
+3084810,web_result,unknown_date,https://steamcommunity.com/app/3084810,Tower Lab,"Devon & Xueer
+
+Early Access Roadmap:
+
+Tower Lab
+
+21
+
+3
+
+The deckbuilder aspect feels extremely shoehorned in [...] QOL:
+
+ Add tower info button to tower right-click menu to quickly view its tech tree
+
+BUGFIX:
+
+ Fixed Fan Tower capstone
+ Fixed Tesla Tower capstone
+ Fixed an issue where enemies could stop pathing
+ Fixed upgraded gravity tower capturing enemy units permanently (projectile lifetime rebalance)
+
+BALANCE: [...] Store Page
+
+Tower Lab
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Tower Lab
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+Visit the Store Page
+
+Early Access Game",,,20,weak,Exact title match (+20),general
+3084810,web_result,unknown_date,https://steamcommunity.com/app/3084810,Tower Lab,"Devon & Xueer
+
+Early Access Roadmap:
+
+Tower Lab
+
+21
+
+3
+
+The deckbuilder aspect feels extremely shoehorned in [...] interesting. The whole sy... [...] Store Page
+
+Tower Lab
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Tower Lab
+
+Store Page
+
+1 in Group Chat;)
+
+1 in Group Chat;)
+
+Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.
+
+Visit the Store Page
+
+Early Access Game",,,20,weak,Exact title match (+20),general
+3084810,web_result,unknown_date,https://www.towerlabs.com,Tower Laboratories | Top U.S. Effervescent Manufacturer,"Skip to content
+
+businessdevelopment@towerlabs.com | (860) 767-2127
+
+Careers | Contact Us | Locations
+
+tower laboratories logo
+
+Careers | Contact Us | Locations
+
+tower laboratories logo
+
+# Effervescence Starts Here [...] ### Commitment to Quality & Compliance
+
+All Tower facilities are registered with the FDA and operate under strict cGMP directives. Our in‑house labs test raw materials and finished products to guarantee performance and regulatory compliance across OTC, prescription, supplement, and cosmetic categories.
+
+Explore Compliance Standards
+
+capa Tower Laboratories
+
+tower laboratories headquarters
+
+Manufacturing facilities
+
+### Built for Scale. Engineered for Precision. [...] Tower Laboratories has expertise in the development of all types of effervescent products from concept through commercialization. Tower has produced and developed a number of effervescent products ranging from drugs to cosmetic applications to beverages.
+
+###### Private Label
+
+National Brand Equivalent store brand products are available in multiple item categories. Tower Laboratories has direct selling relationships with top domestic retailers, consistently achieving high service levels.",,,20,weak,Exact title match (+20),general
+3084810,web_result,unknown_date,https://steamcommunity.com/app/3084810,Tower Lab,"Devon & Xueer
+
+Early Access Roadmap:
+
+Tower Lab
+
+21
+
+3
+
+The deckbuilder aspect feels extremely shoehorned in [...] interesting. The whole sy... [...] game with new and novel mechan...",,,20,weak,Exact title match (+20),general
+3084810,web_result,unknown_date,https://www.towerlabs.com,Tower Laboratories | Top U.S. Effervescent Manufacturer,"Skip to content
+
+businessdevelopment@towerlabs.com | (860) 767-2127
+
+Careers | Contact Us | Locations
+
+tower laboratories logo
+
+Careers | Contact Us | Locations
+
+tower laboratories logo
+
+# Effervescence Starts Here [...] ### Commitment to Quality & Compliance
+
+All Tower facilities are registered with the FDA and operate under strict cGMP directives. Our in‑house labs test raw materials and finished products to guarantee performance and regulatory compliance across OTC, prescription, supplement, and cosmetic categories.
+
+Explore Compliance Standards
+
+capa Tower Laboratories
+
+tower laboratories headquarters
+
+Manufacturing facilities
+
+### Built for Scale. Engineered for Precision. [...] Tower Laboratories has expertise in the development of all types of effervescent products from concept through commercialization. Tower has produced and developed a number of effervescent products ranging from drugs to cosmetic applications to beverages.
+
+###### Private Label
+
+National Brand Equivalent store brand products are available in multiple item categories. Tower Laboratories has direct selling relationships with top domestic retailers, consistently achieving high service levels.",,,20,weak,Exact title match (+20),general
+3084810,youtube_video,outside_window,https://www.youtube.com/watch?v=H7nkGTPJ5Y0,Pizza Tower 🍕  Game 2d indie #pizzatower #pizzatowershorts #game #games #2d,,"pizza tower, pizza tower ost, pizza tower scream meme, pizza tower song, pizza tower intro, pizza tower speedrun, pizza tower all ...",,15,weak,YouTube (+15),
+3084810,youtube_video,outside_window,https://www.youtube.com/watch?v=jfJ5Yr-KIsE,The Tower Defense Game Where You DON&#39;T Kill the Enemies,,"Roguelite tower defense where enemies can't be killed, knock them off with physics instead! Build devastating contraptions that ...",,15,weak,YouTube (+15),
+3084810,youtube_video,outside_window,https://www.youtube.com/watch?v=A5c1ohvbQEo,"I abused physics to destroy 100,000 enemies",,"It's all about physics in this building defense game, and I'm ready to abuse the heck out of GRAVITY!! Throwing enemies off the ...",,15,weak,YouTube (+15),
+3084810,youtube_video,outside_window,https://www.youtube.com/watch?v=A5c1ohvbQEo,"I abused physics to destroy 100,000 enemies",,"It's all about physics in this building defense game, and I'm ready to abuse the heck out of GRAVITY!! Throwing enemies off the ...",,15,weak,YouTube (+15),
+3084810,reddit_discussion,unknown_date,https://www.reddit.com/r/TheTowerGame/comments/1fssc8f/lab_research_priority,Lab research priority : r/TheTowerGame,Lab 1: Perma lab speed. To and beyond level 70. Lab 2: Golden Tower duration until done. Lab 3: Golden Tower Bonus until it gets super expensive,,,10,weak,Reddit (+10),general
+3084810,reddit_discussion,unknown_date,https://www.reddit.com/r/TheTowerGame/comments/1hgc6we/how_is_lab_speed_worth_it,How is Lab Speed Worth It? : r/TheTowerGame,"I’m on lvl 50, it takes 8 days and 2 hrs to research it. It goes from 2x to 2.02. Exactly a 1% increase.
+
+I have 5 labs running. So 5x24x.01 =1.2",,,10,weak,Reddit (+10),general
+3084810,reddit_discussion,unknown_date,https://www.reddit.com/r/TheTowerGame/comments/15xoziv/tower_optimization,Reddit - The heart of the internet,"Maximizing your tower upgrades in ""The Tower Game"" requires a strategic approach across various aspects of the game. ### Workshop Upgrades. **Economy First:** Prioritize the top 4 utility upgrades (Coins/wave, coins/kill, cash/wave, cash bonus) as they are the foundation of your growth. **Gold Boxing:** Focus on gold boxing cheaper upgrades first to maximize the benefit from free upgrades. ""Start trying to gold box cheaper upgrades in your workshop so your free ups more on the stuff that counts."". **Blender Build:** For common enemies, upgrade Attack Speed, Multishot, Knockback, and Orbs to create a ""blender"" effect. ""If you're dying to common enemies, upgrade your 'Blender.'"". **Boss Defense:** Invest in Health, Defense %, Defense Absolute, Thorns, and Lifesteal to tank and kill bosses. ""If you're dying to bosses, you need health and defense to tank hits and use thorns to kill them."". **Elite Strategy:** Balance damage and health upgrades to deal with elites, which are immune to orbs. **Avoid The Wall:** The Wall upgrade is detrimental until you can invest heavily into its labs. ### Lab Upgrades. **Unlock All Labs:** Your top priority should be unlocking all 5 lab slots to maximize research potential. ""Top priority for a new player is unlocking all 5 labs..."". **Core Lab Setup:** Focus on Game Speed, Lab Speed, Attack Speed, Damage/Crit Factor, Health, and Coin/Kill. ""A basic lab setup would be: Game speed > Lab speed, Attack Speed, Damage/crit factor, Health, Coin/kill."". **Permanent Research:** Keep Game Speed, Lab Speed, and Attack Speed permanently researching until maxed. ""Game speed should be permanently researched until maxed..."". ### Ultimate Weapons (UWs). **Prioritize Key UWs:** Aim for Golden Tower (GT), Black Hole (BH), Death Wave (DW), and Spotlight in that order. ""The top UW, in priority order, are Golden Tower > Black Hole > Death Wave > Spotlight."". is getting the Golden Tower and Black Hole UWs, and getting them 'synced'..."". **Restart if Necessary:** If your first UW is not GT, consider restarting the game. ""If you unlock ultimate weapons and it’s not golden tower…. Anyone can view, post, and comment to this community. ## Top Posts.",,,10,weak,Reddit (+10),social
+3084810,reddit_discussion,unknown_date,https://www.reddit.com/r/TheTowerGame/comments/1mitva1/black_hole_cooldown_half_golden_tower,Black Hole cooldown half Golden Tower : r/TheTowerGame,"Black Hole cooldown half Golden Tower : r/TheTowerGame. Skip to main contentBlack Hole cooldown half Golden Tower : r/TheTowerGame. Open menu Open navigationGo to Reddit Home. Black Hole cooldown half Golden Tower. I have BH and GT synced at 3:20, the module that syncs BH GT and DW. My DW is 2 upgrades aways from sync that's why i did the reduction incrementally instead of saving for 1 big buy. But that module is also my only good module of that shape. Slow CD reduction will improve my only good module. Best tower upgrades for late-game success. For late-game success in The Tower Game, there are several key upgrades and strategies you should focus on. Here's a guide based on the advice from experienced players on Reddit:. * **Lab Speed and Income**: Crucial for overall progression. ### Workshop Upgrades. * **Avoid Wall Upgrades**: Until you have substantial income. ### Lab Upgrades. * **Golden Tower and Black Hole Sync**: Critical for massive coin gains. ""Golden Tower absolutely"" and ""One of the most important steps any player can take... is getting the Golden Tower and Black Hole UWs, and getting them 'synced'."". * **Attack Speed and Damage**: Essential for high-wave progression. * **Health and Defense**: For tanking high-level enemies. ""Health and Damage/Crit Factor are critical for new players ability to tank and kill elites."". * **Prioritize Golden Tower, Black Hole, Death Wave, Spotlight**: These are the top UWs for their economic and offensive benefits. ""The top UW, in priority order, are Golden Tower > Black Hole > Death Wave > Spotlight."". * **Invest in ILM for Late-Game Damage**: ILM (Inner Land Mines) can be very powerful with the right upgrades. ### Late-Game Builds. * **Hybrid Builds**: Good for tournaments and high-level play. These upgrades and strategies should help you progress efficiently and achieve late-game success in The Tower Game. How to balance resources in The Tower. Most effective hero combinations in The Tower. Tips for new players starting The Tower. Unique tower designs that players love. Create your account and connect with a world of communities. Anyone can view, post, and comment to this community.",,,10,weak,Reddit (+10),social
+3084810,reddit_discussion,unknown_date,https://www.reddit.com/r/TheTowerGame/comments/1oqa9sj/my_ideas_for_added_content_for_the_tower_massive,My ideas for added content for the tower (massive spreadsheet) : r/TheTowerGame,"Title: My ideas for added content for the tower (massive spreadsheet) : r/TheTowerGame
+My ideas for added content for the tower (massive spreadsheet) : r/TheTowerGame. Skip to main contentMy ideas for added content for the tower (massive spreadsheet) : r/TheTowerGame. My ideas for added content for the tower (massive spreadsheet). But yeah, I am serious about working with the dev team, and I hope they like my ideas, but I also dont want to act like I dont already love all the content already in the game. For the most part this is just the addition of milestones up to 10k, but with added features and rewards like boss fights (with unique battle conditions) and new enemies. 5000 New Enemy type (Knight) Boss fight. Starting Tier 5, the Knight wave(5k) will start adding the cards and perks. 7500 New Enemy type (Queen) Boss Fight. 10000 New Enemy type (King) Boss Fight. After the 10k boss fight, opens up tier (#) plus, which starts the run over at 0 but the tier is now harder by x1.5 (displayed on the stat page. Even if vet players have more waves, they still must go back and defeat the bosses for the badges/ new rewards. Note: I think it would be cool to add a repeatable 5k milestone that gives ONLY 2 stones (No matter the tier) with the appropriate paid pack. Wave 10k King Boss Fight. Wave 5k (Knight Boss) Knight Badge (0.2% atk bonus). -UUs tab unlocked w labs (details below)/ 2 repeat stones. Wave 7.5k (Queen Boss) Badge 0.2% health 10/25stones. Wave 10k (King Boss) Badge 0.2% coins 15/25 stones. Defense abs card unlocked (details below) / 2 stones repeatable. Unlocks: Lab Common perk plus/ 2 stones repeatable. Unlocks: Lab Uncommon (green uw perks) perk plus/ 2 stones repeatable. Unlocks: Unlock UW Comet (w labs)/ 2 stones repeatable. Unlocks: Lab Common perk plus epic/ 2 stones repeatable. Unlocks: North star UW unlocked/ 2 stones repeatable. Tier 14 Unlocks Random Enemy type. Unlocks: Noir Skin Pack (tower skin 0.6% coins, background 0.6% coins) /2 stones repeatable. Wave 10k King Badge (0.2% coin bonus). Unlocks: Momentum UW unlocked/ 2 stones repeatable.",,,10,weak,Reddit (+10),social
+3084810,reddit_discussion,unknown_date,https://www.reddit.com/r/BambuLab/comments/18ezdls/temperature_tower_on_bambu_studio,Temperature tower on Bambu Studio : r/BambuLab - Reddit,253K Members Online ### Sale on bambu printers 1 upvote ·7 comments * Bambu printers are just awesome: r/BambuLab icon r/BambuLab•5 mo. 253K Members Online ### Spine Tower : r/BambuLab - Spine Tower5 56 upvotes ·8 comments * 4 months now in the insane world of 3D prints with a second Bambu lab this week 🥹🥹😃: r/BambuLab icon r/BambuLab•4 mo. 253K Members Online ### 4 months now in the insane world of 3D prints with a second Bambu lab this week 🥹🥹😃 : r/BambuLab - 4 months now in the insane world of 3D prints with a second Bambu lab this week 🥹🥹😃 56 upvotes ·48 comments * The foolproof nature of Bambu Lab printers: r/BambuLab icon r/BambuLab•11 days ago : A banner for the subreddit : r/BambuLab iconr/BambuLab Here we discuss everything related to Bambu Lab 3D printers. 253K Members Online ### The foolproof nature of Bambu Lab printers 29 upvotes ·14 comments * The current office setup: r/BambuLab icon r/BambuLab•5 mo. 253K Members Online ### Just got everything moved to its new workbench stand table thing… : r/BambuLab - Just got everything moved to its new workbench stand table thing… 69 upvotes ·46 comments * Bambu Prices: r/BambuLab icon r/BambuLab•27 days ago : A banner for the subreddit : r/BambuLab iconr/BambuLab Here we discuss everything related to Bambu Lab 3D printers. 253K Members Online ### Bambu Prices 304 upvotes ·316 comments * Top mount spool holder: r/BambuLab icon r/BambuLab•21 days ago : A banner for the subreddit : r/BambuLab iconr/BambuLab Here we discuss everything related to Bambu Lab 3D printers. 253K Members Online ### Top mount spool holder : r/BambuLab - Top mount spool holder5 31 upvotes ·21 comments * Bambu Studio: r/BambuLab icon r/BambuLab•2 yr. 253K Members Online ### Bambu Studio 1 upvote ·2 comments * Bambu Warning Sign: r/BambuLab icon r/BambuLab•2 yr. 253K Members Online ### Bambu Warning Sign 6 upvotes * Bambu Lab X1 Carbon Broken: r/BambuLab icon r/BambuLab•1 yr. 253K Members Online ### Bambu Lab X1 Carbon Broken 13 comments * Layer heights in bambu studio: r/BambuLab icon r/BambuLab•2 yr. 253K Members Online ### Layer heights in bambu studio 1 upvote * Additional Printer profiles in Bambu Studio: r/BambuLab icon r/BambuLab•2 yr.,,,10,weak,Reddit (+10),social
+3084810,reddit_discussion,unknown_date,https://www.reddit.com/r/BambuLab/comments/1f3hiy3/hydroponic_tower_project,Hydroponic tower project : r/BambuLab - Reddit,"Hydroponic tower project : r/BambuLab Skip to main contentHydroponic tower project : r/BambuLab Open menu Open navigationGo to Reddit Home r/BambuLab A chip A close button Get App Get the Reddit app Log InLog in to Reddit Expand user menu Open settings menu Here we discuss everything related to Bambu Lab 3D printers. Best STL files for hydroponic towers Modular hydroponic tower 3D printing tips Hydroponic tower garden with lights ideas 3D printed vertical garden concepts Create your account and connect with a world of communities. By continuing, you agree to ourUser Agreementand acknowledge that you understand thePrivacy Policy. Anyone can view, post, and comment to this community * RedditreReddit: Top posts of August 28, 2024 * * * * RedditreReddit: Top posts of August 2024 * * * * RedditreReddit: Top posts of 2024 * * * Reddit RulesPrivacy PolicyUser AgreementReddit, Inc. * Crime, Mystery, & Thriller Movies & Series",,,10,weak,Reddit (+10),social
+3084810,social_post,unknown_date,https://www.tiktok.com/discover/moving-bambu-lab-prime-tower,Moving Bambu Lab Prime Tower | TikTok,"## Discover videos related to Moving Bambu Lab Prime Tower on TikTok. Here's a 3d printing slicer, tutorial on how to move your prime tower to the edge of your build plate in bambu studio. #3dprinting #3dprintingtutorial #bambu #primetower #3dprinttok 3D Printing Tutorial: Move Prime Tower in Bambu Studio. Learn to reposition your prime tower to optimize your 3D printing process in Bambu Studio. 3D printing tutorial, move prime tower, Bambu Studio, 3D printing tips, build plate optimization, printing process improvement, 3D slicer guide, artificial exclusion zone, prime tower placement, northpole3dprinting. Can you guess whats on the build plate?#3dprinttok #3dprinting #x1c @BAMBULAB USA Discover the New Prime Tower in Bambu Studio 2.0. Explore the improvements in the Prime Tower feature of Bambu Studio 2.0 and its impact on 3D printing. new prime tower Bambu Studio 2.0 improvements in 3D printing optimal layer printing Bambu Lab USA 3D printing technology enhancements. ajustar tamaño Prime Tower BambuStudio, tips y trucos impresión 3D, tutoriales de BambuLab, cambiar ajustes Prime Tower, guía de BambuStudio, consejos prácticos impresión 3D, mejorar experiencia BambuStudio, configuración de impresión 3D, optimización de impresión 3D, técnicas de BambuLab. Replace the Prime Tower with another object in Bambu Studio #poo #waste #bambulab #primetower. #3dprinting #bambustudio #primetower #ribwall @bambulabs New Bambu Prime Tower and Rib Wall Explained. Bambu Prime Tower features, importance of rib wall in construction, 3D printing technology advancements, Bambu Studio latest designs, rib wall benefits in structure, new Bambu products explained, Bambu Labs innovations, Prime Tower construction details, rib wall structural integrity, Bambu 3D printing techniques. prime tower collapse 3D print disaster, 56-hour print collapse, Houston Texans fan projects, 3D printing mishaps, Bambu Labs printer experiences, exciting 3D printing outcomes, troubleshooting 3D prints, Houston's tech community, 3D printing tips and tricks, creative 3D printing solutions. (And “poop”!) #printxpixel #asmr #fyp #3d #3dprint #fdm #bambulab #bambu #poop #💩 #prime #print #learn #learnontiktok. adjust prime tower size in Bambu Studio, Bambu Studio tutorial for 3D printing, change tower size for 3D prints, 3D printing prime tower adjustment, tools for Bambu Studio, 3D print tutorial, scale model printing techniques, Bambu Studio prime tower guide, effective 3D printing tips, optimizing 3D printing settings.",,,5,weak,Social Index (+5),social
+3084810,social_post,unknown_date,https://www.tiktok.com/discover/abbott-labs-willis-tower,Abbott Labs Willis Tower | TikTok,"# Abbott Labs Willis Tower. Explore the heartwarming teacher-student moments in Abbott Elementary, along with a thrilling elevator ride to the 103rd floor of Willis Tower! Abbott Elementary teacher student moments, Abbott Elementary filming location, Willis Tower elevator ride experience. ## Explore the heartwarming teacher-student moments in Abbott Elementary, along with a thrilling elevator ride to the 103rd floor of Willis Tower! Abbott Elementary teacher student moments, Abbott Elementary filming location, Willis Tower elevator ride experience. #abbott #alinity #maintenance #chemistry #cls #clinicallabscientist #science #medicine #laboratory #hospital Weekly Maintenance Guide for Alinity Systems. Learn how to perform weekly maintenance on Alinity systems, including cleaning procedures for optimal functionality. weekly maintenance for Alinity systems, cleaning Alinity systems, laboratory maintenance procedures, clinical lab scientist tasks, pipettor probe cleaning guide, hospital laboratory cleaning, Alinity system upkeep, science maintenance tips, medicine laboratory procedures, laboratory equipment care. @Shirley Ryan AbilityLab climb @Willis Tower Chicago 105 floors @Morning Routine. #chicago #willistower #climb #donate #chitown. La foto más famosa de Chicago es en el @Skydeck Chicago de la Willis Tower. #skydeckchicago #willistower #quehacerenchicago #winterinchicago #andresenchicago La foto más icónica de Chicago desde el Skydeck. Visita Skydeck Chicago en la Willis Tower y disfruta de vistas impresionantes. foto icónica de Chicago, vistas desde el Skydeck, qué hacer en Chicago, subir a la Willis Tower, fotografías en Skydeck Chicago, experiencias en Chicago, mejores poses en Skydeck, visitar Chicago en invierno, panorámicas de Chicago, Skydeck Chicago impresionantes. More than 2000 people will climb to the top of the Willis Tower on Sunday for a great cause. SkyRise Chicago raises more than $1 million dollars each year for the Shirley Ryan Ability Lab. abc7chicago15.1K. Abbott alinity m being my favourite laboratory machine because my thesis is related to it.❤️💯Virology laboratory. Willis Tower #chicago #fyp #foryoupage #foryou. Mi intento de vlog de Chicago aunque en realidad se me olvidaba grabar todo jajaja 🤦🏻‍♀️😂 #funny #love #chicago #skydeck #thebean #willistower. Chi-Town Adventures #WillisTower #chicago #downtown 🏙️. Grateful i was able to experience Chicago! ### Related to Abbott Labs Willis Tower. Willis Tower AntennaWillis and Sears TowerWillis Tower CollapseWillis Tower LightsWillis Tower Study AreaLab Station TunisSynexis LabWillis Tower New Year EveThe Willis TowerWillis Tower Gift Shop.",,,5,weak,Social Index (+5),social
+3084810,social_post,unknown_date,https://www.tiktok.com/discover/bell-tower,Bell Tower | TikTok,"Cathedral Bell TowerClock Tower BellsBell Tower CobblemonBell Tower KeyBell Tower SoundCornell Bell TowerBell Tower UncVigan Bell TowerBell Tower BangerThe Sinking Bell Tower [...] Reschensee Bell Tower #Italy #AbandonedPlaces #HiddenPlaces #InterestingFacts #HistoryFacts Reschensee Bell Tower history and facts. Discover the history and fascinating facts of the submerged Reschensee bell tower in Italy — why it stands alone and its abandoned backstory.
+
+Image 8 Daily Facts World558 [...] Looking to host your next event in Nashville? The Bell Tower has everything you need to host a memorable event! Visit us online to book your tour. #nashvilleweddingvenue #wedding #nashvilleevents #eventvenue #downtownnashville Host Your Next Event at The Bell Tower in Nashville. Discover the perfect venue for your Nashville event at The Bell Tower! Book your tour today for a memorable experience!
+
+Image 30 The Bell Tower565
+
+### Related to Bell Tower",,,5,weak,Social Index (+5),social
+3084810,social_post,unknown_date,https://www.tiktok.com/discover/jeddah-tower-vs-creek-tower?lang=en,Jeddah Tower Vs Creek Tower | TikTok,"JEDDAH TOWER VS DUBAI CREEK TOWER #100k #foryou #fyp #10liks #stunts Jeddah Tower vs Dubai Creek Tower Comparison. Explore the unique features and designs of Jeddah Tower and Dubai Creek Tower in this in-depth comparison. #JeddahTower #DubaiCreekTower. Jeddah Tower comparison, Dubai Creek Tower features, architectural comparison Jeddah Dubai, tallest skyscrapers 2023, structural design Jeddah Tower, Dubai Creek Tower overview, building heights comparison, modern architecture analysis, Jeddah vs [...] #creatorsearchinsights 🇸🇦 vs 🇦🇪 — the tallest building on Earth is about to have a new king 👑 Jeddah Tower is BACK ON (target: 1km) and Dubai just relaunched Creek Tower to defend the crown 🏗️ Who wins — Jeddah Tower or Creek Tower? Fight in the comments 👇 Follow for round 2, Creek Tower's crazy features are coming 🔥 #jeddahtower #burjkhalifa #saudi #dubairealestate Jeddah Tower vs Creek Tower: Which Will Be the World’s Tallest?. Compare Jeddah Tower's 1km comeback with Dubai's relaunched Creek [...] Jeddah Tower and Creek Tower for the world's tallest title. Discover the latest updates on these architectural marvels! #JeddahTower #CreekTower #DubaiRealEstate. Jeddah Tower vs Creek Tower, tallest towers in the world, Dubai Creek Tower updates, Jeddah Tower completion date, architectural marvels in Saudi Arabia, skyscraper competition 2023, Jeddah Tower 2030 expectations, Dubai real estate developments, Creek Tower project updates, skyscraper race 2023",,,5,weak,Social Index (+5),social
+3084810,social_post,unknown_date,https://www.tiktok.com/discover/trellic-tower,Trellic Tower | TikTok,"its history as a controversial tower block transformed into a celebrated architectural icon. [...] architecture students go to London to see trellick tower🔥#london #london #brutalism Trellick Tower London visit guide for architecture students. Architecture students visiting Trellick Tower in London: what to see, brutalist features to study, and tips for a focused site visit.
+
+Image 8 yassinatef2721.7K [...] most photographed architectural landmarks. Whether you admire its striking concrete design or simply enjoy discovering London's hidden gems, Trellick Tower is a place with a story unlike any other. 📍 Have you ever visited Trellick Tower, or would you like to see it up close? Let us know in the comments! #TrellickTower #VisitLondon #LondonLandmarks Trellick Tower: London's Iconic Brutalist Landmark. Explore Trellick Tower, a striking Brutalist landmark in West London. Discover its history as a",,,5,weak,Social Index (+5),social
+3084810,social_post,unknown_date,https://www.instagram.com/p/DRm5R1YEoxN,Instagram,"At 995 Market Street, a century-old tower is reimagined as Frontier Tower, a 16-story community lab uniting frontier tech with arts and music. Floors span AI, biotech, neuroscience, design, and more. [...] This transformation represents more than architecture—it signals a renewed vision for SoMa. Frontier Tower cultivates founders, scientists, and creators shaping what comes next, blending historic structure with forward-looking purpose. It stands as both a marker of the city’s past and a prototype of its future.   
+  
+#sanfrancisco #ai #sftech #innovation #sf @frontiertower [...] Log In
+
+Sign Up
+
+jssullivandevelopment's profile picture
+
+Never miss a post from jssullivandevelopment
+
+Sign up for Instagram to stay in the loop.
+
+By continuing, you agree to Instagram's Terms of Use and Privacy Policy.
+
+Sign up
+
+Log in
+
+Photo by JS Sullivan Development on November 28, 2025.
+
+jssullivandevelopment's profile picture
+
+jssullivandevelopment
+
+•
+
+Follow
+
+San Francisco, California
+
+jssullivandevelopment's profile picture
+
+jssullivandevelopment",,,5,weak,Social Index (+5),social
+3084810,social_post,unknown_date,https://www.instagram.com/reel/DFvCkLzv9Ad,"NGHS on Instagram: ""In a cardiac emergency, every second counts. The helipad on the new Green Tower can take patients directly to life-saving care in the cath lab in seconds. 
+
+To learn more about emergency cardiac care at Georgia Heart Institute, visit georgiaheartinstitute.org/ECCC""","In a cardiac emergency, every second counts. The helipad on the new Green Tower can take patients directly to life-saving care in the cath lab in seconds. To learn more about emergency cardiac care at Georgia Heart Institute, visit georgiaheartinstitute.org/ECCC. Log in to like or comment. Never miss a post from mynghs. Sign up for Instagram to stay in the loop.",,,5,weak,Social Index (+5),social
+3084810,social_post,unknown_date,https://www.instagram.com/popular/jenna-skin-lab,Jenna Skin Lab,"# Jenna Skin Lab. Watch reels about jenna skin lab from people around the world. ## skin&lab. ## skin. ## skin lab. ## jenna skin. ## skinfulness. ## lab skin. ## skin labs. At Jenna Skin Lab we’re dedicated to enhancing your natural beauty! 💫 📞 +971 58 266 1424 📧 contact@jennaskinlab.com 📍 Downtown Views 2, Zabeel 2, Dubai, UAE #NaturalBeauty #jennaskinlab #dubai #GlowUp #ExperienceTheDifference #YourClinicName #RadiantSkin” #SelfCareJourney #YourClinicName #BeautyAndWellness. 📢 We’re beyond proud to announce the Grand Opening of Jenna Skin Lab, founded by our incredible friends from Jenna Skin Lab, this November 20th. 💫 For more information or book an appointment: 📞 +971 58 266 1424 📧 contact@jennaskinlab.com 📍 Downtown Views 2, Zabeel 2, Dubai, UAE #JennaSkinLab #DubaiAestheticClinic #DubaiBeautyExperts #DubaiEvents2025 #SkinClinicDubai #DubaiGrandOpening Hello Dubaï ! 📢 Nous sommes plus que fiers d’annoncer la grande ouverture de Jenna Skin Lab, fondée par nos incroyables amis de Jenna Skin Lab, ce 20 novembre 2025 Une nouvelle ère de beauté et d’innovation commence. 💫 Pour plus d’informations ou pour prendre rendez-vous : 📞 +971 58 266 1424 📧 contact@jennaskinlab.com 📍 Downtown Views 2, Zabeel 2, Dubaï, Émirats arabes unis. And because sharing is caring📍 Jenna Skin Lab – Downtown Views 2, Zabeel 2, Tower 3, Dubai . Today’s guest with Jenna Levine, Founder of @linnebotanicals - also the exact skincare brand I’ve been using since early-mid 2024.⁠ ⁠ I personally wanted to have Jenna on the podcast to talk on all different topics, especially her personal holistic health approach over the years and also the usual insights and wisdom we can learn from other women.⁠ ⁠ EPISODE 319 touches on the beginning of Linne Botanicals, discovering yourself in your 20s, things to keep in mind in partner selection, power of nature and holistic health approaches, and much more.⁠ ⁠ Available to listen on Spotify, Apple, and YouTube (soon).",,,5,weak,Social Index (+5),social
+3084810,social_post,unknown_date,https://x.com/CerebrovascLab/status/2035052724740403559,"Cerebrovascular & Neurointerventional Lab on X: ""Big day for the ...",Official account of the @uiowa Cerebrovascular & Neurointerventional Research Lab at @uihealthcare. Director: Dr. Ortega-Gutierrez,,,5,weak,Social Index (+5),social
+3084810,social_post,unknown_date,https://the-tower-idle-tower-defense.fandom.com/wiki/Laboratory,Laboratory | The Tower - Idle Tower Defense Wiki | Fandom,"An images showing 3 secions of the labaratory section. On a blue background 3 rectangles are shown. They have header's calling them ""Lab 3, Lab 4 and Lab 5"". Lab 3 displays a centered text reading ""Lab Offline"". Lab 4 displays an active state, showing the title of the research and its effect, a progressbar with text showing the remaining time and a button to rush the lab, with the associated gem cost. Lab 5 shows a locked state, stating a price of 3000 gems to unlock. [...] |  |  |
+ --- |
+| Lab 1 | unlocked for free upon reaching wave 30 in T1 for the first time. |
+| Lab 2 | 100 gems |
+| Lab 3 | 400 gems |
+| Lab 4 | 1400 gems |
+| Lab 5 | 3000 gems |
+
+## Rushing Labs[]
+
+Labs can also be rushed using Gems.
+
+Prior to version 0.17 of the game rushing cost 1 gem for every 8 minutes of lab time skipped. With version 0.17 the developers overhauled this system, massively reducing the rushing costs for long durations. [...] Most importantly they use an additional currency: your time. Every lab upgrade has a coin cost, and a time that it takes to complete, occupying one lab for that duration. It is therefore advised to try to keep your labs running at all times as as you progress in the game there will come a point where coins are no longer the bottleneck to progress, but time and labs are.
+
+## Amount Of Labs[]",,,5,weak,Social Index (+5),social
+3084810,social_post,unknown_date,https://towerhealth.org/services/laboratory,Laboratory | Tower Health,"Reading-Area Labs   Phoenixville-Area Labs   Pottstown-Area Labs   Philadelphia-Area Labs (Pediatric)
+
+## Timely, Accurate Results
+
+Our laboratories have a reputation for accuracy and proficiency, and are dedicated to meeting your needs and exceeding your expectations, an important step in quality healthcare. We perform your tests as quickly as modern technology allows and make the results readily available to your physician – no matter which lab location you choose. [...] LOGIN SIGNUP
+
+## Need Help? We're Here.
+
+For questions and assistance, please call the Tower Health helpline.
+
+1-833-34-TOWER [...] Jump to Page Content
+
+Tower Health
+
+# Laboratory
+
+Comprehensive testing services in microbiology, histology, chemistry, hematology, immunology, urinalysis, and blood banking. Affiliated with major accredited reference laboratories.
+
+## Advanced Labs",,,5,weak,Social Index (+5),social
+3084810,web_result,unknown_date,https://the-tower-idle-tower-defense.fandom.com/wiki/Lab_Upgrades,Lab Upgrades | The Tower - Idle Tower Defense Wiki | Fandom,"## List of Lab Upgrades[] [...] Switching labs: When currently researching a lab, a player can click the lab and change to a different research. Coins used for the lab are refunded and progress on the lab is preserved and displayed as a green lab time. When continuing that research, the coins will need to be paid again. [...] | Lab 1 | Lab 2 | Lab 3 | Lab 4 | Lab 5 | Cost/Hour | Cost/Day |
+ ---  ---  --- 
+| 1 | 1 | 1 | 1 | 1 | 0 | 0 |
+| 1.5 | 1 | 1 | 1 | 1 | 15 | 360 |
+| 1.5 | 1.5 | 1 | 1 | 1 | 30 | 720 |
+| 1.5 | 1.5 | 1.5 | 1 | 1 | 45 | 1,080 |
+| 1.5 | 1.5 | 1.5 | 1.5 | 1 | 60 | 1,440 |
+| 1.5 | 1.5 | 1.5 | 1.5 | 1.5 | 75 | 1,800 |
+| 2 | 1.5 | 1.5 | 1.5 | 1.5 | 160 | 3,840 |
+| 2 | 2 | 1.5 | 1.5 | 1.5 | 245 | 5,880 |
+| 2 | 2 | 2 | 1.5 | 1.5 | 330 | 7,920 |
+| 2 | 2 | 2 | 2 | 1.5 | 415 | 9,960 |",,,0,weak,,general
+3084810,web_result,unknown_date,https://the-tower-idle-tower-defense.fandom.com/wiki/Lab_Upgrades,Lab Upgrades | The Tower - Idle Tower Defense Wiki - Fandom,"## List of Lab Upgrades[] [...] Switching labs: When currently researching a lab, a player can click the lab and change to a different research. Coins used for the lab are refunded and progress on the lab is preserved and displayed as a green lab time. When continuing that research, the coins will need to be paid again. [...] | Lab 1 | Lab 2 | Lab 3 | Lab 4 | Lab 5 | Cost/Hour | Cost/Day |
+ ---  ---  --- 
+| 1 | 1 | 1 | 1 | 1 | 0 | 0 |
+| 1.5 | 1 | 1 | 1 | 1 | 15 | 360 |
+| 1.5 | 1.5 | 1 | 1 | 1 | 30 | 720 |
+| 1.5 | 1.5 | 1.5 | 1 | 1 | 45 | 1,080 |
+| 1.5 | 1.5 | 1.5 | 1.5 | 1 | 60 | 1,440 |
+| 1.5 | 1.5 | 1.5 | 1.5 | 1.5 | 75 | 1,800 |
+| 2 | 1.5 | 1.5 | 1.5 | 1.5 | 160 | 3,840 |
+| 2 | 2 | 1.5 | 1.5 | 1.5 | 245 | 5,880 |
+| 2 | 2 | 2 | 1.5 | 1.5 | 330 | 7,920 |
+| 2 | 2 | 2 | 2 | 1.5 | 415 | 9,960 |",,,0,weak,,general
+3084810,web_result,unknown_date,https://the-tower-idle-tower-defense.fandom.com/wiki/Lab_Upgrades,Lab Upgrades | The Tower - Idle Tower Defense Wiki - Fandom,"Lab History: When selecting a new lab, a user can click the History Tab to see a list of labs completed chronologically and the date/time they were completed.
+
+## Number of Labs[]
+
+You will start with one lab when unlocked in Milestones at tier 1 wave 30. You can unlock up to 5 labs. The total cost is 4,900 gems.
+
+|  |  |  |  |  |  |
+ ---  ---  --- |
+| Lab Number | 1 | 2 | 3 | 4 | 5 |
+| Cost | Free | 100 | 400 | 1,400 | 3,000 |
+
+## Rushing Labs[] [...] ## List of Lab Upgrades[] [...] Switching labs: When currently researching a lab, a player can click the lab and change to a different research. Coins used for the lab are refunded and progress on the lab is preserved and displayed as a green lab time. When continuing that research, the coins will need to be paid again.",,,0,weak,,general
+3084810,web_result,unknown_date,https://the-tower-idle-tower-defense.fandom.com/wiki/Lab_Upgrades,Lab Upgrades | The Tower - Idle Tower Defense Wiki - Fandom,"## List of Lab Upgrades[] [...] Switching labs: When currently researching a lab, a player can click the lab and change to a different research. Coins used for the lab are refunded and progress on the lab is preserved and displayed as a green lab time. When continuing that research, the coins will need to be paid again. [...] | Lab 1 | Lab 2 | Lab 3 | Lab 4 | Lab 5 | Cost/Hour | Cost/Day |
+ ---  ---  --- 
+| 1 | 1 | 1 | 1 | 1 | 0 | 0 |
+| 1.5 | 1 | 1 | 1 | 1 | 15 | 360 |
+| 1.5 | 1.5 | 1 | 1 | 1 | 30 | 720 |
+| 1.5 | 1.5 | 1.5 | 1 | 1 | 45 | 1,080 |
+| 1.5 | 1.5 | 1.5 | 1.5 | 1 | 60 | 1,440 |
+| 1.5 | 1.5 | 1.5 | 1.5 | 1.5 | 75 | 1,800 |
+| 2 | 1.5 | 1.5 | 1.5 | 1.5 | 160 | 3,840 |
+| 2 | 2 | 1.5 | 1.5 | 1.5 | 245 | 5,880 |
+| 2 | 2 | 2 | 1.5 | 1.5 | 330 | 7,920 |
+| 2 | 2 | 2 | 2 | 1.5 | 415 | 9,960 |",,,0,weak,,general
+3084810,web_result,unknown_date,https://www.facebook.com/groups/5290147907744555/posts/24410023501997042,New lab costs in The Tower game,If you were wondering if this update focuses on late game. Here's all the new lab costs.,,,0,weak,,general
+3084810,web_result,unknown_date,https://the-tower-idle-tower-defense.fandom.com/wiki/Lab_Upgrades,Lab Upgrades | The Tower - Idle Tower Defense Wiki - Fandom,"## List of Lab Upgrades[] [...] Switching labs: When currently researching a lab, a player can click the lab and change to a different research. Coins used for the lab are refunded and progress on the lab is preserved and displayed as a green lab time. When continuing that research, the coins will need to be paid again. [...] | Lab 1 | Lab 2 | Lab 3 | Lab 4 | Lab 5 | Cost/Hour | Cost/Day |
+ ---  ---  --- 
+| 1 | 1 | 1 | 1 | 1 | 0 | 0 |
+| 1.5 | 1 | 1 | 1 | 1 | 15 | 360 |
+| 1.5 | 1.5 | 1 | 1 | 1 | 30 | 720 |
+| 1.5 | 1.5 | 1.5 | 1 | 1 | 45 | 1,080 |
+| 1.5 | 1.5 | 1.5 | 1.5 | 1 | 60 | 1,440 |
+| 1.5 | 1.5 | 1.5 | 1.5 | 1.5 | 75 | 1,800 |
+| 2 | 1.5 | 1.5 | 1.5 | 1.5 | 160 | 3,840 |
+| 2 | 2 | 1.5 | 1.5 | 1.5 | 245 | 5,880 |
+| 2 | 2 | 2 | 1.5 | 1.5 | 330 | 7,920 |
+| 2 | 2 | 2 | 2 | 1.5 | 415 | 9,960 |",,,0,weak,,general
+3084810,web_result,unknown_date,https://the-tower-idle-tower-defense.fandom.com/wiki/Lab_Upgrades,Lab Upgrades | The Tower - Idle Tower Defense Wiki - Fandom,"## List of Lab Upgrades[] [...] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ ---  ---  ---  ---  ---  ---  ---  ---  --- [...] The Tower - Idle Tower Defense Wiki
+
+# Lab Upgrades
+
+## Contents
+
+## Description[]
+
+Florence-flask
+
+The upgrades that can be bought in the lab, that help with scaling, or max caps. Most labs will be unlocked in Milestones before you can research them.
+
+## Features of Research[]
+
+The labs page has a few features that affect research or are QoL improvements.",,,0,weak,,general
+3084810,web_result,unknown_date,https://www.niemanlab.org/2026/02/in-the-video-game-news-tower-as-in-real-life-running-a-newspaper-isnt-easy,"In the video game News Tower, as in real life, running a newspaper isn’t easy | Nieman Journalism Lab","Translations
+
+Feb. 12, 2026, 2:44 p.m.
+
+## In the video game News Tower, as in real life, running a newspaper isn’t easy
+
+The game, which puts you in the shoes of a newspaper publisher in the 1930s, is a test of your management skills — and your ethics.
+
+By Neel Dhanesha  @neeldhanesha.com  Feb. 12, 2026, 2:44 p.m.
+
+Feb. 12, 2026, 2:44 p.m. [...] My newspaper had a bat problem, in that bats — of the baseball variety — were the preferred weapon of the mobsters intimidating my employees and smashing up my office.
+
+These are the kinds of problems you deal with in News Tower, a management-simulation game for PC and Mac from Dutch developer Sparrow Night that launched last November and has players stepping into the shoes of a New York City newspaper publisher in the 1930s. (Andrew recommended News Tower in our gift guide last year.) [...] APA
+
+Dhanesha, N. (2026, Feb. 12). In the video game News Tower, as in real life, running a newspaper isn’t easy. Nieman Journalism Lab. Retrieved September 2, 2026, from 
+
+Chicago
+
+Dhanesha, Neel. ""In the video game News Tower, as in real life, running a newspaper isn’t easy."" Nieman Journalism Lab. Last modified February 12, 2026. Accessed September 2, 2026. 
+
+Wikipedia",,,0,weak,,general
+3084810,web_result,unknown_date,https://the-tower-idle-tower-defense.fandom.com/wiki/Lab_Upgrades,Lab Upgrades | The Tower - Idle Tower Defense Wiki - Fandom,"Switching labs: When currently researching a lab, a player can click the lab and change to a different research. Coins used for the lab are refunded and progress on the lab is preserved and displayed as a green lab time. When continuing that research, the coins will need to be paid again. [...] | Lab 1 | Lab 2 | Lab 3 | Lab 4 | Lab 5 | Cost/Hour | Cost/Day |
+ ---  ---  --- 
+| 1 | 1 | 1 | 1 | 1 | 0 | 0 |
+| 1.5 | 1 | 1 | 1 | 1 | 15 | 360 |
+| 1.5 | 1.5 | 1 | 1 | 1 | 30 | 720 |
+| 1.5 | 1.5 | 1.5 | 1 | 1 | 45 | 1,080 |
+| 1.5 | 1.5 | 1.5 | 1.5 | 1 | 60 | 1,440 |
+| 1.5 | 1.5 | 1.5 | 1.5 | 1.5 | 75 | 1,800 |
+| 2 | 1.5 | 1.5 | 1.5 | 1.5 | 160 | 3,840 |
+| 2 | 2 | 1.5 | 1.5 | 1.5 | 245 | 5,880 |
+| 2 | 2 | 2 | 1.5 | 1.5 | 330 | 7,920 |
+| 2 | 2 | 2 | 2 | 1.5 | 415 | 9,960 | [...] Lab Boosts can be set up to automatically queue when completed. This is done with the ""Speed Up"" Button and the multiplier and duration can be setup within the menu. Additionally, lab speed ups only tick while a lab is slotted for research.
+
+### Single Lab Boost Cost[]",,,0,weak,,general
+3084810,web_result,unknown_date,https://the-tower-idle-tower-defense.fandom.com/wiki/Laboratory,Laboratory | The Tower - Idle Tower Defense Wiki - Fandom,"The laboratory, or short ""the labs"", is a place where you can buy upgrades. These upgrades consist of scaling upgrades, max cap upgrades and more.",,,0,weak,,general
