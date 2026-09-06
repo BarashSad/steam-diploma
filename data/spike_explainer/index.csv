@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-09-06T04:07:08.090472+00:00,4096780,The Missing Tail,data/spike_explainer/2026-09-06__appid_4096780__rank_1056_to_897__up_159,159,85,data/spike_explainer/2026-09-06__appid_4096780__rank_1056_to_897__up_159/llm_summary_input.md
+2026-09-06T15:25:54.436524+00:00,4096780,The Missing Tail,data/spike_explainer/2026-09-06__appid_4096780__rank_897_to_799__up_98,98,85,data/spike_explainer/2026-09-06__appid_4096780__rank_897_to_799__up_98/llm_summary_input.md
