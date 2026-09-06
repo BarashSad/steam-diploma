@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4096780,The Missing Tail,"""The Missing Tail"" Steam",general,1,tavily,True,,5
+4096780,The Missing Tail,"""The Missing Tail"" trailer",general,1,tavily,True,,4
+4096780,The Missing Tail,"""The Missing Tail"" gameplay",general,1,tavily,True,,5
+4096780,The Missing Tail,"""The Missing Tail"" demo",general,1,tavily,True,,5
+4096780,The Missing Tail,"""The Missing Tail"" release date",general,1,tavily,True,,5
+4096780,The Missing Tail,"""The Missing Tail"" announcement",general,1,tavily,True,,5
+4096780,The Missing Tail,"""The Missing Tail"" preview",general,1,tavily,True,,5
+4096780,The Missing Tail,"""The Missing Tail"" review",general,1,tavily,True,,5
+4096780,The Missing Tail,"""The Missing Tail"" publisher",general,1,tavily,True,,5
+4096780,The Missing Tail,"""The Missing Tail"" developer",general,1,tavily,True,,5
+4096780,The Missing Tail,"site:pcgamer.com ""The Missing Tail""",press,2,tavily,False,General budget exhausted,0
+4096780,The Missing Tail,"site:rockpapershotgun.com ""The Missing Tail""",press,2,tavily,False,General budget exhausted,0
+4096780,The Missing Tail,"site:ign.com ""The Missing Tail""",press,2,tavily,False,General budget exhausted,0
+4096780,The Missing Tail,"site:gamespot.com ""The Missing Tail""",press,2,tavily,False,General budget exhausted,0
+4096780,The Missing Tail,"site:game8.co ""The Missing Tail""",press,2,tavily,False,General budget exhausted,0
+4096780,The Missing Tail,"site:reddit.com ""The Missing Tail""",social,3,tavily,True,,5
+4096780,The Missing Tail,"site:tiktok.com ""The Missing Tail""",social,4,tavily,True,,5
+4096780,The Missing Tail,"site:instagram.com ""The Missing Tail""",social,4,tavily,True,,5
+4096780,The Missing Tail,"site:x.com ""The Missing Tail""",social,4,tavily,True,,5
+4096780,The Missing Tail,"site: ""The Missing Tail""",social,4,tavily,True,,5

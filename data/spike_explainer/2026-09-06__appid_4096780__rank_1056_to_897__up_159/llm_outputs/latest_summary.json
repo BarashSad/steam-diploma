@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-06T04:07:30.402460+00:00",
+    "timestamp": "20260906_040730",
+    "input_file": "data/spike_explainer/2026-09-06__appid_4096780__rank_1056_to_897__up_159/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-06__appid_4096780__rank_1056_to_897__up_159/llm_outputs/gemini_20260906_040730.md",
+    "game_title": "The Missing Tail",
+    "appid": "4096780",
+    "duration_sec": 22.96,
+    "response_length": 6449,
+    "error": null
+}
