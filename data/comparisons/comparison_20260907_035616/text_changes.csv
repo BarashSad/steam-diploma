@@ -1,0 +1,3 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2223980,Nomad Drive,Nomad Drive,286,284,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q3 2026,September 2026,True
+4440650,KAGE,KAGE,368,370,-2,2,down,none,Unpriced (Coming Soon),Free,True,Q4 2026,Q1 2027,True

@@ -1,0 +1,150 @@
+{
+    "appnews": {
+        "appid": 3084810,
+        "newsitems": [
+            {
+                "gid": "1841579228675542",
+                "title": "EARLY ACCESS RELEASE DATE!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228675542",
+                "is_external_url": true,
+                "author": "Devon",
+                "contents": "Hey everyone! We're excited to announce that...Tower Lab is coming to Early Access on September 7th!Early Access initially includes:3 Regions with a roguelite deckbuilding campaign mode with meta progression. Unlock new towers, cores, machines, traps, utility cards, and physics effects.40 Playable Cards20 Towers with 150+ Tower Upgrades5 Traps15 Utility Cards30 Cores to craft your run4 Machines with different starting tools, active abilities, and play stylesMultiple additional game modes: Endless Mode with a procedurally generated map and scaling threatsPuzzle Mode where careful planning is keyStandard TD for those who prefer a more traditional experienceLevel Editor with Steam Workshop support. Build and share your own creations!A few other features such as Leaderboards, Photo Mode, Hazard Difficulties, Achievements, Collection, and Run StatisticsIt has been two years since the game was created as a game jam prototype, and it has grown so much already because of all of you. Thank you to everyone who has played, streamed, reported bugs, or shared thoughtful feedback with us. We truly appreciate the enormous amount of support you have given us. From the bottom of our hearts, this has been the most fulfilling project we've ever worked on, and we really hope you have a blast trying out the game. Love you all! Devon & XueerEarly Access Roadmap:",
+                "feedlabel": "Community Announcements",
+                "date": 1787577920,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3084810
+            },
+            {
+                "gid": "1835871199313499",
+                "title": "The Road to Early Access!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313499",
+                "is_external_url": true,
+                "author": "playtugstudio",
+                "contents": "Hey everyone! We wanted to take a minute to say thank you all for playing Tower Lab's demo! The demo has already been live for over 6 months, and we've received tons of valuable feedback, suggestions, and bug reports from all of you during that time. It has been an absolute joy hearing what you have to say and adding your ideas to the game.We're anticipating launching Tower Lab into Early Access in Q3 of this year, and because we're just a two-person team, we want to shift our focus to developing the main game. Tower Lab has grown so much since the initial demo launch that we feel it no longer accurately represents the game, and keeping the demo updated was pulling significant time away from our release plans. We want to put as much effort as possible into the Early Access release. As a result, we have decided to take the demo offline one week from today, on 6/29/2026.If you would like to play the game before then, we have a couple more playtests planned before release. Feel free to keep an eye on the Steam page for playtest signups or join our Discord to keep up to date!Thank you all for checking out the game!Devon & Xueer",
+                "feedlabel": "Community Announcements",
+                "date": 1782147062,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3084810,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1691520782_1782147730_0",
+                    "ModAct_1751692459_1787812531_4",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1835871199309190",
+                "title": "Demo Patch Notes - New cards, rebalancing, bug fixes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199309190",
+                "is_external_url": true,
+                "author": "playtugstudio",
+                "contents": "GAMEPLAY:Enemy pathing physics overhaulRework Conversion Field to double Matter earned for one wave rather than instant matterRevert Kinetic Tower's projectiles so their pulse effect no longer pushes them apartCONTENT:Added physics-based utility card \u201cAftershock\u201dAdded physics-based utility card \u201cArc Discharge\u201dAdded physics-based utility card \u201cGravity Dampener\u201dAdded physics-based utility card \u201cBlack Ice\u201dQOL:Add tower info button to tower right-click menu to quickly view its tech treeBUGFIX:Fixed Fan Tower capstoneFixed Tesla Tower capstoneFixed an issue where enemies could stop pathingFixed upgraded gravity tower capturing enemy units permanently (projectile lifetime rebalance)BALANCE:Rebalanced all enemies, waves, towers, and the game\u2019s general economy to account for physics overhaul and improved difficulty scalingRemoved Tesla Tower, Salvage, and Hot Swap from Region 1 starting deck",
+                "feedlabel": "Community Announcements",
+                "date": 1781956351,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3084810,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1835236783571761",
+                "title": "Demo Update",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783571761",
+                "is_external_url": true,
+                "author": "playtugstudio",
+                "contents": "Hi everyone, the updated demo just went up for Steam Next Fest. I have attached all the changes relevant to the demo build below. I have already received some submitted bug reports for the new build. So we will get on those ASAP. Thank you! v0.0.6 Demo Update Gameplay Added tower tech trees with branching upgrade paths and module nodes Utility cards now play directly from your hand for instant effects Cards now have rarities Added a tower-card upgrade option in the shop Reset your tech tree at the shop to refund spent matter and respec Cores no longer stack, each core is now a unique item Shield is now a generated resource (removed the flat +20 shield at level start) Enemies now scale smoothly with their mass instead of in discrete steps Rewards are now granted after each level The shop now appears after the Rewards screen Added 3x speed mode Added an opt-in run timer in Settings (off by default) Hardened the save system with run-scoped wave checkpoints and auto-save Content New VEND-O-LAB themed shop New enemy model and physics behavior Fresh environment art and a visual polish pass across the whole game Balance Enemies move a little faster and pacing is tighter The shop offers more variety instead of repeating towers you already own Quality of Life Reworked in-game HUD: new health and shield bars, BUILD/ATTACK phase indicator, and a wave info panel listing enemy types and sizes New full-screen deck browser showing your draw, hand, and discard piles in one place Cards in hand feel better: smaller at rest, hover to enlarge, smoother drag-to-play New animation-speed setting: Normal, Fast, or Faster Placement grid when picking up a tower so you can see exactly where it lands Scroll to rotate a tower while placing it Left-click and drag to reposition a placed tower Added camera rotation in Campaign Settings screen fully redesigned with clearer sections Updated How to Play screen, plus an in-game tutorial tip on first tower placement Tutorial videos back on the loading screen when heading into a level Matter, energy, and shield read more clearly with color coding in UI and descriptions Keyword highlighting in card descriptions with clearer card text Increased size of the right-click tower radial menu Continue button on the main menu quick-resumes your last run Added a \"Game Saved\" indicator when progress is committed Cooldown indicator toggle in Settings (on by default) Bug reports now support annotated screenshots Collection screen sortable by Rarity or Unlock Status More context-aware cursors Default graphics quality auto-detected on first launch Wave-start announcement plays as a skippable transition Added game-speed persistence setting Patch Notes screen with full version history Build size cut roughly in half; campaign levels optimized for performance Localization Four new languages: Italian, Thai, Ukrainian, Vietnamese Locale-specific CJK keyword matching, improved singular/plural across all 12 languages, and locale-aware uppercase styling Bug Fixes Fixed: You can no longer remove your last tower card Fixed: UI stretching on ultrawide and other resolutions Fixed: Quitting the moment you lose no longer dodges the defeat Fixed: Escape opening the pause menu while a screen was closing Fixed: Clicks slipping through menus and overlays into the game Fixed: Soft-lock when resuming a save from the shop Fixed: Tower move-to-full-refund exploit Fixed: Rewards/Shop screen still showing on the last level of a region Fixed: Hand-card cursor parallax leaking below the UI overlay Fixed: Main menu Continue button showing the wrong checkpoint summary Fixed: Cores bleeding between runs Fixed: Rewards card disappearing on scene change Fixed: Rewards screen auto-progressing when the shop was still needed Fixed: Unable to buy cores or remove cards in the shop Fixed: Rewards to Shop to Menu to Escape soft-lock Fixed: Energy widget invisible on wave 1 of later levels Fixed: Several crashes, save-migration data loss, and save corruption when deleting saves mid-game Fixed: Game not pausing when the Steam overlay opens Fixed: Duplicate and null cards when card-draw bonuses exceeded deck size Fixed: Memory leaks on run-results and shop screens Fixed: Clicks during scene transitions starting the wave Fixed: VSync and frame-rate settings being overridden by the quality preset Fixed: Unable to cancel a card mid-cast with mouse only Smaller fixes: modal button highlighting, scroll-view hit area, missing cursor textures, pause-menu notifications, and navigation-button font ",
+                "feedlabel": "Community Announcements",
+                "date": 1781546289,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3084810
+            },
+            {
+                "gid": "1823191198608866",
+                "title": "Demo Patch Notes v0.0.4.1",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198608866",
+                "is_external_url": true,
+                "author": "playtugstudio",
+                "contents": "New FeatureAdded right click Tower Context Menu to sell tower and view tower info after placement Bug FixesFixed wave progression and shop occurrence in endless mode (starts at wave 6)Fixed hand card duplication when pressing F to start wave while hovering over a cardFixed losing tower when moving and pressing F to start waveFixed input hints not localized when switching languagesFixed various collision issues on stage 2Adjusted a location on stage 5 to prevent units from getting trapped on decorAttempted an achievement fix that was resetting stat on new runs Quality of LifeEnabled speed control in build phaseDoubled wave tooltip auto-show duration Balance ChangesRebalanced kinetic tower to improve early-game strengthIncreased Bomb Tower scale force multiplierIncreased Mine Tower explosion forceReduced friction on mines AudioReduced attack start SFX volume",
+                "feedlabel": "Community Announcements",
+                "date": 1769935602,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3084810,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1822556746162227",
+                "title": "Tower Lab Demo is out!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746162227",
+                "is_external_url": true,
+                "author": "playtugstudio",
+                "contents": "The demo includes multiple standard stages, endless mode, and leaderboards to compete on.Share your feedback with us, tell your friends, and add the game to your wishlist ",
+                "feedlabel": "Community Announcements",
+                "date": 1769184375,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3084810
+            },
+            {
+                "gid": "1819386365121453",
+                "title": "Progress Update - A bunch of new things!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365121453",
+                "is_external_url": true,
+                "author": "playtugstudio",
+                "contents": "Hi, everyone!We hope you had a wonderful holiday season! We've been hard at work throughout the break, and Community Playtest 2 has been invaluable in shaping the demo. Here's a summary of what we've accomplished over the past couple weeks.Deckbuilding System OverhaulThe core deckbuilding loop has received major upgrades:Card Removal and Rerolls are now available in the ShopNew Deckbuilding UI showing your Draw Pile, Discard Pile, and full Deck at a glanceRandomized starting decks for more varied runsNew Enemy TypesWe've introduced three new enemy types that demand different strategic approaches:Copper - Extremely heavy units that attract and are more vulnerable to electrical effects. Tesla Tower deals 3x knockback against Copper enemies, making it a hard counter.Rubber - Takes significantly reduced knockback from electrical effects and prevents chain lightning from branching through it. Forces you to rethink pure electrical builds.Iron - Heavy units affected by magnetic forces. Magnetism interactions are still work-in-progress, but these heavier enemies require more knockback to move.These enemy types now appear throughout Stages 3-5, adding variety to wave compositions. Wave tooltips now specify which enemy types are coming so you can plan accordingly.We're also experimenting with aesthetic shells on enemy units - colored bands that communicate functionality at a glance, like polarity on magnetic units. Basic enemies without special behaviors don't have these to keep the visual language clear.With the introduction of these new enemy types, the game is now significantly more challenging and rewards combining different towers to handle varied threats. Spamming a single tower type is significantly less viable now!Tower ChangesVolume-Based Detection - Towers that affect a volume (Fan, Speed, etc.) now use a new attack pattern that actively detects enemies rather than relying purely on time-based activation. These towers should feel significantly more responsive and reliable.Deflector Tower Rework - The Deflector Tower now features a single adjustable panel instead of four. You can control the angle of the panel to create bouncy contraptions and redirect projectiles with precision.Module UpdatesNew modules - We've expanded the tower-based Module pool and have added a brand new set of economy focused modulesModule Rarity tiers now differentiate module power levels and likeliness to appear in the shopStackable Modules - Purchasing duplicates of a module now properly increases its effectSmarter Shop filtering - The shop now only contains modules for towers you currently own, reducing clutter and making choices more meaningfulNew icons - All module icons have been updated to be more intuitive and recognizableEndless ModeEndless Mode is now available! After completing the final stage, you'll transition into an endless gauntlet where waves scale aggressively over time. How long can you survive?Shop access every 5 waves - Continue building your deck throughout the endless runAll enemy types in rotation - Expect the full variety of threatsAggressive scaling - Enemy mass increases over time, demanding stronger setupsWe plan to extend this mode long term with more unique unique levels and encounters that truly test your defenses. LeaderboardsLeaderboards are now functional! Track your Waves Completed in Endless Mode with both Global and Friends sections. This is an early implementation and will be expanded to track different types of \"scores\", so expect continued improvements.Steam AchievementsSteam achievements are now supported! We have a handful in place for the playtest, with more to come as we finalize the full achievement list for the upcoming demo and full release.Shield & Energy ReworkWe've simplified the shield system:Removed the max shield concept entirely - shields now display as a simple label like MatterUnused energy now converts to shield at the end of each wave, rewarding efficient playQuality of LifeWave speed memory setting - Choose whether your preferred speed resets per-wave, per-stage, per-run, or persists foreverTower cooldown pattern UI on hoverStage progress UI on game mode selection with preview tooltipsWave tooltips now specify enemy typesUltrawide resolution supportThank You! \u2764\ufe0fThis playtest has generated incredible feedback, and we're grateful to everyone who has jumped in and shared their thoughts.\ud83d\udc8c Join our Discord to connect with other players and share your thoughts.Bug reports and suggestions are always welcome! You can submit them via Discord or in our Community Hub.Thank you for being part of Tower Lab's journey!Devon & Xueer",
+                "feedlabel": "Community Announcements",
+                "date": 1767513446,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3084810
+            },
+            {
+                "gid": "1814309641588688",
+                "title": "Community Playtest 1 Wrap-up!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641588688",
+                "is_external_url": true,
+                "author": "playtugstudio",
+                "contents": "Thank you all so much for participating in our very first community playtest! We are genuinely blown away by the response. The amount of time you all put into writing up feedback, reporting bugs, and sharing your experiences with us has been incredible, and we couldn't be more grateful for this community's support and enthusiasm. Seriously, you're awesome.So... What's next?Our goal is to release our official Steam demo early in 2026. In the meantime, we're excited to start implementing more community concepts and will be running additional community playtests to gather feedback on new content.For Community Playtest 2, we'll be focusing on expanding the game in several key areas:\u267e\ufe0f Endless ModeTo really lean further into the roguelike nature of the game, we want to add an endless mode which spawns increasingly difficult waves of enemies, testing your defenses to their absolute limit. This mode will come with a leaderboard, allowing you to compete to discover the most powerful synergies.\ud83e\uddf2 New enemiesWe want to add more units with distinct strengths and weaknesses. One of our first tests will be metallic enemy types, such as significantly heavier units that can be pushed or pulled by magnetic towers, or copper enemies that force Tesla towers to target them before other units.\ud83d\uddfc New towersWe want to encourage creative contraptions as a core part of the game. To do that, we want to add new basic towers that focus on creating more meaningful interactions between towers. Instead of just adding more explosions, we want to keep expanding on the physics properties in the game. The first set of towers we're testing will relate to the magnetic enemies mentioned above.\ud83e\uddf0 New modulesThe playtest module pool was incredibly limited and will be expanded. Ultimately, we want the module pool to feel rich and diverse, leading to more truly unique strategies.\ud83e\ude99 Shop redesignWe'll be updating the shop with added features like shop cycling and card removal to provide more opportunities to target specific strategies (especially important as we add more content).\u2696\ufe0f Game balanceYou all did a phenomenal job exploring the available strategies in the game. One of our core goals with Tower Lab is to encourage combining towers by exploiting physics to really amplify their power. With the limited content in this playtest (and even more limited interactions), we haven't been able to fully test the deeper gameplay here yet. We want to make it so just putting a bunch of towers down facing the level won't be powerful enough to climb the leaderboard - the real power should come from creative combinations.\ud83d\udee0\ufe0f Bug fixes and core design improvementsWe'll be working through many of the issues you have helped us identify, primarily:Enemies getting stuck on roofs/towers with no way downEnemies being able to sneak past towers due to limitations and a lack of control in the timing systemGeneral UI and aesthetic improvements (we're always iterating on these!)\ud83d\udcc5 Future considerationsNew building types! We're evaluating adding Traps back into the game - buildings that can be placed on or replace platforms and other new types such as moving towers.Levels with unique mechanics like pressure plates that activate traps, moving platforms, or outright boss encountersProcedurally generated levels & map editorThank you for being part of this journey from the beginning! \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                "feedlabel": "Community Announcements",
+                "date": 1761618447,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3084810
+            },
+            {
+                "gid": "1814309641396428",
+                "title": "Game Update! v0.0.2",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641396428",
+                "is_external_url": true,
+                "author": "playtugstudio",
+                "contents": "Hi, everyone!Hope you are having a great week so far \u263a\ufe0fWe\u2019ve chosen this coming weekend to launch the first playtest on Steam. Any feedback and suggestions are welcome and highly valued!This playtest will be available from October 24th to 26th, 2025 - a total of 3 days. It will be announced on our Discord when it is live!So, what is included in this build?PhysicsThere is no traditional health/stat system here. Instead, you knock enemies off their paths. Thanks to gravity!Many interaction types: Knockback, Scale, Orbit, Slow, Push, BounceGrow or shrink enemies, projectiles, and objects. Change their weight and force. Take power and economy into YOUR control. \ud83d\udcc8Knockback system with stability.Roguelite progressionReplayable runs with a shop to enhance your equipment after every stage. \ud83d\udcb0Modules: Purchasable items to enhance how towers work and alter other gameplay elements.\u200bTower Defense\u200b\u200b10 Towers that behave completely differently. Most importantly, towers interact with each other. Build contraptions, think in blueprint creations. \ud83d\uddfc5 Levels that feature unique layouts and waves of enemies.Enemies spawn as swarms at different scale levels. (In this build, we only have 1 enemy type and 1 friendly unit type, but we are quickly expanding. Stay tuned)DeckbuildingCraft your deck with new cards from the shop.Synergize towers with modules to create distinct builds and unique runs. \ud83d\udca1Hand energy management system.Others:Discord and Steam Rich PresenceThis build is a very early look at the game's work in progress, about 0.5 - 2 hours of gameplay content. If you like what you see, please add our game to your wishlist - it means the world to us.After this test ends, we\u2019ll gather your feedback to refine, optimize the game and work on new levels, units, upgrades, and even Steam Workshop content.(More Roadmap chat coming soon, stay posted.)\ud83d\udc8c Join our Discord to connect with other players and share your thoughts.discord.gg/kR89JQnxAwBug reports and suggestions are always welcome! You can submit them via Discord or in our Community Hub:https://steamcommunity.com/app/3084810/discussions/Thank you so much for your support!Devon & Xueer",
+                "feedlabel": "Community Announcements",
+                "date": 1761101140,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3084810
+            },
+            {
+                "gid": "1811772772502506",
+                "title": "Welcome, welcome, welcome \u2699\ufe0f\ud83d\udd27",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772502506",
+                "is_external_url": true,
+                "author": "playtugstudio",
+                "contents": "Hi there! Welcome to our first devlog! It\u2019s great to have you here \ud83d\ude0aIt\u2019s crazy to think that this was just a little jam entry a year ago. We picked it up again a few months later after discovering how much we enjoy the idea of expanding on it. The game has come so far already, and we\u2019re only getting started! There are many more physics interactions, towers, and unit types we want to add. And this community suggests the wildest ideas to test.We plan to post regular dev updates here on Steam. So follow us if you want to stay up to date and come say hi in the discussions! \ud83d\udc4bSo, what\u2019s the latest news?Two weeks ago, we ran our first proof of concept playtest with a small circle of players on itch. We kept it intentionally tiny so we could chat with everyone who played. The goal was to verify that the game\u2019s concept is fun to play, and we got our answer: yes! \ud83e\udd73Our next devlog will go into detail about all the features we have worked on for our next playtest. Oh wait, we\u2019d like to say hi ourselves first! We are two people and a dog here at Play Tug! Xueer codes, Devon arts, dog plays! We are working on this project in our spare time, but with whole-hearted passion. So thank you for your patience with our progress and for joining this journey!Welcome! \ud83e\ude75Devon and Xueer",
+                "feedlabel": "Community Announcements",
+                "date": 1759480626,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3084810
+            }
+        ],
+        "count": 10
+    }
+}

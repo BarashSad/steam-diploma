@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-09-06T15:26:17.969219+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260906_151524/rank_changes.csv",
-    "selected_appid": "4096780",
-    "selected_game_title": "The Missing Tail",
+    "started_at": "2026-09-07T04:06:07.211631+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260907_035616/rank_changes.csv",
+    "selected_appid": "3084810",
+    "selected_game_title": "Tower Lab",
     "top_n": 1,
-    "old_snapshot_date": "2026-09-03",
-    "new_snapshot_date": "2026-09-06",
+    "old_snapshot_date": "2026-09-04",
+    "new_snapshot_date": "2026-09-07",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-06T15:26:17.969239+00:00",
+    "finished_at": "2026-09-07T04:06:07.211646+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
