@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-3084810,Tower Lab,"site:pcgamer.com ""Tower Lab""",press,2,tavily,False,General budget exhausted,0
-3084810,Tower Lab,"site:rockpapershotgun.com ""Tower Lab""",press,2,tavily,False,General budget exhausted,0
-3084810,Tower Lab,"site:ign.com ""Tower Lab""",press,2,tavily,False,General budget exhausted,0
-3084810,Tower Lab,"site:gamespot.com ""Tower Lab""",press,2,tavily,False,General budget exhausted,0
-3084810,Tower Lab,"site:game8.co ""Tower Lab""",press,2,tavily,False,General budget exhausted,0
+3711050,BeaterCore,"site:pcgamer.com ""BeaterCore""",press,2,tavily,False,General budget exhausted,0
+3711050,BeaterCore,"site:rockpapershotgun.com ""BeaterCore""",press,2,tavily,False,General budget exhausted,0
+3711050,BeaterCore,"site:ign.com ""BeaterCore""",press,2,tavily,False,General budget exhausted,0
+3711050,BeaterCore,"site:gamespot.com ""BeaterCore""",press,2,tavily,False,General budget exhausted,0
+3711050,BeaterCore,"site:game8.co ""BeaterCore""",press,2,tavily,False,General budget exhausted,0

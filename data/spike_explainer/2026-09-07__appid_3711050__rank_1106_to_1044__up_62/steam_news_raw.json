@@ -1,0 +1,172 @@
+{
+    "appnews": {
+        "appid": 3711050,
+        "newsitems": [
+            {
+                "gid": "1835236783557766",
+                "title": "beaterCore Demo 0.3.0 is released!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557766",
+                "is_external_url": true,
+                "author": "The HellBox",
+                "contents": "ModsOfficial, proper, but basic mod support. Steam workshop is not going to be supported in the demo version, but for now you can find mods in our discord communityMod manager in settings menuMultiplayer servers check for mod compatibility and automatically enable required mods and disable the ones that aren't installed or enabled on the serverEditorVarious draw brushes that can be rotatedClickable icons for draw modesBrush intensity is now independent from brush sizeHubMap editor button with map creation menuReplaysReplay file format has been changed, which unfortunately means that you won't be able to view your old replay files. Some changes were made to reduce the possibility that old replay files will get incompatible in the future, but it's not a guaranteeReplays no longer crash or bug out the game if they fail to loadMiscItalian translation has been updated with prologue textGame EngineAdded light quality settingsSignificant changes in decal, car and terrain rendering pipelines",
+                "feedlabel": "Community Announcements",
+                "date": 1781102236,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3711050
+            },
+            {
+                "gid": "1832065502823090",
+                "title": "beaterCore Demo 0.2.1 is released!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823090",
+                "is_external_url": true,
+                "author": "The HellBox",
+                "contents": "Prologue story instead of the tutorial sequenceEngine wear has been reduced by 50%Engine oil wear has been reduced by 30%Multiplayer rewards have been reduced by 30%Rewards for singleplayer races have been increased by 500Fixed decal rendering on certain GPU models and driver versionsNew dialog soundsBigger garages (Will break furniture placement on old save files, sorry for that)Anisotropic Filtering settingFix purchased items disappearing after saving the game when player is standing in garagesAdd ability to skip tutorial(prologue) when starting a new gameAt the moment, Spanish and Italian localization are not done for prologue. Sorry for that!Expect this version to have bugs. Please report them!",
+                "feedlabel": "Community Announcements",
+                "date": 1778569125,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3711050
+            },
+            {
+                "gid": "1828894815554170",
+                "title": "beaterCore Demo 0.1.3 is released!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815554170",
+                "is_external_url": true,
+                "author": "The HellBox",
+                "contents": "Added MSAA and SSAA anti-aliasing options in graphics settingsAdded rolling resistance and sounds to grass and rocksImproved hub visualsAdded ability to change car's colors in split screenImproved UI in graphics settingsPossible fix for rendering artifacts on some GPUsFix visiting other player's garages in multiplayerFix chat not getting displayed in the lobby",
+                "feedlabel": "Community Announcements",
+                "date": 1775035951,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3711050
+            },
+            {
+                "gid": "1827626365750098",
+                "title": "beaterCore Demo 0.1.1 is released!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365750098",
+                "is_external_url": true,
+                "author": "The HellBox",
+                "contents": "Added 3D rocks to terrainNew and improved tutorial sequenceAdded ability to cycle through trunk's itemsAdded render scaling option to settings menuAdded icons for some of the keyboard keysAdded 3D field repair icon to track preview screenDraw water in track previewsAdded more ambience to auto parts storeAdded scroll bar to NPC dialogsAdded UI sounds to NPC dialogs\"Press any key\" prompts now accept mouse inputVarious grammar fixes",
+                "feedlabel": "Community Announcements",
+                "date": 1773835932,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3711050
+            },
+            {
+                "gid": "1826362059917887",
+                "title": "beaterCore Demo - Version 0.0.20 is released!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059917887",
+                "is_external_url": true,
+                "author": "The HellBox",
+                "contents": "New event selection UINicer stage displayUI Sliders now display their value",
+                "feedlabel": "Community Announcements",
+                "date": 1772623748,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3711050,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1825727806708172",
+                "title": "beaterCore Demo 0.0.19 is released!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806708172",
+                "is_external_url": true,
+                "author": "The HellBox",
+                "contents": "Input system: Add properties menu for analog actions(Throttle, brakes, etc) with dead zone and linearity settingsSettings config file has been transitioned from Ron file format to JSON5. Please report if your settings file got corrupted during the transitionFix a bug that made it difficult to rebind keys on a controller",
+                "feedlabel": "Community Announcements",
+                "date": 1772123259,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3711050,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1825093633181878",
+                "title": "beaterCore Demo 0.0.16 is released!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633181878",
+                "is_external_url": true,
+                "author": "The HellBox",
+                "contents": "Particle system has been significantly improved. Dust is significantly more thick and visible, tires kick off rocks into the air, and a lot of graphical glitches were fixed. This change might affect performance on low-end systemsTutorial sequence has been improved with button highlights",
+                "feedlabel": "Community Announcements",
+                "date": 1771412095,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3711050,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1824644522844964",
+                "title": "beaterCore Demo 0.0.15 is released!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522844964",
+                "is_external_url": true,
+                "author": "The HellBox",
+                "contents": "Resting mechanic. Allows to skip a day and restocks shops for a certain costHub better highlights buttons now, improving visual clarity when using a controllerCurrent day of the week is now displayed in the hub",
+                "feedlabel": "Community Announcements",
+                "date": 1771236113,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3711050,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1824644522841688",
+                "title": "beaterCore Demo 0.0.14 is released!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522841688",
+                "is_external_url": true,
+                "author": "The HellBox",
+                "contents": "Split Contact Race: 1400 into 2 separate eventsAdd wooden floor footstep sounds in auto parts storeFix volume sliders not working on gamepadsFix dialog options not appearing on screen in certain cases",
+                "feedlabel": "Community Announcements",
+                "date": 1771071135,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3711050,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1823825466504617",
+                "title": "beaterCore Demo 0.0.12 is released!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466504617",
+                "is_external_url": true,
+                "author": "The HellBox",
+                "contents": "Increase rewards for `Contact Race: 1400`Fix player being able to exit the car before the race startsPoint camera towards the car in the start of the tutorialFix cars not getting their changes applied after exiting car selection and entering it againReduce wear rate of the air filter",
+                "feedlabel": "Community Announcements",
+                "date": 1770619905,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3711050,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1823825466501826",
+                "title": "beaterCore Demo - Version 0.0.10",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466501826",
+                "is_external_url": true,
+                "author": "The HellBox",
+                "contents": "This patch improves CPU opponents speed by up to 2x on some tracks.",
+                "feedlabel": "Community Announcements",
+                "date": 1770478077,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3711050,
+                "tags": [
+                    "patchnotes"
+                ]
+            }
+        ],
+        "count": 11
+    }
+}
