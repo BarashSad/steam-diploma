@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3711050,BeaterCore,"""BeaterCore"" Steam",general,1,tavily,True,,5
+3711050,BeaterCore,"""BeaterCore"" trailer",general,1,tavily,True,,5
+3711050,BeaterCore,"""BeaterCore"" gameplay",general,1,tavily,True,,5
+3711050,BeaterCore,"""BeaterCore"" demo",general,1,tavily,True,,4
+3711050,BeaterCore,"""BeaterCore"" release date",general,1,tavily,True,,5
+3711050,BeaterCore,"""BeaterCore"" announcement",general,1,tavily,True,,5
+3711050,BeaterCore,"""BeaterCore"" preview",general,1,tavily,True,,5
+3711050,BeaterCore,"""BeaterCore"" review",general,1,tavily,True,,5
+3711050,BeaterCore,"""BeaterCore"" publisher",general,1,tavily,True,,5
+3711050,BeaterCore,"""BeaterCore"" developer",general,1,tavily,True,,5
+3711050,BeaterCore,"site:pcgamer.com ""BeaterCore""",press,2,tavily,False,General budget exhausted,0
+3711050,BeaterCore,"site:rockpapershotgun.com ""BeaterCore""",press,2,tavily,False,General budget exhausted,0
+3711050,BeaterCore,"site:ign.com ""BeaterCore""",press,2,tavily,False,General budget exhausted,0
+3711050,BeaterCore,"site:gamespot.com ""BeaterCore""",press,2,tavily,False,General budget exhausted,0
+3711050,BeaterCore,"site:game8.co ""BeaterCore""",press,2,tavily,False,General budget exhausted,0
+3711050,BeaterCore,"site:reddit.com ""BeaterCore""",social,3,tavily,True,,5
+3711050,BeaterCore,"site:tiktok.com ""BeaterCore""",social,4,tavily,True,,0
+3711050,BeaterCore,"site:instagram.com ""BeaterCore""",social,4,tavily,True,,5
+3711050,BeaterCore,"site:x.com ""BeaterCore""",social,4,tavily,True,,5
+3711050,BeaterCore,"site: ""BeaterCore""",social,4,tavily,True,,5

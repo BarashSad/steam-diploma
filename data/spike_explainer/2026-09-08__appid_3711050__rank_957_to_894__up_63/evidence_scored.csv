@@ -1,0 +1,2966 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+3711050,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=NhaFjpzBwy8,beaterCore - Official Trailer,,"beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore ...",trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+3711050,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=qhonEmQZcto,BeaterCore - Official Trailer,,"BeaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore ...",trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+3711050,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=NhaFjpzBwy8,beaterCore - Official Trailer,,"beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore ...",trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+3711050,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557766,beaterCore Demo 0.3.0 is released!,,"ModsOfficial, proper, but basic mod support. Steam workshop is not going to be supported in the demo version, but for now you can find mods in our discord communityMod manager in settings menuMultiplayer servers check for mod compatibility and automatically enable required mods and disable the ones ",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3711050,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823090,beaterCore Demo 0.2.1 is released!,,Prologue story instead of the tutorial sequenceEngine wear has been reduced by 50%Engine oil wear has been reduced by 30%Multiplayer rewards have been reduced by 30%Rewards for singleplayer races have been increased by 500Fixed decal rendering on certain GPU models and driver versionsNew dialog soun,demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3711050,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815554170,beaterCore Demo 0.1.3 is released!,,Added MSAA and SSAA anti-aliasing options in graphics settingsAdded rolling resistance and sounds to grass and rocksImproved hub visualsAdded ability to change car's colors in split screenImproved UI in graphics settingsPossible fix for rendering artifacts on some GPUsFix visiting other player's gar,demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3711050,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365750098,beaterCore Demo 0.1.1 is released!,,Added 3D rocks to terrainNew and improved tutorial sequenceAdded ability to cycle through trunk's itemsAdded render scaling option to settings menuAdded icons for some of the keyboard keysAdded 3D field repair icon to track preview screenDraw water in track previewsAdded more ambience to auto parts ,demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3711050,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059917887,beaterCore Demo - Version 0.0.20 is released!,,New event selection UINicer stage displayUI Sliders now display their value,demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3711050,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806708172,beaterCore Demo 0.0.19 is released!,,"Input system: Add properties menu for analog actions(Throttle, brakes, etc) with dead zone and linearity settingsSettings config file has been transitioned from Ron file format to JSON5. Please report if your settings file got corrupted during the transitionFix a bug that made it difficult to rebind",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3711050,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633181878,beaterCore Demo 0.0.16 is released!,,"Particle system has been significantly improved. Dust is significantly more thick and visible, tires kick off rocks into the air, and a lot of graphical glitches were fixed. This change might affect performance on low-end systemsTutorial sequence has been improved with button highlights",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3711050,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522844964,beaterCore Demo 0.0.15 is released!,,"Resting mechanic. Allows to skip a day and restocks shops for a certain costHub better highlights buttons now, improving visual clarity when using a controllerCurrent day of the week is now displayed in the hub",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3711050,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522841688,beaterCore Demo 0.0.14 is released!,,Split Contact Race: 1400 into 2 separate eventsAdd wooden floor footstep sounds in auto parts storeFix volume sliders not working on gamepadsFix dialog options not appearing on screen in certain cases,demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3711050,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466504617,beaterCore Demo 0.0.12 is released!,,Increase rewards for `Contact Race: 1400`Fix player being able to exit the car before the race startsPoint camera towards the car in the start of the tutorialFix cars not getting their changes applied after exiting car selection and entering it againReduce wear rate of the air filter,demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3711050,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466501826,beaterCore Demo - Version 0.0.10,,This patch improves CPU opponents speed by up to 2x on some tracks.,demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3711050,youtube_video,outside_window,https://www.youtube.com/watch?v=_vR3aA_al0E,beaterCore - Official Demo Gameplay Trailer,,"beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore ...","trailer, gameplay, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo'] (+20)",
+3711050,youtube_video,outside_window,https://www.youtube.com/watch?v=mHD1ifi34Ek,beaterCore - Steam Demo Launch Trailer,,Wishlist beaterCore on Steam! https://store.steampowered.com/app/3711050/BeaterCore/ Download the demo on itch.io!,"trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+3711050,youtube_video,outside_window,https://www.youtube.com/watch?v=8wB_mh1c-5Y,BeaterCore - First 15 Minutes of Demo Gameplay,,"BeaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sport cars. Buy, repair, restore ...","gameplay, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+3711050,youtube_video,outside_window,https://www.youtube.com/watch?v=gWoMqf8W2_o,BeaterCore Gameplay HD (PC) | NO COMMENTARY,,I hope you find this BeaterCore gameplay no commentary video useful.Leave a like and share with your friends if you can ;) .,gameplay,55,medium,YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+3711050,youtube_video,outside_window,https://www.youtube.com/watch?v=mHD1ifi34Ek,beaterCore - Steam Demo Launch Trailer,,Wishlist beaterCore on Steam! https://store.steampowered.com/app/3711050/BeaterCore/ Download the demo on itch.io!,"trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+3711050,youtube_video,outside_window,https://www.youtube.com/watch?v=_vR3aA_al0E,beaterCore - Official Demo Gameplay Trailer,,"beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore ...","trailer, gameplay, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo'] (+20)",
+3711050,youtube_video,outside_window,https://www.youtube.com/watch?v=mHD1ifi34Ek,beaterCore - Steam Demo Launch Trailer,,Wishlist beaterCore on Steam! https://store.steampowered.com/app/3711050/BeaterCore/ Download the demo on itch.io!,"trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+3711050,youtube_video,outside_window,https://www.youtube.com/watch?v=_vR3aA_al0E,beaterCore - Official Demo Gameplay Trailer,,"beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore ...","trailer, gameplay, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo'] (+20)",
+3711050,youtube_video,outside_window,https://www.youtube.com/watch?v=8wB_mh1c-5Y,BeaterCore - First 15 Minutes of Demo Gameplay,,"BeaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sport cars. Buy, repair, restore ...","gameplay, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+3711050,youtube_video,outside_window,https://www.youtube.com/watch?v=yEamAu91epE,BeaterCore Demo - PC  Gameplay - No Commentary [1440p 60fps],,First hour of BeaterCore - Demo Gameplay - No Commentary [1440p] A neat retro-stylized arcade racing indie game where you ...,"gameplay, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+3711050,youtube_video,outside_window,https://www.youtube.com/watch?v=sMW5xeGrJLM,beaterCore : demo - way BETTER than i expected!!,,Today we are checking out the upcoming car game beaterCore. This game looks very very promising and i will be purchasing as ...,demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+3711050,web_result,unknown_date,https://www.instagram.com/reel/DUiy5bDAA2J,Instagram,"gamedemos
+
+BeaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sport cars. Buy, repair, restore, and race your dream project car.  
+PS. I'm not a good English speaker, I have used elevenlabs.io for the voiceover.  
+#racinggames #arcadegames #gamedemos #indiegame #whattoplay
+
+alban.alt's profile picture
+
+alban.alt
+
+Split screen ?
+
+3 likes
+
+Reply
+
+622
+
+Log in to like or comment.
+
+More posts from gamedemos [...] Video by Game Demos on August 12, 2026. May be a cartoon of videogame controller, poster and text that says '+% ခိုဓ GAMEDEMOS GAME DEMOS'.
+
+Video by Game Demos on September 07, 2026. May be a cartoon of poster, videogame controller and text that says '+% + + GAMEDEMOS ခိုဓ GAME DEMOS'.
+
+Video by Game Demos on September 06, 2026. May be an image of ‎poster, door and ‎text that says '‎+ စိဓ GAME DEMOS DONT DEAD OPEN לחאמוי ጣት‎'‎‎. [...] Video by Game Demos on September 01, 2026. May be an illustration of ‎poster and ‎text that says '‎በብ س + GAME DEMOS مميرير‎'‎‎.
+
+Video by Game Demos on August 31, 2026. May be an image of videogame controller and text.
+
+Video by Game Demos on August 30, 2026. May be an image of text that says 'RS BEVERAGES KaDu APPETIZERS BURGEWS SER 5S BU PREMIUM SPECIAL MENU DESNEN BRINKS + + ိုဓ GAME DEMOS 111T 
+
+See more posts
+
+---",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),general
+3711050,social_post,unknown_date,https://www.instagram.com/reel/DUiy5bDAA2J,BeaterCore is an arcade racing game for those who prefer ...,"gamedemos
+
+BeaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sport cars. Buy, repair, restore, and race your dream project car.  
+PS. I'm not a good English speaker, I have used elevenlabs.io for the voiceover.  
+#racinggames #arcadegames #gamedemos #indiegame #whattoplay
+
+alban.alt's profile picture
+
+alban.alt
+
+Split screen ?
+
+3 likes
+
+Reply
+
+622
+
+Log in to like or comment.
+
+More posts from gamedemos [...] Video by Game Demos on August 12, 2026. May be a cartoon of videogame controller, poster and text that says '+% ခိုဓ GAMEDEMOS GAME DEMOS'.
+
+Video by Game Demos on September 07, 2026. May be a cartoon of poster, videogame controller and text that says '+% + + GAMEDEMOS ခိုဓ GAME DEMOS'.
+
+Video by Game Demos on September 06, 2026. May be an image of ‎poster, door and ‎text that says '‎+ စိဓ GAME DEMOS DONT DEAD OPEN לחאמוי ጣት‎'‎‎. [...] Video by Game Demos on September 01, 2026. May be an illustration of ‎poster and ‎text that says '‎በብ س + GAME DEMOS مميرير‎'‎‎.
+
+Video by Game Demos on August 31, 2026. May be an image of videogame controller and text.
+
+Video by Game Demos on August 30, 2026. May be an image of text that says 'RS BEVERAGES KaDu APPETIZERS BURGEWS SER 5S BU PREMIUM SPECIAL MENU DESNEN BRINKS + + ိုဓ GAME DEMOS 111T 
+
+See more posts
+
+---",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+3711050,social_post,unknown_date,https://www.instagram.com/popular/beatercore,Beatercore,"Log In
+
+Sign Up
+
+# Beatercore
+
+Beatcore is an electronic music producer and DJ known for melodic dubstep and bass, blending emotive melodies with heavy drops. Tracks like ""Fading Memory"" and ""World Away"" showcase his signature... more
+
+Tomorrow a NEW CO-OP game is coming out. Game in Bio
+#indie #gameplay #steam #game #videogames #newgame #coopgames #gamedesign #gaming #games #gamedeveloper #whattoplay
+
+1.1M [...] the first prototype was way back in december 2019. it's interesting to see that the core idea has always been there.
+
+#gamedev #indiedev #gaming #racinggame #indiegame
+
+167
+
+how it started vs how it's going. the first prototype was way back in december 2019. it's interesting to see that the core idea has always been there. #gamedev #indiedev #gaming #racinggame #indiegame
+
+Here’s a quick look at what’s coming to Race Jam 👀🔥 [...] #gamedev #rougelike #indiedev #videogames #drivinggames
+
+172
+
+Still havent decided on a name yet, it'll come to me in a moment of divine intervention I'm sure #gamedev #rougelike #indiedev #videogames #drivinggames
+
+#kickstarter starting 2nd March, please support us  #videogame #gaming #gamers #indiegame
+
+263
+
+#kickstarter starting 2nd March, please support us  #videogame #gaming #gamers #indiegame
+
+Get the full experience
+
+Sign up for Instagram",,"gameplay, showcase",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['gameplay', 'showcase'] (+20)",social
+3711050,social_post,unknown_date,https://x.com/The_HellBox,The HellBox (@The_HellBox) / X,"Feb 5
+
+  beaterCore Demo just launched on Steam! store.steampowered.com/app/3711050/Be… beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sport cars. Buy, repair, restore, and race your dream project car #gamedev #indiedev
+
+  
+
+  BeaterCore on SteamFrom store.steampowered.com
+ @The_HellBox
+
+  The HellBox
+
+  @The\_HellBox
+
+  Jun 16 [...] Jun 16
+
+  beaterCore is participating in steam's #NextFest ! It's an arcade racing game focused around repairing and maintaining old cars, with online multiplayer available right in the demo version If it's your kind of thing, make sure to check it out! store.steampowered.com/app/3711050/ #gamedev
+
+  
+
+  1
+ @The_HellBox
+
+  The HellBox
+
+  @The\_HellBox
+
+  Jun 2 [...] Log inSign up
+
+The HellBox
+
+@The_HellBox
+
+# The HellBox
+
+Wishlist beaterCore on Steam - store.steampowered.com/app/3711050/Be… Download demo on itch.io - the-hellbox.itch.io/beatercore
+
+Joined July 2017
+
+20
+
+Following32
+
+Followers
+
+RepliesRepliesRepostsRepostsMediaMedia
+
+ Pinned
+
+  @The_HellBox
+
+  The HellBox
+
+  @The\_HellBox
+
+  Feb 5",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+3711050,social_post,unknown_date,https://store.steampowered.com/app/3711050/BeaterCore,BeaterCore on Steam,"All Games > Racing Games > BeaterCore
+
+Community Hub
+
+BeaterCore
+
+BeaterCore
+
+BeaterCore
+
+Developer
+
+Artem Arbatsky
+
+Publisher
+
+Artem Arbatsky
+
+Release
+
+9 Sep, 2026
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+9 Sep, 2026
+
+Developer:
+
+Artem Arbatsky
+
+Publisher:
+
+Artem Arbatsky
+
+Tags
+
+Popular user-defined tags for this product: [...] View Community Hub
+
+## About This Game
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+## Garage
+
+Repair your car in first person mode. Purchase furniture and stockpile as many spare parts as you can - you're going to need them.
+
+## Field repair [...] beaterCore features multiple in-game characters you'll have to interact with. Take sponsorships, complete quests, and unlock additional content as you build relationships with them.
+
+## Different times of year
+
+Experience tracks across different times of year. Prepare your car for icy winter conditions or enjoy the warm, vibrant colors of autumn.
+
+## System Requirements
+
+Windows
+
+SteamOS + Linux
+
+Minimum:",,release date,45,medium,Social Index (+5); Exact title match (+20); Keywords ['release date'] (+20),social
+3711050,web_result,unknown_date,https://store.steampowered.com/app/3711050/BeaterCore,BeaterCore on Steam,"All Games > Racing Games > BeaterCore
+
+Community Hub
+
+BeaterCore
+
+BeaterCore
+
+BeaterCore
+
+Developer
+
+Artem Arbatsky
+
+Publisher
+
+Artem Arbatsky
+
+Release
+
+9 Sep, 2026
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+9 Sep, 2026
+
+Developer:
+
+Artem Arbatsky
+
+Publisher:
+
+Artem Arbatsky
+
+Tags
+
+Popular user-defined tags for this product: [...] View Community Hub
+
+## About This Game
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+## Garage
+
+Repair your car in first person mode. Purchase furniture and stockpile as many spare parts as you can - you're going to need them.
+
+## Field repair [...] beaterCore features multiple in-game characters you'll have to interact with. Take sponsorships, complete quests, and unlock additional content as you build relationships with them.
+
+## Different times of year
+
+Experience tracks across different times of year. Prepare your car for icy winter conditions or enjoy the warm, vibrant colors of autumn.
+
+## System Requirements
+
+Windows
+
+SteamOS + Linux
+
+Minimum:",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3711050,web_result,unknown_date,https://playtester.io/beatercore,BeaterCore Demo on Playtester,"beaterCore features multiple in-game characters you'll have to interact with. Take sponsorships, complete quests, and unlock additional content as you build relationships with them.
+
+## Different times of year
+
+Experience tracks across different times of year. Prepare your car for icy winter conditions or enjoy the warm, vibrant colors of autumn.
+
+BeaterCore: Pixelated font with gradient colors, 
+
+View demo
+
+SteamInstall
+
+Requires a 64-bit processor and operating system
+
+OS
+:   Windows 10 [...] # BeaterCore Active Now
+
+AA
+
+Artem ArbatskyAdded
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sport cars. Buy, repair, restore, and race your dream project car
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+## Garage [...] OS
+:   Windows 10
+
+Memory
+:   4 GB RAM
+
+Graphics
+:   Nvidia GT640
+
+Storage
+:   500 MB available space
+
+Additional Notes
+:   OpenGL 3.3 support is required
+
+Explore
+
+Categories
+
+About
+
+Advertise
+
+Soon
+
+## Similar games
+
+ Wreckreation 2: Muscle car and red sports car race as blue car flips above them on neon-lit city street at night.
+
+  ### Wreckreation 2
+
+  Closed Beta",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3711050,web_result,unknown_date,https://www.youtube.com/watch?v=mHD1ifi34Ek,beaterCore - Steam Demo Launch Trailer,beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars.,,"trailer, demo",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+3711050,web_result,unknown_date,https://www.facebook.com/groups/132728896890594/posts/3485236381639812,BeaterCore arcade racing game release date and ...,Public Game trailer in article 🔻 “The new game features the original five courses from the arcade game and over twenty vehicles to choose from.,,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+3711050,web_result,unknown_date,https://store.steampowered.com/app/3711050/BeaterCore,BeaterCore on Steam,"All Games > Racing Games > BeaterCore
+
+Community Hub
+
+BeaterCore
+
+BeaterCore
+
+BeaterCore
+
+Developer
+
+Artem Arbatsky
+
+Publisher
+
+Artem Arbatsky
+
+Release
+
+9 Sep, 2026
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+9 Sep, 2026
+
+Developer:
+
+Artem Arbatsky
+
+Publisher:
+
+Artem Arbatsky
+
+Tags
+
+Popular user-defined tags for this product: [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ |  |
+| Russian | ✔ |  |  |
+| Spanish - Spain | ✔ |  |  |
+| Italian | ✔ |  |  |
+
+About IGRS Ratings on Steam
+
+ Click here to learn more
+
+Title: BeaterCore  
+ Genre: Indie, Racing  
+
+Developer: Artem Arbatsky
+
+Publisher: Artem Arbatsky
+
+Release Date: 9 Sep, 2026 [...] View Community Hub
+
+## About This Game
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+## Garage
+
+Repair your car in first person mode. Purchase furniture and stockpile as many spare parts as you can - you're going to need them.
+
+## Field repair",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3711050,web_result,unknown_date,https://www.youtube.com/watch?v=8wB_mh1c-5Y,BeaterCore - First 15 Minutes of Demo Gameplay,"# BeaterCore - First 15 Minutes of Demo Gameplay
+## whatthevic
+15200 subscribers
+2 likes
+
+### Description
+116 views
+Posted: 11 Feb 2026
+BeaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sport cars. Buy, repair, restore, and race your dream project car
+
+Wishlist now : 
+
+Keep in touch with me
+
+Instagram : 
+Steam : 
+Discord : whatthevic
+
+#beaterCore
+
+### Transcript:",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+3711050,web_result,unknown_date,https://playtester.io/beatercore,BeaterCore Demo on Playtester,"# BeaterCore Active Now
+
+AA
+
+Artem ArbatskyAdded
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sport cars. Buy, repair, restore, and race your dream project car
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+## Garage [...] ## Garage
+
+Repair your car in first person mode. Purchase furniture and stockpile as many spare parts as you can - you're going to need them.
+
+## Field repair
+
+In beaterCore you'll have to make quick repairs in-between races. Everything can go wrong, and you must be prepared for it! Store items in your car's trunk, but be wise with what you bring with you - space is limited.
+
+## Split screen
+
+Play locally with up to four players on the same screen. Keyboard controls are fully supported! [...] beaterCore features multiple in-game characters you'll have to interact with. Take sponsorships, complete quests, and unlock additional content as you build relationships with them.
+
+## Different times of year
+
+Experience tracks across different times of year. Prepare your car for icy winter conditions or enjoy the warm, vibrant colors of autumn.
+
+BeaterCore: Pixelated font with gradient colors, 
+
+View demo
+
+SteamInstall
+
+Requires a 64-bit processor and operating system
+
+OS
+:   Windows 10",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3711050,web_result,unknown_date,https://the-hellbox.itch.io/beatercore/devlog/1550329/beatercore-030-is-released,beaterCore 0.3.0 is released! - beaterCore by The HellBox,"Follow The HellBoxFollowFollowing The HellBoxFollowing
+ Add To CollectionCollection
+ Community
+ Devlog
+ Related gamesRelated
+
+# beaterCore 0.3.0 is released!
+
+beaterCore » Devlog
+
+88 days ago by The HellBox
+
+Share this post:
+
+Share on BlueskyShare on TwitterShare on Facebook
+
+## Mods
+
+- Official, proper, but basic mod support. Steam workshop is not going to be supported in the demo version, but for now you can find mods in our discord community
+
+- Mod manager in settings menu [...] - Multiplayer servers check for mod compatibility and automatically enable required mods and disable the ones that aren't installed or enabled on the server
+
+## Editor
+
+- Various draw brushes that can be rotated
+
+- Clickable icons for draw modes
+
+- Brush intensity is now independent from brush size
+
+## Hub
+
+- Map editor button with map creation menu
+
+## Replays [...] |  |  |
+ --- |
+| Status | In development |
+| Author | The HellBox |
+| Genre | Racing |
+| Tags | 3D, Arcade, Characters, First-Person, Low-poly, Multiplayer, PSX (PlayStation), Singleplayer, Split Screen |
+| Languages | English, Spanish; Castilian, Spanish; Latin America, Italian, Russian |
+| Accessibility | Configurable controls, Interactive tutorial |
+
+### More posts
+
+ beaterCore 0.2.2 is released!
+
+  May 26, 2026
+ beaterCore 0.2.1 is released!
+
+  May 12, 2026
+ beaterCore 0.1.3 is released!",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3711050,web_result,unknown_date,https://www.facebook.com/groups/132728896890594/posts/3485236381639812,BeaterCore arcade racing game release date and ...,"Buy, repair, restore, and race your dream project car"" Game : BeaterCore ... Play the demo: https://80.lv/articles/check-out-this- retro-arcade",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+3711050,web_result,unknown_date,https://store.steampowered.com/app/3711050/BeaterCore,BeaterCore on Steam,"View Community Hub
+
+## About This Game
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+## Garage
+
+Repair your car in first person mode. Purchase furniture and stockpile as many spare parts as you can - you're going to need them.
+
+## Field repair [...] All Games > Racing Games > BeaterCore
+
+Community Hub
+
+BeaterCore
+
+BeaterCore
+
+BeaterCore
+
+Developer
+
+Artem Arbatsky
+
+Publisher
+
+Artem Arbatsky
+
+Release
+
+9 Sep, 2026
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+9 Sep, 2026
+
+Developer:
+
+Artem Arbatsky
+
+Publisher:
+
+Artem Arbatsky
+
+Tags
+
+Popular user-defined tags for this product: [...] beaterCore features multiple in-game characters you'll have to interact with. Take sponsorships, complete quests, and unlock additional content as you build relationships with them.
+
+## Different times of year
+
+Experience tracks across different times of year. Prepare your car for icy winter conditions or enjoy the warm, vibrant colors of autumn.
+
+## System Requirements
+
+Windows
+
+SteamOS + Linux
+
+Minimum:",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3711050,web_result,unknown_date,https://store.steampowered.com/app/3711050/BeaterCore,BeaterCore on Steam,"All Games > Racing Games > BeaterCore
+
+Community Hub
+
+BeaterCore
+
+BeaterCore
+
+BeaterCore
+
+Developer
+
+Artem Arbatsky
+
+Publisher
+
+Artem Arbatsky
+
+Release
+
+9 Sep, 2026
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+9 Sep, 2026
+
+Developer:
+
+Artem Arbatsky
+
+Publisher:
+
+Artem Arbatsky
+
+Tags
+
+Popular user-defined tags for this product: [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ |  |
+| Russian | ✔ |  |  |
+| Spanish - Spain | ✔ |  |  |
+| Italian | ✔ |  |  |
+
+About IGRS Ratings on Steam
+
+ Click here to learn more
+
+Title: BeaterCore  
+ Genre: Indie, Racing  
+
+Developer: Artem Arbatsky
+
+Publisher: Artem Arbatsky
+
+Release Date: 9 Sep, 2026 [...] Discord External   VK External   View update history   Read related news   View discussions   Visit the Workshop   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Content
+
+Includes Interactive Elements
+
+In-game chat, Online interactivity
+
+Links & info
+
+This game is not yet available on Steam
+
+# Planned Release Date: 9 Sep, 2026
+
+This game plans to unlock in approximately 5 days
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3711050,web_result,unknown_date,https://gamefaqs.gamespot.com/unixlinux/600232-beatercore/data,BeaterCore Release Information for Linux - GameFAQs,"## Release Data
+
+| Box | Title | | | | | |
+ ---  ---  --- 
+| Region | Publisher | Product ID | Distribution / Barcode | Release Date | Rating |
+|  | BeaterCore | | | | | |
+| US | Artem Arbatsky | 3711050 | Steam | 09/09/26 |  |
+
+## Description
+
+## Know Something We Don't?
+
+You can submit or update game data or submit game credits to help us keep our data up-to-date.
+
+## Game Detail
+
+## Games You May Like
+
+gamespot.commetacritic.comfandom.comfanatical.com [...] # BeaterCore – Release Details
+
+### Linux PC
+
+## Title Data
+
+## Release Data
+
+| Box | Title | | | | | |
+ ---  ---  --- 
+| Region | Publisher | Product ID | Distribution / Barcode | Release Date | Rating |
+|  | BeaterCore | | | | | |
+| US | Artem Arbatsky | 3711050 | Steam | 09/09/26 |  |
+
+## Title Data
+
+## Release Data [...] SitemapPartnershipsCareersTerms of UseDigital Services Act
+
+Privacy PolicyCookie SettingsReport Ad
+
+© 2026 FANDOM, INC. ALL RIGHTS RESERVED.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3711050,web_result,unknown_date,https://raijin.gg/app/3711050/BeaterCore,BeaterCore Steam Stats & Charts · Raijin,"Raijin Logo Icon
+
+BeaterCore background image
+
+BeaterCore heading image
+
+Coming soonArtem ArbatskyRelease date: Aug 13, 2026
+
+Wishlists(est.)
+
+3.75K
+
+7d—
+
+Hype Meter
+
+Coming soon
+
+We're working on getting this data
+
+BeaterCore background image
+
+Coming soon
+
+BeaterCore title image
+
+BeaterCore
+
+Artem ArbatskyRelease date: Aug 13, 2026
+
+Wishlists(est.)
+
+3.75K—- [...] ### Details
+
+View on Steam
+
+Developer
+
+Artem Arbatsky
+
+Publisher
+
+Artem Arbatsky
+
+Release date
+
+Aug 13, 2026
+
+App ID
+
+3711050
+
+Community
+
+Platforms
+
+Windows
+
+Linux
+
+Genre
+
+indieracing
+
+User tags
+
+Racing
+
+Driving
+
+Arcade
+
+Inventory Management
+
+Pixel Graphics
+
+Controllers
+
+Languages
+
+English (full audio)
+
+Russian
+
+Spanish - Spain
+
+Italian
+
+Polish
+
+Features
+
+Online PvP
+
+LAN PvP [...] 3.75K—-
+
+BeaterCore has 0 players in-game right now. Estimated wishlists: 3,745. Data from Steam and Raijin estimates, as of September 7, 2026 (UTC).
+
+BeaterCoreBeaterCore
+
+## Similar Games
+
+ MX vs ATV Legends
+ Need for Speed Heat
+ Wreckfest 2
+ Need for Speed Most Wanted
+ Screamer
+ CarX Drift Racing Online
+ World of Outlaws Dirt Racing 24 Gold Edition
+ CarX Street
+ Trackmania
+ Need for Speed Rivals
+ Need for Speed Payback
+ City Car Driving 20
+
+### About
+
+No description available.
+
+### Details",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3711050,web_result,unknown_date,https://the-hellbox.itch.io/beatercore/devlog/1550329/beatercore-030-is-released,beaterCore 0.3.0 is released! - The HellBox,"Apr 01, 2026
+ beaterCore 0.1.2 is released!
+
+  Mar 20, 2026
+ beaterCore 0.1.1 is Released!
+
+  Mar 18, 2026
+ beaterCore 0.0.20 is released!
+
+  Mar 04, 2026
+ beaterCore 0.0.18 is released!
+
+  Feb 23, 2026
+ beaterCore 0.0.17 is released!
+
+  Feb 22, 2026
+ beaterCore 0.0.16 is released!
+
+  Feb 18, 2026
+
+See all posts
+
+## Leave a comment
+
+Log in with itch.io to leave a comment.
+
+itch.io·View all by The HellBox·Report;)
+
+beaterCore › Blog [...] |  |  |
+ --- |
+| Status | In development |
+| Author | The HellBox |
+| Genre | Racing |
+| Tags | 3D, Arcade, Characters, First-Person, Low-poly, Multiplayer, PSX (PlayStation), Singleplayer, Split Screen |
+| Languages | English, Spanish; Castilian, Spanish; Latin America, Italian, Russian |
+| Accessibility | Configurable controls, Interactive tutorial |
+
+### More posts
+
+ beaterCore 0.2.2 is released!
+
+  May 26, 2026
+ beaterCore 0.2.1 is released!
+
+  May 12, 2026
+ beaterCore 0.1.3 is released! [...] Follow The HellBoxFollowFollowing The HellBoxFollowing
+ Add To CollectionCollection
+ Community
+ Devlog
+ Related gamesRelated
+
+# beaterCore 0.3.0 is released!
+
+beaterCore » Devlog
+
+88 days ago by The HellBox
+
+Share this post:
+
+Share on BlueskyShare on TwitterShare on Facebook
+
+## Mods
+
+- Official, proper, but basic mod support. Steam workshop is not going to be supported in the demo version, but for now you can find mods in our discord community
+
+- Mod manager in settings menu",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3711050,web_result,unknown_date,https://store.steampowered.com/app/3711050/BeaterCore,BeaterCore on Steam,"All Games > Racing Games > BeaterCore
+
+Community Hub
+
+BeaterCore
+
+BeaterCore
+
+BeaterCore
+
+Developer
+
+Artem Arbatsky
+
+Publisher
+
+Artem Arbatsky
+
+Release
+
+9 Sep, 2026
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+9 Sep, 2026
+
+Developer:
+
+Artem Arbatsky
+
+Publisher:
+
+Artem Arbatsky
+
+Tags
+
+Popular user-defined tags for this product: [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ |  |
+| Russian | ✔ |  |  |
+| Spanish - Spain | ✔ |  |  |
+| Italian | ✔ |  |  |
+
+About IGRS Ratings on Steam
+
+ Click here to learn more
+
+Title: BeaterCore  
+ Genre: Indie, Racing  
+
+Developer: Artem Arbatsky
+
+Publisher: Artem Arbatsky
+
+Release Date: 9 Sep, 2026 [...] View Community Hub
+
+## About This Game
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+## Garage
+
+Repair your car in first person mode. Purchase furniture and stockpile as many spare parts as you can - you're going to need them.
+
+## Field repair",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3711050,web_result,unknown_date,https://store.steampowered.com/app/3711050/BeaterCore,BeaterCore on Steam,"All Games > Racing Games > BeaterCore
+
+Community Hub
+
+BeaterCore
+
+BeaterCore
+
+BeaterCore
+
+Developer
+
+Artem Arbatsky
+
+Publisher
+
+Artem Arbatsky
+
+Release
+
+9 Sep, 2026
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+9 Sep, 2026
+
+Developer:
+
+Artem Arbatsky
+
+Publisher:
+
+Artem Arbatsky
+
+Tags
+
+Popular user-defined tags for this product: [...] View Community Hub
+
+## About This Game
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+## Garage
+
+Repair your car in first person mode. Purchase furniture and stockpile as many spare parts as you can - you're going to need them.
+
+## Field repair [...] ## Field repair
+
+In beaterCore you'll have to make quick repairs in-between races. Everything can go wrong, and you must be prepared for it! Store items in your car's trunk, but be wise with what you bring with you - space is limited.
+
+## Split screen
+
+Play locally with up to four players on the same screen. Keyboard controls are fully supported!
+
+## Multiplayer",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3711050,web_result,unknown_date,https://store.steampowered.com/app/3711050/BeaterCore,BeaterCore on Steam,"All Games > Racing Games > BeaterCore
+
+Community Hub
+
+BeaterCore
+
+BeaterCore
+
+BeaterCore
+
+Developer
+
+Artem Arbatsky
+
+Publisher
+
+Artem Arbatsky
+
+Release
+
+9 Sep, 2026
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+9 Sep, 2026
+
+Developer:
+
+Artem Arbatsky
+
+Publisher:
+
+Artem Arbatsky
+
+Tags
+
+Popular user-defined tags for this product: [...] View Community Hub
+
+## About This Game
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+## Garage
+
+Repair your car in first person mode. Purchase furniture and stockpile as many spare parts as you can - you're going to need them.
+
+## Field repair [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ |  |
+| Russian | ✔ |  |  |
+| Spanish - Spain | ✔ |  |  |
+| Italian | ✔ |  |  |
+
+About IGRS Ratings on Steam
+
+ Click here to learn more
+
+Title: BeaterCore  
+ Genre: Indie, Racing  
+
+Developer: Artem Arbatsky
+
+Publisher: Artem Arbatsky
+
+Release Date: 9 Sep, 2026",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3711050,web_result,unknown_date,https://www.metacritic.com/game/beatercore,BeaterCore Reviews - Metacritic,"Artem Arbatsky
+
+ Auto Racing
+
+Developer:Artem Arbatsky
+
+# BeaterCore
+
+Released On:
+
+Sep 9, 2026
+
+Metascore
+
+Critic reviews are not available yet
+
+tbd
+
+User score
+
+User reviews are not available yet
+
+tbd
+
+## All Platforms
+
+tbd
+
+Advertisement
+
+## Critic Reviews
+
+Metascore
+
+Critic reviews are not available yet
+
+tbd
+
+0% Positive  
+0 Reviews
+
+0% Mixed  
+0 Reviews
+
+0% Negative  
+0 Reviews
+
+Critic reviews are not available for this game yet.
+
+## User Reviews
+
+User score [...] User score
+
+User reviews are not available yet
+
+tbd
+
+0% Positive  
+0 Ratings
+
+0% Mixed  
+0 Ratings
+
+0% Negative  
+0 Ratings
+
+User reviews are not available for this game yet.
+
+Advertisement
+
+## Details
+
+View All
+
+Platforms:
+
+ PC
+
+Initial Release Date:Sep 9, 2026
+
+Publisher:Artem Arbatsky
+
+Genres:
+
+ Auto Racing
+
+Full Credits & Details
+
+Advertisement
+
+## Related Games
+
+### Burnout 3: Takedown
+
+94
+
+Universal Acclaim
+
+### Mario Kart: Super Circuit
+
+93
+
+Universal Acclaim
+
+### Mario Kart 8 Deluxe [...] 92
+
+Universal Acclaim
+
+### Mario Kart DS
+
+91
+
+Universal Acclaim
+
+### Mario Kart 8 DLC Pack 2
+
+90
+
+Universal Acclaim
+
+### Beetle Adventure Racing
+
+90
+
+Universal Acclaim
+
+### Burnout Revenge
+
+89
+
+Generally Favorable
+
+### Need for Speed: Hot Pursuit 2
+
+89
+
+Generally Favorable
+
+### Burnout Paradise
+
+88
+
+Generally Favorable
+
+### R4: Ridge Racer Type 4
+
+88
+
+Generally Favorable
+
+### CTR: Crash Team Racing
+
+88
+
+Generally Favorable
+
+### Mario Kart 8
+
+88
+
+Generally Favorable",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3711050,web_result,unknown_date,https://www.facebook.com/groups/132728896890594/posts/3485236381639812,BeaterCore arcade racing game release date and ...,"Less Summer more Car ""BeaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3711050,web_result,unknown_date,https://store.steampowered.com/app/3711050/BeaterCore,BeaterCore on Steam,"All Games > Racing Games > BeaterCore
+
+Community Hub
+
+BeaterCore
+
+BeaterCore
+
+BeaterCore
+
+Developer
+
+Artem Arbatsky
+
+Publisher
+
+Artem Arbatsky
+
+Release
+
+9 Sep, 2026
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+9 Sep, 2026
+
+Developer:
+
+Artem Arbatsky
+
+Publisher:
+
+Artem Arbatsky
+
+Tags
+
+Popular user-defined tags for this product: [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ |  |
+| Russian | ✔ |  |  |
+| Spanish - Spain | ✔ |  |  |
+| Italian | ✔ |  |  |
+
+About IGRS Ratings on Steam
+
+ Click here to learn more
+
+Title: BeaterCore  
+ Genre: Indie, Racing  
+
+Developer: Artem Arbatsky
+
+Publisher: Artem Arbatsky
+
+Release Date: 9 Sep, 2026 [...] View Community Hub
+
+## About This Game
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+## Garage
+
+Repair your car in first person mode. Purchase furniture and stockpile as many spare parts as you can - you're going to need them.
+
+## Field repair",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3711050,web_result,unknown_date,https://gamefaqs.gamespot.com/unixlinux/600232-beatercore/data,BeaterCore Release Information for Linux - GameFAQs,"# BeaterCore – Release Details
+
+### Linux PC
+
+## Title Data
+
+## Release Data
+
+| Box | Title | | | | | |
+ ---  ---  --- 
+| Region | Publisher | Product ID | Distribution / Barcode | Release Date | Rating |
+|  | BeaterCore | | | | | |
+| US | Artem Arbatsky | 3711050 | Steam | 09/09/26 |  |
+
+## Title Data
+
+## Release Data [...] ## Release Data
+
+| Box | Title | | | | | |
+ ---  ---  --- 
+| Region | Publisher | Product ID | Distribution / Barcode | Release Date | Rating |
+|  | BeaterCore | | | | | |
+| US | Artem Arbatsky | 3711050 | Steam | 09/09/26 |  |
+
+## Description
+
+## Know Something We Don't?
+
+You can submit or update game data or submit game credits to help us keep our data up-to-date.
+
+## Game Detail
+
+## Games You May Like
+
+gamespot.commetacritic.comfandom.comfanatical.com [...] SitemapPartnershipsCareersTerms of UseDigital Services Act
+
+Privacy PolicyCookie SettingsReport Ad
+
+© 2026 FANDOM, INC. ALL RIGHTS RESERVED.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3711050,web_result,unknown_date,https://playtester.io/beatercore,BeaterCore Demo on Playtester,"# BeaterCore Active Now
+
+AA
+
+Artem ArbatskyAdded
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sport cars. Buy, repair, restore, and race your dream project car
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+## Garage [...] beaterCore features multiple in-game characters you'll have to interact with. Take sponsorships, complete quests, and unlock additional content as you build relationships with them.
+
+## Different times of year
+
+Experience tracks across different times of year. Prepare your car for icy winter conditions or enjoy the warm, vibrant colors of autumn.
+
+BeaterCore: Pixelated font with gradient colors, 
+
+View demo
+
+SteamInstall
+
+Requires a 64-bit processor and operating system
+
+OS
+:   Windows 10 [...] OS
+:   Windows 10
+
+Memory
+:   4 GB RAM
+
+Graphics
+:   Nvidia GT640
+
+Storage
+:   500 MB available space
+
+Additional Notes
+:   OpenGL 3.3 support is required
+
+Explore
+
+Categories
+
+About
+
+Advertise
+
+Soon
+
+## Similar games
+
+ Wreckreation 2: Muscle car and red sports car race as blue car flips above them on neon-lit city street at night.
+
+  ### Wreckreation 2
+
+  Closed Beta",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3711050,web_result,unknown_date,https://the-hellbox.itch.io/beatercore/devlog/1550329/beatercore-030-is-released,beaterCore 0.3.0 is released! - The HellBox,"|  |  |
+ --- |
+| Status | In development |
+| Author | The HellBox |
+| Genre | Racing |
+| Tags | 3D, Arcade, Characters, First-Person, Low-poly, Multiplayer, PSX (PlayStation), Singleplayer, Split Screen |
+| Languages | English, Spanish; Castilian, Spanish; Latin America, Italian, Russian |
+| Accessibility | Configurable controls, Interactive tutorial |
+
+### More posts
+
+ beaterCore 0.2.2 is released!
+
+  May 26, 2026
+ beaterCore 0.2.1 is released!
+
+  May 12, 2026
+ beaterCore 0.1.3 is released! [...] Apr 01, 2026
+ beaterCore 0.1.2 is released!
+
+  Mar 20, 2026
+ beaterCore 0.1.1 is Released!
+
+  Mar 18, 2026
+ beaterCore 0.0.20 is released!
+
+  Mar 04, 2026
+ beaterCore 0.0.18 is released!
+
+  Feb 23, 2026
+ beaterCore 0.0.17 is released!
+
+  Feb 22, 2026
+ beaterCore 0.0.16 is released!
+
+  Feb 18, 2026
+
+See all posts
+
+## Leave a comment
+
+Log in with itch.io to leave a comment.
+
+itch.io·View all by The HellBox·Report;)
+
+beaterCore › Blog [...] Follow The HellBoxFollowFollowing The HellBoxFollowing
+ Add To CollectionCollection
+ Community
+ Devlog
+ Related gamesRelated
+
+# beaterCore 0.3.0 is released!
+
+beaterCore » Devlog
+
+88 days ago by The HellBox
+
+Share this post:
+
+Share on BlueskyShare on TwitterShare on Facebook
+
+## Mods
+
+- Official, proper, but basic mod support. Steam workshop is not going to be supported in the demo version, but for now you can find mods in our discord community
+
+- Mod manager in settings menu",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3711050,web_result,unknown_date,https://store.steampowered.com/app/3711050/BeaterCore,BeaterCore on Steam,"All Games > Racing Games > BeaterCore
+
+Community Hub
+
+BeaterCore
+
+BeaterCore
+
+BeaterCore
+
+Developer
+
+Artem Arbatsky
+
+Publisher
+
+Artem Arbatsky
+
+Release
+
+9 Sep, 2026
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+9 Sep, 2026
+
+Developer:
+
+Artem Arbatsky
+
+Publisher:
+
+Artem Arbatsky
+
+Tags
+
+Popular user-defined tags for this product: [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English and 3 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ |  |
+| Russian | ✔ |  |  |
+| Spanish - Spain | ✔ |  |  |
+| Italian | ✔ |  |  |
+
+About IGRS Ratings on Steam
+
+ Click here to learn more
+
+Title: BeaterCore  
+ Genre: Indie, Racing  
+
+Developer: Artem Arbatsky
+
+Publisher: Artem Arbatsky
+
+Release Date: 9 Sep, 2026 [...] View Community Hub
+
+## About This Game
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+## Garage
+
+Repair your car in first person mode. Purchase furniture and stockpile as many spare parts as you can - you're going to need them.
+
+## Field repair",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3711050,web_result,unknown_date,https://playtester.io/beatercore,BeaterCore Demo on Playtester,"# BeaterCore Active Now
+
+AA
+
+Artem ArbatskyAdded
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sport cars. Buy, repair, restore, and race your dream project car
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+## Garage [...] Demo
+
+  Racing, Rhythm
+ Tidal Rush: Racers on HydroSpeeders navigate twisting watercourse amid vibrant buoys under clear skies in fast-paced contest.
+
+  ### Tidal Rush
+
+  Demo
+
+  Arcade, Racing
+
+ExploreCategories
+
+## Comments
+
+Sign in to leave feedback for the developer or join the conversation. [...] beaterCore features multiple in-game characters you'll have to interact with. Take sponsorships, complete quests, and unlock additional content as you build relationships with them.
+
+## Different times of year
+
+Experience tracks across different times of year. Prepare your car for icy winter conditions or enjoy the warm, vibrant colors of autumn.
+
+BeaterCore: Pixelated font with gradient colors, 
+
+View demo
+
+SteamInstall
+
+Requires a 64-bit processor and operating system
+
+OS
+:   Windows 10",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3711050,youtube_video,outside_window,https://www.youtube.com/watch?v=pct2ln5dcDo,beaterCore - Contact Race: 1400,,Links to the game https://the-hellbox.itch.io/beatercore https://store.steampowered.com/app/3711050/BeaterCore/,,35,medium,YouTube (+15); Exact title match (+20),
+3711050,reddit_discussion,unknown_date,https://www.reddit.com/r/BuiltFromTheGroundUp/comments/1vx3cyf/beatercore_another_indie_racing_banger,BeaterCore: Another indie racing banger?,r/BuiltFromTheGroundUp - (Almost) Complete list of upcoming indie racing games already announced. 86 upvotes · 60 comments,,,30,weak,Reddit (+10); Exact title match (+20),general
+3711050,reddit_discussion,unknown_date,https://www.reddit.com/r/racinggames/comments/1w3gwgf/less_summer_more_car,Less Summer more Car : r/racinggames - Reddit,"""BeaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race",,,30,weak,Reddit (+10); Exact title match (+20),social
+3711050,reddit_discussion,unknown_date,https://www.reddit.com/r/IndieGaming/comments/1w3gucw/less_summer_more_car,Less Summer more Car : r/IndieGaming - Reddit,"""BeaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race",,,30,weak,Reddit (+10); Exact title match (+20),social
+3711050,reddit_discussion,unknown_date,https://www.reddit.com/r/BuiltFromTheGroundUp/comments/1vx3cyf/beatercore_another_indie_racing_banger,BeaterCore: Another indie racing banger? : r/BuiltFromTheGroundUp,"BeaterCore: Another indie racing banger? this game pops up for September games. the game is actually more of a rally arcade game,",,,30,weak,Reddit (+10); Exact title match (+20),social
+3711050,reddit_discussion,unknown_date,https://www.reddit.com/r/racinggames/comments/1w6kq7l/anyone_following_beatercore_too,Anyone following BeaterCore too? : r/racinggames - Reddit,"It launches soon, and I find it quite interesting. It is mainly racing, but some story and off-track mechanics.",,,30,weak,Reddit (+10); Exact title match (+20),social
+3711050,web_result,unknown_date,https://www.tiktok.com/@game_demos/video/7604901701576822038,BeaterCore is an arcade racing game for those who prefer ...,"BeaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sport cars. Buy, repair, restore, and race your",,,25,weak,Social Index (+5); Exact title match (+20),general
+3711050,web_result,unknown_date,https://www.instagram.com/reel/DctXs4btHzE,Instagram,"dxt7.5 Edited•
+
+Less Summer more Car   
+  
+""BeaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car""  
+  
+Game : BeaterCore ""release 9 Sep, 2026""  
+  
+Link :   
+  
+#racingcar #driving #arcade #indiegame #indiegames
+
+dxt7.5's profile picture
+
+dxt7.5
+
+Game : BeaterCore ""release 9 Sep, 2026""  
+  
+Link : 
+
+Reply
+
+1601
+
+Log in to like or comment.
+
+More posts from dxt7.5",,,25,weak,Social Index (+5); Exact title match (+20),general
+3711050,web_result,unknown_date,https://www.instagram.com/reel/DctXs4btHzE,"Less Summer more Car ""BeaterCore is an arcade racing ...","dxt7.5 Edited•
+
+Less Summer more Car   
+  
+""BeaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car""  
+  
+Game : BeaterCore ""release 9 Sep, 2026""  
+  
+Link :   
+  
+#racingcar #driving #arcade #indiegame #indiegames
+
+dxt7.5's profile picture
+
+dxt7.5
+
+Game : BeaterCore ""release 9 Sep, 2026""  
+  
+Link : 
+
+Reply
+
+1601
+
+Log in to like or comment.
+
+More posts from dxt7.5 [...] Video by DXT7 on September 07, 2026. May be a cartoon of ‎radar and ‎text that says '‎15/90 90 15 #웅웅문웅 # 夢の るまは 33/55 藝華辦菜 a#u Esc 8/90 8 95 #웅웅웅하 # ：1-=< E17 B> -20 مء IINN Hase ត្ូវ 冰 出a STSNS e ت 率 ======130/ 130 150 HIGHA###### IGHWAY QUELL TO QUELL ========== ΙΘΗΝ TO QUELL start QUELL IGHWAY TU QUELL ៤ Desti‎'‎‎.
+
+Video by DXT7 on September 06, 2026. May be a video game screenshot of text.
+
+Video by DXT7 on September 05, 2026. May be an image of combine and text. [...] Video by DXT7 on September 04, 2026. May be a video game screenshot of sparrow, the Arno River and text.
+
+Video by DXT7 on September 04, 2026. May be a video game screenshot of text.
+
+Video by DXT7 on September 03, 2026. May be an image of duck, duckling and text that says 'Arubberymallard A rubbery mallard'.
+
+Video by DXT7 on September 02, 2026. May be a video game screenshot of text that says 'LIVERSEER 80 ด Widen the path, find findhim. Widenthepath,findhim. him. GOSEN G1'.",,,25,weak,Social Index (+5); Exact title match (+20),general
+3711050,web_result,unknown_date,https://www.instagram.com/reel/DctXs4btHzE,"Less Summer more Car ""BeaterCore is an arcade racing ...","dxt7.5 Edited•
+
+Less Summer more Car   
+  
+""BeaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car""  
+  
+Game : BeaterCore ""release 9 Sep, 2026""  
+  
+Link :   
+  
+#racingcar #driving #arcade #indiegame #indiegames
+
+dxt7.5's profile picture
+
+dxt7.5
+
+Game : BeaterCore ""release 9 Sep, 2026""  
+  
+Link : 
+
+Reply
+
+1601
+
+Log in to like or comment.
+
+More posts from dxt7.5 [...] Video by DXT7 on September 07, 2026. May be a cartoon of ‎radar and ‎text that says '‎15/90 90 15 #웅웅문웅 # 夢の るまは 33/55 藝華辦菜 a#u Esc 8/90 8 95 #웅웅웅하 # ：1-=< E17 B> -20 مء IINN Hase ត្ូវ 冰 出a STSNS e ت 率 ======130/ 130 150 HIGHA###### IGHWAY QUELL TO QUELL ========== ΙΘΗΝ TO QUELL start QUELL IGHWAY TU QUELL ៤ Desti‎'‎‎.
+
+Video by DXT7 on September 06, 2026. May be a video game screenshot of text.
+
+Video by DXT7 on September 05, 2026. May be an image of combine and text. [...] Video by DXT7 on September 04, 2026. May be a video game screenshot of sparrow, the Arno River and text.
+
+Video by DXT7 on September 04, 2026. May be a video game screenshot of text.
+
+Video by DXT7 on September 03, 2026. May be an image of duck, duckling and text that says 'Arubberymallard A rubbery mallard'.
+
+Video by DXT7 on September 02, 2026. May be a video game screenshot of text that says 'LIVERSEER 80 ด Widen the path, find findhim. Widenthepath,findhim. him. GOSEN G1'.",,,25,weak,Social Index (+5); Exact title match (+20),general
+3711050,social_post,unknown_date,https://www.instagram.com/reel/DctXs4btHzE,"Less Summer more Car ""BeaterCore is an arcade racing ...","dxt7.5 Edited•
+
+Less Summer more Car   
+  
+""BeaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car""  
+  
+Game : BeaterCore ""release 9 Sep, 2026""  
+  
+Link :   
+  
+#racingcar #driving #arcade #indiegame #indiegames
+
+dxt7.5's profile picture
+
+dxt7.5
+
+Game : BeaterCore ""release 9 Sep, 2026""  
+  
+Link : 
+
+Reply
+
+1601
+
+Log in to like or comment.
+
+More posts from dxt7.5 [...] Video by DXT7 on September 07, 2026. May be a cartoon of ‎radar and ‎text that says '‎15/90 90 15 #웅웅문웅 # 夢の るまは 33/55 藝華辦菜 a#u Esc 8/90 8 95 #웅웅웅하 # ：1-=< E17 B> -20 مء IINN Hase ត្ូវ 冰 出a STSNS e ت 率 ======130/ 130 150 HIGHA###### IGHWAY QUELL TO QUELL ========== ΙΘΗΝ TO QUELL start QUELL IGHWAY TU QUELL ៤ Desti‎'‎‎.
+
+Video by DXT7 on September 06, 2026. May be a video game screenshot of text.
+
+Video by DXT7 on September 05, 2026. May be an image of combine and text. [...] Video by DXT7 on September 01, 2026. May be a video game screenshot of text.
+
+Video by DXT7 on September 01, 2026. May be pop art of text.
+
+See more posts
+
+---",,,25,weak,Social Index (+5); Exact title match (+20),social
+3711050,social_post,unknown_date,https://www.instagram.com/p/DaAos7hFkPv,Instagram,"Log In
+
+Sign Up
+
+thatbassheadguy's profile picture
+
+Never miss a post from thatbassheadguy
+
+Sign up for Instagram to stay in the loop.
+
+By continuing, you agree to Instagram's Terms of Use and Privacy Policy.
+
+Sign up
+
+Log in
+
+Photo by Scott Dilbeck on June 25, 2026. May be an image of sedan and minivan.
+
+thatbassheadguy's profile picture
+
+thatbassheadguy
+
+•
+
+Follow
+
+thatbassheadguy's profile picture
+
+thatbassheadguy
+
+Beatercore
+
+## No comments yet.
+
+Start the conversation.
+
+1",,,25,weak,Social Index (+5); Exact title match (+20),social
+3711050,social_post,unknown_date,https://x.com/TheCanadianGTR/status/2007580983420432491,"Alan on X: ""Half Grip Steam: https://t.co/4JgBq9pWo5"" / X - Twitter",Join the beaterCore Discord Server! Check out the beaterCore community on Discord – hang out with 316 other members and enjoy free voice and text chat.,,,25,weak,Social Index (+5); Exact title match (+20),social
+3711050,social_post,unknown_date,https://www.igdb.com/games/beatercore,BeaterCore (2026) | IGDB.com,"Full Release
+
+
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car
+
+Add to lists
+
+Added to 9 lists
+
+About 
+
+CommunityMediaRelated ContentReleases
+
+Edit
+
+###### Main Developers
+
+-
+
+###### Publishers
+
+-
+
+###### Genres
+
+RacingIndie
+
+###### Themes
+
+Sandbox
+
+###### Game Modes
+
+Single playerMultiplayerSplit screen
+
+###### Player Perspectives
+
+First personThird person
+
+  
+
+###### Series
+
+- [...] These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+View Vendor Details‎",,,25,weak,Social Index (+5); Exact title match (+20),social
+3711050,social_post,unknown_date,https://the-hellbox.itch.io/beatercore,beaterCore by The HellBox - itch.io,"Follow The HellBoxFollowFollowing The HellBoxFollowing
+ Add To CollectionCollection
+ Community
+ Devlog
+ Related gamesRelated
+
+A downloadable game for Windows and Linux
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over the specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+Wishlist beaterCore on Steam!Join beaterCore community on Discord!
+
+### Garage [...] beaterCore features multiple in-game characters you'll have to interact with. Take sponsorships, complete quests, and unlock additional content as you build relationships with them.
+
+### Different times of year
+
+Experience tracks across different times of year. Prepare your car for icy winter conditions or enjoy the warm, vibrant colors of autumn.
+
+More information) [...] ### Garage
+
+Repair your car in first person mode. Purchase furniture and stockpile as many spare parts as you can - you're going to need them.
+
+### Field repair
+
+In beaterCore you'll have to make quick repairs in-between races. Everything can go wrong, and you must be prepared for it! Store items in your car's trunk, but be wise with what you bring with you - space is limited.
+
+### Split screen
+
+Play locally with up to four players on the same screen. Keyboard controls are fully supported!",,,25,weak,Social Index (+5); Exact title match (+20),social
+3711050,social_post,unknown_date,https://www.youtube.com/watch?v=U1R3iG189r4,The Racing Game Where Cheap Cars Rule | beaterCore,"# The Racing Game Where Cheap Cars Rule | beaterCore
+## Bone13
+5220 subscribers
+11 likes
+
+### Description
+380 views
+Posted: 8 Feb 2026
+beaterCore is an arcade racing game that throws away the fancy supercars and focuses on something way more chaotic… cheap, rusty beaters that barely hold together.
+
+Instead of buying a perfect race car, you build one. Buy broken-down vehicles, repair them piece by piece, restore them, and tune them to survive brutal races and unpredictable track conditions. [...] If you like racing games with personality, customization, and a little chaos, beaterCore offers a refreshing twist on the genre.
+
+#RacingGames
+#IndieGames
+#ArcadeRacing
+
+Join this channel to get access to perks: [...] The garage is fully interactive in first-person mode, letting you repair your car manually, collect spare parts, and customize your workspace. And trust me… you’ll need every spare part you can find.
+
+Races don’t end when the checkered flag drops. In beaterCore, damage carries over, and sometimes you’ll need to make emergency field repairs between races. Space in your trunk is limited, so choosing what tools and parts to bring becomes part of the strategy.",,,25,weak,Social Index (+5); Exact title match (+20),social
+3711050,social_post,unknown_date,https://steamcommunity.com/app/3711050?curator_clanid=4777282,BeaterCore,"Store Page
+
+BeaterCore
+
+All Discussions Screenshots Artwork Broadcasts Videos Workshop News Guides Reviews
+
+### BeaterCore
+
+Store Page
+
+7 in Group Chat;)
+
+7 in Group Chat;)
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Вылет на первой гонке",,,25,weak,Social Index (+5); Exact title match (+20),social
+3711050,web_result,unknown_date,https://steamcommunity.com/app/3711050?curator_clanid=4777282,Steam Community :: BeaterCore,"Store Page
+
+BeaterCore
+
+All Discussions Screenshots Artwork Broadcasts Videos Workshop News Guides Reviews
+
+### BeaterCore
+
+Store Page
+
+7 in Group Chat;)
+
+7 in Group Chat;)
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Вылет на первой гонке [...] Im not going to lie Mr. Dev im buying this at launch no matter what, but was curious on plans for after release? will it still be supported say new maps, cars, parts or is it going to be a limited experience like a 10 hour playthrough and focus solely on bug fixes? Either way im buying the game, and will 100% support the product cause this is something that i see can be an amazing experience, fixing up a car and take it out on races is just what i want tbh...
+
+1
+
+[Skully
+
+31 Aug @ 8:59pm]( [...] 20 Jul @ 8:11pm](
+
+General Discussions
+
+nice game
+
+This game is really good, I’m thinking of buying it. I already added it to my wishlist. Just one question: do you plan to include songs from the game, I mean like songs from your country or from the country where the game is set?
+
+2
+
+[Кира Соколова
+
+19 Aug @ 9:54pm](
+
+General Discussions
+
+Workshop Item
+
+Modified Stocks
+
+[Vigor
+
+View Steam Workshop items](
+
+Workshop Item
+
+Peugel 205
+
+[Vigor
+
+View Steam Workshop items](
+
+Workshop Item",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://steamcommunity.com/app/3711050,Steam Community :: BeaterCore,"Store Page
+
+BeaterCore
+
+All Discussions Screenshots Artwork Broadcasts Videos Workshop News Guides Reviews
+
+### BeaterCore
+
+Store Page
+
+7 in Group Chat;)
+
+7 in Group Chat;)
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Вылет на первой гонке [...] Im not going to lie Mr. Dev im buying this at launch no matter what, but was curious on plans for after release? will it still be supported say new maps, cars, parts or is it going to be a limited experience like a 10 hour playthrough and focus solely on bug fixes? Either way im buying the game, and will 100% support the product cause this is something that i see can be an amazing experience, fixing up a car and take it out on races is just what i want tbh...
+
+1
+
+[Skully
+
+31 Aug @ 8:59pm]( [...] 20 Jul @ 8:11pm](
+
+General Discussions
+
+nice game
+
+This game is really good, I’m thinking of buying it. I already added it to my wishlist. Just one question: do you plan to include songs from the game, I mean like songs from your country or from the country where the game is set?
+
+2
+
+[Кира Соколова
+
+19 Aug @ 9:54pm](
+
+General Discussions
+
+Workshop Item
+
+Modified Stocks
+
+[Vigor
+
+View Steam Workshop items](
+
+Workshop Item
+
+Peugel 205
+
+[Vigor
+
+View Steam Workshop items](
+
+Workshop Item",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://steamcommunity.com/app/3711050?curator_clanid=4777282,BeaterCore,"Store Page
+
+BeaterCore
+
+All Discussions Screenshots Artwork Broadcasts Videos Workshop News Guides Reviews
+
+### BeaterCore
+
+Store Page
+
+7 in Group Chat;)
+
+7 in Group Chat;)
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Вылет на первой гонке [...] Workshop Item
+
+DAIWAI TGT
+
+[Vigor
+
+View Steam Workshop items](
+
+See More Content;)
+
+No more content. So sad.
+
+You can help: share a screenshot, make a video, or start a new discussion!
+
+Back to top
+
+ Returning to where you were last on this page...
+
+Close
+
+Loading
+
+Privacy Policy Legal Accessibility Cookies Steam Subscriber Agreement © Valve Corporation.
+
+View mobile website [...] 简体中文 (Simplified Chinese)   繁體中文 (Traditional Chinese)   日本語 (Japanese)   한국어 (Korean)   ไทย (Thai)   Bahasa Indonesia (Indonesian)   Bahasa Melayu (Malay) BETA   Български (Bulgarian)   Čeština (Czech)   Dansk (Danish)   Deutsch (German)   Español - España (Spanish - Spain)   Español - Latinoamérica (Spanish - Latin America)   Ελληνικά (Greek)   Français (French)   Italiano (Italian)   Magyar (Hungarian)   Nederlands (Dutch)   Norsk (Norwegian)   Polski (Polish)   Português (Portuguese -",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://store.steampowered.com/app/3711050/BeaterCore,BeaterCore on Steam,"View Community Hub
+
+## About This Game
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+## Garage
+
+Repair your car in first person mode. Purchase furniture and stockpile as many spare parts as you can - you're going to need them.
+
+## Field repair [...] ## Field repair
+
+In beaterCore you'll have to make quick repairs in-between races. Everything can go wrong, and you must be prepared for it! Store items in your car's trunk, but be wise with what you bring with you - space is limited.
+
+## Split screen
+
+Play locally with up to four players on the same screen. Keyboard controls are fully supported!
+
+## Multiplayer [...] beaterCore features multiple in-game characters you'll have to interact with. Take sponsorships, complete quests, and unlock additional content as you build relationships with them.
+
+## Different times of year
+
+Experience tracks across different times of year. Prepare your car for icy winter conditions or enjoy the warm, vibrant colors of autumn.
+
+## System Requirements
+
+Windows
+
+SteamOS + Linux
+
+Minimum:",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://www.youtube.com/watch?v=U1R3iG189r4,The Racing Game Where Cheap Cars Rule | beaterCore,"# The Racing Game Where Cheap Cars Rule | beaterCore
+## Bone13
+5220 subscribers
+11 likes
+
+### Description
+380 views
+Posted: 8 Feb 2026
+beaterCore is an arcade racing game that throws away the fancy supercars and focuses on something way more chaotic… cheap, rusty beaters that barely hold together.
+
+Instead of buying a perfect race car, you build one. Buy broken-down vehicles, repair them piece by piece, restore them, and tune them to survive brutal races and unpredictable track conditions. [...] Career mode lets you climb the ranks by racing, taking sponsorships, completing quests, and building relationships with colorful characters. Tracks also change with the seasons, meaning your car needs to be ready for icy winter roads, muddy spring tracks, or dry autumn racing conditions.
+
+You can also jump into split-screen racing with up to four players locally, or compete against friends online where damage, tuning, and resource management still matter. [...] The garage is fully interactive in first-person mode, letting you repair your car manually, collect spare parts, and customize your workspace. And trust me… you’ll need every spare part you can find.
+
+Races don’t end when the checkered flag drops. In beaterCore, damage carries over, and sometimes you’ll need to make emergency field repairs between races. Space in your trunk is limited, so choosing what tools and parts to bring becomes part of the strategy.",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://steamcommunity.com/app/3711050?curator_clanid=4777282,BeaterCore,"Я прохожу обучение, захожу на первую гонку и игра либо сразу вылетает с ошибкой, либо немного дает проехать и тоже вылет с ошибкой. Версия демо 0.3.1...
+
+2
+
+[Qush mush GoDota2.com
+
+7 hours ago](
+
+General Discussions
+
+Workshop Item
+
+Tsukuba Circuit V2
+
+[Vigor
+
+View Steam Workshop items](
+
+Достижения
+
+Дарова разрабы чо по ачивкам:steammocking:
+
+1
+
+[Ukr0ph1le
+
+2 Sep @ 2:40am](
+
+General Discussions
+
+whats the plan for after release? [...] Store Page
+
+BeaterCore
+
+All Discussions Screenshots Artwork Broadcasts Videos Workshop News Guides Reviews
+
+### BeaterCore
+
+Store Page
+
+7 in Group Chat;)
+
+7 in Group Chat;)
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Вылет на первой гонке [...] 简体中文 (Simplified Chinese)   繁體中文 (Traditional Chinese)   日本語 (Japanese)   한국어 (Korean)   ไทย (Thai)   Bahasa Indonesia (Indonesian)   Bahasa Melayu (Malay) BETA   Български (Bulgarian)   Čeština (Czech)   Dansk (Danish)   Deutsch (German)   Español - España (Spanish - Spain)   Español - Latinoamérica (Spanish - Latin America)   Ελληνικά (Greek)   Français (French)   Italiano (Italian)   Magyar (Hungarian)   Nederlands (Dutch)   Norsk (Norwegian)   Polski (Polish)   Português (Portuguese -",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://www.facebook.com/groups/indiegamecommunity/posts/4294721337409750,"Beatercore arcade racing game release on September 9, ...","Beatercore arcade racing game release on September 9, 2026 … this new game will launch sometime in 2025 for PC and console.",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://steamcommunity.com/app/3711050?curator_clanid=4777282,BeaterCore,"Store Page
+
+BeaterCore
+
+All Discussions Screenshots Artwork Broadcasts Videos Workshop News Guides Reviews
+
+### BeaterCore
+
+Store Page
+
+7 in Group Chat;)
+
+7 in Group Chat;)
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Вылет на первой гонке [...] STORE 
+
+Home   Discovery Queue   Wishlist   Points Shop   News   Charts
+
+ COMMUNITY 
+
+Home   Discussions   Workshop   Market   Broadcasts
+
+ About   SUPPORT
+
+Install Steam sign in  |  language [...] Im not going to lie Mr. Dev im buying this at launch no matter what, but was curious on plans for after release? will it still be supported say new maps, cars, parts or is it going to be a limited experience like a 10 hour playthrough and focus solely on bug fixes? Either way im buying the game, and will 100% support the product cause this is something that i see can be an amazing experience, fixing up a car and take it out on races is just what i want tbh...
+
+1
+
+[Skully
+
+31 Aug @ 8:59pm](",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://www.youtube.com/watch?v=P9-hfkfnRKE,BeaterCore Playtest,"# BeaterCore Playtest
+## We Playtest Games
+590 subscribers
+
+### Description
+47 views
+Posted: 26 Mar 2026
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sport cars. Buy, repair, restore, and race your dream project car
+
+Want your game playtested? We'll test it for 30 minutes completely free and post it here for some free marketing too. Sign up here: 
+
+Hire this playtester directly here: [...] Hello everyone. Today I'm testing the game which is called Peter Gore. So, this is the main menu screen. Let's just select the language. Space bar. Sprint with shift key. All right. So, let's move. Take this vehicle. How do I know where to go? There is not in any navigation bar. All right. So, it shows that air filter is dirty. Let's just move. All right. So, let's take off this wheel. Let's dump it into the dustbin. How to Buy a new wheel in an auto shop. Press escape and go to the main menu. [...] ### Transcript:",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://www.youtube.com/watch?v=U1R3iG189r4,The Racing Game Where Cheap Cars Rule | beaterCore,"# The Racing Game Where Cheap Cars Rule | beaterCore
+## Bone13
+5220 subscribers
+11 likes
+
+### Description
+380 views
+Posted: 8 Feb 2026
+beaterCore is an arcade racing game that throws away the fancy supercars and focuses on something way more chaotic… cheap, rusty beaters that barely hold together.
+
+Instead of buying a perfect race car, you build one. Buy broken-down vehicles, repair them piece by piece, restore them, and tune them to survive brutal races and unpredictable track conditions. [...] Hello and welcome everybody to the channel, and welcome to Beater Core. Yeah, interesting name, but uh yeah, I mean, let's just see what this game is all about. Oh, okay, we have this annoying uh text here. Your grandfather recently passed away. You just inherited a Zam Zap. Your lifelong goal to build a racing career. The note from your grandfather says, ""This is your chance. Good luck."" P.S. If you need any help, ask Boris for advice. Select difficulty. Uh normal, I guess. I don't know. [...] Career mode lets you climb the ranks by racing, taking sponsorships, completing quests, and building relationships with colorful characters. Tracks also change with the seasons, meaning your car needs to be ready for icy winter roads, muddy spring tracks, or dry autumn racing conditions.
+
+You can also jump into split-screen racing with up to four players locally, or compete against friends online where damage, tuning, and resource management still matter.",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://the-hellbox.itch.io/beatercore,beaterCore by The HellBox,"Follow The HellBoxFollowFollowing The HellBoxFollowing
+ Add To CollectionCollection
+ Community
+ Devlog
+ Related gamesRelated
+
+A downloadable game for Windows and Linux
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over the specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+Wishlist beaterCore on Steam!Join beaterCore community on Discord!
+
+### Garage [...] beaterCore features multiple in-game characters you'll have to interact with. Take sponsorships, complete quests, and unlock additional content as you build relationships with them.
+
+### Different times of year
+
+Experience tracks across different times of year. Prepare your car for icy winter conditions or enjoy the warm, vibrant colors of autumn.
+
+More information) [...] ## Download
+
+Download;)
+
+beaterCore\_0.3.1\_Windows.zip 87 MB
+
+Download;)
+
+beaterCore\_0.3.1\_Linux.zip 89 MB
+
+Download;)
+
+press\_kit\_v2.zip 379 MB
+
+## Development log
+
+ beaterCore 0.3.0 is released!
+
+  85 days ago
+ beaterCore 0.2.2 is released!
+
+  May 26, 2026
+ beaterCore 0.2.1 is released!
+
+  May 12, 2026
+ beaterCore 0.1.3 is released!
+
+  Apr 01, 2026
+ beaterCore 0.1.2 is released!
+
+  Mar 20, 2026
+ beaterCore 0.1.1 is Released!
+
+  Mar 18, 2026
+ beaterCore 0.0.20 is released!",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://steamcommunity.com/app/3711050?curator_clanid=4777282,BeaterCore,"Store Page
+
+BeaterCore
+
+All Discussions Screenshots Artwork Broadcasts Videos Workshop News Guides Reviews
+
+### BeaterCore
+
+Store Page
+
+7 in Group Chat;)
+
+7 in Group Chat;)
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Вылет на первой гонке [...] Я прохожу обучение, захожу на первую гонку и игра либо сразу вылетает с ошибкой, либо немного дает проехать и тоже вылет с ошибкой. Версия демо 0.3.1...
+
+2
+
+[Qush mush GoDota2.com
+
+7 hours ago](
+
+General Discussions
+
+Workshop Item
+
+Tsukuba Circuit V2
+
+[Vigor
+
+View Steam Workshop items](
+
+Достижения
+
+Дарова разрабы чо по ачивкам:steammocking:
+
+1
+
+[Ukr0ph1le
+
+2 Sep @ 2:40am](
+
+General Discussions
+
+whats the plan for after release? [...] 20 Jul @ 8:11pm](
+
+General Discussions
+
+nice game
+
+This game is really good, I’m thinking of buying it. I already added it to my wishlist. Just one question: do you plan to include songs from the game, I mean like songs from your country or from the country where the game is set?
+
+2
+
+[Кира Соколова
+
+19 Aug @ 9:54pm](
+
+General Discussions
+
+Workshop Item
+
+Modified Stocks
+
+[Vigor
+
+View Steam Workshop items](
+
+Workshop Item
+
+Peugel 205
+
+[Vigor
+
+View Steam Workshop items](
+
+Workshop Item",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://steamcommunity.com/app/3711050?curator_clanid=4777282,BeaterCore,"Store Page
+
+BeaterCore
+
+All Discussions Screenshots Artwork Broadcasts Videos Workshop News Guides Reviews
+
+### BeaterCore
+
+Store Page
+
+7 in Group Chat;)
+
+7 in Group Chat;)
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Вылет на первой гонке [...] 20 Jul @ 8:11pm](
+
+General Discussions
+
+nice game
+
+This game is really good, I’m thinking of buying it. I already added it to my wishlist. Just one question: do you plan to include songs from the game, I mean like songs from your country or from the country where the game is set?
+
+2
+
+[Кира Соколова
+
+19 Aug @ 9:54pm](
+
+General Discussions
+
+Workshop Item
+
+Modified Stocks
+
+[Vigor
+
+View Steam Workshop items](
+
+Workshop Item
+
+Peugel 205
+
+[Vigor
+
+View Steam Workshop items](
+
+Workshop Item [...] 31 Aug @ 8:59pm](
+
+General Discussions
+
+Controller issue
+
+Not sure if anybody encountered that but playing on Dualsense I feel like the game does not register inputs correctly, I have to mash the d-pad to reset to track, sometimes cannot accelerate and sometimes I have to mash brake to actually stop braking. Not sure if some of it is intended or not but I even had issues advancing dialogue lines with controller, it makes the game feel very bad....
+
+10
+
+[Mojk
+
+20 Jul @ 8:11pm](",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://steamcommunity.com/app/3711050?curator_clanid=4777282,BeaterCore,"Store Page
+
+BeaterCore
+
+All Discussions Screenshots Artwork Broadcasts Videos Workshop News Guides Reviews
+
+### BeaterCore
+
+Store Page
+
+7 in Group Chat;)
+
+7 in Group Chat;)
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Вылет на первой гонке [...] 简体中文 (Simplified Chinese)   繁體中文 (Traditional Chinese)   日本語 (Japanese)   한국어 (Korean)   ไทย (Thai)   Bahasa Indonesia (Indonesian)   Bahasa Melayu (Malay) BETA   Български (Bulgarian)   Čeština (Czech)   Dansk (Danish)   Deutsch (German)   Español - España (Spanish - Spain)   Español - Latinoamérica (Spanish - Latin America)   Ελληνικά (Greek)   Français (French)   Italiano (Italian)   Magyar (Hungarian)   Nederlands (Dutch)   Norsk (Norwegian)   Polski (Polish)   Português (Portuguese - [...] Sign in   Store 
+
+Home   Discovery Queue   Wishlist   Points Shop   News   Charts
+
+ Community 
+
+Home   Discussions   Workshop   Market   Broadcasts
+
+ About   Support 
+
+Change language
+
+Get the Steam Mobile App
+
+View desktop website
+
+© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.  Privacy Policy  |  Legal  |  Accessibility  |  Steam Subscriber Agreement  |  Refunds  |  Cookies
+
+STEAM
+
+Link to the Steam Homepage",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://www.facebook.com/groups/indiegamecommunity/posts/4294721337409750,"Beatercore arcade racing game release on September 9, ...","Beatercore arcade racing game release on September 9, 2026 ... developer ZOO Corporation! ⚡️ http://ow.ly/G1GW30s8LbS.",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://the-hellbox.itch.io/beatercore,beaterCore by The HellBox - itch.io,"Follow The HellBoxFollowFollowing The HellBoxFollowing
+ Add To CollectionCollection
+ Community
+ Devlog
+ Related gamesRelated
+
+A downloadable game for Windows and Linux
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over the specialized sports cars. Buy, repair, restore, and tune your dream project car. Take part in racing events and work your way through the career mode.
+
+Wishlist beaterCore on Steam!Join beaterCore community on Discord!
+
+### Garage [...] |  |  |
+ --- |
+| Updated | 12 days ago |
+| Status | In development |
+| Platforms | Windows, Linux |
+| Rating | Rated 4.7 out of 5 stars (18 total ratings) |
+| Author | The HellBox |
+| Genre | Racing |
+| Made with | Blender, Rust |
+| Tags | 3D, Arcade, Characters, First-Person, Low-poly, Multiplayer, PSX (PlayStation), Singleplayer, Split Screen |
+| Average session | About an hour |
+| Languages | English, Spanish; Castilian, Spanish; Latin America, Italian, Russian | [...] Mar 04, 2026
+ beaterCore 0.0.18 is released!
+
+  Feb 23, 2026
+
+View all posts
+
+## Community
+
+StickyBug reports
+
+by The HellBox · 13 posts
+
+23m
+
+StickyFeedback
+
+by The HellBox · 4 posts
+
+Post a new topicView all posts
+
+·Embed;)·
+
+Updated 12 days ago
+
+Games › Racing › Free",,,20,weak,Exact title match (+20),general
+3711050,web_result,unknown_date,https://steamcommunity.com/app/3711050?curator_clanid=4777282,BeaterCore,"Im not going to lie Mr. Dev im buying this at launch no matter what, but was curious on plans for after release? will it still be supported say new maps, cars, parts or is it going to be a limited experience like a 10 hour playthrough and focus solely on bug fixes? Either way im buying the game, and will 100% support the product cause this is something that i see can be an amazing experience, fixing up a car and take it out on races is just what i want tbh...
+
+1
+
+[Skully
+
+31 Aug @ 8:59pm]( [...] Store Page
+
+BeaterCore
+
+All Discussions Screenshots Artwork Broadcasts Videos Workshop News Guides Reviews
+
+### BeaterCore
+
+Store Page
+
+7 in Group Chat;)
+
+7 in Group Chat;)
+
+beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Вылет на первой гонке [...] Я прохожу обучение, захожу на первую гонку и игра либо сразу вылетает с ошибкой, либо немного дает проехать и тоже вылет с ошибкой. Версия демо 0.3.1...
+
+2
+
+[Qush mush GoDota2.com
+
+7 hours ago](
+
+General Discussions
+
+Workshop Item
+
+Tsukuba Circuit V2
+
+[Vigor
+
+View Steam Workshop items](
+
+Достижения
+
+Дарова разрабы чо по ачивкам:steammocking:
+
+1
+
+[Ukr0ph1le
+
+2 Sep @ 2:40am](
+
+General Discussions
+
+whats the plan for after release?",,,20,weak,Exact title match (+20),general
+3711050,reddit_discussion,unknown_date,https://www.reddit.com/r/gameplayvideos/comments/1uzmdvy/beatercore_demo_pc_gameplay_no_commentary_1440p,Reddit - Prove your humanity,"Image 1
+
+# Prove your humanity
+
+We’re committed to safety and security. But not for bots. Complete the challenge below and let us know you’re a real person.
+
+Reddit, Inc. © ""2026"". All rights reserved.
+
+User AgreementPrivacy PolicyContent PolicyHelp",,,10,weak,Reddit (+10),social
+3711050,social_post,unknown_date,https://www.instagram.com/reel/DXjpmStiPbe,Instagram,"rc.\_.2007
+
+Incredible game, do beamng drive next since you used beamng in the background vídeo instead of Msc
+
+Reply
+
+dogesh_the_lawyer1415's profile picture
+
+dogesh\_the\_lawyer1415
+
+Free game please
+
+Reply
+
+a_andreeas's profile picture
+
+a\_andreeas
+
+Engine start no problem 5 minut tidin tidin tidin tidin problem engine kaput
+
+Reply
+
+sefa._.dogan's profile picture
+
+sefa.\_.dogan
+
+Man simulator
+
+Reply
+
+migueldalbosco's profile picture
+
+migueldalbosco
+
+That is just a normal game
+
+Reply [...] Reply
+
+rewak_w2137's profile picture
+
+rewak\_w2137
+
+The fact that you are using beamng with the satsuma mod and not msc is wild
+
+Reply
+
+victramz's profile picture
+
+victramz
+
+i want this game so bad but beer is so delicious i always spend money on a 12 pack and a wendys or papa johns. i could be a character in this game
+
+Reply
+
+singhaayan326's profile picture
+
+singhaayan326
+
+I think the engine parrs are made by abdul khan😂
+
+Reply
+
+rarexzs's profile picture
+
+rarexzs [...] Reply
+
+pist.n_broke's profile picture
+
+pist.n\_broke
+
+see this is why I rebuild the engine in MWC every saturday
+
+Reply
+
+thfc_brb's profile picture
+
+thfc\_brb
+
+MSC is a pain. I fucking love it
+
+Reply
+
+elbare2001's profile picture
+
+elbare2001
+
+@elfede2709 @santi.gonzalez6
+
+Reply
+
+monday_the_worker_drone's profile picture
+
+monday\_the\_worker\_drone
+
+“Builds car immediately throws a piston through the block at the stop sign to my house”
+
+Reply
+
+rc._.2007's profile picture
+
+rc.\_.2007",,,5,weak,Social Index (+5),social
+3711050,social_post,unknown_date,https://x.com/USAQuadball/status/988862752767791106,US National Quadball Team on X,Cole Travis and @LEE_Leviathan's Tyler Walker will come together this summer on the USNT beater core. Official X of @USQuadball's US National,,,5,weak,Social Index (+5),social
+3711050,social_post,unknown_date,https://x.com/TXCavalry,Texas Cavalry (@TXCavalry) / X,"@TXCavalry
+
+  Texas Cavalry
+
+  @TXCavalry
+
+  Apr 24, 2018
+
+  Congratulations to the wheels of our team, Cole Travis! #hustle
+
+  @USAQuadball
+
+  US National Quadball Team
+
+  @USAQuadball
+
+  Apr 24, 2018
+
+  After facing off at @usquidditch Cup 11, @TXCavalry’s Cole Travis and @LEE\_Leviathan’s Tyler Walker will come together this summer on the USNT beater core. #RedeemTeam2018 #TeamWorld 📷 Miguel Esparza, Ajantha Abey, Jeannette High
+
+  
+
+  
+ @TXCavalry
+
+  Texas Cavalry
+
+  @TXCavalry [...] @TXCavalry
+
+  Apr 24, 2018
+
+  Congratulations to the spiciest boi of our team, Joshua Andrews!
+
+  @USAQuadball
+
+  US National Quadball Team
+
+  @USAQuadball
+
+  Apr 24, 2018
+
+  .@LoneStarQC's Luke Langlinais and @TXCavalry’s Joshua Andrews may be crosstown rivals during @USQuidditch, but these athletes played together on @UTSAQuidditch and will come together once again to win gold for the US! #RedeemTeam2018 📷 Miguel Esparza [...] This Post is from an account that no longer exists. Learn more
+ @TXCavalry
+
+  Texas Cavalry
+
+  @TXCavalry
+
+  Apr 24, 2018
+
+  Congrats to these 25 athletes on being given this opportunity. Go get gold! #RedeemTeam2018
+
+  @usquadball
+
+  US Quadball
+
+  @usquadball
+
+  Apr 24, 2018
+
+  We are excited to unveil the 25 person @USAQuidditch roster for the 2018 IQA World Cup in Florence, Italy, which is being held on June 30 and July 1. Read more at: usquidditch.org/news/2018/04/r… #RedeemTeam2018",,,5,weak,Social Index (+5),social
+3711050,social_post,unknown_date,https://x.com/LokiStriker/with_replies?lang=bn,David Fields (@LokiStriker) দ্বারা উত্তর / X,"কী ঘটছে মিস করবেন না
+
+X-এ মানুষজন সবচেয়ে আগে জানতে পারে।
+
+লগ ইন
+
+সাইন আপ করুন
+
+# [](
+
+## David Fields
+
+৬৭২ পোস্ট
+
+নতুন পোস্ট দেখুন
+
+Image 1
+
+Image 2: প্রোফাইল ফটো খোলে
+
+অনুসরণ করুন
+
+অনুসরণ করুন LokiStriker-তে ক্লিক করুন
+
+David Fields
+
+@LokiStriker
+
+Gamedev Composer #pico8#gamedev 🕹️ Also on 🦣 or 🟦☁️
+
+গেম ডেভেলপার Lima, Perulokistriker.itch.io
+
+সেপ্টেম্বর ২০১৫-এ যোগদান করেছেন
+
+২৩৬ অনুসরণ করছেন
+
+৮৯৪ অনুসরণকারীরা
+
+পোস্ট
+
+উত্তরগুলি
+
+রিপোস্ট
+
+মিডিয়া [...] রিপোস্ট
+
+মিডিয়া
+
+কোনো একটা সমস্যা হয়েছে। পুনরায় লোড করার চেষ্টা করুন।
+
+আবার চেষ্টা করুন
+
+## X-এ নতুন?
+
+আপনার নিজস্ব ব্যক্তিগতকৃত সময়রেখা পেতে এখনই নিবন্ধন করুন!
+
+Apple-এর সাহায্যে সাইন আপ করুন
+
+অ্যাকাউন্ট তৈরি করুন
+
+নিবন্ধন করে, আপনি কুকির ব্যবহার সহ পরিষেবার শর্তাবলী এবং গোপনীয়তা নীতি মেনে চলতে সম্মত হন।
+
+শর্তাবলী
+
+·
+
+গোপনীয়তা
+
+·
+
+কুকিজ
+
+·
+
+অ্যাক্সেসযোগ্যতা
+
+·
+
+বিজ্ঞাপনের তথ্য
+
+·
+
+আরও
+
+© 2026 X Corp.",,,5,weak,Social Index (+5),social
+3711050,web_result,unknown_date,https://store.steampowered.com/app/389670/Pacer,Pacer on Steam,"## System Requirements
+
+Minimum:  
+
++ Requires a 64-bit processor and operating system
++ OS \: Windows 7 64bit
++ Processor: i5 2.7GHz / AMD A10-5700 OR FX-6300
++ Memory: 8 GB RAM
++ Graphics: Nvidia Geforce 740 / R7 260
++ DirectX: Version 10
++ Storage: 17 GB available space
++ Additional Notes: These specifications are subject to change during the development process.
+
+Recommended: [...] Recommended:  
+
++ Requires a 64-bit processor and operating system
++ OS: Windows 10 64bit
++ Processor: i5 4000-series 3.5Ghz / AMD 8350
++ Memory: 16 GB RAM
++ Graphics: NVidia 970 / R9 290
++ DirectX: Version 11
++ Storage: 17 GB available space
++ Additional Notes: These specifications are subject to change during the development process.
+
+\ Starting January 1st, 2024, the Steam Client will only support Windows 10 and later versions. [...] English and 7 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ |  |
+| French | ✔ |  |  |
+| Italian | ✔ |  |  |
+| German | ✔ |  |  |
+| Spanish - Spain | ✔ |  |  |
+| Portuguese - Brazil | ✔ |  |  |
+| Russian | ✔ |  |  |
+| Simplified Chinese | ✔ |  |  |
+
+See all 8 supported languages
+
+View Steam Achievements (38)
+
+Includes 38 Steam Achievements
+
+ View  
+all 38
+
+View Points Shop Items (8)
+
+Points Shop Items Available
+
+
+
+Ratings
+
+L",,,0,weak,,general

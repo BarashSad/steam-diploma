@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-09-08T04:08:56.783347+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260908_035812/rank_changes.csv",
+    "started_at": "2026-09-08T16:31:51.327945+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260908_162308/rank_changes.csv",
     "selected_appid": "3711050",
     "selected_game_title": "BeaterCore",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-08T04:08:56.783358+00:00",
+    "finished_at": "2026-09-08T16:31:51.327960+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
