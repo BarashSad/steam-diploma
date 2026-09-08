@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-08T04:08:56.865471+00:00",
+    "timestamp": "20260908_040856",
+    "input_file": "data/spike_explainer/2026-09-08__appid_3711050__rank_1044_to_957__up_87/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-08__appid_3711050__rank_1044_to_957__up_87/llm_outputs/gemini_20260908_040856.md",
+    "game_title": "BeaterCore",
+    "appid": "3711050",
+    "duration_sec": 25.39,
+    "response_length": 6083,
+    "error": null
+}
