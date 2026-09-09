@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4705510,Happy Wheels,"""Happy Wheels"" Steam",general,1,tavily,True,,5
+4705510,Happy Wheels,"""Happy Wheels"" trailer",general,1,tavily,True,,5
+4705510,Happy Wheels,"""Happy Wheels"" gameplay",general,1,tavily,True,,5
+4705510,Happy Wheels,"""Happy Wheels"" demo",general,1,tavily,True,,5
+4705510,Happy Wheels,"""Happy Wheels"" release date",general,1,tavily,True,,5
+4705510,Happy Wheels,"""Happy Wheels"" announcement",general,1,tavily,True,,5
+4705510,Happy Wheels,"""Happy Wheels"" preview",general,1,tavily,True,,5
+4705510,Happy Wheels,"""Happy Wheels"" review",general,1,tavily,True,,5
+4705510,Happy Wheels,"""Happy Wheels"" publisher",general,1,tavily,True,,5
+4705510,Happy Wheels,"""Happy Wheels"" developer",general,1,tavily,True,,5
+4705510,Happy Wheels,"site:pcgamer.com ""Happy Wheels""",press,2,tavily,False,General budget exhausted,0
+4705510,Happy Wheels,"site:rockpapershotgun.com ""Happy Wheels""",press,2,tavily,False,General budget exhausted,0
+4705510,Happy Wheels,"site:ign.com ""Happy Wheels""",press,2,tavily,False,General budget exhausted,0
+4705510,Happy Wheels,"site:gamespot.com ""Happy Wheels""",press,2,tavily,False,General budget exhausted,0
+4705510,Happy Wheels,"site:game8.co ""Happy Wheels""",press,2,tavily,False,General budget exhausted,0
+4705510,Happy Wheels,"site:reddit.com ""Happy Wheels""",social,3,tavily,True,,5
+4705510,Happy Wheels,"site:tiktok.com ""Happy Wheels""",social,4,tavily,True,,5
+4705510,Happy Wheels,"site:instagram.com ""Happy Wheels""",social,4,tavily,True,,5
+4705510,Happy Wheels,"site:x.com ""Happy Wheels""",social,4,tavily,True,,5
+4705510,Happy Wheels,"site: ""Happy Wheels""",social,4,tavily,True,,5
