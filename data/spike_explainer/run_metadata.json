@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-09-08T16:31:51.327945+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260908_162308/rank_changes.csv",
-    "selected_appid": "3711050",
-    "selected_game_title": "BeaterCore",
+    "started_at": "2026-09-09T04:13:45.914311+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260909_040431/rank_changes.csv",
+    "selected_appid": "4705510",
+    "selected_game_title": "Happy Wheels",
     "top_n": 1,
-    "old_snapshot_date": "2026-09-05",
-    "new_snapshot_date": "2026-09-08",
+    "old_snapshot_date": "2026-09-06",
+    "new_snapshot_date": "2026-09-09",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-08T16:31:51.327960+00:00",
+    "finished_at": "2026-09-09T04:13:45.914325+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

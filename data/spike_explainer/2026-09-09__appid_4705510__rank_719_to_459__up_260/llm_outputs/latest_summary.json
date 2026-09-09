@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-09T04:13:46.002321+00:00",
+    "timestamp": "20260909_041346",
+    "input_file": "data/spike_explainer/2026-09-09__appid_4705510__rank_719_to_459__up_260/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-09__appid_4705510__rank_719_to_459__up_260/llm_outputs/gemini_20260909_041346.md",
+    "game_title": "Happy Wheels",
+    "appid": "4705510",
+    "duration_sec": 17.42,
+    "response_length": 5622,
+    "error": null
+}

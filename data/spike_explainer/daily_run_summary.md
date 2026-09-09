@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: BeaterCore
+Analyzed: Happy Wheels
 Tavily Budget Used: 15
 Errors: 0

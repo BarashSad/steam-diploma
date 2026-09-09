@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-3711050,BeaterCore,"site:pcgamer.com ""BeaterCore""",press,2,tavily,False,General budget exhausted,0
-3711050,BeaterCore,"site:rockpapershotgun.com ""BeaterCore""",press,2,tavily,False,General budget exhausted,0
-3711050,BeaterCore,"site:ign.com ""BeaterCore""",press,2,tavily,False,General budget exhausted,0
-3711050,BeaterCore,"site:gamespot.com ""BeaterCore""",press,2,tavily,False,General budget exhausted,0
-3711050,BeaterCore,"site:game8.co ""BeaterCore""",press,2,tavily,False,General budget exhausted,0
+4705510,Happy Wheels,"site:pcgamer.com ""Happy Wheels""",press,2,tavily,False,General budget exhausted,0
+4705510,Happy Wheels,"site:rockpapershotgun.com ""Happy Wheels""",press,2,tavily,False,General budget exhausted,0
+4705510,Happy Wheels,"site:ign.com ""Happy Wheels""",press,2,tavily,False,General budget exhausted,0
+4705510,Happy Wheels,"site:gamespot.com ""Happy Wheels""",press,2,tavily,False,General budget exhausted,0
+4705510,Happy Wheels,"site:game8.co ""Happy Wheels""",press,2,tavily,False,General budget exhausted,0
