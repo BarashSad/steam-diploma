@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4253770,Muramasa: Revenant Blades,Muramasa: Revenant Blades,427,418,9,9,up,none,Free,Free,False,2027,"Feb 3, 2027",True
+4438080,Call It a Day,Call It a Day,717,710,7,7,up,none,Unpriced (Coming Soon),Free,True,September 2026,2027,True
+2979810,POLYARIS,POLYARIS,530,528,2,2,up,none,Unpriced (Coming Soon),Free,True,2026,Coming soon,True

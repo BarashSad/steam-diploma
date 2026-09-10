@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-09-10T04:12:31.129475+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260910_040247/rank_changes.csv",
+    "started_at": "2026-09-10T16:20:01.024891+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260910_160949/rank_changes.csv",
     "selected_appid": "4705510",
     "selected_game_title": "Happy Wheels",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-10T04:12:31.129492+00:00",
+    "finished_at": "2026-09-10T16:20:01.024907+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
