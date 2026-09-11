@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-09-10T16:19:35.509107+00:00,4705510,Happy Wheels,data/spike_explainer/2026-09-10__appid_4705510__rank_307_to_262__up_45,45,55,data/spike_explainer/2026-09-10__appid_4705510__rank_307_to_262__up_45/llm_summary_input.md
+2026-09-11T04:09:28.686087+00:00,3947460,Creator Chronicles,data/spike_explainer/2026-09-11__appid_3947460__rank_770_to_736__up_34,34,85,data/spike_explainer/2026-09-11__appid_3947460__rank_770_to_736__up_34/llm_summary_input.md

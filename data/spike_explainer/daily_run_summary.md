@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Happy Wheels
+Analyzed: Creator Chronicles
 Tavily Budget Used: 15
 Errors: 0
