@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-11T16:23:28.659393+00:00",
+    "timestamp": "20260911_162328",
+    "input_file": "data/spike_explainer/2026-09-11__appid_3947460__rank_736_to_706__up_30/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-11__appid_3947460__rank_736_to_706__up_30/llm_outputs/gemini_20260911_162328.md",
+    "game_title": "Creator Chronicles",
+    "appid": "3947460",
+    "duration_sec": 29.41,
+    "response_length": 6724,
+    "error": null
+}

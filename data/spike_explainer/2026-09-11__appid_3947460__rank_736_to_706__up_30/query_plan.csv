@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3947460,Creator Chronicles,"""Creator Chronicles"" Steam",general,1,tavily,True,,5
+3947460,Creator Chronicles,"""Creator Chronicles"" trailer",general,1,tavily,True,,5
+3947460,Creator Chronicles,"""Creator Chronicles"" gameplay",general,1,tavily,True,,5
+3947460,Creator Chronicles,"""Creator Chronicles"" demo",general,1,tavily,True,,5
+3947460,Creator Chronicles,"""Creator Chronicles"" release date",general,1,tavily,True,,5
+3947460,Creator Chronicles,"""Creator Chronicles"" announcement",general,1,tavily,True,,5
+3947460,Creator Chronicles,"""Creator Chronicles"" preview",general,1,tavily,True,,5
+3947460,Creator Chronicles,"""Creator Chronicles"" review",general,1,tavily,True,,5
+3947460,Creator Chronicles,"""Creator Chronicles"" publisher",general,1,tavily,True,,5
+3947460,Creator Chronicles,"""Creator Chronicles"" developer",general,1,tavily,True,,5
+3947460,Creator Chronicles,"site:pcgamer.com ""Creator Chronicles""",press,2,tavily,False,General budget exhausted,0
+3947460,Creator Chronicles,"site:rockpapershotgun.com ""Creator Chronicles""",press,2,tavily,False,General budget exhausted,0
+3947460,Creator Chronicles,"site:ign.com ""Creator Chronicles""",press,2,tavily,False,General budget exhausted,0
+3947460,Creator Chronicles,"site:gamespot.com ""Creator Chronicles""",press,2,tavily,False,General budget exhausted,0
+3947460,Creator Chronicles,"site:game8.co ""Creator Chronicles""",press,2,tavily,False,General budget exhausted,0
+3947460,Creator Chronicles,"site:reddit.com ""Creator Chronicles""",social,3,tavily,True,,5
+3947460,Creator Chronicles,"site:tiktok.com ""Creator Chronicles""",social,4,tavily,True,,5
+3947460,Creator Chronicles,"site:instagram.com ""Creator Chronicles""",social,4,tavily,True,,5
+3947460,Creator Chronicles,"site:x.com ""Creator Chronicles""",social,4,tavily,True,,5
+3947460,Creator Chronicles,"site: ""Creator Chronicles""",social,4,tavily,True,,5
