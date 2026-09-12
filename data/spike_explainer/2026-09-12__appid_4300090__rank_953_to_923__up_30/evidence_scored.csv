@@ -1,0 +1,1024 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+4300090,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=odYoEA-lgb8,"TIDYING UP, ONE CUP AT A TIME 🧹 | Neat! | Demo",,"Trying the demo for Neat!, a cozy organizing game! PS. I realized at the end of the video I compared/mentioned other Rogue Duck ...",demo,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4300090,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=odYoEA-lgb8,"TIDYING UP, ONE CUP AT A TIME 🧹 | Neat! | Demo",,"Trying the demo for Neat!, a cozy organizing game! PS. I realized at the end of the video I compared/mentioned other Rogue Duck ...",demo,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4300090,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228664663,Neat! Release Date & Full Game Details,,"Hey everyone!First of all, thank you so much for all the wishlists and for playing the demo! Neat! reached over 25k wishlists, and we're incredibly happy to see so many people excited for Neat! Reading your comments kept us going through the final stretch of development. Your feedback truly shaped t","demo, release date",75,strong,"Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo', 'release date'] (+20)",
+4300090,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=GGu4KRX7wXI,Neat! - Help People Sort Their Cozy Spaces - Gameplay Trailer (Steam),,"Feeling overwhelmed? Hi, I'm Molly. I help people sort their space, organize their belongings, and bring calm back into their lives.","trailer, gameplay",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+4300090,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=GGu4KRX7wXI,Neat! - Help People Sort Their Cozy Spaces - Gameplay Trailer (Steam),,"Feeling overwhelmed? Hi, I'm Molly. I help people sort their space, organize their belongings, and bring calm back into their lives.","trailer, gameplay",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+4300090,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783561374,Demo Patch #1,,"It's been a week since demo release, and over 1,000 players have tried Neat!Thank you all for the feedback and support. We plan to update the demo continuously up until release, so expect more patches on the way.Today's patch focuses on quality-of-life improvements, bug fixes, and a partly new UI.Mo",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+4300090,youtube_video,outside_window,https://www.youtube.com/watch?v=TyHfb0OUMUc,Neat! Demo,,"I genuinely need someone like this to help with our own house. This is really cute, but the hitboxes are kind of rough, especially ...",demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4300090,youtube_video,outside_window,https://www.youtube.com/watch?v=z4_Lp0XbjGo,Neat! Demo,,"Today we're going to take a little peek at Neat!, a cozy, satisfying organizing game that takes us through different people's lives ...",demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4300090,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313691,Demo Patch #2,,"Thank you so much for being with us during Steam Next Fest, and thank you for all your feedback — it means the world to us.We have a lot of ideas and plans for improvements, and today we're releasing new patch we've been working on over the past week.What's new:Safe Zone added — you can now freely d",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+4300090,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721198799,The Neat Demo is Live — See You at Steam Next Fest!,,"Huge thanks to all the playtesters who reported bugs and pointed out what worked and what didn't. Your feedback shaped this demo, and we couldn't have shipped it without you.We're already preparing one more patch before the festival, landing in the coming days — focused on bug fixes, a UI update, an",demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+4300090,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623112922,Hello world!,,"Today is a big day for us. We're officially announcing the game and revealing our first trailer. Go check it out!But that's not all. Today also marks Day One of our Development Diaries. Starting very soon, we'll be bringing you weekly snapshots of our development journey — behind-the-scenes looks at",trailer,40,medium,Official Steam News (+20); Keywords ['trailer'] (+20),
+4300090,youtube_video,outside_window,https://www.youtube.com/watch?v=FJHBLEaNZ3c,Neat: The Story of Bourbon (2018) | Official Trailer HD,,"NOW ON DIGITAL: http://radi.al/Neat NEAT dives into the rich and storied world of bourbon. Exploring its colorful history, ...",trailer,35,medium,YouTube (+15); Keywords ['trailer'] (+20),
+4300090,youtube_video,outside_window,https://www.youtube.com/watch?v=cwl3Zp3biGg,Neat - Official Announcement Trailer,,"Take a look at the announcement trailer for Neat, a cozy narrative puzzle game developed by Korova Games. You play as Molly, ...","trailer, announcement",35,medium,"YouTube (+15); Keywords ['trailer', 'announcement'] (+20)",
+4300090,youtube_video,outside_window,https://www.youtube.com/watch?v=g4u42xAw19w,NEAT: The Story of Bourbon (Official Trailer),,Available now on iTunes and On Demand https://itunes.apple.com/us/movie/neat-the-story-of-bourbon/id1340787811 NEAT dives ...,trailer,35,medium,YouTube (+15); Keywords ['trailer'] (+20),
+4300090,youtube_video,outside_window,https://www.youtube.com/watch?v=cwl3Zp3biGg,Neat - Official Announcement Trailer,,"Take a look at the announcement trailer for Neat, a cozy narrative puzzle game developed by Korova Games. You play as Molly, ...","trailer, announcement",35,medium,"YouTube (+15); Keywords ['trailer', 'announcement'] (+20)",
+4300090,youtube_video,outside_window,https://www.youtube.com/watch?v=p_4DL2ZeniU,This Organizing Game Was More Charming Than I Expected 📦💜 | Neat,,"Today we're checking out the demo for Neat, a cozy organizing game where every messy room has a story behind it. In this ...",demo,35,medium,YouTube (+15); Keywords ['demo'] (+20),
+4300090,youtube_video,outside_window,https://www.youtube.com/watch?v=SZxeFTK2jsE,InfoComm 2023: Neat Demos Neat Center Paired With Neat Bar Pro,,InfoComm 2023: Neat Demos Neat Center Paired With Neat Bar Pro.,demo,35,medium,YouTube (+15); Keywords ['demo'] (+20),
+4300090,youtube_video,outside_window,https://www.youtube.com/watch?v=hPiWGxRNvSY,Neat Pulse and app hub demo at Infocomm 2023,,Graham Walsh delivers a quick demonstration of the control and management capabilities of Neat Pulse and touches on ...,demo,35,medium,YouTube (+15); Keywords ['demo'] (+20),
+4300090,youtube_video,outside_window,https://www.youtube.com/watch?v=qarbTn0mJng,Dual Neat Center Support and Speaker Framing Demo for Large Meeting Rooms,,0:01 - Large rooms introduction 0:41 - Dual Neat Center demo 1:59 - Speaker framing demo Experience Neat's latest innovations ...,demo,35,medium,YouTube (+15); Keywords ['demo'] (+20),
+4300090,social_post,unknown_date,https://neat.no,Neat - Meeting Spaces the Neat way,"Offer applies only to qualified purchases made through Neat's online store at us.neat.no (where available) during the promotion period. Offer valid while supplies last and may not be combined with any other discounts, promotions, or special pricing. Earned coupon credit can not be used on any purchase that includes a Neat as a Service subscription plan. No substitutions, exchanges, or cash equivalents. Neat reserves the right to modify or terminate this offer at any time without prior notice. [...] Select another country or region for content and pricing tailored to your location, and to place an order online.
+
+Discover Neat devices in our webinars and live product tours
+
+ Facebook: open in a new window
+ Twitter: open in a new window
+ Instagram: open in a new window
+ YouTube: open in a new window
+ LinkedIn: open in a new window
+
+ Privacy and cookies policy
+ California Residents
+ Terms and Conditions
+ Copyright © 2026 Neat
+
+# Neat - Meeting Spaces the Neat way [...] Find the optimal solution for your company's needs via a personalized one-on-one video demo with a Neat product specialist.   
+  
+ Ready to purchase?
+
+Fill out this quick form and we will invite you to a video demo.
+
+× 
+
+## Neat Select
+
+Get more information about Neat's BYOD only solution.
+
+×
+
+× 
+
+Contact sales
+
+Complete this form to learn more about Neat Board 32 and a Neat representative will be in contact with you.
+
+× 
+
+Contact sales",,demo,25,weak,Social Index (+5); Keywords ['demo'] (+20),social
+4300090,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783573873,Bug fixes - version 0.43,,Fixes:Bug with placement (magazines)Polish localization,,20,weak,Official Steam News (+20),
+4300090,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783570674,Bug fixes - version 0.42,,Fixes:Bug with item placement (Konbini)Bug with magazines previewVisual bug with vertical item placement (Kitchen)Visual bug with sugar and coffee standAdded stacking for frozen vegetablesMinor localization fixes,,20,weak,Official Steam News (+20),
+4300090,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891898,"Tooltips, Gamepad Support, New Quests & More",,"Hey everyone! We've been heads-down working on some big changes, and here's what's new:Tooltips & Tags Hover over any item and you'll now see its name and a set of tags that hint at where it might belong. Think of them as gentle nudges — not rules, just ideas. We'll be expanding the tag set over tim",,20,weak,Official Steam News (+20),
+4300090,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318572487,New Playtest Level — Konbini 6-7,,"A new level is in the playtest build: a Japanese konbini at five in the morning.Yuki, a university student on the night shift, fell asleep mid-study session. The delivery boxes are still sealed. The coffee station is in pieces. Nothing is on the shelves. The store opens in an hour, and if the manage",,20,weak,Official Steam News (+20),
+4300090,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770237042,Neat Playtest Patch #1 — Doors 🚪,,"Just a week ago we launched the playtest, and since then we’ve received tons of feedback, bug reports, suggestions, and just kind words — thank you, seriously.We’re pushing regular updates to improve the experience and address your feedback as fast as possible.Today’s update is all about Doors — eas",,20,weak,Official Steam News (+20),
+4300090,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260854,Neat Playtest is Live,,"The Neat playtest is live.After months of heads-down work, we're opening the doors. Starting today, you can play Neat.How to joinHead to the Neat Steam page and hit the green ""Request Access"" button on the playtest widget. We're approving requests in waves throughout the day — if you don't see an in",,20,weak,Official Steam News (+20),
+4300090,web_result,unknown_date,https://www.youtube.com/watch?v=FSNrbKwZJLU,Dupray NEAT Steam Cleaner Review 2025 | Demo and Setup |,"Dupray NEAT Steam Cleaner Features:
+- Our bestselling multipurpose steam cleaner with all the tools to clean, detail, refresh, deodorize floors, grout, bathrooms, kitchens and more, naturally.
+- Clean. Refresh. Detail. Deodorize. Multiple surfaces.
+- Pure cleaning, powered by water.
+- Lightweight & portable home steam cleaner.
+- Integrated funnel and retractable handle.
+- 17 premium accessories. [...] -Perfect for floors.
+Cleaning the most stubborn floor messes is a breeze with this versatile floor tool which can be used with regular cloths, microfiber pads or microfiber bonnets.
+- Great for grout cleaning.
+Clean grout lines and porous tiles to restore their shine.
+- Kitchen appliances Degrease kitchen equipment, ovens, fridges, sinks, BBQs, countertops, and more.
+- Furniture Steam clean furniture, chairs, delicate upholstery, leather, reduce stains and odors. [...] - Car interiors. Detail car interiors, non-sensitive leather and fabric seats, hard surfaces, engines, door jams, consoles and reduce stains
+- Bathrooms.
+Steam clean toilets, showers, reduce soap and mineral residue.
+- Mattresses. Clean mattresses and furniture with steam.",,demo,20,weak,Keywords ['demo'] (+20),general
+4300090,web_result,unknown_date,https://www.youtube.com/watch?v=cwl3Zp3biGg,Neat - Official Announcement Trailer,"Take a look at the announcement trailer for Neat, a cozy narrative puzzle game developed by Korova Games. You play as Molly, a 26-year-old",,"trailer, announcement",20,weak,"Keywords ['trailer', 'announcement'] (+20)",general
+4300090,web_result,unknown_date,https://www.youtube.com/watch?v=FJHBLEaNZ3c,Neat: The Story of Bourbon (2018) | Official Trailer HD,"NEAT dives into the rich and storied world of bourbon. Exploring its colorful history, charismatic characters, and uniquely American process,",,trailer,20,weak,Keywords ['trailer'] (+20),general
+4300090,web_result,unknown_date,https://www.imdb.com/video/embed/vi1240449817,Neat: The Story of Bourbon - Official Trailer,"NEAT dives into the rich and storied world of bourbon. Exploring its colorful history, charismatic characters, and uniquely American process,",,trailer,20,weak,Keywords ['trailer'] (+20),general
+4300090,web_result,unknown_date,https://www.neatvehicles.com,Neat Vehicles: Bespoke Trailers & Specialist Vehicles UK,"Neat Vehicles design and build bespoke trailers, mobile clinics, exhibition units and specialist vehicles. Custom-engineered solutions built to your exact",,trailer,20,weak,Keywords ['trailer'] (+20),general
+4300090,web_result,unknown_date,https://www.imdb.com/title/tt7109844,Neat: The Story of Bourbon (2018),"NEAT dives into the rich and storied world of bourbon. Exploring its colorful history,. Play trailer",,trailer,20,weak,Keywords ['trailer'] (+20),general
+4300090,web_result,unknown_date,https://www.youtube.com/watch?v=cwl3Zp3biGg,Neat - Official Announcement Trailer,"Take a look at the announcement trailer for Neat, a cozy narrative puzzle game developed by Korova Games. You play as Molly, a 26-year-old",,"trailer, announcement",20,weak,"Keywords ['trailer', 'announcement'] (+20)",general
+4300090,web_result,unknown_date,https://www.youtube.com/watch?v=GGu4KRX7wXI,Help People Sort Their Cozy Spaces - Gameplay Trailer (Steam),"Feeling overwhelmed? Hi, I'm Molly. I help people sort their space, organize their belongings, and bring calm back into their lives.",,"trailer, gameplay",20,weak,"Keywords ['trailer', 'gameplay'] (+20)",general
+4300090,web_result,unknown_date,https://www.youtube.com/watch?v=jDZvRCGSkIg,Neat Devices & Experiences - Virtual Demo,"# Neat Devices & Experiences - Virtual Demo
+## Neat
+2930 subscribers
+43 likes
+
+### Description
+5711 views
+Posted: 31 Jan 2024
+Join the Neat Product Specialist team on a captivating journey as they showcase Neat devices in an array of modern work environments. Explore Neat's cutting-edge technology that powers engaging experiences, providing you the freedom to meet, create and collaborate better. [...] it's power over ethernet just a single cable and it connects wirelessly to that front of room solution it also can be hung from the cealing as a pendant so I think just truly the definition of flexibility um and really what neat is known for we are so excited about neat Center and can't wait for you to try it out in your space now let's jump to the next demo Jocelyn I'll see you later thank so much all right so this is where neat really shines this is the heart of of what we do in terms of our [...] hi folks my name is Justin and I'm here with my colleague Briana welcome to neat's Virtual experience tour where we bring you the latest Innovations in workplace technology today we're thrilled to be in the heart of Chicago at the stunning offs showroom in this session we're going to cover a day in the life highlighting our suite of solutions from the office check-in experience to the conference room and how we enable hybrid work in a variety of workspaces so with that Brianna is going to kick",,"demo, showcase",20,weak,"Keywords ['demo', 'showcase'] (+20)",general
+4300090,web_result,unknown_date,https://www.youtube.com/watch?v=bUDgrZXWZJg&vl=en,Neat Dual Center & Speaker Framing Demo for Large Rooms,"# Neat Dual Center & Speaker Framing Demo for Large Rooms
+## Full Compass
+66600 subscribers
+4 likes
+
+### Description
+1024 views
+Posted: 12 Jan 2026
+Take a closer look at Neat’s latest advancements designed for large meeting spaces. In this demo, we break down two key features that expand coverage and improve the experience for both in-room and remote participants. [...] of me instead of my back or me being out of the frame. And with Neat's advanced audio technology that enhances audio for vocal pickup and suppresses unwanted noises, everyone can be heard clearly. Together, these innovations deliver an engaging large room experience without the large room complexity. [...] speaker, making it easier to follow the conversation in real time. Watch what happens here as I'm displayed as the active speaker. Now, when someone else starts talking, the system will shift to highlight them. That's right. After I begin to speak, the tracking microphones in the Neat devices will pick me up and you will see me highlighted as well. No switching needed. Another benefit is that speaker framing lets you move around freely. Let me show you how. Now, as I talk to the front of the",,demo,20,weak,Keywords ['demo'] (+20),general
+4300090,web_result,unknown_date,https://www.youtube.com/playlist?list=PLNUnREWnrGkhmknYl4STMK6xCtKzegdx9,Neat Virtual Demos,Join the Neat Product Specialist team on a captivating journey as they showcase Neat devices in an array of modern work environments.,,"demo, showcase",20,weak,"Keywords ['demo', 'showcase'] (+20)",general
+4300090,web_result,unknown_date,https://us.neat.no,Neat - Meeting Spaces the Neat way,"News
+
+### Neat Brings High-Performance Video Technology to Oracle Red Bull Racing
+
+Customer stories
+
+### Speed Into Meetings Like a Formula 1 World Champion
+
+Perspective
+
+### Neat and Shure Enable Fantastic Audio Quality in Large Spaces
+
+News
+
+## Meet with our team.
+
+Fill out this quick form and we will invite you to a video demo.
+
+## Neat Select
+
+Neat Board 32
+
+Complete this form to learn more about Neat Board 32 and a Neat representative will be in contact with you. [...] Neat Open
+
+Unite the flexibility of your own device with the power of enterprise-grade room intelligence. Neat
+Open
+brings your
+workspace to life with fluid collaboration tools that go far beyond a video call.
+
+Learn more
+
+Run meetings from your laptop
+
+Capture AI-powered notes
+
+Share screen wirelessly
+
+Extend the room with apps [...] Intelligence built for every space,  
+transforming passive rooms into thinking environments.
+
+### Neat Bar Gen 2 Generation 2
+
+Neat Bar Gen 2
+
+US$ 4,690
+
+The power  
+ of simple.
+
+### Neat Bar Pro
+
+Neat Bar Pro
+
+US$ 6,690
+
+Go up  
+ a notch.
+
+### Neat Board 50
+
+Neat Board 50
+
+From US$ 6,390
+
+Flow with the moment.
+
+### Neat Board 32
+
+Neat Board 32
+
+From US$ 3,990
+
+Built for small spaces and big ideas.
+
+### Neat Bar BYOD
+
+Neat Bar
+
+US$ 699
+
+Packs  
+ a punch.
+
+### Neat Pad Pro 10-inch 10-inch",,demo,20,weak,Keywords ['demo'] (+20),general
+4300090,web_result,unknown_date,https://www.youtube.com/watch?v=e1dmARNoaf4,Neat - Full Demo,"Feeling overwhelmed? Hi, I'm Molly. I help people sort their space, organize their belongings, and bring calm back into their lives.",,demo,20,weak,Keywords ['demo'] (+20),general
+4300090,web_result,unknown_date,https://support.neat.no/c/software-updates,Software Updates - Neat Support,"| Release Name | Latest Neat  Release Version | Last Release Date | Release Notes | Comments |
+ ---  --- 
+| Stable release (latest) | 26.5.3 | September 5, 2026 | Release Notes | All Neat devices |
+| Preview release (Beta) | 26.5.3 | September 2, 2026 | Release Notes | All Neat devices |
+| Stable release (Neat Pad Gen 2) | 26.4.0 | September 5, 2026 | Release Notes | Neat Pad Generation 2 | [...] | Previous Stable release | 26.3.0 | September 5, 2026 | Release Notes | Neat devices running Microsoft Teams software |
+| Neat Pulse Platform | 2.25 | July 7, 2026 | Release Notes | All Neat Devices | [...] Neat Microsoft Teams Rooms Technical Issues Update
+
+## Features, EOL status and support policy
+
+### List of features in Neat Releases
+
+List of features in Neat Releases
+
+### Neat End-of-Sale notice, Feb 2025: Neat Bar, Neat Board and Neat Frame
+
+Neat End-of-Sale notice, Feb 2025: Neat Bar, Neat Board and Neat Frame
+
+### Neat End of Life Policy
+
+Neat End of Life Policy
+
+### Neat’s Technical Support Policy
+
+Neat’s Technical Support Policy
+
+## How to update using Neat Pulse",,release date,20,weak,Keywords ['release date'] (+20),general
+4300090,web_result,unknown_date,https://www.youtube.com/watch?v=IqolWgsZh9E,"Neat Bar BYOD Explained: Setup, Features & How to Use","meeting. And what you're going to see in my preview window is going to pop up. And hey, I'm using the Neat Bar camera for my video. And actually, I can see right here I'm using the Neat Bar camera and I'm also using the Neatar built-in microphone. So that's how I know that I've connected and I'm ready to go. So, I'm just going to go ahead and hit start, and I'm going to go full screen. And now, if I'm in a Zoom call, the people on the far end, they're going to be nice and big. I'm going to be [...] I'm filming this video. Um, and on the screen here, you see that you can it'll actually it actually shows you how you can um adjust the angle of the camera. So, if you want to um adjust the framing, what you're seeing from the camera, you can do that. This is on the tabletop mount, but the same exact principle applies to the monitor mount, which is the one we used. So, I'm going to go ahead and hit continue. And we hear our happy noise, and we are all set. So, the Neat logo pops up and now it's [...] up and now it's ready to use. It's ready to uh connect your laptop and we'll talk about that right now and how your users can start making calls. All right, I'm in my little huddle conference room. I have my Neat bar set up and configured. Now, I want to just show you how easy it is to use it. Right, so I've come in my room. I've got a laptop. That's all I need. And I have to join a Zoom call. Again, Zoom is just what I'm going to use for this demonstration, but you can use any calling platform",,demo,20,weak,Keywords ['demo'] (+20),general
+4300090,youtube_video,outside_window,https://www.youtube.com/watch?v=xpQ1_5xZuKY,Neat: The Story of Bourbon (2017) - Meant To Be Enjoyed Scene (10/10) | Movieclips,,Neat: The Story of Bourbon - Meant To Be Enjoyed: Third-generation Buffalo Trace Distillery employee Freddie Johnson talks ...,,15,weak,YouTube (+15),
+4300090,reddit_discussion,unknown_date,https://www.reddit.com/r/whiskey/comments/1kk0zif/what_is_your_definition_of_neat,What is your definition of neat? : r/whiskey - Reddit,"Neat is Neat . Just some whiskey in a glass. Room temp, no ice and straight from bottle to glass. Neat means just whiskey in a glass.",,,10,weak,Reddit (+10),social
+4300090,reddit_discussion,unknown_date,https://www.reddit.com/r/CommercialAV/comments/1ldtxwl/thoughts_on_neat,Thoughts on Neat? : r/CommercialAV - Reddit,"Neat is very easy to deploy, Mid quality, fast meeting start time, fast deployment & it is reliable as your network is. They are low maintenance",,,10,weak,Reddit (+10),social
+4300090,reddit_discussion,unknown_date,https://www.reddit.com/r/bartenders/comments/rsjjul/neat_vs_straight_up,Neat vs straight up : r/bartenders - Reddit,"“Neat” is a pour into a tumbler with no ice. “Up” is served in stemware. “Straight” is synonymous with “neat”, ""Neat"" is straight liquor, """,,,10,weak,Reddit (+10),social
+4300090,reddit_discussion,unknown_date,https://www.reddit.com/r/loseit/comments/1l01qyw/neat_what_exactly_is_it,NEAT- What exactly is it? : r/loseit - Reddit,"My definition of NEAT is the little things like tapping your feet, fidgeting with a pen, mindlessly pacing, etc. Things that are more or less",,,10,weak,Reddit (+10),social
+4300090,reddit_discussion,unknown_date,https://www.reddit.com/r/CommercialAV/comments/1gvo259/former_neat_se_ama,"Former Neat SE, AMA : r/CommercialAV - Reddit","Neat has always struck me as a ""all polish, no substance"" type of company. they don't actually make anything impressive, they just have really",,,10,weak,Reddit (+10),social
+4300090,web_result,unknown_date,https://www.instagram.com/neatmeetings?hl=en,Neat (@neatmeetings) • Instagram photos and videos,"Video by Neat on June 15, 2026. May be an image of screen and tablet.
+
+Video by Neat on June 08, 2026.
+
+Video by Neat on June 01, 2026.
+
+Video by Neat on May 21, 2026.
+
+Photo by Neat on April 01, 2026.
+
+Photo by James-Morrow Systems on March 30, 2026.
+
+Photo by Neat on March 17, 2026.
+
+Video by Neat on November 24, 2025.
+
+Video by Neat on November 17, 2025.
+
+Video by Neat on October 14, 2025.
+
+Show more posts from neatmeetings [...] Log In
+
+Sign Up
+
+## neatmeetings
+
+ 4,751 followers
+ 84 following
+
+Neat
+
+Neat designs smarter, simpler video devices.
+
+neat.no
+
+ neatmeetings's highlight story picture
+
+  Neat Frame
+ neatmeetings's highlight story picture
+
+  Neat Board
+ neatmeetings's highlight story picture
+
+  Happy Customers
+ neatmeetings's highlight story picture
+
+  Neat Bar
+
+Video by Neat on June 27, 2026. May be an image of crowd and stadium.
+
+Video by Neat on June 18, 2026. May be a cartoon of screen and poster.",,,5,weak,Social Index (+5),general
+4300090,web_result,unknown_date,https://www.instagram.com/neatrvw,THE NEAT REVIEW (@neatrvw),These are little-known but Easy “magician foolers” created and curated from rare card magic books from the past 100 years. Melding works and,,,5,weak,Social Index (+5),general
+4300090,social_post,unknown_date,https://www.tiktok.com/tag/neat,#neat | TikTok,Watch the latest videos about #neat on TikTok. NEAT stands for non-exercise Neat,,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://www.tiktok.com/@englishwithkarim/video/7528143513867865400,Understanding the Meaning of 'Neat' in English - TikTok,"97 j'aime,Vidéo TikTok de English With Karim (@englishwithkarim) : « Discover the definition of 'neat' as an adjective and learn its various",,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://www.tiktok.com/@nurture.neat,Nurture & Neat - TikTok,Nurture & Neat (@nurture.neat) on TikTok | 176.3K Likes. 22.5K Followers. it takes a village - kind cleaning support . Nurtureandneat@outlook.com.,,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://www.tiktok.com/@hellqueencocktails/video/7327399048971914539,"Neat, Up, and On the Rocks explained #hellqueencocktails ... - TikTok","7016 Likes, 73 Comments. TikTok video from HellQueen Cocktails (@hellqueencocktails): “Neat, Up, and On the Rocks explained",,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://www.tiktok.com/@neat.caroline,Neat Caroline - TikTok,Home Expert in NYC Hello@carolinesolomon.com As Seen on The Today Show! ⭐️. msha.ke/neatcaroline. DIYFood. Unaesthetic organizing tips that work!,,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://www.instagram.com/reel/DUXJu78jMT1,Instagram,"What does NEAT mean?   
+Non-exercise activity thermogenesis   
+  
+(NEAT) refers to the energy spent for everything we do that is not sleeping, eating, or structured exercise, such as walking. Or workouts.   
+  
+Increasing NEAT helps manage weight, improve metabolism, and combat sedentary lifestyle risks.   
+  
+Seated and standing calf raises are great and perfect as soleus muscle picks up blood glucose directly and helps manage post meal sugar surges effectively [...] cyrusminwalla's profile picture
+
+cyrusminwalla
+
+These are simple .. thanks for posting
+
+Reply
+
+aurabydishaa's profile picture
+
+aurabydishaa
+
+one hour is sufficient if we have eaten something??
+
+Reply
+
+aurabydishaa's profile picture
+
+aurabydishaa
+
+every hour
+
+Reply
+
+payel07ghosh's profile picture
+
+payel07ghosh
+
+❤️❤️❤️
+
+Reply
+
+nehamfc's profile picture
+
+nehamfc
+
+Hi
+
+Reply
+
+sagar_kachare810's profile picture
+
+sagar\_kachare810
+
+nice information 👍🏻
+
+Reply
+
+sahinpervininsta's profile picture [...] sahinpervininsta
+
+Wow 👏
+
+Reply
+
+shrutijadhav6392's profile picture
+
+shrutijadhav6392
+
+Every hour ?
+
+Reply
+
+nelleshjain's profile picture
+
+nelleshjain
+
+Can u recommend shoe brand plus series to buy for walking 15k daily for women
+
+Reply
+
+harsimrankaurkhosa's profile picture
+
+harsimrankaurkhosa
+
+How much time after meal shud we do these
+
+Reply
+
+swegmantra_positivelifecoach's profile picture
+
+swegmantra\_positivelifecoach",,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://www.instagram.com/Neat,NEAT (@neat) • Instagram photos and videos,67K followers · 67 following · 5 posts · @Neat: “ ... neat. NEAT. Personal blog. 67K followers · 67 following · 6 posts · @neat.,,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://www.instagram.com/neatmeetings,Neat (@neatmeetings) • Instagram photos and videos,"Video by Neat on June 15, 2026. May be an image of screen and tablet.
+
+Video by Neat on June 08, 2026.
+
+Video by Neat on June 01, 2026.
+
+Video by Neat on May 21, 2026.
+
+Photo by Neat on April 01, 2026.
+
+Photo by James-Morrow Systems on March 30, 2026.
+
+Photo by Neat on March 17, 2026.
+
+Video by Neat on November 24, 2025.
+
+Video by Neat on November 17, 2025.
+
+Video by Neat on October 14, 2025.
+
+Show more posts from neatmeetings [...] Log In
+
+Sign Up
+
+## neatmeetings
+
+ 4,744 followers
+ 84 following
+
+Neat
+
+Neat designs smarter, simpler video devices.
+
+neat.no
+
+ neatmeetings's highlight story picture
+
+  Neat Frame
+ neatmeetings's highlight story picture
+
+  Neat Board
+ neatmeetings's highlight story picture
+
+  Happy Customers
+ neatmeetings's highlight story picture
+
+  Neat Bar
+
+Video by Neat on June 27, 2026. May be an image of crowd and stadium.
+
+Video by Neat on June 18, 2026. May be a cartoon of screen and poster.",,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://www.instagram.com/neatbuffalo,"Neat | Wood Fired, Whiskey Bar (@neatbuffalo) - Instagram",(716)- 632-NEAT (6328) Wood▪️Whiskey▪️Wine Wood Oven inspired Restaurant & Whiskey Bar. Follow. Message. New Fall flavors,,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://www.instagram.com/neatmethod,NEAT Method ® (@neatmethod) • Instagram photos and videos,Professional home organizing for real life ✨ 100+ locations across the US. Expert-designed products that last. Follow. Message. Accounts you might like.,,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://x.com/CellNeat,AICTE NEAT CELL (@CellNeat) / Posts / X,"August 16, 2021 - The aim of NEAT is to bring the best technological Products in education pedagogy on a single platform for the convenience of learners.",,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://x.com/neatmeetings,Neat (@neatmeetings) / Posts / X,"Neat designs intelligent, simple, open video devices.",,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://x.com/inscriptionneat,NEAT (@inscriptionneat) / X,"November 28, 2023 - @NEARProtocol as DA for inscription-based rollups #NEAT records transactions on top of the existing L1, effectively gaining sequencing and DA, enhancing the scalability and efficiency of our inscription ecosystem.",,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://x.com/MCNEATofficial?lang=en,MC Neat (@MCNEATofficial) / Posts / X,"MC Neat · 11.5K posts · @MCNEATofficial · #Gooner4life · London UK, Global... djluckandmcneat.com · Born January 22 · Joined February 2011 · 1,140 · Following · 12.8K · Followers · Mention · Follow · PostsPostsRepliesRepliesMediaMedia · MC Neat · @MCNEATofficialJul 19 ·",,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://x.com/neat0queen?lang=en,NEATO (@NEAT0QUEEN) on X,"June 26, 2018 - NEATO · 34K posts · NEATO · @NEAT0QUEEN · pixel artist (feat. in @BalatroGame🃏) • @RocketLeague 🏈 2-time Gridiron Games Champion • @Twitch Partner • 🧠 ADHD • Powered by @xidaxpcs • 🇲🇽🇪🇸 • MI, USA · neato.live on 🦋 / any ·",,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://no.linkedin.com/company/neatmeetings,"Neat - Neat designs intelligent, simple, open video devices.","### Website
+
+### Crunchbase
+N/A
+### LinkedIn
+N/A
+
+### Industry
+Telecommunications
+
+### Company Size
+201-500 employees  
+667 associated members (LinkedIn members who've listed Neat as their current workplace on their profile)
+
+### Founded
+2019
+
+### Funding
+Last Round Date: N/A
+Last Round Type: N/A
+Total Rounds: N/A
+Last Round Raised: N/A
+
+### Investors
+N/A
+
+### Specialties
+zoom room hardware, meeting spaces, video devices, video hardware, meeting room hardware, and meeting devices [...] for decades, have shaped game-changing innovations for some of the world’s most recognized video communications brands. For more information about Neat, visit neat.no. [...] Neat designs intelligent, simple, open video devices that make virtual meetings feel almost as real as meeting face-to-face. Seamlessly bringing rich and meaningful experiences to people’s work, interactions and lives across any meeting space, Neat devices have far-reaching audio and video, plus advanced capabilities that support an enhanced, engaging and safer hybrid working and learning environment. Neat was founded in Oslo, Norway, by a team of creative mavericks that, for decades, have",,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://www.neat.com,The Neat Company,"Featured by leading publications and experts covering business, finance, and technology.
+
+## Ready to get Neat?
+
+Join millions of freelancers and small businesses who stopped chasing receipts and started feeling in control.
+
+Start My Free Trial
+
+Cancel anytime
+
+30-day money-back guarantee
+
+This website uses cookies to improve your experience. By continuing to browse the site, you are agreeing to our use of cookies. Review our Privacy Policy for more details. [...] This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [...] I've used Neat since 2008, initially for my independent consulting business, and now personally. It's a superb app for receipts, yes I could use Google or Microsoft apps and cloud drives, but it would take too much time. I love Neat and recommend it.
+
+Vic Sprenger
+
+Vic Sprenger2D House Inc.
+
+starstarstarstarstar",,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://neat-tokyo.com,NEAT Official Website｜TOP｜FALL & WINTER 2026 - 公式,"# NEAT
+
+ Collection
+ Product
+ Project
+ Shop
+ How to Order
+
+[](
+
+[](
+
+[](
+
+[](
+
+[](
+
+[](
+
+NEAT values creative freedom   
+ and engages in a wide range of   
+ projects. and more.
+
+Project
+
+SHOP画像1
+
+Shop
+
+SHOP画像1
+
+SHOP画像1 SP
+
+Shop
+
+[](
+
+[](
+
+[](
+
+[](
+
+How to order
+
+Close
+
+Collection Product Project Shop
+
+How to order Philosophy
+
+Recruit Instagram Contact
+
+About Instagram Contact
+
+### NEAT Official Website｜FW26 begins.
+
+Built on what we truly believe is good. Explore the FW26 collection.",,,5,weak,Social Index (+5),social
+4300090,social_post,unknown_date,https://www.neat.eu,Creator of insurance and service solutions | Neat,"Neat is a licensed broker protecting the goods and services of millions of people. Our insurance products are distributed by some of Europe's leading brands.  
+  
+Neat transforms insurance into a growth driver by combining our business expertise and technology.  
+  
+Our all-inclusive services cover the entire value chain: product creation, integration, claims management and optimisation.
+
+### Products and services creation
+
+Ready-to-activate coverage, customised to your clients and your brand. [...] Cdiscount Voyages logo
+
+Alain Afflelou logo.webp)
+
+logo Pierre & Vacances Group, Centerparcs
+
+leboncoin logo
+
+## Extras that matter
+
+At Neat, extra is not optional. It's our standard.
+
+Each partnership delivers concrete, measurable and sustainable results.
+
+### Extra revenues
+
+No set-up costs, recurring commissions generated on every sale.
+
+Extra income
+
+### Extra efficiency
+
+Plug and play integration, customized dashboard and dedicated team. [...] Last-minute flight changes
+
+Cancellation and modification of stay for any reason
+
+Guaranteed fixed prices for your flights
+
+That's Neat.
+
+2M
+
+policyholders
+
+3000
+
+distribution partners
+
+27
+
+countries covered
+
+€60M
+
+raised
+
+100+
+
+Neaters
+
+12
+
+insurers
+
+## Our sectors
+
+Financial Services
+
+### Financial Services
+
+Innovative, highly personalized card insurance programs, integrated solutions for credit and payment businessesTravel
+
+### Travel",,,5,weak,Social Index (+5),social
+4300090,web_result,unknown_date,https://dupray.com/en-us/products/neat-steam-cleaner,Dupray NEAT Steam Cleaner- Clean & Refresh Your Home | Dupray US,"The Neat™ Steam Cleaner is an efficient, ultra-reliable do-it-all cleaning and sanitization solution. Designed for performance, ease of use and durability, this steam cleaner delivers the cleaning power of much larger professional units. It can easily remove dirt, grease, and stains while killing 99.9% of bacteria, viruses,\ pathogens, and other undesirables from any type of floors, furniture, toys, kitchen appliances, car interiors, grout and tiles, bathrooms and more. Give your home a deep [...] The Neat™ Steam Cleaner is an efficient, ultra-reliable do-it-all cleaning and sanitation solution. Designed for performance, ease of use and durability, this steam cleaner delivers the cleaning power of much larger professional units. It can easily remove dirt, grease, and stains while killing 99.9% of bacteria, viruses,\ pathogens, and other undesirables from any type of floors, furniture, toys, kitchen appliances, car interiors, grout and tiles, bathrooms and more. Give your home a deep [...] Superheated steam is scientifically proven to remove 99.9% of harmful viruses and bacteria\ on household surfaces in less than 30 seconds of direct contact. There's no need to expose your family or your city's water system to harmful chemicals - hot steam does the job.
+
+Neat™ goes where you go.
+
+Neat™'s unique cube shape, small size, and retractable handle were designed so you can manoeuvre and store it with ease.
+
+Customize your clean.",,,0,weak,,general
+4300090,web_result,unknown_date,https://www.amazon.com/Dupray-Neat-Steam-Cleaner-Essential/dp/B07C44DM6D,Dupray Neat Steam Cleaner for Home Essential Pack,"Generates superheated steam up to 275F/135C to effectively lift dirt, grease, and grime from a variety of surfaces without using harsh chemicals.",,,0,weak,,general
+4300090,web_result,unknown_date,https://www.apartmenttherapy.com/dupray-neat-plus-steam-cleaner-review-37478369,Honest Review of the Dupray Neat Plus Steam Cleaner | Apartment Therapy,"Because the Dupray Neat Plus Steam Cleaner uses steam to clean, there’s no need to use any extra cleaning agents. Water is heated to 275 degrees Fahrenheit, so it gets hot with a capital H. Be sure to read the site’s FAQs as well as the instructions that come with the cleaner before using it to keep yourself safe. [...] The Dupray Neat Plus Steam Cleaner is relatively easy to use, but it can be scary at first because the steam is piping hot. Be sure to reference the instructions before using and never let the steam get close to your skin. If you don’t let the steam cleaner heat up for the full 90 seconds or so, you risk spraying out water and not steam — which I did a few times. When this happens, just let the cleaner fully heat up. You should also expect some moisture when cleaning hard and soft surfaces, so [...] The Dupray Neat Plus Steam Cleaner is a compact, versatile steam cleaner. The Neat Plus is a new version of the popular Dupray Neat, but with a quicker 90-second start-up time and the ability to refill the water tank without turning off the machine.
+
+Tile floors before steam cleaning.
+
+## Design Features That Stand Out",,,0,weak,,general
+4300090,web_result,unknown_date,https://www.slayathomemother.com/dupray-neat-steam-cleaner,Dupray Neat Steam Cleaner - My Honest Review - Slay At Home Mother,"It has a max run time of 50 minutes (I can get almost the entire house done in this time)
+ It rolls easily on wheels and is super light
+ The price tag of $170 is more than reasonable, especially considering all the attachments that come with it!
+ It’s super easy to use and switch out attachments
+ The steam is powerful and this little unit really pumps it out like a champ
+ You can clean your entire house chemical-free (I mean, water is technically a chemical, too, but you know what I mean) [...] the Dupray Neat Steam Cleaner(the boiler has a lifetime warranty, and the steamer has a limited 2-year warranty)
+ 17-piece accessory kit
+  + floor tool
+  + triangle tool
+  + window squeegee tool (double-bladed)
+  + steam lance
+  + 2x extension tubes
+  + 5x nylon brushes
+  + brass brush
+  + 3x microfiber pads
+  + microfiber bonnet
+  + microfiber cloth
+ free shipping (it also ships SUPER FAST!!!) [...] You can use any towel with your steam cleaner, not just the included microfiber pads/cloths
+ It blasts away stuck-on food, gunk, dirt, spills, etc. in seconds
+ There is a button on the handle you can press that will turn the steam on a constant stream so you don’t have to keep pressing the trigger button (great for those with arthritis, carpal tunnel, etc., or lack of hand dexterity).",,,0,weak,,general
+4300090,web_result,unknown_date,https://play.google.com/store/apps/details?id=com.infinitygames.NeatNexus&hl=en_US,Neat Nexus: Idle Tower Defense - Apps on Google Play,"Neat Nexus is a tower defense and strategy game, a simple but not easy defense game. Try to stop your enemy and use an arsenal of towers and tricks to keep ...Read more",,,0,weak,,general
+4300090,web_result,unknown_date,https://support.neat.no/article/software-release-features,List of features in Neat Releases - Neat Support,"## Release Version and Date: 25.3.0 (August 2, 2025) / 25.3.3 (November 4, 2025)
+
+Full release notes here: Neat devices: Version 25.3.3 Release Notes  
+All Neat devices: Yes  
+Software version support status: Unsupported
+
+Features in this release:
+
+ Introducing Neat Focus (Beta): Greater camera control and focus with Neat Center
+ Smarter framing with Speaker Framing mode–now available on Neat Center
+ Neat Bar 2 without a Neat Pad (BYOD-Only) now supported [...] ## Release Version and Date: 25.4.2 (February 14 2026)
+
+Full release notes here: Neat devices: Version 25.4.2 Release Notes  
+All Neat devices: Yes  
+Software version support status: Unsupported
+
+Features in this release:
+
+ Google Meet Rooms is now Generally Available on Neat Devices
+ Introducing multi Neat Center support
+ Neat Focus: Enhanced control and flexibility
+ More natural meetings with Dynamic Framing
+ Neat devices now support Android 13 [...] ## Release Version and Date: 24.6.0 (December 5, 2024)
+
+Full release notes here: Neat devices: Version 24.6.0 Release Notes  
+All Neat devices: Yes  
+Software version support status: Unsupported
+
+Features in this release:
+
+ Dynamic microphone selection
+ Volume control on Neat Board, Neat Board Pro and Neat Board 50
+ Hostname configuration for Neat Center
+ ZDM 2.0
+ JPEG image access for App Hub applications
+
+## Release Version and Date: 24.5.0 and 24.5.1 (October 19, 2024)",,,0,weak,,general
+4300090,web_result,unknown_date,https://support.neat.no/article/neat-devices-version-25-3-0-release-notes,Neat Devices: Version 25.3.0 and 25.3.2 Release Notes - Neat Support,"| Stable release (February 14, 2026) |
+| The Neat firmware builds: | Neat Pad firmware: NFA1.20250528.0234 Neat Bar firmware: NFB1.20250528.0017 Neat Board firmware: NFC1.20250528.0017 Neat Bar Pro firmware: NFD1.20250528.0019 Neat Bar Generation 2 firmware: NFE1.20250528.0019 Neat Frame firmware: NFF1.20250528.0019 Neat Board 50 firmware: NFH1.20250528.0019 Neat Board Pro firmware: NFK1.20250528.0019 Neat Center firmware: NFL1.20250528.0025 Neat Pulse Agent 2.1.50 | [...] | Stable release (January 10, 2026) |
+| The Neat firmware builds: | Neat Pad firmware: NFA1.20250528.2004 Neat Bar firmware: NFB1.20250528.2004 Neat Board firmware: NFC1.20250528.2004 Neat Bar Pro firmware: NFD1.20250528.2004 Neat Bar Generation 2 firmware: NFE1.20250528.2004 Neat Board 50 firmware: NFH1.20250528.2004 Neat Board Pro firmware: NFK1.20250528.2004 Neat Pulse Agent 2.0.31 | [...] Skip to content
+
+Neat Support
+
+# Neat Devices: Version 25.3.0 and 25.3.2 Release Notes
+
+Last updated on February 14, 2025
+
+If you’d like to get email updates about new releases, please subscribe here.
+
+## Contents",,,0,weak,,general
+4300090,web_result,unknown_date,https://www.youtube.com/watch?v=SoVcd8rR6XM,Neat OS 26.1 New Features (May 2026),A look though the new features in Neat OS 26.1: 00:00 Intro 00:25 Multiple mic mixing for improved multi-device audio 02:59 Smart Power,,,0,weak,,general
+4300090,web_result,unknown_date,https://www.neatvideo.com/features/version-history,History of Changes,Choose Neat Video product below to see its release history. Current Products. After Effects plug-in · Premiere plug-in · Final Cut plug-in · Resolve plug-in,,,0,weak,,general
+4300090,web_result,unknown_date,https://www.facebook.com/neatmeetings,Neat (@neatmeetings),"Neat is super excited to announce that we are now the official video device of the L.A. Clippers and their new home, Intuit Dome.",,,0,weak,,general
+4300090,web_result,unknown_date,https://www.prnewswire.com/news/Neat,Neat News and Press Releases | PR Newswire,"### Oct 15, 2013, 09:47 ET Neat® Announces General Availability of NeatConnect, Industry's First Direct-to-Cloud Touchscreen Scanner
+
+Neat®, a leader in Digital Filing Systems for the small business and consumer markets, today announced the general availability of NeatConnect®, a...
+
+### Oct 03, 2013, 08:30 ET Neat® Acquires ProOnGo, Extending the Neat Digital Filing System [...] ### Jun 26, 2013, 11:31 ET Neat®'s CEO Awarded Ernst & Young's Technology Entrepreneur of the Year® 2013
+
+Neat®, a leader in Digital Filing Systems for the small business and consumer markets, today announced that its chief executive officer, Jim Foster,...
+
+### Jun 18, 2013, 09:00 ET Neat® Announces Comprehensive Mobile App Update for its Cloud-Based Digital Filing System [...] Neat®, a leader in Digital Filing Systems for the small business and consumer markets, today announced the acquisition of key assets from...
+
+### Sep 19, 2013, 09:00 ET Neat® Announces NeatConnect®, Industry's First Direct-to-the-Cloud Touchscreen Scanner
+
+Neat®, a leader in Digital Filing Systems for the small business and consumer markets, today announced the availability of NeatConnect®, the first...",,,0,weak,,general
+4300090,web_result,unknown_date,https://us.neat.no/stories/news,News Archives - Neat,"customer once their order is confirmed to have shipped. Coupon redemption has been extended and will now be valid through August 31, 2026, at 11:59 p.m. EST, regardless of original purchase date, and will be eligible for one-time use on a single future order. If the coupon code is used on an order with a total amount less than the coupon credit amount earned, the remaining amount will be forfeited. [...] Terms and conditions apply. Offer valid for US orders only. Offer valid from January 19, 2026, at 9:00 a.m. EST through January 31, 2026, at 11:59 p.m. EST. Purchase of one (1) Neat Bar BYOD entitles the customer to receive coupon credit of $200 for a future purchase, up to a maximum of five (5) units ($1000 in total coupon credit) per customer. Purchase of one (1) Neat Bar Gen 2 entitles the customer to receive coupon credit of $400 for a future purchase, up to a maximum of five (5) units [...] 2 min read
+
+### What Neat’s New ScanSource Partnership Means for U.S. Partners
+
+Simon Anthony Walker, May 12, 2026
+
+2 min read
+
+### Neat Wins 2026 Google Cloud Partner of the Year Award for Google Workspace: Innovation
+
+Sherri Pipala, Apr 21, 2026
+
+2 min read
+
+    
+
+### Why I’m Joining Neat
+
+Javed Khan, Mar 18, 2026
+
+4 min read
+
+### Plan Before You Deploy: Meet the New Neat Workspace Designer
+
+Gerard Bao, Feb 10, 2026
+
+4 min read",,,0,weak,,general
+4300090,web_result,unknown_date,https://us.neat.no/stories,Neat Stories: Inspiring Transformation Through Video Collaboration,"4 min read
+
+### 3 Big Reasons to Visit Neat at InfoComm 2026: Neat Board 32, Neat Pad Pro, and Neat Open
+
+Norma Lovhaugen, Jun 16, 2026
+
+4 min read
+
+### Debuting Agentic Meeting Room Management with Neat Pulse MCP
+
+Tormod Ree, Jun 16, 2026
+
+3 min read
+
+     ### Introducing Intelligent Framing: Helping Remote Participants Follow the Conversation in Large Rooms
+
+Tormod Ree, Jun 16, 2026
+
+7 min read
+
+### How NEXTDC Transformed Collaboration Across Australia’s Largest Data Center Network [...] Home
+
+## Open for More: Why Flexibility Is the New Infrastructure
+
+How Neat’s distributed AI, platform freedom, and intelligent edge devices   
+ are redefining what flexible collaboration really means.
+
+Learn more
+
+5 min read
+
+### “Not One Support Call”: How Stadtwerke Bochum Found Reliability with Neat
+
+Hayley Spooner, Aug 6, 2026
+
+5 min read
+
+     ### Thoughtworks Creates Global Workplace Consistency with Neat
+
+Hayley Spooner, Jul 30, 2026
+
+4 min read [...] Terms and conditions apply. Offer valid for US orders only. Offer valid from January 19, 2026, at 9:00 a.m. EST through January 31, 2026, at 11:59 p.m. EST. Purchase of one (1) Neat Bar BYOD entitles the customer to receive coupon credit of $200 for a future purchase, up to a maximum of five (5) units ($1000 in total coupon credit) per customer. Purchase of one (1) Neat Bar Gen 2 entitles the customer to receive coupon credit of $400 for a future purchase, up to a maximum of five (5) units",,,0,weak,,general
+4300090,web_result,unknown_date,https://support.neat.no/article/neat-preview-channel-firmware,Neat Preview Channel Firmware - Neat Support,"## 3. Important information about the Preview Channel
+
+At Neat, we use two channels for our software updates to give you the best experience.
+
+ Stable Channel – This is where our finalized, production-ready updates are released, ensuring everything runs smoothly in your environment.
+
+ Preview Channel – Before updates go live, we release them here for a few weeks. This lets you explore new features early and provide feedback. [...] Please note that Preview updates are for evaluation and are not yet fully supported. We do not recommend installing Preview software on Neat devices used in a production environment. Ideally, you should use a Neat device that is in a lab or a lower-risk user environment to try out the Preview software. And please report any feedback or issues you find while testing to us using the steps outlined in section 7. Getting help from Neat. We would love to hear from you! [...] | INBUGS-3006 Introduced in 25.3.0 | We’ve identified an inconsistency in how the Camera Selection preview appears when using a Neat Board and Neat Pad together. When a camera is selected using a Neat Pad paired with a Neat Board, the full-screen Preview view appears on the Neat Board, similar to how it works on a Neat Bar/Neat Pad setup — this is the expected behavior. However, if the camera selection is done directly on the Neat Board, a Picture-in-Picture (PIP) window is shown instead. This",,,0,weak,,general
+4300090,web_result,unknown_date,https://note.com/neat_iwagishi/n/n2858550b73b9?hl=en,Neat Preview Channel Firmware (Neat OS 26.5.0),"This document explains the new features, improvements, and bug fixes included in the Preview channel of participants in the conversation.",,,0,weak,,general
+4300090,web_result,unknown_date,https://www.youtube.com/watch?v=HDYuEeGax8Y,Neat Bar Generation 2 Overview,"# Neat Bar Generation 2 Overview
+## Neat
+2920 subscribers
+15 likes
+
+### Description
+4699 views
+Posted: 18 Oct 2024
+Discover the Neat Bar Generation 2, a powerful all-in-one video conferencing device designed for Zoom Rooms and Microsoft Teams. It reliably handles all your meeting space needs without the complexity or clutter of running cables across the room.
+
+Visit  to learn more! [...] of Neat Bar. And 4K resolution display is supported for not just one, but two screens. That's great for having one screen up to see meeting participants, and then another screen up so you can see shared content. Now, what about the software? Neat Bar 2 comes with all the Neat intelligence built in like Neat audio processing and camera intelligence that only gets better over time. We're continuously innovating to find ways to enable better collaboration video experiences for you. And that's Neat [...] display. Pair it with Neat Pad and then follow our guided setup instructions. Now, let's talk about the rest of the AV components. First, it has a wide-angle 50-megapixel camera with a 113° field of view and super-fast image processing so you can capture the room and everyone in it clearly. The camera also has 4x digital zoom, which is useful when you need to see people who are further away from the front of the room. For audio, it has a voice-optimized sound system. This includes dual",,,0,weak,,general
+4300090,web_result,unknown_date,https://www.insight.com/en_US/shop/partner/neat.html,Neat | Neat Devices for Video | Insight,"Create versatile rooms for seamless in-person or hybrid collaboration.
+
+Shop now
+
+Teammates having a meeting in a large spaces
+
+## Large spaces, 12 or more people
+
+Empower all-inclusive interaction for bigger groups of both in-room and remote participants.
+
+Shop now
+
+Neat Pulse
+
+## Neat Pulse: Peace of mind in a heartbeat
+
+Find the support, management, and extended warranty you need for all your Neat devices.
+
+Shop now
+
+Thumbnail of asset available to download below [...] Neat devices simplify hybrid collaboration. They’re easy to set up and use, helping ensure remote and in-person employees are seen and heard equally in meetings. Built on Neat’s AI-powered modular architecture, they create engaging, inclusive spaces where in-room and remote participants feel connected. [...] ## The Buyer’s Guide to Smart Yet Simple Video Collaboration Hardware
+
+Download the ebook
+
+## Neat frequently asked questions
+
+Neat devices are intelligent, simple video collaboration tools powered by Neat’s AI-driven modular architecture. They bring inclusive, high-quality meetings to any space, from home offices to huddle rooms to large conference rooms.",,,0,weak,,general
+4300090,web_result,unknown_date,https://theneatreview.com,THE NEAT REVIEW,"Founded in 2019, THE NEAT REVIEW began as an irregular art journal exploring the crossovers between magic, sleight-of-hand and art. Alongside the journal, our studio has branched out into a dedicated imprint. Each year, we publish a careful, playful offering of essay & photo books on magic techniques and theory.
+
+We are honoured to work with an unparalleled roster of magicians and artists to create our books, live events, editions & objects.
+
+Learn more
+
+1.
+
+Teal Dearmers [...] Menu (Close)
+
+(0)
+
+Founded in 2019, THE NEAT REVIEW began as an irregular art journal exploring the crossovers between magic, sleight-of-hand and art. Alongside the journal, our studio has branched out into a dedicated imprint. Each year, we publish a careful, playful offering of essay & photo books on magic techniques and theory.
+
+We are honoured to work with an unparalleled roster of magicians and artists to create our books, live events, editions & objects.
+
+Read more
+
+1/3
+
+(Featured in) [...] (Featured in)
+
+  
+
+### It's nice that
+
+“…plus some sultrily shot how-to-guides for hand sleights, THE NEAT REVIEW does a great job of making magic community look cool, welcoming and – dare we say it – a little bit sexy.”
+
+  
+
+### Magculture
+
+“The +200-page format and textured, monochrome cover give a satisfying tone, which continues with the strong typography inside… a really fascinating window into the strangely beguiling world of magic — beautifully done.”
+
+  
+
+### Larry Horayne",,,0,weak,,general
+4300090,web_result,unknown_date,https://www.conjuringarchive.com/list/book/1900,"The Neat Review (Alexander Hansford, Various)","The Neat Review by Hansford, Alexander, Various (2019-2023) — 89 entries in the Conjuring Archive. 23 Written by Alexander Hansford, Paperback), 5 Issues",,,0,weak,,general
+4300090,web_result,unknown_date,https://www.vanishingincmagic.com/magician/NEAT-Review,"NEAT Review Magic Tricks, Books","Shop magic by NEAT Review at Vanishing Inc., including available tricks, books, downloads, and teaching.",,,0,weak,,general
+4300090,web_result,unknown_date,https://www.tannens.com/products/neat-review-issue-four,NEAT REVIEW ISSUE FOUR,"Regular price $45.00 ✓ In stock! book on aesthetic philosophy in magic under our NEAT REVIEW imprint, 'Magic as Medium.'",,,0,weak,,general
+4300090,web_result,unknown_date,https://bookscouter.com/publisher/neat-books,All books by NEAT BOOKS publisher,"See the best price to sell, buy or rent books by the NEAT BOOKS publisher. BookScouter helps to compare book prices from 25+ online bookstores and 30+ buyback",,,0,weak,,general
+4300090,web_result,unknown_date,https://theneatreview.com,THE NEAT REVIEW,"Founded in 2019, THE NEAT REVIEW began as an irregular art journal exploring the crossovers between magic, sleight-of-hand and art. Alongside the journal, our studio has branched out into a dedicated imprint. Each year, we publish a careful, playful offering of essay & photo books on magic techniques and theory.
+
+We are honoured to work with an unparalleled roster of magicians and artists to create our books, live events, editions & objects.
+
+Learn more
+
+1.
+
+Teal Dearmers [...] £45.00
+
+The Expert at The Card Table is an extensive book on the art of sleight of hand published in 1902 by S. W. Erdnase, considered to be one of the most influential works on magic & conjuring with cards. This edition, in Japanese, is a collaboration between Tomoya Horiki, Kyohei Tatsukawa, Alexander Hansford and THE NEAT REVIEW.
+
+Pages
+
+160 Pages
+
+Dimensions
+
+176mm x 250mm
+
+Weight
+
+0.55 kg
+
+View product
+
+Next
+
+Shop all
+
+Launch Event
+
+Kez Dearmer: [...] Menu (Close)
+
+(0)
+
+Founded in 2019, THE NEAT REVIEW began as an irregular art journal exploring the crossovers between magic, sleight-of-hand and art. Alongside the journal, our studio has branched out into a dedicated imprint. Each year, we publish a careful, playful offering of essay & photo books on magic techniques and theory.
+
+We are honoured to work with an unparalleled roster of magicians and artists to create our books, live events, editions & objects.
+
+Read more
+
+1/3
+
+(Featured in)",,,0,weak,,general
+4300090,web_result,unknown_date,https://neatmethod.com/products/book,The NEAT Method Organizing Recipe Book,"Created by NEAT Method founders Ashley Murphy and Marissa Hagmeyer, The NEAT Method Organizing Recipe Book is the definitive guide to keeping your home",,,0,weak,,general
+4300090,web_result,unknown_date,https://www.neat.com,Neat,"Featured by leading publications and experts covering business, finance, and technology.
+
+## Ready to get Neat?
+
+Join millions of freelancers and small businesses who stopped chasing receipts and started feeling in control.
+
+Start My Free Trial
+
+Cancel anytime
+
+30-day money-back guarantee
+
+This website uses cookies to improve your experience. By continuing to browse the site, you are agreeing to our use of cookies. Review our Privacy Policy for more details. [...] Paul Washington
+
+Paul WashingtonCEO, Society for Corporate Governance
+
+starstarstarstarstar
+
+Neat is the best system to maintain your files and carry them with you at all times.
+
+Steve Bauer
+
+Steve BauerIndependant Consultant
+
+starstarstarstarstar [...] ### 2M+ users
+
+Millions of freelancers and small business owners rely on Neat to stay organized and tax-ready.
+
+20+ years in business
+
+### 20+ years in business
+
+A trusted platform with decades of experience in expense and document management.
+
+Bank-level encryption
+
+### Bank-level encryption
+
+Your financial data is protected with advanced security standards and secure cloud storage.
+
+Trusted by major media
+
+### Trusted by major media",,,0,weak,,general
+4300090,web_result,unknown_date,https://www.linkedin.com/company/the-neat-company_2,The Neat Company - Neat helps small businesses automate accounting tasks so they can get back to what matters most—growing their business,"## Media
+- Images: 
+- Logo: Company Logo
+
+## Additional  
+Additional jobs info: Engineer (3,574 open jobs). Financial Director (16 open jobs). Data Analyst (7,864 open jobs). Director (6,647 open jobs). Developer (2,250 open jobs). Project Manager (930 open jobs). Analyst (3,088 open jobs). Controller (194 open jobs). Software Engineer (7,232 open jobs). Vice President (17 open jobs). Marketing Director (32 open jobs) [...] with the ability to quickly enter or import and convert document images into a digital data format. Neat helps organize and categorize the data and satisfy business reporting needs related to accounting and taxes. Neat is also a valuable solution for document retention for audit preparedness, provides the ability to create and leverage a variety of spending report and analysis tools, and offers integrations with contact management and marketing automation tools. Learn more at www.neat.com. [...] data entry through award-winning document scanning products. Our evolution has brought The Neat Company into a broader scope with a focus on developing small business software solutions that address a wider set of needs in the ever-changing small business environment. The Neat software platform provides small businesses, particularly those with a high volume of monthly expense transactions with the need to streamline the storage and organization of all business documentation, with the ability",,,0,weak,,general
+4300090,web_result,unknown_date,https://uk.linkedin.com/company/neat-developments-limited,NEAT Developments,"NEAT is a London-based property developer. We deliver large-scale, residentially led, mixed-use developments across Greater London. Partnering with investment managers and institutional funds we utilise a business model that mobilises capital, delivering financially strong, long-term projects and return on investment while helping to increase much needed housing supply. We are genuinely committed to delivering better, higher quality developments, in a progressive, collaborative manner to [...] Awards. Recognising quality homes and sustainable places, these awards celebrate projects that are shaping the future of housing across the UK. NEAT, working closely with Enfield Council and architects Levitt Bernstein Associates has enabled the successful delivery of a scheme of 135 new affordable homes at Upton and Raynham in Edmonton, London. A stand-out example of how successful public-private collaboration can combine creativity and expertise to unlock the viability of a stalled scheme, [...] our developments as products and our focus is always to improve and develop. Our goal is to create exceptional living spaces that are both aspirational and affordable."" - Joe Crawley, Managing Director",,,0,weak,,general
+4300090,web_result,unknown_date,https://find-and-update.company-information.service.gov.uk/company/05827518,NEAT DEVELOPMENTS LIMITED overview - Companies House,"NEAT DEVELOPMENTS LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return,",,,0,weak,,general
+4300090,web_result,unknown_date,https://www.neat.com,The Neat Company,"I've used Neat since 2008, initially for my independent consulting business, and now personally. It's a superb app for receipts, yes I could use Google or Microsoft apps and cloud drives, but it would take too much time. I love Neat and recommend it.
+
+Vic Sprenger
+
+Vic Sprenger2D House Inc.
+
+starstarstarstarstar [...] Paul Washington
+
+Paul WashingtonCEO, Society for Corporate Governance
+
+starstarstarstarstar
+
+Neat is the best system to maintain your files and carry them with you at all times.
+
+Steve Bauer
+
+Steve BauerIndependant Consultant
+
+starstarstarstarstar [...] Neat
+
+PricingSign InTry Neat FREE
+
+Neat User Trust 1
+
+Neat User Trust 2
+
+Neat User Trust 3
+
+starstarstarstarstar
+
+4,200+ 5-star reviews
+
+# Receipts. Expenses. Taxes. Handled
+
+The all-in-one expense management, tax prep, and receipt tracking app built for freelancers and small businesses.
+
+Try Neat For FreeSee How It Works
+
+Cancel anytime
+
+30-day money-back guarantee
+
+Neat App Interface
+
+Mentioned by
+
+Forbes
+
+Wired
+
+TechCrunch
+
+Inc
+
+Entrepreneur
+
+Forbes
+
+Wired
+
+TechCrunch
+
+Inc
+
+Entrepreneur",,,0,weak,,general
+4300090,web_result,unknown_date,https://neat.software/apps,Apps by Neat Software,"Simple, neatly crafted software. Specializing in apps for macOS & iOS. Focused on performance, privacy, and thoughtful UX.",,,0,weak,,general
+4300090,web_result,unknown_date,https://us.neat.no/neat-open-apps,Neat Open Apps,"Neat Open Apps brings a growing ecosystem of business applications, web tools, and custom experiences to Neat devices—extending what your room can do.",,,0,weak,,general

@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-09-11T16:23:28.563257+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260911_161317/rank_changes.csv",
-    "selected_appid": "3947460",
-    "selected_game_title": "Creator Chronicles",
+    "started_at": "2026-09-12T04:11:56.359603+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260912_040129/rank_changes.csv",
+    "selected_appid": "4300090",
+    "selected_game_title": "Neat!",
     "top_n": 1,
-    "old_snapshot_date": "2026-09-08",
-    "new_snapshot_date": "2026-09-11",
+    "old_snapshot_date": "2026-09-09",
+    "new_snapshot_date": "2026-09-12",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-11T16:23:28.563271+00:00",
+    "finished_at": "2026-09-12T04:11:56.359634+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

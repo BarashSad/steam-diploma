@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4300090,Neat!,"""Neat!"" Steam",general,1,tavily,True,,5
+4300090,Neat!,"""Neat!"" trailer",general,1,tavily,True,,5
+4300090,Neat!,"""Neat!"" gameplay",general,1,tavily,True,,3
+4300090,Neat!,"""Neat!"" demo",general,1,tavily,True,,5
+4300090,Neat!,"""Neat!"" release date",general,1,tavily,True,,5
+4300090,Neat!,"""Neat!"" announcement",general,1,tavily,True,,5
+4300090,Neat!,"""Neat!"" preview",general,1,tavily,True,,5
+4300090,Neat!,"""Neat!"" review",general,1,tavily,True,,5
+4300090,Neat!,"""Neat!"" publisher",general,1,tavily,True,,5
+4300090,Neat!,"""Neat!"" developer",general,1,tavily,True,,5
+4300090,Neat!,"site:pcgamer.com ""Neat!""",press,2,tavily,False,General budget exhausted,0
+4300090,Neat!,"site:rockpapershotgun.com ""Neat!""",press,2,tavily,False,General budget exhausted,0
+4300090,Neat!,"site:ign.com ""Neat!""",press,2,tavily,False,General budget exhausted,0
+4300090,Neat!,"site:gamespot.com ""Neat!""",press,2,tavily,False,General budget exhausted,0
+4300090,Neat!,"site:game8.co ""Neat!""",press,2,tavily,False,General budget exhausted,0
+4300090,Neat!,"site:reddit.com ""Neat!""",social,3,tavily,True,,5
+4300090,Neat!,"site:tiktok.com ""Neat!""",social,4,tavily,True,,5
+4300090,Neat!,"site:instagram.com ""Neat!""",social,4,tavily,True,,5
+4300090,Neat!,"site:x.com ""Neat!""",social,4,tavily,True,,5
+4300090,Neat!,"site: ""Neat!""",social,4,tavily,True,,5

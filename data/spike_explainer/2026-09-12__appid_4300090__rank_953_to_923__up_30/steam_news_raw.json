@@ -1,0 +1,162 @@
+{
+    "appnews": {
+        "appid": 4300090,
+        "newsitems": [
+            {
+                "gid": "1841579228664663",
+                "title": "Neat! Release Date & Full Game Details",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228664663",
+                "is_external_url": true,
+                "author": "Molly",
+                "contents": "Hey everyone!First of all, thank you so much for all the wishlists and for playing the demo! Neat! reached over 25k wishlists, and we're incredibly happy to see so many people excited for Neat! Reading your comments kept us going through the final stretch of development. Your feedback truly shaped the game.Release Date: September 14We're happy to announce that Neat! will be releasing on September 14!We can't wait to see you step into Molly's shoes, meet all of her clients, and untangle every mess.Full GameHere's what's coming in the full version:8 hand-crafted locations, each with its own client and its own story told through objects:A grandmother's garden, where Molly's tidying service beginsA neighborhood library after a \"chamber music evening\" that ended as a rock concertA VTuber's streaming room, hours before her first live showA living room the owner swears is hauntedA hikikomori room, he genuinely has everything he'll ever needA single mom's kitchenA Japanese konbini on the night shiftAnd one last space we won't spoil, the most personal one of allSee You on September 14Thank you again for all the support, feedback, and wishlists.",
+                "feedlabel": "Community Announcements",
+                "date": 1787211773,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4300090,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1415716708_1787212474_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1835871199313691",
+                "title": "Demo Patch #2",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313691",
+                "is_external_url": true,
+                "author": "Molly",
+                "contents": "Thank you so much for being with us during Steam Next Fest, and thank you for all your feedback \u2014 it means the world to us.We have a lot of ideas and plans for improvements, and today we're releasing new patch we've been working on over the past week.What's new:Safe Zone added \u2014 you can now freely drop items in the area outside the room when there's no place to put them. This helps avoid soft-locks when you're holding an item and can't place it anywhere.Improved sorting order for items \u2014 overlapping bugs and visual glitches should now be greatly reduced.Interaction zone icons \u2014 doors and interactive items now show icons for their interaction zones, so you can be sure an item won't block a door when you place it.Resolution settings \u2014 you can now change your resolution preferences.Localization fixes.Plus lots of other small fixes and improvements.Thank you again for your support! See you in the next update! ",
+                "feedlabel": "Community Announcements",
+                "date": 1782151872,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4300090
+            },
+            {
+                "gid": "1835236783573873",
+                "title": "Bug fixes - version 0.43",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783573873",
+                "is_external_url": true,
+                "author": "Molly",
+                "contents": "Fixes:Bug with placement (magazines)Polish localization",
+                "feedlabel": "Community Announcements",
+                "date": 1781607848,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4300090,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1835236783570674",
+                "title": "Bug fixes - version 0.42",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783570674",
+                "is_external_url": true,
+                "author": "Molly",
+                "contents": "Fixes:Bug with item placement (Konbini)Bug with magazines previewVisual bug with vertical item placement (Kitchen)Visual bug with sugar and coffee standAdded stacking for frozen vegetablesMinor localization fixes",
+                "feedlabel": "Community Announcements",
+                "date": 1781535907,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4300090,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1835236783561374",
+                "title": "Demo Patch #1",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783561374",
+                "is_external_url": true,
+                "author": "Molly",
+                "contents": "It's been a week since demo release, and over 1,000 players have tried Neat!Thank you all for the feedback and support. We plan to update the demo continuously up until release, so expect more patches on the way.Today's patch focuses on quality-of-life improvements, bug fixes, and a partly new UI.More stacking! We heard you love stacking items, so we added more ways to do it. If you feel like something should stack but doesn't \u2014 let us know.New UI for quests and dialogues. This is the first step toward a fully refreshed UI.Fixed the language selector. Last patch we accidentally broke localization, and some of you couldn't select your preferred language. That's fixed now \u2014 sorry about that!Less chaos at the start. We heard the levels could feel overwhelming, so we've rebalanced things slightly and added more items to the starting boxes. Let us know how it feels now.Thanks for playing, and keep the feedback coming! \ud83d\udc9b",
+                "feedlabel": "Community Announcements",
+                "date": 1781199892,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4300090
+            },
+            {
+                "gid": "1834602721198799",
+                "title": "The Neat Demo is Live \u2014 See You at Steam Next Fest!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721198799",
+                "is_external_url": true,
+                "author": "Molly",
+                "contents": "Huge thanks to all the playtesters who reported bugs and pointed out what worked and what didn't. Your feedback shaped this demo, and we couldn't have shipped it without you.We're already preparing one more patch before the festival, landing in the coming days \u2014 focused on bug fixes, a UI update, and a handful of other improvements.Thank you for joining us on this journey and for all the kind words along the way. We truly appreciate every bit of your feedback and support. \ud83d\udc9b",
+                "feedlabel": "Community Announcements",
+                "date": 1780923561,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4300090
+            },
+            {
+                "gid": "1833968530891898",
+                "title": "Tooltips, Gamepad Support, New Quests & More",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891898",
+                "is_external_url": true,
+                "author": "Molly",
+                "contents": "Hey everyone! We've been heads-down working on some big changes, and here's what's new:Tooltips & Tags Hover over any item and you'll now see its name and a set of tags that hint at where it might belong. Think of them as gentle nudges \u2014 not rules, just ideas. We'll be expanding the tag set over time.Gamepad & Steam Deck Support You can now play Neat with a controller. Steam Deck players, this one's for you.Quests Rethought Quests no longer tell you exactly where to put something. You decide. The goal is still to tidy up \u2014 how you do it is up to you. Old quests have been updated to match this new philosophy.Skip Tutorial Option For our most dedicated playtesters who've been with us since the beginning \u2014 you can now skip the tutorial. You've earned it.New Items Fresh items added to the kitchen and konbini, including ice cream.A note on the shop and inventoryWe're removing them. They were fun to build and fun to play with, but right now we want to focus our energy on the parts of Neat that feel the most satisfying. The shop and inventory aren't gone forever \u2014 we just need to be honest about where our attention should be. Thanks for understanding.As always, leave feedback in the discussions. Every playtest helps.Share feedback: Discord",
+                "feedlabel": "Community Announcements",
+                "date": 1780076307,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4300090
+            },
+            {
+                "gid": "1833334318572487",
+                "title": "New Playtest Level \u2014 Konbini 6-7",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318572487",
+                "is_external_url": true,
+                "author": "Molly",
+                "contents": "A new level is in the playtest build: a Japanese konbini at five in the morning.Yuki, a university student on the night shift, fell asleep mid-study session. The delivery boxes are still sealed. The coffee station is in pieces. Nothing is on the shelves. The store opens in an hour, and if the manager sees it like this, Yuki is finished.Don't forget to drop you comments and feedback!Discord",
+                "feedlabel": "Community Announcements",
+                "date": 1779472423,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4300090
+            },
+            {
+                "gid": "1830797770237042",
+                "title": "Neat Playtest Patch #1 \u2014 Doors \ud83d\udeaa",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770237042",
+                "is_external_url": true,
+                "author": "Molly",
+                "contents": "Just a week ago we launched the playtest, and since then we\u2019ve received tons of feedback, bug reports, suggestions, and just kind words \u2014 thank you, seriously.We\u2019re pushing regular updates to improve the experience and address your feedback as fast as possible.Today\u2019s update is all about Doors \u2014 easily the most discussed feature this week. So we went deep on fixing and improving them. If something still feels off \u2014 tell us.DoorsDoors now won\u2019t open if something is blocking them \u2192 The door and blocking object will highlight in red \u2192 Just move the item to unblock itAdded proper sliding animations for boxes \u2192 If it should slide, it now actually slidesImproved open/close interaction triggers \u2192 It should now feel much clearer when you\u2019re interacting with a doorUpdated cursor highlighting \u2192 Easier to understand what\u2019s interactiveOther FixesCutlery Organizer \u2192 Reduced pixel hunting when placing items \u2192 Still too tricky? Let us know \u2014 we\u2019re tuning itAdded more localizationsUpdated win notification \u2192 No longer interrupts cleaning \u2192 Clearer indication that the level is completeLots of small fixes and improvementsArt / What\u2019s NextNew level coming soon: Konbini \u2192 We\u2019re already working on it \u2192 Would love your ideas \u2014 what items should be there?",
+                "feedlabel": "Community Announcements",
+                "date": 1777053675,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4300090
+            },
+            {
+                "gid": "1830163047260854",
+                "title": "Neat Playtest is Live",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260854",
+                "is_external_url": true,
+                "author": "moopunkgames",
+                "contents": "The Neat playtest is live.After months of heads-down work, we're opening the doors. Starting today, you can play Neat.How to joinHead to the Neat Steam page and hit the green \"Request Access\" button on the playtest widget. We're approving requests in waves throughout the day \u2014 if you don't see an invite immediately, hang tight. You'll get one. Already in? Just launch from your library.What's in this buildThe first level: the Kitchen. More levels are on the way in future updates \u2014 this build is where we find out what's working before we build out the rest of the world.We want your feedback \u2014 especially the uncomfortable kindWhere to send itBug reports and general feedback: Discord (Join right now to apply special role)Clips and screenshots: post them anywhere, tag us, we'll see themHow long it runsThe playtest is open through end of May. We'll ship the updates on what we're hearing from you.Thank you",
+                "feedlabel": "Community Announcements",
+                "date": 1776445027,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4300090
+            },
+            {
+                "gid": "1828441623112922",
+                "title": "Hello world!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623112922",
+                "is_external_url": true,
+                "author": "moopunkgames",
+                "contents": "Today is a big day for us. We're officially announcing the game and revealing our first trailer. Go check it out!But that's not all. Today also marks Day One of our Development Diaries. Starting very soon, we'll be bringing you weekly snapshots of our development journey \u2014 behind-the-scenes looks at how Neat! is being made, the decisions we're wrestling with, and all the cool stuff we can't wait to show you.Stay tuned \u2014 there's a lot more coming.Follow us:Discord: https://discord.gg/Nb5PCpRmw8Twitter/X: https://x.com/NeatthegameTikTok: https://www.tiktok.com/@neatthegameInstagram: https://www.instagram.com/neatthegame/",
+                "feedlabel": "Community Announcements",
+                "date": 1774977952,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4300090
+            }
+        ],
+        "count": 11
+    }
+}
