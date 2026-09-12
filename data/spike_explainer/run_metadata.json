@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-09-12T04:11:56.359603+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260912_040129/rank_changes.csv",
-    "selected_appid": "4300090",
-    "selected_game_title": "Neat!",
+    "started_at": "2026-09-12T15:29:48.486065+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260912_152014/rank_changes.csv",
+    "selected_appid": "4416300",
+    "selected_game_title": "Yu-Gi-Oh! TAG FORCE GX",
     "top_n": 1,
     "old_snapshot_date": "2026-09-09",
     "new_snapshot_date": "2026-09-12",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-12T04:11:56.359634+00:00",
+    "finished_at": "2026-09-12T15:29:48.486082+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

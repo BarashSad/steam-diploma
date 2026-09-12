@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Neat!
+Analyzed: Yu-Gi-Oh! TAG FORCE GX
 Tavily Budget Used: 15
 Errors: 0

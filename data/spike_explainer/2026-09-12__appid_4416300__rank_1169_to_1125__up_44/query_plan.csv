@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4416300,Yu-Gi-Oh! TAG FORCE GX,"""Yu-Gi-Oh! TAG FORCE GX"" Steam",general,1,tavily,True,,2
+4416300,Yu-Gi-Oh! TAG FORCE GX,"""Yu-Gi-Oh! TAG FORCE GX"" trailer",general,1,tavily,True,,5
+4416300,Yu-Gi-Oh! TAG FORCE GX,"""Yu-Gi-Oh! TAG FORCE GX"" gameplay",general,1,tavily,True,,2
+4416300,Yu-Gi-Oh! TAG FORCE GX,"""Yu-Gi-Oh! TAG FORCE GX"" demo",general,1,tavily,True,,5
+4416300,Yu-Gi-Oh! TAG FORCE GX,"""Yu-Gi-Oh! TAG FORCE GX"" release date",general,1,tavily,True,,5
+4416300,Yu-Gi-Oh! TAG FORCE GX,"""Yu-Gi-Oh! TAG FORCE GX"" announcement",general,1,tavily,True,,5
+4416300,Yu-Gi-Oh! TAG FORCE GX,"""Yu-Gi-Oh! TAG FORCE GX"" preview",general,1,tavily,True,,5
+4416300,Yu-Gi-Oh! TAG FORCE GX,"""Yu-Gi-Oh! TAG FORCE GX"" review",general,1,tavily,True,,5
+4416300,Yu-Gi-Oh! TAG FORCE GX,"""Yu-Gi-Oh! TAG FORCE GX"" publisher",general,1,tavily,True,,5
+4416300,Yu-Gi-Oh! TAG FORCE GX,"""Yu-Gi-Oh! TAG FORCE GX"" developer",general,1,tavily,True,,5
+4416300,Yu-Gi-Oh! TAG FORCE GX,"site:pcgamer.com ""Yu-Gi-Oh! TAG FORCE GX""",press,2,tavily,False,General budget exhausted,0
+4416300,Yu-Gi-Oh! TAG FORCE GX,"site:rockpapershotgun.com ""Yu-Gi-Oh! TAG FORCE GX""",press,2,tavily,False,General budget exhausted,0
+4416300,Yu-Gi-Oh! TAG FORCE GX,"site:ign.com ""Yu-Gi-Oh! TAG FORCE GX""",press,2,tavily,False,General budget exhausted,0
+4416300,Yu-Gi-Oh! TAG FORCE GX,"site:gamespot.com ""Yu-Gi-Oh! TAG FORCE GX""",press,2,tavily,False,General budget exhausted,0
+4416300,Yu-Gi-Oh! TAG FORCE GX,"site:game8.co ""Yu-Gi-Oh! TAG FORCE GX""",press,2,tavily,False,General budget exhausted,0
+4416300,Yu-Gi-Oh! TAG FORCE GX,"site:reddit.com ""Yu-Gi-Oh! TAG FORCE GX""",social,3,tavily,True,,5
+4416300,Yu-Gi-Oh! TAG FORCE GX,"site:tiktok.com ""Yu-Gi-Oh! TAG FORCE GX""",social,4,tavily,True,,5
+4416300,Yu-Gi-Oh! TAG FORCE GX,"site:instagram.com ""Yu-Gi-Oh! TAG FORCE GX""",social,4,tavily,True,,5
+4416300,Yu-Gi-Oh! TAG FORCE GX,"site:x.com ""Yu-Gi-Oh! TAG FORCE GX""",social,4,tavily,True,,5
+4416300,Yu-Gi-Oh! TAG FORCE GX,"site: ""Yu-Gi-Oh! TAG FORCE GX""",social,4,tavily,True,,5
