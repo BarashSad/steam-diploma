@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-09-12T15:29:48.486065+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260912_152014/rank_changes.csv",
-    "selected_appid": "4416300",
-    "selected_game_title": "Yu-Gi-Oh! TAG FORCE GX",
+    "started_at": "2026-09-13T16:06:55.183665+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260913_155656/rank_changes.csv",
+    "selected_appid": "4538140",
+    "selected_game_title": "Rehaunted",
     "top_n": 1,
-    "old_snapshot_date": "2026-09-09",
-    "new_snapshot_date": "2026-09-12",
+    "old_snapshot_date": "2026-09-10",
+    "new_snapshot_date": "2026-09-13",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-12T15:29:48.486082+00:00",
+    "finished_at": "2026-09-13T16:06:55.183679+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

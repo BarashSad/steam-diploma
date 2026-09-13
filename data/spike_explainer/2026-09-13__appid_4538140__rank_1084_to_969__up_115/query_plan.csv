@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4538140,Rehaunted,"""Rehaunted"" Steam",general,1,tavily,True,,2
+4538140,Rehaunted,"""Rehaunted"" trailer",general,1,tavily,True,,5
+4538140,Rehaunted,"""Rehaunted"" gameplay",general,1,tavily,True,,5
+4538140,Rehaunted,"""Rehaunted"" demo",general,1,tavily,True,,5
+4538140,Rehaunted,"""Rehaunted"" release date",general,1,tavily,True,,5
+4538140,Rehaunted,"""Rehaunted"" announcement",general,1,tavily,True,,5
+4538140,Rehaunted,"""Rehaunted"" preview",general,1,tavily,True,,5
+4538140,Rehaunted,"""Rehaunted"" review",general,1,tavily,True,,5
+4538140,Rehaunted,"""Rehaunted"" publisher",general,1,tavily,True,,5
+4538140,Rehaunted,"""Rehaunted"" developer",general,1,tavily,True,,1
+4538140,Rehaunted,"site:pcgamer.com ""Rehaunted""",press,2,tavily,False,General budget exhausted,0
+4538140,Rehaunted,"site:rockpapershotgun.com ""Rehaunted""",press,2,tavily,False,General budget exhausted,0
+4538140,Rehaunted,"site:ign.com ""Rehaunted""",press,2,tavily,False,General budget exhausted,0
+4538140,Rehaunted,"site:gamespot.com ""Rehaunted""",press,2,tavily,False,General budget exhausted,0
+4538140,Rehaunted,"site:game8.co ""Rehaunted""",press,2,tavily,False,General budget exhausted,0
+4538140,Rehaunted,"site:reddit.com ""Rehaunted""",social,3,tavily,True,,5
+4538140,Rehaunted,"site:tiktok.com ""Rehaunted""",social,4,tavily,True,,5
+4538140,Rehaunted,"site:instagram.com ""Rehaunted""",social,4,tavily,True,,5
+4538140,Rehaunted,"site:x.com ""Rehaunted""",social,4,tavily,True,,5
+4538140,Rehaunted,"site: ""Rehaunted""",social,4,tavily,True,,5
