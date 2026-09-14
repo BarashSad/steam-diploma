@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-14T18:07:59.218889+00:00",
+    "timestamp": "20260914_180759",
+    "input_file": "data/spike_explainer/2026-09-14__appid_5072600__rank_841_to_733__up_108/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-14__appid_5072600__rank_841_to_733__up_108/llm_outputs/gemini_20260914_180759.md",
+    "game_title": "Family Time",
+    "appid": "5072600",
+    "duration_sec": 19.54,
+    "response_length": 4911,
+    "error": null
+}
