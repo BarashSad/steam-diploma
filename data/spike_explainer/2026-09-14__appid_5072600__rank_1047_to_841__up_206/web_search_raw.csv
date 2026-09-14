@@ -1,0 +1,959 @@
+appid,query,query_group,query_priority,provider,tavily_search_depth,budget_query_number,url,title,snippet,date_classification,evidence_type
+5072600,"""Family Time"" Steam",general,1,tavily,basic,1,https://store.steampowered.com/news/app/593110/view/4605582245626919823,Steam News - Steam Families is here - Steam News,"Steam Families includes new parental controls that allow parents to set limits on what and when children play games on Steam. You can control which games your children have access to and monitor their activity. This information is available from wherever you access Steam, including your mobile device when you are away from home. [...] Of course! Let's say that you are in a family with 4 members and that you own a copy of Portal 2 and a copy of Half-Life. At any time, any one member can play Portal 2 and another can play Half-Life. If two of you would like to play Portal 2 at the same time, someone else in the family will need to purchase a copy of the game. After that purchase, there are two owned copies of Portal 2 across the family and any two members can play at the same time. [...] ## Family Sharing
+
+When you join a Steam Family, you automatically gain access to the shareable games that your family members own and they will also be able to access the shareable titles in your library. The next time you log in to Steam, this new 'family library' will appear in the left column as a subsection of your games list. You maintain ownership of your current titles and when you purchase a new game it will still show up in your collection.",unknown_date,web_result
+5072600,"""Family Time"" Steam",general,1,tavily,basic,1,https://help.steampowered.com/en/faqs/view/054C-3167-DD7F-49D4,Steam Support :: Steam Families User Guide & FAQ,"Ability to play a family member’s game simultaneously, even if another game is being played.
+
+Parental Controls:
+
+    Manage game access and monitor activity from anywhere.
+
+    Two roles: adult (can manage invites and restrictions) and child (subject to parental controls).
+
+    Features include game access permissions, Steam Store/community/chat restrictions, playtime limits, playtime reports, requests approval for additional playtime/feature access, and account recovery for children. [...] Of course! Let's say that you are in a family with 4 members and that you own a copy of Portal 2 and a copy of Half-Life. At any time, any one member can play Portal 2 and another can play Half-Life. If two of you would like to play Portal 2 at the same time, someone else in the family will need to purchase a copy of the game. After that purchase, there are two owned copies of Portal 2 across the family and any two members can play at the same time. [...] Steam Families are intended to contain your immediate family. As who you include in your immediate family can change over time due to growing up, marriage or other events, it is understandable that some day you may need to change to a new Steam Family. Adults can leave a family at any time, however, they will need to wait 1 year from when they joined the previous family to create or join a new family.",unknown_date,web_result
+5072600,"""Family Time"" Steam",general,1,tavily,basic,1,https://www.internetmatters.org/parental-controls/gaming-consoles/steam,Steam platform safety guide for parents | Internet Matters,"Family Management is a parental controls tool available within the Steam client. You can add up to 6 members (including yourself) to a Family as either an adult or child.
+
+#### To set up Family Management:
+
+Step 1 – Make sure both you and your child have Steam accounts with accurate birthdays. Then open up the Steam client with your account.
+
+Screenshot of Steam launcher home (store) screen.
+
+Step 2 – Click Steam in the top left corner and then Settings. [...] Screenshot of Family Management set up screen on Steam.
+
+### Adding a child to your Steam Family
+
+To customise the games your child can play, manage their screen time and restrict inappropriate content, you must add your child to your Family on Steam.
+
+#### To add your child’s account:
+
+Step 1 – Make sure your child is on your Friends list. Once you’ve created your Family, click Invite a Member.
+
+Screenshot of the Family Management screen on Steam with 'Invite a member' highlighted. [...] Screenshot of Steam client with the Settings menu highlighted.
+
+Step 3 – Click Family and then Create or Join a Steam Family.
+
+Screenshot of Settings menu in Steam with Family highlighted.
+
+Step 4 – Click CREATE A FAMILY and then enter a name to represent your family.
+
+Note: If you have not made any purchases on Steam, you might see a message about having a limited account, which disallows you from creating a Family. If this happens, a quick fix is to add some money to your account.",unknown_date,web_result
+5072600,"""Family Time"" Steam",general,1,tavily,basic,1,https://www.youtube.com/watch?v=WKUy8t3FJi8,How To Use Steam Family - Share Games With Household,"accept to accept the friend request. Then you go back to your STEAM account on
+the desktop app, click on your username in the upper right hand corner, go to account
+details here where your username is, and then you'll see something on the left
+hand side that says family management. Click on family management and
+you want to create a family. Click on that button there. Go ahead and give the family a name. So I will give mine a
+name and go to create. And then you can see this is [...] left hand corner and go to. Add friend. Make sure you have your family member
+share with you what their friend code is. Enter that friend code here
+and they'll accept your friend request and you're good to go. Your family member will see a notification
+in the upper right hand corner. Click on the friend request here. They may have to set up a
+STEAM profile if they haven't already, so have them do that. Then just go in here and click [...] 17 comments
+### Transcript:
+In this video tutorial, I'm going
+to show you how to set up a STEAM family, which allows you to share
+your entire STEAM library with up to five household family members. So first things first. The person that you're wanting
+to add to your STEAM family has to be a friend of yours on Steam. And in order to add friends, go to the
+STEAM app like you see me doing here. Go to friends in the upper",unknown_date,web_result
+5072600,"""Family Time"" Steam",general,1,tavily,basic,1,https://www.youtube.com/watch?v=b248W74jcFc,Introducing Steam Families,"# Introducing Steam Families
+## Channel: Steam (verified)
+242K subscribers
+36K likes
+
+### Description
+867,709 views
+Posted: 2024-09-11
+Steam Families is a collection of new and existing family-related features, giving you a single location to manage which games your family can access and when they can play. Learn more at [...] [0:49] setting playtime limits, viewing activity reports, and recovering a child's account if they forget their password.
+[0:56] Children can now request that an adult Steam Family member pay for items in their shopping cart.
+[1:01] Adults can approve and pay for the purchase conveniently from their mobile device or email. Here are a few other details to wrap things up. [...] ### Transcript
+[0:00] Welcome to the new Steam Families.
+[0:02] Steam Families is a collection of features including game sharing, parental controls, and purchase requests.
+[0:10] A Steam Family can be created with up to five other members of a household. A Steam Family can be managed from anywhere you use Steam.
+[0:21] Game sharing allows all members of a Steam Family to share their library of games with each other.",unknown_date,web_result
+5072600,"""Family Time"" trailer",general,1,tavily,basic,2,https://www.youtube.com/watch?v=QygSmOeKbJU,Family Time S01 - Trailer,Anthony and Lisa Stallworth are the parents of a working-class family who suddenly get bumped to the middle-class by a winning lottery ticket.,unknown_date,web_result
+5072600,"""Family Time"" trailer",general,1,tavily,basic,2,https://mubi.com/en/films/family-time-2023/trailer,TRAILER - Family Time (2023),"A humorous and sharp study on family relations: on how we try to find connection, but don't always succeed, especially at Christmas.",unknown_date,web_result
+5072600,"""Family Time"" trailer",general,1,tavily,basic,2,https://www.youtube.com/watch?v=RizyGnn-_lY,Family Time (2023) | Trailer | Tia Kouvo | Tom Wentzel,Family Time (2023) | Trailer | Tia Kouvo | Tom Wentzel | Leena Uotila | Elina Knihtilä @TheMatchFactory56 likes33K views3 years ago,unknown_date,web_result
+5072600,"""Family Time"" trailer",general,1,tavily,basic,2,https://www.youtube.com/playlist?list=PLreXyMA8japYJKOctxvVlLwcV2Es9Wtqy,Family Time,#FamilyTime returns to Bounce with an all-new season #FamilyTime Season 6 Press Trailer Bounce 24K views,unknown_date,web_result
+5072600,"""Family Time"" trailer",general,1,tavily,basic,2,https://www.screendaily.com/news/first-trailer-for-tia-kouvos-berlinale-encounters-title-family-time-exclusive/5178649.article,First trailer for Tia Kouvo's Berlinale Encounters title 'Family ...,Tia Kouvo's debut feature follows an annual family Christmas get-together that sees the usual tensions rise.,unknown_date,web_result
+5072600,"""Family Time"" gameplay",general,1,tavily,basic,3,https://sgthale.itch.io/family-time,Family Time by sgthale,"View all by sgthalesgthale
+ Follow sgthaleFollowFollowing sgthaleFollowing
+ Add To CollectionCollection
+ Community
+ Devlog
+
+Family Time
+
+# Family Time
+
+A downloadable game
+
+In heavy development!
+
+Take care of literal thousands of wolf children! Game uses novel GPU tech to push Unity past its limits.
+
+Check out the development blogs at 
+
+More information) [...] More information)
+
+|  |  |
+ --- |
+| Updated | 6 days ago |
+| Status | Released |
+| Rating | Rated 5.0 out of 5 stars (6 total ratings) |
+| Author | sgthale |
+| Genre | Simulation, Role Playing |
+| Tags | Animals, Anime, Cozy, Cute, Physics, Singleplayer, Slice Of Life, Unity |
+| AI Disclosure | AI Assisted, Code |
+
+## Development log
+
+ Family Time DevBlog 8/01/26 - Building and Sleeping!
+
+  6 days ago
+ Family Time DevBlog 7/15/26 - Commands And Digging! [...] by Hraezlyrrr · 2 posts
+
+2d
+
+Can they call us something else?
+
+by gigglychuddily47 · 1 post
+
+5d
+
+Potential map size expansion
+
+by texas\_militia · 2 posts
+
+5d
+
+If Family Time is Peak, It has to have mobile 😭
+
+by Ryommenn · 1 post
+
+5d
+
+Ask to download
+
+by nguyensouthern · 3 posts
+
+6d
+
+is there going to be a mutliplayer mode?
+
+by ICAice · 3 posts
+
+6d
+
+Post a new topicView all posts
+
+·Embed;)·
+
+Updated 6 days ago
+
+Games › Simulation › Free",unknown_date,web_result
+5072600,"""Family Time"" gameplay",general,1,tavily,basic,3,https://www.tiktok.com/@thegameroom_tgr/video/7677173757546384658,funny family simulator (Game of the Year 2026?),"Lead Family Time is a lighthearted family simulator getting attention in 2026 for its simple, silly interactions.",unknown_date,web_result
+5072600,"""Family Time"" gameplay",general,1,tavily,basic,3,https://www.youtube.com/watch?v=Hy56ql96xAU,"Family Time, Announcement!","This is your child. That one, too. And those two. And all of these other ones. But, how did you get here? Papa. Well, you were walking in the wild when suddenly a kimono attacked you. You fought your hardest, but she won. Papa. Naturally, you were cast out from society. And now you must survive in the wild. And that was the exposition for Family Time. Papa. It's a new game I'm working on. Still just barely starting, but there is plenty of cool tech, modeling, and art that I make videos about [...] # Family Time, Announcement!
+## sgthale - Indie Dev!
+91900 subscribers
+66783 likes
+
+### Description
+1078502 views
+Posted: 24 Jun 2026 [...] I make videos about over on my Patreon. If you're interested, stop by.",unknown_date,web_result
+5072600,"""Family Time"" gameplay",general,1,tavily,basic,3,https://store.steampowered.com/app/5072600/Family_Time,Family Time on Steam,"Build a family with thousands of wolf children with your own wolf partner! Casual, Indie, Simulation. Build houses for them, or command them to build them for",unknown_date,web_result
+5072600,"""Family Time"" gameplay",general,1,tavily,basic,3,https://www.youtube.com/watch?v=PtlE_h6EqOE,I'M A FATHER?!?!?!?! | Family Time Tech Demo 1,"Family Time Tech Demo 1 ・ cute musical noises ・ full game comes out how cute. This ""Wholesome"" Game gets WEIRD",unknown_date,web_result
+5072600,"""Family Time"" demo",general,1,tavily,basic,4,https://en.wikipedia.org/wiki/Family_Time_(TV_series),Family Time (TV series) - Wikipedia,"Family Time is an American television sitcom that was created by Bentley Kyle Evans, and aired on Bounce TV from June 18, 2012, to December 16, 2020. It stars Omar Gooding and Angell Conwell as Anthony and Lisa Stallworth, a working-class family bumped to the middle class by a winning lottery ticket. It was the first original series for the network. [...] The first season has six episodes and aired in the summer of 2012. The 10-episode second season aired from October 14, 2014, to December 14, 2014. On May 7, 2015, the series was renewed for a third season that aired from October 6, 2015, to December 8, 2015. On April 13, 2016, the show was renewed for a fourth season, airing from October 4, 2016, to December 27, 2016. On August 3, 2017, the show was renewed for a fifth season, that premiered on October 3, 2017. The series was renewed for a [...] | Production companies |  Bent Outta Shape Productions  3G Films  Harvest Studios  Bounce Original Production |
+| Original release |
+| Network | Bounce TV |
+| Release | June 18, 2012 (2012-06-18) – December 16, 2020 (2020-12-16) |",unknown_date,web_result
+5072600,"""Family Time"" demo",general,1,tavily,basic,4,https://sgthale.itch.io/family-time,Family Time by sgthale - itch.io,"View all by sgthalesgthale
+ Follow sgthaleFollowFollowing sgthaleFollowing
+ Add To CollectionCollection
+ Community
+ Devlog
+
+Family Time
+
+# Family Time
+
+A downloadable game
+
+In heavy development!
+
+Take care of literal thousands of wolf children! Game uses novel GPU tech to push Unity past its limits.
+
+Check out the development blogs at 
+
+More information) [...] More information)
+
+|  |  |
+ --- |
+| Updated | 6 days ago |
+| Status | Released |
+| Rating | Rated 5.0 out of 5 stars (6 total ratings) |
+| Author | sgthale |
+| Genre | Simulation, Role Playing |
+| Tags | Animals, Anime, Cozy, Cute, Physics, Singleplayer, Slice Of Life, Unity |
+| AI Disclosure | AI Assisted, Code |
+
+## Development log
+
+ Family Time DevBlog 8/01/26 - Building and Sleeping!
+
+  6 days ago
+ Family Time DevBlog 7/15/26 - Commands And Digging! [...] 13 days ago
+ Family Time DevBlog 7/11/26 - Uppies and Food Mechanics!
+
+  20 days ago
+ Family Time DevBlog 7/10/26 - Chickens and Hunger!
+
+  27 days ago
+ Family Time DevBlog 7/10/26 - Uppies and Food Mechanics!
+
+  62 days ago
+ Family Time DevBlog 7/3/26 - Chickens and Hunger!
+
+  69 days ago
+
+## Community
+
+Will this game eventually become an porn game?
+
+by QQ602706873 · 1 post
+
+5h
+
+Tips for the developer
+
+by Rayner1352 · 6 posts
+
+11h
+
+Can't wait for the game to be released. It looks so cute!",unknown_date,web_result
+5072600,"""Family Time"" demo",general,1,tavily,basic,4,https://www.bouncetv.com/show/family-time/21528,Bounce - Family Time,"X
+
+Family Time follows the lives of the Stallworth family who relocated to the suburbs after hitting the lottery. High school sweethearts Tony (Omar Gooding) and Lisa (Angell Conwell) lovingly quarrel with each other and their mischievous children, Devin and Ebony, as they make up their own rules for love, marriage and family along the way.
+
+X
+
+‹ Previous
+
+### Omar Gooding [...] Skip to content
+
+NCIS: Los Angeles
+
+The Jennifer Hudson Show
+
+Family Feud Favorites
+
+Saints & Sinners
+
+In the Heat of the Night
+
+Paternity Court
+
+Sherri
+
+Karamo
+
+Tamron Hall
+
+Couples Court
+
+Xernona Clayton: A Life In Black & White
+
+Last Call
+
+Mann & Wife
+
+The Bernie Mac Show
+
+Ed Gordon
+
+ About
+ Cast
+ Upcoming
+
+X [...] Behind the Scenes with Arnez J.
+
+Behind the Scenes with Donovan Carter
+
+Behind the Scenes with Kool Moe
+
+Behind The Scenes with La'Myia Good
+
+Behind The Scenes with Melissa de Sousa
+
+ About
+ Pressroom
+ Privacy Policy
+ Privacy Center
+ Privacy Preferences
+ Terms of Use
+ Contact Us
+
+© Bounce Media, LLC, part of The E.W. Scripps Company. All Rights Reserved.   
+ Do Not Sell My Info",unknown_date,web_result
+5072600,"""Family Time"" demo",general,1,tavily,basic,4,https://www.youtube.com/watch?v=Hy56ql96xAU,"Family Time, Announcement!","This is your child. That one, too. And those two. And all of these other ones. But, how did you get here? Papa. Well, you were walking in the wild when suddenly a kimono attacked you. You fought your hardest, but she won. Papa. Naturally, you were cast out from society. And now you must survive in the wild. And that was the exposition for Family Time. Papa. It's a new game I'm working on. Still just barely starting, but there is plenty of cool tech, modeling, and art that I make videos about [...] I make videos about over on my Patreon. If you're interested, stop by. [...] # Family Time, Announcement!
+## sgthale - Indie Dev!
+91900 subscribers
+66783 likes
+
+### Description
+1078502 views
+Posted: 24 Jun 2026",unknown_date,web_result
+5072600,"""Family Time"" demo",general,1,tavily,basic,4,https://store.steampowered.com/app/5072600/Family_Time,Family Time on Steam,"Build a family with thousands of wolf children with your own wolf partner! Build houses for them, or command them to build them for you!",unknown_date,web_result
+5072600,"""Family Time"" release date",general,1,tavily,basic,5,https://www.imdb.com/title/tt2163354,Family Time (TV Series 2012,"Release date · June 18, 2012 (United States) · Country of origin. United States · Language. English · Also known as. Время с семьёй · See more company credits at",unknown_date,web_result
+5072600,"""Family Time"" release date",general,1,tavily,basic,5,https://en.wikipedia.org/wiki/Family_Time_(TV_series),Family Time (TV series),"| Production companies |  Bent Outta Shape Productions  3G Films  Harvest Studios  Bounce Original Production |
+| Original release |
+| Network | Bounce TV |
+| Release | June 18, 2012 (2012-06-18) – December 16, 2020 (2020-12-16) | [...] | Season | Episodes | Originally released |
+ --- 
+| First released | Last released |
+| 1) | 6 | June 18, 2012 (2012-06-18) | July 23, 2012 (2012-07-23) |
+| 2) | 10 | October 14, 2014 (2014-10-14) | December 14, 2014 (2014-12-14) |
+| 3) | 10 | October 6, 2015 (2015-10-06) | December 8, 2015 (2015-12-08) |
+| 4) | 13 | October 4, 2016 (2016-10-04) | December 27, 2016 (2016-12-27) |
+| 5) | 13 | October 2, 2017 (2017-10-02) | December 18, 2017 (2017-12-18) | [...] Family Time is an American television sitcom that was created by Bentley Kyle Evans, and aired on Bounce TV from June 18, 2012, to December 16, 2020. It stars Omar Gooding and Angell Conwell as Anthony and Lisa Stallworth, a working-class family bumped to the middle class by a winning lottery ticket. It was the first original series for the network.",unknown_date,web_result
+5072600,"""Family Time"" release date",general,1,tavily,basic,5,https://tvseriesfinale.com/tv-show/family-time,"Family Time TV Show on Bounce TV (Cancelled or Renewed?) - canceled + renewed TV shows, ratings - TV Series Finale","# canceled + renewed TV shows, ratings - TV Series Finale
+
+canceled + renewed TV shows, ratings - TV Series Finale
+
+# Family Time
+
+Family Time TV show on Bounce TV: canceled or renewed?
+
+Family Time TV show on Bounce TV: canceled or renewed?
+
+Network: Bounce TV.   
+Episodes: Ongoing (half-hour).   
+Seasons: Ongoing.
+
+TV show dates: June 18,2 012 — present.   
+Series status: Has not been cancelled. [...] ##### In the Cut: Season Five: Bounce Barbershop Comedy Series Returns
+
+Family Time TV show on Bounce TV: canceled or renewed?
+
+##### Family Time: Season Six; Bounce Sitcom Returning in October
+
+Grown Folks TV show on Bounce: canceled or season 2? (release date); Vulture Watch
+
+##### Family Time, Grown Folks: Ratings for Bounce TV Shows Are Up
+
+Grown Folks TV show on Bounce: canceled or renewed?
+
+##### Grown Folks
+
+Living Single TV show on FOX: canceled or renewed? [...] ##### Living Single, Family Time, Grown Folks: Bounce TV Announces Fall Premieres
+
+Bounce TV logo
+
+##### Grown Folks: Bounce Orders New Sitcom for This Fall
+
+In the Cut TV show on Bounce TV: canceled or renewed?
+
+##### Saints & Sinners, Family Time, In the Cut: Bounce TV Shows Renewed
+
+##### Family Time: Bounce TV Comedy Series Returns Next Week
+
+In the Cut TV show on Bounce TV: season 2 (canceled or renewed?).
+
+##### In the Cut: Bounce Series Adds Bernie Mac Show Vet; Premieres July 5th",unknown_date,web_result
+5072600,"""Family Time"" release date",general,1,tavily,basic,5,https://www.facebook.com/BounceTV/videos/family-time-is-back/521568975335447,Family Time is back,The wait is almost over! #FamilyTime returns with a hilarious one-hour season premiere TONIGHT at 9/8c on Bounce TV. Find our channel in your,unknown_date,web_result
+5072600,"""Family Time"" release date",general,1,tavily,basic,5,https://www.bouncetv.com/show/family-time/21528,Bounce - Family Time,"Bentley Kyle Evans, Jr. began his professional acting career on the series Love That Girl! (2012), which quickly led to more roles on series such as Fishbowls Are Definitely My Thing (2014).
+
+### Jayla Calhoun [...] X
+
+Family Time follows the lives of the Stallworth family who relocated to the suburbs after hitting the lottery. High school sweethearts Tony (Omar Gooding) and Lisa (Angell Conwell) lovingly quarrel with each other and their mischievous children, Devin and Ebony, as they make up their own rules for love, marriage and family along the way.
+
+X
+
+‹ Previous
+
+### Omar Gooding [...] ### Angell Conwell
+
+Angell Conwell is best known for her role as Leslie Michaelson on the CBS daytime drama, The Young and the Restless (2010), but has been featured in numerous other series such as 3rd Rock from the Sun (2000), NYPD Blue (2000), Moesha (2001), That’s So Raven (2003), and The Real Husbands of Hollywood (2013). Conwell has also appeared on the big screen in such hit movies as Baby Boy (2001) and Soul Plane (2004).
+
+### Bentley Kyle Evans, Jr.",unknown_date,web_result
+5072600,"""Family Time"" announcement",general,1,tavily,basic,6,https://www.youtube.com/watch?v=Hy56ql96xAU,"Family Time, Announcement!","This is your child. That one, too. And those two. And all of these other ones. But, how did you get here? Papa. Well, you were walking in the wild when suddenly a kimono attacked you. You fought your hardest, but she won. Papa. Naturally, you were cast out from society. And now you must survive in the wild. And that was the exposition for Family Time. Papa. It's a new game I'm working on. Still just barely starting, but there is plenty of cool tech, modeling, and art that I make videos about [...] # Family Time, Announcement!
+## sgthale - Indie Dev!
+91900 subscribers
+66783 likes
+
+### Description
+1078502 views
+Posted: 24 Jun 2026 [...] I make videos about over on my Patreon. If you're interested, stop by.",unknown_date,web_result
+5072600,"""Family Time"" announcement",general,1,tavily,basic,6,https://www.patreon.com/sgthale/posts/family-time-161995291,"Family Time, Announcement! | sgthale","Family Time, Announcement! New June 24 The first juicy development blog drops on Friday! continuing the weekly routine and posting videos,",unknown_date,web_result
+5072600,"""Family Time"" announcement",general,1,tavily,basic,6,https://sgthale.itch.io/myrobot/devlog/1563286/family-time-announcement,"Family Time, Announcement! - MyRobot (Now on Steam!) by ...","Family Time, Announcement! - MyRobot (Now on Steam!) Build your own Robot Companion! Tags Anime, Cute, Physics, Robots, Singleplayer, Slice Of Life, Virtual Pet",unknown_date,web_result
+5072600,"""Family Time"" announcement",general,1,tavily,basic,6,https://sgthale.itch.io/family-time,Family Time by sgthale - itch.io,"View all by sgthalesgthale
+ Follow sgthaleFollowFollowing sgthaleFollowing
+ Add To CollectionCollection
+ Community
+ Devlog
+
+Family Time
+
+# Family Time
+
+A downloadable game
+
+In heavy development!
+
+Take care of literal thousands of wolf children! Game uses novel GPU tech to push Unity past its limits.
+
+Check out the development blogs at 
+
+More information) [...] More information)
+
+|  |  |
+ --- |
+| Updated | 6 days ago |
+| Status | Released |
+| Rating | Rated 5.0 out of 5 stars (6 total ratings) |
+| Author | sgthale |
+| Genre | Simulation, Role Playing |
+| Tags | Animals, Anime, Cozy, Cute, Physics, Singleplayer, Slice Of Life, Unity |
+| AI Disclosure | AI Assisted, Code |
+
+## Development log
+
+ Family Time DevBlog 8/01/26 - Building and Sleeping!
+
+  6 days ago
+ Family Time DevBlog 7/15/26 - Commands And Digging! [...] 13 days ago
+ Family Time DevBlog 7/11/26 - Uppies and Food Mechanics!
+
+  20 days ago
+ Family Time DevBlog 7/10/26 - Chickens and Hunger!
+
+  27 days ago
+ Family Time DevBlog 7/10/26 - Uppies and Food Mechanics!
+
+  62 days ago
+ Family Time DevBlog 7/3/26 - Chickens and Hunger!
+
+  69 days ago
+
+## Community
+
+Will this game eventually become an porn game?
+
+by QQ602706873 · 1 post
+
+5h
+
+Tips for the developer
+
+by Rayner1352 · 6 posts
+
+11h
+
+Can't wait for the game to be released. It looks so cute!",unknown_date,web_result
+5072600,"""Family Time"" announcement",general,1,tavily,basic,6,https://familytime.io,FamilyTime: Parental Control App | Screen Time Limit for Android & iOS,"FamilyTime Awards FamilyTime Awards FamilyTime Awards FamilyTime Awards FamilyTime Awards
+
+Features Header Image
+
+FamilyTime on CBS News
+
+Yahoo
+
+Huffpost
+
+Daily Mail
+
+Mashabale
+
+Tom's Guide
+
+Washington Post
+
+PC Magzine
+
+BBC
+
+Fox News
+
+## Best Parental Control App Tailored for Every Age Group
+
+FamilyTime - The best parental control app offers digital well-being solutions for every age group to help you deal with the diverse challenges of digital parenting.
+
+### 3-8 Years Old | Early Childhood [...] Quick controls enable you to add or edit limits, manage child devices & more on the go.
+
+Why FamilyTime
+
+#### Co-Parenting Made Easy
+
+Invite your partner, relatives or friends as guardians to control, manage & supervise child’s devices for FREE.
+
+Why FamilyTime
+
+#### GDPR Compliance
+
+Privacy protection and GDPR compliance ensure children's data privacy with end-to-end encryption.
+
+Why FamilyTime
+
+#### One Account Multiple Devices [...] Why FamilyTime
+
+#### 30-Day Reporting History
+
+Review your child’s activity data to identify device usage patterns, interactions, and more.
+
+Why FamilyTime
+
+#### FREE Access to New Features
+
+New features added to the app are accessible for free to all the existing users.
+
+Why FamilyTime
+
+#### Uninstall Protection
+
+Secure FamilyTime Jr. setting prevents kids from uninstalling FamilyTime from their device.
+
+Why FamilyTime
+
+#### Easy to Use Interface",unknown_date,web_result
+5072600,"""Family Time"" preview",general,1,tavily,basic,7,https://www.youtube.com/watch?v=lbtTNYR-kJA,'Family Time': first trailer for Tia Kouvo's Berlinale Encounters title,"The comedy-drama follows an annual family Christmas get-together that sees the usual tensions rise. The cast includes Ria Kataja, Elina",unknown_date,web_result
+5072600,"""Family Time"" preview",general,1,tavily,basic,7,https://vimeo.com/856389639,Family Time (2023) – Official Trailer,"This is ""Family Time (2023) – Official Trailer"" by Aurora Studios on Vimeo, the home for high quality videos and the people who love them.",unknown_date,web_result
+5072600,"""Family Time"" preview",general,1,tavily,basic,7,https://www.youtube.com/playlist?list=PLreXyMA8japYJKOctxvVlLwcV2Es9Wtqy,Family Time,"#FamilyTime Season 6 Press Trailer. Bounce. 24K views • 7 years ago. 0:18 ... Family Time - Season Premiere BTS featuring Tameka ""Tiny"" Harris. Bounce. 19K",unknown_date,web_result
+5072600,"""Family Time"" preview",general,1,tavily,basic,7,https://www.imdb.com/title/tt26448972,Family Time (2023),"It captures the Finnish family gatherings so truly. The setting is built to be warm, but there's all kinds of time bombs under the surface just waiting to",unknown_date,web_result
+5072600,"""Family Time"" preview",general,1,tavily,basic,7,https://www.youtube.com/watch?v=RizyGnn-_lY,Family Time (2023) | Trailer | Tia Kouvo | Tom Wentzel,Family Time (2023) | Trailer | Tia Kouvo | Tom Wentzel | Leena Uotila | Elina Knihtilä @TheMatchFactory56 likes33K views3 years ago,unknown_date,web_result
+5072600,"""Family Time"" review",general,1,tavily,basic,8,https://play.google.com/store/apps/details?id=io.familytime.dashboard&hl=en_US,Parental Control FamilyTime - Apps on Google Play,"August 19, 2026
+
+FamilyTime is an excellent app for parents who want to keep their kids safe in the digital world. It is very easy to use and helps me manage screen time, block unnecessary apps, and track my children's location in real time. The app works smoothly and gives me peace of mind knowing my kids are safe. I highly recommend FamilyTime to all parents.
+
+2 people found this review helpful
+
+Azizolious
+
+August 21, 2026 [...] Icon image
+
+Icon image
+
+# Parental Control FamilyTime
+
+Contains adsIn-app purchases
+
+3.6star
+
+12.2K reviews
+
+Content rating
+
+Rated for 3+
+
+Content rating
+
+Rated for 3+
+
+Learn more
+
+## About this app [...] FamilyTime Parental Control App  
+  
+FamilyTime is a parental control app that enables parents to easily manage their child's screen time by blocking apps and games. Parents can ensure their children's safe and healthy internet usage with additional features such as location tracking, YouTube and TikTok history monitoring, call and SMS tracking, app usage monitoring, app limits, and family tracking.  
+  
+A Parental Control App",unknown_date,web_result
+5072600,"""Family Time"" review",general,1,tavily,basic,8,https://www.safewise.com/kids-safety/parental-control-apps/familytime-app,FamilyTime App Review,"FamilyTime is one of our favorites. It tracks and blocks apps, texts, calls and more. It allows you full control over how your child uses their phone. From app",unknown_date,web_result
+5072600,"""Family Time"" review",general,1,tavily,basic,8,https://www.safetydetectives.com/best-parental-control/familytime,FamilyTime Review 2026: Can It Keep Your Kids Safe?,"Overall, FamilyTime is a good parental control app. It offers several pricing packages, and it comes with a 3-day free trial for all purchases.",unknown_date,web_result
+5072600,"""Family Time"" review",general,1,tavily,basic,8,https://familytime.io,FamilyTime: Parental Control App | Screen Time Limit for ...,"Five Stars
+
+I am impressed by the FamilyTime parental control app for Android. It is easy to use and budget-friendly. It took me a few minutes to set up the app, and I could set screen time limits, internet schedule, and geofence for my kids. Highly recommended!
+
+Emma
+
+### Emma Brignano
+
+via Google Play Store
+
+Five Stars [...] Five Stars
+
+FamilyTime is much better than the cell phone monitoring app I used previously. It's cost-efficient, has more tools, and allows me to block games, apps, and websites that are not good for my child.
+
+Start Free Trial Live Chat)
+
+Offer Image
+
+##### Flash Sale! Get
+
+45% Discount
+
+##### on FamilyTime Premium
+
+## Why FamilyTime is the Best Parental Control App
+
+Take Back Control of Your Family Time with Effortless and Effective Digital Parenting
+
+Why FamilyTime [...] Start Free Trial Live Chat)
+
+## Real-life Stories by Real Parents
+
+Ellen
+
+### Ellen Haveron
+
+via Google Play Store
+
+Five Stars
+
+I am using the FamilyTime Parental Control App for iOS, and it's a remarkable experience for me. It is helping me to control my child's screen time and app usage. I initially had trouble pairing my child's iPhone and got real-time support.
+
+Michelle
+
+### Michelle Morrice
+
+via Google Play Store
+
+Five Stars",unknown_date,web_result
+5072600,"""Family Time"" review",general,1,tavily,basic,8,https://www.trustpilot.com/review/familytime.io,Read Customer Service Reviews of familytime.io,"This app is a SCAM. Do not subscribe, not even to the trial version, which is just a trap. You'll be forced to pay the annual subscription before installing",unknown_date,web_result
+5072600,"""Family Time"" publisher",general,1,tavily,basic,9,"https://www.editorandpublisher.com/stories/five-generation-family-ownership-fuels-the-seattle-times,260407",Five-generation family ownership fuels The Seattle Times | Editor and Publisher,"Matassa Flores has seen the family’s commitment up close. She started at the Times in 1988, reporting for Frank Blethen until she took a buyout during a tough economic period at the paper in 2008. In 2013, she returned when Frank Blethen recruited her as assistant managing editor. She credits the paper’s revival to the family’s investment in its mission: Frank Blethen sold family-owned property in Seattle’s South Lake Union neighborhood and reinvested the proceeds into the company. [...] Editor’s note:
+
+This story has been updated since its original publication to reflect additional information and corrections.
+
+Diane Sylvester | for E&P Magazine
+
+When Ryan Blethen became publisher of The Seattle Times in January, he inherited far more than a newspaper. He inherited 129 years of family stewardship, a newsroom of 170 journalists, and the responsibility of leading one of the last family-owned metropolitan dailies in the United States. [...] The Blethen family’s involvement in the company extends beyond the publisher’s office. Eleven members of the fifth generation have worked at the paper over the years. Today, three work full-time: Ryan Blethen as publisher, his cousin Kerry Quinn on the fundraising team, and his brother as a manager at the printing plant. Other family members serve on the board. The sixth generation is already watching closely. Blethen’s two daughters, both in college, are studying journalism and have worked in",unknown_date,web_result
+5072600,"""Family Time"" publisher",general,1,tavily,basic,9,https://parentpower.planetyouth.ie/family-time,Family Time - Parent Power,"Positive Parenting: Bringing Up Responsible, Well-behaved & Happy Children by John Sharry. Check Amazon and the Solution Talk website.
+
+Effective Parenting: A Simple Guide for a Happy Home by Patricia Fitzpatrick. Check Amazon and the Effective Parenting website.
+
+Love In, Love Out: A Compassionate Approach to Parenting Your Anxious Child by Dr Malie Coyne. Check Amazon and Malie’s website.
+
+Got any recommendations?  Let us know and we’ll add the links.
+
+## Top Tips from other parents [...] Barnardos has developed a series of booklets to help parents answer common concerns and deal with the challenges of parenthood.
+
+### Listening
+
+Some nice videos on YouTube about listening and communicating  
+Active Listening: How To Communicate Effectively
+
+Communication Skills: Empathetic Listening – Inside Out, 2015
+
+### Some books on parenting by Irish authors: [...] Skip to content
+
+[](
+
+[](
+
+# Family Time
+
+Our time is one of the greatest gifts we can give our children and setting time aside each day creates the opportunity and space to chat with them and listen to what they have to say.
+
+Here are just a few good reasons why this is so important:
+
+ It strengthens family bonds
+ It improves communication
+ It builds children’s self esteem
+ It develops positive behaviours
+ It can help your child to do better in school",unknown_date,web_result
+5072600,"""Family Time"" publisher",general,1,tavily,basic,9,https://lernerbooks.com/shop/show/26351,Family Time,"Mateo dances with his family, and Arjun's family plays a game called cricket. This story explores how families around the world enjoy",unknown_date,web_result
+5072600,"""Family Time"" publisher",general,1,tavily,basic,9,https://gnomeroadpublishing.com/products/family-time-bundle,Family Time Bundle,Explore family bonds by reading these popular favorites with the special people in your life. Limited time only! Key Concepts.,unknown_date,web_result
+5072600,"""Family Time"" publisher",general,1,tavily,basic,9,https://en.wikipedia.org/wiki/The_Family_Book,The Family Book - Wikipedia,"In other projects
+
+ Wikidata item
+
+Appearance
+
+From Wikipedia, the free encyclopedia
+
+2003 children's book by Todd Parr
+
+The Family Book
+
+| First edition |
+| Author | Todd Parr |
+| Illustrator | Todd Parr |
+| Language | English |
+| Subject | Families |
+| Genre | Children's literature |
+| Publisher | Little, Brown Books for Young Readers |
+| Publication date | 2003 |
+| Publication place | United States |
+| Media type | Print |
+| ISBN ""ISBN (identifier)"") | 0316155632 | [...] The Family Book is a 2003 children's picture book written and illustrated by Todd Parr that details the daily lives of all kinds of families. Each unique family structure is depicted with vivid illustrations that complement the book’s themes of family diversity and inclusivity. The book has been adopted in various educational settings as a teaching tool to normalize the acceptance of various family forms. The Family Book has been challenged repeatedly and has sparked controversy in certain [...] 1. ↑ ""Review: The Family Book"". Publishers Weekly. Retrieved 2 May 2013.
+2. 1 2 Santosa, Jesica; Sukyadi, Didi; Hermawan, Budi (November 24, 2020). ""The Representation of Family Diversity in The Family Book: A Verbal and Visual Analysis"" (PDF). Rangsit Journal of Social Sciences and Humanities. ISSN ""ISSN (identifier)"") 2286-976X.",unknown_date,web_result
+5072600,"""Family Time"" developer",general,1,tavily,basic,10,https://play.google.com/store/apps/details?id=io.familytime.dashboard&hl=en_US,FamilyTime Review: Why and How To Monitor Kids Digitally,"public
+
+Website
+
+email
+
+Support email
+
+support@familytime.io
+
+shield
+
+Privacy Policy
+
+About the developer
+
+Ahmad Muhammad Aziz
+
+contact@azizolious.com
+
+17 Yokonagane Danchi, 360-1 Yokonagane, Futto 男鹿市, 秋田県 010-0431 Japan
+
+## More by Azizolious
+
+arrow\_forward
+
+Thumbnail image
+
+Alfalah: Quran Athan Prayer
+
+Azizolious
+
+Thumbnail image
+
+FamilyTime Jr.
+
+Azizolious
+
+2.7star
+
+## Similar apps
+
+arrow\_forward
+
+Thumbnail image
+
+StepUp Pedometer Step Counter
+
+StepUp Inc
+
+4.8star
+
+Thumbnail image [...] FamilyTime Parental Control App  
+  
+FamilyTime is a parental control app that enables parents to easily manage their child's screen time by blocking apps and games. Parents can ensure their children's safe and healthy internet usage with additional features such as location tracking, YouTube and TikTok history monitoring, call and SMS tracking, app usage monitoring, app limits, and family tracking.  
+  
+A Parental Control App [...] Parental Control App with Limit Screen Time, Block Apps & Games, Family Locator.
+
+Updated on
+
+Jul 28, 2026
+
+Parenting
+
+## Data safety
+
+arrow\_forward
+
+Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.
+
+ Icon image
+
+  No data shared with third parties
+
+  Learn more about how developers declare sharing
+ Icon image",unknown_date,web_result
+5072600,"""Family Time"" developer",general,1,tavily,basic,10,https://medium.com/@juliusbrussee/a-developers-guide-to-apple-s-screen-time-apis-familycontrols-managedsettings-deviceactivity-e660147367d7,"A Developer’s Guide to Apple’s Screen Time APIs (FamilyControls, ManagedSettings, DeviceActivity)","1.   Request the Entitlement: You must apply for the com.apple.developer.family-controls entitlement through Apple’s developer portal. Provide a clear explanation of why your app needs this capability. Without this entitlement granted to your App ID and provisioning profile, the APIs simply won’t work. Some tips as well are apply for this entitlement for every app target that needs it not just your main one. [...] 1.   BlockedProfiles Model: Uses SwiftData to store user-defined blocking configurations, including the FamilyActivitySelection and potentially other settings (like a name, or _how_ it should be activated).
+2.   BlockedProfileSession Model: Tracks individual blocking periods (start time, end time) linked to a specific profile. This is great for history and analytics. [...] 1. FamilyControls: This is your gateway to understanding _what_ the user wants to manage. It provides:
+
+Authorization: The mechanism to request permission from the user to manage their app and web activity. This is a critical first step.",unknown_date,web_result
+5072600,"""Family Time"" developer",general,1,tavily,basic,10,https://familytime.io,FamilyTime: Parental Control App | Screen Time Limit for ...,"Five Stars
+
+I am impressed by the FamilyTime parental control app for Android. It is easy to use and budget-friendly. It took me a few minutes to set up the app, and I could set screen time limits, internet schedule, and geofence for my kids. Highly recommended!
+
+Emma
+
+### Emma Brignano
+
+via Google Play Store
+
+Five Stars [...] Five Stars
+
+I am using the FamilyTime3 plan for my kids of different age groups. I must say, it's the best parental monitoring app to monitor kids' phones. The app gives me control over the digital devices of my tweens and teens at the same time.
+
+Tyler
+
+### Tyler Jensen
+
+via Google Play Store
+
+Five Stars [...] Develop a child's healthy screen time routine by setting daily screen time limits, creating custom device and internet schedules for dinner, study, bedtime, and more.
+
+home features manage screen time
+
+home explore apps icon
+
+### Stay Up-to-Date with Your Child’s Social World
+
+View WhatsApp, WhatsApp Business, BiP, Instagram, TikTok, imo, Twitch, and Signal chats to find with whom and what your child’s talking about.
+
+home features social media monitoring
+
+home explore apps icon",unknown_date,web_result
+5072600,"""Family Time"" developer",general,1,tavily,basic,10,https://developer.apple.com/documentation/screentimeapidocumentation,Screen Time Technology Frameworks | Apple Developer Documentation,"## Topics
+
+### Essentials
+
+Manage settings on devices in a Family Sharing group
+
+Empower parents and guardians to configure constraints on other devices while preserving the family’s privacy.
+
+### Family Controls
+
+Family Controls
+
+Authorize your app to provide parental controls on a device.
+
+Configuring Family Controls
+
+Add the Family Controls entitlement to enable parental control features in your app and its Screen Time API app extensions.
+
+Requesting the Family Controls entitlement [...] ---
+
+Skip Navigation 
+
+# Screen Time Technology Frameworks
+
+Empower users to manage their device settings and usage while maintaining user privacy.
+
+## Overview
+
+The Screen Time suite of frameworks includes Family Controls, Managed Settings, and Device Activity. You can use these frameworks to perform Screen Time-related functions in your app.
+
+For information related to sharing and managing web-usage data, see Screen Time. [...] Controls framework requires guardian approval to authorize your app with Family Sharing. Requiring guardian approval through Family Sharing protects the user from unauthorized access of their information outside of a single Family Sharing group.",unknown_date,web_result
+5072600,"""Family Time"" developer",general,1,tavily,basic,10,https://newly.app/how-to/family-controls-entitlement,How to Get the Apple Family Controls Entitlement — Newly,"1. 1
+
+   Add the development entitlement and build locally
+
+   Enable the Family Controls capability so com.apple.developer.family-controls.development is present, and confirm your Screen Time flows work on a real device before you request distribution.
+2. 2
+
+   Sign in as the Account Holder
+
+   Open the Family Controls (Distribution) request form while signed in to the Apple Developer account that owns the app — requests are tied to your team.
+3. 3 [...] 1. 1Tell the Newly agent what you want, e.g. ""add Family Controls so users can block selected apps during focus sessions.""
+2. 2Newly adds the com.apple.developer.family-controls entitlement and the required Screen Time extensions to your iOS build configuration.
+3. 3Submit Apple’s Family Controls (Distribution) request for your bundle ID (and each extension) from your developer account. [...] Family Controls is the Apple framework behind Screen Time-style parental controls, app limits and usage shielding. You can build and test against it with a development entitlement immediately, but you cannot ship — to TestFlight or the App Store — until Apple approves a separate ""Family Controls (Distribution)"" request. This is the entitlement most app-blocking and digital-wellbeing apps get stuck on at submission time.
+
+Apply through this form
+
+Family Controls (Distribution) request form",unknown_date,web_result
+5072600,"site:reddit.com ""Family Time""",social,3,tavily,basic,11,https://www.reddit.com/r/science/comments/ptacnl/family_time_couple_time_and_time_alone_with,"Family time, couple time, and time alone with children contributes significantly to mothers’ and fathers’ well-being. Fathers enjoy family time more than mothers do. Unequal division of labour during family time explains this discrepancy. : r/science","Family time, couple time, and time alone with children contributes significantly to mothers’ and fathers’ well-being. Fathers enjoy family time more than mothers do. Skip to main contentFamily time, couple time, and time alone with children contributes significantly to mothers’ and fathers’ well-being. Fathers enjoy family time more than mothers do. Family time, couple time, and time alone with children contributes significantly to mothers’ and fathers’ well-being. Fathers enjoy family time more than mothers do. Went on a vacation with her after I graduated that we had planned together and she was SO much more relaxed and enjoyed herself way more because she didn't have a small human to keep after this time. My dad always had a great time running off to go swim, leaving my mother with us... parenting is a distinctively different experience for mothers and fathers. (2016) show that mothers experience more stress and less happiness compared to fathers. Being a mother sounds like hard, unpaid work. > I find that fathers, on average, enjoy family time more than mothers do. This means that mothers do more housework during family time and this causes their enjoyment of family time to be lower than that of fathers. The results shed light on an important reality of family life: while domestic chores are now more equal than in the past (Altintas and Sullivan, 2016), mothers still bear a disproportionate share of domestic and care work. So mothers would enjoy family time as much as fathers do if the housework and parenting duties were better distributed? That's because most mothers are doing all the household chores, next to working. Family time is a break for fathers but it’s work for mothers. Taking care of kids IS work, hard work, and mothers should be able to enjoy vacation/relaxation time just like fathers do. Why is it that fathers who work ""deserve vacation and relaxation"" but moms never deserve a break or time off from the kids. Recent discoveries in human genetics research. Recent breakthroughs in human genetics research are reshaping our understanding of health, aging, and even political beliefs.",unknown_date,reddit_discussion
+5072600,"site:reddit.com ""Family Time""",social,3,tavily,basic,11,https://www.reddit.com/r/Contractor/comments/1q7d4nx/time_with_family,Time with family : r/Contractor,"# Time with family : r/Contractor. Skip to main contentTime with family : r/Contractor. Open menu Open navigationGo to Reddit Home. Get App Get the Reddit app Log InLog in to Reddit. Expand user menu Open settings menu. # Time with family. Ever since getting into the trades and operating as an independent contractor, I feel like I have no time for my family. Between inquiries, estimates, client communication, contracts and invoicing, materials management, timelines, working with vendors, accountants, etc, tools, truck repairs, and being covered in sawdust and needling to clean up — I just don’t have time for anything. Has anyone found a groove or a system to where they have more time now than before? Anyone feel quite free in their lives? Because I feel strapped down. Create your account and connect with a world of communities. By continuing, you agree to ourUser Agreementand acknowledge that you understand thePrivacy Policy. # Related Answers Section. Top tips for hiring a reliable contractor. Practices for managing construction projects. How to negotiate contracts with contractors. Essential tools every contractor should have. Trends in sustainable construction practices. Banning all software/SAAS/AI/marketing posters. Anyone can view, post, and comment to this community. Reddit RulesPrivacy PolicyUser AgreementYour Privacy ChoicesAccessibilityReddit, Inc.",unknown_date,reddit_discussion
+5072600,"site:reddit.com ""Family Time""",social,3,tavily,basic,11,https://www.reddit.com/r/boardgames/comments/1gzd6gb/boardgames_as_family_time,Boardgames as family time. : r/boardgames - Reddit,"Me, my wife, and our kids all love board games. Me and the wife often play boardsgames on date night and as a family, we set aside an entire day on the weekend as a family boardgame day. This has worked for us for the last year and half but recently my wife's therapist told her that boardgames are 'inappropriate' as family bonding time and we're not doing good parenting by spending time playing boardgames with our children. I just wanted to ask other parents who play boardgames with their kids what they think about this. Family of 6: Me, wife, 4 kids. Wife and I have date night once a week without kids and we have family boardgame day once a week. Want to say my wife doesn't really agree with therapist but she keeps getting told off about it and it gets her down. The biggest red flag for me is not that the therapist doesn’t “get” the value of board games as family time (although that is pretty outlandish*), but that the therapist is being pushy and disrespectful. *ETA: I appreciate the commenters extending benefit of the doubt that the therapist most likely has inaccurate ideas about board games. I think your wife needs a new therapist 😂. Did this therapist have suggestions on what activity would be appropriate for family bonding time? You're saying modern board games designed with kids in mind, therapist is hearing ""monopoly, scrabble, Risk"". I really have a feeling the therapist does not understand the concept of a modern boardgame or themselves have bad experiences. I'm assuming the therapist is thinking of board games like Monopoly or Snakes and Ladders? But we all here on Reddit dont know anything about your family situation or the reasons why your wife visits a therapist. Perhaps your wife is trying to find a way to communicate to you that she'd like to vary the family bonding and date night activities. and that the therapist doesn't know what modern boardgaming is and to them it sounds like you saying ""our family bonding is watching teletubbies with the kids"". tips for playing board games with family.",unknown_date,reddit_discussion
+5072600,"site:reddit.com ""Family Time""",social,3,tavily,basic,11,https://www.reddit.com/r/tulum/comments/1oaxcvi/amazing_time_in_tulum_zero_issues_for_family_of_6,"Amazing time in Tulum, zero issues for family of 6 : r/tulum","# Amazing time in Tulum, zero issues for family of 6 : r/tulum. Skip to main contentAmazing time in Tulum, zero issues for family of 6 : r/tulum. Open menu Open navigationGo to Reddit Home. Get App Get the Reddit app Log InLog in to Reddit. Expand user menu Open settings menu. # Amazing time in Tulum, zero issues for family of 6. * : r/tulum - Amazing time in Tulum, zero issues for family of 6: r/tulum - Amazing time in Tulum, zero issues for family of 6. * : r/tulum - Amazing time in Tulum, zero issues for family of 6: r/tulum - Amazing time in Tulum, zero issues for family of 6. * : r/tulum - Amazing time in Tulum, zero issues for family of 6: r/tulum - Amazing time in Tulum, zero issues for family of 6. * : r/tulum - Amazing time in Tulum, zero issues for family of 6: r/tulum - Amazing time in Tulum, zero issues for family of 6. I had booked a non- refundable Airbnb for my whole family and then saw all of the negative posts and warnings about Tulum and was really worried. I kept hoping to find any reassuring posts. Two parents snd kids 24, 22, 16 and 13 - I was worried about getting robbed, getting scammed, our older kids getting roofied or kidnapped. (Amazing) we had a private chef do a BD dinner and they were lovely. Everyone we met seemed aware if past issues and went out of their way to reassure us. We had zero issues and a really beautiful trip. We did book a private taxi service to go out at night and it was expensive (flat fee pre-negotiated) but we didn't feel scammed or unsafe. It was $40 each way for a 15 mile trip. No police issues, no restaurant or bar issues etc. New comments cannot be posted and votes cannot be cast. Is Tulum worth visiting for families? Best time to visit Tulum. Best hidden beaches in Tulum. Top eco-friendly hotels in Tulum. Anyone can view, post, and comment to this community. Reddit RulesPrivacy PolicyUser AgreementYour Privacy ChoicesAccessibilityReddit, Inc.",unknown_date,reddit_discussion
+5072600,"site:reddit.com ""Family Time""",social,3,tavily,basic,11,https://www.reddit.com/r/UsefulCharts/comments/1056oz1/first_time_doing_a_family_tree_here_is_the_family,First time doing a family tree. Here is the family tree of the dukes of ...,"First time doing a family tree. Here is the family tree of the dukes of Samo's and Great Moravian Empire. Skip to main contentFirst time doing a family tree. Here is the family tree of the dukes of Samo's and Great Moravian Empire. Open menu Open navigationGo to Reddit Home r/UsefulCharts A chip A close button Log InLog in to Reddit Expand user menu Open settings menu A place for fans of the UsefulCharts YouTube channel to post charts that they have created. First time doing a family tree. Here is the family tree of the dukes of Samo's and Great Moravian Empire. Most influential creators of the last decade Top celebrity charts that surprised you Best streaming platforms for niche content Unique chart ideas for social media growth Popular trends in influencer marketing today Create your account and connect with a world of communities. By continuing, you agree to ourUser Agreementand acknowledge that you understand thePrivacy Policy. Anyone can view, post, and comment to this community * Reddit reReddit: Top posts of January 6, 2023 * * * * Reddit reReddit: Top posts of January 2023 * * * * Reddit reReddit: Top posts of 2023 * * * Reddit RulesPrivacy PolicyUser AgreementAccessibilityReddit, Inc.",unknown_date,reddit_discussion
+5072600,"site:tiktok.com ""Family Time""",social,4,tavily,basic,12,https://www.tiktok.com/@thegameroom_tgr/video/7677173757546384658,Family Time game: funny family simulator (Game of the Year 2026?),"Lead Family Time is a lighthearted family simulator getting attention in 2026 for its simple, silly interactions.",unknown_date,social_post
+5072600,"site:tiktok.com ""Family Time""",social,4,tavily,basic,12,https://www.tiktok.com/@mellycandrawan/video/7625138598907481365,Family Time with Amahh ❤️ - TikTok,"Experience the everyday adventures and heartwarming interactions that define this loving family. From shared laughter to quiet companionship,",unknown_date,social_post
+5072600,"site:tiktok.com ""Family Time""",social,4,tavily,basic,12,https://ads.tiktok.com/business/en-US/blog/from-tv-to-tiktok-family-time-has-evolved,Family time has evolved: From TV to TikTok | TikTok For Business Blog,"The digital natives are starting to start families on their own, and TikTok is becoming a shared destination for family time across generations.",unknown_date,social_post
+5072600,"site:tiktok.com ""Family Time""",social,4,tavily,basic,12,https://www.tiktok.com/@lifeisfun397/video/7683910631174507806,Funny Family Time Video — Best Family Funny Moments | TikTok,"Lead A short, candid family clip capturing a lighthearted, funny moment designed for family time and shared laughs. The video centers on natural",unknown_date,social_post
+5072600,"site:tiktok.com ""Family Time""",social,4,tavily,basic,12,https://newsroom.tiktok.com/en-us/new-ways-we-are-supporting-parents-and-helping-teens-build-balanced-digital-habits,New ways we're supporting parents and helping teens build balanced digital habits - Newsroom | TikTok,"Since launching Family Pairing - TikTok's parenting controls - five years ago, we've continually added new features based on feedback from families, as well as guidance from leading experts. Today, we're enhancing Family Pairing by launching a way for parents to block their teens from being on TikTok during times that they control. No teen or family is the same, and whether it's during family time, school, at night, or a weekend away, caregivers can use our new Time Away feature to decide when [...] to decide when it’s best for their teens to take a break. Parents can also set a reoccurring schedule to best suit their family life. If plans change, teens can request extra time, but parents make the final decision. [...] We also hear that parents want to know more about the content their teens engage with on our app. In response, in the coming months, when a teen reports a video they think may be against TikTok's rules, they can choose to alert a parent, caregiver, or other trusted adult at the same time, even if they aren't using Family Pairing.
+
+With these latest updates, parents can now view or adjust more than 15 safety, well-being, and privacy features. This includes:",unknown_date,social_post
+5072600,"site:instagram.com ""Family Time""",social,4,tavily,basic,13,https://www.instagram.com/p/Cxu8RBFoNYX,"Dr Tamaryn Green Nxumalo on Instagram: ""Family time is the best time. New addition to the family, my Nephew, Asher. ❤️""","# Instagram. Never miss a post from tamaryngreen. Sign up for Instagram to stay in the loop. * : Photo shared by Dr Tamaryn Green Nxumalo on September 28, 2023 tagging @dylanjhuman, and @lolz.human. * : Photo by Dr Tamaryn Green Nxumalo on September 28, 2023. Family time is the best time. New addition to the family, my Nephew, Asher. Take your time,,,with your kids,,,very good my sister❤️❤️❤️❤️. They both are so adorable and cutest 😍 😍. Família é tudo de bom . É a melhor coisa que temos na vida.❤️❤️❤️❤️❤️❤️. Awww too cute such beautiful children. Log in to like or comment.",unknown_date,social_post
+5072600,"site:instagram.com ""Family Time""",social,4,tavily,basic,13,https://www.instagram.com/popular/spending-time-with-family-quotes,Spending Time With Family Quotes,"# Spending Time With Family Quotes. Watch reels about spending time with family quotes from people around the world. ## family time quotes. ## time? ## time. ## family's. ## time (@time)/? ## time'. ## famili. ## time. ## quote. ## family quotes. ## quoted. ## spending time with family. ## quotes. ## times. ## quots. ## familys. ## spend time. ## timely. ## family time. ## spend. ## timing. ## time quotes. ## familie. ## family. ## family quote. ## families. ## time spend. “You Spend Time With Your Family?” 🎥: The Godfather (1972) Follow @thequotequest for daily movie quotes! #motivation #inspiration #mindset #discipline #motivational #inspirational #motivaurax #godfather. Spend time with your parents... “Spending money on your wife and son is one of the most beautiful things you can do. They are your greatest blessings, and every effort to make their lives better is priceless. There’s no better investment than in the happiness of your family.” #motivation #motivationalquotes #motivational #inspirational #inspiration #motivacion #quoteoftheday #quotes #foryou #fyp #fypシ #foryoupage #viral #viralvideos #viralreels. To be able to spend time with your loved ones is one of the biggest #blessings of all #blessed #DontUnderestimate #LovedOnes #family. the best gift you can give your child is time. Follow @captd\_thoughts for more relatable content 😊♥️ Do you ever get tired of spending time with someone you’re with?? • • • • #reels #reelsinstagram #reelkarofeelkaro #reelitfeelit #reelsviral #reelstrending #trendingreels #viral #viralvideos #trendingsongs #trendingaudio #quotes #fyp #foryou #foryoupage. You spend time with your family? Explore our collection of iconic fashion and accessories inspired by the legendary film. #godfather #alpacino #scarface #scarfacequotes #tonymontana #wisewords #dailyquotes #strongmindset #powerfulquotes #quotes #quote. Love my kids #foryou #fyp #mom #love #relationships #inspirationalquotes. Time spent with your kids is always time well spent. Spending a little time with genuine & good people feels like a sudden reminder that life is still beautiful & worth living.❤️ Follow @tinylittlewordss for more. [quote, life, love, life quote, relatable, people, heart, mind, time, spending, genuine people, good people, feels, reminder, beautiful, worth living, life is beautiful, life is good, life, for you, feelings, relationships] #zindagi #quotes #quotesoftheday #reelsinstagram #trendingsongs #trending #like #viral #reelitfeelit #explore #fpy #feelings #emotions #people #goodpeople #love #lifequotes #lifelessons #relationships](/popular/spending-time-with-family-quotes/reels/DFDEH-0yRz9/).",unknown_date,social_post
+5072600,"site:instagram.com ""Family Time""",social,4,tavily,basic,13,https://www.instagram.com/p/DTF3r9eEfow,"Claire's Corner Copia on Instagram: ""Family Breakfast! Family time is the best time. #clairescornercopia #familybreakfast❤️ #familytime""",Never miss a post from clairescornercopia. Sign up for Instagram to stay in the loop. Family time is the best time. We had the vegan pancakes there yesterday and they were amazing! Comments on this post have been limited.,unknown_date,social_post
+5072600,"site:instagram.com ""Family Time""",social,4,tavily,basic,13,https://www.instagram.com/p/DIsKtG3xE3R,Family time 💗💗 _______ #Family #Easter #Aunty,"* : Photo by LARISSA MICHELLE FITZSIMONS on April 20, 2025. * : Photo shared by LARISSA MICHELLE FITZSIMONS on April 20, 2025 tagging @kaylin_fitzsi, and @laura.fitzsimons.988. Log in to like or comment. See photos, videos and more from LARISSA MICHELLE FITZSIMONS. By continuing, you agree to Instagram's Terms of Use and Privacy Policy.",unknown_date,social_post
+5072600,"site:instagram.com ""Family Time""",social,4,tavily,basic,13,https://www.instagram.com/reel/DEQsVCPBM9G?hl=en,New Year 2025 — a time for family but also a time for solitude for me ...,Taylor Swift•New Year’s Day New Year 2025 — a time for family but also a time for solitude for me. Grateful for this moment for our little family but moreso because we found family too in others . #tagaytayhighlands has become part of our New Year’s tradition now . Thank you #ahiya and #achi Tius ! For your LOVE and LIGHT to our family 🔅 Happy New Year po Ate B. Good morning 😍 Happy New year 😍 and new Hair hehe Happy New Year Ms B! Happy New Year po Ate B ❤️ Happy New Year Ate and Fam🧡🌻 Happy New year ate be😍❤️ Happy New Year B and Orange! Thank you for your beautiful friendship 🫰🏻 Happy New Year Ms. B❤️ 🌷 Happy New Year.🎉🥳💞 Lively Filipino Seniors 60+ Network👬 I will continue to watch your vlogs coz each one gives me an important lesson. Log in to like or comment.,unknown_date,social_post
+5072600,"site:x.com ""Family Time""",social,4,tavily,basic,14,https://x.com/SahilBloom/status/1591424561111003138,"Sahil Bloom on X: ""In summary: (1) Family time is limited—cherish it ...",Time Spent With Parents & Siblings Peaks in childhood and declines after age 20. Key Takeaways: • Time with family is limited. • Time with,unknown_date,social_post
+5072600,"site:x.com ""Family Time""",social,4,tavily,basic,14,https://x.com/familytime___,Family Time (@familytime___) / X,Family Time - 'Magic Abyss Hotel' (Official Video) 'Room 301' is our last single before the album comes out.,unknown_date,social_post
+5072600,"site:x.com ""Family Time""",social,4,tavily,basic,14,https://x.com/SahilBloom/status/1650255498375995392,"Sahil Bloom on X: ""The chart I made to visualize time",Key lessons: • Time with family is limited. • Time with parents declines sharply after age 20. We have to prioritize and cherish every moment.,unknown_date,social_post
+5072600,"site:x.com ""Family Time""",social,4,tavily,basic,14,https://x.com/SahilBloom/status/1906463152256037035,"Sahil Bloom on X: ""This chart of time with family (parents and ...",This chart of time with family (parents and siblings) is effectively the children chart viewed from the other side.,unknown_date,social_post
+5072600,"site:x.com ""Family Time""",social,4,tavily,basic,14,https://x.com/i/status/2047872906462388584,"E C K on X: ""Much needed family time in TO."" / X","Much needed family time in TO. ""Much needed family time in TO."" or sign up for X See what's happening and join the conversation. KC Royals Scout | 🍁 Premier |",unknown_date,social_post
+5072600,"site: ""Family Time""",social,4,tavily,basic,15,https://en.wikipedia.org/wiki/Family_Time_(TV_series),Family Time (TV series),"Family Time is an American television sitcom that was created by Bentley Kyle Evans, and aired on Bounce TV from June 18, 2012, to December 16, 2020. It stars Omar Gooding and Angell Conwell as Anthony and Lisa Stallworth, a working-class family bumped to the middle class by a winning lottery ticket. It was the first original series for the network. [...] ## External links
+
+[edit&action=edit&section=16 ""Edit section: External links"")]
+
+ Official website
+ Family Time at IMDb ""IMDb (identifier)"")
+
+Retrieved from """"
+
+Categories: [...] 1. ↑ The Deadline Team (April 30, 2012). ""Bounce TV To Launch First Original Series 'Family Time' On June 18"". Deadline. Archived from the original on February 17, 2016. Retrieved January 18, 2016.
+2. ↑ Todd Kushigemachi (April 30, 2012). ""Bounce TV launches original 'Family Time'"". Variety. Retrieved January 18, 2016.
+3. ↑ Tambay A. Obenson (October 13, 2014). ""Bounce Sets Season 2 Premiere of 'Family Time' + Guest S - Shadow and Act"". Shadow and Act. Retrieved January 18, 2016.",unknown_date,social_post
+5072600,"site: ""Family Time""",social,4,tavily,basic,15,https://play.google.com/store/apps/details?id=io.familytime.dashboard&hl=en_US,FamilyTime Review: Why and How To Monitor Kids Digitally,"FamilyTime Parental Control App  
+  
+FamilyTime is a parental control app that enables parents to easily manage their child's screen time by blocking apps and games. Parents can ensure their children's safe and healthy internet usage with additional features such as location tracking, YouTube and TikTok history monitoring, call and SMS tracking, app usage monitoring, app limits, and family tracking.  
+  
+A Parental Control App [...] August 19, 2026
+
+FamilyTime is an excellent app for parents who want to keep their kids safe in the digital world. It is very easy to use and helps me manage screen time, block unnecessary apps, and track my children's location in real time. The app works smoothly and gives me peace of mind knowing my kids are safe. I highly recommend FamilyTime to all parents.
+
+2 people found this review helpful
+
+Azizolious
+
+August 21, 2026 [...] Family Locator and GPS Tracker - The all-new Family Locator is a mobile GPS tracker conveniently built into the core of the FamilyTime App. Keep track of your kid's location and receive real-time location updates directly to your phone.  
+  
+Social Media Monitoring - Keep an eye on your child's social media activity for potential issues like cyberbullying or inappropriate content.",unknown_date,social_post
+5072600,"site: ""Family Time""",social,4,tavily,basic,15,https://www.tvguide.com/tvshows/family-time/1030417616,Family Time - Where to Watch and Stream - TV Guide,"# Family Time
+
+Anthony and Lisa Stallworth and their children, Ebony and Devin, are an authentic picture of an African-American family working to live the American dream. When this working-class family scratches off the right lottery ticket one night, they're suddenly propelled to a middle-class community in sunny southern California. [...] Anthony and Lisa Stallworth and their children, Ebony and Devin, are an authentic picture of an African-American family working to live the American dream. When this working-class family scratches off the right lottery ticket one night, they're suddenly propelled to a middle-class community in sunny southern California.
+
+Currently not available to stream. Add it to your Watchlist to be notified when it becomes available. [...] Like a lot of small businesses, Lucille Williams' once-prospering 30s-and-older lounge, Lucille's Place, took a huge hit, forcing her to sell. Lucille's baby brother, Henry Williams, couldn't stand by and let Lucille's Place slip away, so he recruited his fraternal twins, Aaliyah and Alfonso, to keep the business in the family. With Aaliyah's creative sensibilities and Alfonso's business mind, a safe space for planning and hosting events was born. Alfonso's wife, Kimberly, and son, Alfonso Jr.",unknown_date,social_post
+5072600,"site: ""Family Time""",social,4,tavily,basic,15,https://www.casey.org/family-time,The Benefits of Family Time – Casey Family Programs,"Family time is essential for healthy child development, especially for children in foster care, as it helps to maintain parent-child attachment, reduce a child’s sense of abandonment, and preserve a sense of belonging as part of a family and community. Family time offers reassurance for children and their parents, opportunities to strengthen cultural and kinship connections, and motivation for parents to enroll in treatment or meet other permanency plan requirements. Although there is no [...] Family time should occur in places that provide as homelike and familiar of a setting as possible, while also maintaining safety. The visiting space should be comfortable, clean, relatively quiet, and include age-appropriate toys and activities. While many families meet in child protection agency offices, many jurisdictions are moving away from such sterile settings, instead hosting family time in the homes of birth parents, relatives, or foster parents, or at community centers, libraries, [...] While most agency policies, state laws, and court decisions have focused on family visits or visitation, “family time” and “family connection” are more appropriate terms and goals. “Visits” and “visitation” are terms more often associated with hospitals, prisons, treatment facilities, or other involuntary settings. Family time and family connection, on the other hand, reflect positive connotations and values, including that time spent with family members is fundamental.",unknown_date,social_post
+5072600,"site: ""Family Time""",social,4,tavily,basic,15,https://familytime.io,FamilyTime: Parental Control App | Screen Time Limit for ...,"Five Stars
+
+FamilyTime is much better than the cell phone monitoring app I used previously. It's cost-efficient, has more tools, and allows me to block games, apps, and websites that are not good for my child.
+
+Start Free Trial Live Chat)
+
+Offer Image
+
+##### Flash Sale! Get
+
+45% Discount
+
+##### on FamilyTime Premium
+
+## Why FamilyTime is the Best Parental Control App
+
+Take Back Control of Your Family Time with Effortless and Effective Digital Parenting
+
+Why FamilyTime [...] FamilyTime Awards FamilyTime Awards FamilyTime Awards FamilyTime Awards FamilyTime Awards
+
+Features Header Image
+
+FamilyTime on CBS News
+
+Yahoo
+
+Huffpost
+
+Daily Mail
+
+Mashabale
+
+Tom's Guide
+
+Washington Post
+
+PC Magzine
+
+BBC
+
+Fox News
+
+## Best Parental Control App Tailored for Every Age Group
+
+FamilyTime - The best parental control app offers digital well-being solutions for every age group to help you deal with the diverse challenges of digital parenting.
+
+### 3-8 Years Old | Early Childhood [...] Google Play
+
+Google Play
+
+App Store
+
+App Store
+
+Galaxy Store
+
+Galaxy Store
+
+AppGallery
+
+AppGallery
+
+## FamilyTime Parental Control App - Assisting Your Digital Parenting Journey
+
+Digital parenting is complex when you are doing it alone. FamilyTime parental monitoring app assists you on this journey, making it simple.
+
+Schedule Screen Time
+
+### Smart Screen Time Controls",unknown_date,social_post

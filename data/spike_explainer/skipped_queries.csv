@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-4538140,Rehaunted,"site:pcgamer.com ""Rehaunted""",press,2,tavily,False,General budget exhausted,0
-4538140,Rehaunted,"site:rockpapershotgun.com ""Rehaunted""",press,2,tavily,False,General budget exhausted,0
-4538140,Rehaunted,"site:ign.com ""Rehaunted""",press,2,tavily,False,General budget exhausted,0
-4538140,Rehaunted,"site:gamespot.com ""Rehaunted""",press,2,tavily,False,General budget exhausted,0
-4538140,Rehaunted,"site:game8.co ""Rehaunted""",press,2,tavily,False,General budget exhausted,0
+5072600,Family Time,"site:pcgamer.com ""Family Time""",press,2,tavily,False,General budget exhausted,0
+5072600,Family Time,"site:rockpapershotgun.com ""Family Time""",press,2,tavily,False,General budget exhausted,0
+5072600,Family Time,"site:ign.com ""Family Time""",press,2,tavily,False,General budget exhausted,0
+5072600,Family Time,"site:gamespot.com ""Family Time""",press,2,tavily,False,General budget exhausted,0
+5072600,Family Time,"site:game8.co ""Family Time""",press,2,tavily,False,General budget exhausted,0
