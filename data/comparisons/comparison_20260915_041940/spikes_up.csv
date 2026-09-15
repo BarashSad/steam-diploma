@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5072600,Family Time,Family Time,733,647,86,86,up,upward_spike,Free,Free,False,Q1 2027,Q1 2027,False
+4839390,Muse Dash 2,Muse Dash 2,1156,1129,27,27,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4981570,Wand & Order: Tidy up the magic shop!,Wand & Order: Tidy up the magic shop!,968,944,24,24,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 18, 2026","Sep 18, 2026",False
+3891400,Mixed Spirits: Bartender,Mixed Spirits: Bartender,1041,1020,21,21,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 15, 2026","Sep 15, 2026",False
+3832490,Antivirus Survivors 2003 Professional,Antivirus Survivors 2003 Professional,1124,1104,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 28, 2026","Sep 28, 2026",False

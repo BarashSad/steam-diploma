@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5072600,Family Time,"""Family Time"" Steam",general,1,tavily,True,,5
+5072600,Family Time,"""Family Time"" trailer",general,1,tavily,True,,5
+5072600,Family Time,"""Family Time"" gameplay",general,1,tavily,True,,5
+5072600,Family Time,"""Family Time"" demo",general,1,tavily,True,,5
+5072600,Family Time,"""Family Time"" release date",general,1,tavily,True,,5
+5072600,Family Time,"""Family Time"" announcement",general,1,tavily,True,,1
+5072600,Family Time,"""Family Time"" preview",general,1,tavily,True,,5
+5072600,Family Time,"""Family Time"" review",general,1,tavily,True,,5
+5072600,Family Time,"""Family Time"" publisher",general,1,tavily,True,,5
+5072600,Family Time,"""Family Time"" developer",general,1,tavily,True,,5
+5072600,Family Time,"site:pcgamer.com ""Family Time""",press,2,tavily,False,General budget exhausted,0
+5072600,Family Time,"site:rockpapershotgun.com ""Family Time""",press,2,tavily,False,General budget exhausted,0
+5072600,Family Time,"site:ign.com ""Family Time""",press,2,tavily,False,General budget exhausted,0
+5072600,Family Time,"site:gamespot.com ""Family Time""",press,2,tavily,False,General budget exhausted,0
+5072600,Family Time,"site:game8.co ""Family Time""",press,2,tavily,False,General budget exhausted,0
+5072600,Family Time,"site:reddit.com ""Family Time""",social,3,tavily,True,,5
+5072600,Family Time,"site:tiktok.com ""Family Time""",social,4,tavily,True,,5
+5072600,Family Time,"site:instagram.com ""Family Time""",social,4,tavily,True,,5
+5072600,Family Time,"site:x.com ""Family Time""",social,4,tavily,True,,5
+5072600,Family Time,"site: ""Family Time""",social,4,tavily,True,,5
