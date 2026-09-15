@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-15T16:50:10.566884+00:00",
+    "timestamp": "20260915_165010",
+    "input_file": "data/spike_explainer/2026-09-15__appid_4839390__rank_1129_to_1058__up_71/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-15__appid_4839390__rank_1129_to_1058__up_71/llm_outputs/gemini_20260915_165010.md",
+    "game_title": "Muse Dash 2",
+    "appid": "4839390",
+    "duration_sec": 17.86,
+    "response_length": 4766,
+    "error": null
+}

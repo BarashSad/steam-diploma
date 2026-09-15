@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4839390,Muse Dash 2,"""Muse Dash 2"" Steam",general,1,tavily,True,,5
+4839390,Muse Dash 2,"""Muse Dash 2"" trailer",general,1,tavily,True,,5
+4839390,Muse Dash 2,"""Muse Dash 2"" gameplay",general,1,tavily,True,,5
+4839390,Muse Dash 2,"""Muse Dash 2"" demo",general,1,tavily,True,,5
+4839390,Muse Dash 2,"""Muse Dash 2"" release date",general,1,tavily,True,,5
+4839390,Muse Dash 2,"""Muse Dash 2"" announcement",general,1,tavily,True,,5
+4839390,Muse Dash 2,"""Muse Dash 2"" preview",general,1,tavily,True,,5
+4839390,Muse Dash 2,"""Muse Dash 2"" review",general,1,tavily,True,,5
+4839390,Muse Dash 2,"""Muse Dash 2"" publisher",general,1,tavily,True,,5
+4839390,Muse Dash 2,"""Muse Dash 2"" developer",general,1,tavily,True,,5
+4839390,Muse Dash 2,"site:pcgamer.com ""Muse Dash 2""",press,2,tavily,False,General budget exhausted,0
+4839390,Muse Dash 2,"site:rockpapershotgun.com ""Muse Dash 2""",press,2,tavily,False,General budget exhausted,0
+4839390,Muse Dash 2,"site:ign.com ""Muse Dash 2""",press,2,tavily,False,General budget exhausted,0
+4839390,Muse Dash 2,"site:gamespot.com ""Muse Dash 2""",press,2,tavily,False,General budget exhausted,0
+4839390,Muse Dash 2,"site:game8.co ""Muse Dash 2""",press,2,tavily,False,General budget exhausted,0
+4839390,Muse Dash 2,"site:reddit.com ""Muse Dash 2""",social,3,tavily,True,,5
+4839390,Muse Dash 2,"site:tiktok.com ""Muse Dash 2""",social,4,tavily,True,,5
+4839390,Muse Dash 2,"site:instagram.com ""Muse Dash 2""",social,4,tavily,True,,5
+4839390,Muse Dash 2,"site:x.com ""Muse Dash 2""",social,4,tavily,True,,5
+4839390,Muse Dash 2,"site: ""Muse Dash 2""",social,4,tavily,True,,5
