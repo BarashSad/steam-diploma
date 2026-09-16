@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-09-16T04:25:35.900777+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260916_041524/rank_changes.csv",
-    "selected_appid": "4954910",
-    "selected_game_title": "Scam With Your Friends",
+    "started_at": "2026-09-16T16:43:38.780051+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260916_163341/rank_changes.csv",
+    "selected_appid": "4507990",
+    "selected_game_title": "Wo Long 2: Wings of Ember",
     "top_n": 1,
     "old_snapshot_date": "2026-09-13",
     "new_snapshot_date": "2026-09-16",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-16T04:25:35.900792+00:00",
+    "finished_at": "2026-09-16T16:43:38.780074+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

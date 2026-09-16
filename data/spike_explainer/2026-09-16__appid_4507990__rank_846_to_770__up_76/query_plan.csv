@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4507990,Wo Long 2: Wings of Ember,"""Wo Long 2: Wings of Ember"" Steam",general,1,tavily,True,,5
+4507990,Wo Long 2: Wings of Ember,"""Wo Long 2: Wings of Ember"" trailer",general,1,tavily,True,,5
+4507990,Wo Long 2: Wings of Ember,"""Wo Long 2: Wings of Ember"" gameplay",general,1,tavily,True,,5
+4507990,Wo Long 2: Wings of Ember,"""Wo Long 2: Wings of Ember"" demo",general,1,tavily,True,,5
+4507990,Wo Long 2: Wings of Ember,"""Wo Long 2: Wings of Ember"" release date",general,1,tavily,True,,5
+4507990,Wo Long 2: Wings of Ember,"""Wo Long 2: Wings of Ember"" announcement",general,1,tavily,True,,5
+4507990,Wo Long 2: Wings of Ember,"""Wo Long 2: Wings of Ember"" preview",general,1,tavily,True,,5
+4507990,Wo Long 2: Wings of Ember,"""Wo Long 2: Wings of Ember"" review",general,1,tavily,True,,5
+4507990,Wo Long 2: Wings of Ember,"""Wo Long 2: Wings of Ember"" publisher",general,1,tavily,True,,5
+4507990,Wo Long 2: Wings of Ember,"""Wo Long 2: Wings of Ember"" developer",general,1,tavily,True,,5
+4507990,Wo Long 2: Wings of Ember,"site:pcgamer.com ""Wo Long 2: Wings of Ember""",press,2,tavily,False,General budget exhausted,0
+4507990,Wo Long 2: Wings of Ember,"site:rockpapershotgun.com ""Wo Long 2: Wings of Ember""",press,2,tavily,False,General budget exhausted,0
+4507990,Wo Long 2: Wings of Ember,"site:ign.com ""Wo Long 2: Wings of Ember""",press,2,tavily,False,General budget exhausted,0
+4507990,Wo Long 2: Wings of Ember,"site:gamespot.com ""Wo Long 2: Wings of Ember""",press,2,tavily,False,General budget exhausted,0
+4507990,Wo Long 2: Wings of Ember,"site:game8.co ""Wo Long 2: Wings of Ember""",press,2,tavily,False,General budget exhausted,0
+4507990,Wo Long 2: Wings of Ember,"site:reddit.com ""Wo Long 2: Wings of Ember""",social,3,tavily,True,,5
+4507990,Wo Long 2: Wings of Ember,"site:tiktok.com ""Wo Long 2: Wings of Ember""",social,4,tavily,True,,5
+4507990,Wo Long 2: Wings of Ember,"site:instagram.com ""Wo Long 2: Wings of Ember""",social,4,tavily,True,,5
+4507990,Wo Long 2: Wings of Ember,"site:x.com ""Wo Long 2: Wings of Ember""",social,4,tavily,True,,5
+4507990,Wo Long 2: Wings of Ember,"site: ""Wo Long 2: Wings of Ember""",social,4,tavily,True,,5

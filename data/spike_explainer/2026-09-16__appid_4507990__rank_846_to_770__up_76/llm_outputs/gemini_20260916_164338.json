@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-16T16:43:38.887464+00:00",
+    "timestamp": "20260916_164338",
+    "input_file": "data/spike_explainer/2026-09-16__appid_4507990__rank_846_to_770__up_76/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-16__appid_4507990__rank_846_to_770__up_76/llm_outputs/gemini_20260916_164338.md",
+    "game_title": "Wo Long 2: Wings of Ember",
+    "appid": "4507990",
+    "duration_sec": 17.66,
+    "response_length": 7077,
+    "error": null
+}
