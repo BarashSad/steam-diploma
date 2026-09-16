@@ -1,0 +1,26 @@
+{
+    "appnews": {
+        "appid": 4954910,
+        "newsitems": [
+            {
+                "gid": "1843481262690751",
+                "title": "10,000 Wishlists!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690751",
+                "is_external_url": true,
+                "author": "JakeHub",
+                "contents": "We just passed 10,000 wishlists! Thanks to everyone who\u2019s supported Scam With Your Friends so far. We\u2019ve got a lot more coming soon.If you\u2019re a creator, feel free to make content on the game! You can use anything from our press kit here:https://drive.google.com/drive/folders/1T-lfJFGo4vfhlwNFhjWr9GZ3ULWqPoh9?usp=sharingAnd make sure to join our Discord for updates, announcements, and sneak peeks!https://discord.com/invite/jataterww",
+                "feedlabel": "Community Announcements",
+                "date": 1789002945,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4954910,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1426387032_1789004354_0",
+                    "mod_require_rereview"
+                ]
+            }
+        ],
+        "count": 1
+    }
+}

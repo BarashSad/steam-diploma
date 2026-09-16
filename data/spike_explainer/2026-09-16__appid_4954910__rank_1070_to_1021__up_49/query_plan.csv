@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4954910,Scam With Your Friends,"""Scam With Your Friends"" Steam",general,1,tavily,True,,5
+4954910,Scam With Your Friends,"""Scam With Your Friends"" trailer",general,1,tavily,True,,5
+4954910,Scam With Your Friends,"""Scam With Your Friends"" gameplay",general,1,tavily,True,,5
+4954910,Scam With Your Friends,"""Scam With Your Friends"" demo",general,1,tavily,True,,5
+4954910,Scam With Your Friends,"""Scam With Your Friends"" release date",general,1,tavily,True,,5
+4954910,Scam With Your Friends,"""Scam With Your Friends"" announcement",general,1,tavily,True,,5
+4954910,Scam With Your Friends,"""Scam With Your Friends"" preview",general,1,tavily,True,,5
+4954910,Scam With Your Friends,"""Scam With Your Friends"" review",general,1,tavily,True,,5
+4954910,Scam With Your Friends,"""Scam With Your Friends"" publisher",general,1,tavily,True,,5
+4954910,Scam With Your Friends,"""Scam With Your Friends"" developer",general,1,tavily,True,,5
+4954910,Scam With Your Friends,"site:pcgamer.com ""Scam With Your Friends""",press,2,tavily,False,General budget exhausted,0
+4954910,Scam With Your Friends,"site:rockpapershotgun.com ""Scam With Your Friends""",press,2,tavily,False,General budget exhausted,0
+4954910,Scam With Your Friends,"site:ign.com ""Scam With Your Friends""",press,2,tavily,False,General budget exhausted,0
+4954910,Scam With Your Friends,"site:gamespot.com ""Scam With Your Friends""",press,2,tavily,False,General budget exhausted,0
+4954910,Scam With Your Friends,"site:game8.co ""Scam With Your Friends""",press,2,tavily,False,General budget exhausted,0
+4954910,Scam With Your Friends,"site:reddit.com ""Scam With Your Friends""",social,3,tavily,True,,5
+4954910,Scam With Your Friends,"site:tiktok.com ""Scam With Your Friends""",social,4,tavily,True,,5
+4954910,Scam With Your Friends,"site:instagram.com ""Scam With Your Friends""",social,4,tavily,True,,5
+4954910,Scam With Your Friends,"site:x.com ""Scam With Your Friends""",social,4,tavily,True,,5
+4954910,Scam With Your Friends,"site: ""Scam With Your Friends""",social,4,tavily,True,,5
