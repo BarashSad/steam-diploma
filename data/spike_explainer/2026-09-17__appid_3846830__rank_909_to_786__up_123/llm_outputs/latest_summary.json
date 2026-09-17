@@ -1,0 +1,15 @@
+{
+    "status": "error_api_failure",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-17T04:31:47.595338+00:00",
+    "timestamp": "20260917_043147",
+    "input_file": "data/spike_explainer/2026-09-17__appid_3846830__rank_909_to_786__up_123/llm_summary_input.md",
+    "output_path": "",
+    "game_title": "Total War: SHOGUN 2 - Complete Edition",
+    "appid": "3846830",
+    "duration_sec": 0.0,
+    "response_length": 0,
+    "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+}
