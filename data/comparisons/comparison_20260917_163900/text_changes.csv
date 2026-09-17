@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2738170,Edge of Memories,Edge of Memories,445,440,5,5,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q4 2026,"Nov 5, 2026",True
+3106270,HELLCARD II,HELLCARD II,1091,1087,4,4,up,none,Unpriced (Coming Soon),Free,True,Q4 2026,Q1 2027,True
+3743140,Battleplan,Battleplan,736,733,3,3,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q4 2026,"Oct 12, 2026",True
+3462190,PHASE ZERO,PHASE ZERO,470,470,0,0,stable,none,Unpriced (Coming Soon),Free,True,2026,"Mar 11, 2027",True

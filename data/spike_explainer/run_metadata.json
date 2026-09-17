@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-09-17T04:31:47.503004+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260917_042210/rank_changes.csv",
+    "started_at": "2026-09-17T16:49:30.152098+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260917_163900/rank_changes.csv",
     "selected_appid": "3846830",
     "selected_game_title": "Total War: SHOGUN 2 - Complete Edition",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-17T04:31:47.503021+00:00",
+    "finished_at": "2026-09-17T16:49:30.152114+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

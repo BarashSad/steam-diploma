@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-09-17T04:31:22.596856+00:00,3846830,Total War: SHOGUN 2 - Complete Edition,data/spike_explainer/2026-09-17__appid_3846830__rank_909_to_786__up_123,123,85,data/spike_explainer/2026-09-17__appid_3846830__rank_909_to_786__up_123/llm_summary_input.md
+2026-09-17T16:49:03.843240+00:00,3846830,Total War: SHOGUN 2 - Complete Edition,data/spike_explainer/2026-09-17__appid_3846830__rank_786_to_696__up_90,90,85,data/spike_explainer/2026-09-17__appid_3846830__rank_786_to_696__up_90/llm_summary_input.md

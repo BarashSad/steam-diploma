@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-17T16:49:30.253410+00:00",
+    "timestamp": "20260917_164930",
+    "input_file": "data/spike_explainer/2026-09-17__appid_3846830__rank_786_to_696__up_90/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-17__appid_3846830__rank_786_to_696__up_90/llm_outputs/gemini_20260917_164930.md",
+    "game_title": "Total War: SHOGUN 2 - Complete Edition",
+    "appid": "3846830",
+    "duration_sec": 18.77,
+    "response_length": 5639,
+    "error": null
+}
