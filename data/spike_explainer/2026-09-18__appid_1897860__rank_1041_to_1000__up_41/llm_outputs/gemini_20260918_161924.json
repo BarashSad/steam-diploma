@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-18T16:19:24.462812+00:00",
+    "timestamp": "20260918_161924",
+    "input_file": "data/spike_explainer/2026-09-18__appid_1897860__rank_1041_to_1000__up_41/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-18__appid_1897860__rank_1041_to_1000__up_41/llm_outputs/gemini_20260918_161924.md",
+    "game_title": "Sunken Realms",
+    "appid": "1897860",
+    "duration_sec": 22.99,
+    "response_length": 7171,
+    "error": null
+}

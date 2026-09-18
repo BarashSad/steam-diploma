@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+1897860,Sunken Realms,"""Sunken Realms"" Steam",general,1,tavily,True,,5
+1897860,Sunken Realms,"""Sunken Realms"" trailer",general,1,tavily,True,,5
+1897860,Sunken Realms,"""Sunken Realms"" gameplay",general,1,tavily,True,,5
+1897860,Sunken Realms,"""Sunken Realms"" demo",general,1,tavily,True,,5
+1897860,Sunken Realms,"""Sunken Realms"" release date",general,1,tavily,True,,5
+1897860,Sunken Realms,"""Sunken Realms"" announcement",general,1,tavily,True,,5
+1897860,Sunken Realms,"""Sunken Realms"" preview",general,1,tavily,True,,5
+1897860,Sunken Realms,"""Sunken Realms"" review",general,1,tavily,True,,5
+1897860,Sunken Realms,"""Sunken Realms"" publisher",general,1,tavily,True,,5
+1897860,Sunken Realms,"""Sunken Realms"" developer",general,1,tavily,True,,5
+1897860,Sunken Realms,"site:pcgamer.com ""Sunken Realms""",press,2,tavily,False,General budget exhausted,0
+1897860,Sunken Realms,"site:rockpapershotgun.com ""Sunken Realms""",press,2,tavily,False,General budget exhausted,0
+1897860,Sunken Realms,"site:ign.com ""Sunken Realms""",press,2,tavily,False,General budget exhausted,0
+1897860,Sunken Realms,"site:gamespot.com ""Sunken Realms""",press,2,tavily,False,General budget exhausted,0
+1897860,Sunken Realms,"site:game8.co ""Sunken Realms""",press,2,tavily,False,General budget exhausted,0
+1897860,Sunken Realms,"site:reddit.com ""Sunken Realms""",social,3,tavily,True,,5
+1897860,Sunken Realms,"site:tiktok.com ""Sunken Realms""",social,4,tavily,True,,5
+1897860,Sunken Realms,"site:instagram.com ""Sunken Realms""",social,4,tavily,True,,5
+1897860,Sunken Realms,"site:x.com ""Sunken Realms""",social,4,tavily,True,,5
+1897860,Sunken Realms,"site: ""Sunken Realms""",social,4,tavily,True,,5

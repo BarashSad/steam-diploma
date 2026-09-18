@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-09-18T04:15:59.940650+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260918_040606/rank_changes.csv",
-    "selected_appid": "3846830",
-    "selected_game_title": "Total War: SHOGUN 2 - Complete Edition",
+    "started_at": "2026-09-18T16:19:24.343567+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260918_161006/rank_changes.csv",
+    "selected_appid": "1897860",
+    "selected_game_title": "Sunken Realms",
     "top_n": 1,
     "old_snapshot_date": "2026-09-15",
     "new_snapshot_date": "2026-09-18",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-18T04:15:59.940669+00:00",
+    "finished_at": "2026-09-18T16:19:24.343605+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
