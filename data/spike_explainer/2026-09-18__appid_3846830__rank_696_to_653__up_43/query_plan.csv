@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3846830,Total War: SHOGUN 2 - Complete Edition,"""Total War: SHOGUN 2 - Complete Edition"" Steam",general,1,tavily,True,,5
+3846830,Total War: SHOGUN 2 - Complete Edition,"""Total War: SHOGUN 2 - Complete Edition"" trailer",general,1,tavily,True,,5
+3846830,Total War: SHOGUN 2 - Complete Edition,"""Total War: SHOGUN 2 - Complete Edition"" gameplay",general,1,tavily,True,,5
+3846830,Total War: SHOGUN 2 - Complete Edition,"""Total War: SHOGUN 2 - Complete Edition"" demo",general,1,tavily,True,,5
+3846830,Total War: SHOGUN 2 - Complete Edition,"""Total War: SHOGUN 2 - Complete Edition"" release date",general,1,tavily,True,,5
+3846830,Total War: SHOGUN 2 - Complete Edition,"""Total War: SHOGUN 2 - Complete Edition"" announcement",general,1,tavily,True,,5
+3846830,Total War: SHOGUN 2 - Complete Edition,"""Total War: SHOGUN 2 - Complete Edition"" preview",general,1,tavily,True,,5
+3846830,Total War: SHOGUN 2 - Complete Edition,"""Total War: SHOGUN 2 - Complete Edition"" review",general,1,tavily,True,,5
+3846830,Total War: SHOGUN 2 - Complete Edition,"""Total War: SHOGUN 2 - Complete Edition"" publisher",general,1,tavily,True,,5
+3846830,Total War: SHOGUN 2 - Complete Edition,"""Total War: SHOGUN 2 - Complete Edition"" developer",general,1,tavily,True,,5
+3846830,Total War: SHOGUN 2 - Complete Edition,"site:pcgamer.com ""Total War: SHOGUN 2 - Complete Edition""",press,2,tavily,False,General budget exhausted,0
+3846830,Total War: SHOGUN 2 - Complete Edition,"site:rockpapershotgun.com ""Total War: SHOGUN 2 - Complete Edition""",press,2,tavily,False,General budget exhausted,0
+3846830,Total War: SHOGUN 2 - Complete Edition,"site:ign.com ""Total War: SHOGUN 2 - Complete Edition""",press,2,tavily,False,General budget exhausted,0
+3846830,Total War: SHOGUN 2 - Complete Edition,"site:gamespot.com ""Total War: SHOGUN 2 - Complete Edition""",press,2,tavily,False,General budget exhausted,0
+3846830,Total War: SHOGUN 2 - Complete Edition,"site:game8.co ""Total War: SHOGUN 2 - Complete Edition""",press,2,tavily,False,General budget exhausted,0
+3846830,Total War: SHOGUN 2 - Complete Edition,"site:reddit.com ""Total War: SHOGUN 2 - Complete Edition""",social,3,tavily,True,,5
+3846830,Total War: SHOGUN 2 - Complete Edition,"site:tiktok.com ""Total War: SHOGUN 2 - Complete Edition""",social,4,tavily,True,,5
+3846830,Total War: SHOGUN 2 - Complete Edition,"site:instagram.com ""Total War: SHOGUN 2 - Complete Edition""",social,4,tavily,True,,5
+3846830,Total War: SHOGUN 2 - Complete Edition,"site:x.com ""Total War: SHOGUN 2 - Complete Edition""",social,4,tavily,True,,5
+3846830,Total War: SHOGUN 2 - Complete Edition,"site: ""Total War: SHOGUN 2 - Complete Edition""",social,4,tavily,True,,5

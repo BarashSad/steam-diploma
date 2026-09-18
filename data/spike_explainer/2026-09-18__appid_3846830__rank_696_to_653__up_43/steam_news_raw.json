@@ -1,0 +1,21 @@
+{
+    "appnews": {
+        "appid": 3846830,
+        "newsitems": [
+            {
+                "gid": "1844115010488424",
+                "title": "Total War: SHOGUN 2 - Complete Edition announced to release in October",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1844115010488424",
+                "is_external_url": true,
+                "author": "",
+                "contents": "Total War: SHOGUN 2 - Complete Edition arrives October 13th bringing the classic back with some fresh modern touches. Read the full article here: https://www.gamingonlinux.com/2026/09/total-war-shogun-2-complete-edition-announced-to-release-in-october/ ",
+                "feedlabel": "GamingOnLinux",
+                "date": 1789545963,
+                "feedname": "GamingOnLinux",
+                "feed_type": 0,
+                "appid": 3846830
+            }
+        ],
+        "count": 1
+    }
+}
