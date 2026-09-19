@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-09-18T16:19:03.592870+00:00,1897860,Sunken Realms,data/spike_explainer/2026-09-18__appid_1897860__rank_1041_to_1000__up_41,41,85,data/spike_explainer/2026-09-18__appid_1897860__rank_1041_to_1000__up_41/llm_summary_input.md
+2026-09-19T04:11:01.387875+00:00,5072600,Family Time,data/spike_explainer/2026-09-19__appid_5072600__rank_399_to_358__up_41,41,85,data/spike_explainer/2026-09-19__appid_5072600__rank_399_to_358__up_41/llm_summary_input.md
