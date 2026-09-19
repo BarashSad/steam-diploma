@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-09-19T04:11:20.865075+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260919_040238/rank_changes.csv",
+    "started_at": "2026-09-19T15:52:23.490577+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260919_154208/rank_changes.csv",
     "selected_appid": "5072600",
     "selected_game_title": "Family Time",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-19T04:11:20.865089+00:00",
+    "finished_at": "2026-09-19T15:52:23.490592+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
