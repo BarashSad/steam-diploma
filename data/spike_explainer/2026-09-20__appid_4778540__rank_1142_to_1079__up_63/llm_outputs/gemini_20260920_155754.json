@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-20T15:57:54.188203+00:00",
+    "timestamp": "20260920_155754",
+    "input_file": "data/spike_explainer/2026-09-20__appid_4778540__rank_1142_to_1079__up_63/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-20__appid_4778540__rank_1142_to_1079__up_63/llm_outputs/gemini_20260920_155754.md",
+    "game_title": "Lucid Cats",
+    "appid": "4778540",
+    "duration_sec": 19.17,
+    "response_length": 5337,
+    "error": null
+}

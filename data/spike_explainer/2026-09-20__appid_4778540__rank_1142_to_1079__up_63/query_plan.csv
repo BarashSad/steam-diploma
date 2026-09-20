@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4778540,Lucid Cats,"""Lucid Cats"" Steam",general,1,tavily,True,,5
+4778540,Lucid Cats,"""Lucid Cats"" trailer",general,1,tavily,True,,5
+4778540,Lucid Cats,"""Lucid Cats"" gameplay",general,1,tavily,True,,5
+4778540,Lucid Cats,"""Lucid Cats"" demo",general,1,tavily,True,,5
+4778540,Lucid Cats,"""Lucid Cats"" release date",general,1,tavily,True,,5
+4778540,Lucid Cats,"""Lucid Cats"" announcement",general,1,tavily,True,,5
+4778540,Lucid Cats,"""Lucid Cats"" preview",general,1,tavily,True,,5
+4778540,Lucid Cats,"""Lucid Cats"" review",general,1,tavily,True,,5
+4778540,Lucid Cats,"""Lucid Cats"" publisher",general,1,tavily,True,,5
+4778540,Lucid Cats,"""Lucid Cats"" developer",general,1,tavily,True,,5
+4778540,Lucid Cats,"site:pcgamer.com ""Lucid Cats""",press,2,tavily,False,General budget exhausted,0
+4778540,Lucid Cats,"site:rockpapershotgun.com ""Lucid Cats""",press,2,tavily,False,General budget exhausted,0
+4778540,Lucid Cats,"site:ign.com ""Lucid Cats""",press,2,tavily,False,General budget exhausted,0
+4778540,Lucid Cats,"site:gamespot.com ""Lucid Cats""",press,2,tavily,False,General budget exhausted,0
+4778540,Lucid Cats,"site:game8.co ""Lucid Cats""",press,2,tavily,False,General budget exhausted,0
+4778540,Lucid Cats,"site:reddit.com ""Lucid Cats""",social,3,tavily,True,,5
+4778540,Lucid Cats,"site:tiktok.com ""Lucid Cats""",social,4,tavily,True,,5
+4778540,Lucid Cats,"site:instagram.com ""Lucid Cats""",social,4,tavily,True,,5
+4778540,Lucid Cats,"site:x.com ""Lucid Cats""",social,4,tavily,True,,5
+4778540,Lucid Cats,"site: ""Lucid Cats""",social,4,tavily,True,,5

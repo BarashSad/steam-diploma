@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-09-20T04:30:46.419238+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260920_042159/rank_changes.csv",
-    "selected_appid": "4694270",
-    "selected_game_title": "Backrooms: Code Yellow",
+    "started_at": "2026-09-20T15:57:54.082665+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260920_154739/rank_changes.csv",
+    "selected_appid": "4778540",
+    "selected_game_title": "Lucid Cats",
     "top_n": 1,
     "old_snapshot_date": "2026-09-17",
     "new_snapshot_date": "2026-09-20",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-20T04:30:46.419251+00:00",
+    "finished_at": "2026-09-20T15:57:54.082679+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
