@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-20T04:30:46.513931+00:00",
+    "timestamp": "20260920_043046",
+    "input_file": "data/spike_explainer/2026-09-20__appid_4694270__rank_1015_to_981__up_34/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-20__appid_4694270__rank_1015_to_981__up_34/llm_outputs/gemini_20260920_043046.md",
+    "game_title": "Backrooms: Code Yellow",
+    "appid": "4694270",
+    "duration_sec": 17.73,
+    "response_length": 5452,
+    "error": null
+}

@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4694270,Backrooms: Code Yellow,"""Backrooms: Code Yellow"" Steam",general,1,tavily,True,,5
+4694270,Backrooms: Code Yellow,"""Backrooms: Code Yellow"" trailer",general,1,tavily,True,,5
+4694270,Backrooms: Code Yellow,"""Backrooms: Code Yellow"" gameplay",general,1,tavily,True,,5
+4694270,Backrooms: Code Yellow,"""Backrooms: Code Yellow"" demo",general,1,tavily,True,,5
+4694270,Backrooms: Code Yellow,"""Backrooms: Code Yellow"" release date",general,1,tavily,True,,5
+4694270,Backrooms: Code Yellow,"""Backrooms: Code Yellow"" announcement",general,1,tavily,True,,5
+4694270,Backrooms: Code Yellow,"""Backrooms: Code Yellow"" preview",general,1,tavily,True,,5
+4694270,Backrooms: Code Yellow,"""Backrooms: Code Yellow"" review",general,1,tavily,True,,5
+4694270,Backrooms: Code Yellow,"""Backrooms: Code Yellow"" publisher",general,1,tavily,True,,5
+4694270,Backrooms: Code Yellow,"""Backrooms: Code Yellow"" developer",general,1,tavily,True,,5
+4694270,Backrooms: Code Yellow,"site:pcgamer.com ""Backrooms: Code Yellow""",press,2,tavily,False,General budget exhausted,0
+4694270,Backrooms: Code Yellow,"site:rockpapershotgun.com ""Backrooms: Code Yellow""",press,2,tavily,False,General budget exhausted,0
+4694270,Backrooms: Code Yellow,"site:ign.com ""Backrooms: Code Yellow""",press,2,tavily,False,General budget exhausted,0
+4694270,Backrooms: Code Yellow,"site:gamespot.com ""Backrooms: Code Yellow""",press,2,tavily,False,General budget exhausted,0
+4694270,Backrooms: Code Yellow,"site:game8.co ""Backrooms: Code Yellow""",press,2,tavily,False,General budget exhausted,0
+4694270,Backrooms: Code Yellow,"site:reddit.com ""Backrooms: Code Yellow""",social,3,tavily,True,,5
+4694270,Backrooms: Code Yellow,"site:tiktok.com ""Backrooms: Code Yellow""",social,4,tavily,True,,5
+4694270,Backrooms: Code Yellow,"site:instagram.com ""Backrooms: Code Yellow""",social,4,tavily,True,,5
+4694270,Backrooms: Code Yellow,"site:x.com ""Backrooms: Code Yellow""",social,4,tavily,True,,5
+4694270,Backrooms: Code Yellow,"site: ""Backrooms: Code Yellow""",social,4,tavily,True,,5
