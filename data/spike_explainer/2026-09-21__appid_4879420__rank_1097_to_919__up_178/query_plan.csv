@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4879420,BELTFED - Roguelike Factory Defense,"""BELTFED - Roguelike Factory Defense"" Steam",general,1,tavily,True,,5
+4879420,BELTFED - Roguelike Factory Defense,"""BELTFED - Roguelike Factory Defense"" trailer",general,1,tavily,True,,5
+4879420,BELTFED - Roguelike Factory Defense,"""BELTFED - Roguelike Factory Defense"" gameplay",general,1,tavily,True,,5
+4879420,BELTFED - Roguelike Factory Defense,"""BELTFED - Roguelike Factory Defense"" demo",general,1,tavily,True,,5
+4879420,BELTFED - Roguelike Factory Defense,"""BELTFED - Roguelike Factory Defense"" release date",general,1,tavily,True,,5
+4879420,BELTFED - Roguelike Factory Defense,"""BELTFED - Roguelike Factory Defense"" announcement",general,1,tavily,True,,5
+4879420,BELTFED - Roguelike Factory Defense,"""BELTFED - Roguelike Factory Defense"" preview",general,1,tavily,True,,5
+4879420,BELTFED - Roguelike Factory Defense,"""BELTFED - Roguelike Factory Defense"" review",general,1,tavily,True,,5
+4879420,BELTFED - Roguelike Factory Defense,"""BELTFED - Roguelike Factory Defense"" publisher",general,1,tavily,True,,5
+4879420,BELTFED - Roguelike Factory Defense,"""BELTFED - Roguelike Factory Defense"" developer",general,1,tavily,True,,5
+4879420,BELTFED - Roguelike Factory Defense,"site:pcgamer.com ""BELTFED - Roguelike Factory Defense""",press,2,tavily,False,General budget exhausted,0
+4879420,BELTFED - Roguelike Factory Defense,"site:rockpapershotgun.com ""BELTFED - Roguelike Factory Defense""",press,2,tavily,False,General budget exhausted,0
+4879420,BELTFED - Roguelike Factory Defense,"site:ign.com ""BELTFED - Roguelike Factory Defense""",press,2,tavily,False,General budget exhausted,0
+4879420,BELTFED - Roguelike Factory Defense,"site:gamespot.com ""BELTFED - Roguelike Factory Defense""",press,2,tavily,False,General budget exhausted,0
+4879420,BELTFED - Roguelike Factory Defense,"site:game8.co ""BELTFED - Roguelike Factory Defense""",press,2,tavily,False,General budget exhausted,0
+4879420,BELTFED - Roguelike Factory Defense,"site:reddit.com ""BELTFED - Roguelike Factory Defense""",social,3,tavily,True,,5
+4879420,BELTFED - Roguelike Factory Defense,"site:tiktok.com ""BELTFED - Roguelike Factory Defense""",social,4,tavily,True,,5
+4879420,BELTFED - Roguelike Factory Defense,"site:instagram.com ""BELTFED - Roguelike Factory Defense""",social,4,tavily,True,,5
+4879420,BELTFED - Roguelike Factory Defense,"site:x.com ""BELTFED - Roguelike Factory Defense""",social,4,tavily,True,,5
+4879420,BELTFED - Roguelike Factory Defense,"site: ""BELTFED - Roguelike Factory Defense""",social,4,tavily,True,,5

@@ -1,0 +1,8 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2087540,Escape from Playtime,Escape from Playtime,805,762,43,43,up,upward_spike,Free,Unpriced (Coming Soon),True,Coming soon,"Oct 21, 2026",True
+3793200,American Truck Simulator - Road Trip: Ford,American Truck Simulator - Road Trip: Ford,295,291,4,4,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Sep 29, 2026",True
+1818660,Kalyskah,Kalyskah,1107,1110,-3,3,down,none,Unpriced (Coming Soon),Free,True,2026,2027,True
+2320980,Loftia,Loftia,208,206,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Nov 3, 2026",True
+2223980,Nomad Drive,Nomad Drive,251,253,-2,2,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,October 2026,"Oct 20, 2026",True
+2315050,We Were Here Tomorrow,We Were Here Tomorrow,154,153,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,October 2026,"Oct 20, 2026",True
+2365790,Let's Build a Dungeon,Let's Build a Dungeon,278,278,0,0,stable,none,Unpriced (Coming Soon),Free,True,2026,2027,True
