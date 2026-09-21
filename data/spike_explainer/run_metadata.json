@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-09-21T04:29:08.243373+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260921_041930/rank_changes.csv",
+    "started_at": "2026-09-21T18:15:45.680238+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260921_180521/rank_changes.csv",
     "selected_appid": "4879420",
     "selected_game_title": "BELTFED - Roguelike Factory Defense",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-21T04:29:08.243387+00:00",
+    "finished_at": "2026-09-21T18:15:45.680255+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
