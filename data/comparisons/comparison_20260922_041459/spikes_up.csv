@@ -1,0 +1,11 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4778540,Lucid Cats,Lucid Cats,903,827,76,76,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 25, 2026","Sep 25, 2026",False
+4879420,BELTFED - Roguelike Factory Defense,BELTFED - Roguelike Factory Defense,834,790,44,44,up,upward_spike,Free,Free,False,2027,2027,False
+4877950,Moylo,Moylo,1037,995,42,42,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+3431300,Slow Roads,Slow Roads,597,572,25,25,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 23, 2026","Sep 23, 2026",False
+2934330,RADIOSOL,RADIOSOL,979,954,25,25,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 30, 2026","Sep 30, 2026",False
+4072240,Woman Simulator,Woman Simulator,392,368,24,24,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 22, 2026","Sep 25, 2026",True
+3882410,Qliphah in Providence's Shadow,Qliphah in Providence's Shadow,908,884,24,24,up,upward_spike,$24.99,$24.99,False,"Sep 23, 2026","Sep 23, 2026",False
+3328490,Airport Control 27,Airport Control 27,942,919,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 21, 2026","Sep 21, 2026",False
+5064340,DinoBones: Tidy Up the Museum,DinoBones: Tidy Up the Museum,644,622,22,22,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 22, 2026","Sep 22, 2026",False
+2538870,False Hero,False Hero,763,741,22,22,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 22, 2026","Sep 22, 2026",False

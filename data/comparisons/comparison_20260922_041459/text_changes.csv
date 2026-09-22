@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4072240,Woman Simulator,Woman Simulator,392,368,24,24,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Sep 22, 2026","Sep 25, 2026",True
+2378230,Neo Junk City,Neo Junk City,900,897,3,3,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 2, 2026","Nov 9, 2026",True
+2365790,Let's Build a Dungeon,Let's Build a Dungeon,276,277,-1,1,down,none,Free,Free,False,2027,"Feb 11, 2027",True
+3765640,Car For Sale Together,Car For Sale Together,296,296,0,0,stable,none,Unpriced (Coming Soon),Free,True,2026,2027,True

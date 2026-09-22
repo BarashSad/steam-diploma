@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-09-21T18:15:45.680238+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260921_180521/rank_changes.csv",
-    "selected_appid": "4879420",
-    "selected_game_title": "BELTFED - Roguelike Factory Defense",
+    "started_at": "2026-09-22T04:24:03.900263+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260922_041459/rank_changes.csv",
+    "selected_appid": "4778540",
+    "selected_game_title": "Lucid Cats",
     "top_n": 1,
-    "old_snapshot_date": "2026-09-18",
-    "new_snapshot_date": "2026-09-21",
+    "old_snapshot_date": "2026-09-19",
+    "new_snapshot_date": "2026-09-22",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-21T18:15:45.680255+00:00",
+    "finished_at": "2026-09-22T04:24:03.900283+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
