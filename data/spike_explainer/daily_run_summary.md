@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Lucid Cats
+Analyzed: Character House -Desktop Companion-
 Tavily Budget Used: 15
 Errors: 0

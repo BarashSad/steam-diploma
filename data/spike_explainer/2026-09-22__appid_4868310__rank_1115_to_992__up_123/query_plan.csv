@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4868310,Character House -Desktop Companion-,"""Character House -Desktop Companion-"" Steam",general,1,tavily,True,,5
+4868310,Character House -Desktop Companion-,"""Character House -Desktop Companion-"" trailer",general,1,tavily,True,,5
+4868310,Character House -Desktop Companion-,"""Character House -Desktop Companion-"" gameplay",general,1,tavily,True,,5
+4868310,Character House -Desktop Companion-,"""Character House -Desktop Companion-"" demo",general,1,tavily,True,,5
+4868310,Character House -Desktop Companion-,"""Character House -Desktop Companion-"" release date",general,1,tavily,True,,5
+4868310,Character House -Desktop Companion-,"""Character House -Desktop Companion-"" announcement",general,1,tavily,True,,5
+4868310,Character House -Desktop Companion-,"""Character House -Desktop Companion-"" preview",general,1,tavily,True,,5
+4868310,Character House -Desktop Companion-,"""Character House -Desktop Companion-"" review",general,1,tavily,True,,5
+4868310,Character House -Desktop Companion-,"""Character House -Desktop Companion-"" publisher",general,1,tavily,True,,5
+4868310,Character House -Desktop Companion-,"""Character House -Desktop Companion-"" developer",general,1,tavily,True,,5
+4868310,Character House -Desktop Companion-,"site:pcgamer.com ""Character House -Desktop Companion-""",press,2,tavily,False,General budget exhausted,0
+4868310,Character House -Desktop Companion-,"site:rockpapershotgun.com ""Character House -Desktop Companion-""",press,2,tavily,False,General budget exhausted,0
+4868310,Character House -Desktop Companion-,"site:ign.com ""Character House -Desktop Companion-""",press,2,tavily,False,General budget exhausted,0
+4868310,Character House -Desktop Companion-,"site:gamespot.com ""Character House -Desktop Companion-""",press,2,tavily,False,General budget exhausted,0
+4868310,Character House -Desktop Companion-,"site:game8.co ""Character House -Desktop Companion-""",press,2,tavily,False,General budget exhausted,0
+4868310,Character House -Desktop Companion-,"site:reddit.com ""Character House -Desktop Companion-""",social,3,tavily,True,,5
+4868310,Character House -Desktop Companion-,"site:tiktok.com ""Character House -Desktop Companion-""",social,4,tavily,True,,5
+4868310,Character House -Desktop Companion-,"site:instagram.com ""Character House -Desktop Companion-""",social,4,tavily,True,,5
+4868310,Character House -Desktop Companion-,"site:x.com ""Character House -Desktop Companion-""",social,4,tavily,True,,5
+4868310,Character House -Desktop Companion-,"site: ""Character House -Desktop Companion-""",social,4,tavily,True,,5

@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-09-22T04:23:41.606865+00:00,4778540,Lucid Cats,data/spike_explainer/2026-09-22__appid_4778540__rank_903_to_827__up_76,76,85,data/spike_explainer/2026-09-22__appid_4778540__rank_903_to_827__up_76/llm_summary_input.md
+2026-09-22T16:48:12.782966+00:00,4868310,Character House -Desktop Companion-,data/spike_explainer/2026-09-22__appid_4868310__rank_1115_to_992__up_123,123,85,data/spike_explainer/2026-09-22__appid_4868310__rank_1115_to_992__up_123/llm_summary_input.md

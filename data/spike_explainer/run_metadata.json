@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-09-22T04:24:03.900263+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260922_041459/rank_changes.csv",
-    "selected_appid": "4778540",
-    "selected_game_title": "Lucid Cats",
+    "started_at": "2026-09-22T16:48:39.551041+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260922_163954/rank_changes.csv",
+    "selected_appid": "4868310",
+    "selected_game_title": "Character House -Desktop Companion-",
     "top_n": 1,
     "old_snapshot_date": "2026-09-19",
     "new_snapshot_date": "2026-09-22",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-22T04:24:03.900283+00:00",
+    "finished_at": "2026-09-22T16:48:39.551053+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
