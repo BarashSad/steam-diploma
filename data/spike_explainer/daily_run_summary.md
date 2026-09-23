@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Character House -Desktop Companion-
+Analyzed: Boob Simulator
 Tavily Budget Used: 15
 Errors: 0

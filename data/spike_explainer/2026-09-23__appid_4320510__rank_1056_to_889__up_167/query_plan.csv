@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4320510,Boob Simulator,"""Boob Simulator"" Steam",general,1,tavily,True,,5
+4320510,Boob Simulator,"""Boob Simulator"" trailer",general,1,tavily,True,,5
+4320510,Boob Simulator,"""Boob Simulator"" gameplay",general,1,tavily,True,,5
+4320510,Boob Simulator,"""Boob Simulator"" demo",general,1,tavily,True,,5
+4320510,Boob Simulator,"""Boob Simulator"" release date",general,1,tavily,True,,5
+4320510,Boob Simulator,"""Boob Simulator"" announcement",general,1,tavily,True,,5
+4320510,Boob Simulator,"""Boob Simulator"" preview",general,1,tavily,True,,5
+4320510,Boob Simulator,"""Boob Simulator"" review",general,1,tavily,True,,5
+4320510,Boob Simulator,"""Boob Simulator"" publisher",general,1,tavily,True,,5
+4320510,Boob Simulator,"""Boob Simulator"" developer",general,1,tavily,True,,5
+4320510,Boob Simulator,"site:pcgamer.com ""Boob Simulator""",press,2,tavily,False,General budget exhausted,0
+4320510,Boob Simulator,"site:rockpapershotgun.com ""Boob Simulator""",press,2,tavily,False,General budget exhausted,0
+4320510,Boob Simulator,"site:ign.com ""Boob Simulator""",press,2,tavily,False,General budget exhausted,0
+4320510,Boob Simulator,"site:gamespot.com ""Boob Simulator""",press,2,tavily,False,General budget exhausted,0
+4320510,Boob Simulator,"site:game8.co ""Boob Simulator""",press,2,tavily,False,General budget exhausted,0
+4320510,Boob Simulator,"site:reddit.com ""Boob Simulator""",social,3,tavily,True,,5
+4320510,Boob Simulator,"site:tiktok.com ""Boob Simulator""",social,4,tavily,True,,5
+4320510,Boob Simulator,"site:instagram.com ""Boob Simulator""",social,4,tavily,True,,5
+4320510,Boob Simulator,"site:x.com ""Boob Simulator""",social,4,tavily,True,,5
+4320510,Boob Simulator,"site: ""Boob Simulator""",social,4,tavily,True,,5
