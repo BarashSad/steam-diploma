@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-23T16:42:28.940098+00:00",
+    "timestamp": "20260923_164228",
+    "input_file": "data/spike_explainer/2026-09-23__appid_4320510__rank_889_to_797__up_92/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-23__appid_4320510__rank_889_to_797__up_92/llm_outputs/gemini_20260923_164228.md",
+    "game_title": "Boob Simulator",
+    "appid": "4320510",
+    "duration_sec": 22.49,
+    "response_length": 5431,
+    "error": null
+}

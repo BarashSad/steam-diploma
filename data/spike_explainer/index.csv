@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-09-23T04:20:12.983751+00:00,4320510,Boob Simulator,data/spike_explainer/2026-09-23__appid_4320510__rank_1056_to_889__up_167,167,55,data/spike_explainer/2026-09-23__appid_4320510__rank_1056_to_889__up_167/llm_summary_input.md
+2026-09-23T16:42:09.678388+00:00,4320510,Boob Simulator,data/spike_explainer/2026-09-23__appid_4320510__rank_889_to_797__up_92,92,40,data/spike_explainer/2026-09-23__appid_4320510__rank_889_to_797__up_92/llm_summary_input.md
