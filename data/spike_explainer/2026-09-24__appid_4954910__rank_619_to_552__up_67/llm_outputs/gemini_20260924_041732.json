@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-24T04:17:32.695925+00:00",
+    "timestamp": "20260924_041732",
+    "input_file": "data/spike_explainer/2026-09-24__appid_4954910__rank_619_to_552__up_67/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-24__appid_4954910__rank_619_to_552__up_67/llm_outputs/gemini_20260924_041732.md",
+    "game_title": "Scam With Your Friends",
+    "appid": "4954910",
+    "duration_sec": 16.26,
+    "response_length": 5884,
+    "error": null
+}

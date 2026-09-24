@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-09-23T16:42:09.678388+00:00,4320510,Boob Simulator,data/spike_explainer/2026-09-23__appid_4320510__rank_889_to_797__up_92,92,40,data/spike_explainer/2026-09-23__appid_4320510__rank_889_to_797__up_92/llm_summary_input.md
+2026-09-24T04:17:06.179720+00:00,4954910,Scam With Your Friends,data/spike_explainer/2026-09-24__appid_4954910__rank_619_to_552__up_67,67,85,data/spike_explainer/2026-09-24__appid_4954910__rank_619_to_552__up_67/llm_summary_input.md
