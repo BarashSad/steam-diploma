@@ -1,0 +1,21 @@
+{
+    "appnews": {
+        "appid": 5159870,
+        "newsitems": [
+            {
+                "gid": "1842212951310499",
+                "title": "\ud83c\udf3e PLAYTEST SIGNUPS ARE CLOSED",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951310499",
+                "is_external_url": true,
+                "author": "alyssa",
+                "contents": "Hey everyone!Turns out gathering 23,000 people is way easier than finding one needle.Signups for the Needle In A Haystack Simulator playtest are now officially closed. Over 23,000 of you volunteered to dig through 5,000,000 pieces of hay with us \u2014 that's far more than we hoped for, and more than enough to run a proper test. Thank you \u2764\ufe0fDidn't make it in? Don't put the pitchfork away just yet. As soon as the first playable build is ready, we'll be giving away extra access keys to everyone who missed out \u2014 so keep an eye on our news.\u26a0\ufe0f One more thing: a bunch of clones have popped up lately, and it's getting easy to grab the wrong haystack. This page right here is the original game \u2014 the one you signed up for.Here's how you can help us right now:\u2b50 Add Needle In A Haystack Simulator to your WishlistWishlists directly boost our visibility on Steam. It's one click, it costs nothing, and it really does help a small team get noticed.\ud83d\udcac Join our DiscordThat's where news, playtest waves and key giveaways land first \u2014 before anywhere else. Link here: https://discord.gg/asZmmqnMv7See you in the hay \ud83c\udf3e",
+                "feedlabel": "Community Announcements",
+                "date": 1788188495,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5159870
+            }
+        ],
+        "count": 1
+    }
+}
