@@ -1,0 +1,168 @@
+# SPIKE ANALYSIS INPUT
+
+## 1. SPIKE OVERVIEW
+**Game**: Find The Needle (AppID: 5160800)
+**Movement**: Rank 1083 -> 968 (Delta: +115)
+**New Entry**: False
+
+## 2. TIME WINDOWS
+**Spike Window**: 2026-09-22T00:00:00+00:00 to 2026-09-25T00:00:00+00:00
+**Extended Window**: 2026-08-08T00:00:00+00:00 to 2026-09-28T00:00:00+00:00
+*Note: Inferred Fallback: False*
+
+## 3. STORE CHANGES
+**Changed Fields**: None
+
+## 4. STEAM NEWS EVIDENCE
+- [90/100 | inside_spike_window] Find The Needle Reaches TOP 3 Most Played Demos on Steam!
+  URL: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219204
+  Preview: FIND THE NEEDLE JUST REACHED TOP 3 MOST PLAYED DEMOS ON STEAM 🌾Top 10 felt unbelievable.Then Top 5.Now somehow we are in the Top 3.We are putting an i...
+- [75/100 | inside_extended_window] Find The Needle Reaches TOP 5 Most Played Demos on Steam!
+  URL: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010498471
+  Preview: 🌾 FIND THE NEEDLE IS NOW IN THE TOP 5 MOST PLAYED DEMOS ON STEAM! 🌾A few days ago we were celebrating Top 10.Now we're somehow in the Top 5.I genuinel...
+- [75/100 | inside_extended_window] Find The Needle Reaches TOP 10 Most Played Demos on Steam!
+  URL: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705484
+  Preview: 🌾 FIND THE NEEDLE IS NOW IN THE TOP 10 MOST PLAYED DEMOS ON STEAM! 🌾I honestly don’t know what to say.Seeing Find The Needle reach the Top 10 on Steam...
+- [75/100 | inside_extended_window] Find The Needle Demo V8
+  URL: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262696545
+  Preview: The conveyor at the Hay Sell Stand will snap from now onYou can now decide if you want conveyors to snap or not. Press F to activate No Snap ModePress...
+
+
+## 5. TAVILY WEB SEARCH EVIDENCE
+- [40/100 | unknown_date] Find The Needle on Steam
+  URL: https://store.steampowered.com/app/5160800/Find_The_Needle
+  Preview: Title: Find The Needle  
+ Genre: Casual, Indie, Simulation  
+
+Developer: FindTheNeedleDev
+
+Publisher: Hay Passionates
+
+Release Date: Q4 2026
+
+Discord...
+- [40/100 | unknown_date] Needle In A Haystack Simulator on Steam
+  URL: https://store.steampowered.com/app/5159870/Needle_In_A_Haystack_Simulator
+  Preview: Release Date: Q4 2026
+
+X External   Discord External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Repo...
+- [40/100 | unknown_date] Find The Needle Official by findtheneedle
+  URL: https://findtheneedle.itch.io/find-the-needle
+  Preview: From now on play it there:
+
+More information)
+
+|  |  |
+ --- |
+| Updated | 5 days ago |
+| Published | 21 days ago |
+| Status | In development |
+| Autho...
+- [40/100 | unknown_date] Find the Needle Full Demo Walkthrough - 100% Cleared & Max Skill Tree (No Commentary)
+  URL: https://www.youtube.com/watch?v=GX76UczcAR8
+  Preview: 🔥 Tags (Keywords):
+
+#findtheneedle #gameplay #walkthrough #steamgames [...] Welcome to the channel! In this video, I'm bringing you the full demo/beta...
+- [40/100 | unknown_date] Find The Needle Official by findtheneedle - itch.io
+  URL: https://findtheneedle.itch.io/find-the-needle
+  Preview: 💬 Discord 
+
+🐦 X / Twitter 
+
+▶️ YouTube 
+
+Subscribe and follow for development updates, new machines, gameplay clips, trailers, and release news!
+
+## ⚠...
+
+
+## 6. YOUTUBE EVIDENCE
+- [85/100 | inside_spike_window] Find The Needle - DEMO - We Need More Optimization!
+  URL: https://www.youtube.com/watch?v=QCBI726hUDA
+  Preview: Welcome back to Find The Needle! #FindTheNeedle #simulatorgames Wanna Help Books? A Booksmas Present: ......
+- [70/100 | inside_extended_window] FIND THE NEEDLE - Roblox Official Game Trailer...
+  URL: https://www.youtube.com/watch?v=wif3c4vlmFE
+  Preview: FIND THE NEEDLE - Roblox Official Game Trailer... Play: roblox.com/communities/857942957/FAI-Studio#!/about....
+- [70/100 | inside_extended_window] Find The Needle | Needle In a Haystack | Official DemoTrailer
+  URL: https://www.youtube.com/watch?v=D1Lecl14rWs
+  Preview: Find The Needle | Needle In a Haystack | Official Game Trailer Cinematic trailer STEAM ......
+- [70/100 | inside_extended_window] A Needle In A Haystack: Sorting Game | Official Steam Launch Trailer | Find The Needle In A Haystack
+  URL: https://www.youtube.com/watch?v=VnhlVKyrnbo
+  Preview: A Needle in a Haystack: Sorting Game is OUT NOW on Steam! Think you can find the needle in the haystack? Search through ......
+- [70/100 | inside_extended_window] Find The Needle - DEMO - Hay Guy!
+  URL: https://www.youtube.com/watch?v=fxmkyHdwxww
+  Preview: Welcome to Find The Needle! #FindTheNeedle #simulatorgames Wanna Help Books? A Booksmas Present: ......
+
+
+## 7. SOCIAL / PLATFORM-SPECIFIC INDEXED RESULTS
+- [50/100 | unknown_date] Where do I find the needle throw dash from trailers? : r/Silksong
+  URL: https://www.reddit.com/r/Silksong/comments/1nat1uq/where_do_i_find_the_needle_throw_dash_from
+  Preview: Title: Where do I find the needle throw dash from trailers? : r/Silksong
+# Where do I find the needle throw dash from trailers? Skip to main contentWh...
+- [45/100 | unknown_date] Find The Needle
+  URL: https://store.steampowered.com/app/5160800/Find_The_Needle
+  Preview: All Games > Simulation Games > Find The Needle
+
+Community Hub
+
+Find The Needle
+
+Find The Needle
+
+Find The Needle
+
+Developer
+
+FindTheNeedleDev
+
+Publish...
+- [25/100 | unknown_date] Find The Needle Chapter 1
+  URL: https://www.tiktok.com/discover/find-the-needle-chapter-1
+  Preview: Experience the pure chaos of Roblox's Find the Needle game. Can you find the needle in this hilarious and challenging quest? vacuum, TNT,...
+- [25/100 | unknown_date] Easy Ways in Find The Needle on Roblox
+  URL: https://www.tiktok.com/discover/easy-ways-in-find-the-needle-on-roblox
+  Preview: Roblox: Finding a needle in a haystack. Join the search for a hidden key in Roblox! Can you find this needle in a haystack? 28 Likes,...
+- [25/100 | unknown_date] How to Find All Secrets in Find The Needle
+  URL: https://www.tiktok.com/discover/how-to-find-all-secrets-in-find-the-needle
+  Preview: Join the fun in ROBLOX's 'Search For The Needle' map! Can you find the needle in the haystack? Perfect for playing with friends!...
+
+
+## 8. TOP SCORED EVIDENCE (OVERALL)
+- [90/100 | inside_spike_window] Find The Needle Reaches TOP 3 Most Played Demos on Steam!
+  URL: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219204
+  Preview: FIND THE NEEDLE JUST REACHED TOP 3 MOST PLAYED DEMOS ON STEAM 🌾Top 10 felt unbelievable.Then Top 5.Now somehow we are in the Top 3.We are putting an i...
+- [85/100 | inside_spike_window] Find The Needle - DEMO - We Need More Optimization!
+  URL: https://www.youtube.com/watch?v=QCBI726hUDA
+  Preview: Welcome back to Find The Needle! #FindTheNeedle #simulatorgames Wanna Help Books? A Booksmas Present: ......
+- [75/100 | inside_extended_window] Find The Needle Reaches TOP 5 Most Played Demos on Steam!
+  URL: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010498471
+  Preview: 🌾 FIND THE NEEDLE IS NOW IN THE TOP 5 MOST PLAYED DEMOS ON STEAM! 🌾A few days ago we were celebrating Top 10.Now we're somehow in the Top 5.I genuinel...
+
+
+## 9. MISSING OR WEAK EVIDENCE
+Look at the above. If no high-score evidence is found inside the spike window, attribution is weak.
+
+## 10. ADVANCED CAUSES NOT CHECKED AUTOMATICALLY
+If automated evidence is lacking, consider these unverified possibilities:
+- Giveaway/discount of a related base game/prequel
+- Publisher-wide sale campaign
+- In-game cross-promotion
+- Non-indexed influencer campaign (e.g., live Twitch segment)
+- Platform-side visibility boost (Steam algorithm)
+- Franchise-level marketing beat
+
+---
+**TASK FOR LLM:**
+Use only the evidence below. Do not invent facts. Separate confirmed facts from hypotheses. If evidence is weak, say so. Explain the most likely causes of the Steam Top Wishlists rank movement. Consider that absence of evidence is not proof of absence. Mention advanced causes only as unverified possibilities if not supported by evidence.
+
+Produce:
+1. Short executive summary
+2. Confirmed facts
+3. Likely causes of the spike
+4. Weak or uncertain hypotheses
+5. Recommended next manual checks
+6. Marketing lessons for a developer

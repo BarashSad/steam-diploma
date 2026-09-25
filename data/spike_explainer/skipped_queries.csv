@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-5159870,Needle In A Haystack Simulator,"site:pcgamer.com ""Needle In A Haystack Simulator""",press,2,tavily,False,General budget exhausted,0
-5159870,Needle In A Haystack Simulator,"site:rockpapershotgun.com ""Needle In A Haystack Simulator""",press,2,tavily,False,General budget exhausted,0
-5159870,Needle In A Haystack Simulator,"site:ign.com ""Needle In A Haystack Simulator""",press,2,tavily,False,General budget exhausted,0
-5159870,Needle In A Haystack Simulator,"site:gamespot.com ""Needle In A Haystack Simulator""",press,2,tavily,False,General budget exhausted,0
-5159870,Needle In A Haystack Simulator,"site:game8.co ""Needle In A Haystack Simulator""",press,2,tavily,False,General budget exhausted,0
+5160800,Find The Needle,"site:pcgamer.com ""Find The Needle""",press,2,tavily,False,General budget exhausted,0
+5160800,Find The Needle,"site:rockpapershotgun.com ""Find The Needle""",press,2,tavily,False,General budget exhausted,0
+5160800,Find The Needle,"site:ign.com ""Find The Needle""",press,2,tavily,False,General budget exhausted,0
+5160800,Find The Needle,"site:gamespot.com ""Find The Needle""",press,2,tavily,False,General budget exhausted,0
+5160800,Find The Needle,"site:game8.co ""Find The Needle""",press,2,tavily,False,General budget exhausted,0
