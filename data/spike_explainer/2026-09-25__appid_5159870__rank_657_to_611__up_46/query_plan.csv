@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5159870,Needle In A Haystack Simulator,"""Needle In A Haystack Simulator"" Steam",general,1,tavily,True,,5
+5159870,Needle In A Haystack Simulator,"""Needle In A Haystack Simulator"" trailer",general,1,tavily,True,,5
+5159870,Needle In A Haystack Simulator,"""Needle In A Haystack Simulator"" gameplay",general,1,tavily,True,,5
+5159870,Needle In A Haystack Simulator,"""Needle In A Haystack Simulator"" demo",general,1,tavily,True,,5
+5159870,Needle In A Haystack Simulator,"""Needle In A Haystack Simulator"" release date",general,1,tavily,True,,5
+5159870,Needle In A Haystack Simulator,"""Needle In A Haystack Simulator"" announcement",general,1,tavily,True,,5
+5159870,Needle In A Haystack Simulator,"""Needle In A Haystack Simulator"" preview",general,1,tavily,True,,5
+5159870,Needle In A Haystack Simulator,"""Needle In A Haystack Simulator"" review",general,1,tavily,True,,5
+5159870,Needle In A Haystack Simulator,"""Needle In A Haystack Simulator"" publisher",general,1,tavily,True,,5
+5159870,Needle In A Haystack Simulator,"""Needle In A Haystack Simulator"" developer",general,1,tavily,True,,5
+5159870,Needle In A Haystack Simulator,"site:pcgamer.com ""Needle In A Haystack Simulator""",press,2,tavily,False,General budget exhausted,0
+5159870,Needle In A Haystack Simulator,"site:rockpapershotgun.com ""Needle In A Haystack Simulator""",press,2,tavily,False,General budget exhausted,0
+5159870,Needle In A Haystack Simulator,"site:ign.com ""Needle In A Haystack Simulator""",press,2,tavily,False,General budget exhausted,0
+5159870,Needle In A Haystack Simulator,"site:gamespot.com ""Needle In A Haystack Simulator""",press,2,tavily,False,General budget exhausted,0
+5159870,Needle In A Haystack Simulator,"site:game8.co ""Needle In A Haystack Simulator""",press,2,tavily,False,General budget exhausted,0
+5159870,Needle In A Haystack Simulator,"site:reddit.com ""Needle In A Haystack Simulator""",social,3,tavily,True,,5
+5159870,Needle In A Haystack Simulator,"site:tiktok.com ""Needle In A Haystack Simulator""",social,4,tavily,True,,5
+5159870,Needle In A Haystack Simulator,"site:instagram.com ""Needle In A Haystack Simulator""",social,4,tavily,True,,5
+5159870,Needle In A Haystack Simulator,"site:x.com ""Needle In A Haystack Simulator""",social,4,tavily,True,,5
+5159870,Needle In A Haystack Simulator,"site: ""Needle In A Haystack Simulator""",social,4,tavily,True,,5

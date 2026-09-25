@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-25T04:30:17.230351+00:00",
+    "timestamp": "20260925_043017",
+    "input_file": "data/spike_explainer/2026-09-25__appid_5159870__rank_657_to_611__up_46/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-25__appid_5159870__rank_657_to_611__up_46/llm_outputs/gemini_20260925_043017.md",
+    "game_title": "Needle In A Haystack Simulator",
+    "appid": "5159870",
+    "duration_sec": 30.75,
+    "response_length": 7469,
+    "error": null
+}
