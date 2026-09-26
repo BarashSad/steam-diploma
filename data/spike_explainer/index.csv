@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-09-25T17:05:23.132669+00:00,5160800,Find The Needle,data/spike_explainer/2026-09-25__appid_5160800__rank_1083_to_968__up_115,115,90,data/spike_explainer/2026-09-25__appid_5160800__rank_1083_to_968__up_115/llm_summary_input.md
+2026-09-26T04:33:47.607722+00:00,5160800,Find The Needle,data/spike_explainer/2026-09-26__appid_5160800__rank_968_to_890__up_78,78,90,data/spike_explainer/2026-09-26__appid_5160800__rank_968_to_890__up_78/llm_summary_input.md
