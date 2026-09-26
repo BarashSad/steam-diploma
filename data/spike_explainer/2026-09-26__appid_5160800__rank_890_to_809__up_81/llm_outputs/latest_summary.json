@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-26T16:18:02.554766+00:00",
+    "timestamp": "20260926_161802",
+    "input_file": "data/spike_explainer/2026-09-26__appid_5160800__rank_890_to_809__up_81/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-26__appid_5160800__rank_890_to_809__up_81/llm_outputs/gemini_20260926_161802.md",
+    "game_title": "Find The Needle",
+    "appid": "5160800",
+    "duration_sec": 18.48,
+    "response_length": 5675,
+    "error": null
+}

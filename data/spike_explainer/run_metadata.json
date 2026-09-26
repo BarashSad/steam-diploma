@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-09-26T04:34:14.081309+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260926_042534/rank_changes.csv",
+    "started_at": "2026-09-26T16:18:02.460573+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260926_160819/rank_changes.csv",
     "selected_appid": "5160800",
     "selected_game_title": "Find The Needle",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-26T04:34:14.081325+00:00",
+    "finished_at": "2026-09-26T16:18:02.460588+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
