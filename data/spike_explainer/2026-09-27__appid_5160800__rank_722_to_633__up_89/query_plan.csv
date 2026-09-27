@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5160800,Find The Needle,"""Find The Needle"" Steam",general,1,tavily,True,,5
+5160800,Find The Needle,"""Find The Needle"" trailer",general,1,tavily,True,,5
+5160800,Find The Needle,"""Find The Needle"" gameplay",general,1,tavily,True,,5
+5160800,Find The Needle,"""Find The Needle"" demo",general,1,tavily,True,,5
+5160800,Find The Needle,"""Find The Needle"" release date",general,1,tavily,True,,5
+5160800,Find The Needle,"""Find The Needle"" announcement",general,1,tavily,True,,5
+5160800,Find The Needle,"""Find The Needle"" preview",general,1,tavily,True,,5
+5160800,Find The Needle,"""Find The Needle"" review",general,1,tavily,True,,5
+5160800,Find The Needle,"""Find The Needle"" publisher",general,1,tavily,True,,5
+5160800,Find The Needle,"""Find The Needle"" developer",general,1,tavily,True,,5
+5160800,Find The Needle,"site:pcgamer.com ""Find The Needle""",press,2,tavily,False,General budget exhausted,0
+5160800,Find The Needle,"site:rockpapershotgun.com ""Find The Needle""",press,2,tavily,False,General budget exhausted,0
+5160800,Find The Needle,"site:ign.com ""Find The Needle""",press,2,tavily,False,General budget exhausted,0
+5160800,Find The Needle,"site:gamespot.com ""Find The Needle""",press,2,tavily,False,General budget exhausted,0
+5160800,Find The Needle,"site:game8.co ""Find The Needle""",press,2,tavily,False,General budget exhausted,0
+5160800,Find The Needle,"site:reddit.com ""Find The Needle""",social,3,tavily,True,,5
+5160800,Find The Needle,"site:tiktok.com ""Find The Needle""",social,4,tavily,True,,5
+5160800,Find The Needle,"site:instagram.com ""Find The Needle""",social,4,tavily,True,,5
+5160800,Find The Needle,"site:x.com ""Find The Needle""",social,4,tavily,True,,5
+5160800,Find The Needle,"site: ""Find The Needle""",social,4,tavily,True,,5
