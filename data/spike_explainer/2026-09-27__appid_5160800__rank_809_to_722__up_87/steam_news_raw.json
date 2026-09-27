@@ -1,0 +1,84 @@
+{
+    "appnews": {
+        "appid": 5160800,
+        "newsitems": [
+            {
+                "gid": "1844751498225947",
+                "title": "Find The Needle Reaches #1 Most Played Demo Worldwide",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498225947",
+                "is_external_url": true,
+                "author": "FindTheNeedleDev",
+                "contents": "FIND THE NEEDLE IS #1 ON STEAM \ud83c\udf3e\ud83c\udfc6Words can't really express the feeling and astonishment right now.Reaching #1 among the most played demos on Steam is something I never even imagined could happen.So honestly, this will probably feel surreal for a very long time.Thank you to everyone playing, wishlisting, reporting bugs, sharing feedback and simply being onboard with us on this incredible journey. \u2764\ufe0fThank you for making Find The Needle #1. \ud83c\udf3e\ud83e\udea1Without you, none of this would be possible.Join the community: Discord\u201cIt\u2019s not about winning, it\u2019s about playing.\u201d - Parzival",
+                "feedlabel": "Community Announcements",
+                "date": 1790370812,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5160800
+            },
+            {
+                "gid": "1844751498219204",
+                "title": "Find The Needle Reaches TOP 3 Most Played Demos on Steam!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219204",
+                "is_external_url": true,
+                "author": "FindTheNeedleDev",
+                "contents": "FIND THE NEEDLE JUST REACHED TOP 3 MOST PLAYED DEMOS ON STEAM \ud83c\udf3eTop 10 felt unbelievable.Then Top 5.Now somehow we are in the Top 3.We are putting an insane amount of time, energy and passion into Find The Needle every single day.Countless hours spent playing Factorio and Satisfactory taught us what makes automation games so satisfying, and now we are trying to turn everything we love about that genre into something much stranger.A game where you build an entire factory just to find a few needles in an absurd amount of hay.Our goal is simple:Make one of the weirdest and most amazing games we possibly can.Thank you to everyone playing, wishlisting, reporting bugs \ud83d\udc1e and helping us shape the game. \u2764\ufe0fThis is just one milestone in a much bigger journey.There is still so much we want to build, improve and completely overdo.Thank you for being here while we turn this strange idea into something real. \u2764\ufe0fJoin the community: Discord\u201cReality is the only thing that\u2019s real.\u201d -James Halliday",
+                "feedlabel": "Community Announcements",
+                "date": 1790185505,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5160800
+            },
+            {
+                "gid": "1844115010498471",
+                "title": "Find The Needle Reaches TOP 5 Most Played Demos on Steam!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010498471",
+                "is_external_url": true,
+                "author": "FindTheNeedleDev",
+                "contents": "\ud83c\udf3e FIND THE NEEDLE IS NOW IN THE TOP 5 MOST PLAYED DEMOS ON STEAM! \ud83c\udf3eA few days ago we were celebrating Top 10.Now we're somehow in the Top 5.I genuinely did not expect Find The Needle to get this much attention so quickly.Thank you to everyone who played the demo, wishlisted the game, sent feedback, reported bugs, made videos, shared screenshots and told their friends about it.We are still working on the game every day, fixing things and adding new content. There is still a lot we want to do before release.Seeing so many people playing something we've spent so much time building is an incredible feeling.Thank you for being part of this. \u2764\ufe0f\ud83c\udf3eWe're only getting started.Join Our Discord \u201cSpeed has never killed anyone. Suddenly becoming stationary, that's what gets you.\u201dJeremy Clarkson",
+                "feedlabel": "Community Announcements",
+                "date": 1789890038,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5160800,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1294976491_1789891526_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1843481262705484",
+                "title": "Find The Needle Reaches TOP 10 Most Played Demos on Steam!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705484",
+                "is_external_url": true,
+                "author": "FindTheNeedleDev",
+                "contents": "\ud83c\udf3e FIND THE NEEDLE IS NOW IN THE TOP 10 MOST PLAYED DEMOS ON STEAM! \ud83c\udf3eI honestly don\u2019t know what to say.Seeing Find The Needle reach the Top 10 on Steam feels unreal.Thank you to everyone who played the demo. Thank you for the wishlists, feedback, videos and all the support.I\u2019m still working on the game every day and there is a lot more I want to add.This means a lot to me.Thank you for being here \u2764\ufe0f\ud83c\udf3eWe\u2019re just getting started.Join Our Discord \u201cGoing outside is highly overrated.\u201d- Ernest Cline, Ready Player One",
+                "feedlabel": "Community Announcements",
+                "date": 1789500254,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5160800,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1447510170_1789501545_0",
+                    "mod_require_rereview",
+                    "ModAct_1526778620_1789895638_4"
+                ]
+            },
+            {
+                "gid": "1843481262696545",
+                "title": "Find The Needle Demo V8",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262696545",
+                "is_external_url": true,
+                "author": "animatemesh",
+                "contents": "The conveyor at the Hay Sell Stand will snap from now onYou can now decide if you want conveyors to snap or not. Press F to activate No Snap ModePressing E on a power pole will now let you shut down the whole electricity networkVacuum Yard price reduced by 80%Added a power network notification VFX when power drops below the required thresholdHigher jump height by defaultComplete rework of the conveyor belt system. Conveyors will snap much easier now and have automatic pathfinding, making them much easier to work withAdded new splitter and joiner types: U-Splitters and U-JoinersAdded in-game tips that will show instead of the \"Find The Needle Demo V8\" textLoose hay on the ground will now turn into hay tufts to improve FPSThe Pellet Disc Machine now has resource indicators like \"BRICKS\" and \"HAY\"And many more bug fixes",
+                "feedlabel": "Community Announcements",
+                "date": 1789164473,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5160800
+            }
+        ],
+        "count": 5
+    }
+}
