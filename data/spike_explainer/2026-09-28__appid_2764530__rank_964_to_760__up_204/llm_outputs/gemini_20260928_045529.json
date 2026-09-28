@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-28T04:55:29.357859+00:00",
+    "timestamp": "20260928_045529",
+    "input_file": "data/spike_explainer/2026-09-28__appid_2764530__rank_964_to_760__up_204/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-28__appid_2764530__rank_964_to_760__up_204/llm_outputs/gemini_20260928_045529.md",
+    "game_title": "Purble Place 3D",
+    "appid": "2764530",
+    "duration_sec": 17.39,
+    "response_length": 5602,
+    "error": null
+}
