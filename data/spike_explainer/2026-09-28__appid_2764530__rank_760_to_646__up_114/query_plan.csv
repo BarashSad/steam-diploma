@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+2764530,Purble Place 3D,"""Purble Place 3D"" Steam",general,1,tavily,True,,5
+2764530,Purble Place 3D,"""Purble Place 3D"" trailer",general,1,tavily,True,,5
+2764530,Purble Place 3D,"""Purble Place 3D"" gameplay",general,1,tavily,True,,5
+2764530,Purble Place 3D,"""Purble Place 3D"" demo",general,1,tavily,True,,5
+2764530,Purble Place 3D,"""Purble Place 3D"" release date",general,1,tavily,True,,5
+2764530,Purble Place 3D,"""Purble Place 3D"" announcement",general,1,tavily,True,,5
+2764530,Purble Place 3D,"""Purble Place 3D"" preview",general,1,tavily,True,,5
+2764530,Purble Place 3D,"""Purble Place 3D"" review",general,1,tavily,True,,5
+2764530,Purble Place 3D,"""Purble Place 3D"" publisher",general,1,tavily,True,,5
+2764530,Purble Place 3D,"""Purble Place 3D"" developer",general,1,tavily,True,,4
+2764530,Purble Place 3D,"site:pcgamer.com ""Purble Place 3D""",press,2,tavily,False,General budget exhausted,0
+2764530,Purble Place 3D,"site:rockpapershotgun.com ""Purble Place 3D""",press,2,tavily,False,General budget exhausted,0
+2764530,Purble Place 3D,"site:ign.com ""Purble Place 3D""",press,2,tavily,False,General budget exhausted,0
+2764530,Purble Place 3D,"site:gamespot.com ""Purble Place 3D""",press,2,tavily,False,General budget exhausted,0
+2764530,Purble Place 3D,"site:game8.co ""Purble Place 3D""",press,2,tavily,False,General budget exhausted,0
+2764530,Purble Place 3D,"site:reddit.com ""Purble Place 3D""",social,3,tavily,True,,5
+2764530,Purble Place 3D,"site:tiktok.com ""Purble Place 3D""",social,4,tavily,True,,5
+2764530,Purble Place 3D,"site:instagram.com ""Purble Place 3D""",social,4,tavily,True,,5
+2764530,Purble Place 3D,"site:x.com ""Purble Place 3D""",social,4,tavily,True,,5
+2764530,Purble Place 3D,"site: ""Purble Place 3D""",social,4,tavily,True,,5

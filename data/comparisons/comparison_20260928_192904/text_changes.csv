@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2999670,Front Edge,Front Edge,1016,1018,-2,2,down,none,Free,Free,False,2026,2027,True
+2702430,Usual June,Usual June,829,828,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 28, 2026",2026,True
+2179480,Ardem,Ardem,43,43,0,0,stable,none,Unpriced (Coming Soon),Free,True,2026,2027,True
