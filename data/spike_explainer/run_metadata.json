@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-09-28T19:38:01.571563+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260928_192904/rank_changes.csv",
+    "started_at": "2026-09-29T05:20:24.135546+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260929_051120/rank_changes.csv",
     "selected_appid": "2764530",
     "selected_game_title": "Purble Place 3D",
     "top_n": 1,
-    "old_snapshot_date": "2026-09-25",
-    "new_snapshot_date": "2026-09-28",
+    "old_snapshot_date": "2026-09-26",
+    "new_snapshot_date": "2026-09-29",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-28T19:38:01.571577+00:00",
+    "finished_at": "2026-09-29T05:20:24.135562+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
