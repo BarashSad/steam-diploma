@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-09-29T05:20:24.135546+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260929_051120/rank_changes.csv",
-    "selected_appid": "2764530",
-    "selected_game_title": "Purble Place 3D",
+    "started_at": "2026-09-29T18:05:52.560958+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260929_175555/rank_changes.csv",
+    "selected_appid": "5186030",
+    "selected_game_title": "SLAM TANK",
     "top_n": 1,
     "old_snapshot_date": "2026-09-26",
     "new_snapshot_date": "2026-09-29",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-29T05:20:24.135562+00:00",
+    "finished_at": "2026-09-29T18:05:52.560972+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

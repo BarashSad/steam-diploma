@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5186030,SLAM TANK,"""SLAM TANK"" Steam",general,1,tavily,True,,5
+5186030,SLAM TANK,"""SLAM TANK"" trailer",general,1,tavily,True,,5
+5186030,SLAM TANK,"""SLAM TANK"" gameplay",general,1,tavily,True,,5
+5186030,SLAM TANK,"""SLAM TANK"" demo",general,1,tavily,True,,5
+5186030,SLAM TANK,"""SLAM TANK"" release date",general,1,tavily,True,,5
+5186030,SLAM TANK,"""SLAM TANK"" announcement",general,1,tavily,True,,5
+5186030,SLAM TANK,"""SLAM TANK"" preview",general,1,tavily,True,,5
+5186030,SLAM TANK,"""SLAM TANK"" review",general,1,tavily,True,,5
+5186030,SLAM TANK,"""SLAM TANK"" publisher",general,1,tavily,True,,5
+5186030,SLAM TANK,"""SLAM TANK"" developer",general,1,tavily,True,,5
+5186030,SLAM TANK,"site:pcgamer.com ""SLAM TANK""",press,2,tavily,False,General budget exhausted,0
+5186030,SLAM TANK,"site:rockpapershotgun.com ""SLAM TANK""",press,2,tavily,False,General budget exhausted,0
+5186030,SLAM TANK,"site:ign.com ""SLAM TANK""",press,2,tavily,False,General budget exhausted,0
+5186030,SLAM TANK,"site:gamespot.com ""SLAM TANK""",press,2,tavily,False,General budget exhausted,0
+5186030,SLAM TANK,"site:game8.co ""SLAM TANK""",press,2,tavily,False,General budget exhausted,0
+5186030,SLAM TANK,"site:reddit.com ""SLAM TANK""",social,3,tavily,True,,5
+5186030,SLAM TANK,"site:tiktok.com ""SLAM TANK""",social,4,tavily,True,,5
+5186030,SLAM TANK,"site:instagram.com ""SLAM TANK""",social,4,tavily,True,,5
+5186030,SLAM TANK,"site:x.com ""SLAM TANK""",social,4,tavily,True,,5
+5186030,SLAM TANK,"site: ""SLAM TANK""",social,4,tavily,True,,5

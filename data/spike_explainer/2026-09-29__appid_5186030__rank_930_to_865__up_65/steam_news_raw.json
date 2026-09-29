@@ -1,0 +1,21 @@
+{
+    "appnews": {
+        "appid": 5186030,
+        "newsitems": [
+            {
+                "gid": "1844751498230995",
+                "title": "50,000 Steam Wishlists in Just 5 Days \u2014 Thank You!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498230995",
+                "is_external_url": true,
+                "author": "hyunwoo.kang",
+                "contents": "{STEAM_CLAN_IMAGE}/46329996/1f50740bec59996d4b204f0af4be5c68efae82dd.jpg 50,000 Steam wishlists in just 5 days! THANK YOU for wishlisting SLAM TANK, sharing our videos, and cheering us on. Your support means so much to us. We're working hard to make a game you'll love. \u2014 The SLAM TANK Team Wishlist SLAM TANK on Steam",
+                "feedlabel": "Community Announcements",
+                "date": 1790588195,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5186030
+            }
+        ],
+        "count": 1
+    }
+}
