@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-09-29T18:05:52.560958+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260929_175555/rank_changes.csv",
-    "selected_appid": "5186030",
-    "selected_game_title": "SLAM TANK",
+    "started_at": "2026-09-30T05:08:06.304703+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260930_045848/rank_changes.csv",
+    "selected_appid": "4660280",
+    "selected_game_title": "DUAL PROTOCOL: The Case of Eva & Miles",
     "top_n": 1,
-    "old_snapshot_date": "2026-09-26",
-    "new_snapshot_date": "2026-09-29",
+    "old_snapshot_date": "2026-09-27",
+    "new_snapshot_date": "2026-09-30",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-29T18:05:52.560972+00:00",
+    "finished_at": "2026-09-30T05:08:06.304720+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

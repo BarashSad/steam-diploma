@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-09-30T05:08:06.412753+00:00",
+    "timestamp": "20260930_050806",
+    "input_file": "data/spike_explainer/2026-09-30__appid_4660280__rank_882_to_829__up_53/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-09-30__appid_4660280__rank_882_to_829__up_53/llm_outputs/gemini_20260930_050806.md",
+    "game_title": "DUAL PROTOCOL: The Case of Eva & Miles",
+    "appid": "4660280",
+    "duration_sec": 15.69,
+    "response_length": 5603,
+    "error": null
+}

@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-09-29T18:05:27.611543+00:00,5186030,SLAM TANK,data/spike_explainer/2026-09-29__appid_5186030__rank_930_to_865__up_65,65,85,data/spike_explainer/2026-09-29__appid_5186030__rank_930_to_865__up_65/llm_summary_input.md
+2026-09-30T05:07:42.547355+00:00,4660280,DUAL PROTOCOL: The Case of Eva & Miles,data/spike_explainer/2026-09-30__appid_4660280__rank_882_to_829__up_53,53,70,data/spike_explainer/2026-09-30__appid_4660280__rank_882_to_829__up_53/llm_summary_input.md

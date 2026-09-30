@@ -1,0 +1,1099 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+4660280,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498234898,"50,000 Wishlists: The Investigation Network Grows",,"Hello detectives, Dual Protocol: The Case of Eva & Miles has officially reached a massive milestone of 50,000 wishlists on Steam. This dark case, which started with a small clue, has today turned into a grand investigation network of 50,000 detectives. Your unwavering interest in the asymmetric co-o",,70,strong,Inside spike window (+30); Official Steam News (+20); Exact title match (+20),
+4660280,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498229777,Join our Discord!,,"Hello detectives, The secrets within the universe of Dual Protocol: The Case of Eva & Miles are deepening. To solve this dark case and uncover the truths Eva and Miles are tracking, we are gathering all detectives in a single headquarters. Our official Discord server is now live and awaiting your ar",,70,strong,Inside spike window (+30); Official Steam News (+20); Exact title match (+20),
+4660280,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=v3PoC7ShUt4,Teaser - DUAL PROTOCOL: The Case of Eva &amp; Miles,,"DUAL PROTOCOL: The Case of Eva & Miles is co-op noir, out Oct 2 The Castellari murder has left the city in silence.",,65,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20),
+4660280,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498218747,"25,000 Wishlists: The Investigation Reaches an Unexpected Scale",,"Dear detectives, As Aegean Crafters, we are sharing news today that completely changes the scope of the case. Dual Protocol: The Case of Eva & Miles has officially reached 25,000 wishlists on Steam. What started as a single clue has now turned into a massive investigative network of 25,000 people. I",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4660280,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489477,"Thank You: We Are Now a Detective Team of 10,000!",,"Hello Everyone, As the Aegean Crafters team, we are experiencing a joyous moment where words fall short. Our precious Dual Protocol: The Case of Eva & Miles has surpassed the 10,000 wishlists milestone on Steam! In every stage of the development process; while finely crafting the mechanics, designin",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4660280,youtube_video,outside_window,https://www.youtube.com/watch?v=eEqQWpawM58,Dual Protocol: The Case Of Eva And Miles Walkthrough,,"A full walkthrough of the official demo for our co-op point-and-click detective game, Dual Protocol: The Case of Eva & Miles.",demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4660280,youtube_video,outside_window,https://www.youtube.com/watch?v=eEqQWpawM58,Dual Protocol: The Case Of Eva And Miles Walkthrough,,"A full walkthrough of the official demo for our co-op point-and-click detective game, Dual Protocol: The Case of Eva & Miles.",demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4660280,youtube_video,outside_window,https://www.youtube.com/watch?v=3B7VR-rkLE8,"3 Koop-Demos Deutsch #2: Noir-Rätsel, Mikrofon-Horror &amp; Titanen",,"Heute ist wieder Demo-Abend. Tasha und ich testen DUAL PROTOCOL: The Case of Eva & Miles, Separated und Ironsand.",demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4660280,youtube_video,outside_window,https://www.youtube.com/watch?v=95ZHcwqv_-w,"Noir-Rätsel, Mikrofon-Horror &amp; Titanen",,"Heute ist wieder Demo-Abend. Tasha und ich testen DUAL PROTOCOL: The Case of Eva & Miles, Separated und Ironsand.",demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4660280,reddit_discussion,unknown_date,https://www.reddit.com/r/IndieGaming/comments/1vofojz/we_wanted_to_show_you_the_difference_between_when,We wanted to show you the difference between when ...,We are a 5-person indie team making a Co-op Noir Puzzle game. Here is the first trailer for DUAL PROTOCOL: The Case of Eva & Miles!,,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+4660280,reddit_discussion,unknown_date,https://www.reddit.com/r/IndieGaming/comments/1vofojz/we_wanted_to_show_you_the_difference_between_when,We wanted to show you the difference between when ...,We are a 5-person indie team making a Co-op Noir Puzzle game. Here is the first trailer for DUAL PROTOCOL: The Case of Eva & Miles!,,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+4660280,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1wrpknx/dual_protocol_aegean_crafters_coop_detective,Co-op Detective Puzzle Game - AEGEAN CRAFTERS,DUAL PROTOCOL: The Case of Eva & Miles is an asymmetric co ... Release Date: 02.10.2026. Steam Page: [https://store.steampowered.com,,release date,50,medium,Reddit (+10); Exact title match (+20); Keywords ['release date'] (+20),general
+4660280,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=RenkK3hQJvM,Dual Protocol: The Case of Eva &amp; Miles – Official Trailer,,"Release date: September 25, 2026 Platforms listed on UGDB: Windows Region: Worldwide Developer: Aegean Crafters ...","trailer, release date",50,medium,"Inside extended window (+15); YouTube (+15); Keywords ['trailer', 'release date'] (+20)",
+4660280,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=AalTN0a-254,Lançamentos do Dia 25/09! Parte 4/5 de Dual Protocol: The Case of Eva &amp; Miles,,"Lançamentos do Dia 25/09! Parte 4/5 de Dual Protocol: The Case of Eva & Miles Neste vídeo, confira a parte 4 de 5 da nossa ...",,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+4660280,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=RenkK3hQJvM,Dual Protocol: The Case of Eva &amp; Miles – Official Trailer,,"Release date: September 25, 2026 Platforms listed on UGDB: Windows Region: Worldwide Developer: Aegean Crafters ...","trailer, release date",50,medium,"Inside extended window (+15); YouTube (+15); Keywords ['trailer', 'release date'] (+20)",
+4660280,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=AalTN0a-254,Lançamentos do Dia 25/09! Parte 4/5 de Dual Protocol: The Case of Eva &amp; Miles,,"Lançamentos do Dia 25/09! Parte 4/5 de Dual Protocol: The Case of Eva & Miles Neste vídeo, confira a parte 4 de 5 da nossa ...",,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+4660280,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=ZtNIJBXfajQ,[FR/Eng] Deux cerveaux pour une demo @luz_ette + un jeu : Escape First Alchemist,,Streamé en live sur Twitch ; regardez en live sur https://www.twitch.tv/yagacapy En compagnie de : https://www.twitch.tv/luz_ette ...,demo,50,medium,Inside extended window (+15); YouTube (+15); Keywords ['demo'] (+20),
+4660280,web_result,unknown_date,https://aitransparencyindex.com/products/steam/4660280,DUAL PROTOCOL: The Case of Eva & Miles | AI Transparency Index,"AI Transparency Index   AITI  AI Transparency Index
+
+text
+
+# DUAL PROTOCOL: The Case of Eva & Miles
+
+AEGEAN CRAFTERS Rock Paper Publisher
+
+August 12, 2026
+
+Indexed May 23, 2026
+
+ View on Steam
+
+## Disclosure analysis
+
+### AI content is included in the game
+
+Generative AI assisted in drafting, refining, and localizing store page and promotional text; no AI-generated in-game content is disclosed.
+
+Process
+:   AI-translated, then edited
+
+Live AI during play
+:   No
+
+  Evidence & analysis details [...] Evidence used
+:   > “Generative AI was used to assist in drafting, refining, and localizing the text content for the Steam store page and promotional descriptions”
+
+    > “All final visual assets, code, and audio within the game have been created and designed by our development team”
+
+Analysis confidence
+:   95%
+
+Auto-classified from the public disclosure. The raw disclosure below remains the source of truth.
+
+## AI Usage Disclosure [...] > Storefront and Marketing Materials: Generative AI was used to assist in drafting, refining, and localizing the text content for the Steam store page and promotional descriptions. In-Game Content: All final visual assets, code, and audio within the game have been created and designed by our development team. There is no AI-generated content produced in real-time during gameplay.
+
+Highlights are auto-detected and may not be fully accurate. Report an issue
+
+## Tags",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),general
+4660280,social_post,unknown_date,https://store.steampowered.com/app/4660280/DUAL_PROTOCOL_The_Case_of_Eva__Miles,DUAL PROTOCOL: The Case of Eva & Miles on Steam,"2 Oct, 2026
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+2 Oct, 2026
+
+Developer:
+
+AEGEAN CRAFTERS
+
+Publisher:
+
+Rock Paper Publisher
+
+Tags
+
+Popular user-defined tags for this product: [...] ## About This Game
+
+Track clues behind locked doors as Agent Eva, or manage the operation from analog terminals as Analyst Miles. One is in the heart of danger on the field; the other is at the desk, buried in data. You cannot see each other's screens, yet you must become each other's eyes and mind. Dual Protocol is a pure Noir asymmetric detective experience where your voice and the information you relay are your only weapons. [...] English and 9 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| Italian | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Turkish | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+| Russian | ✔ |  | ✔ |
+
+See all 10 supported languages
+
+Title: DUAL PROTOCOL: The Case of Eva & Miles  
+ Genre: Casual  
+
+Developer: AEGEAN CRAFTERS
+
+Publisher: Rock Paper Publisher
+
+Release Date: 2 Oct, 2026",,release date,45,medium,Social Index (+5); Exact title match (+20); Keywords ['release date'] (+20),social
+4660280,social_post,unknown_date,https://kotaku.com/games/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles - Kotaku,"## Dual Protocol: The Case of Eva & Miles Screenshots and Videos
+
+All the Latest Game Footage and Images from Dual Protocol: The Case of Eva & Miles
+
+## Discover games
+
+## Summary
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder. [...] Skip to content 
+
+Dual Protocol: The Case of Eva & Miles
+
+# Dual Protocol: The Case of Eva & Miles
+
+## Game Details
+
+### Available on:
+
+ PC
+
+### Genres
+
+Point-and-click, Puzzle, Adventure, Indie
+
+### Developer
+
+Aegean Crafters
+
+### Release Date
+
+October 1, 2026 (1 day from now)
+
+### Publisher
+
+Rock Paper Publisher
+
+### Content Rating
+
+N/A
+
+Dual Protocol: The Case of Eva & Miles
+
+Dual Protocol: The Case of Eva & Miles
+
+Dual Protocol: The Case of Eva & Miles [...] Follow us
+
+ 𝕏"")
+
+ Latest
+ Entertainment
+ Reviews
+ News
+ Tips & Guides
+ Games
+ Downloads
+ Deals
+
+ Send us a Tip!
+ About Kotaku
+
+ + Deals
+  + Ausgabe DE
+  + Edición ES
+  + Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+Cookies settings;)",,release date,45,medium,Social Index (+5); Exact title match (+20); Keywords ['release date'] (+20),social
+4660280,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=WWtKTZjfshE,DUAL PROTOCOL: The Case of Eva &amp; Miles - Solve a murder without seeing each other&#39;s screen #Shorts,,"An asymmetric noir puzzle where two players solve a murder without ever seeing each other's screen. Out October 2, 2026 on ...",,45,medium,Inside spike window (+30); YouTube (+15),
+4660280,web_result,unknown_date,https://store.steampowered.com/app/4660280/DUAL_PROTOCOL_The_Case_of_Eva__Miles,DUAL PROTOCOL: The Case of Eva & Miles on Steam,"2 Oct, 2026
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+2 Oct, 2026
+
+Developer:
+
+AEGEAN CRAFTERS
+
+Publisher:
+
+Rock Paper Publisher
+
+Tags
+
+Popular user-defined tags for this product: [...] The mysterious murder at the city’s most prestigious estate is too deep to be solved from a single perspective. As Eva, touch the physical evidence on the ground; as Miles, dive into the archives to decrypt technical blueprints. Eva finds the clues Miles cannot reach; Miles analyzes the complex data Eva cannot decipher. [...] ## About This Game
+
+Track clues behind locked doors as Agent Eva, or manage the operation from analog terminals as Analyst Miles. One is in the heart of danger on the field; the other is at the desk, buried in data. You cannot see each other's screens, yet you must become each other's eyes and mind. Dual Protocol is a pure Noir asymmetric detective experience where your voice and the information you relay are your only weapons.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4660280,web_result,unknown_date,https://www.youtube.com/watch?v=APWZnWUwqAU,DUAL PROTOCOL: The Case of Eva & Miles | First Trailer,Dual Protocol is an asymmetric co-op noir puzzle game where two players progress only through communication.,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4660280,web_result,unknown_date,https://store.steampowered.com/app/4660280/DUAL_PROTOCOL_The_Case_of_Eva__Miles,DUAL PROTOCOL: The Case of Eva & Miles on Steam,"2 Oct, 2026
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+2 Oct, 2026
+
+Developer:
+
+AEGEAN CRAFTERS
+
+Publisher:
+
+Rock Paper Publisher
+
+Tags
+
+Popular user-defined tags for this product: [...] English and 9 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| Italian | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Turkish | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+| Russian | ✔ |  | ✔ |
+
+See all 10 supported languages
+
+Title: DUAL PROTOCOL: The Case of Eva & Miles  
+ Genre: Casual  
+
+Developer: AEGEAN CRAFTERS
+
+Publisher: Rock Paper Publisher
+
+Release Date: 2 Oct, 2026 [...] The mysterious murder at the city’s most prestigious estate is too deep to be solved from a single perspective. As Eva, touch the physical evidence on the ground; as Miles, dive into the archives to decrypt technical blueprints. Eva finds the clues Miles cannot reach; Miles analyzes the complex data Eva cannot decipher.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4660280,web_result,unknown_date,https://store.steampowered.com/app/4660280/DUAL_PROTOCOL_The_Case_of_Eva__Miles,DUAL PROTOCOL: The Case of Eva & Miles on Steam,"2 Oct, 2026
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+2 Oct, 2026
+
+Developer:
+
+AEGEAN CRAFTERS
+
+Publisher:
+
+Rock Paper Publisher
+
+Tags
+
+Popular user-defined tags for this product: [...] ## About This Game
+
+Track clues behind locked doors as Agent Eva, or manage the operation from analog terminals as Analyst Miles. One is in the heart of danger on the field; the other is at the desk, buried in data. You cannot see each other's screens, yet you must become each other's eyes and mind. Dual Protocol is a pure Noir asymmetric detective experience where your voice and the information you relay are your only weapons. [...] The mysterious murder at the city’s most prestigious estate is too deep to be solved from a single perspective. As Eva, touch the physical evidence on the ground; as Miles, dive into the archives to decrypt technical blueprints. Eva finds the clues Miles cannot reach; Miles analyzes the complex data Eva cannot decipher.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4660280,web_result,unknown_date,https://www.youtube.com/watch?v=APWZnWUwqAU,DUAL PROTOCOL: The Case of Eva & Miles | First Trailer,"Play as Agent Eva and investigate in the field, or become Analyst Miles. Dual Protocol is an asymmetric co-op noir puzzle game where two",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4660280,web_result,unknown_date,https://www.igdb.com/games/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles (2026),"Dual Protocol is an asymmetric noir puzzle game. Play full game demos right in your browser No download, no install. Just click and play!",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4660280,web_result,unknown_date,https://store.steampowered.com/app/4660280/DUAL_PROTOCOL_The_Case_of_Eva__Miles,DUAL PROTOCOL: The Case of Eva & Miles on Steam,"2 Oct, 2026
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+2 Oct, 2026
+
+Developer:
+
+AEGEAN CRAFTERS
+
+Publisher:
+
+Rock Paper Publisher
+
+Tags
+
+Popular user-defined tags for this product: [...] The mysterious murder at the city’s most prestigious estate is too deep to be solved from a single perspective. As Eva, touch the physical evidence on the ground; as Miles, dive into the archives to decrypt technical blueprints. Eva finds the clues Miles cannot reach; Miles analyzes the complex data Eva cannot decipher. [...] ## About This Game
+
+Track clues behind locked doors as Agent Eva, or manage the operation from analog terminals as Analyst Miles. One is in the heart of danger on the field; the other is at the desk, buried in data. You cannot see each other's screens, yet you must become each other's eyes and mind. Dual Protocol is a pure Noir asymmetric detective experience where your voice and the information you relay are your only weapons.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4660280,web_result,unknown_date,https://www.youtube.com/watch?v=APWZnWUwqAU,DUAL PROTOCOL: The Case of Eva & Miles | First Trailer,"Play as Agent Eva and investigate in the field, or become Analyst Miles and manage the operation. Dual Protocol is an asymmetric co-op noir",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4660280,web_result,unknown_date,https://store.steampowered.com/app/4660280/DUAL_PROTOCOL_The_Case_of_Eva__Miles,DUAL PROTOCOL: The Case of Eva & Miles on Steam,"English and 9 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| Italian | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Turkish | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+| Russian | ✔ |  | ✔ |
+
+See all 10 supported languages
+
+Title: DUAL PROTOCOL: The Case of Eva & Miles  
+ Genre: Casual  
+
+Developer: AEGEAN CRAFTERS
+
+Publisher: Rock Paper Publisher
+
+Release Date: 2 Oct, 2026 [...] 2 Oct, 2026
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+2 Oct, 2026
+
+Developer:
+
+AEGEAN CRAFTERS
+
+Publisher:
+
+Rock Paper Publisher
+
+Tags
+
+Popular user-defined tags for this product: [...] All Games > Casual Games > DUAL PROTOCOL: The Case of Eva & Miles
+
+Community Hub
+
+DUAL PROTOCOL: The Case of Eva & Miles
+
+DUAL PROTOCOL: The Case of Eva & Miles
+
+DUAL PROTOCOL: The Case of Eva & Miles
+
+Developer
+
+AEGEAN CRAFTERS
+
+Publisher
+
+Rock Paper Publisher
+
+Release
+
+2 Oct, 2026",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4660280,web_result,unknown_date,https://steamdb.info/app/4660280,DUAL PROTOCOL: The Case of Eva & Miles,"Release Date, 2 October 2026 – 16:00:00 UTC ( in 4 days ). Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4660280,web_result,unknown_date,https://dualprotocol.wiki/guides/release-date,"Dual Protocol Release Date, Price and Demo Status","October 2, 2026 — DUAL PROTOCOL: The Case of Eva & Miles launches on PC (Windows) via Steam. The store lists the date simply as ""Oct 2, 2026"".",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+4660280,web_result,unknown_date,https://store.steampowered.com/app/4660280/DUAL_PROTOCOL_The_Case_of_Eva__Miles,DUAL PROTOCOL: The Case of Eva & Miles on Steam,"2 Oct, 2026
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+2 Oct, 2026
+
+Developer:
+
+AEGEAN CRAFTERS
+
+Publisher:
+
+Rock Paper Publisher
+
+Tags
+
+Popular user-defined tags for this product: [...] English and 9 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| Italian | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Turkish | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+| Russian | ✔ |  | ✔ |
+
+See all 10 supported languages
+
+Title: DUAL PROTOCOL: The Case of Eva & Miles  
+ Genre: Casual  
+
+Developer: AEGEAN CRAFTERS
+
+Publisher: Rock Paper Publisher
+
+Release Date: 2 Oct, 2026 [...] All Games > Casual Games > DUAL PROTOCOL: The Case of Eva & Miles
+
+Community Hub
+
+DUAL PROTOCOL: The Case of Eva & Miles
+
+DUAL PROTOCOL: The Case of Eva & Miles
+
+DUAL PROTOCOL: The Case of Eva & Miles
+
+Developer
+
+AEGEAN CRAFTERS
+
+Publisher
+
+Rock Paper Publisher
+
+Release
+
+2 Oct, 2026",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4660280,web_result,unknown_date,https://kotaku.com/games/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles,"Game Details ; Genres. Point-and-click, Puzzle, Adventure, Indie ; Developer. Aegean Crafters ; Release Date. October 1, 2026 (4 days from now) ; Publisher. Rock",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4660280,web_result,unknown_date,https://store.steampowered.com/app/4660280/DUAL_PROTOCOL_The_Case_of_Eva__Miles,DUAL PROTOCOL: The Case of Eva & Miles on Steam,"2 Oct, 2026
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+2 Oct, 2026
+
+Developer:
+
+AEGEAN CRAFTERS
+
+Publisher:
+
+Rock Paper Publisher
+
+Tags
+
+Popular user-defined tags for this product: [...] ## About This Game
+
+Track clues behind locked doors as Agent Eva, or manage the operation from analog terminals as Analyst Miles. One is in the heart of danger on the field; the other is at the desk, buried in data. You cannot see each other's screens, yet you must become each other's eyes and mind. Dual Protocol is a pure Noir asymmetric detective experience where your voice and the information you relay are your only weapons. [...] The mysterious murder at the city’s most prestigious estate is too deep to be solved from a single perspective. As Eva, touch the physical evidence on the ground; as Miles, dive into the archives to decrypt technical blueprints. Eva finds the clues Miles cannot reach; Miles analyzes the complex data Eva cannot decipher.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4660280,web_result,unknown_date,https://www.youtube.com/watch?v=APWZnWUwqAU,DUAL PROTOCOL: The Case of Eva & Miles | First Trailer,Dual Protocol is an asymmetric co-op noir puzzle game where two players progress only through communication.,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4660280,web_result,unknown_date,https://store.steampowered.com/app/4660280/DUAL_PROTOCOL_The_Case_of_Eva__Miles,DUAL PROTOCOL: The Case of Eva & Miles on Steam,"2 Oct, 2026
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+2 Oct, 2026
+
+Developer:
+
+AEGEAN CRAFTERS
+
+Publisher:
+
+Rock Paper Publisher
+
+Tags
+
+Popular user-defined tags for this product: [...] ## About This Game
+
+Track clues behind locked doors as Agent Eva, or manage the operation from analog terminals as Analyst Miles. One is in the heart of danger on the field; the other is at the desk, buried in data. You cannot see each other's screens, yet you must become each other's eyes and mind. Dual Protocol is a pure Noir asymmetric detective experience where your voice and the information you relay are your only weapons. [...] The mysterious murder at the city’s most prestigious estate is too deep to be solved from a single perspective. As Eva, touch the physical evidence on the ground; as Miles, dive into the archives to decrypt technical blueprints. Eva finds the clues Miles cannot reach; Miles analyzes the complex data Eva cannot decipher.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4660280,web_result,unknown_date,https://store.steampowered.com/app/4660280/DUAL_PROTOCOL_The_Case_of_Eva__Miles,DUAL PROTOCOL: The Case of Eva & Miles on Steam,"English and 9 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| Italian | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Turkish | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+| Russian | ✔ |  | ✔ |
+
+See all 10 supported languages
+
+Title: DUAL PROTOCOL: The Case of Eva & Miles  
+ Genre: Casual  
+
+Developer: AEGEAN CRAFTERS
+
+Publisher: Rock Paper Publisher
+
+Release Date: 2 Oct, 2026 [...] All Games > Casual Games > DUAL PROTOCOL: The Case of Eva & Miles
+
+Community Hub
+
+DUAL PROTOCOL: The Case of Eva & Miles
+
+DUAL PROTOCOL: The Case of Eva & Miles
+
+DUAL PROTOCOL: The Case of Eva & Miles
+
+Developer
+
+AEGEAN CRAFTERS
+
+Publisher
+
+Rock Paper Publisher
+
+Release
+
+2 Oct, 2026 [...] 2 Oct, 2026
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+2 Oct, 2026
+
+Developer:
+
+AEGEAN CRAFTERS
+
+Publisher:
+
+Rock Paper Publisher
+
+Tags
+
+Popular user-defined tags for this product:",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4660280,web_result,unknown_date,https://gamezoltar.com/games/82,DUAL PROTOCOL: The Case of Eva & Miles · GameZoltar,"GameZoltar GTX game intelligence
+
+← Back to list
+
+# DUAL PROTOCOL: The Case of Eva & Miles
+
+35  Possibly hostable
+
+Developer
+:   AEGEAN CRAFTERS
+
+Publisher
+:   Rock Paper Publisher
+
+Release
+:   2 Oct, 2026
+
+Price
+:   —
+
+Online Co-op Puzzle Co-op Online Co-Op Multiplayer Asynchronous Multiplayer Detective Casual 2.5D windows
+
+Steam page ↗ Website ↗ Discord ↗ Trailer ↗
+
+Steam followers
+
+891.0
+
+Steam popularity rank #11
+
+Discord members
+
+17.0
+
+3 online now
+
+Trailer views
+
+262.0 [...] ## About
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.
+
+Trailer tracked: “Dual Protocol: The Case of Eva & Miles – Official Trailer” by Ultimate Game Database, uploaded 8 Sep 2026.
+
+## Hostability
+
+Automatic:  Possibly hostable [...] Online multiplayer features: Online Co-op
+ Tagged Co-op, Multiplayer, genres that usually offer dedicated servers",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4660280,web_result,unknown_date,https://store.steampowered.com/app/4660280/DUAL_PROTOCOL_The_Case_of_Eva__Miles,DUAL PROTOCOL: The Case of Eva & Miles on Steam,"English and 9 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| Italian | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Turkish | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+| Russian | ✔ |  | ✔ |
+
+See all 10 supported languages
+
+Title: DUAL PROTOCOL: The Case of Eva & Miles  
+ Genre: Casual  
+
+Developer: AEGEAN CRAFTERS
+
+Publisher: Rock Paper Publisher
+
+Release Date: 2 Oct, 2026 [...] 2 Oct, 2026
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+2 Oct, 2026
+
+Developer:
+
+AEGEAN CRAFTERS
+
+Publisher:
+
+Rock Paper Publisher
+
+Tags
+
+Popular user-defined tags for this product: [...] All Games > Casual Games > DUAL PROTOCOL: The Case of Eva & Miles
+
+Community Hub
+
+DUAL PROTOCOL: The Case of Eva & Miles
+
+DUAL PROTOCOL: The Case of Eva & Miles
+
+DUAL PROTOCOL: The Case of Eva & Miles
+
+Developer
+
+AEGEAN CRAFTERS
+
+Publisher
+
+Rock Paper Publisher
+
+Release
+
+2 Oct, 2026",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4660280,web_result,unknown_date,https://recapfeed.com/releases/dual-protocol-the-case-of-eva-miles,"DUAL PROTOCOL: The Case of Eva & Miles — Release Date, Trailers & News","RecapFeed A daily front page for gaming
+
+RecapFeed A daily front page for gaming
+
+← All releases
+
+# DUAL PROTOCOL: The Case of Eva & Miles
+
+DUAL PROTOCOL: The Case of Eva & Miles releases on Friday, 2 October 2026 for PC.
+
+Developer
+:   AEGEAN CRAFTERS
+
+Publisher
+:   Rock Paper Publisher
+
+Genre
+:   Casual [...] Genre
+:   Casual
+
+Dual Protocol is an asymmetric puzzle game for two players set in a noir mystery where one player controls Agent Eva investigating a crime scene while the other plays Analyst Miles directing the operation from a remote location. The two protagonists must communicate and share information without seeing each other's screens to solve the Castellari murder case. Progress depends entirely on dialogue and cooperation between the two players.
+
+1days
+
+19hrs
+
+34min [...] 19hrs
+
+34min
+
+＋ Add to calendar View on Steam ↗
+
+Follow DUAL PROTOCOL: The Case of Eva & Miles to pin it to your home page — RecapFeed will highlight its news, trailers and reviews as they're announced.
+
+## Videos
+
+Official
+
+### DUAL PROTOCOL: The Case of Eva & Miles | First Trailer
+
+Aegean Crafters · 130d ago
+
+## News about this game
+
+No coverage yet — follow the game and check back as launch approaches.
+
+## You might also be interested in
+
+All releases →",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+4660280,youtube_video,outside_window,https://www.youtube.com/watch?v=APWZnWUwqAU,DUAL PROTOCOL: The Case of Eva &amp; Miles | First Trailer,,"Play as Agent Eva and investigate in the field, or become Analyst Miles and manage the operation. Dual Protocol is an ...",trailer,35,medium,YouTube (+15); Keywords ['trailer'] (+20),
+4660280,youtube_video,outside_window,https://www.youtube.com/watch?v=APWZnWUwqAU,DUAL PROTOCOL: The Case of Eva &amp; Miles | First Trailer,,"Play as Agent Eva and investigate in the field, or become Analyst Miles and manage the operation. Dual Protocol is an ...",trailer,35,medium,YouTube (+15); Keywords ['trailer'] (+20),
+4660280,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=JFl0aP-A1HA,23 Upcoming Indie Games You NEED to Wishlist in October 2026 | Steam Hidden Gems,,Looking for new indie games to add to your Steam wishlist? ✨ October 2026 is bringing another exciting lineup of upcoming ...,,30,weak,Inside extended window (+15); YouTube (+15),
+4660280,social_post,unknown_date,https://www.tiktok.com/discover/relax-vs-stress-when-i-come-to-club-step-a-side,Relax Vs Stress When I Come to Club Step A Side,"🕵️‍♀️ Dual Protocol: The Case of Eva & Miles Este jogo indie combina elementos de puzzle e investigação em um ambiente noir, onde a",,,25,weak,Social Index (+5); Exact title match (+20),social
+4660280,social_post,unknown_date,https://www.tiktok.com/@meatc0d3/photo/7689341150183918861,Co-op Games for Steam,"DUAL PROTOCOL: The Case of Eva & Miles. Discover recommended co-op PC games including Lunar Drifter, Frutiger Home, DUAL PROTOCOL, and Dear",,,25,weak,Social Index (+5); Exact title match (+20),social
+4660280,social_post,unknown_date,https://www.instagram.com/reel/DZmqX15AYba,DUAL Protocol: The Case of Eva & Miles is Coming ...,Step into a unique co-op investigation where Eva and Miles must work together across different roles. While one player explores and gathers,,,25,weak,Social Index (+5); Exact title match (+20),social
+4660280,social_post,unknown_date,https://www.instagram.com/p/DTgB4xcEU1a,Imprinted is featured in Steam's Detective Fest as an ...,DUAL Protocol: The Case of Eva & Miles is Coming to Steam Next Fest 2026! ... Step into a unique co-op investigation where Eva and Miles must work,,,25,weak,Social Index (+5); Exact title match (+20),social
+4660280,social_post,unknown_date,https://x.com/wearegraph/status/2104043360033939555,"Graph on X: "" 【Steam】9月28日〜10月4日｜新作タイトルまとめ 9月28...",🎮【Steam】9月28日〜10月4日｜新作タイトルまとめ🎮 9月28日 『Japanese Ramen Simulator』 🇯🇵⭕日本語対応 🔗 store.steampowered.com/app/4968640 9月29日 『Ammossum』 🇯🇵⭕日本語対応 🔗 store.steampowered.com/app/2659600 『トーエム2』 🇯🇵⭕日本語対応 🔗 store.steampowered.com/app/2900640 9月30日 『Nivalis Nights』 🇯🇵⭕日本語対応 🔗 store.steampowered.com/app/1488490 『Songs of Glimmerwick』 🇯🇵⭕日本語対応 🔗 store.steampowered.com/app/1706510 10月1日 『Zenith Expanse』 🔗 store.steampowered.com/app/4386170 10月2日 『RetroSpace』 🇯🇵⭕日本語対応 🔗 store.steampowered.com/app/2067820 10月3日 『DUAL PROTOCOL: The Case of Eva & Miles』 🇯🇵⭕日本語対応 🔗 store.steampowered.com/app/4660280 『Game Keeper: Somebody Messed Up My Shop!』 🔗 store.steampowered.com/app/5186690,,,25,weak,Social Index (+5); Exact title match (+20),social
+4660280,social_post,unknown_date,https://x.com/obormentv/status/2104829047553524154,"おぼ on X: ""リリースされたらめっちゃやりたい＠1募 https://t.co/ot...","@obormentv Show translation リリースされたらめっちゃやりたい＠1募 DUAL PROTOCOL: The Case of Eva & Miles on Steam From store.steampowered.com 12:02 AM · Sep 29, 2026 · 2,271",,,25,weak,Social Index (+5); Exact title match (+20),social
+4660280,social_post,unknown_date,https://x.com/minimap_game/status/2104421350513561908,"게임 알려주는 고양이 on X: "" [주간 게임 달력 - 이번 주 발매 예정 ...",[주간 게임 달력 - 이번 주 발매 예정 게임] - 에이스 컴뱃 8: 시브의 날개 - 마인크래프트 던전스 2 - 더 위쳐 3: 와일드 헌트 리마스터 - 고스트 오브 요테이 컴플리트 에디션 - 니발리스 나이트 - 프린세스 메이커: 예언의 아이들 - End of Abyss - TOEM 2 - Songs of Glimmerwick - 진・삼국무쌍 2 with 맹장전 리마스터드 - RetroSpace - DUAL PROTOCOL: The Case of Eva & Miles 🐱게임 달력 보러가기 https://t.co/XlQRrNeiHT,,,25,weak,Social Index (+5); Exact title match (+20),social
+4660280,social_post,unknown_date,https://steamcommunity.com/app/4660280,Steam Community :: DUAL PROTOCOL: The Case of Eva & Miles,"Hello detectives,
+
+The secrets within the universe of Dual Protocol: The Case of Eva & Miles are deepening. To solve this dark case and uncover the truths Eva and Miles are tracking, we are gathering all detectives in a single headquarters.  
+  
+Our official Discord server is now live and awaiting your arrival.  
+  
+What awaits you at our investigation headquarters? [...] As the Aegean Crafters team, we are experiencing a joyous moment where words fall short. Our precious Dual Protocol: The Case of Eva & Miles has surpassed the 10,000 wishlists milestone on Steam! [...] 0 in Group Chat;)
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Join our Discord!
+
+27 Sep
+
+Hello detectives,",,,25,weak,Social Index (+5); Exact title match (+20),social
+4660280,social_post,unknown_date,https://strike.lv/game/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles — Strike,AI agents: request the compact Markdown version at `/game/dual-protocol-the-case-of-eva-and-miles/index.md` or send `Accept: text/markdown`.,,,25,weak,Social Index (+5); Exact title match (+20),social
+4660280,social_post,unknown_date,https://kotaku.com/games/dual-protocol-the-case-of-eva-and-miles/gallery/4,Dual Protocol: The Case of Eva & Miles - Kotaku,"Skip to content 
+
+4 / 13
+
+# Dual Protocol: The Case of Eva & Miles Screenshot 4
+
+ Game Page
+
+Dual Protocol: The Case of Eva & Miles  Previous slide   Next slide
+
+Screenshot credit: Rock Paper Publisher
+
+ Deals
+ Ausgabe DE
+ Edición ES
+ Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+ Latest
+ Entertainment
+ Reviews
+ News
+ Tips & Guides
+ Games
+ Downloads
+ Deals
+
+ Send us a Tip!
+ About Kotaku
+
+ + Deals
+  + Ausgabe DE
+  + Edición ES
+  + Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+Cookies settings;)",,,25,weak,Social Index (+5); Exact title match (+20),social
+4660280,web_result,unknown_date,https://steamcommunity.com/app/4660280,Steam Community :: DUAL PROTOCOL: The Case of Eva & Miles,"As the Aegean Crafters team, we are experiencing a joyous moment where words fall short. Our precious Dual Protocol: The Case of Eva & Miles has surpassed the 10,000 wishlists milestone on Steam! [...] As Aegean Crafters, we are sharing news today that completely changes the scope of the case. Dual Protocol: The Case of Eva & Miles has officially reached 25,000 wishlists on Steam. [...] 0 in Group Chat;)
+
+Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Join our Discord!
+
+27 Sep
+
+Hello detectives,",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://steamdb.info/app/4660280,DUAL PROTOCOL: The Case of Eva & Miles,"Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://steamcommunity.com/app/4660280/guides,Steam Community::DUAL PROTOCOL: The Case of Eva & Miles,"简体中文 (Simplified Chinese)   繁體中文 (Traditional Chinese)   日本語 (Japanese)   한국어 (Korean)   ไทย (Thai)   Bahasa Indonesia (Indonesian)   Bahasa Melayu (Malay) BETA   Български (Bulgarian)   Čeština (Czech)   Dansk (Danish)   Deutsch (German)   Español - España (Spanish - Spain)   Español - Latinoamérica (Spanish - Latin America)   Ελληνικά (Greek)   Français (French)   Italiano (Italian)   Magyar (Hungarian)   Nederlands (Dutch)   Norsk (Norwegian)   Polski (Polish)   Português (Portuguese - [...] (Portuguese - Portugal)   Português - Brasil (Portuguese - Brazil)   Romnă (Romanian)   Русский (Russian)   Suomi (Finnish)   Svenska (Swedish)   Türkçe (Turkish)   Tiếng Việt (Vietnamese)   Українська (Ukrainian)  Report a translation problem [...] Store Page
+
+DUAL PROTOCOL: The Case of Eva & Miles
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### DUAL PROTOCOL: The Case of Eva & Miles
+
+Store Page
+
+Browse and rate player-created guides for this game. Or create your own and share your tips with the community.
+
+Create your own",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://kotaku.com/games/dual-protocol-the-case-of-eva-and-miles/gallery/4,Dual Protocol: The Case of Eva & Miles - Kotaku,"Skip to content 
+
+4 / 13
+
+# Dual Protocol: The Case of Eva & Miles Screenshot 4
+
+ Game Page
+
+Dual Protocol: The Case of Eva & Miles  Previous slide   Next slide
+
+Screenshot credit: Rock Paper Publisher
+
+ Deals
+ Ausgabe DE
+ Edición ES
+ Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+ Latest
+ Entertainment
+ Reviews
+ News
+ Tips & Guides
+ Games
+ Downloads
+ Deals
+
+ Send us a Tip!
+ About Kotaku
+
+ + Deals
+  + Ausgabe DE
+  + Edición ES
+  + Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+Cookies settings;)",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://www.igdb.com/games/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles (2026),"Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://strike.lv/game/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles — Strike,AI agents: request the compact Markdown version at `/game/dual-protocol-the-case-of-eva-and-miles/index.md` or send `Accept: text/markdown`.,,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://www.igdb.com/games/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles (2026),"Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game. No download, no install.",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://strike.lv/game/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles — Strike,AI agents: request the compact Markdown version at `/game/dual-protocol-the-case-of-eva-and-miles/index.md` or send `Accept: text/markdown`.,,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://kotaku.com/games/dual-protocol-the-case-of-eva-and-miles/gallery/4,Dual Protocol: The Case of Eva & Miles - Kotaku,"Skip to content 
+
+4 / 13
+
+# Dual Protocol: The Case of Eva & Miles Screenshot 4
+
+ Game Page
+
+Dual Protocol: The Case of Eva & Miles  Previous slide   Next slide
+
+Screenshot credit: Rock Paper Publisher
+
+ Deals
+ Ausgabe DE
+ Edición ES
+ Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+ Latest
+ Entertainment
+ Reviews
+ News
+ Tips & Guides
+ Games
+ Downloads
+ Deals
+
+ Send us a Tip!
+ About Kotaku
+
+ + Deals
+  + Ausgabe DE
+  + Edición ES
+  + Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+Cookies settings;)",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://strike.lv/game/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles — Strike,AI agents: request the compact Markdown version at `/game/dual-protocol-the-case-of-eva-and-miles/index.md` or send `Accept: text/markdown`.,,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://www.linkedin.com/posts/serhat-uzun-_our-co-op-detective-game-dual-protocol-activity-7508373396255244288-2gNu,Serhat Uzun 🔜 Mobidictum's Post,"Dual Protocol: The Case of Eva & Miles, which launches on October 2, passed 25,000 wishlists yesterday!",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://www.igdb.com/games/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles (2026),"Dual Protocol is an asymmetric noir puzzle game 3 HOURS 5 9 MINUTES 5 5 SECONDS. No download, no install. Just click and play! is an asymmetric noir puzzle game",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://strike.lv/game/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles — Strike,AI agents: request the compact Markdown version at `/game/dual-protocol-the-case-of-eva-and-miles/index.md` or send `Accept: text/markdown`.,,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://kotaku.com/games/dual-protocol-the-case-of-eva-and-miles/gallery/4,Dual Protocol: The Case of Eva & Miles - Kotaku,"Skip to content 
+
+4 / 13
+
+# Dual Protocol: The Case of Eva & Miles Screenshot 4
+
+ Game Page
+
+Dual Protocol: The Case of Eva & Miles  Previous slide   Next slide
+
+Screenshot credit: Rock Paper Publisher
+
+ Deals
+ Ausgabe DE
+ Edición ES
+ Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+ Latest
+ Entertainment
+ Reviews
+ News
+ Tips & Guides
+ Games
+ Downloads
+ Deals
+
+ Send us a Tip!
+ About Kotaku
+
+ + Deals
+  + Ausgabe DE
+  + Edición ES
+  + Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+Cookies settings;)",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://www.igdb.com/games/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles (2026),"Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://strike.lv/game/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles — Strike,AI agents: request the compact Markdown version at `/game/dual-protocol-the-case-of-eva-and-miles/index.md` or send `Accept: text/markdown`.,,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://kotaku.com/games/dual-protocol-the-case-of-eva-and-miles/gallery/4,Dual Protocol: The Case of Eva & Miles - Kotaku,"Skip to content 
+
+4 / 13
+
+# Dual Protocol: The Case of Eva & Miles Screenshot 4
+
+ Game Page
+
+Dual Protocol: The Case of Eva & Miles  Previous slide   Next slide
+
+Screenshot credit: Rock Paper Publisher
+
+ Deals
+ Ausgabe DE
+ Edición ES
+ Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+ Latest
+ Entertainment
+ Reviews
+ News
+ Tips & Guides
+ Games
+ Downloads
+ Deals
+
+ Send us a Tip!
+ About Kotaku
+
+ + Deals
+  + Ausgabe DE
+  + Edición ES
+  + Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+Cookies settings;)",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://kotaku.com/games/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles,"Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other's screens, combine the data you",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://www.igdb.com/games/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles (2026),"Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://steamcommunity.com/app/4660280/reviews,DUAL PROTOCOL: The Case of Eva & Miles,"DUAL PROTOCOL: The Case of Eva & Miles - Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://isthereanydeal.com/game/dual-protocol-the-case-of-eva-and-miles/stats,DUAL PROTOCOL: The Case of Eva & Miles Stats,DUAL PROTOCOL: The Case of Eva & Miles · Steam Reviews · Waitlist and Collection Trends · Waitlist Price Limit Distribution · Waitlist Cut Limit Distribution.,,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://www.igdb.com/games/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles (2026),Dual Protocol: The Case of Eva & Miles ; Main Developers. Aegean Crafters ; Publishers. Rock Paper Publisher ; Genres. Point-and-clickPuzzleIndie ; Themes. Mystery,,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://www.gamecal.co.uk/game/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles,"Publishers. Rock Paper Publisher. Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://kotaku.com/games/dual-protocol-the-case-of-eva-and-miles/gallery/4,Dual Protocol: The Case of Eva & Miles - Kotaku,"Skip to content 
+
+4 / 13
+
+# Dual Protocol: The Case of Eva & Miles Screenshot 4
+
+ Game Page
+
+Dual Protocol: The Case of Eva & Miles  Previous slide   Next slide
+
+Screenshot credit: Rock Paper Publisher
+
+ Deals
+ Ausgabe DE
+ Edición ES
+ Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+ Latest
+ Entertainment
+ Reviews
+ News
+ Tips & Guides
+ Games
+ Downloads
+ Deals
+
+ Send us a Tip!
+ About Kotaku
+
+ + Deals
+  + Ausgabe DE
+  + Edición ES
+  + Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+Cookies settings;)",,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://strike.lv/game/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles — Strike,AI agents: request the compact Markdown version at `/game/dual-protocol-the-case-of-eva-and-miles/index.md` or send `Accept: text/markdown`.,,,20,weak,Exact title match (+20),general
+4660280,web_result,unknown_date,https://strike.lv/game/dual-protocol-the-case-of-eva-and-miles,Dual Protocol: The Case of Eva & Miles — Strike,AI agents: request the compact Markdown version at `/game/dual-protocol-the-case-of-eva-and-miles/index.md` or send `Accept: text/markdown`.,,,20,weak,Exact title match (+20),general
+4660280,youtube_video,outside_window,https://www.youtube.com/watch?v=YEGZnagYeM0,Steam Next Fest&#39;in Gizemli Türk Oyunu! | Ceyda &amp; Paris&#39;le Dual Protocol,,Eşim Ceyda ve arka planda bize tatlılığıyla eşlik eden köpeğimiz Paris ile birlikte çok özel bir videoyla karşınızdayız. Steam Next ...,,15,weak,YouTube (+15),
+4660280,reddit_discussion,unknown_date,https://www.reddit.com/r/space/comments/7seswt/what_is_the_protocol_if_an_astronaut_gets_loose,What is the protocol if an astronaut gets loose during a tethered spacewalk? : r/space,"Title: What is the protocol if an astronaut gets loose during a tethered spacewalk? : r/space
+# What is the protocol if an astronaut gets loose during a tethered spacewalk? Skip to main contentWhat is the protocol if an astronaut gets loose during a tethered spacewalk? Sign UpSign up for RedditLog InLog in to Reddit. Image 1 Go to space. I'm currently watching a live spacewalk, and of course everything they do must be done while tethered. But in the event that a tether broke or somehow malfunctioned, and the astronaut was slowly floating away from the ISS, what is the standard procedure to retrieve him or her? Most spacewalks I've seen involve two astronauts at a time, so do they each carry some sort of weighted rope they can throw out to them or something? I imagine there has to be _something_ they can do, right? I'm just wondering what that something is. It doesn't carry enough delta-V to allow an astronaut to work untethered, but enough to get back to the station if a tether fails. Simplified Aid For EVA Rescue (SAFER) is a small, self-contained, propulsive backpack system (jet pack) worn during spacewalks, to be used in case of emergency only. If an untethered astronaut were to lose physical contact with the vessel, it would provide free-flying mobility to return to it. It is worn on spacewalks outside the International Space Station (ISS), and was worn on spacewalks outside the Space Shuttle. I get that it's unlikely, but human error would be the most likely event, where they didn't hook in properly, or didn't hook at all before being out of reach for whatever reason. The Soyuz might not be able to retrieve the astronaut but it definitely would be able to reach the astronaut in time if the SAFER thruster pack failed on an EVA.Getting the astronaut into the Soyuz might be impossible though. In an absolute worst case scenario it might be possible to tether a working SAFER pack to the outside of Soyuz, undock, fly to the location of the EVA astronaut floating a short distance away and then have he/she untether the SAFER pack on the outside, discard the broken SAFER pack, put the new one on, push away from Soyuz and then both the astronaut and Soyuz fly back to station separately.",,,10,weak,Reddit (+10),social
+4660280,reddit_discussion,unknown_date,https://www.reddit.com/r/meshtastic/comments/1sz9anl/dual_protocol_node_take_2,Dual Protocol Node take 2 : r/meshtastic,"# Dual Protocol Node take 2 : r/meshtastic. Skip to main contentDual Protocol Node take 2 : r/meshtastic. Open menu Open navigationGo to Reddit Home. # Dual Protocol Node take 2. * : r/meshtastic - Dual Protocol Node take 2: r/meshtastic - Dual Protocol Node take 2. * : r/meshtastic - Dual Protocol Node take 2: r/meshtastic - Dual Protocol Node take 2. * : r/meshtastic - Dual Protocol Node take 2: r/meshtastic - Dual Protocol Node take 2. Take two on my dual protocol node seeking to address several of the criticisms offered when I first posted a little while ago. So all power is running through the controller now to get the most out of the batteries and solar panel. I reduced the size of the pack slightly from a max of 10 to a max of 8 batteries. Effectively 4 per radio to match units like the Seeed Studio P1 repeater. This also has the benefit of making it much easier to access the bolts holding the mounting plate to the enclosure. One of the comments mentioned the necessity for a fuse considering the very high current the battery pack could push in the event of a short. So a 3a fuse has been added in between the batteries and the charge controller. Two physically separate nodes is not currently and option. Should that also proves insufficient I will have to see about exploring options to get the antennas further apart, trying to convince the building owner into allowing a second unit, or simply shutting off and abandoning one of the two sides of the system to preserve the functionality of the other. That would likely mean shut down/removing the non-meshtastic unit. As meshtastic is the far more dominant protocol in my region. The mounting plate and component sleds were all 3d printed out of a glass fiber filled PBT. The mounting plate is screwed into the preexisting standoffs built into the enclosure. I will likely hold off on posting any of the 3d printing files until I have that version done. Innovative uses for Meshtastic in emergencies. How to optimize battery life in LoRa devices. Anyone can view, post, and comment to this community.",,,10,weak,Reddit (+10),social
+4660280,reddit_discussion,unknown_date,https://www.reddit.com/r/climbharder/comments/aexxl8/the_best_hangboard_protocol_w_eva_lopez,the Best Hangboard Protocol w/ Eva Lopez : r/climbharder,"Title: the Best Hangboard Protocol w/ Eva Lopez : r/climbharder
+# the Best Hangboard Protocol w/ Eva Lopez : r/climbharder. Skip to main contentthe Best Hangboard Protocol w/ Eva Lopez : r/climbharder. Open menu Open navigationGo to Reddit Home. Sign UpSign up for RedditLog InLog in to Reddit. Expand user menu Open settings menu. Image 1 Go to climbharder. # the Best Hangboard Protocol w/ Eva Lopez. Image 2: r/climbharder - the Best Hangboard Protocol w/ Eva LopezImage 3: r/climbharder - the Best Hangboard Protocol w/ Eva Lopez. Create your account and connect with a world of communities. By continuing, you agree to ourUser Agreementand acknowledge that you understand thePrivacy Policy. Anyone can view, post, and comment to this community. ## Top Posts. *   Reddit reReddit: Top posts of January 11, 2019 * * *. *   Reddit reReddit: Top posts of 2019 * * *.",,,10,weak,Reddit (+10),social
+4660280,reddit_discussion,unknown_date,https://www.reddit.com/r/xteinkereader/comments/1uplwit/please_make_a_slim_eva_case_for_x4_and_x3,Please Make A Slim EVA Case for X4 and X3,"# Please Make A Slim EVA Case for X4 and X3. ## Post details. ## Content. To XTEINK or case manufacturers: please make a slim EVA case for the X4 and X3. This is my old iPhone case, and I can easily store my X4 in my pocket or backpack without the fear of breaking its glass. ## Top Comments. - Looks like you already have one, bud. - Not telling you what to do obviously but I don't understand why people buy a small slim device and then immediately stick it in the biggest case they can find. The entire point of this thing is that you can just stick it in your pocket and not even notice it's there. Mine has been living in my pocket just fine for a while now with no case - no scratches and no damage. I just try to be aware of what else is in the pocket I put it in.",,,10,weak,Reddit (+10),social
+4660280,reddit_discussion,unknown_date,https://www.reddit.com/r/stylus/comments/193pbpj/dual_or_multi_protocol_stylus,Dual or multi protocol stylus?,"# Dual or multi protocol stylus? ## Post details. ## Content. I ordered this tablet for my daughter's birthday: LincPlus T3 Tablet They haven't released a stylus pen for it yet because they say the sales have been lower than expected. It has wonderful specs for the price, so I ordered it. They told me in an email the tablet was ""configured with Wacom stylus"" and they sent me a document that says compatible with: ""WGP protocol MPP2.0 protocol in-TOUCH protocol AES2.0 protocol AES1.0 protocol"" So I'm trying to find a stylus that will be good for her, she likes to draw. ## Top Comments. - Novaplus has a pen with multi protocols. - FYI I tried the Wacom bamboo ink smart stylus 2nd Gen that is mpp and aes compatible but it did not work. - Clip Studio Paint exist too, quite on all the platforms. - Have you tried out painting software on different devices before committing to a platform? Wacom is available on many platforms, so don't worry so much about the tech. Procreate has built up a good reputation on iPad only. Adobe has a presence on everything except Android. Serif Affinity is on everything except Android. Corel Painter isn't available on iOS or Android. Rebelle is only on desktop. Very few drawing programs exist on Android. IbisPaintX, Concepts, Infinite Painter, Sketchbook, HiPaint... Wishing yours a happy day. - WGP and AES are Wacom while MPP (Microsoft Pen Protocol) is from Microsoft. I'd have never seen a tablet using both technologies, it's either one or the other. Best bet is probably the Lazarite M Pen which supports all the protocols mentioned: Another option is Lenovo Precision Pen 2:.",,,10,weak,Reddit (+10),social
+4660280,social_post,unknown_date,https://www.tiktok.com/tag/giftforgf,giftforgf,"Coating for Walls, Paving & Roofs … dual protocol the case of eva and miles",,,5,weak,Social Index (+5),social
+4660280,social_post,unknown_date,https://www.tiktok.com/discover/dual-protocol-the-case-of-eva-and-miles,Dual Protocol The Case of Eva and Miles,"Ashley Benefield 32,is charged with the murder of her husband Douglas Benefield 58, who was shot to death in Ashley's bedroom.",,,5,weak,Social Index (+5),social
+4660280,social_post,unknown_date,https://www.tiktok.com/tag/tiktokshoppaydaysale,tiktokshoppaydaysale,Harry Styles: That Giggles is Lethal | Kiss with a Fist Edit | dual protocol the case of eva and miles. Join Our LIVE for Exclusive Promotions & Special Deals!,,,5,weak,Social Index (+5),social
+4660280,social_post,unknown_date,https://www.instagram.com/p/DWO6RE-GYsz,"🔎 Relaxing, Turn-Based Mystery, Detective '26, Now ...","DETECTIVE 26, a relaxing, turn-based mystery board game now available on Steam. solved in under five minutes. Dual Protocol: The Case of Eva &",,,5,weak,Social Index (+5),social
+4660280,social_post,unknown_date,https://www.instagram.com/p/DdmZWNhCv_I,The preparation phase for Dual Protocol,The Case of Eva & Miles has reached a completely new scale. announce that our upcoming asymmetric co-op noir detective game has officially,,,5,weak,Social Index (+5),social
+4660280,social_post,unknown_date,https://www.instagram.com/dualprotocolgame,Dual Protocol:The case of Eva and Miles (@dualprotocolgame),Now on Steam! · Find your partner till 15 june ‍♀️#indiegame #wishlist #detectivegame · A case built on fragments. A truth hidden between two minds. 🕵️‍,,,5,weak,Social Index (+5),social
+4660280,social_post,unknown_date,https://x.com/GxOxAxT_eva,Eva Miles (@GxOxAxT_eva) / Posts / X,"Posts 0 🔁Reposted by Eva Miles kash 🍏 | IA currentlykyexing Jun 12 saw this on Instagram and it's so relatable lmao #doublehelix 💬15 🔄475 🤍4150 📊83970 📎 0 🔁Reposted by Eva Miles Lyra ♡ Lyraworldxm Feb 14 ""What do you do all day?”me: 💬208 🔄10525 🤍35108 📊653501 📎 0 🔁Reposted by Eva Miles",,,5,weak,Social Index (+5),social
+4660280,social_post,unknown_date,https://x.com/EvaMile92564281,Eva Miles (@EvaMile92564281) / X,"X Eva Miles Eva Miles 1 posts Eva Miles @EvaMile92564281 Joined February 2023 2 Following 0 Followers Mention Follow PostsPosts RepliesRepliesMediaMedia Eva Miles @EvaMile92564281 Feb 21, 2023 Looking for a The 1975 ticket xx tixel.com/u/evam39 1 54",,,5,weak,Social Index (+5),social
