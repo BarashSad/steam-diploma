@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5276140,Satisfactory - Core Values Expansion,"""Satisfactory - Core Values Expansion"" Steam",general,1,tavily,True,,5
+5276140,Satisfactory - Core Values Expansion,"""Satisfactory - Core Values Expansion"" trailer",general,1,tavily,True,,5
+5276140,Satisfactory - Core Values Expansion,"""Satisfactory - Core Values Expansion"" gameplay",general,1,tavily,True,,5
+5276140,Satisfactory - Core Values Expansion,"""Satisfactory - Core Values Expansion"" demo",general,1,tavily,True,,5
+5276140,Satisfactory - Core Values Expansion,"""Satisfactory - Core Values Expansion"" release date",general,1,tavily,True,,5
+5276140,Satisfactory - Core Values Expansion,"""Satisfactory - Core Values Expansion"" announcement",general,1,tavily,True,,5
+5276140,Satisfactory - Core Values Expansion,"""Satisfactory - Core Values Expansion"" preview",general,1,tavily,True,,5
+5276140,Satisfactory - Core Values Expansion,"""Satisfactory - Core Values Expansion"" review",general,1,tavily,True,,5
+5276140,Satisfactory - Core Values Expansion,"""Satisfactory - Core Values Expansion"" publisher",general,1,tavily,True,,5
+5276140,Satisfactory - Core Values Expansion,"""Satisfactory - Core Values Expansion"" developer",general,1,tavily,True,,5
+5276140,Satisfactory - Core Values Expansion,"site:pcgamer.com ""Satisfactory - Core Values Expansion""",press,2,tavily,False,General budget exhausted,0
+5276140,Satisfactory - Core Values Expansion,"site:rockpapershotgun.com ""Satisfactory - Core Values Expansion""",press,2,tavily,False,General budget exhausted,0
+5276140,Satisfactory - Core Values Expansion,"site:ign.com ""Satisfactory - Core Values Expansion""",press,2,tavily,False,General budget exhausted,0
+5276140,Satisfactory - Core Values Expansion,"site:gamespot.com ""Satisfactory - Core Values Expansion""",press,2,tavily,False,General budget exhausted,0
+5276140,Satisfactory - Core Values Expansion,"site:game8.co ""Satisfactory - Core Values Expansion""",press,2,tavily,False,General budget exhausted,0
+5276140,Satisfactory - Core Values Expansion,"site:reddit.com ""Satisfactory - Core Values Expansion""",social,3,tavily,True,,5
+5276140,Satisfactory - Core Values Expansion,"site:tiktok.com ""Satisfactory - Core Values Expansion""",social,4,tavily,True,,5
+5276140,Satisfactory - Core Values Expansion,"site:instagram.com ""Satisfactory - Core Values Expansion""",social,4,tavily,True,,5
+5276140,Satisfactory - Core Values Expansion,"site:x.com ""Satisfactory - Core Values Expansion""",social,4,tavily,True,,5
+5276140,Satisfactory - Core Values Expansion,"site: ""Satisfactory - Core Values Expansion""",social,4,tavily,True,,5

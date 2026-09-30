@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-09-30T05:08:06.304703+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260930_045848/rank_changes.csv",
-    "selected_appid": "4660280",
-    "selected_game_title": "DUAL PROTOCOL: The Case of Eva & Miles",
+    "started_at": "2026-09-30T18:01:48.271284+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20260930_175125/rank_changes.csv",
+    "selected_appid": "5276140",
+    "selected_game_title": "Satisfactory - Core Values Expansion",
     "top_n": 1,
     "old_snapshot_date": "2026-09-27",
     "new_snapshot_date": "2026-09-30",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-30T05:08:06.304720+00:00",
+    "finished_at": "2026-09-30T18:01:48.271296+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
