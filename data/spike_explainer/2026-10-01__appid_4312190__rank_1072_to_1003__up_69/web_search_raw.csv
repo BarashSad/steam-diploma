@@ -1,0 +1,1015 @@
+appid,query,query_group,query_priority,provider,tavily_search_depth,budget_query_number,url,title,snippet,date_classification,evidence_type
+4312190,"""CRACK"" Steam",general,1,tavily,basic,1,https://store.steampowered.com/app/4312190/CRACK,CRACK on Steam,CRACK is a 1-4 player co-op incremental adventure about uncovering what's inside a mysterious giant egg. This game is not yet available on Steam Planned,unknown_date,web_result
+4312190,"""CRACK"" Steam",general,1,tavily,basic,1,https://github.com/BigBoiCJ/SteamAutoCracker,GitHub - BigBoiCJ/SteamAutoCracker: An open-source script that automatically Cracks (removes DRM from) Steam games · GitHub,"You could get a virus detection on some files. The biggest offender is `sac_emu/game_ali213/files/steam_api.dll`.  
+A lot of cracking tools are detected as malware, either because their behavior is suspect (bypass game protections), or because they have been flagged manually (happens with a lot of tools).  
+If you're suspicious about the legitimacy of the files, just delete the DLLs and use your owns instead.  
+You can discuss with others about the tool in cs.rin.ru or in the GitHub issues. [...] ## Requirements
+
+`steampowered.com`
+`requests`
+`py -m pip install requests`
+`python -m pip install requests`
+`python3 -m pip install requests`
+`pywin32`
+`py -m pip install pywin32`
+`python -m pip install pywin32`
+`python3 -m pip install pywin32`
+`tkinter`
+`tkinterdnd2`
+`py -m pip install tkinterdnd2`
+
+## Notes about DLCs
+
+Some DLCs in some games requires you to download additional files.  
+This tool is not able to download those files, you'll have to get a clean version of them. [...] ## Privacy
+
+SAC will do requests to `steampowered.com` (Steam's official website) to retrieve AppIDs and DLCs.  
+It is not bannable, and won't cause you problems.
+
+`steampowered.com`",unknown_date,web_result
+4312190,"""CRACK"" Steam",general,1,tavily,basic,1,https://www.greenmangaming.com/games/cracked-pc,Cracked | PC - Steam | Game Keys,"Looking for the best prices, vouchers and exclusive giveaways?  
+Sign in/register to see xp offers
+
+## YOU MAY ALSO LIKE
+
+## THIS BUNDLE INCLUDES
+
+-{{associatedProduct.Discount}}%
+
+PHP   PHP
+
+{{currencyCode}}
+
+This product is currently a pre-purchase. Find out more
+
+This game is currently in Early Access. Find out more
+
+### GAME DESCRIPTION
+
+Cracked is a difficult 2D Platformer. Dominate the leaderboards by completing the maps as fast as possible. Explore the abandoned Factory. [...] You can search things like:
+
+Games
+
+Franchises
+
+DLC
+
+Back to top
+
+#### Cracked
+
+₱35.95
+
+₱35.95
+
+{{product.drmPlatformDropdownName}} |
+
+# Cracked
+
+ 10
+ RATE THIS GAME
+ RATE THIS GAME
+ RELEASED: OCT 12 2022
+
+# Cracked
+
+ 10
+ RATE THIS GAME
+ RATE THIS GAME
+ RELEASED: OCT 12 2022
+
+EXTRA 0% OFF VOUCHER
+
+{{ product.voucherCode | uppercase }}
+
+XP Offers
+
+Applied
+
+{{ product.drmPlatformDropdownName }} |
+
+ 
+
+DRM
+
+ {{d.drmPlatformDropdownName}} |
+
+EDITION
+
+ Standard Edition
+
+VR Support [...] Supported Languages
+
+English
+
+VR Support
+
+{{vrNames}}
+
+CUSTOMER NOTES
+
+READ MORE
+
+EXTRA 0% OFF VOUCHER
+
+{{ product.voucherCode | uppercase }}
+
+XP Offers
+
+Applied
+
+{{ product.drmPlatformDropdownName }} |
+
+ 
+
+DRM
+
+ {{d.drmPlatformDropdownName}} |
+
+EDITION
+
+ Standard Edition
+
+VR Support
+
+You can earn up to XP
+
+PHP
+
+₱35.95  PHP
+
+Please read Customer Notes before purchasing View View
+
+Activates in your region
+
+View Regions Hide Regions",unknown_date,web_result
+4312190,"""CRACK"" Steam",general,1,tavily,basic,1,https://www.reddit.com/r/CrackSupport/comments/1vhco76/what_is_the_safest_steam_crack,What is the safest steam crack? : r/CrackSupport,"What Steamless do is to unpack, modify and repack the files of the game in question, to remove the SteamStub DRM . This is effectively cracking",unknown_date,reddit_discussion
+4312190,"""CRACK"" Steam",general,1,tavily,basic,1,https://steamautocracks.github.io,SteamAutoCrack | Website for SteamAutoCrack,"Skip to the content.
+
+# SteamAutoCrack
+
+## Crack Almost Any Steam Games With Only One Click
+
+Download Quick Start Source Code Docs
+
+## Screenshot
+
+program",unknown_date,web_result
+4312190,"""CRACK"" trailer",general,1,tavily,basic,2,https://www.youtube.com/watch?v=MF35RSJOnXo,Crack - Official Announcement Trailer,"Take a look at the Announcement Trailer for Crack, a co-op incremental adventure game developed by Rafoli. Players will join forces to take",unknown_date,web_result
+4312190,"""CRACK"" trailer",general,1,tavily,basic,2,https://www.ign.com/videos/crack-official-announcement-trailer,Crack - Official Announcement Trailer,"Take a look at the Announcement Trailer for Crack, a co-op incremental adventure game developed by Rafoli. Players will join forces to take",unknown_date,web_result
+4312190,"""CRACK"" trailer",general,1,tavily,basic,2,https://www.imdb.com/video/vi3724527129,Crack - Crack Trailer,Crack (2023). Action. Crack Trailer. Get the IMDb app · Sign in for more accessSign in for more access. Follow IMDb on social.,unknown_date,web_result
+4312190,"""CRACK"" trailer",general,1,tavily,basic,2,https://www.youtube.com/watch?v=ea8J_pHNg7w,CRACKS - Official Trailer - Starring Eva Green,"In an austere and remote all-girls boarding school, the most elite clique of girls are the illustrious members of the schools' diving team.",unknown_date,web_result
+4312190,"""CRACK"" trailer",general,1,tavily,basic,2,https://www.youtube.com/watch?v=a77xYIfQu-k,Crack Trailer,A young drug dealer must decide to either embrace a life of crime or get out of it before it's too late. Director: Gregory Hatanaka Writer:,unknown_date,web_result
+4312190,"""CRACK"" gameplay",general,1,tavily,basic,3,https://store.steampowered.com/app/4312190/CRACK,CRACK on Steam,Your job is simple: crack it open. Don't ask questions. CRACK is a 1-4 player co-op incremental adventure about uncovering what's inside a mysterious giant egg.,unknown_date,web_result
+4312190,"""CRACK"" gameplay",general,1,tavily,basic,3,https://www.youtube.com/watch?v=MF35RSJOnXo,Crack - Official Announcement Trailer,"Take a look at the Announcement Trailer for Crack, a co-op incremental adventure game developed by Rafoli. Players will join forces to take",unknown_date,web_result
+4312190,"""CRACK"" gameplay",general,1,tavily,basic,3,https://www.scienceabc.com/innovation/how-are-computer-games-cracked,How Are Computer Games 'Cracked'? » ScienceABC,"When people say a game has been “cracked,” they mean that someone has modified it so it runs without the copy protection the publisher built in. A retail game normally checks whether you own a legitimate copy, by asking for a serial key, phoning home to a server, or verifying a license file before it will start. A crack is a small program or modified game file that disables, bypasses, or fools that check, so the game launches as though it had been paid for. The end result is a “cracked game”: a [...] A crack is not the same thing as a keygen (a tool that manufactures a valid-looking serial key) or a simple patch (an official update from the developer). All three change how the software behaves, but a crack’s specific job is to remove the lock. Cracked games and the tools that make them are usually shared as part of “warez,” an informal slang term for pirated software.
+
+A crack intro (cracktro) screen displayed by a warez group after cracking a game [...] > Computer games are “cracked” by finding ways to bypass the security checks made by the company. This can be done by hex-reading, hex-editing, debugging, or using a keygen.
+
+In 2012, Ubisoft’s CEO, Yves Guillemot, claimed that PC gaming had a piracy rate of 93% to 95%. This widespread piracy results in significant losses for gaming companies.",unknown_date,web_result
+4312190,"""CRACK"" gameplay",general,1,tavily,basic,3,https://www.greenmangaming.com/games/cracked-pc,Cracked | PC - Steam | Game Keys,"Looking for the best prices, vouchers and exclusive giveaways?  
+Sign in/register to see xp offers
+
+## YOU MAY ALSO LIKE
+
+## THIS BUNDLE INCLUDES
+
+-{{associatedProduct.Discount}}%
+
+PHP   PHP
+
+{{currencyCode}}
+
+This product is currently a pre-purchase. Find out more
+
+This game is currently in Early Access. Find out more
+
+### GAME DESCRIPTION
+
+Cracked is a difficult 2D Platformer. Dominate the leaderboards by completing the maps as fast as possible. Explore the abandoned Factory. [...] EXPLORE VARIOUS LOCATIONS
+
+ From all the locations, you can choose which one to explore first.
+
+CUSTOMIZE YOUR CHARACTER
+
+ It's up to you how you want to customize your character.
+
+DOMINATE THE LEADERBOARDS
+
+ Finish the maps as fast as you can and put your name on the leaderboard.
+ You can either compete against your own personal best, your friends or the world.
+
+DEFEAT THE BOSS [...] DEFEAT THE BOSS
+
+ Save your friends by defeating the boss in every campaign's last map, and unlock them as a playable character.
+ It's your choice who you think is worthy of being saved first.
+
+READ MORE
+
+### STAFF REVIEW - BY GREEN MAN GAMING
+
+READ MORE
+
+ ### PC
+
+ 
+
+  ### {{requirements.PlatformName}}
+
+  ### {{requirements.PlatformName}}
+
+Minimum Requirements:
+
+OS:
+
+Windows 10
+
+Processor:
+
+Intel Pentium E6800
+
+Memory:
+
+400 MB RAM
+
+Graphics:
+
+GTX 670
+
+Disk Space:
+
+1 GB available space",unknown_date,web_result
+4312190,"""CRACK"" gameplay",general,1,tavily,basic,3,https://www.reddit.com/r/explainlikeimfive/comments/16hkmpw/eli5_what_is_a_cracked_version_of_a_video_game,Eli5 What is a cracked version of a video game and why ...,"Cracked games are copies of games that have been manipulated in such a way to get around the digital rights management (drm). In other words, a",unknown_date,reddit_discussion
+4312190,"""CRACK"" demo",general,1,tavily,basic,4,https://www.youtube.com/watch?v=UVCt0cGQSnw,Crack (Demo),Provided to YouTube by Arista/Legacy Crack (Demo) · RUN DMC Tougher Than Leather (Expanded Edition) ℗ 2005 Arista Records LLC Released on:,unknown_date,web_result
+4312190,"""CRACK"" demo",general,1,tavily,basic,4,https://www.datagubbe.se/scenecop,Copyright and the Demo Scene | datagubbe.se,"Cracktro
+:   A small demo is usually called an intro. A cracktro, then, is an intro announcing that a specific scene group has cracked and released a game. The cracktro was usually the first thing you saw when booting up a game floppy, and you had to press a key or mouse button to load the game proper.
+
+Effect
+:   In demo scene lingo, an effect is a piece of code producing a specific visual of some kind, for example a zooming and rotating logo. [...] The cracking and demo scenes are forever intertwined. With the growth and resulting economic and legal muscle of the games industry, the risks associated with cracking have increased significantly since the 1980s. The divide between demo makers and software pirates have grown along with this, but some groups are still active on both fronts, such as Razor 1911 and Fairlight. [...] # { datagubbe }
+
+datagubbe.se » copyright and the demo scene
+
+## Copyright and the Demo Scene
+
+Spring 2025
+
+### Jargon Buster
+
+Before we begin, let's explain a few terms that will be used throughout this text.
+
+Crack
+:   Cracking a computer games means removing the software copy protection. Thus, a cracker is a person who cracks a game, and the resulting cracked game is often just called a crack.",unknown_date,web_result
+4312190,"""CRACK"" demo",general,1,tavily,basic,4,https://steamdb.info/app/2131950/info,Cracked Demo (App 2131950),Demo Developer Void Chamber Publisher Void Chamber Supported ) Release Date 29 August 2022 – 18:36:24. This demo is excluded from Steam Family. Full Audio,unknown_date,web_result
+4312190,"""CRACK"" demo",general,1,tavily,basic,4,https://en.wikipedia.org/wiki/Crack_intro,Crack intro - Wikipedia,"1. 1 2 Whitehead, Dan (12 November 2008). ""Linger in Shadows"". Eurogamer. Archived from the original on 24 September 2019. Retrieved 23 October 2010. Amateur coders busy cracking the copy-protection on the latest Commodore 64 and ZX Spectrum games got into the habit of marking their work with an animated intro - or ""cracktro"" - inserted before the game began.
+2. 1 2 Green, Dave (July 1995). ""Demo or Die!"". Wired. Retrieved 23 October 2010. [...] Crack-intro programming eventually became an art form in its own right, and people started coding intros without attaching them to a crack just to show off how well they could program. This practice evolved into the demoscene. [...] As time went on, crack intros became a medium to demonstrate the purported superiority of a cracking group. Such intros grew very complex, sometimes exceeding the size and complexity of the software itself. Crack intros only became more sophisticated on more advanced systems such as the Amiga, Atari ST, and some IBM PC compatibles with sound cards. These intros feature big, colourful effects, music, and scrollers.",unknown_date,web_result
+4312190,"""CRACK"" demo",general,1,tavily,basic,4,https://audiosex.pro/threads/i-have-a-demo-mode-problem-in-cracked-version-of-kontakt-7-8-1.75011,"I have a ""demo mode"" problem in cracked version of Kontakt 7.8.1 | AudioSEX - Professional Audio Forum","Loading...
+
+| Similar Threads - demo mode problem | Forum | Date |
+ --- 
+| Cracked spitfire stuck on demo mode | Kontakt | Nov 10, 2025 |
+| Pacha Library in Demo mode | Kontakt | Jul 16, 2025 |
+| Giuseppe Patch - WAVES Demo mode- MACBOOK PRO | Mac / Hackintosh | Apr 21, 2025 |
+| Certain libraries show in DEMO mode, Kontakt 8 Macbook pro | Kontakt | Mar 19, 2025 |
+| Libraries currently functioning flawlessly in kontakt 8.2.1 getting demo mode in Komplete Kontrol | Kontakt | Feb 27, 2025 | [...] # I have a ""demo mode"" problem in cracked version of Kontakt 7.8.1
+
+Discussion in 'Kontakt' started by PianoBoy, Apr 8, 2024.
+
+Tags:
+
+ demo mode
+ hans zimmer los angeles
+ help
+ kontakt 7
+ spitfire
+
+Show Ignored Content
+
+Loading... [...] Loading...
+
+# PROFESSIONAL AUDIO LOVERS
+
+Search",unknown_date,web_result
+4312190,"""CRACK"" release date",general,1,tavily,basic,5,https://store.steampowered.com/app/4312190/CRACK,CRACK on Steam,"Planned Release Date: Oct 26, 2026 · Playable without Quick Time Events · Keyboard Only Option · Mouse Only Option · Playable at Your Own Pace.",unknown_date,web_result
+4312190,"""CRACK"" release date",general,1,tavily,basic,5,https://www.reddit.com/r/CrackWatch,r/CrackWatch,"Although the game was released back in September 2024, a scene release was pending till date. Note from RUNE: The game executable has been",unknown_date,reddit_discussion
+4312190,"""CRACK"" release date",general,1,tavily,basic,5,https://en.wikipedia.org/wiki/List_of_warez_groups,List of warez groups - Wikipedia,"such as EACore and VMProtect. In December 2018, CPY published a cracked copy of Just Cause 4, which used the latest version of Denuvo DRM, on the day after its release. They also released a crack for Battlefield V on December 22, days after its official release. In January 2019, CPY released cracked copies of Ace Combat 7, Mutant Year Zero, and Strange Brigade, as well as the first episode of Life Is Strange 2 (titled ""Roads"") - all 4 titles using the latest versions of Denuvo DRM. [...] These cracks were previously released on the web attributed to the Russian cracker ""Empress ""Empress (cracker)"")"". Later, a cracker who self-identified as C0000005 began releasing cracks under the name Empress as well, suggesting that they are one and the same and that C0000005 had access to source code for CODEX's cracks. On June 27, 2019 CODEX released a crack for Star Wars Battlefront 2 ""Star Wars Battlefront II (2017 video game)""), about 527 days after its commercial release. On October 29, [...] On February 23, 2022, CODEX announced its retirement in its cracked release of The Sims 4: My Wedding Stories. The group cited the lack of competition in the cracking scene as a sign that CODEX had accomplished its founding goal in 2014, which was to compete with RELOADED ""Reloaded (warez)""), ""the dominating PC games group at the time.""
+
+### CONSPIR4CY
+
+[edit]",unknown_date,web_result
+4312190,"""CRACK"" release date",general,1,tavily,basic,5,https://crackrelease.com,CrackWatch | Crack Status of Games,"SEP21
+
+#### Delverium
+
+SEP22
+
+#### Graveyard Keeper 2
+
+SEP24
+
+#### EA SPORTS FC 27
+
+SEP25
+
+#### Online: 404
+
+### New Added Denuvo
+
+Final Fantasy Tactics – The Ivalice ChroniclesCRACKED D+352Stranger Than HeavenUNRELEASED D-119EA SPORTS FC 27UNRELEASED D-6Mega Man Star Force Legacy CollectionCRACKED D+166CODE VEIN 2CRACKED D+222
+
+### Denuvo Cracked [...] Phantom Blade Zero UNRELEASED D-41
+
+  FINAL FANTASY RESONANCE UNRELEASED D-34
+
+  EA SPORTS FC 27 UNRELEASED D-6
+
+  ACE COMBAT 8: WINGS OF THEVE UNRELEASED D-13
+
+News
+
+LATEST NEWS
+
+ Urgent: voices38 Sued By Denuvo In Major DMCA CaseDenuvo has taken voices38 to court. According to a newly surfaced complaint filed in the U.S. District Court for the Northern District of California, Denuvo GmbH is suing the anonymous…
+
+Upcoming Games
+
+FULL LIST OF UPCOMING GAMES
+
+SEP21
+
+#### Happy Wheels
+
+SEP21 [...] Try our new beta website for a better experience!
+
+CRACKWATCH 2.0
+
+CrackWatch
+
+ NewsNewsNews
+ All GamesAll GamesAll Games
+ Upcoming GamesUpcoming GamesUpcoming Games
+ HypervisorHypervisorHypervisor
+
+ DenuvoDenuvoDenuvoNew
+ ProtectionsProtectionsProtections
+ GroupsGroupsGroups
+  + voices38
+  + RUNE
+  + TENOKE
+  + EMPRESS
+  + Hypervisor
+
+CrackWatchCrackWatch
+
+Follow US
+
+- Advertisement -
+
+Hot Games
+
+Live updates
+
+  Gears of War: E-Day UNRELEASED D-18 
+
+Instant Gaming   Eneba   Kinguin",unknown_date,web_result
+4312190,"""CRACK"" release date",general,1,tavily,basic,5,https://za.ign.com/pc/242102/cracked-official-announcement-trailer,Cracked - Official Announcement Trailer,"IGN Logo
+
+### More
+
+IGN Logo
+
+# Cracked - Official Announcement Trailer
+
+### Related
+
+Slam Tank - Official Reveal Teaser Trailer
+
+### Slam Tank - Official Reveal Teaser Trailer
+
+Undying Soul - Official Demo Launch Trailer
+
+### Undying Soul - Official Demo Launch Trailer
+
+Utopium - Official Gameplay Demo Launch Trailer
+
+### Utopium - Official Gameplay Demo Launch Trailer
+
+Out of Bounds 2026 Showcase - Official Teaser Trailer
+
+### Out of Bounds 2026 Showcase - Official Teaser Trailer [...] Tokyo Walled City - Official Gameplay Trailer
+
+### Tokyo Walled City - Official Gameplay Trailer
+
+Piroker - Official Cinematic Announcement Trailer
+
+### Piroker - Official Cinematic Announcement Trailer
+
+Mizuki and the Crimson Moon - Official Demo Update Announcement Trailer
+
+### Mizuki and the Crimson Moon - Official Demo Update Announcement Trailer
+
+Ultimate Pet Shop Simulator - Official Demo Launch Trailer
+
+### Ultimate Pet Shop Simulator - Official Demo Launch Trailer [...] Moylo - Official Classic Cartoony Game Teaser Trailer
+
+### Moylo - Official Classic Cartoony Game Teaser Trailer
+
+##### Comments",unknown_date,web_result
+4312190,"""CRACK"" announcement",general,1,tavily,basic,6,https://comicbuzz.com/crack-announcement-trailer,Crack - Announcement Trailer,"CRACK is set to release on October 26th on Steam. Wishlist now on Steam, and follow the development on TikTok, Instagram, or YouTube. Shabbir.",unknown_date,web_result
+4312190,"""CRACK"" announcement",general,1,tavily,basic,6,https://in.ign.com/video/272833/cracked-official-announcement-trailer,Cracked - Official Announcement Trailer,"IGN Logo
+
+Cracked - Official Announcement Trailer
+
+IGN Misc•Sept. 26, 2026
+
+# Cracked - Official Announcement Trailer
+
+Take a look at the Announcement Trailer for Cracked, a co-op incremental adventure game developed by Rafoli. Players will join forces to take on an elusive lab experiment of great interest and crack open a giant egg by any means necessary. Seek the mysteries of Cracked, launching on October 26 for PC (Steam).
+
+### Related
+
+ PlantUp - Official Release Date Trailer
+
+01:04 [...] 01:04
+
+### PlantUp - Official Release Date Trailer
+
+Geometry Rift: Apocalypse - Official Demo Launch Trailer
+
+01:36
+
+### Geometry Rift: Apocalypse - Official Demo Launch Trailer
+
+Constriction - Official Wishlist Trailer
+
+01:43
+
+### Constriction - Official Wishlist Trailer
+
+Corridor 13 - Official Gameplay Trailer
+
+00:49
+
+### Corridor 13 - Official Gameplay Trailer
+
+Arcade Warlord - Official Gameplay Trailer
+
+01:33
+
+### Arcade Warlord - Official Gameplay Trailer [...] Screen Saver - Official Announcement Trailer
+
+01:38
+
+### Screen Saver - Official Announcement Trailer
+
+Topdeck Automat - Official Release Date Trailer
+
+00:41
+
+### Topdeck Automat - Official Release Date Trailer
+
+Shuffle and Seek - Official Launch Trailer
+
+01:04
+
+### Shuffle and Seek - Official Launch Trailer
+
+### Afterglow Bytes: Reverie by the Shore - Official Teaser Trailer | Game Devs of Color Expo 2026
+
+##### Comments",unknown_date,web_result
+4312190,"""CRACK"" announcement",general,1,tavily,basic,6,https://www.instagram.com/p/Ddud9TnGmsr,Crack – Official Announcement Trailer Crack,"Crack, a co-op incremental adventure game … 🗓 October 26TH",unknown_date,web_result
+4312190,"""CRACK"" announcement",general,1,tavily,basic,6,https://za.ign.com/pc/242102/cracked-official-announcement-trailer,Cracked - Official Announcement Trailer,"IGN Logo
+
+### More
+
+IGN Logo
+
+# Cracked - Official Announcement Trailer
+
+### Related
+
+Slam Tank - Official Reveal Teaser Trailer
+
+### Slam Tank - Official Reveal Teaser Trailer
+
+Undying Soul - Official Demo Launch Trailer
+
+### Undying Soul - Official Demo Launch Trailer
+
+Utopium - Official Gameplay Demo Launch Trailer
+
+### Utopium - Official Gameplay Demo Launch Trailer
+
+Out of Bounds 2026 Showcase - Official Teaser Trailer
+
+### Out of Bounds 2026 Showcase - Official Teaser Trailer [...] Tokyo Walled City - Official Gameplay Trailer
+
+### Tokyo Walled City - Official Gameplay Trailer
+
+Piroker - Official Cinematic Announcement Trailer
+
+### Piroker - Official Cinematic Announcement Trailer
+
+Mizuki and the Crimson Moon - Official Demo Update Announcement Trailer
+
+### Mizuki and the Crimson Moon - Official Demo Update Announcement Trailer
+
+Ultimate Pet Shop Simulator - Official Demo Launch Trailer
+
+### Ultimate Pet Shop Simulator - Official Demo Launch Trailer [...] Moylo - Official Classic Cartoony Game Teaser Trailer
+
+### Moylo - Official Classic Cartoony Game Teaser Trailer
+
+##### Comments",unknown_date,web_result
+4312190,"""CRACK"" announcement",general,1,tavily,basic,6,https://www.britannica.com/event/crack-epidemic,"Crack epidemic | US History, Causes & Effects | Britannica","The initiation of crack cocaine into socially eroded communities took place during President Ronald Reagan’s term in office, when there was a structural shift that caused huge manufacturing industries to move outside the cities. Their relocation created workforce competitions that further widened the gap between social and economic segments in the inner cities of America. [...] Crack cocaine is highly addictive and is produced by the conversion of cocaine, a fine white crystallized powder substance, into a smokable form that could be sold in smaller portions but distributed to more people. The name crack is attributed to the crackling noise that is made when the substance is smoked. Crack began to be produced in the early 1980s. The method is to dissolve cocaine hydrochloride into water with sodium bicarbonate (baking soda), which precipitates solid masses of cocaine [...] Crack's emergence in inner cities coincided with a structural shift during President Reagan's term, as manufacturing industries moved outside cities, increasing competition and widening the gap between social and economic segments. The rewards of selling crack outweighed the risks, with dealers earning a median net income of $2,000 per month. Intense competition between dealers led to increased violence as they fought to profit from the same customers.",unknown_date,web_result
+4312190,"""CRACK"" preview",general,1,tavily,basic,7,https://www.youtube.com/watch?v=UvXfMIaqDjs,CRACK! (Preview),Provided to YouTube by Universal Music Group CRACK! (Preview) · Released on: 2025-07-11. Vocalist: Au/Ra Composer Lyricist: Jamie Stenzel,unknown_date,web_result
+4312190,"""CRACK"" preview",general,1,tavily,basic,7,https://www.youtube.com/watch?v=MF35RSJOnXo,Crack - Official Announcement Trailer,"# Crack - Official Announcement Trailer
+## Channel: GameTrailers (verified)
+1.33M subscribers
+77 likes
+
+### Description
+9,505 views
+Posted: 2026-09-25
+Take a look at the Announcement Trailer for Crack, a co-op incremental adventure game developed by Rafoli. Players will join forces to take on an elusive lab experiment of great interest and crack open a giant egg by any means necessary. Seek the mysteries of Crack, launching on October 26 for PC (Steam). [...] ### Transcript
+[0:06] Let's get cracking. Wake up.
+[0:23] [music]
+[0:31] Wake up.
+[0:38] [music]
+[0:43] Wake up. Yo, what? Did you also hear that?",unknown_date,web_result
+4312190,"""CRACK"" preview",general,1,tavily,basic,7,https://www.ign.com/videos/crack-official-announcement-trailer,Crack - Official Announcement Trailer - IGN,"IGN Logo
+IGN Logo
+IGN Logo
+IGN Logo
+AdChoices
+
+# Crack - Official Announcement Trailer
+
+Take a look at the Announcement Trailer for Crack, a co-op incremental adventure game developed by Rafoli. Players will join forces to take on an elusive lab experiment of great interest and crack open a giant egg by any means necessary. Seek the mysteries of Crack, launching on October 26 for PC (Steam).
+
+### Did you enjoy this video?
+
+### In This Video
+
+CRACK
+PC",unknown_date,web_result
+4312190,"""CRACK"" preview",general,1,tavily,basic,7,https://www.youtube.com/watch?v=1ZR-Mp49yus,THE CRACK - Movie Trailer,"# THE CRACK - Movie Trailer
+## Channel: The Chapel of Faith, UniJos
+1.31K subscribers
+24 likes
+
+### Description
+251 views
+Posted: 2026-06-09
+This Sunday, the Chapel of Faith Theatre brings you an experience of great proportions as we premiere our movie, The Crack.
+
+📍 Showing live at The Chapel of Faith Sanctuary
+📅 14th June, 2026
+⏰ 7:15 AM
+
+The movie will also be available on all streaming platforms during the premiere. [...] ### Transcript
+[0:09] I feel the Lord is trying to draw attention to our home.
+[0:16] We are busy taking care of other matters outside while neglecting the well-being of our home.
+[0:25] Tell Jonathan that if he doesn't send my money by 2:00 p.m. today,
+[0:34] I promise you that the whole world will see him in action.
+[0:47] And if a house be divided against itself, [...] Don't miss this opportunity to be immersed in God's Word through a powerful and spirit-provoking story.
+
+We look forward to seeing you there!
+
+#Drama #Film #TheCrack #AmbassadorsForChrist #TheChapelofFaith",unknown_date,web_result
+4312190,"""CRACK"" preview",general,1,tavily,basic,7,https://www.youtube.com/playlist?list=PLys7x3CzahqHnxJeEeAnSg9jQvfRxfqy-,First Crack,"First Crack 6:45 Accountability 😅 Kingy, Joey & Dicko react to their pre-finals premiership picks 👀 … | First Crack Preview Full Show",unknown_date,web_result
+4312190,"""CRACK"" review",general,1,tavily,basic,8,https://themetropole.blog/2020/10/05/entrepreneurial-greed-a-review-of-crack-rock-cocaine-street-capitalism-and-the-decade-of-greed,"“Entrepreneurial Greed” — A Review of Crack: Rock Cocaine, Street Capitalism, and the Decade of Greed – The Metropole","In succinctly presenting a thorough look at the political, economic, and cultural contexts for the crack enterprise, Farber concludes that the players who decided to sell crack were rational actors in a culture of “entrepreneurial greed.” In the end, we may begin to wonder how the dealer in the hood might be distinguished from the dealer in Big Pharma’s executive suite. [...] and above-ground economies of the eighties and early nineties. [...] Primary Menu
+
+The Metropole
+
+ contextualizes the crack culture within the Reagan era’s deregulation of business, massive wealth accumulation, conspicuous consumption, and aggressive military policies. He continues with a discussion of policies under Bush and Clinton, with special attention to Joe Biden, who argued for the tougher crime policies that resulted in the increased incarceration of minorities.",unknown_date,web_result
+4312190,"""CRACK"" review",general,1,tavily,basic,8,https://www.getalternative.com/album-review-crack-cloud-red-mile,Album Review: Crack Cloud – 'Red Mile',"Red Mile whittles these urgent musings down to eight songs. They embrace spontaneity without concession, less of a roadmap and more of an astute",unknown_date,web_result
+4312190,"""CRACK"" review",general,1,tavily,basic,8,https://pubmed.ncbi.nlm.nih.gov/2038981,Crack cocaine use: a review of prevalence and adverse ...,"by RG Smart · 1991 · Cited by 145 — The adverse reactions to crack are similar to those of cocaine and include effects on offspring, neurological and psychiatric problems, as well as pulmonary and",unknown_date,web_result
+4312190,"""CRACK"" review",general,1,tavily,basic,8,https://crackmagazine.net/album-reviews,Album Reviews | Crack Magazine,"+ Techno
++ House
++ Tech House
++ Electro
++ Pop
++ Acid
++ Sunday
++ Jazz
++ Other
++ Italo
++ Minimal
++ Bass
++ Soundtrack
++ Experimental
++ Disco
++ Hardcore
++ R&B
++ Ambient
++ Punk
++ Hip-Hop
++ Rap
++ Rock
++ Emo
++ Garage
++ Reggaeton
++ Afrobeat
++ Footwork
++ Synth
++ Post-Punk
++ Dub
++ Dub Techno
++ Dubstep
++ Dembow
++ Dancehall
++ Industrial
++ Trance
++ Noise
++ Balearic
++ Batida
++ Grime
++ Gqom
++ Vaporwave
++ Soul
++ Funk
++ UK Funky
++ Deconstructed Club
++ IDM
++ EBM
++ Jungle
++ Warm Up
++ New Wave
++ Indie
++ Folk [...] + Indie
++ Folk
++ Classical
++ Breakbeats
++ Chopped 'n' screwed
++ Drum 'n' bass
++ Club
++ Balani
++ Drill
++ Blues
++ Wisisi
++ Drone
++ Cumbia
++ Podcast
++ Roots
++ Afro House
++ Reggae
++ Samba
++ Bossa Nova
++ Kuduro
++ Funaná
++ Trap
++ Ori Deck
++ Ori
++ Freebeat
++ Cruise
++ Raptor House
++ Bounce
++ Ballroom
++ Amapiano
++ Soca
++ Merengue
++ Leftfield
++ Highlife
++ Hiplife
++ Guaracha
++ Shaabi
++ Horror
++ Desi
++ Detroit House
++ Gqom Tech
++ Ambient Pop
++ Boom Bap [...] Shows
+
++ Residents
++ Crack Mix
++ Specialist Mix
++ Sunday Mix
++ Live
++ Podcast
+
+# Read
+
+ Long Reads
+ Album Reviews
+ Live Reviews
+ Lists
+
+  8 /10
+
+[]( 
+
+## Mount Kimbie The Sunset Violent  08 /10
+
+[]( 
+
+## Erika de Casier Still  8 /10
+
+[]( 
+
+## The Smile Wall of Eyes  07 /10
+
+[]( 
+
+## Shabazz Palaces Robed in Rareness  07 /10
+
+[]( 
+
+## Mitski The Land Is Inhospitable and So Are We  08 /10
+
+[]( 
+
+## Kylie Tension  08 /10
+
+[]( 
+
+## Beverly Glenn-Copeland The Ones Ahead  08 /10
+
+LOAD MORE",unknown_date,web_result
+4312190,"""CRACK"" review",general,1,tavily,basic,8,https://www.rottentomatoes.com/m/crack_cocaine_corruption_and_conspiracy,"Crack: Cocaine, Corruption & Conspiracy","Complete and utter garbage, laughable attempt at rewriting history. Typical left wing trash which tries to make an excuse for the failures of African Americans",unknown_date,web_result
+4312190,"""CRACK"" publisher",general,1,tavily,basic,9,https://www.wps.com/blog/how-to-download-microsoft-publisher-for-free-the-ultimate-guide,How to Download Microsoft Publisher for Free - The Ultimate Guide,"## Free Office
+
+Genuine software, legally FREE - no cracking required!
+
+tick
+
+Edit Word, Excel, PPT and PDF for free.
+
+tick
+
+Share and co-edit documents anytime, anywhere.
+
+tick
+
+Microsoft-like interface, easy to use.
+
+detail_banner_pc
+
+list
+
+### Table of Content
+
+What Is Microsoft Publisher?
+
+How to Download and Install Microsoft Publisher for Free
+
+Can I Use Microsoft Publisher for Free?
+
+Pricing Plan
+
+Pros and Cons:
+
+How to Edit Microsoft Publisher Files for Free with WPS Office
+
+FAQs [...] Step 2: Click the Try Free button.
+
+Select Try for Free
+
+Step 3: If you have a Microsoft account, sign in.
+
+Sign in Microsoft account
+
+Step 4: Enter your desired payment information and click Start your free trial.
+
+Step 5: Once your free trial has started, you can download and install Microsoft Publisher.
+
+Tips: [...] Use Word, Excel, and PPT for FREE
+
+## What Is Microsoft Publisher?
+
+Microsoft Publisher logo
+
+Microsoft Publisher is a desktop publishing (DTP) application from Microsoft. Unlike Microsoft Word, which is primarily a word processing application, Publisher focuses on page layout and graphic design. It is included in higher-end editions of Microsoft Office, such as Microsoft 365 Personal and Family, Microsoft 365 Business Standard and Premium, and Microsoft Office Professional.",unknown_date,web_result
+4312190,"""CRACK"" publisher",general,1,tavily,basic,9,https://microsoft-publisher.en.softonic.com/download,Download Microsoft Publisher - Trial version - latest version,"Publisher 2013 is the best Publisher version yet. It imports all the great features of past Publisher versions and also comes up with some new features that add more functionality to the tool and make it more refined. You can now insert images from external sources such as Flickr and Facebook, insert multiple pictures simultaneously into the scratch area, swap pictures and use picture backgrounds, add special effects atop pictures and text, etc.
+ ### 8. What are the template options like? [...] Download History
+ My Reviews
+ Settings
+ Log out
+
+Icon of program: Microsoft Publisher
+
+# Download Microsoft Publisher for PC
+
+ Trial version
+
+ V16.0.15128.20280
+
+Not for your OS. Looking for windows version?
+
+Download Microsoft Publisher
+
+Download for PC
+
+View an ad to download for free
+
+What will happen when you click Download?
+
+ You will be redirected to an external website to complete the download.
+ If you encounter any issues with your download, please report them here. [...] Microsoft Publisher 다운로드
+ ดาวน์โหลด Microsoft Publisher
+ Baixada do Microsoft Publisher
+ Pobierz Microsoft Publisher
+ ダウンロード Microsoft Publisher
+ Download Microsoft Publisher
+ Scarica Microsoft Publisher
+ Microsoft Publisher indir
+ Télécharger Microsoft Publisher
+ Tải xuống Microsoft Publisher
+ Microsoft Publisher herunterladen
+ Скачать Microsoft Publisher
+ 下载Microsoft Publisher
+ تنزيل Microsoft Publisher
+ Unduh Microsoft Publisher
+ Descargar Microsoft Publisher
+
+## App specs
+
+ ### Developer",unknown_date,web_result
+4312190,"""CRACK"" publisher",general,1,tavily,basic,9,https://www.microsoft.com/en-us/microsoft-365/publisher,Desktop Publishing Software | Download MS Publisher,"Precisely layout and style text, pictures, borders, calendars, and more. In Publisher everything you add stays exactly the way you’ve designed it, in print, online, or in an email.
+
+## Easily design unique, specialized materials for any purpose
+
+Create everything from simple greeting cards and labels to professional newsletters and marketing materials using Publisher’s wide range of pre-designed templates. [...] Publisher app window showing a wide range of templates
+A laptop showing the Share screen in Microsoft Publisher 2016.
+
+## Publish in the way that suits your audience best
+
+Share pixel-perfect printouts, send professional-quality email publications, or export to industry-standard non-editable formats.\
+
+Microsoft Publisher is available for PC only. Learn more. [...] The most up-to-date version of Microsoft Publisher is always available with a Microsoft 365 subscription. Publisher 2021 is the latest classic version of Publisher. It is a one-time purchase that does receive updates. Previous versions include Publisher 2019, Publisher 2016, Publisher 2013, Publisher 2010, Publisher 2007, and Publisher 2003.
+
+\Some sharing features require OneDrive, OneDrive for Business, or SharePoint.
+
+This page is designed for users in the United States.",unknown_date,web_result
+4312190,"""CRACK"" publisher",general,1,tavily,basic,9,https://opensource.com/alternatives/microsoft-publisher,3 open source alternatives to Microsoft Publisher | Opensource.com,"Scribus is the gold standard when it comes to open source desktop publishing. With over a decade of active development, you'll find pretty much all the features a basic user would expect inside. It can import a wide variety of formats (including Microsoft Publisher files), and a user-friendly interface makes for a non-threatening learning curve. The large user community also means that there are many great resources out there for those who need additional help, from books to forums to [...] books to forums to downloadable templates, to fit almost any need. [...] than the payoff would justify.",unknown_date,web_result
+4312190,"""CRACK"" publisher",general,1,tavily,basic,9,https://www.youtube.com/watch?v=OwdDdGg9Syo,How To Download & Install Microsoft Publisher (Latest Version),"[1:36] Now select downloads from here. Click on make a new folder and renip that folder to publisher and click on okay.
+[1:49] Now cut the configuration file which you downloaded and paste it inside the publisher folder.
+[1:58] Now cut the publisher folder. Go to this PC C drive and paste it here.
+[2:10] Now search for cmd.
+[2:12] Right click over command prompt and run it as administrator.
+[2:19] Now type in this command and hit enter. [...] [0:27] Then scroll down and under apps you will see most of the apps turned on. Simply turn them off and select only publisher
+[0:35] to be turned on and click on next. Now select your preferred language.
+[0:42] Scroll down under upgrade options. Simply turn it off.
+[0:52] Now go to the last step and click on finish. And finally click on export.
+[0:58] Select this option and click on okay. [...] #techdecode85 #mspublisher #microsoftpublisher",unknown_date,web_result
+4312190,"""CRACK"" developer",general,1,tavily,basic,10,https://crackdevelopers.com,Crack Developers,Crack Developers is a digital innovation agency for founders and scaling teams that helps you build custom software and scale what's next. Custom Software,unknown_date,web_result
+4312190,"""CRACK"" developer",general,1,tavily,basic,10,https://in.linkedin.com/company/crack-developers,Crack Developers,"Description: At Crack Developers, we are more than just an IT service provider-we are your strategic partner in digital transformation. Our mission is to collaborate closely with businesses, understanding their unique challenges, goals, and aspirations to deliver tailored solutions that drive success. With a strong focus on innovation and cutting-edge technologies, our team is dedicated to developing solutions that not only address immediate needs but also anticipate future opportunities and [...] - 2025-06-01: At Crack Developers, we specialize in creating websites that are not just visually stunning, but also fast, responsive, and user-friendly — perfectly aligned with your brand and business goals. 💻 Whether you need a personal portfolio, a dynamic business website, or a full-fledged web application, we turn ideas into pow... [...] - 2025-06-01: At Crack Developers, we specialize in creating websites that are not just visually stunning, but also fast, responsive, and user-friendly — perfectly aligned with your brand and business goals. 💻 Whether you need a personal portfolio, a dynamic business website, or a full-fledged web application, we turn ideas into pow...",unknown_date,web_result
+4312190,"""CRACK"" developer",general,1,tavily,basic,10,https://grassrootsmotorsports.com/articles/testing-cracks-home-diy-dye-penetrants,Testing for Cracks at Home with DIY Dye Penetrants | Articles | Grassroots Motorsports,"After a short period of time, the dye is cleaned from the surface, while any dye that has penetrated into cracks and flaws remains. A white powdered developer, suspended in an evaporative solvent, is then applied to the test surface. Because the dye penetrant is so searching and tends to keep thinning and spreading, any dye penetrant that has accumulated in any crack will quickly migrate to the part’s surface and be revealed as a bright red line or spot in the white developer coating. [...] Apply Developer:
+
+After the excess dye penetrant is removed, the developer can be sprayed onto the test surface from 8 to 12 inches away. The developer will dry very quickly. Two or three light coatings will normally suffice.
+
+It is important that the coats be applied so that they cover the piece evenly, are only slightly damp and dry quickly. Too heavy a coat may mask any flaw indications.
+
+Inspect: [...] To test for through-wall cracks, one side of the component is cleaned and then the dye penetrant is applied. Developer is applied to the opposite surface. If there is a problem, dye penetrant will then leach through the flaw and show up in the developer coating.
+
+Join Free Join our community to easily find more DIY and Dye Penetrant Testing articles.
+
+Join Free
+
+###### More Like This",unknown_date,web_result
+4312190,"""CRACK"" developer",general,1,tavily,basic,10,https://www.youtube.com/watch?v=LzdRNGK0D8I,How to become a cracked dev,"Everything you need to know to get cracked out. 00:00 Intro 01:30 Hardware 04:07 Languages 06:09 App Health, Logging, Version Control 07:32",unknown_date,web_result
+4312190,"""CRACK"" developer",general,1,tavily,basic,10,https://www.mscdirect.com/browse/tn/Welding-Soldering/Crack-Detection?navid=2100525,Crack Detection,"Find faults in welds, alloys and casting with crack detection products from MSC. You'll find cleaners and developers in nuclear grade with no chlorinated",unknown_date,web_result
+4312190,"site:reddit.com ""CRACK""",social,3,tavily,basic,11,https://www.reddit.com/r/EnglishLearning/comments/1pumvo6/what_does_crack_mean,"What does ""crack"" mean? : r/EnglishLearning","The team that gives me the closest answer will seize control of the game, join me down here, and get the first crack at one of these boxes.",unknown_date,reddit_discussion
+4312190,"site:reddit.com ""CRACK""",social,3,tavily,basic,11,https://www.reddit.com/r/explainlikeimfive/comments/1t1cwpy/eli5_why_is_crack_so_much_cheaper_than_cocaine,ELI5: Why is crack so much cheaper than cocaine when ...,Crack is much more expensive dose-per-dose. crack is made using a fair bit of baking soda to make the rock melt so it's smokeable.,unknown_date,reddit_discussion
+4312190,"site:reddit.com ""CRACK""",social,3,tavily,basic,11,https://www.reddit.com/r/AskHistorians/comments/1sfkdbh/who_invented_crack,Who Invented Crack? : r/AskHistorians,"I'm not after CIA conspiracy theories in this esteemed subreddit, but I have no idea how far back crack cocaine goes, or how it came about, despite",unknown_date,reddit_discussion
+4312190,"site:reddit.com ""CRACK""",social,3,tavily,basic,11,https://www.reddit.com/r/explainlikeimfive/comments/cps9ld/eli5_whats_the_difference_between_crack_and,ELI5 What's the difference between crack and cocaine?,"From what I understood crack got a higher burning temperature or something, and cocaine got HCL residue?",unknown_date,reddit_discussion
+4312190,"site:reddit.com ""CRACK""",social,3,tavily,basic,11,https://www.reddit.com/r/etymology/comments/1ru54pq/cracked_team_vs_crack_team_how_did_that_happen,"""Cracked Team"" vs ""Crack Team"" - how did that happen?","A couple years ago at an internship, I was making a presentation with my boss and labeled a group of developers as a ""cracked team"". He (he's a millennial)",unknown_date,reddit_discussion
+4312190,"site:tiktok.com ""CRACK""",social,4,tavily,basic,12,https://www.tiktok.com/@bocarecoverycenter/video/7130431120616770859,Understanding Crack Cocaine: Dangers and ...,"Crack cocaine is a potent derivative of cocaine, differing primarily in its physical form. While cocaine usually appears as a powder, crack",unknown_date,social_post
+4312190,"site:tiktok.com ""CRACK""",social,4,tavily,basic,12,https://www.tiktok.com/@slangmandavidburke/video/7136726175723867435,American Slang “CRACK ME UP” #learnenglish ...,"To crack someone up, that means to make someone laugh. When I was trying to do a serious presentation, Dominic kept trying to crack me up. If",unknown_date,social_post
+4312190,"site:tiktok.com ""CRACK""",social,4,tavily,basic,12,https://www.tiktok.com/tag/crack,crack,Popping your joints before bed hits different—it's like a reset button for your whole vibe. #fyp · #SnapCracklePop · #JointCheck · #BedtimeVibes,unknown_date,social_post
+4312190,"site:tiktok.com ""CRACK""",social,4,tavily,basic,12,https://www.tiktok.com/@thejourneypodcast__/video/7633857544749927693,My Life Flushed Down the Toilet: First Time Smoking Crack,"The moment I smoked crack for the first time, I heard a distinct 'whoa, whoa, whoa' sound, a visceral experience that felt like my life was",unknown_date,social_post
+4312190,"site:tiktok.com ""CRACK""",social,4,tavily,basic,12,https://newsroom.tiktok.com/local-brands-crack-global-markets-to-take-off-with-tiktok?lang=en-AU,Local brands crack global markets to Take Off with TikTok - Newsroom | TikTok,"Image 1: TikTok Logo Image 2: TikTok Logo Icon Image 3: TikTok Logo Icon
+
+AboutNewsroomCareersContact
+
+Watch TikTok
+
+   
+
+   
+Company
+       About
+       Newsroom
+       Store
+       Contact
+       Careers
+       ByteDance
+
+   
+Programs
+       TikTok For Good
+       TikTok For Developers
+       Effect House
+       Advertise
+       Browse
+       Embed
+       Rewards
+       Scaled LIVE Rewards [...] Resources
+       Help Center
+       Safety Center
+       Privacy Center
+       Creator Academy
+       Community Guidelines
+       Transparency
+       Accessibility
+
+   
+Social
+       TikTok
+       LinkedIn
+       Youtube
+       Instagram
+
+Image 9: TikTok Logo Image 10: TikTok Logo Image 11: TikTok Logo
+
+Terms of ServicePrivacyIntellectual Property PolicyLaw Enforcement
+
+© 2025 TikTok",unknown_date,social_post
+4312190,"site:instagram.com ""CRACK""",social,4,tavily,basic,13,https://www.instagram.com/p/DdoZKamkdoU,WHAT IS CRACK? 🚨 Crack is a form ...,"Crack is a form of cocaine that is smoked and can produce a powerful, short-lasting high. Its use can have serious effects on the brain, heart,",unknown_date,social_post
+4312190,"site:instagram.com ""CRACK""",social,4,tavily,basic,13,https://www.instagram.com/p/DXgOq57jGf1,#Sometimes the hardest part isn't asking for help — it's ...,"Crack cocaine is one of the most misunderstood substances, surrounded by stigma but rarely explained in real terms. This article offers a",unknown_date,social_post
+4312190,"site:instagram.com ""CRACK""",social,4,tavily,basic,13,https://www.instagram.com/p/DSeq9oJjOof,"Crack cocaine's effects are fast, intense and ... - Instagram","Crack cocaine's effects are fast, intense and fleeting. The crash is equally severe, often driving people to use again and again just to",unknown_date,social_post
+4312190,"site:instagram.com ""CRACK""",social,4,tavily,basic,13,https://www.instagram.com/crack.cloud,Crack Cloud (@crack.cloud) • Instagram photos and videos,"A Double LP, featuring a cast of 16 musicians performing the Crack Cloud select Discography available for pre-order now.",unknown_date,social_post
+4312190,"site:instagram.com ""CRACK""",social,4,tavily,basic,13,https://www.instagram.com/reel/DcikHCioi9e,DRUG OF THE WEEK: CRACK COCAINE 🚨 What's really ...,"Regular “weekend” use can affect: • heart health • sleep • anxiety and mood • finances • relationships. And when cocaine is mixed with alcohol,",unknown_date,social_post
+4312190,"site:x.com ""CRACK""",social,4,tavily,basic,14,https://x.com/fortis_hospital/status/2094009736245178434,Fortis Healthcare,"That familiar crack or pop from your joints may seem harmless. But when it comes with pain or swelling, it's worth paying attention.",unknown_date,social_post
+4312190,"site:x.com ""CRACK""",social,4,tavily,basic,14,https://x.com/NewsroomGC/status/1981498409270808876,Minister Fraser to hold a press conference to crack down ...,Minister Fraser to hold a press conference to crack down on organized crime and auto theft.,unknown_date,social_post
+4312190,"site:x.com ""CRACK""",social,4,tavily,basic,14,https://x.com/bostonpolice/status/2044031043351527647,"Boston Police Dept. on X: ""30 Grams of Crack Cocaine and ...",30 Grams of Crack Cocaine and $15019 Recovered After a Search Warrant in Brookline. News and real time emergency notifications.,unknown_date,social_post
+4312190,"site:x.com ""CRACK""",social,4,tavily,basic,14,https://x.com/CSTXPolice/status/1093580065462472704,College Station Police Department,"Here's what $4,000 of crack cocaine looks like. Also, here's the #NewsRelease for the seizure of over 40 grams of crack cocaine.",unknown_date,social_post
+4312190,"site:x.com ""CRACK""",social,4,tavily,basic,14,https://x.com/SAPoliceService/status/2095795283409895643/photo/4,"SA Police Service on X: ""#sapsGP [GAUTENG POLICE ...","sapsGP [GAUTENG POLICE CRACK DOWN ON COUNTERFEIT, CONTRABAND AND ILLICIT GOODS, SEIZE MORE THAN R1.5 MILLION WORTH OF GOODS AND ARREST FIVE",unknown_date,social_post
+4312190,"site: ""CRACK""",social,4,tavily,basic,15,https://en.wikipedia.org/wiki/Cracked.com,Cracked.com - Wikipedia,"In November 2013, the Cracked web site was hacked and was unwittingly delivering malware to site visitors. The hackers injected JavaScript that caused malicious software to be distributed to page viewers.
+
+In 2013, Cracked.com launched ""The Cracked Podcast"" on the Earwolf podcast network.
+
+On April 12, 2016, Cracked was purchased by the E. W. Scripps Company for $39 million. [...] In 2011, Wired ""Wired (magazine)"") magazine called Cracked ""addictive"", ""hauntingly funny"" and ""terrifyingly well-informed"". Mother Jones ""Mother Jones (magazine)"") in 2013 called Cracked.com ""one of the hottest humor sites on the web"" and said its content includes ""some of the most uproarious and sage commentary on the interwebs"", describing it as ""striking the right balance of pop culture, bawdy humor, and intellect"". In one month, Cracked users spent over 255 million minutes on the site, [...] In 2010, Cracked drew over one billion page views. By 2012, Jack O'Brien reported over 300 million page views in February and 7.3 million unique monthly users, making it the most visited humor site in the world, ahead of The Onion, CollegeHumor, and Funny or Die.
+
+Writer Daniel O'Brien ""Daniel O'Brien (comedian)"") was questioned by the FBI and United States Secret Service after writing an article titled ""How to Kidnap the President's Daughter"".",unknown_date,social_post
+4312190,"site: ""CRACK""",social,4,tavily,basic,15,https://www.sophos.com/en-us/blog/fake-pirated-software-sites-serve-up-malware-droppers-as-a-service,Fake pirated software sites serve up malware droppers as a service | SOPHOS,"We appended “crack” to the names of several well-known commercial software products, and consistently found 15 sites on the first two pages of results. These sites fell into three distinct groups, based on how they delivered victims to malware, but they all followed the same general approach, and all used the same payload wrapping scheme for their downloaders—leading us to believe that they were connected to a common dropper-as-service.
+
+#### Method 1: InstallUSD affiliate system [...] These “cracked” bait sites have continued to serve up new malware campaigns well after the original Raccoon Stealer campaign ended. Leveraging search engine optimization techniques, they have jockeyed for position at the top of search engine results for cracked versions of a wide range of software products, but especially information security products and more expensive business software tools. [...] We discovered multiple networks using the same basic tactics in our research. All of these networks use search engine optimization to put a “bait” webpage on the first page of results for search engine queries seeking “crack” versions of a variety of software products.",unknown_date,social_post
+4312190,"site: ""CRACK""",social,4,tavily,basic,15,https://info.cype.com/en/pirated-software,Pirated Software - CYPE,"Skip to content
+
+ must break or modify the program's code so that during its operation, the security measures that prevent non-legal users from accessing it are either overlooked or bypassed. This unprotection is achieved by offering an executable file called a ""crack"". [...] Distributing software cracks may also be aimed at spreading malware. Thus, installing cracked software may lead to computer infection by viruses that damage all the information contained therein.
+
+## Solutions offered by CYPE
+
+### Free complete version (Evaluation version)
+
+CYPE has an Evaluation version that allows all CYPE software to be used freely for 10 — not necessarily consecutive — days, during which all software options can be evaluated.
+
+### Special free or reduced-price versions [...] There are no guarantees that pirated software will work properly. Modifying the code may cause bugs in the program and, in this case, any work that has been carried out will be irretrievably lost. However, it could be worse: when the code is altered, checking processes may be removed which would lead to incorrect results that could go unnoticed by the professional using the cracked copy.
+
+## Possible malware infection",unknown_date,social_post
+4312190,"site: ""CRACK""",social,4,tavily,basic,15,https://www.justice.gov/opa/pr/cracked-and-nulled-marketplaces-disrupted-international-cyber-operation,Office of Public Affairs |  Cracked and Nulled Marketplaces Disrupted in International Cyber Operation | United States Department of Justice,"According to seizure warrants unsealed today, the Cracked marketplace has been selling stolen login credentials, hacking tools, and servers for hosting malware and stolen data — as well as other tools for carrying out cybercrime and fraud — since March 2018. Cracked had over four million users, listed over 28 million posts advertising cybercrime tools and stolen information, generated approximately $4 million in revenue, and impacted at least 17 million victims from the United States. One [...] United States. One product advertised on Cracked offered access to “billions of leaked websites” allowing users to search for stolen login credentials. This product was recently allegedly used to sextort and harass a woman in the Western District of New York. Specifically, a cybercriminal entered the victim’s username into the tool and obtained the victim’s credentials for an online account. Using the victim’s credentials, the subject then cyberstalked the victim and sent sexually demeaning and [...] The FBI, working in coordination with foreign law enforcement partners, identified a series of servers that hosted the Cracked marketplace infrastructure and eight domain names used to operate Cracked. They also identified servers and domain names for Cracked’s payment processor, Sellix, and the server and domain name for a related bulletproof hosting service. All of these servers and domain names have been seized pursuant to domestic and international legal process. Anyone visiting any of",unknown_date,social_post
+4312190,"site: ""CRACK""",social,4,tavily,basic,15,https://www.semrush.com/website/cracked-games.org/competitors,Top 3 cracked-games.org Alternatives & Competitors,"Support
+
+Community
+
+© 2026 Semrush Holdings.  All rights reserved.
+
+Legal [...] Want to explore more? Create a free Semrush account to research any website, track trends, and discover what's happening across the web.
+
+binoculars
+
+## Comparison of Monthly Visits: cracked-games.org vs Competitors, August 2026
+
+### gamestatus.info
+
+gamestatus.info
+
+15
+
+579K
+
+3.0
+
+34.65%
+
+Unlock
+
+### igg-games.cc
+
+igg-games.cc
+
+17
+
+82.3K
+
+4.0
+
+43.95%
+
+Unlock
+
+### enigmasoftware.com
+
+enigmasoftware.com
+
+43
+
+122.79K
+
+1.8
+
+77.97%
+
+Unlock [...] You're looking at one small piece of the internet. Semrush lets you understand the whole market. From competitors and traffic trends to SEO and AI visibility, Semrush helps you understand who is winning, why they're winning, and where your opportunities lie. Powered by the world's largest proprietary search database — including historical data.
+
+Here's what you can do with Semrush:",unknown_date,social_post

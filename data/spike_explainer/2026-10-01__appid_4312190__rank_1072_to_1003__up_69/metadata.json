@@ -1,0 +1,40 @@
+{
+    "appid": "4312190",
+    "game_title": "CRACK",
+    "safe_slug": "crack",
+    "analysis_date_utc": "2026-10-01T18:25:55.301973+00:00",
+    "spike_window_start": "2026-09-28T00:00:00+00:00",
+    "spike_window_end": "2026-10-01T00:00:00+00:00",
+    "extended_window_start": "2026-08-14T00:00:00+00:00",
+    "extended_window_end": "2026-10-04T00:00:00+00:00",
+    "dt_start": "2026-09-28 00:00:00+00:00",
+    "dt_end": "2026-10-01 00:00:00+00:00",
+    "ext_start": "2026-08-14 00:00:00+00:00",
+    "ext_end": "2026-10-04 00:00:00+00:00",
+    "window_inferred_fallback": false,
+    "prev_rank": 1072,
+    "curr_rank": 1003,
+    "rank_delta": 69,
+    "movement_score": 0,
+    "is_new_entry": false,
+    "changed_fields_detected": [
+        "release_date"
+    ],
+    "input_diff_row": {
+        "appid": "4312190",
+        "title_old": "CRACK",
+        "curr_title": "CRACK",
+        "prev_rank": 1072,
+        "curr_rank": 1003,
+        "rank_delta": 69,
+        "abs_rank_delta": 69,
+        "movement_type": "up",
+        "spike_type": "upward_spike",
+        "price_text_old": "Unpriced (Coming Soon)",
+        "price_text_new": "Unpriced (Coming Soon)",
+        "price_changed": false,
+        "release_text_old": "26 Oct, 2026",
+        "release_text_new": "Oct 26, 2026",
+        "release_changed": true
+    }
+}
