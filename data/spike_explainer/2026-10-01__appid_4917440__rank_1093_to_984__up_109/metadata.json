@@ -1,0 +1,40 @@
+{
+    "appid": "4917440",
+    "game_title": "MOGGED: Looksmaxx or Die",
+    "safe_slug": "mogged_looksmaxx_or_die",
+    "analysis_date_utc": "2026-10-01T05:21:51.645640+00:00",
+    "spike_window_start": "2026-09-28T00:00:00+00:00",
+    "spike_window_end": "2026-10-01T00:00:00+00:00",
+    "extended_window_start": "2026-08-14T00:00:00+00:00",
+    "extended_window_end": "2026-10-04T00:00:00+00:00",
+    "dt_start": "2026-09-28 00:00:00+00:00",
+    "dt_end": "2026-10-01 00:00:00+00:00",
+    "ext_start": "2026-08-14 00:00:00+00:00",
+    "ext_end": "2026-10-04 00:00:00+00:00",
+    "window_inferred_fallback": false,
+    "prev_rank": 1093,
+    "curr_rank": 984,
+    "rank_delta": 109,
+    "movement_score": 0,
+    "is_new_entry": false,
+    "changed_fields_detected": [
+        "release_date"
+    ],
+    "input_diff_row": {
+        "appid": "4917440",
+        "title_old": "MOGGED: Looksmaxx or Die",
+        "curr_title": "MOGGED: Looksmaxx or Die",
+        "prev_rank": 1093,
+        "curr_rank": 984,
+        "rank_delta": 109,
+        "abs_rank_delta": 109,
+        "movement_type": "up",
+        "spike_type": "upward_spike",
+        "price_text_old": "Unpriced (Coming Soon)",
+        "price_text_new": "Unpriced (Coming Soon)",
+        "price_changed": false,
+        "release_text_old": "Oct 1, 2026",
+        "release_text_new": "1 Oct, 2026",
+        "release_changed": true
+    }
+}

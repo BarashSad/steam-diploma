@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-09-30T18:01:48.271284+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20260930_175125/rank_changes.csv",
-    "selected_appid": "5276140",
-    "selected_game_title": "Satisfactory - Core Values Expansion",
+    "started_at": "2026-10-01T05:22:19.699441+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261001_051215/rank_changes.csv",
+    "selected_appid": "4917440",
+    "selected_game_title": "MOGGED: Looksmaxx or Die",
     "top_n": 1,
-    "old_snapshot_date": "2026-09-27",
-    "new_snapshot_date": "2026-09-30",
+    "old_snapshot_date": "2026-09-28",
+    "new_snapshot_date": "2026-10-01",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-09-30T18:01:48.271296+00:00",
+    "finished_at": "2026-10-01T05:22:19.699484+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
