@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+1924600,March of Giants,March of Giants,1070,1025,45,45,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4312190,CRACK,CRACK,957,914,43,43,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 26, 2026","Oct 26, 2026",False
+4768160,Hostile Architect,Hostile Architect,1084,1058,26,26,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+5037200,just volleyball,just volleyball,1081,1060,21,21,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q4 2026,Q4 2026,False

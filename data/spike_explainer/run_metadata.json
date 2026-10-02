@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-10-02T05:11:02.246187+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261002_050041/rank_changes.csv",
-    "selected_appid": "4312190",
-    "selected_game_title": "CRACK",
+    "started_at": "2026-10-02T17:51:19.961776+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261002_174232/rank_changes.csv",
+    "selected_appid": "1924600",
+    "selected_game_title": "March of Giants",
     "top_n": 1,
     "old_snapshot_date": "2026-09-29",
     "new_snapshot_date": "2026-10-02",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-02T05:11:02.246202+00:00",
+    "finished_at": "2026-10-02T17:51:19.961791+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

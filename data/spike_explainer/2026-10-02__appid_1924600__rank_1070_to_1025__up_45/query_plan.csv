@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+1924600,March of Giants,"""March of Giants"" Steam",general,1,tavily,True,,5
+1924600,March of Giants,"""March of Giants"" trailer",general,1,tavily,True,,5
+1924600,March of Giants,"""March of Giants"" gameplay",general,1,tavily,True,,5
+1924600,March of Giants,"""March of Giants"" demo",general,1,tavily,True,,5
+1924600,March of Giants,"""March of Giants"" release date",general,1,tavily,True,,5
+1924600,March of Giants,"""March of Giants"" announcement",general,1,tavily,True,,5
+1924600,March of Giants,"""March of Giants"" preview",general,1,tavily,True,,5
+1924600,March of Giants,"""March of Giants"" review",general,1,tavily,True,,5
+1924600,March of Giants,"""March of Giants"" publisher",general,1,tavily,True,,5
+1924600,March of Giants,"""March of Giants"" developer",general,1,tavily,True,,5
+1924600,March of Giants,"site:pcgamer.com ""March of Giants""",press,2,tavily,False,General budget exhausted,0
+1924600,March of Giants,"site:rockpapershotgun.com ""March of Giants""",press,2,tavily,False,General budget exhausted,0
+1924600,March of Giants,"site:ign.com ""March of Giants""",press,2,tavily,False,General budget exhausted,0
+1924600,March of Giants,"site:gamespot.com ""March of Giants""",press,2,tavily,False,General budget exhausted,0
+1924600,March of Giants,"site:game8.co ""March of Giants""",press,2,tavily,False,General budget exhausted,0
+1924600,March of Giants,"site:reddit.com ""March of Giants""",social,3,tavily,True,,5
+1924600,March of Giants,"site:tiktok.com ""March of Giants""",social,4,tavily,True,,5
+1924600,March of Giants,"site:instagram.com ""March of Giants""",social,4,tavily,True,,5
+1924600,March of Giants,"site:x.com ""March of Giants""",social,4,tavily,True,,5
+1924600,March of Giants,"site: ""March of Giants""",social,4,tavily,True,,5
