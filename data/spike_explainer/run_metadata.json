@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-10-01T18:26:16.354010+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261001_181653/rank_changes.csv",
+    "started_at": "2026-10-02T05:11:02.246187+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261002_050041/rank_changes.csv",
     "selected_appid": "4312190",
     "selected_game_title": "CRACK",
     "top_n": 1,
-    "old_snapshot_date": "2026-09-28",
-    "new_snapshot_date": "2026-10-01",
+    "old_snapshot_date": "2026-09-29",
+    "new_snapshot_date": "2026-10-02",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-01T18:26:16.354025+00:00",
+    "finished_at": "2026-10-02T05:11:02.246202+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

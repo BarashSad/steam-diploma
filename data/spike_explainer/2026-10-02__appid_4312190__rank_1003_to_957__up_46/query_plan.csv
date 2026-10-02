@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4312190,CRACK,"""CRACK"" Steam",general,1,tavily,True,,5
+4312190,CRACK,"""CRACK"" trailer",general,1,tavily,True,,5
+4312190,CRACK,"""CRACK"" gameplay",general,1,tavily,True,,5
+4312190,CRACK,"""CRACK"" demo",general,1,tavily,True,,5
+4312190,CRACK,"""CRACK"" release date",general,1,tavily,True,,5
+4312190,CRACK,"""CRACK"" announcement",general,1,tavily,True,,5
+4312190,CRACK,"""CRACK"" preview",general,1,tavily,True,,5
+4312190,CRACK,"""CRACK"" review",general,1,tavily,True,,5
+4312190,CRACK,"""CRACK"" publisher",general,1,tavily,True,,5
+4312190,CRACK,"""CRACK"" developer",general,1,tavily,True,,5
+4312190,CRACK,"site:pcgamer.com ""CRACK""",press,2,tavily,False,General budget exhausted,0
+4312190,CRACK,"site:rockpapershotgun.com ""CRACK""",press,2,tavily,False,General budget exhausted,0
+4312190,CRACK,"site:ign.com ""CRACK""",press,2,tavily,False,General budget exhausted,0
+4312190,CRACK,"site:gamespot.com ""CRACK""",press,2,tavily,False,General budget exhausted,0
+4312190,CRACK,"site:game8.co ""CRACK""",press,2,tavily,False,General budget exhausted,0
+4312190,CRACK,"site:reddit.com ""CRACK""",social,3,tavily,True,,5
+4312190,CRACK,"site:tiktok.com ""CRACK""",social,4,tavily,True,,5
+4312190,CRACK,"site:instagram.com ""CRACK""",social,4,tavily,True,,5
+4312190,CRACK,"site:x.com ""CRACK""",social,4,tavily,True,,0
+4312190,CRACK,"site: ""CRACK""",social,4,tavily,True,,5
