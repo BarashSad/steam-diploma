@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-3218100,I AM RIPPER,"site:pcgamer.com ""I AM RIPPER""",press,2,tavily,False,General budget exhausted,0
-3218100,I AM RIPPER,"site:rockpapershotgun.com ""I AM RIPPER""",press,2,tavily,False,General budget exhausted,0
-3218100,I AM RIPPER,"site:ign.com ""I AM RIPPER""",press,2,tavily,False,General budget exhausted,0
-3218100,I AM RIPPER,"site:gamespot.com ""I AM RIPPER""",press,2,tavily,False,General budget exhausted,0
-3218100,I AM RIPPER,"site:game8.co ""I AM RIPPER""",press,2,tavily,False,General budget exhausted,0
+4530370,Football Manager 27,"site:pcgamer.com ""Football Manager 27""",press,2,tavily,False,General budget exhausted,0
+4530370,Football Manager 27,"site:rockpapershotgun.com ""Football Manager 27""",press,2,tavily,False,General budget exhausted,0
+4530370,Football Manager 27,"site:ign.com ""Football Manager 27""",press,2,tavily,False,General budget exhausted,0
+4530370,Football Manager 27,"site:gamespot.com ""Football Manager 27""",press,2,tavily,False,General budget exhausted,0
+4530370,Football Manager 27,"site:game8.co ""Football Manager 27""",press,2,tavily,False,General budget exhausted,0

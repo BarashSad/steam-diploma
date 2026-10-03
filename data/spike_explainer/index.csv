@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-10-03T04:53:24.764612+00:00,3218100,I AM RIPPER,data/spike_explainer/2026-10-03__appid_3218100__rank_884_to_838__up_46,46,85,data/spike_explainer/2026-10-03__appid_3218100__rank_884_to_838__up_46/llm_summary_input.md
+2026-10-03T16:11:04.847752+00:00,4530370,Football Manager 27,data/spike_explainer/2026-10-03__appid_4530370__rank_1082_to_1030__up_52,52,70,data/spike_explainer/2026-10-03__appid_4530370__rank_1082_to_1030__up_52/llm_summary_input.md

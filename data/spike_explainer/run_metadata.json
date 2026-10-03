@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-10-03T04:53:50.032214+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261003_044426/rank_changes.csv",
-    "selected_appid": "3218100",
-    "selected_game_title": "I AM RIPPER",
+    "started_at": "2026-10-03T16:11:34.935502+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261003_160120/rank_changes.csv",
+    "selected_appid": "4530370",
+    "selected_game_title": "Football Manager 27",
     "top_n": 1,
     "old_snapshot_date": "2026-09-30",
     "new_snapshot_date": "2026-10-03",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-03T04:53:50.032229+00:00",
+    "finished_at": "2026-10-03T16:11:34.935522+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
