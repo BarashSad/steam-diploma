@@ -1,0 +1,47 @@
+{
+    "appnews": {
+        "appid": 3218100,
+        "newsitems": [
+            {
+                "gid": "1842212951300509",
+                "title": "Construction on your demo has begun!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300509",
+                "is_external_url": true,
+                "author": "Pete_Bottomley",
+                "contents": "Well. You can probably guess what RIPPER is trying to do to you.As you've not doubt read in the tagline, we've begun work on the next RIPPER environment which see you placed in a slate quarry. ENTERING THE DARKNESSYou'll see our detective Sam Harlow in some of the shots - this isn't to imply any gameplay cameras (although we will have some lovely wideshots in some of our vistas), she's more there to help get a sense of scale when we're building out our environments.THE DEMOOur current focus is to get the whole team (we're 14 people), aligned around a demo we're putting together for you all. We don't have an estimated date for this yet - sInce we're self-publishing RIPPER, we want to take our time and get things right. We also want to have the game in a really good place before we start releasing demo content in case we need to make any design changes to help it feel consistent across the rest of the game as we iterate.Previously in RIPPER's development, outside of the trailer where we all came together to get the shots in place ready for the edit, we've mostly been spread across the project. In development there can be multiple blockers across departments so we've been trying to work in parallel ways to each other so no ones blocking too many other people to bring different aspects online that we needed to help define the scope of the game. We've also had a few people working on getting Dahlia View out onto consoles (for those of you waiting to pick it up, it's coming!), so this will be a great chance for everyone to focus on a specific section of the game. SILHOUETTED IN THE CAVEIt's always been a tough thing demo'ing our titles. Since you're reading this, you're probably into the narrative-type thrillers we love to design. It can be hard to immerse yourselves in the world and characters when you have a limited time with a demo. Although we know it can be best practice for demos to be around 20-30 mins long, I suspect we may want to give you a bit more than 30 mins to really give you a sense of the overall game feel.WORK IN PROCESSAlthough these images are really just our process of bringing an environment together, aimed to get the environment fleshed out with the main gameplay beats, the screenshots help you see how our artists approach an initial pass of the lighting and texturing - they're using world aligned tillable paint strokes which help add that slightly stylised feel to the world. The lighting is just an initial colour direction and you'll likely see this change many times until we're ready to unveil the quarry demo but we thought it might be fun to show the early stages of the space.SAM CLIMBING THE STEPSOutside of the demo, it's just been so lovely seeing so many want to come join our server and hang out. There are lots of people connecting with us who are excited about RIPPER who have also played some of our previous work which is always awesome to see. As we enter our 15th year as a studio next year (which crazy to think!) we feel so fortunate to be able to show up every day and create games for you all to experience. So thanks for sharing the journey!I think next month we may share some more cool tech breakdowns, this time about our custom weather system we're putting together which has a massive impact on your sense of space with sounds, materials, and objects in the world all reacting to a dynamic weather. Whether it be classic British drizzle soaking the streets, or the crisp layer of snow we get for precisely 2.3 days each year before it turns to grey mush, we want the weather to have a big impact on the way we play. Speaking of snow, only 13 weeks until Christmas.UNTIL NEXT TIME, Y'ALL! ",
+                "feedlabel": "Community Announcements",
+                "date": 1787846212,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3218100
+            },
+            {
+                "gid": "1823825466505717",
+                "title": "RIPPER profiled by Unreal Engine",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466505717",
+                "is_external_url": true,
+                "author": "Pete_Bottomley",
+                "contents": "Whether it was Ether One's development back in Unreal 3, The Occupation and Dahlia View in Unreal 4, to now using Unreal 5 to power RIPPER, we've always used the engine to develop our narrative-driven work in.We're a small team of 14 people working hard out of our UK studio and we wouldn't be able to deliver the types of experiences we design without standing on the shoulders of incredible Unreal developers before us. We sat down with the team at Unreal to chat more RIPPER which you can check out in the video profile below (with some sneaky new environments and details you didn't see in the trailer). We also sat down with the media team to complete a written interview for some extra tasty details which we've put a link for below: I AM RIPPER tears out its place as the Great British ThrillerIt's so fun and rewarding seeing everyone's excitement for the titles we're working on, thanks for keeping all the positive messages coming through and be sure to let us know what you'd like to hear more about so we can plan more updates to show you some more of the behind-the-scenes! ",
+                "feedlabel": "Community Announcements",
+                "date": 1770649176,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3218100
+            },
+            {
+                "gid": "1808601382446450",
+                "title": "Will you leave a trace?",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1808601382446450",
+                "is_external_url": true,
+                "author": "Pete_Bottomley",
+                "contents": "We\u2019re kicking off our Steam News updates for I AM RIPPER with something winter focused since a lot of game is set in the dead winter of the UK in 1988.Snow is such a large part of a game set in winter (especially one where you\u2019re trying to track a killer) so we need to create the snow in a way that enhances the atmosphere and affects your gameplay experience.Leaving a traceWhen characters walk around in the snow; whether that\u2019s you the player, people you\u2019re working with, or maybe a suspect you want to follow, leaving footsteps behind not only grounds you in the world, but gives you a sense that the weather can affect any clues pertinent to your case.This video shows how our footstep system can react to multiple characters in the worldEven the darkest cases have moments of levityI AM RIPPER is a dark game. We want the true grittiness and realities of cases like this to be at the forefront of your game play experience. We don\u2019t take these matters lightly and want to do justice to what it feels like to solve a case like this in real life.We try to design around features we take for granted in video games such as respawning at checkpoints or collectables for the sake of collectables. Instead we put focus on gameplay designed to respect your time as a player, which is one of our core design pillars when creating our games. We want you to be focused on everything surrounding your investigation into the Ripper.With that said, we love to juxtapose sections of the game where there can be moments of laughing & levity. We don\u2019t want to give away too much there, but you can imagine the opportunities that snow presents..!Rolling snowballs is the most fun way to test physics!A focus on DetailWe love to focus on even the smallest details in our world. It\u2019s the polish (which can be time consuming and complex to achieve) that we think really helps sell a unique vision to the gameplay. We're still a small team of 14 but these details matter a lot to us.Be sure to look at where the feet are dragging to see the focus we're putting into each footstepWe\u2019re so excited to have the opportunity of sharing more about what you can expect for I AM RIPPER throughout development to give you a better understanding of the vision, since you\u2019ve only had chance to see our announcement trailer so far.If there\u2019s anything you\u2019re curious to know about (avoiding spoilers of course..!) then please do let us know in the comments with what interests you most about Ripper. We\u2019d love to share more articles like this as we continue development.Thank you all for supporting and following our work and really hope you\u2019ve enjoyed our breakdown on the snow in I AM RIPPER!",
+                "feedlabel": "Community Announcements",
+                "date": 1755786842,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3218100
+            }
+        ],
+        "count": 3
+    }
+}

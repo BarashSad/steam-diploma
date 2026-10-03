@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-10-02T17:51:19.961776+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261002_174232/rank_changes.csv",
-    "selected_appid": "1924600",
-    "selected_game_title": "March of Giants",
+    "started_at": "2026-10-03T04:53:50.032214+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261003_044426/rank_changes.csv",
+    "selected_appid": "3218100",
+    "selected_game_title": "I AM RIPPER",
     "top_n": 1,
-    "old_snapshot_date": "2026-09-29",
-    "new_snapshot_date": "2026-10-02",
+    "old_snapshot_date": "2026-09-30",
+    "new_snapshot_date": "2026-10-03",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-02T17:51:19.961791+00:00",
+    "finished_at": "2026-10-03T04:53:50.032229+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

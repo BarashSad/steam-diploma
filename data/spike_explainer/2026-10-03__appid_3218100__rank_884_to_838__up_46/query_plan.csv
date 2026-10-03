@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3218100,I AM RIPPER,"""I AM RIPPER"" Steam",general,1,tavily,True,,5
+3218100,I AM RIPPER,"""I AM RIPPER"" trailer",general,1,tavily,True,,5
+3218100,I AM RIPPER,"""I AM RIPPER"" gameplay",general,1,tavily,True,,5
+3218100,I AM RIPPER,"""I AM RIPPER"" demo",general,1,tavily,True,,5
+3218100,I AM RIPPER,"""I AM RIPPER"" release date",general,1,tavily,True,,5
+3218100,I AM RIPPER,"""I AM RIPPER"" announcement",general,1,tavily,True,,5
+3218100,I AM RIPPER,"""I AM RIPPER"" preview",general,1,tavily,True,,5
+3218100,I AM RIPPER,"""I AM RIPPER"" review",general,1,tavily,True,,5
+3218100,I AM RIPPER,"""I AM RIPPER"" publisher",general,1,tavily,True,,5
+3218100,I AM RIPPER,"""I AM RIPPER"" developer",general,1,tavily,True,,5
+3218100,I AM RIPPER,"site:pcgamer.com ""I AM RIPPER""",press,2,tavily,False,General budget exhausted,0
+3218100,I AM RIPPER,"site:rockpapershotgun.com ""I AM RIPPER""",press,2,tavily,False,General budget exhausted,0
+3218100,I AM RIPPER,"site:ign.com ""I AM RIPPER""",press,2,tavily,False,General budget exhausted,0
+3218100,I AM RIPPER,"site:gamespot.com ""I AM RIPPER""",press,2,tavily,False,General budget exhausted,0
+3218100,I AM RIPPER,"site:game8.co ""I AM RIPPER""",press,2,tavily,False,General budget exhausted,0
+3218100,I AM RIPPER,"site:reddit.com ""I AM RIPPER""",social,3,tavily,True,,5
+3218100,I AM RIPPER,"site:tiktok.com ""I AM RIPPER""",social,4,tavily,True,,5
+3218100,I AM RIPPER,"site:instagram.com ""I AM RIPPER""",social,4,tavily,True,,5
+3218100,I AM RIPPER,"site:x.com ""I AM RIPPER""",social,4,tavily,True,,5
+3218100,I AM RIPPER,"site: ""I AM RIPPER""",social,4,tavily,True,,5
