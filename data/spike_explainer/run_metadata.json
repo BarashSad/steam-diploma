@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-10-04T05:24:51.387926+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261004_051607/rank_changes.csv",
+    "started_at": "2026-10-04T16:52:25.920113+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261004_164152/rank_changes.csv",
     "selected_appid": "4530370",
     "selected_game_title": "Football Manager 27",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-04T05:24:51.387941+00:00",
+    "finished_at": "2026-10-04T16:52:25.920127+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4530370,Football Manager 27,"""Football Manager 27"" Steam",general,1,tavily,True,,5
+4530370,Football Manager 27,"""Football Manager 27"" trailer",general,1,tavily,True,,5
+4530370,Football Manager 27,"""Football Manager 27"" gameplay",general,1,tavily,True,,5
+4530370,Football Manager 27,"""Football Manager 27"" demo",general,1,tavily,True,,5
+4530370,Football Manager 27,"""Football Manager 27"" release date",general,1,tavily,True,,5
+4530370,Football Manager 27,"""Football Manager 27"" announcement",general,1,tavily,True,,5
+4530370,Football Manager 27,"""Football Manager 27"" preview",general,1,tavily,True,,5
+4530370,Football Manager 27,"""Football Manager 27"" review",general,1,tavily,True,,5
+4530370,Football Manager 27,"""Football Manager 27"" publisher",general,1,tavily,True,,5
+4530370,Football Manager 27,"""Football Manager 27"" developer",general,1,tavily,True,,5
+4530370,Football Manager 27,"site:pcgamer.com ""Football Manager 27""",press,2,tavily,False,General budget exhausted,0
+4530370,Football Manager 27,"site:rockpapershotgun.com ""Football Manager 27""",press,2,tavily,False,General budget exhausted,0
+4530370,Football Manager 27,"site:ign.com ""Football Manager 27""",press,2,tavily,False,General budget exhausted,0
+4530370,Football Manager 27,"site:gamespot.com ""Football Manager 27""",press,2,tavily,False,General budget exhausted,0
+4530370,Football Manager 27,"site:game8.co ""Football Manager 27""",press,2,tavily,False,General budget exhausted,0
+4530370,Football Manager 27,"site:reddit.com ""Football Manager 27""",social,3,tavily,True,,5
+4530370,Football Manager 27,"site:tiktok.com ""Football Manager 27""",social,4,tavily,True,,5
+4530370,Football Manager 27,"site:instagram.com ""Football Manager 27""",social,4,tavily,True,,5
+4530370,Football Manager 27,"site:x.com ""Football Manager 27""",social,4,tavily,True,,5
+4530370,Football Manager 27,"site: ""Football Manager 27""",social,4,tavily,True,,5
