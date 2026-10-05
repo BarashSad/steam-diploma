@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3651540,Peeping Office Worker,Peeping Office Worker,449,448,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,Q4 2026,True
+4253570,Reshine,Reshine,508,509,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Nov 26, 2026",True
+3115160,"Warhammer 40,000: Boltgun 2","Warhammer 40,000: Boltgun 2",159,159,0,0,stable,none,Unpriced (Coming Soon),$22.49,True,"Oct 14, 2026","Oct 14, 2026",False
+2400840,Phantom Line,Phantom Line,317,317,0,0,stable,none,Unpriced (Coming Soon),Free,True,To be announced,2027,True
+3434920,SAGE,SAGE,750,750,0,0,stable,none,Free,Free,False,2027,Coming soon,True

@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-10-05T05:10:00.428266+00:00,4530370,Football Manager 27,data/spike_explainer/2026-10-05__appid_4530370__rank_934_to_899__up_35,35,70,data/spike_explainer/2026-10-05__appid_4530370__rank_934_to_899__up_35/llm_summary_input.md
+2026-10-05T20:35:11.042724+00:00,4181850,LitGirls: Bookbound Dungeons,data/spike_explainer/2026-10-05__appid_4181850__rank_1055_to_999__up_56,56,70,data/spike_explainer/2026-10-05__appid_4181850__rank_1055_to_999__up_56/llm_summary_input.md

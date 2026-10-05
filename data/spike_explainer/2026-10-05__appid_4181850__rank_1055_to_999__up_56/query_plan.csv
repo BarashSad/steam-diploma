@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4181850,LitGirls: Bookbound Dungeons,"""LitGirls: Bookbound Dungeons"" Steam",general,1,tavily,True,,5
+4181850,LitGirls: Bookbound Dungeons,"""LitGirls: Bookbound Dungeons"" trailer",general,1,tavily,True,,5
+4181850,LitGirls: Bookbound Dungeons,"""LitGirls: Bookbound Dungeons"" gameplay",general,1,tavily,True,,5
+4181850,LitGirls: Bookbound Dungeons,"""LitGirls: Bookbound Dungeons"" demo",general,1,tavily,True,,5
+4181850,LitGirls: Bookbound Dungeons,"""LitGirls: Bookbound Dungeons"" release date",general,1,tavily,True,,5
+4181850,LitGirls: Bookbound Dungeons,"""LitGirls: Bookbound Dungeons"" announcement",general,1,tavily,True,,5
+4181850,LitGirls: Bookbound Dungeons,"""LitGirls: Bookbound Dungeons"" preview",general,1,tavily,True,,5
+4181850,LitGirls: Bookbound Dungeons,"""LitGirls: Bookbound Dungeons"" review",general,1,tavily,True,,5
+4181850,LitGirls: Bookbound Dungeons,"""LitGirls: Bookbound Dungeons"" publisher",general,1,tavily,True,,5
+4181850,LitGirls: Bookbound Dungeons,"""LitGirls: Bookbound Dungeons"" developer",general,1,tavily,True,,5
+4181850,LitGirls: Bookbound Dungeons,"site:pcgamer.com ""LitGirls: Bookbound Dungeons""",press,2,tavily,False,General budget exhausted,0
+4181850,LitGirls: Bookbound Dungeons,"site:rockpapershotgun.com ""LitGirls: Bookbound Dungeons""",press,2,tavily,False,General budget exhausted,0
+4181850,LitGirls: Bookbound Dungeons,"site:ign.com ""LitGirls: Bookbound Dungeons""",press,2,tavily,False,General budget exhausted,0
+4181850,LitGirls: Bookbound Dungeons,"site:gamespot.com ""LitGirls: Bookbound Dungeons""",press,2,tavily,False,General budget exhausted,0
+4181850,LitGirls: Bookbound Dungeons,"site:game8.co ""LitGirls: Bookbound Dungeons""",press,2,tavily,False,General budget exhausted,0
+4181850,LitGirls: Bookbound Dungeons,"site:reddit.com ""LitGirls: Bookbound Dungeons""",social,3,tavily,True,,5
+4181850,LitGirls: Bookbound Dungeons,"site:tiktok.com ""LitGirls: Bookbound Dungeons""",social,4,tavily,True,,5
+4181850,LitGirls: Bookbound Dungeons,"site:instagram.com ""LitGirls: Bookbound Dungeons""",social,4,tavily,True,,5
+4181850,LitGirls: Bookbound Dungeons,"site:x.com ""LitGirls: Bookbound Dungeons""",social,4,tavily,True,,5
+4181850,LitGirls: Bookbound Dungeons,"site: ""LitGirls: Bookbound Dungeons""",social,4,tavily,True,,5

@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-10-05T05:10:28.894891+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261005_045952/rank_changes.csv",
-    "selected_appid": "4530370",
-    "selected_game_title": "Football Manager 27",
+    "started_at": "2026-10-05T20:35:39.022675+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261005_202609/rank_changes.csv",
+    "selected_appid": "4181850",
+    "selected_game_title": "LitGirls: Bookbound Dungeons",
     "top_n": 1,
     "old_snapshot_date": "2026-10-02",
     "new_snapshot_date": "2026-10-05",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-05T05:10:28.894906+00:00",
+    "finished_at": "2026-10-05T20:35:39.022697+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-05T20:35:39.123671+00:00",
+    "timestamp": "20261005_203539",
+    "input_file": "data/spike_explainer/2026-10-05__appid_4181850__rank_1055_to_999__up_56/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-05__appid_4181850__rank_1055_to_999__up_56/llm_outputs/gemini_20261005_203539.md",
+    "game_title": "LitGirls: Bookbound Dungeons",
+    "appid": "4181850",
+    "duration_sec": 24.9,
+    "response_length": 7458,
+    "error": null
+}
