@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-05T05:10:29.004568+00:00",
+    "timestamp": "20261005_051029",
+    "input_file": "data/spike_explainer/2026-10-05__appid_4530370__rank_934_to_899__up_35/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-05__appid_4530370__rank_934_to_899__up_35/llm_outputs/gemini_20261005_051029.md",
+    "game_title": "Football Manager 27",
+    "appid": "4530370",
+    "duration_sec": 18.24,
+    "response_length": 5562,
+    "error": null
+}

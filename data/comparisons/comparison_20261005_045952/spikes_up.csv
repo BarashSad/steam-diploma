@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4530370,Football Manager 27,Football Manager 27,934,899,35,35,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 10, 2026","Nov 10, 2026",False
+5266240,Potato Please,Potato Please,1104,1071,33,33,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+3201450,SACRATA,SACRATA,1004,974,30,30,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+5246700,Defilade,Defilade,533,510,23,23,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+1924600,March of Giants,March of Giants,919,896,23,23,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
