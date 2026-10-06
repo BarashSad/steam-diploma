@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-10-06T05:57:32.636970+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261006_054732/rank_changes.csv",
-    "selected_appid": "3201450",
-    "selected_game_title": "SACRATA",
+    "started_at": "2026-10-06T18:20:05.197253+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261006_181020/rank_changes.csv",
+    "selected_appid": "4530370",
+    "selected_game_title": "Football Manager 27",
     "top_n": 1,
     "old_snapshot_date": "2026-10-03",
     "new_snapshot_date": "2026-10-06",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-06T05:57:32.636983+00:00",
+    "finished_at": "2026-10-06T18:20:05.197267+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

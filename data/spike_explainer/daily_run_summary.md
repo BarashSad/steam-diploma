@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: SACRATA
+Analyzed: Football Manager 27
 Tavily Budget Used: 15
 Errors: 0

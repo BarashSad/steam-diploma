@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-10-06T05:57:12.575541+00:00,3201450,SACRATA,data/spike_explainer/2026-10-06__appid_3201450__rank_943_to_914__up_29,29,85,data/spike_explainer/2026-10-06__appid_3201450__rank_943_to_914__up_29/llm_summary_input.md
+2026-10-06T18:19:36.479823+00:00,4530370,Football Manager 27,data/spike_explainer/2026-10-06__appid_4530370__rank_848_to_809__up_39,39,70,data/spike_explainer/2026-10-06__appid_4530370__rank_848_to_809__up_39/llm_summary_input.md
