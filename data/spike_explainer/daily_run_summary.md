@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: LitGirls: Bookbound Dungeons
+Analyzed: SACRATA
 Tavily Budget Used: 15
 Errors: 0

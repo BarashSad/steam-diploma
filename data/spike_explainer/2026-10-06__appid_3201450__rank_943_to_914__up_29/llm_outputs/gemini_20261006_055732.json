@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-06T05:57:32.719683+00:00",
+    "timestamp": "20261006_055732",
+    "input_file": "data/spike_explainer/2026-10-06__appid_3201450__rank_943_to_914__up_29/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-06__appid_3201450__rank_943_to_914__up_29/llm_outputs/gemini_20261006_055732.md",
+    "game_title": "SACRATA",
+    "appid": "3201450",
+    "duration_sec": 24.67,
+    "response_length": 6320,
+    "error": null
+}

@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3201450,SACRATA,"""SACRATA"" Steam",general,1,tavily,True,,5
+3201450,SACRATA,"""SACRATA"" trailer",general,1,tavily,True,,5
+3201450,SACRATA,"""SACRATA"" gameplay",general,1,tavily,True,,5
+3201450,SACRATA,"""SACRATA"" demo",general,1,tavily,True,,5
+3201450,SACRATA,"""SACRATA"" release date",general,1,tavily,True,,5
+3201450,SACRATA,"""SACRATA"" announcement",general,1,tavily,True,,5
+3201450,SACRATA,"""SACRATA"" preview",general,1,tavily,True,,5
+3201450,SACRATA,"""SACRATA"" review",general,1,tavily,True,,5
+3201450,SACRATA,"""SACRATA"" publisher",general,1,tavily,True,,5
+3201450,SACRATA,"""SACRATA"" developer",general,1,tavily,True,,5
+3201450,SACRATA,"site:pcgamer.com ""SACRATA""",press,2,tavily,False,General budget exhausted,0
+3201450,SACRATA,"site:rockpapershotgun.com ""SACRATA""",press,2,tavily,False,General budget exhausted,0
+3201450,SACRATA,"site:ign.com ""SACRATA""",press,2,tavily,False,General budget exhausted,0
+3201450,SACRATA,"site:gamespot.com ""SACRATA""",press,2,tavily,False,General budget exhausted,0
+3201450,SACRATA,"site:game8.co ""SACRATA""",press,2,tavily,False,General budget exhausted,0
+3201450,SACRATA,"site:reddit.com ""SACRATA""",social,3,tavily,True,,5
+3201450,SACRATA,"site:tiktok.com ""SACRATA""",social,4,tavily,True,,5
+3201450,SACRATA,"site:instagram.com ""SACRATA""",social,4,tavily,True,,5
+3201450,SACRATA,"site:x.com ""SACRATA""",social,4,tavily,True,,5
+3201450,SACRATA,"site: ""SACRATA""",social,4,tavily,True,,5
