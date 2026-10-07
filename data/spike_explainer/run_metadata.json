@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-10-07T05:28:01.893677+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261007_051910/rank_changes.csv",
-    "selected_appid": "4331110",
-    "selected_game_title": "O EMPIRE! WARD OFF THY ROT",
+    "started_at": "2026-10-07T18:52:25.468443+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261007_184321/rank_changes.csv",
+    "selected_appid": "4530370",
+    "selected_game_title": "Football Manager 27",
     "top_n": 1,
     "old_snapshot_date": "2026-10-04",
     "new_snapshot_date": "2026-10-07",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-07T05:28:01.893690+00:00",
+    "finished_at": "2026-10-07T18:52:25.468458+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

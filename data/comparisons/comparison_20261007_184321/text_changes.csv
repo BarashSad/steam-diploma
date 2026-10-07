@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5019180,Epic Seven,Epic Seven,882,879,3,3,up,none,Free,Free,False,2026,"Oct 29, 2026",True
+1798230,ATMOSFAR,ATMOSFAR,212,210,2,2,up,none,Free,Unpriced (Coming Soon),True,Coming soon,"Oct 29, 2026",True
+3816030,DayZ Badlands,DayZ Badlands,211,212,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Oct 15, 2026",True
+2638080,Annihilated,Annihilated,395,395,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q4 2026,"Nov 10, 2026",True
