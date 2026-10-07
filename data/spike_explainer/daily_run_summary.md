@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Football Manager 27
+Analyzed: O EMPIRE! WARD OFF THY ROT
 Tavily Budget Used: 15
 Errors: 0

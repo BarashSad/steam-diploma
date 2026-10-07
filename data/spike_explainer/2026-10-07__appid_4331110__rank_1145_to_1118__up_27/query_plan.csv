@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4331110,O EMPIRE! WARD OFF THY ROT,"""O EMPIRE! WARD OFF THY ROT"" Steam",general,1,tavily,True,,5
+4331110,O EMPIRE! WARD OFF THY ROT,"""O EMPIRE! WARD OFF THY ROT"" trailer",general,1,tavily,True,,5
+4331110,O EMPIRE! WARD OFF THY ROT,"""O EMPIRE! WARD OFF THY ROT"" gameplay",general,1,tavily,True,,5
+4331110,O EMPIRE! WARD OFF THY ROT,"""O EMPIRE! WARD OFF THY ROT"" demo",general,1,tavily,True,,5
+4331110,O EMPIRE! WARD OFF THY ROT,"""O EMPIRE! WARD OFF THY ROT"" release date",general,1,tavily,True,,5
+4331110,O EMPIRE! WARD OFF THY ROT,"""O EMPIRE! WARD OFF THY ROT"" announcement",general,1,tavily,True,,5
+4331110,O EMPIRE! WARD OFF THY ROT,"""O EMPIRE! WARD OFF THY ROT"" preview",general,1,tavily,True,,5
+4331110,O EMPIRE! WARD OFF THY ROT,"""O EMPIRE! WARD OFF THY ROT"" review",general,1,tavily,True,,5
+4331110,O EMPIRE! WARD OFF THY ROT,"""O EMPIRE! WARD OFF THY ROT"" publisher",general,1,tavily,True,,5
+4331110,O EMPIRE! WARD OFF THY ROT,"""O EMPIRE! WARD OFF THY ROT"" developer",general,1,tavily,True,,5
+4331110,O EMPIRE! WARD OFF THY ROT,"site:pcgamer.com ""O EMPIRE! WARD OFF THY ROT""",press,2,tavily,False,General budget exhausted,0
+4331110,O EMPIRE! WARD OFF THY ROT,"site:rockpapershotgun.com ""O EMPIRE! WARD OFF THY ROT""",press,2,tavily,False,General budget exhausted,0
+4331110,O EMPIRE! WARD OFF THY ROT,"site:ign.com ""O EMPIRE! WARD OFF THY ROT""",press,2,tavily,False,General budget exhausted,0
+4331110,O EMPIRE! WARD OFF THY ROT,"site:gamespot.com ""O EMPIRE! WARD OFF THY ROT""",press,2,tavily,False,General budget exhausted,0
+4331110,O EMPIRE! WARD OFF THY ROT,"site:game8.co ""O EMPIRE! WARD OFF THY ROT""",press,2,tavily,False,General budget exhausted,0
+4331110,O EMPIRE! WARD OFF THY ROT,"site:reddit.com ""O EMPIRE! WARD OFF THY ROT""",social,3,tavily,True,,5
+4331110,O EMPIRE! WARD OFF THY ROT,"site:tiktok.com ""O EMPIRE! WARD OFF THY ROT""",social,4,tavily,True,,5
+4331110,O EMPIRE! WARD OFF THY ROT,"site:instagram.com ""O EMPIRE! WARD OFF THY ROT""",social,4,tavily,True,,5
+4331110,O EMPIRE! WARD OFF THY ROT,"site:x.com ""O EMPIRE! WARD OFF THY ROT""",social,4,tavily,True,,5
+4331110,O EMPIRE! WARD OFF THY ROT,"site: ""O EMPIRE! WARD OFF THY ROT""",social,4,tavily,True,,5
