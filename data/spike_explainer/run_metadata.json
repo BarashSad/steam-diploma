@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-10-07T18:52:25.468443+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261007_184321/rank_changes.csv",
-    "selected_appid": "4530370",
-    "selected_game_title": "Football Manager 27",
+    "started_at": "2026-10-08T05:37:34.222746+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261008_052825/rank_changes.csv",
+    "selected_appid": "1924600",
+    "selected_game_title": "March of Giants",
     "top_n": 1,
-    "old_snapshot_date": "2026-10-04",
-    "new_snapshot_date": "2026-10-07",
+    "old_snapshot_date": "2026-10-05",
+    "new_snapshot_date": "2026-10-08",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-07T18:52:25.468458+00:00",
+    "finished_at": "2026-10-08T05:37:34.222757+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

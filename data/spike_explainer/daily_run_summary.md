@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Football Manager 27
+Analyzed: March of Giants
 Tavily Budget Used: 15
 Errors: 0
