@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-10-08T05:37:34.222746+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261008_052825/rank_changes.csv",
+    "started_at": "2026-10-08T18:52:33.092856+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261008_184150/rank_changes.csv",
     "selected_appid": "1924600",
     "selected_game_title": "March of Giants",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-08T05:37:34.222757+00:00",
+    "finished_at": "2026-10-08T18:52:33.092878+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-08T18:52:33.204243+00:00",
+    "timestamp": "20261008_185233",
+    "input_file": "data/spike_explainer/2026-10-08__appid_1924600__rank_777_to_707__up_70/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-08__appid_1924600__rank_777_to_707__up_70/llm_outputs/gemini_20261008_185233.md",
+    "game_title": "March of Giants",
+    "appid": "1924600",
+    "duration_sec": 18.96,
+    "response_length": 5258,
+    "error": null
+}
