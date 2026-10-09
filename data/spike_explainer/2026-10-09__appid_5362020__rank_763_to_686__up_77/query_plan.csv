@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5362020,Left! Left! LEFT!,"""Left! Left! LEFT!"" Steam",general,1,tavily,True,,5
+5362020,Left! Left! LEFT!,"""Left! Left! LEFT!"" trailer",general,1,tavily,True,,5
+5362020,Left! Left! LEFT!,"""Left! Left! LEFT!"" gameplay",general,1,tavily,True,,5
+5362020,Left! Left! LEFT!,"""Left! Left! LEFT!"" demo",general,1,tavily,True,,5
+5362020,Left! Left! LEFT!,"""Left! Left! LEFT!"" release date",general,1,tavily,True,,5
+5362020,Left! Left! LEFT!,"""Left! Left! LEFT!"" announcement",general,1,tavily,True,,5
+5362020,Left! Left! LEFT!,"""Left! Left! LEFT!"" preview",general,1,tavily,True,,5
+5362020,Left! Left! LEFT!,"""Left! Left! LEFT!"" review",general,1,tavily,True,,5
+5362020,Left! Left! LEFT!,"""Left! Left! LEFT!"" publisher",general,1,tavily,True,,5
+5362020,Left! Left! LEFT!,"""Left! Left! LEFT!"" developer",general,1,tavily,True,,5
+5362020,Left! Left! LEFT!,"site:pcgamer.com ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
+5362020,Left! Left! LEFT!,"site:rockpapershotgun.com ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
+5362020,Left! Left! LEFT!,"site:ign.com ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
+5362020,Left! Left! LEFT!,"site:gamespot.com ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
+5362020,Left! Left! LEFT!,"site:game8.co ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
+5362020,Left! Left! LEFT!,"site:reddit.com ""Left! Left! LEFT!""",social,3,tavily,True,,5
+5362020,Left! Left! LEFT!,"site:tiktok.com ""Left! Left! LEFT!""",social,4,tavily,True,,5
+5362020,Left! Left! LEFT!,"site:instagram.com ""Left! Left! LEFT!""",social,4,tavily,True,,5
+5362020,Left! Left! LEFT!,"site:x.com ""Left! Left! LEFT!""",social,4,tavily,True,,5
+5362020,Left! Left! LEFT!,"site: ""Left! Left! LEFT!""",social,4,tavily,True,,5

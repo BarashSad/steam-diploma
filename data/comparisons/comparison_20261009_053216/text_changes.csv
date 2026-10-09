@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2842310,Among Us Story: On Guard,Among Us Story: On Guard,791,780,11,11,up,none,Unpriced (Coming Soon),Free,True,To be announced,"Feb 17, 2027",True
+2640090,Arcane Eats,Arcane Eats,611,610,1,1,up,none,Free,Free,False,Q1 2027,2027,True
+3522600,Demon Bluff,Demon Bluff,260,260,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,October 2026,November 2026,True

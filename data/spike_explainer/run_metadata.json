@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-10-08T18:52:33.092856+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261008_184150/rank_changes.csv",
-    "selected_appid": "1924600",
-    "selected_game_title": "March of Giants",
+    "started_at": "2026-10-09T05:41:55.984339+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261009_053216/rank_changes.csv",
+    "selected_appid": "5362020",
+    "selected_game_title": "Left! Left! LEFT!",
     "top_n": 1,
-    "old_snapshot_date": "2026-10-05",
-    "new_snapshot_date": "2026-10-08",
+    "old_snapshot_date": "2026-10-06",
+    "new_snapshot_date": "2026-10-09",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-08T18:52:33.092878+00:00",
+    "finished_at": "2026-10-09T05:41:55.984352+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

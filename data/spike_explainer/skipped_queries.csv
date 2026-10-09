@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-1924600,March of Giants,"site:pcgamer.com ""March of Giants""",press,2,tavily,False,General budget exhausted,0
-1924600,March of Giants,"site:rockpapershotgun.com ""March of Giants""",press,2,tavily,False,General budget exhausted,0
-1924600,March of Giants,"site:ign.com ""March of Giants""",press,2,tavily,False,General budget exhausted,0
-1924600,March of Giants,"site:gamespot.com ""March of Giants""",press,2,tavily,False,General budget exhausted,0
-1924600,March of Giants,"site:game8.co ""March of Giants""",press,2,tavily,False,General budget exhausted,0
+5362020,Left! Left! LEFT!,"site:pcgamer.com ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
+5362020,Left! Left! LEFT!,"site:rockpapershotgun.com ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
+5362020,Left! Left! LEFT!,"site:ign.com ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
+5362020,Left! Left! LEFT!,"site:gamespot.com ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
+5362020,Left! Left! LEFT!,"site:game8.co ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
