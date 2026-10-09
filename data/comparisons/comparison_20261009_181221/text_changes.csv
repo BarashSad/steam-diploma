@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4661070,HANDS OVER,HANDS OVER,611,607,4,4,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Oct 30, 2026",True
+1727760,Mars Tactics,Mars Tactics,255,253,2,2,up,none,Unpriced (Coming Soon),Free,True,2026,2027,True
+1173980,Shadow of the Road,Shadow of the Road,164,163,1,1,up,none,Unpriced (Coming Soon),Free,True,"Nov 12, 2026","Mar 10, 2027",True
