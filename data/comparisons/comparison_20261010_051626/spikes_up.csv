@@ -1,0 +1,11 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+1619280,Machinarium 2,Machinarium 2,841,721,120,120,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+5362020,Left! Left! LEFT!,Left! Left! LEFT!,588,529,59,59,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+3432980,Ballistic.exe,Ballistic.exe,1001,946,55,55,up,upward_spike,Free,Free,False,2027,2027,False
+2561630,Moonfrost,Moonfrost,1028,996,32,32,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 12, 2026","12 Oct, 2026",True
+4278970,Bad Magpie,Bad Magpie,739,714,25,25,up,upward_spike,Free,Free,False,2027,2027,False
+1924600,March of Giants,March of Giants,652,629,23,23,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+3810510,DERELIKT,DERELIKT,1130,1107,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,2026,False
+4181850,LitGirls: Bookbound Dungeons,LitGirls: Bookbound Dungeons,871,849,22,22,up,upward_spike,Free,Free,False,2027,2027,False
+764930,Hubert,Hubert,877,856,21,21,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 12, 2026","12 Oct, 2026",True
+4067370,Prospice: Anomalous Logistics,Prospice: Anomalous Logistics,477,457,20,20,up,upward_spike,Free,Free,False,2027,2027,False

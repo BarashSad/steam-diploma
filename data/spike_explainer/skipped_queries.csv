@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-5362020,Left! Left! LEFT!,"site:pcgamer.com ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
-5362020,Left! Left! LEFT!,"site:rockpapershotgun.com ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
-5362020,Left! Left! LEFT!,"site:ign.com ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
-5362020,Left! Left! LEFT!,"site:gamespot.com ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
-5362020,Left! Left! LEFT!,"site:game8.co ""Left! Left! LEFT!""",press,2,tavily,False,General budget exhausted,0
+1619280,Machinarium 2,"site:pcgamer.com ""Machinarium 2""",press,2,tavily,False,General budget exhausted,0
+1619280,Machinarium 2,"site:rockpapershotgun.com ""Machinarium 2""",press,2,tavily,False,General budget exhausted,0
+1619280,Machinarium 2,"site:ign.com ""Machinarium 2""",press,2,tavily,False,General budget exhausted,0
+1619280,Machinarium 2,"site:gamespot.com ""Machinarium 2""",press,2,tavily,False,General budget exhausted,0
+1619280,Machinarium 2,"site:game8.co ""Machinarium 2""",press,2,tavily,False,General budget exhausted,0

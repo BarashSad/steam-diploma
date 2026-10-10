@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-10T05:25:26.826098+00:00",
+    "timestamp": "20261010_052526",
+    "input_file": "data/spike_explainer/2026-10-10__appid_1619280__rank_841_to_721__up_120/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-10__appid_1619280__rank_841_to_721__up_120/llm_outputs/gemini_20261010_052526.md",
+    "game_title": "Machinarium 2",
+    "appid": "1619280",
+    "duration_sec": 20.54,
+    "response_length": 5455,
+    "error": null
+}
