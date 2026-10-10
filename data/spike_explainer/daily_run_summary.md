@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Machinarium 2
+Analyzed: Heathen
 Tavily Budget Used: 15
 Errors: 0

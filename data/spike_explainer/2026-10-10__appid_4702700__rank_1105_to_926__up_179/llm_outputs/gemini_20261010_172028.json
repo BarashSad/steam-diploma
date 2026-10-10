@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-10T17:20:28.612307+00:00",
+    "timestamp": "20261010_172028",
+    "input_file": "data/spike_explainer/2026-10-10__appid_4702700__rank_1105_to_926__up_179/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-10__appid_4702700__rank_1105_to_926__up_179/llm_outputs/gemini_20261010_172028.md",
+    "game_title": "Heathen",
+    "appid": "4702700",
+    "duration_sec": 22.7,
+    "response_length": 6196,
+    "error": null
+}

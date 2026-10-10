@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-10-10T05:25:00.071716+00:00,1619280,Machinarium 2,data/spike_explainer/2026-10-10__appid_1619280__rank_841_to_721__up_120,120,85,data/spike_explainer/2026-10-10__appid_1619280__rank_841_to_721__up_120/llm_summary_input.md
+2026-10-10T17:20:05.721411+00:00,4702700,Heathen,data/spike_explainer/2026-10-10__appid_4702700__rank_1105_to_926__up_179,179,85,data/spike_explainer/2026-10-10__appid_4702700__rank_1105_to_926__up_179/llm_summary_input.md
