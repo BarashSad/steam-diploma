@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-10-11T05:16:28.941907+00:00,4702700,Heathen,data/spike_explainer/2026-10-11__appid_4702700__rank_926_to_824__up_102,102,85,data/spike_explainer/2026-10-11__appid_4702700__rank_926_to_824__up_102/llm_summary_input.md
+2026-10-11T17:44:20.950581+00:00,4045720,Squadron 42,data/spike_explainer/2026-10-11__appid_4045720__rank_489_to_386__up_103,103,85,data/spike_explainer/2026-10-11__appid_4045720__rank_489_to_386__up_103/llm_summary_input.md

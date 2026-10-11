@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-11T17:44:44.851331+00:00",
+    "timestamp": "20261011_174444",
+    "input_file": "data/spike_explainer/2026-10-11__appid_4045720__rank_489_to_386__up_103/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-11__appid_4045720__rank_489_to_386__up_103/llm_outputs/gemini_20261011_174444.md",
+    "game_title": "Squadron 42",
+    "appid": "4045720",
+    "duration_sec": 14.29,
+    "response_length": 5964,
+    "error": null
+}

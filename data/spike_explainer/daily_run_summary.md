@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Heathen
+Analyzed: Squadron 42
 Tavily Budget Used: 15
 Errors: 0
