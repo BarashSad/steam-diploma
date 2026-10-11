@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4702700,Heathen,"""Heathen"" Steam",general,1,tavily,True,,5
+4702700,Heathen,"""Heathen"" trailer",general,1,tavily,True,,5
+4702700,Heathen,"""Heathen"" gameplay",general,1,tavily,True,,5
+4702700,Heathen,"""Heathen"" demo",general,1,tavily,True,,5
+4702700,Heathen,"""Heathen"" release date",general,1,tavily,True,,5
+4702700,Heathen,"""Heathen"" announcement",general,1,tavily,True,,5
+4702700,Heathen,"""Heathen"" preview",general,1,tavily,True,,5
+4702700,Heathen,"""Heathen"" review",general,1,tavily,True,,5
+4702700,Heathen,"""Heathen"" publisher",general,1,tavily,True,,5
+4702700,Heathen,"""Heathen"" developer",general,1,tavily,True,,5
+4702700,Heathen,"site:pcgamer.com ""Heathen""",press,2,tavily,False,General budget exhausted,0
+4702700,Heathen,"site:rockpapershotgun.com ""Heathen""",press,2,tavily,False,General budget exhausted,0
+4702700,Heathen,"site:ign.com ""Heathen""",press,2,tavily,False,General budget exhausted,0
+4702700,Heathen,"site:gamespot.com ""Heathen""",press,2,tavily,False,General budget exhausted,0
+4702700,Heathen,"site:game8.co ""Heathen""",press,2,tavily,False,General budget exhausted,0
+4702700,Heathen,"site:reddit.com ""Heathen""",social,3,tavily,True,,5
+4702700,Heathen,"site:tiktok.com ""Heathen""",social,4,tavily,True,,5
+4702700,Heathen,"site:instagram.com ""Heathen""",social,4,tavily,True,,5
+4702700,Heathen,"site:x.com ""Heathen""",social,4,tavily,True,,5
+4702700,Heathen,"site: ""Heathen""",social,4,tavily,True,,5
