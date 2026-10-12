@@ -1,0 +1,15 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5201040,SNAPTIC,SNAPTIC,1053,973,80,80,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+764930,Hubert,Hubert,750,686,64,64,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 12, 2026","12 Oct, 2026",True
+4045720,Squadron 42,Squadron 42,386,326,60,60,up,upward_spike,Free,Free,False,Q2 2027,Q2 2027,False
+2561630,Moonfrost,Moonfrost,895,842,53,53,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 12, 2026","12 Oct, 2026",True
+4702700,Heathen,Heathen,727,677,50,50,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4049180,Disney/Pixar Toy Story 3 Complete Edition,Disney/Pixar Toy Story 3 Complete Edition,387,359,28,28,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 15, 2026","15 Oct, 2026",True
+3810510,DERELIKT,DERELIKT,1023,997,26,26,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,2026,False
+4024440,Haunted Heist,Haunted Heist,912,888,24,24,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 12, 2026","12 Oct, 2026",True
+3743140,Battleplan,Battleplan,531,508,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 12, 2026","12 Oct, 2026",True
+3432980,Ballistic.exe,Ballistic.exe,837,815,22,22,up,upward_spike,Free,Free,False,2027,2027,False
+1619280,Machinarium 2,Machinarium 2,566,546,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4049170,Disney/Pixar Toy Story: Retro Roundup!,Disney/Pixar Toy Story: Retro Roundup!,856,836,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 15, 2026","15 Oct, 2026",True
+3962420,Futa Slug EX,Futa Slug EX,924,904,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 16, 2026","16 Oct, 2026",True
+4516190,"My Beautiful Faraway, Please Don't Be Cruel To Me","My Beautiful Faraway, Please Don't Be Cruel To Me",1113,1093,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 13, 2026","13 Oct, 2026",True

@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5201040,SNAPTIC,"""SNAPTIC"" Steam",general,1,tavily,True,,5
+5201040,SNAPTIC,"""SNAPTIC"" trailer",general,1,tavily,True,,5
+5201040,SNAPTIC,"""SNAPTIC"" gameplay",general,1,tavily,True,,5
+5201040,SNAPTIC,"""SNAPTIC"" demo",general,1,tavily,True,,5
+5201040,SNAPTIC,"""SNAPTIC"" release date",general,1,tavily,True,,5
+5201040,SNAPTIC,"""SNAPTIC"" announcement",general,1,tavily,True,,5
+5201040,SNAPTIC,"""SNAPTIC"" preview",general,1,tavily,True,,5
+5201040,SNAPTIC,"""SNAPTIC"" review",general,1,tavily,True,,5
+5201040,SNAPTIC,"""SNAPTIC"" publisher",general,1,tavily,True,,5
+5201040,SNAPTIC,"""SNAPTIC"" developer",general,1,tavily,True,,5
+5201040,SNAPTIC,"site:pcgamer.com ""SNAPTIC""",press,2,tavily,False,General budget exhausted,0
+5201040,SNAPTIC,"site:rockpapershotgun.com ""SNAPTIC""",press,2,tavily,False,General budget exhausted,0
+5201040,SNAPTIC,"site:ign.com ""SNAPTIC""",press,2,tavily,False,General budget exhausted,0
+5201040,SNAPTIC,"site:gamespot.com ""SNAPTIC""",press,2,tavily,False,General budget exhausted,0
+5201040,SNAPTIC,"site:game8.co ""SNAPTIC""",press,2,tavily,False,General budget exhausted,0
+5201040,SNAPTIC,"site:reddit.com ""SNAPTIC""",social,3,tavily,True,,5
+5201040,SNAPTIC,"site:tiktok.com ""SNAPTIC""",social,4,tavily,True,,5
+5201040,SNAPTIC,"site:instagram.com ""SNAPTIC""",social,4,tavily,True,,5
+5201040,SNAPTIC,"site:x.com ""SNAPTIC""",social,4,tavily,True,,5
+5201040,SNAPTIC,"site: ""SNAPTIC""",social,4,tavily,True,,5

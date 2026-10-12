@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-10-11T17:44:20.950581+00:00,4045720,Squadron 42,data/spike_explainer/2026-10-11__appid_4045720__rank_489_to_386__up_103,103,85,data/spike_explainer/2026-10-11__appid_4045720__rank_489_to_386__up_103/llm_summary_input.md
+2026-10-12T05:29:51.674656+00:00,5201040,SNAPTIC,data/spike_explainer/2026-10-12__appid_5201040__rank_1053_to_973__up_80,80,85,data/spike_explainer/2026-10-12__appid_5201040__rank_1053_to_973__up_80/llm_summary_input.md

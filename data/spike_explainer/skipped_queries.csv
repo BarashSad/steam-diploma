@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-4045720,Squadron 42,"site:pcgamer.com ""Squadron 42""",press,2,tavily,False,General budget exhausted,0
-4045720,Squadron 42,"site:rockpapershotgun.com ""Squadron 42""",press,2,tavily,False,General budget exhausted,0
-4045720,Squadron 42,"site:ign.com ""Squadron 42""",press,2,tavily,False,General budget exhausted,0
-4045720,Squadron 42,"site:gamespot.com ""Squadron 42""",press,2,tavily,False,General budget exhausted,0
-4045720,Squadron 42,"site:game8.co ""Squadron 42""",press,2,tavily,False,General budget exhausted,0
+5201040,SNAPTIC,"site:pcgamer.com ""SNAPTIC""",press,2,tavily,False,General budget exhausted,0
+5201040,SNAPTIC,"site:rockpapershotgun.com ""SNAPTIC""",press,2,tavily,False,General budget exhausted,0
+5201040,SNAPTIC,"site:ign.com ""SNAPTIC""",press,2,tavily,False,General budget exhausted,0
+5201040,SNAPTIC,"site:gamespot.com ""SNAPTIC""",press,2,tavily,False,General budget exhausted,0
+5201040,SNAPTIC,"site:game8.co ""SNAPTIC""",press,2,tavily,False,General budget exhausted,0
