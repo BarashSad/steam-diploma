@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+764930,Hubert,"""Hubert"" Steam",general,1,tavily,True,,5
+764930,Hubert,"""Hubert"" trailer",general,1,tavily,True,,5
+764930,Hubert,"""Hubert"" gameplay",general,1,tavily,True,,5
+764930,Hubert,"""Hubert"" demo",general,1,tavily,True,,5
+764930,Hubert,"""Hubert"" release date",general,1,tavily,True,,5
+764930,Hubert,"""Hubert"" announcement",general,1,tavily,True,,5
+764930,Hubert,"""Hubert"" preview",general,1,tavily,True,,5
+764930,Hubert,"""Hubert"" review",general,1,tavily,True,,5
+764930,Hubert,"""Hubert"" publisher",general,1,tavily,True,,5
+764930,Hubert,"""Hubert"" developer",general,1,tavily,True,,5
+764930,Hubert,"site:pcgamer.com ""Hubert""",press,2,tavily,False,General budget exhausted,0
+764930,Hubert,"site:rockpapershotgun.com ""Hubert""",press,2,tavily,False,General budget exhausted,0
+764930,Hubert,"site:ign.com ""Hubert""",press,2,tavily,False,General budget exhausted,0
+764930,Hubert,"site:gamespot.com ""Hubert""",press,2,tavily,False,General budget exhausted,0
+764930,Hubert,"site:game8.co ""Hubert""",press,2,tavily,False,General budget exhausted,0
+764930,Hubert,"site:reddit.com ""Hubert""",social,3,tavily,True,,5
+764930,Hubert,"site:tiktok.com ""Hubert""",social,4,tavily,True,,5
+764930,Hubert,"site:instagram.com ""Hubert""",social,4,tavily,True,,5
+764930,Hubert,"site:x.com ""Hubert""",social,4,tavily,True,,5
+764930,Hubert,"site: ""Hubert""",social,4,tavily,True,,5

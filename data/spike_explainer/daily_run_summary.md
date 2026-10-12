@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: SNAPTIC
+Analyzed: Hubert
 Tavily Budget Used: 15
 Errors: 0

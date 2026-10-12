@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-12T21:17:16.987356+00:00",
+    "timestamp": "20261012_211716",
+    "input_file": "data/spike_explainer/2026-10-12__appid_764930__rank_686_to_634__up_52/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-12__appid_764930__rank_686_to_634__up_52/llm_outputs/gemini_20261012_211716.md",
+    "game_title": "Hubert",
+    "appid": "764930",
+    "duration_sec": 19.54,
+    "response_length": 5385,
+    "error": null
+}

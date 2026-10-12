@@ -1,0 +1,41 @@
+{
+    "appid": "764930",
+    "game_title": "Hubert",
+    "safe_slug": "hubert",
+    "analysis_date_utc": "2026-10-12T21:16:52.780983+00:00",
+    "spike_window_start": "2026-10-09T00:00:00+00:00",
+    "spike_window_end": "2026-10-12T00:00:00+00:00",
+    "extended_window_start": "2026-08-25T00:00:00+00:00",
+    "extended_window_end": "2026-10-15T00:00:00+00:00",
+    "dt_start": "2026-10-09 00:00:00+00:00",
+    "dt_end": "2026-10-12 00:00:00+00:00",
+    "ext_start": "2026-08-25 00:00:00+00:00",
+    "ext_end": "2026-10-15 00:00:00+00:00",
+    "window_inferred_fallback": false,
+    "prev_rank": 686,
+    "curr_rank": 634,
+    "rank_delta": 52,
+    "movement_score": 0,
+    "is_new_entry": false,
+    "changed_fields_detected": [
+        "price",
+        "release_date"
+    ],
+    "input_diff_row": {
+        "appid": 764930,
+        "title_old": "Hubert",
+        "curr_title": "Hubert",
+        "prev_rank": 686,
+        "curr_rank": 634,
+        "rank_delta": 52,
+        "abs_rank_delta": 52,
+        "movement_type": "up",
+        "spike_type": "upward_spike",
+        "price_text_old": "Unpriced (Coming Soon)",
+        "price_text_new": "Free",
+        "price_changed": true,
+        "release_text_old": "12 Oct, 2026",
+        "release_text_new": "Coming soon",
+        "release_changed": true
+    }
+}

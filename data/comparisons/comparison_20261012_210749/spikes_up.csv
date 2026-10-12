@@ -1,0 +1,15 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+764930,Hubert,Hubert,686,634,52,52,up,upward_spike,Unpriced (Coming Soon),Free,True,"12 Oct, 2026",Coming soon,True
+5246700,Defilade,Defilade,396,352,44,44,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4702700,Heathen,Heathen,677,636,41,41,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+5201040,SNAPTIC,SNAPTIC,973,933,40,40,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4045720,Squadron 42,Squadron 42,326,291,35,35,up,upward_spike,Free,Free,False,Q2 2027,Q2 2027,False
+3530630,Bless You Again,Bless You Again,1111,1081,30,30,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,2026,False
+1619280,Machinarium 2,Machinarium 2,546,517,29,29,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4049180,Disney/Pixar Toy Story 3 Complete Edition,Disney/Pixar Toy Story 3 Complete Edition,359,331,28,28,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"15 Oct, 2026","Oct 15, 2026",True
+4530370,Football Manager 27,Football Manager 27,594,569,25,25,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"10 Nov, 2026","Nov 10, 2026",True
+3845070,Dupery: A Game of Solo Deduction,Dupery: A Game of Solo Deduction,851,828,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"15 Oct, 2026","Oct 15, 2026",True
+5072430,Ghost in the SQL Data,Ghost in the SQL Data,1028,1007,21,21,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"29 Oct, 2026","Oct 29, 2026",True
+3432980,Ballistic.exe,Ballistic.exe,815,795,20,20,up,upward_spike,Free,Free,False,2027,2027,False
+4049170,Disney/Pixar Toy Story: Retro Roundup!,Disney/Pixar Toy Story: Retro Roundup!,836,816,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"15 Oct, 2026","Oct 15, 2026",True
+2688780,Odd Town,Odd Town,944,924,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"15 Oct, 2026","Oct 15, 2026",True
