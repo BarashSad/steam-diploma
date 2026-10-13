@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-10-12T21:17:16.875388+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261012_210749/rank_changes.csv",
-    "selected_appid": "764930",
-    "selected_game_title": "Hubert",
+    "started_at": "2026-10-13T06:28:25.998598+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261013_061921/rank_changes.csv",
+    "selected_appid": "5201040",
+    "selected_game_title": "SNAPTIC",
     "top_n": 1,
-    "old_snapshot_date": "2026-10-09",
-    "new_snapshot_date": "2026-10-12",
+    "old_snapshot_date": "2026-10-10",
+    "new_snapshot_date": "2026-10-13",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-12T21:17:16.875405+00:00",
+    "finished_at": "2026-10-13T06:28:25.998614+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

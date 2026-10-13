@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-13T06:28:26.108185+00:00",
+    "timestamp": "20261013_062826",
+    "input_file": "data/spike_explainer/2026-10-13__appid_5201040__rank_933_to_905__up_28/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-13__appid_5201040__rank_933_to_905__up_28/llm_outputs/gemini_20261013_062826.md",
+    "game_title": "SNAPTIC",
+    "appid": "5201040",
+    "duration_sec": 23.11,
+    "response_length": 7165,
+    "error": null
+}
