@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-10-13T06:28:25.998598+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261013_061921/rank_changes.csv",
-    "selected_appid": "5201040",
-    "selected_game_title": "SNAPTIC",
+    "started_at": "2026-10-13T19:15:35.168573+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261013_190630/rank_changes.csv",
+    "selected_appid": "3530630",
+    "selected_game_title": "Bless You Again",
     "top_n": 1,
     "old_snapshot_date": "2026-10-10",
     "new_snapshot_date": "2026-10-13",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-13T06:28:25.998614+00:00",
+    "finished_at": "2026-10-13T19:15:35.168585+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

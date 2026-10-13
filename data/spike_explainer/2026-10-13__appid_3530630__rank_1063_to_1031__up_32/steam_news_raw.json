@@ -1,0 +1,128 @@
+{
+    "appnews": {
+        "appid": 3530630,
+        "newsitems": [
+            {
+                "gid": "1846018067940867",
+                "title": "Bless You Again Demo Now Available",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067940867",
+                "is_external_url": true,
+                "author": "Gulitu",
+                "contents": "Bless You Again Demo Now Available on Steam The Bless You Again demo is now available on Steam. You can download it for free from the store page below. Demo store page:What's in the Demo The demo includes the prologue of the story and the first dungeon, the Ruins of the Stone Seekers. \u2022 Freely explore the Ruins of the Stone Seekers, the first of the five dungeons in the full game \u2022 Fight as Lily, the protagonist, together with the spirit Yoru \u2022 Try the core systems: Blessings, Skills, and combat builds \u2022 Keep exploring the dungeon after clearing the prologue The cutscenes included here make up about 5% of the full game's main story cutscenes, and the gameplay covers about 30% of the full game's systems. Lily's fate, the stories of the four spirits, and the characters and secrets we haven't revealed yet are waiting for you in the full game. Please Leave a ReviewAfter playing, we'd love to hear what you think in a review on the demo's store page.Whether it's what you enjoyed or what bothered you, your feedback will help us shape the full game. About the Full GameThe full game will add more characters, dungeons, Skills, and Blessings, and expand the existing systems. A first playthrough of the main story is expected to take around 8 to 10 hours, and the game features full Japanese voice acting. Please also add the full game to your wishlist. Notes\u2022 Demo save data will not carry over to the full game \u2022 Supported languages: Japanese, English, Simplified Chinese, Traditional Chinese, Korean, Russian, Spanish \u2022 See the store page for system requirements \u2022 Bug fixes and adjustments will be made through demo updates Bug Reports and Detailed Feedback If you run into bugs, or have detailed feedback or suggestions that won't fit in a review, you can also reach us here.\u2022 Feedback survey: https://forms.gle/6xEV4oPoNZZ7AJ6X8 \u2022 Discord community: https://discord.gg/DQjGMXSv3D \u2022 Steam Discussions (pinned threads for bug reports and for feedback and suggestions): https://steamcommunity.com/app/3530630/discussions/ Follow Us on X and Discord for the Latest News Official X: https://x.com/projectlilyBYA Discord: https://discord.gg/DQjGMXSv3DThank you for playing Bless You Again!",
+                "feedlabel": "Community Announcements",
+                "date": 1791810059,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3530630,
+                "tags": [
+                    "workshop",
+                    "ModAct_1847323374_1791814055_2_31",
+                    "mod_reviewed",
+                    "ModAct_1847323374_1791814058_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1845383656396183",
+                "title": "Bless You Again Demo Planned for Next Week!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656396183",
+                "is_external_url": true,
+                "author": "Gulitu",
+                "contents": "We're planning to release the Bless You Again demo next week!In this demo, you can experience the prologue, featuring roughly 5% of the full game's total main-story cutscene content.In terms of gameplay, the demo lets you experience roughly 30% of what the full game's gameplay systems have to offer.You'll be able to:Freely explore the first of the full game's five dungeonsFight as two playable characters, Lily and YoruExperience core gameplay features, including blessings, skills, and combat buildsContinue exploring the dungeon and enjoying the demo's content after completing the prologueThe full game will introduce more characters, dungeons, skills, and blessings, along with expanded features for the existing systems.A first playthrough of the main story in the full version of Bless You Again is expected to take approximately 8\u201310 hours. The game will also feature full Japanese voice acting.The demo shows only a small part of the world of Bless You Again.Lily's fate, the stories of four spirits, and characters and secrets yet to be revealed are all waiting for you.",
+                "feedlabel": "Community Announcements",
+                "date": 1791288020,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3530630
+            },
+            {
+                "gid": "1831432155572921",
+                "title": "Playtest Version Updated",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155572921",
+                "is_external_url": true,
+                "author": "Gino",
+                "contents": "Hi everyone! Thanks for all your support!We\u2019ve just pushed some fixes for the ongoing Playtest:Fixed: Camera tilting issues caused by the forced camera movement when defeating enemies.Fixed: A bug that caused the game to soft-lock if the player was defeated during an aerial attack.Fixed: Barrels and treasure chests being targeted by the lock-on system.Updated: Tutorial images.A quick reminder that the Playtest runs until May 5th. Don\u2019t miss out!",
+                "feedlabel": "Community Announcements",
+                "date": 1777687567,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3530630,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1830797770238173",
+                "title": "[Limited Time] The 2nd Playtest is now open!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770238173",
+                "is_external_url": true,
+                "author": "Gino",
+                "contents": "First of all, thank you very much for your interest in Bless You Again!We received a lot of enthusiastic feedback from everyone during the first Playtest\u2014thank you so much!Starting from April 20, we will be launching the second Steam Playtest. The purpose of this test is to collect feedback on issues that may affect the experience of future versions of the game. (Available until May 5)Click here to join the Playtest! The Playtest is open to everyone!If you have any suggestions or encounter bugs, please fill out the survey below or join our community group. Let\u2019s witness Lily\u2019s adventure together!Discord:https://discord.gg/3kGNC4qESurvey:https://forms.gle/ZYBeagqjgmRvWN6s7\\ This Playtest version does not include the official story content (ADV section). \\ The current test content does not represent the final demo or release quality and is still under development and adjustment.Finally, thank you again to everyone who supports us! We truly look forward to your feedback!",
+                "feedlabel": "Community Announcements",
+                "date": 1777107922,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3530630
+            },
+            {
+                "gid": "1821288646576081",
+                "title": "Limited-time Alpha Playtest starts now!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821288646576081",
+                "is_external_url": true,
+                "author": "Gino",
+                "contents": "Limited-Time Playtest Now Live!Thanks so much for taking an interest in our new game, \u201cBless You Again.\u201dJanuary 5, we\u2019re running a Steam Playtest to collect your feedback and impressions on the current prototype build.You can play it until January 31!Join the playtest from the Steam store page!We\u2019re not a veteran team with a long track record. That\u2019s exactly why feedback from people who actually play the game means the world to us.(Share your feedback via this link.)The game is still in the early stages of development, but we\u2019d be really grateful if you could give it a try and share your honest thoughts.How to PlayIn this game, you explore each stage while aiming to reach higher and higher floors. The basic flow goes like this:Explore the stage \u2192 Power up through level-ups and treasure chests \u2192 Head to the next floor!As you progress, you\u2019ll come across different objects along the way:Treasure Chests: If you find one while exploring, you can open it on the spot to claim your rewards.Green Effect: This means HP recovery\u2014just walk near it to heal.Door to the Next Floor: At the end of each stage, a door labeled \u201cNEXT\u201d will appear. Enter it to move on to the next floor.In this test build, there are 10 floors in total. Aim for the top and see how far you can make it!Checking the ControlsIf you want to review the controls, you can check them anytime with the steps below:\u2460 Press ESC (keyboard) or the Options button (controller) to open the pause menu.\u2461 Click \u201cTutorial\u201d in the menu.From there, you can view all controls for movement, combat, skills, and more. You don\u2019t need to memorize everything\u2014feel free to check whenever you need and enjoy exploring at your own pace!Notes \u30fbFairy Mode can\u2019t be used until the gauge is fully charged.\u2514 While in Fairy Mode, your Physical Attack and Magic Attack are boosted.\u30fbThere is no parry right now. (We haven\u2019t decided what we\u2019ll do in the future yet\u2026)\u30fbIf you successfully perform a Perfect Dodge, you\u2019ll recover MP.\u30fbThis demo does not include the story part.We\u2019d Love Your Feedback!If you played the test and can share your thoughts or anything you\u2019d like to see fixed, please let us know through this link.The game is still very much in development, so we believe we can reflect your feedback in the full release.We\u2019d really appreciate your honest opinions\u2014thank you!",
+                "feedlabel": "Community Announcements",
+                "date": 1767769490,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3530630
+            },
+            {
+                "gid": "1803527891760061",
+                "title": "Crowdfunding Completed \u2013 Thank You!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1803527891760061",
+                "is_external_url": true,
+                "author": "kyo",
+                "contents": "\u3010Crowdfunding Completed \u2013 Thank You!\u3011Our crowdfunding campaign for Bless You Again has officially ended on June 30th!Thanks to incredible support from our Japanese community, we successfully raised over $68,000.Please note that the campaign was limited to residents of Japan, so unfortunately international fans were not able to contribute directly.However, your interest and encouragement from around the world mean a great deal to us.We\u2019re truly grateful to everyone supporting Bless You Again!The development team will now be working full speed ahead to deliver the best experience possible.We\u2019ll continue to share updates here and on our X (formerly Twitter) account:Official X (Twitter): https://x.com/projectlilyBYAThank you again, and please look forward to more!",
+                "feedlabel": "Community Announcements",
+                "date": 1751611226,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3530630,
+                "tags": [
+                    "workshop"
+                ]
+            },
+            {
+                "gid": "1802354289591538",
+                "title": "Full Voice Acting Achieved & Onward to Costume Additions!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289591538",
+                "is_external_url": true,
+                "author": "kyo",
+                "contents": "We\u2019re sorry, but this crowdfunding campaign is only available within Japan.\\There are only 18 days left in our current crowdfunding campaign!Thanks to your incredible support, we've surpassed 5 million yen in funding \u2014 and full voice acting has officially been confirmed!Thank you so much!Our next stretch goals are:At 7.5 million yen: A new dungeon will be addedAt 10 million yen: New character costumes will be addedWe\u2019re aiming to make the game even more fun and fulfilling to play!In addition, we\u2019re planning to release an exclusive demo for backers in July! It\u2019s your chance to be among the first to try the game \u2014 so please consider supporting us while there\u2019s still time!\u25bc Crowdfunding campaign page \ud83d\udc49 https://camp-fire.jp/projects/837148/view?utm_campaign=cp_po_share_c_msg_mypage_projects_showWe also post more frequent updates on X (formerly Twitter), so be sure to check it out: \ud83d\udc49 https://x.com/projectlilyBYA",
+                "feedlabel": "Community Announcements",
+                "date": 1749808828,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3530630
+            },
+            {
+                "gid": "1798454487726592",
+                "title": "Our first gameplay footage is now live!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1798454487726592",
+                "is_external_url": true,
+                "author": "kyo",
+                "contents": "On May 4th, we showcased our prototype at an indie game event in Japan and had players try out the early demo. https://x.com/projectlilyBYA/status/1918591363253227540 {STEAM_CLAN_IMAGE}/45525318/bf6f493253c9e967849aa54a9fce13f27e691f97.png In this version, they could: \u30fbView the character \u30fbUse melee attacks \u30fbUse magic attacks \u30fbMove and jump That\u2019s it for now \u2014 it's still an early prototype, not yet fully functional. Even so, we received tons of valuable feedback, and the experience was incredibly helpful! Today, we'd also like to share the current development roadmap that we presented during the event: By June 20: \u2192 Complete a full prototype (with placeholder assets) By September 30: \u2192 Complete a playable demo for Steam Next Fest Here\u2019s what we plan to include in the prototype by June 20: \u30fbUpgrade system \u30fbAerial attacks \u30fbMachine gun-style magic \u30fbGrenade-style magic \u30fbFour elemental magic types \u30fbShift into fire/water/wind/ground mode * \u30fbBoss battle \u30fbPuzzle mechanics \u30fbImproved enemy AI *{STEAM_CLAN_IMAGE}/45525318/4d62e44c1dbf61b0927f651b6bdfa409202c5c68.png We\u2019ll continue development in this direction, and we also plan to post here more frequently. Thanks for your continued support!",
+                "feedlabel": "Community Announcements",
+                "date": 1746436757,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3530630,
+                "tags": [
+                    "workshop"
+                ]
+            }
+        ],
+        "count": 8
+    }
+}

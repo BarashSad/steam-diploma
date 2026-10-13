@@ -1,0 +1,8 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2702430,Usual June,Usual June,841,835,6,6,up,none,Free,Free,False,2027,"Jan 20, 2027",True
+3296060,Escape Academy 2: Back 2 School,Escape Academy 2: Back 2 School,842,837,5,5,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,November 2026,"Nov 5, 2026",True
+2738170,Edge of Memories,Edge of Memories,405,401,4,4,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 5, 2026","Dec 3, 2026",True
+3245640,Starfinder: Afterlight,Starfinder: Afterlight,492,488,4,4,up,none,Unpriced (Coming Soon),Free,True,2026,Q1 2027,True
+1209970,Blind Descent,Blind Descent,161,158,3,3,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Dec 2, 2026",True
+2764530,Purble Place 3D,Purble Place 3D,412,409,3,3,up,none,Free,Unpriced (Coming Soon),True,Coming soon,2026,True
+2590240,METRO 2039,METRO 2039,15,15,0,0,stable,none,Free,$69.99,True,"Feb 4, 2027","Feb 4, 2027",False
