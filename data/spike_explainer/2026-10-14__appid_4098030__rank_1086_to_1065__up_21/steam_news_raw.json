@@ -1,0 +1,162 @@
+{
+    "appnews": {
+        "appid": 4098030,
+        "newsitems": [
+            {
+                "gid": "1846018067926071",
+                "title": "DEV DIARY: How We Built Cranelock and Rebuilt Almost the Entire City",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067926071",
+                "is_external_url": true,
+                "author": "milkshake",
+                "contents": "Hi everyone! We\u2019re back with another Dev Diary, and this time we\u2019re taking a closer look at Cranelock: how the city changed during development, why we rebuilt so much of it, and how we found its final look and structure.And before we get into it, if you\u2019d like to follow development more closely, share your thoughts, or chat with other players, you can join us on Discord: https://discord.gg/GgpWJ6xFuaNow, let\u2019s take a look at how Cranelock became the city it is today!Cranelock is now a compact coastal city where most important locations are only a short drive away. It wasn't always like this.During development, we changed the size of the map, the road network, the city's height relative to the water, the location of the player's warehouse, and even our approach to progression through the city. By the end, around 90% of the city had been rebuilt from the first blockout.First came the idea of CranelockFrom the start, we looked at recognizable American cities, especially San Francisco, with some influence from Chicago and New York.Before level design work started, we already had a visual concept and a modular kit for Cranelock. The artists studied real American streets and looked for the details that would help the city feel right.Then we started building the map itself.Blockout first, beauty laterFrom a level design perspective, it all started with a blockout. At first, there were very few hard constraints. We were building the city while prototyping the main mechanics, so there was plenty of room to experiment. Limits on the map size and warehouse location came much later.Once the core mechanics were clearer, three requirements became obvious: the city had to be compact, easy to navigate, and comfortable to drive around. The map itself was not the only thing changing. The city used to be retrofuturisticIn one of the earliest concepts, the city had a retrofuturistic look.As the narrative took shape, that style stopped fitting the world. We stopped trying to imagine the future through the aesthetics of the past and looked at the present instead.We looked back at ten years of technological change and tried to imagine how another ten years might affect everyday life.Cranelock gradually moved into a near-future setting. Its structure changed along with the visual direction.From the Ghetto to the Business CenterOne early version of the map split the city into four large areas: the Ghetto, the Industrial Zone, the Business Center, and the Fancy District. The division affected much more than the map itself. Each district was meant to have its own architecture, color palette, types of businesses, and even potentially its own products and customers.The Industrial Zone focused on manufacturing and working-class neighborhoods. The Business Center was built around more expensive city infrastructure, while the Fancy District focused on public and cultural spaces.Even at that stage, we designed the city around deliveries. It wasn't enough to decide what belonged in each district. We also needed a reason for the player to go there.The plan was to unlock the districts one by one as the player progressed. We eventually dropped that idea.The game is not really about the cityTesting gradually showed that our game wasn't about a huge open world.And it wasn't really about driving either.The warehouse is the player's main base. A large part of the core gameplay loop happens there. The city should add to that loop with new customers, places, and situations without making the player spend too much time on the road. The large map was starting to work against that.Unlocking the four districts one by one created another problem. We would have needed to explain why the player could drive down one street but not turn onto the next.We didn't want invisible walls or artificial restrictions just to make progression work.So we started shrinking the city.Scale stopped being a goal in itself. We wanted the city compact enough that the player could head out on an errand and get back to the warehouse fairly quickly. Letting go of the old cityWhole blocks and roads changed during development. So did the map scale, the warehouse location, and even the city's height relative to the water.Very little of the original blockout is still there.Cranelock taught us one important thing: don't get too attached to what you've already built. If something no longer works for the game, we have to change it, even after we've spent a lot of time on it.Cranelock started as a retrofuturistic city divided fairly strictly into four districts. Today it's a compact near-future city, and its layout is shaped largely by how the player uses it.We made the map smaller.But Cranelock itself ended up feeling much more like a real city.From a Small Shop to a Yacht Club: How Cranelock's Points of Interest GrewEarly in development, most of the city's points of interest were fairly modest.A pharmacy. A barbershop. A bar. A fishing supply store. A motel. A home goods store. A small...",
+                "feedlabel": "Community Announcements",
+                "date": 1791378578,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4098030
+            },
+            {
+                "gid": "1844751498219405",
+                "title": "DEV DIARY: Building Robots That Belong in the Warehouse",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219405",
+                "is_external_url": true,
+                "author": "milkshake",
+                "contents": "A good automation system should do more than save a few clicks. It should arrive at the moment a familiar task starts competing with something new, then quietly reshape the way the player runs the warehouse.Character concept exploration from the world of Shipping Store Simulator 2037That principle guided our robots, their breakdowns, and even the features we eventually left behind. AUTOMATION AND PROGRESSIONHelp arrives right on timeThe demo introduces two assistants: the Customer Service Robot and the Loader. We deliberately do not hand them to the player at the start. Each appears only after a once-new mechanic has become familiar enough to demand too much attention.The Customer Service Robot joins when the player has learned the rhythm of serving visitors and the queue begins to grow. VIP orders arrive at the same time, so standing behind the counter all day is no longer an option. The robot can take over that routine: it accepts orders, packs them into branded bags, and hands them to customers.The Loader follows the same philosophy. Early deliveries are small enough that unloading boxes is a meaningful part of warehouse work. Later, the player spends more time running errands around the city. That is exactly when the Loader becomes useful: it keeps the entrance clear while the player is away, rather than leaving a mountain of untouched deliveries at the gate.For us, the robots are not simply a path to full automation. Each one removes a routine the player has already mastered at the exact moment the game is ready to introduce a new layer of work. The wider robot family is built around distinct jobs rather than cosmetic variation And the family is growing. On October 14, players will meet five new robots, each with a unique function designed to help with new mechanics and the next stage of business growth. Early exploration of a helper model across different proportions and levels of detail MAINTENANCE SYSTEMSWear tear and the occasional fireEvery robot and every piece of warehouse equipment has a hidden durability value with a maximum of 100. Each use reduces that value, and the rate of wear depends on the machine.For example, the manual labeling machine is designed for 50 uses at full durability, so every use removes 2 points. The automated labeling machines unlocked after expanding the warehouse wear down more slowly. Equipment and robots share the same durability logic behind the scenes As durability drops, machinery and robots begin to work more slowly. Ignore a robot for too long, however, and the result becomes much more visible: it catches fire, panics, and runs around the warehouse. At that point, a normal repair is no longer enough. First, you have to catch the poor thing with a fire extinguisher. Critical condition is intentionally dramatic and a little chaoticRepairs use a repair kit. It can be applied to any machine or robot below 100 durability, and a single kit restores it to full condition regardless of how badly it has worn down.A repair kit restores a worn machine or robot to full durabilityWork\u00a0\u2192\u00a0gradual wear\u00a0\u2192\u00a0slower performance\u00a0\u2192\u00a0critical condition\u00a0\u2192\u00a0repair\u00a0\u2192\u00a0full recoveryOne release secret remains. Observant players will discover a second, bonus use for the repair kit on certain robots. ART DIRECTION AND WORLDBUILDINGDesigning a robot for CranelockWriters sometimes build a complete biography for a character: where they grew up, who their parents were, what they fear, and what happened before the story began. The reader may never learn most of it, but that background helps the writer make consistent choices.We took a similar approach with the robots. Instead of writing biographies, we defined the context in which they exist. Can you walk into a shop and buy one? Is it normal to see a robot on the street? What sits underneath its outer shell?Cranelock already contained the answers. Robots are sold in city stores. Delivery drones move calmly over the streets. Competitors use their own machines in advertising campaigns. The technology is so ordinary that a robot can stand in a queue among people and nobody gives it a second look.Customer facing forms became a study in approachability without turning the robot into a toyThat context became the model\u2019s \u201cbiography\u201d and gave the art team useful boundaries. A robot should not look like an experimental prototype from a secret laboratory, but it should not feel like something welded together in the garage next door either.Too much polished metal, neon lighting, and spotless surfacing pushes the design into distant science fiction. Too much dirt, exposed welding, and rough construction makes the technology feel rare and improvised. We were aiming for something from the near future: modern and friendly, but still practical and believable. The arms and heavy rotating waist were designed around the physical work of handling boxes We were equally careful not to overdo the \u201ccozy\u201d side. The robots were never meant to be cute or toy-like simply to win...",
+                "feedlabel": "Community Announcements",
+                "date": 1790191755,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4098030
+            },
+            {
+                "gid": "1842212951312432",
+                "title": "CRANELOCK DELIVERY WARS: The report resumes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951312432",
+                "is_external_url": true,
+                "author": "milkshake",
+                "contents": "\u2026electrical hum. That is where the recovered notes become unusually economical. The next section has been withheld at the request of Rocket Post, its legal department, and several people who would like to keep working there. The Syndicate can confirm only that the package was investigated; everything else is being saved for those fortunate enough to encounter the evidence without advance warning.Before we continue, a brief message from our ENTIRELY non-corporate sponsor: add Shipping Store Simulator 2037 to your Steam Wishlist and join the flock on Discord: https://discord.gg/sss2037 THE NEXT SECTION OF THIS REPORT HAS BEEN WITHHELD. Some deliveries are best experienced without advance notice.When the account resumes, the important questions are unchanged: who placed a Quick Box parcel inside Rocket Post, how did it enter the warehouse, and why was it sent there? The company has offered no public answer. What it did have was a dartboard carrying the Quick Box logo, already showing the kind of wear that suggests either excellent aim or a very focused staff-wellness programme. This proves nothing about the parcel, although it suggests inter-company relations had advanced beyond the exchange of seasonal cards. Rocket Post's employee wellness programme remains unusually focused.The more useful response came from Marcus, a customer who had used Rocket Post before and apparently decided that ordinary loyalty points were not enough. His message said that Quick Box had noticed the newcomer, that he knew what was happening, and that he could help. It also discouraged questions about how he knew any of this, a level of transparency Cranelock residents have apparently learned to accept.Marcus offers help with the reassuring openness of a silhouette and a question markMarcus's next instruction turned an ordinary delivery into something closer to municipal trespassing with a customer-service objective. He asked the courier to enter a sequence of numbers into a control panel on a street utility pole. Public infrastructure does not usually appear in the courier handbook, but the code went in, the panel accepted it, and somewhere above the street an advertising executive was about to have a difficult afternoon.Moments later, one of Cranelock's largest billboards flickered. The Quick Box campaign vanished and a full-scale Rocket Post advertisement took its place, directly opposite a Quick Box office. It was an excellent media buy, made even more efficient by the fact that nobody appeared to have bought it.\u00a0Rocket Post's new billboard appears directly opposite Quick Box, an address chosen with admirable neighborly warmth. The effects were visible on Rocket Post's district board. On day two, the newcomer held only the Yards while Quick Box controlled almost every other delivery zone. By day six, orange had spread through Cranelock and the progress bar had swung decisively toward Rocket Post. What had begun as a foothold was now a territory shift large enough to make Quick Box's advertising problem look less cosmetic. Quick Box representatives declined to comment. In the interests of full transparency, we did not ask them; maintaining anonymity requires sacrifices.By the anniversary festival, the shift had reached the point where it could be seen through Quick Box's windows. Customers packed the office, employees crowded the counters, and several conversations appeared to have moved beyond the phase in which anyone still believed a complimentary pen would help. Outside, the festival carried on; inside, the former market leader was hosting what looked like a public consultation on corporate failure.Quick Box during the festival. The complimentary-pen strategy has failed. From our secure observation point, the exact complaints were impossible to hear, but the mood required little specialist interpretation. The queue had stopped behaving like a queue and was beginning to resemble a small civic uprising, with each new arrival contributing fresh evidence that the customer-service department had chosen the wrong day to be visible.One figure stood apart from the crowd, partly hidden by glare and window frames, and appeared to be arguing with a machine. Our replacement correspondent moved around the building for a clearer angle, which is normal fieldwork and not at all the behaviour of someone who had ignored the previous correspondent's disappearance.A customer confronts Quick Box automation. The machine has not yet apologized. The clearer view did not identify the customer, although something about the figure felt oddly familiar. Perhaps it was the posture, perhaps the coat, or perhaps our correspondent had simply spent too long studying Cranelock residents through reflective glass. Whoever it was, they leaned into the automation with the concentrated frustration of someone who had pressed every available button and was now trying intimidation as the final menu option. By the end of the festival, Rocket Post had survived an incident...",
+                "feedlabel": "Community Announcements",
+                "date": 1788248572,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4098030
+            },
+            {
+                "gid": "1840310314339219",
+                "title": "CRANELOCK DELIVERY WARS: This Is Why Your Package Is Late",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314339219",
+                "is_external_url": true,
+                "author": "milkshake",
+                "contents": "A completely independent report by an anonymous representative of the Seagulls Syndicate. Filed from a completely unrelated rooftop with an unusually good view of the Rocket Post warehouse.Before we begin, a brief message from our ENTIRELY non-corporate sponsor: add Shipping Store Simulator 2037 to your Steam Wishlist and join the flock on Discord: https://discord.gg/sss2037 The Seagulls Syndicate cannot guarantee that your package will arrive on time, but we can guarantee further reports from Cranelock.Cranelock has always looked like a peaceful place. The sun shines, the streets stay clean, and the locals spend their days carrying an impressive number of branded parcels from one end of the city to another. Yet beneath that postcard surface, a delivery war is developing - one involving corporate pressure, suspicious packages, malfunctioning robots, compromised advertising infrastructure, and at least one man conducting personal diplomacy with a vending machine.An anonymous representative of the independent Seagulls Syndicate has been following the situation closely: independently, anonymously, and with absolutely no connection to the suspicious figure occasionally seen using binoculars on the roof of the building opposite Rocket Post. Any resemblance is coincidence. The binoculars are for birdwatching. The notebook is also for birdwatching.Early testimony from Timothy Paul: Quick Box does not play nicely with rivals - and apparently buys useful stock before anyone else can.For years, the local market belonged to Quick Box. Then Rocket Post opened its doors. Timothy Paul, a familiar face around Cranelock, offered an unusually concise market forecast: Quick Box did not play nice with rivals, and the previous owner \"didn't last.\" Another resident, Jacob Smith, seemed less concerned and more professionally intrigued by a new business opening directly under the incumbent's nose. Jacob Smith recognizes an interesting business venture. His expression suggests that \"interesting\" is doing considerable work.We will not make direct accusations. Our legal department currently consists of one seagull standing on a folder, and even he has advised caution.Quick Box's presence was difficult to miss. Branded shopping bags moved through the festival crowds, advertising dominated the skyline, and automated couriers marched through the streets like tiny corporate ambassadors. The bags, at least, appeared dependable.A Quick Box bag in the wild. Cranelock residents have become unpaid mobile advertising with excellent posture.The robots were another matter. One courier was observed suffering what technical experts might call a catastrophic loss of dignity. It staggered, sparked, and distributed its cargo directly onto the pavement, including a plunger - a bold interpretation of last-mile delivery. The customer beside it studied the wreckage, raised her phone, and adopted the calm expression of someone about to make customer support regret picking up.A Quick Box courier completes the rarely requested \"scatter everything, then spark\" service. The customer begins a call that will probably be used for training purposes.We cannot confirm whom she called, but somewhere in Cranelock a performance review was almost certainly becoming more eventful.At first, the robot\u2019s public loss of dignity looked like little more than an embarrassing afternoon for Quick Box. Rocket Post could observe from a comfortable distance, continue serving customers, and enjoy the rare luxury of a competitor creating its own problems.That comfortable distance did not last.Back at the Rocket Post warehouse, the opening days had been busy but manageable. The shelves were filling, parcels were moving, and every package appeared to be exactly where it belonged, except for one.Among the ordinary brown boxes sat a blue Quick Box package that nobody at Rocket Post remembered accepting.The blue box waits among innocent cardboard. It is either a parcel or the least subtle Chekhov's gun in Cranelock.It looked harmless: rectangular, neatly sealed, and positioned with the innocent confidence of a package that had every right to be there. There was no recipient listed, nobody remembered accepting it, and the box made the entire warehouse feel approximately twelve percent less insured.Our representative moved closer for a better look. According to the notes recovered from the rooftop, the package was definitely from Quick Box, unusually heavy, and making a faint.... \\The Seagulls Syndicate expects to resume publication as soon as a replacement journalist can be found. Applicants are advised to bring their own binoculars. ",
+                "feedlabel": "Community Announcements",
+                "date": 1785937445,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4098030,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_871423085_1785941533_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1838407329258959",
+                "title": "\ud83d\ude9a Shipping Store Simulator 2037 Launches on October 14, 2026!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258959",
+                "is_external_url": true,
+                "author": "milkshake",
+                "contents": "The wait is almost over! We\u2019re thrilled to officially announce that Shipping Store Simulator 2037 will launch on October 14, 2026. Over the past months, your feedback from the demo has helped us improve the game in countless ways, and we\u2019re excited for everyone to experience the full version this October. To celebrate the announcement, we\u2019ve also released a brand-new trailer, first revealed during the Convergence Games Showcase. \ud83c\udfac Watch the new trailer: \ud83d\udcac Join our Discord community to chat with the developers and other players, share feedback, and stay up to date with future news: https://discord.gg/aq6JA4HPSg\u2b50 And if you haven\u2019t already, don\u2019t forget to Wishlist Shipping Store Simulator 2037. It really helps support the game, and you\u2019ll be notified as soon as we launch.See you on October 14! \ud83d\ude9a\ud83e\udd16",
+                "feedlabel": "Community Announcements",
+                "date": 1784280741,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4098030
+            },
+            {
+                "gid": "1835236783571353",
+                "title": "We\u2019re Part of Steam Next Fest!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783571353",
+                "is_external_url": true,
+                "author": "milkshake",
+                "contents": "Our demo is now available as part of Steam Next Fest! \ud83d\ude9a\ud83e\udd16Steam Next Fest runs from June 15 to June 22, starting at 10 AM PT.This is the perfect time to jump into Shipping Store Simulator 2037 and experience the game for yourself. Build and expand your shipping business, automate operations with robots, manage deliveries, and keep your growing logistics empire running smoothly.We\u2019re excited to welcome new players and hear your feedback as we continue development.If you enjoy the demo, feel free to add the game to your wishlist so you can stay updated on future news and development progress.\ud83c\udfae Demo & Wishlist: Thank you for your support, and enjoy Steam Next Fest!",
+                "feedlabel": "Community Announcements",
+                "date": 1781542823,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4098030,
+                "tags": [
+                    "workshop"
+                ]
+            },
+            {
+                "gid": "1835236783557136",
+                "title": "Demo Update: Additional Keyboard Layout Support",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557136",
+                "is_external_url": true,
+                "author": "milkshake",
+                "contents": "We\u2019ve noticed quite a few questions and requests regarding keyboard controls and alternative key layouts in the demo.To make the game more accessible, we\u2019ve already released a small update that duplicates several key bindings:\u2328\ufe0f Movement (WASD) \u2192 Arrow Keys \u2328\ufe0f Sprint (Left Shift) \u2192 Right Shift \u2328\ufe0f Jump (Space) \u2192 Right Ctrl \u2328\ufe0f Interact (E) \u2192 EnterThis should make the demo more comfortable for players who prefer alternative keyboard layouts.\ud83c\udfae Looking ahead, we\u2019re planning to add full key rebinding and controller support for the full release.Enjoying the demo? Don\u2019t forget to add Shipping Store Simulator 2037 to your Steam wishlist \u2014 it helps us a lot and ensures you won\u2019t miss future updates! Cheers! \u2764\ufe0f",
+                "feedlabel": "Community Announcements",
+                "date": 1781087559,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4098030,
+                "tags": [
+                    "workshop"
+                ]
+            },
+            {
+                "gid": "1834602721184924",
+                "title": "The Demo Is Out Now!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184924",
+                "is_external_url": true,
+                "author": "milkshake",
+                "contents": "The Shipping Store Simulator 2037 demo is officially live on Steam! \ud83d\udce6You can now jump into the chaos of running your own shipping store \u2014 packing orders, managing the rush, and trying to keep everything under control when things inevitably get a little crazy \ud83d\udc40A huge thank you to everyone who participated in the playtest and shared feedback with us. A lot of your suggestions and observations helped shape this demo version, and we\u2019re incredibly grateful for it \ud83d\udcac\ud83c\udfac Watch the trailer: \ud83d\udc49 Try the demo now on our Steam page!We can\u2019t wait to hear what you think \ud83d\ude9a\u2b50 And don\u2019t forget to wishlist the game! ",
+                "feedlabel": "Community Announcements",
+                "date": 1780495453,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4098030
+            },
+            {
+                "gid": "1829528821315014",
+                "title": "Playtest Ends Tomorrow \u2014 Last Chance to Join!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821315014",
+                "is_external_url": true,
+                "author": "milkshake",
+                "contents": "The Shipping Store Simulator 2037 playtest is coming to an end tomorrow \u23f3If you\u2019ve been planning to participate but haven\u2019t applied yet \u2014 now is your last chance!Your feedback is incredibly important to us, and we\u2019d love to hear your thoughts before the playtest wraps up.You can apply on our Steam page! ",
+                "feedlabel": "Community Announcements",
+                "date": 1776073915,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4098030
+            },
+            {
+                "gid": "1828894815554550",
+                "title": "Playtest Coming Soon \ud83d\udc40",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815554550",
+                "is_external_url": true,
+                "author": "milkshake",
+                "contents": "We\u2019re getting ready \ud83d\udc40A playtest for Shipping Store Simulator 2037 is coming soon \u2014 and we can\u2019t wait for you to jump in.Get ready to explore the chaos, run your store, and maybe\u2026 deal with a few questionable customers along the way.Stay tuned \u2014 more details soon.",
+                "feedlabel": "Community Announcements",
+                "date": 1775044607,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4098030
+            },
+            {
+                "gid": "1823191198602542",
+                "title": "\ud83d\ude9a Shipping Store Simulator 2037 \u2014 Steam Page Now Live!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198602542",
+                "is_external_url": true,
+                "author": "milkshake",
+                "contents": "We\u2019re excited to announce that Shipping Store Simulator 2037 now has an official Steam page! In the year 2037, you\u2019ll build and automate your own logistics empire \u2014 manage warehouses, hire robotic helpers, use drones and vehicles, and compete for the most valuable clients in the city of Cranelock.\ud83d\udc49 Please add the game to your wishlist on Steam \u2014 it helps us immensely and lets you stay updated on the release.\ud83d\udcac Join our Discord to follow development news and talk with the team and community:https://discord.gg/MVu6De9QJXThank you for your support! \ud83d\ude80",
+                "feedlabel": "Community Announcements",
+                "date": 1769698404,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4098030
+            }
+        ],
+        "count": 11
+    }
+}

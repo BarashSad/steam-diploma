@@ -1,0 +1,20 @@
+# Spike Analysis: Shipping Store Simulator 2037
+
+## Rank Movement
+- Previous: 1086 -> Current: 1065 (Delta: +21)
+- Time Window: 2026-10-11T00:00:00+00:00 to 2026-10-14T00:00:00+00:00
+
+## API Budget Used
+- Tavily Queries Executed: 15 / 15
+- YouTube Queries Executed: 3 / 3
+
+## Strongest Evidence
+- 🚀 Shipping Store Simulator 2037 FIRST LOOK! Opening a BRAND NEW ROBOTIC Shipping &amp; Commerce Store! 📦 (85/100)
+
+## Likely Explanation & Weak Points
+Evidence suggests a clear catalyst. See LLM/Top evidence.
+
+## Recommended Manual Checks
+- Search Twitter/X and TikTok manually
+- Check SteamDB for simultaneous player spikes on related franchise games
+- Check Steam News history manually

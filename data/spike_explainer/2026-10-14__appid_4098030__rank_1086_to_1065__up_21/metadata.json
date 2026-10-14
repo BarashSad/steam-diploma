@@ -1,0 +1,40 @@
+{
+    "appid": "4098030",
+    "game_title": "Shipping Store Simulator 2037",
+    "safe_slug": "shipping_store_simulator_2037",
+    "analysis_date_utc": "2026-10-14T04:30:17.990098+00:00",
+    "spike_window_start": "2026-10-11T00:00:00+00:00",
+    "spike_window_end": "2026-10-14T00:00:00+00:00",
+    "extended_window_start": "2026-08-27T00:00:00+00:00",
+    "extended_window_end": "2026-10-17T00:00:00+00:00",
+    "dt_start": "2026-10-11 00:00:00+00:00",
+    "dt_end": "2026-10-14 00:00:00+00:00",
+    "ext_start": "2026-08-27 00:00:00+00:00",
+    "ext_end": "2026-10-17 00:00:00+00:00",
+    "window_inferred_fallback": false,
+    "prev_rank": 1086,
+    "curr_rank": 1065,
+    "rank_delta": 21,
+    "movement_score": 0,
+    "is_new_entry": false,
+    "changed_fields_detected": [
+        "release_date"
+    ],
+    "input_diff_row": {
+        "appid": 4098030,
+        "title_old": "Shipping Store Simulator 2037",
+        "curr_title": "Shipping Store Simulator 2037",
+        "prev_rank": 1086,
+        "curr_rank": 1065,
+        "rank_delta": 21,
+        "abs_rank_delta": 21,
+        "movement_type": "up",
+        "spike_type": "upward_spike",
+        "price_text_old": "Unpriced (Coming Soon)",
+        "price_text_new": "Unpriced (Coming Soon)",
+        "price_changed": false,
+        "release_text_old": "Oct 14, 2026",
+        "release_text_new": "14 Oct, 2026",
+        "release_changed": true
+    }
+}

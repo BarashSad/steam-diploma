@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-14T04:30:43.096079+00:00",
+    "timestamp": "20261014_043043",
+    "input_file": "data/spike_explainer/2026-10-14__appid_4098030__rank_1086_to_1065__up_21/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-14__appid_4098030__rank_1086_to_1065__up_21/llm_outputs/gemini_20261014_043043.md",
+    "game_title": "Shipping Store Simulator 2037",
+    "appid": "4098030",
+    "duration_sec": 20.29,
+    "response_length": 4880,
+    "error": null
+}

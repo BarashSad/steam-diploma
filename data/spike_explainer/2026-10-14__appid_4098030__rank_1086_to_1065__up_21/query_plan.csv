@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4098030,Shipping Store Simulator 2037,"""Shipping Store Simulator 2037"" Steam",general,1,tavily,True,,5
+4098030,Shipping Store Simulator 2037,"""Shipping Store Simulator 2037"" trailer",general,1,tavily,True,,5
+4098030,Shipping Store Simulator 2037,"""Shipping Store Simulator 2037"" gameplay",general,1,tavily,True,,5
+4098030,Shipping Store Simulator 2037,"""Shipping Store Simulator 2037"" demo",general,1,tavily,True,,5
+4098030,Shipping Store Simulator 2037,"""Shipping Store Simulator 2037"" release date",general,1,tavily,True,,5
+4098030,Shipping Store Simulator 2037,"""Shipping Store Simulator 2037"" announcement",general,1,tavily,True,,5
+4098030,Shipping Store Simulator 2037,"""Shipping Store Simulator 2037"" preview",general,1,tavily,True,,5
+4098030,Shipping Store Simulator 2037,"""Shipping Store Simulator 2037"" review",general,1,tavily,True,,5
+4098030,Shipping Store Simulator 2037,"""Shipping Store Simulator 2037"" publisher",general,1,tavily,True,,5
+4098030,Shipping Store Simulator 2037,"""Shipping Store Simulator 2037"" developer",general,1,tavily,True,,5
+4098030,Shipping Store Simulator 2037,"site:pcgamer.com ""Shipping Store Simulator 2037""",press,2,tavily,False,General budget exhausted,0
+4098030,Shipping Store Simulator 2037,"site:rockpapershotgun.com ""Shipping Store Simulator 2037""",press,2,tavily,False,General budget exhausted,0
+4098030,Shipping Store Simulator 2037,"site:ign.com ""Shipping Store Simulator 2037""",press,2,tavily,False,General budget exhausted,0
+4098030,Shipping Store Simulator 2037,"site:gamespot.com ""Shipping Store Simulator 2037""",press,2,tavily,False,General budget exhausted,0
+4098030,Shipping Store Simulator 2037,"site:game8.co ""Shipping Store Simulator 2037""",press,2,tavily,False,General budget exhausted,0
+4098030,Shipping Store Simulator 2037,"site:reddit.com ""Shipping Store Simulator 2037""",social,3,tavily,True,,5
+4098030,Shipping Store Simulator 2037,"site:tiktok.com ""Shipping Store Simulator 2037""",social,4,tavily,True,,5
+4098030,Shipping Store Simulator 2037,"site:instagram.com ""Shipping Store Simulator 2037""",social,4,tavily,True,,5
+4098030,Shipping Store Simulator 2037,"site:x.com ""Shipping Store Simulator 2037""",social,4,tavily,True,,5
+4098030,Shipping Store Simulator 2037,"site: ""Shipping Store Simulator 2037""",social,4,tavily,True,,5

@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-10-13T19:15:35.168573+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261013_190630/rank_changes.csv",
-    "selected_appid": "3530630",
-    "selected_game_title": "Bless You Again",
+    "started_at": "2026-10-14T04:30:42.996986+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261014_042052/rank_changes.csv",
+    "selected_appid": "4098030",
+    "selected_game_title": "Shipping Store Simulator 2037",
     "top_n": 1,
-    "old_snapshot_date": "2026-10-10",
-    "new_snapshot_date": "2026-10-13",
+    "old_snapshot_date": "2026-10-11",
+    "new_snapshot_date": "2026-10-14",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-13T19:15:35.168585+00:00",
+    "finished_at": "2026-10-14T04:30:42.997001+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
