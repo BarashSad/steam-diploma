@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-10-14T04:30:42.996986+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261014_042052/rank_changes.csv",
-    "selected_appid": "4098030",
-    "selected_game_title": "Shipping Store Simulator 2037",
+    "started_at": "2026-10-14T17:04:17.681613+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261014_165431/rank_changes.csv",
+    "selected_appid": "4373620",
+    "selected_game_title": "Fresco",
     "top_n": 1,
     "old_snapshot_date": "2026-10-11",
     "new_snapshot_date": "2026-10-14",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-14T04:30:42.997001+00:00",
+    "finished_at": "2026-10-14T17:04:17.681627+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
