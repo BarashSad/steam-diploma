@@ -1,0 +1,878 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+4940930,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228667124,"25,000 Wishlists and a New Stage of Development!",,"We are here with some great news: the cinematic trailer received a massive response. In just three weeks, SKOS: 13.86 has gathered 25,000 wishlists, and the number keeps growing. Thank you so much for this vote of confidence.The Based Paw Crew understands that you want to see gameplay. Right now, we","trailer, gameplay",60,medium,"Official Steam News (+20); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+4940930,youtube_video,outside_window,https://www.youtube.com/watch?v=qidJ9yjajQ4,SKOS: 13.86 — Trailer ,,Stalkers vs. Knights. Catch medieval arrows with your face while your partner panics trying to find ammo for the AK. Wishlist on ...,trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4940930,youtube_video,outside_window,https://www.youtube.com/watch?v=heJxBmrdBVg,SKOS: 13.86 - Official Trailer,,You are stalkers who made your first foray into the epicenter of a nuclear reactor explosion. While exploring the Chernobyl ...,trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4940930,youtube_video,outside_window,https://www.youtube.com/watch?v=AXBz7QlnRuY,SKOS: 13.86 - Trailer | Spite.cz,,"Představil se sandbox SKOS: 13.86, survival, který nás po velké anomálii v Černobylu vezme na území 14. století do středověku.",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4940930,youtube_video,outside_window,https://www.youtube.com/watch?v=T0tmCl3a8xw,SKOS: 13.86 | Official Trailer | Based Paw Crew,,,trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4940930,youtube_video,outside_window,https://www.youtube.com/watch?v=xfnVCF9HG5A,SKOS: 13.86 - Announcement Trailer,,"You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous ...","trailer, announcement",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4940930,youtube_video,outside_window,https://www.youtube.com/watch?v=qidJ9yjajQ4,SKOS: 13.86 — Trailer ,,Stalkers vs. Knights. Catch medieval arrows with your face while your partner panics trying to find ammo for the AK. Wishlist on ...,trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4940930,youtube_video,outside_window,https://www.youtube.com/watch?v=heJxBmrdBVg,SKOS: 13.86 - Official Trailer,,You are stalkers who made your first foray into the epicenter of a nuclear reactor explosion. While exploring the Chernobyl ...,trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4940930,youtube_video,outside_window,https://www.youtube.com/watch?v=T0tmCl3a8xw,SKOS: 13.86 | Official Trailer | Based Paw Crew,,,trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4940930,youtube_video,outside_window,https://www.youtube.com/watch?v=AXBz7QlnRuY,SKOS: 13.86 - Trailer | Spite.cz,,"Představil se sandbox SKOS: 13.86, survival, který nás po velké anomálii v Černobylu vezme na území 14. století do středověku.",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4940930,youtube_video,outside_window,https://www.youtube.com/watch?v=_Lq9RrdcGfs,SKOS: 13.86 - Announcement Trailer,,"You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous ...","trailer, announcement",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4940930,youtube_video,outside_window,https://www.youtube.com/watch?v=xfnVCF9HG5A,SKOS: 13.86 - Announcement Trailer,,"You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous ...","trailer, announcement",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4940930,reddit_discussion,unknown_date,https://www.reddit.com/r/RustAndRadiation/comments/1v46pjj/skos_1386_game_trailer,SKOS: 13.86 - Game Trailer : r/RustAndRadiation,Looks cool. Love the mixing of genres. Will it play on steam deck?,,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,reddit_discussion,unknown_date,https://www.reddit.com/r/RustAndRadiation/comments/1v46pjj/skos_1386_game_trailer,SKOS: 13.86 - Game Trailer : r/RustAndRadiation,SKOS: 13.86 - Game Trailer Comments Section … a game with an identity crisis and a weird looking probably AI trailer.,,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,reddit_discussion,unknown_date,https://www.reddit.com/r/RustAndRadiation/comments/1v46pjj/skos_1386_game_trailer,SKOS: 13.86 - Game Trailer : r/RustAndRadiation,It looks like one of these mobile game adds that turn out to have nothing to do with the game and then you get some kinda tower defense or,,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,reddit_discussion,unknown_date,https://www.reddit.com/r/RustAndRadiation/comments/1v46pjj/skos_1386_game_trailer,SKOS: 13.86 - Game Trailer : r/RustAndRadiation,"This is the result, a game with an identity crisis and a weird looking probably AI trailer.",,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,reddit_discussion,unknown_date,https://www.reddit.com/r/RustAndRadiation/comments/1v46pjj/skos_1386_game_trailer,SKOS: 13.86 - Game Trailer : r/RustAndRadiation,"This is the result, a game with an identity crisis and a weird looking probably AI trailer.",,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,reddit_discussion,unknown_date,https://www.reddit.com/r/RustAndRadiation/comments/1v46pjj/skos_1386_game_trailer,SKOS: 13.86 - Game Trailer : r/RustAndRadiation,"This is the result, a game with an identity crisis and a weird looking probably AI trailer.",,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,reddit_discussion,unknown_date,https://www.reddit.com/r/mooncatpolish/comments/1vh7mdq/planet_nyarr_82126,Planet Nyarr 8.21.26 : r/mooncatpolish,a planet Nyarr in the video game Warhammer. SKOS: 13.86 - Announcement Trailer. Weird rock on Mars that was photographed 26.7.26,,"trailer, announcement",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",social
+4940930,reddit_discussion,unknown_date,https://www.reddit.com/r/SoloLeveling_Karma/comments/1ozvum4/solo_leveling_karma_official_gstar_2025_trailer,Solo Leveling: Karma - Official G-Star 2025 Trailer,Karma will be in LOL classic. 14. 26 ; SKOS: 13.86 - Game Trailer · 25. 20 ; State of the Game in 2026. 27. 18 ; Official Solo Leveling: KARMA G-STAR 2025 Trailer –,,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),social
+4940930,reddit_discussion,unknown_date,https://www.reddit.com/r/TrailerWorldsGames/comments/1vdmmkp/skos_1386_announcement_trailer,SKOS: 13.86 - Announcement Trailer : r/TrailerWorldsGames,"You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous raids into",,"trailer, announcement",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",social
+4940930,reddit_discussion,unknown_date,https://www.reddit.com/r/RustAndRadiation/comments/1v46pjj/skos_1386_game_trailer,SKOS: 13.86 - Game Trailer : r/RustAndRadiation,Knights and explosives? Curious what direction we're going with this one. Seems actually interesting and different.,,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),social
+4940930,web_result,unknown_date,https://www.instagram.com/reel/DbLoeALO4nL?hl=en,Sounds like an unfair fight  SKOS 1386  Coming Soon  ...,"There is no demo, no release date. SKOS: 13.86 might be the most insane co-op FPS of 2026! Modern weapons vs medieval knight armies. Fight",,"demo, release date",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+4940930,social_post,unknown_date,https://www.tiktok.com/@wilfratgaming/video/7492165818277612822,Wilfrat on TikTok,"Title: Wilfrat on TikTok
+The Dead We Knew is an open-world survival game set after a zombie outbreak, where you explore the remains of civilisation and try to survive. #TheDeadWeKnew#gaming#steamgames#zombies#survivalgames. Image 5: The Dead We Knew is an open-world survival game set after a zombie outbreak, where you explore the remains of civilisation and try to survive. - 🧟 Fight Zombies & Other Survivors - 🔨 Scavenge, Craft & Build - 🌎 Explore The Open World #TheDeadWeKnew #gaming #steamgames #zombies #survivalgames. Image 6: | A D | SKOS: 13.86 throws Chernobyl stalkers into the 14th century, where you'll raid modern-day Pripyat for weapons before returning to fight knights and reshape history. - ⚔️ Switch Between Medieval Europe & Modern Chernobyl - 👥 Play Solo or In Online Co-op - 🖥️ Wishlist On Steam #SKOS1386 #gaming #steamgames #survival #coopgames. | A D | SKOS: 13.86 throws Chernobyl stalkers into the 14th century, where you'll raid modern-day Pripyat for weapons before returning to fight knights and reshape history. Image 8: Streetdog BMX brings fast-paced arcade BMX action with huge trick combos, stylish lines, and maps built for creative runs. Image 9: The hit open-world survival game is finally making its way to consoles, bringing its massive world, strange creatures, and co-op gameplay to even more players. ONCE HUMAN * 🎮 Console Release Announced * 🌍 Open-World Survival * 👥 Play Solo or With Friends * 👾 Fight Eldritch Creatures * 🏗️ Build, Craft & Explore #oncehuman #survivalgames #openworld #coopgames #oncehumanconsole. The hit open-world survival game is finally making its way to consoles, bringing its massive world, strange creatures, and co-op gameplay to even more players. Image 10: Build crumbling Soviet apartment blocks with your friends using cranes, forklifts, and pure physics... - 🏗️ Chaotic Physics-Based Co-op Construction - 🚜 Operate Cranes, Forklifts & Heavy Machinery - 🖥️ Wishlist On Steam #CommieBobrs #gaming #steamgames #coopgames #physics. Image 11: DayZ: Badlands drops survivors into a brutal new desert map where water is scarce, the heat is relentless, and every encounter could be your last. DayZ: Badlands drops survivors into a brutal new desert map where water is scarce, the heat is relentless, and every encounter could be your last.",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+4940930,social_post,unknown_date,https://www.tiktok.com/@wilfratgaming/video/7601266572614733078,Wilfrat on TikTok,"Title: Wilfrat on TikTok
+The Dead We Knew is an open-world survival game set after a zombie outbreak, where you explore the remains of civilisation and try to survive. #TheDeadWeKnew#gaming#steamgames#zombies#survivalgames. Image 5: The Dead We Knew is an open-world survival game set after a zombie outbreak, where you explore the remains of civilisation and try to survive. - 🧟 Fight Zombies & Other Survivors - 🔨 Scavenge, Craft & Build - 🌎 Explore The Open World #TheDeadWeKnew #gaming #steamgames #zombies #survivalgames. Image 6: | A D | SKOS: 13.86 throws Chernobyl stalkers into the 14th century, where you'll raid modern-day Pripyat for weapons before returning to fight knights and reshape history. - ⚔️ Switch Between Medieval Europe & Modern Chernobyl - 👥 Play Solo or In Online Co-op - 🖥️ Wishlist On Steam #SKOS1386 #gaming #steamgames #survival #coopgames. | A D | SKOS: 13.86 throws Chernobyl stalkers into the 14th century, where you'll raid modern-day Pripyat for weapons before returning to fight knights and reshape history. Image 8: Streetdog BMX brings fast-paced arcade BMX action with huge trick combos, stylish lines, and maps built for creative runs. Image 9: The hit open-world survival game is finally making its way to consoles, bringing its massive world, strange creatures, and co-op gameplay to even more players. ONCE HUMAN * 🎮 Console Release Announced * 🌍 Open-World Survival * 👥 Play Solo or With Friends * 👾 Fight Eldritch Creatures * 🏗️ Build, Craft & Explore #oncehuman #survivalgames #openworld #coopgames #oncehumanconsole. The hit open-world survival game is finally making its way to consoles, bringing its massive world, strange creatures, and co-op gameplay to even more players. Image 10: Build crumbling Soviet apartment blocks with your friends using cranes, forklifts, and pure physics... - 🏗️ Chaotic Physics-Based Co-op Construction - 🚜 Operate Cranes, Forklifts & Heavy Machinery - 🖥️ Wishlist On Steam #CommieBobrs #gaming #steamgames #coopgames #physics. Image 11: DayZ: Badlands drops survivors into a brutal new desert map where water is scarce, the heat is relentless, and every encounter could be your last. DayZ: Badlands drops survivors into a brutal new desert map where water is scarce, the heat is relentless, and every encounter could be your last.",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+4940930,social_post,unknown_date,https://puls.games/skos-13-86,SKOS: 13.86 — Puls Games,"Find your game...
+
+SKOS: 13.86
+
+Survive the 14th-century Middle Ages and raid Pripyat for Soviet weapons.
+
+SKOS: 13.86
+
+0:00 / 0:00
+
+Track dev on
+
+Steam
+
+SKOS: 13.86
+
+SKOS: 13.86 is an action-adventure game where you play as stalkers thrown by an anomaly into the 14th-century Middle Ages. You must survive in a harsh world of knights, with the option to play solo or in cooperative multiplayer. The game requires you to navigate the ruins of the past and the future to change the course of history. [...] To gain a tactical advantage, players go on dangerous raids into modern-day Pripyat to gather Soviet weapons and valuable loot. The gameplay features intense action combat with firearms, vehicle combat, and stylized monster shooting. Every temporal raid brings new challenges as you balance medieval survival with modern firepower. [...] Key Features: • Survive as a stalker thrown into the 14th-century Middle Ages • Go on dangerous raids into modern-day Pripyat for Soviet weapons and loot • Play the entire campaign solo or in co-op mode • Engage in action combat with firearms and stylized monster shooting • Experience vehicle combat and alter the course of history
+
+Category
+
+Action
+
+Age Rating
+
+16+
+
+Intense
+
+Monetization
+
+One time Purchase
+
+Platforms
+
+Windows
+
+Tags
+
+Local Co-opMedieval
+
+Languages
+
+EnglishCzechSpanish",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+4940930,social_post,unknown_date,https://steamcommunity.com/app/4940930,Steam Community :: SKOS: 13.86,"Most popular community and official content for the past week.  (?)
+
+25,000 Wishlists and a New Stage of Development!
+
+20 Aug
+
+We are here with some great news: the cinematic trailer received a massive response. In just three weeks, SKOS: 13.86 has gathered 25,000 wishlists, and the number keeps growing. Thank you so much for this vote of confidence. [...] And yes, one more thing. We want to turn this game into an unforgettable experience, which is impossible without a distinct visual style. To achieve this, we have launched a Discord server where we will shape the look of SKOS: 13.86 together with you. We started by posting the trailer there, and much more is on the way.
+
+We won't hide our development behind closed doors. We are always active on the server: any question, idea, or critique will reach us directly. [...] 简体中文 (Simplified Chinese)   繁體中文 (Traditional Chinese)   日本語 (Japanese)   한국어 (Korean)   ไทย (Thai)   Bahasa Indonesia (Indonesian)   Bahasa Melayu (Malay) BETA   Български (Bulgarian)   Čeština (Czech)   Dansk (Danish)   Deutsch (German)   Español - España (Spanish - Spain)   Español - Latinoamérica (Spanish - Latin America)   Ελληνικά (Greek)   Français (French)   Italiano (Italian)   Magyar (Hungarian)   Nederlands (Dutch)   Norsk (Norwegian)   Polski (Polish)   Português (Portuguese -",,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+4940930,social_post,unknown_date,https://store.steampowered.com/app/4940930/SKOS_1386,SKOS: 13.86 on Steam,"Online interactivity
+
+Title: SKOS: 13.86  
+ Genre: Action, Adventure, Indie  
+
+Developer: Based Paw Crew
+
+Publisher: Based Paw Crew
+
+Release Date: Coming soon
+
+Visit the website External   Discord External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Coming soon
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub [...] All Games > Adventure Games > SKOS: 13.86
+
+Community Hub
+
+SKOS: 13.86
+
+SKOS: 13.86
+
+SKOS: 13.86
+
+Developer
+
+Based Paw Crew
+
+Publisher
+
+Based Paw Crew
+
+Released
+
+Coming soon
+
+You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous raids into modern-day Pripyat for Soviet weapons and loot. Change the course of history or perish in the ruins of the past and future.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Coming soon [...] Single-player
+
+Online Co-op
+
+Family Sharing
+
+Profile Features Limited   
+
+Languages:
+
+English and 9 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+| Spanish - Latin America | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Portuguese - Brazil | ✔ |  | ✔ |
+| Russian | ✔ | ✔ | ✔ |
+| Japanese | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Polish | ✔ |  | ✔ |
+| Turkish | ✔ |  | ✔ |
+| Ukrainian | ✔ |  | ✔ |
+
+See all 10 supported languages
+
+Content
+
+Includes Interactive Elements",,release date,45,medium,Social Index (+5); Exact title match (+20); Keywords ['release date'] (+20),social
+4940930,social_post,unknown_date,https://www.youtube.com/watch?v=heJxBmrdBVg,SKOS: 13.86 - Official Trailer,"# SKOS: 13.86 - Official Trailer
+## Channel: Indie Games Hub (verified)
+251K subscribers
+291 likes
+
+### Description
+10,847 views
+Posted: 2026-08-03
+You are stalkers who made your first foray into the epicenter of a nuclear reactor explosion. While exploring the Chernobyl Exclusion Zone, you stumbled upon an unknown anomaly. A split-second flash—and before you know it, the squad was thrown back into the brutal Middle Ages of the 14th century. [...] Now you have to fight for survival amidst feudal wars and medieval filth. But the Zone didn't let you go that easily. From time to time, it will call you back—opening spatial rifts and dragging your entire squad to Pripyat for dangerous raids in search of Soviet loot.
+
+Wishlist on Steam: 
+
+Developer: Based Paw Crew",,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+4940930,web_result,unknown_date,https://store.steampowered.com/news/app/4940930/view/695395921862590664,13.86 - 25000 Wishlists and a New Stage of Development!,"We are here with some great news: the cinematic trailer received a massive response. In just three weeks, SKOS: 13.86 has gathered 25000 wishlists, and",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,web_result,unknown_date,https://www.youtube.com/watch?v=_Lq9RrdcGfs,SKOS: 13.86 - Announcement Trailer,"Survive solo or in co-op in a world of knights, and go on dangerous raids into modern-day Pripyat … 13.86 is a single player game that you can",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4940930,web_result,unknown_date,https://www.youtube.com/watch?v=heJxBmrdBVg,SKOS: 13.86 - Official Trailer,You are stalkers who made your first foray into the epicenter of a nuclear reactor explosion. SKOS: 13.86 - Official Trailer,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,web_result,unknown_date,https://store.steampowered.com/app/4940930/SKOS_1386,SKOS: 13.86,"We are here with some great news: the cinematic trailer received a massive response. In just three weeks, SKOS: 13.86 has gathered 25,000 wishlists, and the",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,web_result,unknown_date,https://www.youtube.com/watch?v=heJxBmrdBVg,SKOS: 13.86 - Official Trailer,"You are stalkers who made your first foray into the epicenter of a nuclear reactor explosion. While exploring the Chernobyl Exclusion Zone,",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,web_result,unknown_date,https://www.youtube.com/watch?v=heJxBmrdBVg,SKOS: 13.86 - Official Trailer,You are stalkers who made your first foray into the epicenter of a nuclear reactor explosion. SKOS: 13.86 - Official Trailer,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,web_result,unknown_date,https://steamdb.info/app/4940930,SKOS: 13.86,SKOS: 13.86 Wishlist. October 2026 – 09:38:14 UTC ( 4 days ago ) Release Date Coming soon. This game has not yet been released (This game has not yet been,,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4940930,web_result,unknown_date,https://store.steampowered.com/app/4940930/SKOS_1386,SKOS: 13.86,"Title: SKOS: 13.86. Genre: Action, Adventure, Indie. Developer: Based Paw Crew. Publisher: Based Paw Crew. Release Date: Coming soon. READ MORE. Recent Events",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4940930,web_result,unknown_date,https://gg.deals/game/skos-1386,Buy cheap SKOS: 13.86 CD Key 🏷️ Best Price,"SKOS: 13.86 release date is yet to be revealed. The genre of the game can be defined as action, adventure and indie. As of now, 171 GG.deals users have",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4940930,web_result,unknown_date,https://www.youtube.com/watch?v=_Lq9RrdcGfs,SKOS: 13.86 - Announcement Trailer,SKOS: 13.86 releases on the following platforms: Steam on still yet unknown date,,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4940930,web_result,unknown_date,https://www.youtube.com/watch?v=_Lq9RrdcGfs,SKOS: 13.86 - Announcement Trailer,"SKOS: 13.86 releases on the following platforms: Steam on still yet unknown date. Adventure, Sandbox, Action, Survival, RPG SKOS: 13.86 is a",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4940930,web_result,unknown_date,https://puls.games/skos-13-86,SKOS: 13.86 — Puls Games,"Find your game...
+
+SKOS: 13.86
+
+Survive the 14th-century Middle Ages and raid Pripyat for Soviet weapons.
+
+SKOS: 13.86
+
+0:00 / 0:00
+
+Track dev on
+
+Steam
+
+SKOS: 13.86
+
+SKOS: 13.86 is an action-adventure game where you play as stalkers thrown by an anomaly into the 14th-century Middle Ages. You must survive in a harsh world of knights, with the option to play solo or in cooperative multiplayer. The game requires you to navigate the ruins of the past and the future to change the course of history. [...] To gain a tactical advantage, players go on dangerous raids into modern-day Pripyat to gather Soviet weapons and valuable loot. The gameplay features intense action combat with firearms, vehicle combat, and stylized monster shooting. Every temporal raid brings new challenges as you balance medieval survival with modern firepower. [...] Key Features: • Survive as a stalker thrown into the 14th-century Middle Ages • Go on dangerous raids into modern-day Pripyat for Soviet weapons and loot • Play the entire campaign solo or in co-op mode • Engage in action combat with firearms and stylized monster shooting • Experience vehicle combat and alter the course of history
+
+Category
+
+Action
+
+Age Rating
+
+16+
+
+Intense
+
+Monetization
+
+One time Purchase
+
+Platforms
+
+Windows
+
+Tags
+
+Local Co-opMedieval
+
+Languages
+
+EnglishCzechSpanish",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4940930,web_result,unknown_date,https://www.youtube.com/watch?v=heJxBmrdBVg,SKOS: 13.86 - Official Trailer,"# SKOS: 13.86 - Official Trailer
+## Channel: Indie Games Hub (verified)
+251K subscribers
+291 likes
+
+### Description
+10,847 views
+Posted: 2026-08-03
+You are stalkers who made your first foray into the epicenter of a nuclear reactor explosion. While exploring the Chernobyl Exclusion Zone, you stumbled upon an unknown anomaly. A split-second flash—and before you know it, the squad was thrown back into the brutal Middle Ages of the 14th century. [...] Now you have to fight for survival amidst feudal wars and medieval filth. But the Zone didn't let you go that easily. From time to time, it will call you back—opening spatial rifts and dragging your entire squad to Pripyat for dangerous raids in search of Soviet loot.
+
+Wishlist on Steam: 
+
+Developer: Based Paw Crew",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,web_result,unknown_date,https://steamcommunity.com/app/4940930,SKOS: 13.86,"25,000 Wishlists and a New Stage of Development! Aug 20. We are here with some great news: the cinematic trailer received a massive response. In",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,web_result,unknown_date,https://www.youtube.com/watch?v=heJxBmrdBVg,SKOS: 13.86 - Official Trailer,"# SKOS: 13.86 - Official Trailer
+## Channel: Indie Games Hub (verified)
+251K subscribers
+291 likes
+
+### Description
+10,847 views
+Posted: 2026-08-03
+You are stalkers who made your first foray into the epicenter of a nuclear reactor explosion. While exploring the Chernobyl Exclusion Zone, you stumbled upon an unknown anomaly. A split-second flash—and before you know it, the squad was thrown back into the brutal Middle Ages of the 14th century. [...] Now you have to fight for survival amidst feudal wars and medieval filth. But the Zone didn't let you go that easily. From time to time, it will call you back—opening spatial rifts and dragging your entire squad to Pripyat for dangerous raids in search of Soviet loot.
+
+Wishlist on Steam: 
+
+Developer: Based Paw Crew",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,web_result,unknown_date,https://steamcommunity.com/app/4940930,Steam Community :: SKOS: 13.86,"And yes, one more thing. We want to turn this game into an unforgettable experience, which is impossible without a distinct visual style. To achieve this, we have launched a Discord server where we will shape the look of SKOS: 13.86 together with you. We started by posting the trailer there, and much more is on the way.
+
+We won't hide our development behind closed doors. We are always active on the server: any question, idea, or critique will reach us directly. [...] Most popular community and official content for the past week.  (?)
+
+25,000 Wishlists and a New Stage of Development!
+
+20 Aug
+
+We are here with some great news: the cinematic trailer received a massive response. In just three weeks, SKOS: 13.86 has gathered 25,000 wishlists, and the number keeps growing. Thank you so much for this vote of confidence. [...] The Based Paw Crew understands that you want to see gameplay. Right now, we are fully focused on creating the prototype and will be self-funding the project over the coming months. Why? It's simple: it allows us to retain complete creative freedom. So please, bear with us and be patient.",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4940930,web_result,unknown_date,https://www.youtube.com/watch?v=qidJ9yjajQ4,SKOS: 13.86 — Trailer,"# SKOS: 13.86 — Trailer
+## Channel: SKOS: 13.86
+255 subscribers
+233 likes
+
+### Description
+9,275 views
+Posted: 2026-07-22
+Stalkers vs. Knights. Catch medieval arrows with your face while your partner panics trying to find ammo for the AK.
+
+Wishlist on Steam!",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,web_result,unknown_date,https://store.steampowered.com/app/4940930/SKOS_1386,SKOS: 13.86 on Steam,"All Games > Adventure Games > SKOS: 13.86
+
+Community Hub
+
+SKOS: 13.86
+
+SKOS: 13.86
+
+SKOS: 13.86
+
+Developer
+
+Based Paw Crew
+
+Publisher
+
+Based Paw Crew
+
+Released
+
+Coming soon
+
+You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous raids into modern-day Pripyat for Soviet weapons and loot. Change the course of history or perish in the ruins of the past and future.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Coming soon [...] Online interactivity
+
+Title: SKOS: 13.86  
+ Genre: Action, Adventure, Indie  
+
+Developer: Based Paw Crew
+
+Publisher: Based Paw Crew
+
+Release Date: Coming soon
+
+Visit the website External   Discord External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Coming soon
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub [...] Prepare to overcome the hardships of both eras solo, or squad up to catch medieval arrows with your face while your partner panics trying to find ammo for the gun. It's time to trade a crate of canned meat for a whole castle!
+
+## Mature Content Description
+
+The developers describe the content like this:
+
+The game features action combat with firearms, stylized monster shooting, vehicle combat, and minor alcohol depictions.
+
+## System Requirements
+
+Minimum:",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4940930,web_result,unknown_date,https://www.youtube.com/watch?v=heJxBmrdBVg,SKOS: 13.86 - Official Trailer,"# SKOS: 13.86 - Official Trailer
+## Channel: Indie Games Hub (verified)
+251K subscribers
+291 likes
+
+### Description
+10,847 views
+Posted: 2026-08-03
+You are stalkers who made your first foray into the epicenter of a nuclear reactor explosion. While exploring the Chernobyl Exclusion Zone, you stumbled upon an unknown anomaly. A split-second flash—and before you know it, the squad was thrown back into the brutal Middle Ages of the 14th century. [...] Now you have to fight for survival amidst feudal wars and medieval filth. But the Zone didn't let you go that easily. From time to time, it will call you back—opening spatial rifts and dragging your entire squad to Pripyat for dangerous raids in search of Soviet loot.
+
+Wishlist on Steam: 
+
+Developer: Based Paw Crew",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,web_result,unknown_date,https://store.steampowered.com/app/4940930/SKOS_1386,SKOS: 13.86 on Steam,"Online interactivity
+
+Title: SKOS: 13.86  
+ Genre: Action, Adventure, Indie  
+
+Developer: Based Paw Crew
+
+Publisher: Based Paw Crew
+
+Release Date: Coming soon
+
+Visit the website External   Discord External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Coming soon
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub [...] All Games > Adventure Games > SKOS: 13.86
+
+Community Hub
+
+SKOS: 13.86
+
+SKOS: 13.86
+
+SKOS: 13.86
+
+Developer
+
+Based Paw Crew
+
+Publisher
+
+Based Paw Crew
+
+Released
+
+Coming soon
+
+You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous raids into modern-day Pripyat for Soviet weapons and loot. Change the course of history or perish in the ruins of the past and future.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Coming soon [...] Coming soon
+
+Developer:
+
+Based Paw Crew
+
+Publisher:
+
+Based Paw Crew
+
+Tags
+
+Popular user-defined tags for this product:
+
+Adventure  Action  Survival  Sci-fi  Sandbox  RPG  FPS  Life Sim  Crafting  Simulation  Management  Singleplayer  Online Co-Op  Physics  Immersive Sim  Multiplayer  Gun Customization  Character Customization  Open World  PvE 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4940930,web_result,unknown_date,https://steamcommunity.com/app/4940930,Steam Community :: SKOS: 13.86,"Most popular community and official content for the past week.  (?)
+
+25,000 Wishlists and a New Stage of Development!
+
+20 Aug
+
+We are here with some great news: the cinematic trailer received a massive response. In just three weeks, SKOS: 13.86 has gathered 25,000 wishlists, and the number keeps growing. Thank you so much for this vote of confidence. [...] Вопрос о выходе
+
+Возможно мне не стоило писать сюда это, но очень уж не терпеться, дорогие разработчики, когда планируете выпускать данный продукт…? Может хоть примерные даты, например там весна следующего года или конец зимы этого года… очень надеюсь на скорейший выход этой игры, буду одним из ...
+
+1
+
+[killer-вахуе
+
+13 Oct @ 8:34pm](
+
+General Discussions
+
+Location/Country of Dev studio and Publisher
+
+Hi, where are the dev studio and publisher located, which country? Thank you. Best Regards, [...] The Based Paw Crew understands that you want to see gameplay. Right now, we are fully focused on creating the prototype and will be self-funding the project over the coming months. Why? It's simple: it allows us to retain complete creative freedom. So please, bear with us and be patient.",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4940930,web_result,unknown_date,https://www.youtube.com/watch?v=heJxBmrdBVg,SKOS: 13.86 - Official Trailer,"# SKOS: 13.86 - Official Trailer
+## Channel: Indie Games Hub (verified)
+251K subscribers
+291 likes
+
+### Description
+10,847 views
+Posted: 2026-08-03
+You are stalkers who made your first foray into the epicenter of a nuclear reactor explosion. While exploring the Chernobyl Exclusion Zone, you stumbled upon an unknown anomaly. A split-second flash—and before you know it, the squad was thrown back into the brutal Middle Ages of the 14th century. [...] Now you have to fight for survival amidst feudal wars and medieval filth. But the Zone didn't let you go that easily. From time to time, it will call you back—opening spatial rifts and dragging your entire squad to Pripyat for dangerous raids in search of Soviet loot.
+
+Wishlist on Steam: 
+
+Developer: Based Paw Crew",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,web_result,unknown_date,https://store.steampowered.com/app/4940930/SKOS_1386,SKOS: 13.86 on Steam,"Online interactivity
+
+Title: SKOS: 13.86  
+ Genre: Action, Adventure, Indie  
+
+Developer: Based Paw Crew
+
+Publisher: Based Paw Crew
+
+Release Date: Coming soon
+
+Visit the website External   Discord External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Coming soon
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub [...] All Games > Adventure Games > SKOS: 13.86
+
+Community Hub
+
+SKOS: 13.86
+
+SKOS: 13.86
+
+SKOS: 13.86
+
+Developer
+
+Based Paw Crew
+
+Publisher
+
+Based Paw Crew
+
+Released
+
+Coming soon
+
+You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous raids into modern-day Pripyat for Soviet weapons and loot. Change the course of history or perish in the ruins of the past and future.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+Coming soon [...] Coming soon
+
+Developer:
+
+Based Paw Crew
+
+Publisher:
+
+Based Paw Crew
+
+Tags
+
+Popular user-defined tags for this product:
+
+Adventure  Action  Survival  Sci-fi  Sandbox  RPG  FPS  Life Sim  Crafting  Simulation  Management  Singleplayer  Online Co-Op  Physics  Immersive Sim  Multiplayer  Gun Customization  Character Customization  Open World  PvE 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4940930,web_result,unknown_date,https://puls.games/skos-13-86,SKOS: 13.86 — Puls Games,"Find your game...
+
+SKOS: 13.86
+
+Survive the 14th-century Middle Ages and raid Pripyat for Soviet weapons.
+
+SKOS: 13.86
+
+0:00 / 0:00
+
+Track dev on
+
+Steam
+
+SKOS: 13.86
+
+SKOS: 13.86 is an action-adventure game where you play as stalkers thrown by an anomaly into the 14th-century Middle Ages. You must survive in a harsh world of knights, with the option to play solo or in cooperative multiplayer. The game requires you to navigate the ruins of the past and the future to change the course of history. [...] To gain a tactical advantage, players go on dangerous raids into modern-day Pripyat to gather Soviet weapons and valuable loot. The gameplay features intense action combat with firearms, vehicle combat, and stylized monster shooting. Every temporal raid brings new challenges as you balance medieval survival with modern firepower. [...] Developer
+
+Based Paw Crew
+
+Social
+
+## You may also like
+
+Dive into games you might enjoy.
+
+SAND: Raiders of Sophie
+
+Pre-Release
+
+109
+
+Thumbnail of Derelicts
+
+Pre-Release
+
+Thumbnail of HUNGER
+
+Early Access
+
+Blight: Survival
+
+Pre-Release
+
+109
+
+5
+
+Find your game
+
+Clear
+
+Start typing to find games...",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4940930,web_result,unknown_date,https://steamcommunity.com/app/4940930,Steam Community :: SKOS: 13.86,"The Based Paw Crew understands that you want to see gameplay. Right now, we are fully focused on creating the prototype and will be self-funding the project over the coming months. Why? It's simple: it allows us to retain complete creative freedom. So please, bear with us and be patient. [...] Most popular community and official content for the past week.  (?)
+
+25,000 Wishlists and a New Stage of Development!
+
+20 Aug
+
+We are here with some great news: the cinematic trailer received a massive response. In just three weeks, SKOS: 13.86 has gathered 25,000 wishlists, and the number keeps growing. Thank you so much for this vote of confidence. [...] And yes, one more thing. We want to turn this game into an unforgettable experience, which is impossible without a distinct visual style. To achieve this, we have launched a Discord server where we will shape the look of SKOS: 13.86 together with you. We started by posting the trailer there, and much more is on the way.
+
+We won't hide our development behind closed doors. We are always active on the server: any question, idea, or critique will reach us directly.",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+4940930,web_result,unknown_date,https://www.youtube.com/watch?v=heJxBmrdBVg,SKOS: 13.86 - Official Trailer,"Now you have to fight for survival amidst feudal wars and medieval filth. But the Zone didn't let you go that easily. From time to time, it will call you back—opening spatial rifts and dragging your entire squad to Pripyat for dangerous raids in search of Soviet loot.
+
+Wishlist on Steam: 
+
+Developer: Based Paw Crew [...] # SKOS: 13.86 - Official Trailer
+## Channel: Indie Games Hub (verified)
+251K subscribers
+291 likes
+
+### Description
+10,847 views
+Posted: 2026-08-03
+You are stalkers who made your first foray into the epicenter of a nuclear reactor explosion. While exploring the Chernobyl Exclusion Zone, you stumbled upon an unknown anomaly. A split-second flash—and before you know it, the squad was thrown back into the brutal Middle Ages of the 14th century.",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4940930,youtube_video,outside_window,https://www.youtube.com/watch?v=DHJE2Aml5yM,SKOS: 13.86 #gamestoplay #gaming #gaming,,,,35,medium,YouTube (+15); Exact title match (+20),
+4940930,youtube_video,outside_window,https://www.youtube.com/watch?v=DHJE2Aml5yM,SKOS: 13.86 #gamestoplay #gaming #gaming,,,,35,medium,YouTube (+15); Exact title match (+20),
+4940930,web_result,unknown_date,https://www.instagram.com/reel/DbJCb2rNvJs?hl=en,STALKERS in the Middle Ages somehow JUST WORKS.. ...,SKOS: 13.86 is a solo or online co-op survival game across two eras. Fight to stay alive amid feudal wars and medieval filth — then get dragged,,,25,weak,Social Index (+5); Exact title match (+20),general
+4940930,web_result,unknown_date,https://www.instagram.com/reel/DbJCb2rNvJs?hl=en,Instagram,"biffmatictv
+
+AD - STALKERS in the Middle Ages somehow JUST WORKS.. SKOS: 13.86   
+  
+#gaming #skos1386 #middleages #medieval #newgames
+
+nathanmcintyre's profile picture
+
+nathanmcintyre
+
+So its trying to do what Kingmakers is going for? Nice capitalization of a hypetrain 😐
+
+Reply
+
+njoygamers's profile picture
+
+njoygamers
+
+🔥🔥
+
+Reply
+
+allthegamesnoidea's profile picture
+
+allthegamesnoidea
+
+Take my money this this so good .... 🔥🔥
+
+Reply
+
+lordrollie's profile picture
+
+lordrollie
+
+2 likes
+
+Reply [...] Video by Biffmatic on October 03, 2026. May be a cartoon of poster and text.
+
+Video by Biffmatic on September 30, 2026. May be a graphic of poster and text.
+
+Video by Biffmatic on September 27, 2026. May be a video game screenshot of poster and text.
+
+See more posts
+
+--- [...] 2 likes
+
+Reply
+
+dimebythesword's profile picture
+
+dimebythesword
+
+HAND ME A SWORD I DONT NEED AN AK BIFF
+
+7 likes
+
+Reply
+
+japes_morello's profile picture
+
+japes\_morello
+
+AI Garbage ripoff of Kingmakers
+
+4 likes
+
+Reply
+
+arcisironman's profile picture
+
+arcisironman
+
+THIS LOOKS SICK
+
+1 like
+
+Reply
+
+33711
+
+Log in to like or comment.
+
+More posts from biffmatictv
+
+Video by Biffmatic on October 13, 2026. May be an image of poster, book and text.",,,25,weak,Social Index (+5); Exact title match (+20),general
+4940930,social_post,unknown_date,https://www.tiktok.com/@imranakram407/video/7666750370210712854,Tactical Respawn on TikTok,"Title: Tactical Respawn on TikTok
+Image 1: Game name: Mistfall Hunter 🌫️🗡️ Description: Mistfall Hunter is a dark‑fantasy extraction ARPG set in Weavereach, a shattered world where the gods have died and the Gyldenmist sweeps the realm. Launches on PlayStation 5 at 6 PM on July 29, 2026, with a 10% discount until August 12. Genre: Extraction ARPG / Dark Fantasy / Action Platforms: PlayStation 5 Release date: July 29, 2026 #fyp #gaming #gameplay #newgame. Description: Mistfall Hunter is a dark‑fantasy extraction ARPG set in Weavereach, a shattered world where the gods have died and the Gyldenmist sweeps the realm. Genre: Extraction ARPG / Dark Fantasy / Action. Release date: July 29, 2026. A chilling survival adventure where the world is frozen in time, forcing you to explore abandoned cities, uncover hidden secrets, and fight to stay warm as the frost closes in. Platforms: pc, playstation 5, xbox series x/s. What makes it stand out:. Image 5: A chilling survival adventure where the world is frozen in time, forcing you to explore abandoned cities, uncover hidden secrets, and fight to stay warm as the frost closes in. ❄️🔥 Game name: Unfrost Platforms: pc, playstation 5, xbox series x/s Release date: TBA What makes it stand out: 1. Image 6: A legendary sci‑fi shooter where humanity’s fate rests on the shoulders of the master chief, blending cinematic storytelling, iconic weapons, and massive battles across alien worlds. 🚀🛡️ Game name: Halo Platforms: xbox series x/s, xbox one, pc Release date: available now What makes it stand out: 1. Image 7: Description: A fast‑paced sci‑fi action experience built around precision combat, dynamic arenas, and a mysterious power rating known as skos 13.86. Image 8: Game name: Mistfall Hunter 🌫️🗡️ Description: Mistfall Hunter is a dark‑fantasy extraction ARPG set in the mist‑scarred world of Weavereach. Genre: Extraction ARPG / Dark Fantasy / Action Platforms: PlayStation 5 Release date: July 29, 2026 #fyp #gamingreels #pc#playstation #fyp. Game name: Mistfall Hunter 🌫️🗡️ Description: Mistfall Hunter is a dark‑fantasy extraction ARPG set in the mist‑scarred world of Weavereach. Genre: Adventure / Exploration / Naval Combat Platforms: PC Release date: TBA #gaming #fyp #newgame #pc #playstation. Genre: Action Adventure / Fantasy Platforms: PlayStation 5 Release date: 2026 #fyp #gamer #newgame #gamingreels #ps5games.",,"gameplay, release date",25,weak,"Social Index (+5); Keywords ['gameplay', 'release date'] (+20)",social
+4940930,social_post,unknown_date,https://www.instagram.com/reel/DbJCb2rNvJs,STALKERS in the Middle Ages somehow JUST WORKS.. ...,SKOS: 13.86 is an upcoming survival adventure where an anomaly throws a group of modern-day stalkers straight into the 14th century.,,,25,weak,Social Index (+5); Exact title match (+20),social
+4940930,social_post,unknown_date,https://www.instagram.com/reel/Db8cVJ3Eirk,SKOS: 13.86 is a solo or online co-op survival game across two ...,SKOS: 13.86 is a solo or online co-op survival game across two eras. Fight to stay alive amid feudal wars and medieval filth — then get dragged back through,,,25,weak,Social Index (+5); Exact title match (+20),social
+4940930,social_post,unknown_date,https://www.instagram.com/reel/DbJT8fmsm4I,⚔️ Modern weapons. Medieval warfare. One mysterious ...,"SKOS: 13.86 is one of the most unique upcoming survival shooters, throwing you into the 14th century where you'll battle massive armies of",,,25,weak,Social Index (+5); Exact title match (+20),social
+4940930,social_post,unknown_date,https://www.instagram.com/reel/DbLoeALO4nL,Sounds like an unfair fight 🎮 SKOS 1386 🗓️ Coming Soon ...,SKOS: 13.86 might be the most insane co-op FPS of 2026! Imagine being a stalker deep in the Chernobyl Exclusion Zone. Now you're surviving,,,25,weak,Social Index (+5); Exact title match (+20),social
+4940930,social_post,unknown_date,https://www.instagram.com/reel/Dbl5ZA_ouF_,What happened here? 👀 SKOS: 13.86 pulls you into a ...,"SKOS: 13.86 pulls you into a mysterious action gaming experience where something clearly isn't right. Explore, fight knights, and piece",,,25,weak,Social Index (+5); Exact title match (+20),social
+4940930,social_post,unknown_date,https://x.com/famitsu/status/2080133599815204934,Post,トラックを暴走させて騎士の群れを跳ね飛ばすFPS『SKOS: 13.86』Steamストアページ公開。現代兵器で中世騎士をめちゃくちゃにする異色の,,,25,weak,Social Index (+5); Exact title match (+20),social
+4940930,social_post,unknown_date,https://x.com/PresidentJeRio/reposts,Reposts by 大統領じぇりお/𝙲𝚘𝚖𝚒𝚗𝚐 𝚜𝚘𝚘𝚗.. (@PresidentJeRio) ...,. reposted · @Klukva_Games · Dead Weight · @Klukva_Games · Sep 25. 「中世にAKを持っていったら？」 答えは『SKOS: 13.86』。 Steamでウィッシュリストに追加。 ​ · ​.,,,25,weak,Social Index (+5); Exact title match (+20),social
+4940930,social_post,unknown_date,https://x.com/bnxpb5533,しかあ↑あ↓あ↑あ↓あ↑あ↓あ↑あ↓あ↑あ,「中世にAKを持っていったら？」 答えは『SKOS: 13.86』。 Steamでウィッシュリストに追加。,,,25,weak,Social Index (+5); Exact title match (+20),social
+4940930,social_post,unknown_date,https://x.com/Kupaczabra,Kupaczabra - Morfeusz,"You have guns. They have knights. And somehow, you're the one who's outmatched... SKOS: 13.86 — wishlist now!",,,25,weak,Social Index (+5); Exact title match (+20),social
+4940930,social_post,unknown_date,https://www.instagram.com/reel/DbJCb2rNvJs?hl=en,Instagram,"biffmatictv
+
+AD - STALKERS in the Middle Ages somehow JUST WORKS.. SKOS: 13.86   
+  
+#gaming #skos1386 #middleages #medieval #newgames
+
+nathanmcintyre's profile picture
+
+nathanmcintyre
+
+So its trying to do what Kingmakers is going for? Nice capitalization of a hypetrain 😐
+
+Reply
+
+njoygamers's profile picture
+
+njoygamers
+
+🔥🔥
+
+Reply
+
+allthegamesnoidea's profile picture
+
+allthegamesnoidea
+
+Take my money this this so good .... 🔥🔥
+
+Reply
+
+lordrollie's profile picture
+
+lordrollie
+
+2 likes
+
+Reply [...] 2 likes
+
+Reply
+
+dimebythesword's profile picture
+
+dimebythesword
+
+HAND ME A SWORD I DONT NEED AN AK BIFF
+
+7 likes
+
+Reply
+
+japes_morello's profile picture
+
+japes\_morello
+
+AI Garbage ripoff of Kingmakers
+
+4 likes
+
+Reply
+
+arcisironman's profile picture
+
+arcisironman
+
+THIS LOOKS SICK
+
+1 like
+
+Reply
+
+33711
+
+Log in to like or comment.
+
+More posts from biffmatictv
+
+Video by Biffmatic on October 13, 2026. May be an image of poster, book and text. [...] Video by Biffmatic on October 03, 2026. May be a cartoon of poster and text.
+
+Video by Biffmatic on September 30, 2026. May be a graphic of poster and text.
+
+Video by Biffmatic on September 27, 2026. May be a video game screenshot of poster and text.
+
+See more posts
+
+---",,,25,weak,Social Index (+5); Exact title match (+20),social
+4940930,web_result,unknown_date,https://www.youtube.com/@skos_13.86,SKOS: 13.86,Thrown by an anomaly into the Middle Ages. Trading Soviet rifles for castles on Steam: SKOS: 13.86 (Game in development) ...more,,,20,weak,Exact title match (+20),general
+4940930,web_result,unknown_date,https://steamcommunity.com/app/4940930,SKOS: 13.86,"SKOS: 13.86 - You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous",,,20,weak,Exact title match (+20),general
+4940930,web_result,unknown_date,https://store.steampowered.com/app/4940930/SKOS_1386,SKOS: 13.86,"You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous raids into modern-day Pripyat",,,20,weak,Exact title match (+20),general
+4940930,web_result,unknown_date,https://steamcommunity.com/app/4940930,SKOS: 13.86,"13.86 - You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous raids into modern-day",,,20,weak,Exact title match (+20),general
+4940930,web_result,unknown_date,https://store.steampowered.com/app/4940930/SKOS_1386,SKOS: 13.86,"The game features action combat with firearms, stylized monster shooting, vehicle combat, and minor alcohol depictions. READ MORE. System Requirements. Minimum:.",,,20,weak,Exact title match (+20),general
+4940930,web_result,unknown_date,https://steamcommunity.com/app/4940930,SKOS: 13.86,"You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous raids into",,,20,weak,Exact title match (+20),general
+4940930,web_result,unknown_date,https://steamcommunity.com/app/4940930,SKOS: 13.86,"SKOS: 13.86 - You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous",,,20,weak,Exact title match (+20),general
+4940930,web_result,unknown_date,https://store.steampowered.com/app/4940930/SKOS_1386,SKOS: 13.86,"Survive solo or in co-op in a world of knights, and go on dangerous raids into modern-day Pripyat for Soviet weapons and loot.",,,20,weak,Exact title match (+20),general
+4940930,web_result,unknown_date,https://store.steampowered.com/app/4940930/SKOS_1386,SKOS: 13.86,"You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous raids into modern-day Pripyat",,,20,weak,Exact title match (+20),general
+4940930,web_result,unknown_date,https://store.steampowered.com/app/4940930/SKOS_1386,SKOS: 13.86,"You are stalkers flung by an anomaly into the Middle Ages. Survive solo or in co-op in a world of knights, and go on dangerous raids into modern-day Pripyat",,,20,weak,Exact title match (+20),general
+4940930,web_result,unknown_date,https://steamdb.info/app/4940930,SKOS: 13.86,"Information. App ID, 4940930. App Type, Game. Developer, Based Paw Crew. Publisher, Based Paw Crew. Supported Systems, Windows. Last Changenumber, 39494263.",,,20,weak,Exact title match (+20),general
+4940930,youtube_video,outside_window,https://www.youtube.com/watch?v=jeLvSZvpzEU,Is Fading Echo Worth Playing? Plus Big Schedule 1 News! | Indie Radar,,"We reviewed Fading Echo thanks to a review key provided by the developers! While its gorgeous world design, puzzle mechanics ...",,15,weak,YouTube (+15),
+4940930,reddit_discussion,unknown_date,https://www.reddit.com/r/TheImmortalGreatSouls/comments/1j2mng2/skadis_saga_2_launching_tomorrow,Skadi's Saga #2 launching tomorrow! : r/TheImmortalGreatSouls,This book sees Skadi's adventures along the Draugr Coast reach their darkest nadir as she's forced to face a malevolent force that's kept even the proud vikings,,,10,weak,Reddit (+10),social
+4940930,social_post,unknown_date,https://www.tiktok.com/@meddiccmedia/video/7554011490383138070,"At SKOs, we feel the energy, the belief, the drive. 🔥 We walk away fi... | TikTok","Come with us behind the scenes at MEDDICC HQ! In sales, if your metrics aren’t tied to the personal and business priorities of your stakeholders, they’re essentially just numbers on a slide 🤷 Top sellers tie those metrics to 𝙬𝙝𝙖𝙩 𝙥𝙚𝙤𝙥𝙡𝙚 𝙞𝙣 𝙩𝙝𝙚 𝙗𝙪𝙨𝙞𝙣𝙚𝙨𝙨 𝙖𝙘𝙩𝙪𝙖𝙡𝙡𝙮 𝙘𝙖𝙧𝙚 𝙖𝙗𝙤𝙪𝙩. #sales #metrics #selling #salestactics #meddpicc. In a toxic environment for a young female sales professional, you can’t flourish where you’re being held back. 🎧 Catch the full conversation on The Female Sales Leader (FSL) Podcast. #femalesalesleader #womeninsales #sales #enterprisesales #careeradvice. Search ‘MEDDICC: Selling to a CTO’ on YouTube! #CTO #MEDDPICC #MEDDICC #SALES #TECHSALES. Search: The Female Sales Leader on YouTube and Spotify for the full episode! ""There’s no manual for this."" On January 1st, Julie Jin joined MEDDICC as COO with one goal: to make 2025 the best year of her career. The Lesson: Events are for interest, but follow-ups are for revenue.If you aren’t in the calendar, you’re invisible.Your biggest rival is “Do Nothing.” Stop letting your competitors out-process you. That feeling when the Champion is Championing 🤌 #MEDDICC #SalesMemes #TechSales #SaaS #Champion. When you accidentally lock your production team in the studio over the festive break… 😬😬 #sales #meddicc #twixtmas #festivefeels #salesmemes. #christmas #ChristmasParody #FestiveChaos #meddicc #BehindTheScenes. Not every note made it to the album… 😂🎶 Here’s the blooper reel of 𝗡𝗢𝗪 𝗧𝗵𝗮𝘁’𝘀 𝗪𝗵𝗮𝘁 𝗜 𝗖𝗮𝗹𝗹 𝗤𝟰 - the outtakes you didn’t know you needed, starring Andy Whyte and Pim Roelofsen. From all of us at MEDDICC, wishing you a very Merry Christmas and a joyful end to the year! 💪💙 #Christmas #Sales #MEDDIC #B2B #Q4. 🎶 Introducing MEDDICC’s new release: 𝗡𝗢𝗪 𝗧𝗵𝗮𝘁’𝘀 𝗪𝗵𝗮𝘁 𝗜 𝗖𝗮𝗹𝗹 𝗤𝟰 Starring Andy Whyte and Pim Roelofsen, blessing your ears with vocals nobody saw coming 🎤 Guaranteed to make your Q4 feel slightly less stressful. But don’t let it take over you - own it! #ImposterSyndrome #B2B #Sales #WomenInSales #SalesLeadership. A Champion isn’t someone you just put on a pedestal in sales - you’ve got to put them to work too! After all - they’re the ones selling internally for you and your solution when you’re not in the room… #sales #B2B #meddic #salestips.",,,5,weak,Social Index (+5),social
+4940930,social_post,unknown_date,https://www.tiktok.com/@studentskiklubkamnik/video/7381938577371843872,Dobro voljo pa skos prnese!😆 #justforfun #škk #Študentskiklubkamnik #... | TikTok,"#### Company. #### Program. #### Terms & Policies. We're having trouble playing this video. Please refresh and try again. Evo zdej veš… kaj pa še čakaš?? #skk #studentskiklubkamnik #kamnik #fyp #studenti #dijaki #zatebe #fyp #fypslovenija. ## Holiday HaulSurprise Gift Box Explosion for Money, Unique Folding Bouncing Red Envelope Gift Box , Cash Explosion Luxury Gift Box for Birthday Anniversary Valentine Proposal. ## Holiday HaulPetPivot AutoScooper 11 Open-Top Self-Cleaning Cat Litter Box，Odor-Free Waste Disposal includes Trash Bags. 4.6· seo\_kep\_numSold. Evo zdej veš… kaj pa še čakaš?? 🏃💨 #skk #studentskiklubkamnik #kamnik #fyp #studenti #dijaki #zatebe #fyp #fypslovenija. ŠKK je tukaj - Fužine 10, prideš? Pejt pogledat, kaj dogaja pri nas, pa se vidmo! 👋 #studentskiklubkamnik #skk #kamnik #info #fyp #zatebe. Big siblings advice 🤝 #studentskiklubkamnik #skk #fyp #zatebe. ➡️ skk.si #studentskiklubkamnik #skk #signs #fyp #zatebe. november 2025 📍Okolica Kamnika Za člane ŠKK, brezplačno Prijave odprte do 13. do 18:00 - link v bio na IG (mesta so omejena)! Podrobnejsi opis dogodka najdes na nasem FB profilu ‼️P.S. Dijaki lahko sodelovanje na vikendu uveljavljate pri urah obveznih izbirnih vsebin (OIV). Včlani se v ŠKK še danes 🎃 #skk #studentskiklubkamnik #fyp #zatebe #viral. ŠKK-jevci 🫶🏽 #skk #studentskiklubkamnik #fyp #slovenia #zatebe. Oopsie 🙈 #skk #studentskiklubkamnik #fyp #slovenia #zatebe @Roknband\_Rok\_Ferengja. Jagode in čokoladaa 🍓 @Roknband\_Rok\_Ferengja #skk #studentskiklubkamnik #fyp #slovenia #zatebe. Le še dva dni nas ločita do koncerta 🥳🎉🪩 #skk #studentskiklubkamnik #fyp #slovenia #zatebe. 🚨 TA VIKEND 🚨 pohiti na entrio.si po svojo karto #skk #studentskiklubkamnik #fyp #slovenia #zatebe. 🔔 SAVE THE DATE 🔔 #skk #studentskiklubkamnik #fyp #zatebe #koncert. Hitro skoc na entrio.si, pa si zagotovi svojo karto 🏃‍♂️ #skk #studentskiklubkamnik #fyp #zatebe #koncert. I DONT WANNA BE FRIENDS🗣️ #skk #studentskiklubkamnik #fyp #zatebe #redflag. September… če te ni manjkaš ;) #skk #studentskiklubkamnik #fyp #zatebe #tik\_tok. 🔔SAVE THE DATE🔔 20.9.2025 —> karte na Entrio 🎫 #studentskiklubkamnik #skk #fyp #zatebe #tik\_tok.",,,5,weak,Social Index (+5),social
+4940930,social_post,unknown_date,https://x.com/VRC_VisitorE,旅人Eです (@VRC_VisitorE) / X,VRC2024年8/17〜心の病気で体痛い砂嵐の人。ちょっと変わった改変しがち。使用アバター:Echo Vision VTP01-アスター(キメラ)/ヘルメット式潜水服/PictMan/ライム/,,,5,weak,Social Index (+5),social
+4940930,web_result,unknown_date,https://www.w3.org/TR/skos-primer,SKOS Simple Knowledge Organization System Primer,"## 1 Introduction
+
+The Simple Knowledge Organization System (SKOS) is an RDF vocabulary for
+representing semi-formal knowledge organization systems (KOSs), such
+as thesauri, taxonomies, classification schemes and subject heading lists.
+Because SKOS is based on the Resource Description Framework (RDF) [RDF-PRIMER] these representations are
+machine-readable and can be exchanged between software applications and
+published on the World Wide Web. [...] SKOS has been designed to provide a low-cost migration path for porting
+existing organization systems to the Semantic Web. SKOS also provides a
+lightweight, intuitive conceptual modeling language for developing and
+sharing new KOSs. It can be used on its own, or in combination with
+more-formal languages such as the Web Ontology Language (OWL) [OWL]. SKOS can also be seen as a bridging
+technology, providing the missing link between the rigorous logical formalism [...] Valid XHTML 1.0!
+Valid CSS!",,,0,weak,,general
+4940930,web_result,unknown_date,https://www.w3.org/news/2009/call-for-review-skos-reference-proposed-recommendation,Call for Review: SKOS Reference Proposed Recommendation | 2009 | News | W3C,"The Semantic Web Deployment Working Group has published the Proposed Recommendation of SKOS Simple Knowledge Organization System Reference. SKOS provides a common data model for sharing and linking knowledge organization systems via the Web. SKOS is a vocabulary for expressing the basic structure and content of concept schemes such as thesauri, classification schemes, subject heading schemes, taxonomies, folksonomies, and other similar types of controlled vocabulary. As an application of the [...] application of the Resource Description Framework (RDF), SKOS allows concepts to be composed and published on the World Wide Web, linked with data on the Web and integrated into other concept schemes. Along with this publication of the SKOS Reference Proposed Recommendation the Working Group has published an updated SKOS Primer Working Draft. Comments are welcome through 15 July. Learn more about the Semantic Web Activity. [...] ## Support us
+
+Make a huge difference to our operations as a public-interest non-profit, and help us to achieve our vision.
+
+## About
+
+Understand our values and principles, learn our history, look into our policies, meet our people.
+
+# Call for Review: SKOS Reference Proposed Recommendation
+
+## Author(s) and publish date",,,0,weak,,general
+4940930,web_result,unknown_date,https://www.w3.org/2004/02/skos/core/spec/2005-08-25,SKOS Core Vocabulary :: Vocabulary Specification (en),"This edition of the SKOS Core Vocabulary Specification is a W3C Public Working Draft. It has been reviewed and approved for publication by the Semantic Web Best Practices and Deployment Working Group. It is the authoritative human-readable account of the SKOS Core Vocabulary at the time of publication.
+
+A formal representation of the SKOS Core Vocabulary is maintained in RDF/OWL latest: [ Historical snapshots of the RDF/OWL description of the SKOS Core Vocabulary can be obtained from [ [...] ## Introduction
+
+SKOS stands for Simple Knowledge Organisation System. The name SKOS was chosen to emphasise the goal of providing a simple yet powerful model for expressing knowledge organisation systems in a machine-understandable way, within the framework of the Semantic Web.",,,0,weak,,general
+4940930,web_result,unknown_date,https://www.w3.org/2004/02/skos/core/guide/2005-01-25.html,SKOS Core Guide,"This document is an Editor's Draft for review by the Semantic Web Best Practices and Deployment Working Group (hereafter 'the Working Group') and the participants of the public-esw-thes@w3.org mailing list and is subject to change without notice. This document has no formal standing within W3C. Please consult the Working Group's home page and the W3C technical reports index for information about the latest publications by this group. This document may be updated, replaced or obsoleted by other [...] ## Introduction
+
+SKOS stands for Simple Knowledge Organisation System. The name SKOS was chosen to emphasise the goal of providing a simple yet powerful framework for expressing knowledge organisation systems in a machine-understandable way.
+
+SKOS Core provides a model for expressing the basic structure and content of concept schemes. [...] ## About This Guide",,,0,weak,,general

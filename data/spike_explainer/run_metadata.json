@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-10-15T04:13:08.612850+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261015_040312/rank_changes.csv",
-    "selected_appid": "4373620",
-    "selected_game_title": "Fresco",
+    "started_at": "2026-10-15T16:49:55.618848+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261015_164108/rank_changes.csv",
+    "selected_appid": "4940930",
+    "selected_game_title": "SKOS: 13.86",
     "top_n": 1,
     "old_snapshot_date": "2026-10-12",
     "new_snapshot_date": "2026-10-15",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-15T04:13:08.612865+00:00",
+    "finished_at": "2026-10-15T16:49:55.618861+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

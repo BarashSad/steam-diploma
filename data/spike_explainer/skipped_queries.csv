@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-4373620,Fresco,"site:pcgamer.com ""Fresco""",press,2,tavily,False,General budget exhausted,0
-4373620,Fresco,"site:rockpapershotgun.com ""Fresco""",press,2,tavily,False,General budget exhausted,0
-4373620,Fresco,"site:ign.com ""Fresco""",press,2,tavily,False,General budget exhausted,0
-4373620,Fresco,"site:gamespot.com ""Fresco""",press,2,tavily,False,General budget exhausted,0
-4373620,Fresco,"site:game8.co ""Fresco""",press,2,tavily,False,General budget exhausted,0
+4940930,SKOS: 13.86,"site:pcgamer.com ""SKOS: 13.86""",press,2,tavily,False,General budget exhausted,0
+4940930,SKOS: 13.86,"site:rockpapershotgun.com ""SKOS: 13.86""",press,2,tavily,False,General budget exhausted,0
+4940930,SKOS: 13.86,"site:ign.com ""SKOS: 13.86""",press,2,tavily,False,General budget exhausted,0
+4940930,SKOS: 13.86,"site:gamespot.com ""SKOS: 13.86""",press,2,tavily,False,General budget exhausted,0
+4940930,SKOS: 13.86,"site:game8.co ""SKOS: 13.86""",press,2,tavily,False,General budget exhausted,0
