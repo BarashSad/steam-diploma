@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-10-14T17:03:50.195750+00:00,4373620,Fresco,data/spike_explainer/2026-10-14__appid_4373620__rank_900_to_861__up_39,39,65,data/spike_explainer/2026-10-14__appid_4373620__rank_900_to_861__up_39/llm_summary_input.md
+2026-10-15T04:12:45.022328+00:00,4373620,Fresco,data/spike_explainer/2026-10-15__appid_4373620__rank_861_to_838__up_23,23,65,data/spike_explainer/2026-10-15__appid_4373620__rank_861_to_838__up_23/llm_summary_input.md

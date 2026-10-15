@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4373620,Fresco,"""Fresco"" Steam",general,1,tavily,True,,5
+4373620,Fresco,"""Fresco"" trailer",general,1,tavily,True,,5
+4373620,Fresco,"""Fresco"" gameplay",general,1,tavily,True,,5
+4373620,Fresco,"""Fresco"" demo",general,1,tavily,True,,5
+4373620,Fresco,"""Fresco"" release date",general,1,tavily,True,,5
+4373620,Fresco,"""Fresco"" announcement",general,1,tavily,True,,5
+4373620,Fresco,"""Fresco"" preview",general,1,tavily,True,,5
+4373620,Fresco,"""Fresco"" review",general,1,tavily,True,,5
+4373620,Fresco,"""Fresco"" publisher",general,1,tavily,True,,5
+4373620,Fresco,"""Fresco"" developer",general,1,tavily,True,,5
+4373620,Fresco,"site:pcgamer.com ""Fresco""",press,2,tavily,False,General budget exhausted,0
+4373620,Fresco,"site:rockpapershotgun.com ""Fresco""",press,2,tavily,False,General budget exhausted,0
+4373620,Fresco,"site:ign.com ""Fresco""",press,2,tavily,False,General budget exhausted,0
+4373620,Fresco,"site:gamespot.com ""Fresco""",press,2,tavily,False,General budget exhausted,0
+4373620,Fresco,"site:game8.co ""Fresco""",press,2,tavily,False,General budget exhausted,0
+4373620,Fresco,"site:reddit.com ""Fresco""",social,3,tavily,True,,5
+4373620,Fresco,"site:tiktok.com ""Fresco""",social,4,tavily,True,,5
+4373620,Fresco,"site:instagram.com ""Fresco""",social,4,tavily,True,,5
+4373620,Fresco,"site:x.com ""Fresco""",social,4,tavily,True,,5
+4373620,Fresco,"site: ""Fresco""",social,4,tavily,True,,5

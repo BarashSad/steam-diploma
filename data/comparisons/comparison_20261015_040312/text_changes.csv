@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3370490,Giggleland,Giggleland,764,754,10,10,up,none,Free,Unpriced (Coming Soon),True,Coming soon,"Oct 26, 2026",True
+4308420,Arizona Sunshine®,Arizona Sunshine®,1047,1044,3,3,up,none,Free,$19.99,True,"Jan 21, 2027","Jan 21, 2027",False
+2513270,UvsU: You vs You,UvsU: You vs You,1038,1036,2,2,up,none,Unpriced (Coming Soon),Free,True,To be announced,"Jan 21, 2027",True
+3031890,Acts of Blood,Acts of Blood,218,217,1,1,up,none,Free,Unpriced (Coming Soon),True,Coming soon,December 2026,True
+4892120,ROUTE,ROUTE,850,850,0,0,stable,none,Free,Unpriced (Coming Soon),True,Coming soon,December 2026,True

@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-15T04:13:08.716725+00:00",
+    "timestamp": "20261015_041308",
+    "input_file": "data/spike_explainer/2026-10-15__appid_4373620__rank_861_to_838__up_23/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-15__appid_4373620__rank_861_to_838__up_23/llm_outputs/gemini_20261015_041308.md",
+    "game_title": "Fresco",
+    "appid": "4373620",
+    "duration_sec": 17.93,
+    "response_length": 5021,
+    "error": null
+}
