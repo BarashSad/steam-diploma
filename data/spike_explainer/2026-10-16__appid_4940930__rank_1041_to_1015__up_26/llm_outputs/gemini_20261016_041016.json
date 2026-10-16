@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-16T04:10:16.395168+00:00",
+    "timestamp": "20261016_041016",
+    "input_file": "data/spike_explainer/2026-10-16__appid_4940930__rank_1041_to_1015__up_26/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-16__appid_4940930__rank_1041_to_1015__up_26/llm_outputs/gemini_20261016_041016.md",
+    "game_title": "SKOS: 13.86",
+    "appid": "4940930",
+    "duration_sec": 19.01,
+    "response_length": 5382,
+    "error": null
+}

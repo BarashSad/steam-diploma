@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3734220,Guns of Eschaton,Guns of Eschaton,275,267,8,8,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Dec 8, 2026",True
+3470500,Ember and Blade,Ember and Blade,669,664,5,5,up,none,Free,Free,False,Coming soon,"Jan 7, 2027",True
+1630450,EDEN.schemata();,EDEN.schemata();,1074,1072,2,2,up,none,Unpriced (Coming Soon),Free,True,2026,Coming soon,True
+4910490,Ignite the Depths,Ignite the Depths,179,178,1,1,up,none,Unpriced (Coming Soon),Free,True,2026,2027,True
