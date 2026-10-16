@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: SKOS: 13.86
+Analyzed: ECC: REDLINE
 Tavily Budget Used: 15
 Errors: 0

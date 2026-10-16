@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+1905580,Kloa - Child of the Forest,Kloa - Child of the Forest,1114,1108,6,6,up,none,Unpriced (Coming Soon),Free,True,2026,January 2027,True
+4299480,Vampire Mistress,Vampire Mistress,851,849,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 30, 2026","Nov 6, 2026",True
+2915770,Rescue Ops: Wildfire,Rescue Ops: Wildfire,536,537,-1,1,down,none,Free,Free,False,Coming soon,Q1 2027,True

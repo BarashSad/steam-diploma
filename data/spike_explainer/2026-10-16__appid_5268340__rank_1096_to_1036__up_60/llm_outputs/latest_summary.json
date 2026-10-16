@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-16T16:33:41.608541+00:00",
+    "timestamp": "20261016_163341",
+    "input_file": "data/spike_explainer/2026-10-16__appid_5268340__rank_1096_to_1036__up_60/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-16__appid_5268340__rank_1096_to_1036__up_60/llm_outputs/gemini_20261016_163341.md",
+    "game_title": "ECC: REDLINE",
+    "appid": "5268340",
+    "duration_sec": 17.67,
+    "response_length": 6375,
+    "error": null
+}
