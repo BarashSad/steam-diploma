@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5268340,ECC: REDLINE,ECC: REDLINE,1036,999,37,37,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4940930,SKOS: 13.86,SKOS: 13.86,971,937,34,34,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+5306540,Groundwork Simulator,Groundwork Simulator,1099,1072,27,27,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4414860,Direland,Direland,933,911,22,22,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4308420,Arizona Sunshine®,Arizona Sunshine®,1008,988,20,20,up,upward_spike,$19.99,$19.99,False,"Jan 21, 2027","Jan 21, 2027",False

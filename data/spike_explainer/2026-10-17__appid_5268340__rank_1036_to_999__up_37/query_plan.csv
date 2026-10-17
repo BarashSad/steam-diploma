@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5268340,ECC: REDLINE,"""ECC: REDLINE"" Steam",general,1,tavily,True,,5
+5268340,ECC: REDLINE,"""ECC: REDLINE"" trailer",general,1,tavily,True,,5
+5268340,ECC: REDLINE,"""ECC: REDLINE"" gameplay",general,1,tavily,True,,5
+5268340,ECC: REDLINE,"""ECC: REDLINE"" demo",general,1,tavily,True,,5
+5268340,ECC: REDLINE,"""ECC: REDLINE"" release date",general,1,tavily,True,,5
+5268340,ECC: REDLINE,"""ECC: REDLINE"" announcement",general,1,tavily,True,,5
+5268340,ECC: REDLINE,"""ECC: REDLINE"" preview",general,1,tavily,True,,5
+5268340,ECC: REDLINE,"""ECC: REDLINE"" review",general,1,tavily,True,,5
+5268340,ECC: REDLINE,"""ECC: REDLINE"" publisher",general,1,tavily,True,,5
+5268340,ECC: REDLINE,"""ECC: REDLINE"" developer",general,1,tavily,True,,5
+5268340,ECC: REDLINE,"site:pcgamer.com ""ECC: REDLINE""",press,2,tavily,False,General budget exhausted,0
+5268340,ECC: REDLINE,"site:rockpapershotgun.com ""ECC: REDLINE""",press,2,tavily,False,General budget exhausted,0
+5268340,ECC: REDLINE,"site:ign.com ""ECC: REDLINE""",press,2,tavily,False,General budget exhausted,0
+5268340,ECC: REDLINE,"site:gamespot.com ""ECC: REDLINE""",press,2,tavily,False,General budget exhausted,0
+5268340,ECC: REDLINE,"site:game8.co ""ECC: REDLINE""",press,2,tavily,False,General budget exhausted,0
+5268340,ECC: REDLINE,"site:reddit.com ""ECC: REDLINE""",social,3,tavily,True,,5
+5268340,ECC: REDLINE,"site:tiktok.com ""ECC: REDLINE""",social,4,tavily,True,,5
+5268340,ECC: REDLINE,"site:instagram.com ""ECC: REDLINE""",social,4,tavily,True,,5
+5268340,ECC: REDLINE,"site:x.com ""ECC: REDLINE""",social,4,tavily,True,,5
+5268340,ECC: REDLINE,"site: ""ECC: REDLINE""",social,4,tavily,True,,5
