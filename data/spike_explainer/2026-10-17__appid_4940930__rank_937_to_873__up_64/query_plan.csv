@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4940930,SKOS: 13.86,"""SKOS: 13.86"" Steam",general,1,tavily,True,,5
+4940930,SKOS: 13.86,"""SKOS: 13.86"" trailer",general,1,tavily,True,,5
+4940930,SKOS: 13.86,"""SKOS: 13.86"" gameplay",general,1,tavily,True,,5
+4940930,SKOS: 13.86,"""SKOS: 13.86"" demo",general,1,tavily,True,,5
+4940930,SKOS: 13.86,"""SKOS: 13.86"" release date",general,1,tavily,True,,5
+4940930,SKOS: 13.86,"""SKOS: 13.86"" announcement",general,1,tavily,True,,5
+4940930,SKOS: 13.86,"""SKOS: 13.86"" preview",general,1,tavily,True,,5
+4940930,SKOS: 13.86,"""SKOS: 13.86"" review",general,1,tavily,True,,5
+4940930,SKOS: 13.86,"""SKOS: 13.86"" publisher",general,1,tavily,True,,5
+4940930,SKOS: 13.86,"""SKOS: 13.86"" developer",general,1,tavily,True,,5
+4940930,SKOS: 13.86,"site:pcgamer.com ""SKOS: 13.86""",press,2,tavily,False,General budget exhausted,0
+4940930,SKOS: 13.86,"site:rockpapershotgun.com ""SKOS: 13.86""",press,2,tavily,False,General budget exhausted,0
+4940930,SKOS: 13.86,"site:ign.com ""SKOS: 13.86""",press,2,tavily,False,General budget exhausted,0
+4940930,SKOS: 13.86,"site:gamespot.com ""SKOS: 13.86""",press,2,tavily,False,General budget exhausted,0
+4940930,SKOS: 13.86,"site:game8.co ""SKOS: 13.86""",press,2,tavily,False,General budget exhausted,0
+4940930,SKOS: 13.86,"site:reddit.com ""SKOS: 13.86""",social,3,tavily,True,,5
+4940930,SKOS: 13.86,"site:tiktok.com ""SKOS: 13.86""",social,4,tavily,True,,5
+4940930,SKOS: 13.86,"site:instagram.com ""SKOS: 13.86""",social,4,tavily,True,,5
+4940930,SKOS: 13.86,"site:x.com ""SKOS: 13.86""",social,4,tavily,True,,5
+4940930,SKOS: 13.86,"site: ""SKOS: 13.86""",social,4,tavily,True,,5

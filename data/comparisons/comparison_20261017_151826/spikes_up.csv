@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4940930,SKOS: 13.86,SKOS: 13.86,937,873,64,64,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+5268340,ECC: REDLINE,ECC: REDLINE,999,950,49,49,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4414860,Direland,Direland,911,883,28,28,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+3498720,Rain98,Rain98,625,602,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,2026,False
