@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5268340,ECC: REDLINE,ECC: REDLINE,950,925,25,25,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+3788110,DungeonBox,DungeonBox,998,975,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Dec 1, 2026","Dec 1, 2026",False
+4760480,You Are Empty: Absolute Edition,You Are Empty: Absolute Edition,1090,1068,22,22,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 27, 2026","Oct 27, 2026",False
+5266240,Potato Please,Potato Please,853,832,21,21,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4940930,SKOS: 13.86,SKOS: 13.86,873,852,21,21,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False

@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-10-17T15:28:25.143514+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261017_151826/rank_changes.csv",
-    "selected_appid": "4940930",
-    "selected_game_title": "SKOS: 13.86",
+    "started_at": "2026-10-18T04:05:30.022907+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261018_035651/rank_changes.csv",
+    "selected_appid": "5268340",
+    "selected_game_title": "ECC: REDLINE",
     "top_n": 1,
-    "old_snapshot_date": "2026-10-14",
-    "new_snapshot_date": "2026-10-17",
+    "old_snapshot_date": "2026-10-15",
+    "new_snapshot_date": "2026-10-18",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-17T15:28:25.143528+00:00",
+    "finished_at": "2026-10-18T04:05:30.022936+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
