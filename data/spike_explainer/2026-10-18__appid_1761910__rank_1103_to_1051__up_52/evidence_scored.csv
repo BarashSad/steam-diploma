@@ -1,0 +1,1231 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+1761910,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440577,Athanasia Coming To Early Access,,"Hello everyone, we have some exciting news for you all today. Athanasia will be coming to Early Access this October 19th. You can watch our Early Access trailer on Gamespot channel today at 8am PT / 12pm ESTThis will include the first half of the game. With the remaining half under development as of",trailer,75,strong,Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['trailer'] (+20),
+1761910,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=KhDL_hE-j94,Athanasia - Official Release Date Trailer!,,"Athanasia, an immersive sim dinosaur horror game is coming out in EARLY ACCESS on October 19th, 2026! Dive deep into the ...","trailer, release date",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",
+1761910,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=qXF3BH-cKGM,Athanasia - Official Trailer,,"Athanasia: official trailer. Fight the past in Athanasia, an immersive horror FPS set in an abandoned research facility overrun with ...",trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641450711,Prepare To Escape: Athanasia Joins Indie Horror Showcase!,,"Trick, treat, or scream? The nightmare continues this spooky season! Catch the brand new trailer of Athanasia at the Indie Horror Showcase by DreadXP! Ancient predators now roam free in this abandoned facility. What they have in strength and number, you counter with cunning and wit. Scavenge, craft,","trailer, showcase",60,medium,"Official Steam News (+20); Exact title match (+20); Keywords ['trailer', 'showcase'] (+20)",
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772417066,Athanasia Joins The Spook-tacular Halloween Showcase!,,"It's the season for ghostly horrors and sweet treats!🎃🍬 Neon Doctrine is proud to announce that Athanasia is a part of the Halloween Showcase by the Horror Game Awards! {STEAM_CLAN_IMAGE}/41506501/b018874198fa6e03202a9b92355ece810f1214be.png As an explorer and researcher, it's your responsibility to",showcase,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['showcase'] (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1810503566458629,Athanasia Is A Part of Brutal Indies Unleashed 2025!,,"Madness. Mayhem. Pure, infinite chaos. Indulge yourself in the carnage of Zlimbratski's Brutal Indies Unleashed 2025!🔥💀 {STEAM_CLAN_IMAGE}/41506501/1ec1502799be64f7a8821a953a164e672e562d9b.png Athanasia is a part of the Brutal Indies Unleashed by Zlimbratski! Play the demo and wishlist now: https://",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1807332909564606,Thank You For 250 Reviews!,,WE'VE REACHED 250 REVIEWS FOR THE ATHANASIA DEMO! Thank you to everyone who braved our demo and left a review during Neon Doctrine's Carnival of Chaos! We're thrilled to be sitting at 95% Very Positive reviews. 🦖🔥 {STEAM_CLAN_IMAGE}/41506501/1023ab82f7df40bf8981e07e58b118c0a11415c4.png Your support ,demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1806064758615888,Athanasia Demo 2.0 Out Now On Neon Doctrine Carnival of Chaos!,,"The carousel of games won't stop spinning... and it's calling you. Presenting a chilling, thrilling, killer collection of ghoulish games and devilish demos, featuring a brand new demo of Athanasia! What's new: Added Simplified Chinese Enemy AI bug fixes and adjustments Inventory bug fixes Now you're",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802261838710726,🔥Athanasia Hits 25k Wishlists!🔥,,"‼️WE'VE HIT 25,000 WISHLISTS FOR ATHANASIA‼️ We're incredibly grateful for all your support and thank you for all the love you've shown for our demo! If you would like to support us more, please do share the demo with your fellow explorers ~🦖 ➡️ PLAY THE DEMO NOW and WISHLIST‼️Join our community and",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1801617199510995,"🔥130 REVIEWS, 92% VERY POSITIVE!!🔥",,"WE'VE REACHED 130 REVIEWS FOR THE ATHANASIA DEMO!!!! {STEAM_CLAN_IMAGE}/41506501/f0cbca3b5b744cc12242b1a88fd646823e205546.png Thank you so much for playing the demo and leaving your reviews, we're now at 92% VERY POSITIVE REVIEWS!!🦖🔥 We're so grateful that you love our immersive sim game, and please",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800991756481726,"Athanasia Joins Neon Doctrine, and featured on The MIX Summer Showcase!",,"We're excited to announce that Athanasia has joined Neon Doctrine, and is also featured on The MIX Summer Showcase! You play as Carmen Flores, an explorer and researcher, tasked to investigate a mysterious facility in South America where disappearances and strange phenomena have been reported. It's ",showcase,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['showcase'] (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6240387642464165760,Athanasia Kickstarter Live Now!,,Hello everyone! We are excited to announce our Kickstarter is live right now! If you played our demo and liked what you saw then we need your help realizing our dream. Become a part of something bigger and allow us to make the game of our dreams. You can back us here: https://www.kickstarter.com/pro,demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5747233970422179171,Athanasia First Patch Out Now!,,"Hello everyone! We are happy to announce our first major patch to the demo which should address some issues players encountered. If this is your first time or you are returning to the demo, now is the time hop on again and try the demo out! Full patch notes here: -Bug fixes -Major performance boost ",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6474562312196463305,Athanasia STEAM DEMO OUT NOW,,Hello everyone! We are happy to announce our official hour long steam demo is up and ready to go. Please give it a shot when you have a chance.,demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+1761910,youtube_video,outside_window,https://www.youtube.com/watch?v=J-gaOoLzTbo,Athanasia Cinematic Trailer,,Explore a mysterious facility and use everything you have to survive. Use an arsenal of equipment and your wits against time ...,trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+1761910,youtube_video,outside_window,https://www.youtube.com/watch?v=vzscMM0HmVM,Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025,,"Explore a mysterious facility and do all you can to survive in Athanasia, where you will have to use the tools at your disposal and ...","trailer, gameplay, showcase",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay', 'showcase'] (+20)",
+1761910,youtube_video,outside_window,https://www.youtube.com/watch?v=C1g8MVSL1gU,Athanasia Gameplay / No Commentary [1080p60FPS],,Athanasia Gameplay You can buy the game here: https://store.steampowered.com/app/1761910/Athanasia Thanks for watching!,gameplay,55,medium,YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+1761910,youtube_video,outside_window,https://www.youtube.com/watch?v=vzscMM0HmVM,Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025,,"Explore a mysterious facility and do all you can to survive in Athanasia, where you will have to use the tools at your disposal and ...","trailer, gameplay, showcase",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay', 'showcase'] (+20)",
+1761910,youtube_video,outside_window,https://www.youtube.com/watch?v=s5SBZ4NlB6Q,Athanasia Demo by Momentum Games LLC - First Person Dino Crisis,,Play this if first person atmospheric horror and some Deus Ex is your thing. Picture first person Resident Evil with Immersive Sim ...,demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+1761910,youtube_video,outside_window,https://www.youtube.com/watch?v=J-gaOoLzTbo,Athanasia Cinematic Trailer,,Explore a mysterious facility and use everything you have to survive. Use an arsenal of equipment and your wits against time ...,trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+1761910,youtube_video,outside_window,https://www.youtube.com/watch?v=HjppKKlSwbo,Athanasia Demo Trailer,,Athanasia Demo Available On Steam Now: https://store.steampowered.com/app/1761910/Athanasia/,"trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+1761910,youtube_video,outside_window,https://www.youtube.com/watch?v=NhBkKt5vNiE,Goony Tests Games: Athanasia Demo,,I play the demo of a game in both the survival horror and immersive sim genre called Athanasia. I really fancied playing another ...,demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+1761910,youtube_video,outside_window,https://www.youtube.com/watch?v=-yb6PT970RE,Athanasia | Demo | GamePlay PC,,"Athanasia is an immersive horror FPS where you play as Carmen Flores, a researcher and explorer. Called to a mysterious facility ...","gameplay, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+1761910,youtube_video,outside_window,https://www.youtube.com/watch?v=HjppKKlSwbo,Athanasia Demo Trailer,,Athanasia Demo Available On Steam Now: https://store.steampowered.com/app/1761910/Athanasia/,"trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+1761910,youtube_video,outside_window,https://www.youtube.com/watch?v=xCzykg-KnB0,Athanasia Demo Review | #indiegame #retrogame #dinosaurs,,This is ATHANASIA on Steam. Explore your way through a mysterious facility and uncover what happened to those that were here ...,demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+1761910,youtube_video,outside_window,https://www.youtube.com/watch?v=XJMI6rbsTYM,Athanasia Demo - Dinosaur Indie Horror Game,,"Don't ask me what happened at the end, I really don't know lol. But yeah! The Athanasia Demo was really fun! I don't normally ...",demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+1761910,reddit_discussion,unknown_date,https://www.reddit.com/r/ImmersiveSim/comments/1suwey3/athanasia_cinematic_trailer_dinosaurthemed_horror,Athanasia cinematic trailer (dinosaur-themed horror immersive ...,Athanasia is an upcoming PSX-style retro indie stealth action horror game with dinosaurs that I'm really interested in seeing! r/,,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+1761910,reddit_discussion,unknown_date,https://www.reddit.com/r/ImmersiveSim/comments/1suwey3/athanasia_cinematic_trailer_dinosaurthemed_horror,Athanasia cinematic trailer (dinosaur-themed horror ...,Athanasia is an upcoming PSX-style retro indie stealth action horror game with dinosaurs that I'm really interested in seeing! r/Dinosaurs. • 1y,,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+1761910,reddit_discussion,unknown_date,https://www.reddit.com/r/ImmersiveSim/comments/1whjnl5/athanasia_official_early_access_release_date,Athanasia - Official Early Access Release Date Trailer (Spoiler ...,"Early Access Release Date Announced: September 17th! Early Access release is August 7th, 2026",,"trailer, release date",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+1761910,reddit_discussion,unknown_date,https://www.reddit.com/r/graphicnovels/comments/1q0w0g4/athanasia_by_daniel_kraus_dani,Athanasia by Daniel Kraus & Dani : r/graphicnovels,It's a superhero horror story that's as disturbing as it is suspenseful. Athanasia - Official Release Date Trailer! dinosaur-themed horror,,"trailer, release date",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+1761910,web_result,unknown_date,https://x.com/MomentumGamesCo,Athanasia Game (@MomentumGamesCo) / X,"Log inSign up
+
+Log inSign up
+
+Athanasia Game
+
+Athanasia Game profile banner
+
+@MomentumGamesCo
+
+# Athanasia Game
+
+@MomentumGamesCo
+
+We’re making Athanasia, an immersive FPS with dinosaurs! Steam: store.steampowered.com/app/1761910/At…
+
+momentumgames.com
+
+Joined June 2021
+
+9 Following2,443 Followers
+
+RepliesRepliesRepostsRepostsMediaMedia
+
+ Pinned
+
+  @MomentumGamesCo
+
+  Athanasia Game@MomentumGamesCo
+
+  Apr 15, 2024
+
+  ATHANASIA DEMO NOW AVAILABLE ON STEAM!
+
+  
+
+  00:00
+
+  9
+ @MomentumGamesCo [...] Athanasia Game@MomentumGamesCo
+
+  12h
+
+  Backer keys have been sent! Please check your emails.
+ @MomentumGamesCo
+
+  Athanasia Game@MomentumGamesCo
+
+  Oct 15
+
+  4 days away! Are you ready?
+ @MomentumGamesCo
+
+  Athanasia Game@MomentumGamesCo
+
+  Oct 13
+
+  Athanasia early access coming soon!
+
+  
+
+  00:00
+
+  4
+ @MomentumGamesCo
+
+  Athanasia Game@MomentumGamesCo
+
+  Oct 12
+
+  Athanasia comes to Early Access next week on the 19th!!
+
+  
+
+  9",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),general
+1761910,social_post,unknown_date,https://x.com/MomentumGamesCo,Athanasia Game (@MomentumGamesCo) / X,"Log inSign up
+
+Log inSign up
+
+Athanasia Game
+
+Athanasia Game profile banner
+
+@MomentumGamesCo
+
+# Athanasia Game
+
+@MomentumGamesCo
+
+We’re making Athanasia, an immersive FPS with dinosaurs! Steam: store.steampowered.com/app/1761910/At…
+
+momentumgames.com
+
+Joined June 2021
+
+9 Following2,443 Followers
+
+RepliesRepliesRepostsRepostsMediaMedia
+
+ Pinned
+
+  @MomentumGamesCo
+
+  Athanasia Game@MomentumGamesCo
+
+  Apr 15, 2024
+
+  ATHANASIA DEMO NOW AVAILABLE ON STEAM!
+
+  
+
+  00:00
+
+  9
+ @MomentumGamesCo [...] Athanasia Game@MomentumGamesCo
+
+  12h
+
+  Backer keys have been sent! Please check your emails.
+ @MomentumGamesCo
+
+  Athanasia Game@MomentumGamesCo
+
+  Oct 15
+
+  4 days away! Are you ready?
+ @MomentumGamesCo
+
+  Athanasia Game@MomentumGamesCo
+
+  Oct 13
+
+  Athanasia early access coming soon!
+
+  
+
+  00:00
+
+  4
+ @MomentumGamesCo
+
+  Athanasia Game@MomentumGamesCo
+
+  Oct 12
+
+  Athanasia comes to Early Access next week on the 19th!!
+
+  
+
+  9",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+1761910,social_post,unknown_date,https://www.youtube.com/watch?v=GjxSMxRKzkQ,Athanasia - Official Announcement Trailer | The MIX Summer Showcase 2025,"### Description
+4,307 views
+Posted: 2025-06-03
+Here's your look at the Athanasia announcement trailer for the upcoming FPS game. In Athanasia, explore a mysterious facility and use everything you have to survive. Use an arsenal of equipment and your wits against time-traveling predators from the past. Athanasia will be available on PC (Steam). A demo is out now on Steam. [...] # Athanasia - Official Announcement Trailer | The MIX Summer Showcase 2025
+## Channel: GameTrailers (verified)
+1.33M subscribers
+123 likes",,"trailer, demo, announcement, showcase",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'demo', 'announcement', 'showcase'] (+20)",social
+1761910,social_post,unknown_date,https://www.ign.com/videos/athanasia-official-gameplay-trailer-indie-horror-showcase-2025,Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025 - IGN,"Skip to contentIGN LogoIGN Logo
+
+IGN LogoIGN Logo
+
+Athanasia•
+
+# Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025
+
+Explore a mysterious facility and do all you can to survive in Athanasia, where you will have to use the tools at your disposal and your quick wit to survive against time traveling predators from the past. Athanasia is coming soon to PC.
+
+### Did you enjoy this video?
+
+### In This Video
+
+### Related [...] ### Related
+
+Athanasia - Official Announcement Trailer | The MIX Summer Showcase 2025",,"trailer, gameplay, announcement, showcase",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'gameplay', 'announcement', 'showcase'] (+20)",social
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809869180105563,Athanasia Is A Part of Hungry Ghost Festival on Steam!👻,,"The veil grows thin, and the ghosts hunger for offerings!👻🕯️ Feed their eternal appetites at the Hungry Ghost Festival by SEA Games Aesthetic with a selection of hauntingly beautiful indie games published by Neon Doctrine for up to 90% OFF, from September 6 - 13 10AM PT! 🕯️Check out the event here🕯️",,40,medium,Official Steam News (+20); Exact title match (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1801617199355824,"System Shock meets Dino Crisis, I'm totally sold on Athanasia",,I need this. Athanasia has jumped right to the top of my wishlist for some Dino Crisis meets System Shock vibes in an immersive sim. Read the full article here: https://www.gamingonlinux.com/2025/06/system-shock-meets-dino-crisis-im-totally-sold-on-athanasia/ ,,40,medium,Official Steam News (+20); Exact title match (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1790848102654812,Demo Update!,,Hello everyone for this months update we are finally ready to publish a really massive update for the demo. We have been hard at work with a multitude of bug fixes and everyone will get a preview of one the dinosaurs from the next area of the game as well! Patch Notes: -Added preview of Coelophysis ,demo,40,medium,Official Steam News (+20); Keywords ['demo'] (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6341720536511036841,Athanasia Kickstarter Final Week,,"Athanasia is entering its final week for its Kickstarter! We are 60% funded and need less than eight thousand dollars to hit our goal of $20,000. Now more than ever we need one final push to get ourselves across the finish line. We are asking you to reach out to friends, family, communities and cont",,40,medium,Official Steam News (+20); Exact title match (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/6240387642462519138,Retro style horror FPS Athanasia is like a Jurassic Park immersive sim,,"Like many survival horror fans, I'm still quietly lamenting the lack of a Dino Crisis remake. Often overlooked next to the likes of Resident Evil, Capcom's dinosaur series remains something I'll always hold dear - at least for those first two entries. While it's playing in a slightly different style",,40,medium,Official Steam News (+20); Exact title match (+20),
+1761910,web_result,unknown_date,https://store.steampowered.com/app/1761910/Athanasia,Athanasia on Steam,"“Though we have a strong vision for the full release of Athanasia, we want to work together with our community to deliver the best immersive sim experience possible. We'll be paying close attention to our Steam discussion board, Discord server, and social media for feedback to fold into our existing plans. Give us your thoughts, ideas, and bug reports!  
+ ”
+
+Read more
+
+This game is not yet available on Steam
+
+# Planned Release Date: 19 Oct, 2026 [...] )
+
+Features
+
+Single-player
+
+Family Sharing
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+
+Ratings
+
+Title: Athanasia  
+ Genre: Action, Adventure, Indie, Early Access  
+
+Developer: Momentum Games LLC
+
+Publisher: Black Lantern Collective
+
+Release Date: 19 Oct, 2026
+
+Visit the website External   Discord External   YouTube External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Awards [...] All Games > Action Games > Athanasia
+
+Community Hub
+
+Athanasia
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Athanasia
+
+Athanasia
+
+Developer
+
+Momentum Games LLC
+
+Publisher
+
+Black Lantern Collective
+
+Release
+
+19 Oct, 2026
+
+Fight the past in Athanasia, an immersive horror FPS set in an abandoned research facility overrun with prehistoric predators. Outwit nature, delve deep and uncover the facility's mysteries.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+19 Oct, 2026
+
+Developer:",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+1761910,web_result,unknown_date,https://www.youtube.com/watch?v=vzscMM0HmVM,Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025,"# Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025
+## Channel: GameTrailers (verified)
+1.33M subscribers
+33 likes
+
+### Description
+1,506 views
+Posted: 2025-10-23
+Explore a mysterious facility and do all you can to survive in Athanasia, where you will have to use the tools at your disposal and your quick wit to survive against time traveling predators from the past. Athanasia is coming soon to PC. [...] [0:45] [music]
+[0:46] I just need you and the rest of the security team to keep things under control while we wait for the professionals to arrive. We've already
+[0:54] purchased tranquilizers and constructed some temporary pens in the labs. [...] ### Transcript
+[0:14] Lieutenant. Hey, listen. If you get this log, they found something out there and you need it in the R&D sector. They
+[0:22] sound worried, so you better get there ASAP.
+[0:26] [music]
+[0:34] I didn't recruit you out of the military just to hear excuses from you. I hope you understand. Otherwise, I will have to look for a replacement head of security.
+[0:45] [music]",,"trailer, gameplay, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'showcase'] (+20)",general
+1761910,web_result,unknown_date,https://www.youtube.com/watch?v=GjxSMxRKzkQ,Athanasia - Official Announcement Trailer | The MIX ...,"Here's your look at the Athanasia announcement trailer for the upcoming FPS game. In Athanasia, explore a mysterious facility and use",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+1761910,web_result,unknown_date,https://www.youtube.com/watch?v=vzscMM0HmVM,Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025,"# Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025
+## Channel: GameTrailers (verified)
+1.33M subscribers
+33 likes
+
+### Description
+1,506 views
+Posted: 2025-10-23
+Explore a mysterious facility and do all you can to survive in Athanasia, where you will have to use the tools at your disposal and your quick wit to survive against time traveling predators from the past. Athanasia is coming soon to PC. [...] [0:45] [music]
+[0:46] I just need you and the rest of the security team to keep things under control while we wait for the professionals to arrive. We've already
+[0:54] purchased tranquilizers and constructed some temporary pens in the labs. [...] ### Transcript
+[0:14] Lieutenant. Hey, listen. If you get this log, they found something out there and you need it in the R&D sector. They
+[0:22] sound worried, so you better get there ASAP.
+[0:26] [music]
+[0:34] I didn't recruit you out of the military just to hear excuses from you. I hope you understand. Otherwise, I will have to look for a replacement head of security.
+[0:45] [music]",,"trailer, gameplay, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'showcase'] (+20)",general
+1761910,web_result,unknown_date,https://www.ign.com/videos/athanasia-official-gameplay-trailer-indie-horror-showcase-2025,Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025 - IGN,"Skip to contentIGN LogoIGN Logo
+
+IGN LogoIGN Logo
+
+Athanasia•
+
+# Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025
+
+Explore a mysterious facility and do all you can to survive in Athanasia, where you will have to use the tools at your disposal and your quick wit to survive against time traveling predators from the past. Athanasia is coming soon to PC.
+
+### Did you enjoy this video?
+
+### In This Video
+
+### Related [...] ### Related
+
+Athanasia - Official Announcement Trailer | The MIX Summer Showcase 2025",,"trailer, gameplay, announcement, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'announcement', 'showcase'] (+20)",general
+1761910,web_result,unknown_date,https://www.dailymotion.com/video/x9tjbam,Athanasia Official Gameplay Trailer - video ...,"Explore a mysterious facility and do all you can to survive in Athanasia, where you will have to use the tools at your disposal and your quick",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+1761910,web_result,unknown_date,https://www.youtube.com/watch?v=2SeTNqFQlOw,Athanasia - Demo Gameplay,"# Athanasia - Demo Gameplay
+## Channel: Nokzen Gaming
+63.6K subscribers
+68 likes
+
+### Description
+1,512 views
+Posted: 2021-11-15
+Game Link: 
+
+Athanasia is a horror FPS immersive sim, where you are Carmen Flores, a researcher and explorer, called to a mysterious facility in South America where reports of local disappearances and strange phenomena have occurred. Explore to uncover a hidden past, all while battling time traveling creatures from prehistory and the future. [...] This is the pre alpha demo for the game and content is subject to change as development progresses [...] My Rig:
+GeForce GTX 1070
+Intel(r) Core(TM) 8700 CPU 3.20GHz
+32 GB RAM
+Win 10 Home Edition
+
+No Commentary Gameplays, Let's Plays, Playthroughs, Walkthroughs of Indie Games, AAA Games, Action Games, RPG, Horror Games, Adventure Games.",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+1761910,web_result,unknown_date,https://xerxes-0451.itch.io/athanasia,Athanasia Pre Alpha Demo by Xerxes,"Athanasia is a horror FPS immersive sim, where you are Carmen Flores, a researcher and explorer, called to a mysterious facility in South America where reports of local disappearances and strange phenomena have occurred. Explore to uncover a hidden past, all while battling time traveling creatures from prehistory and the future.
+
+This is the pre alpha demo for the game and content is subject to change as development progresses
+
+Website: 
+
+Twitter: 
+
+Discord: 
+
+Wishlist Here: [...] the gameplay and atmosphere are well done and interesting
+
+Reply
+
+·Embed;)·
+
+Updated 4 days ago
+
+Games › Shooter › Free [...] Reply
+
+TheVideoGameAnthologist4 years ago(+1)
+
+This was a lot of fun. It had a Half-life feel to it. Keep up all the great work!
+
+Reply
+
+Stella Abbasi4 years ago(+1)
+
+Hello, I played this game and I really enjoyed it, good work :)
+
+Reply
+
+Xerxes4 years ago(+1)
+
+Hi thanks for playing!
+
+Reply
+
+TheUnnamedOne4 years ago
+
+give me more
+
+Reply
+
+Xerxes4 years ago
+
+Soon!
+
+Reply
+
+Suspended account4 years ago
+
+Show post...
+
+good retro
+
+Reply
+
+chillyapples4 years ago (1 edit) (+1)",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+1761910,web_result,unknown_date,https://www.youtube.com/watch?v=vzscMM0HmVM,Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025,"# Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025
+## Channel: GameTrailers (verified)
+1.33M subscribers
+33 likes
+
+### Description
+1,506 views
+Posted: 2025-10-23
+Explore a mysterious facility and do all you can to survive in Athanasia, where you will have to use the tools at your disposal and your quick wit to survive against time traveling predators from the past. Athanasia is coming soon to PC. [...] ### Transcript
+[0:14] Lieutenant. Hey, listen. If you get this log, they found something out there and you need it in the R&D sector. They
+[0:22] sound worried, so you better get there ASAP.
+[0:26] [music]
+[0:34] I didn't recruit you out of the military just to hear excuses from you. I hope you understand. Otherwise, I will have to look for a replacement head of security.
+[0:45] [music] [...] [0:45] [music]
+[0:46] I just need you and the rest of the security team to keep things under control while we wait for the professionals to arrive. We've already
+[0:54] purchased tranquilizers and constructed some temporary pens in the labs.",,"trailer, gameplay, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'showcase'] (+20)",general
+1761910,web_result,unknown_date,https://www.ign.com/videos/athanasia-official-gameplay-trailer-indie-horror-showcase-2025,Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025 - IGN,"Skip to contentIGN LogoIGN Logo
+
+IGN LogoIGN Logo
+
+Athanasia•
+
+# Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025
+
+Explore a mysterious facility and do all you can to survive in Athanasia, where you will have to use the tools at your disposal and your quick wit to survive against time traveling predators from the past. Athanasia is coming soon to PC.
+
+### Did you enjoy this video?
+
+### In This Video
+
+### Related [...] ### Related
+
+Athanasia - Official Announcement Trailer | The MIX Summer Showcase 2025",,"trailer, gameplay, announcement, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'announcement', 'showcase'] (+20)",general
+1761910,web_result,unknown_date,https://www.youtube.com/watch?v=NGYj3SYxtrc,Athanasia Gameplay,Explore a mysterious facility and use everything you have to survive. Use an arsenal of equipment and your wits against time traveling,,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+1761910,web_result,unknown_date,https://xerxes-0451.itch.io/athanasia,Athanasia Pre Alpha Demo by Xerxes,"Athanasia is a horror FPS immersive sim, where you are Carmen Flores, a researcher and explorer, called to a mysterious facility in South America where reports of local disappearances and strange phenomena have occurred. Explore to uncover a hidden past, all while battling time traveling creatures from prehistory and the future.
+
+This is the pre alpha demo for the game and content is subject to change as development progresses
+
+Website: 
+
+Twitter: 
+
+Discord: 
+
+Wishlist Here: [...] Athanasia Demo 1.2.zip 77 MB
+
+## Development log
+
+ Athanasia out in early access Oct 19th!
+
+  4 days ago
+
+## Comments
+
+Log in with itch.io to leave a comment.
+
+fotomelodios1 year ago
+
+Many retro games had the option of brightness. Most of 3d itch io games, lack this option. No all monitors are the same, not all light in rooms is the same.
+
+Reply
+
+Modern Horror Gaming2 years ago
+
+This game has come so far!!  Very excited for this
+
+Full Demo NO Commentary
+
+Reply
+
+Pluma4 years ago [...] View all by XerxesXerxes
+ Follow XerxesFollowFollowing XerxesFollowing
+ Add To CollectionCollection
+ Comments
+ Devlog
+ Related gamesRelated
+
+Athanasia Pre Alpha Demo
+
+# Athanasia Pre Alpha Demo
+
+A downloadable Athanasia
+
+Download NowName your own price",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+1761910,web_result,unknown_date,https://www.youtube.com/watch?v=2SeTNqFQlOw,Athanasia - Demo Gameplay,"# Athanasia - Demo Gameplay
+## Channel: Nokzen Gaming
+63.6K subscribers
+68 likes
+
+### Description
+1,512 views
+Posted: 2021-11-15
+Game Link: 
+
+Athanasia is a horror FPS immersive sim, where you are Carmen Flores, a researcher and explorer, called to a mysterious facility in South America where reports of local disappearances and strange phenomena have occurred. Explore to uncover a hidden past, all while battling time traveling creatures from prehistory and the future. [...] This is the pre alpha demo for the game and content is subject to change as development progresses [...] My Rig:
+GeForce GTX 1070
+Intel(r) Core(TM) 8700 CPU 3.20GHz
+32 GB RAM
+Win 10 Home Edition
+
+No Commentary Gameplays, Let's Plays, Playthroughs, Walkthroughs of Indie Games, AAA Games, Action Games, RPG, Horror Games, Adventure Games.",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+1761910,web_result,unknown_date,https://nevermoreniche.com/2025/08/28/athanasia-demo-think-fast-or-die-against-raptors,Athanasia Demo: Think Fast Or Die Against Raptors - NeverMore Niche,"Skip to content
+
+NeverMore Niche
+
+# NeverMore Niche
+
+# Athanasia Demo: Think Fast Or Die Against Raptors
+
+•
+
+Noir Mouse
+
+Athanasia is a survival horror game that features two ancient beasts: dinosaurs, and 90s FPS gameplay. Momentum Games and Neon Doctrine combine tense resource-based puzzle solving with Spielberg-inspired survival horror.
+
+## Life Finds a Way [...] Athanasia demo is currently available on Steam. A release date for the full version has yet to be announced.
+
+### Like this:
+
+Like Loading…
+
+Survival Horror, Action, IMMERSIVE SIM, Demo, dinosaur, Athanasia, Video Games, Momentum Games, FPS, Neon Doctrine, Horror, Adventure
+
+•
+
+Minis, Reviews
+
+## Comments
+
+### Leave a Reply Cancel reply
+
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+
+Welcome to the Madness and Mischief   OFFLINE on Twitch [...] Athanasia is still in its demo phase and is genuinely well-crafted otherwise. Some jankiness is to be expected, and it’s worth bringing up.
+
+## Final Thoughts",,"gameplay, demo, release date",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo', 'release date'] (+20)",general
+1761910,web_result,unknown_date,https://www.youtube.com/watch?v=IkdhquzMmXo,Retro Immersive Survival Horror FPS... WITH DINOSAURS! | Athanasia Demo Gameplay,"Hello everyone! Here we are with another demo gameplay of an upcoming game. This is Athanasia, a retro immersive survival horror fps WITH DINOSAURS! It really feels like playing a game from the early 2000's (like Half-life, but also reminded me a lot to Prey), with a huge focus on immersion/exploration, slow-paced progression, and enemies that can kill you in seconds. I wasn't a big fan of the demo, because movement felt clunky and I was too lost trying to figure out what to do... Then I ended [...] ### Transcript
+[0:00] So, this is the demo version of Pathanasia.
+[0:04] I am not really sure what this is. It looks retro. It looks first person, but I don't think it's a boo shooter.
+[0:11] It's more like an immersive first person shooter, like a bit more slow paced kind of horror. So, let's
+[0:19] give it a try. New game in South America. Following a series of strange animal attacks on the discovery [...] [1:26] F to pick up an object marked with the square prompt. Press F to let it go or the middle mouse to throw it.
+[1:44] Wonder if there are secrets.
+[1:46] Oo, it's not going to blow up.
+[1:58] Press the mouse to use it. Oh, press F to pick up the knife on the table. Press F to use it to stir fry objects.
+[2:07] Press F to access your PDA. I wanted to be sure.",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+1761910,web_result,unknown_date,http://immersivesim.wikidot.com/game:athanasia,Athanasia - Immersive Sim Wiki,"# Immersive Sim Wiki
+
+## A page dedicated to Immersive Sims - if anyone can work out exactly what those are.
+
+Create account or Sign in
+
+Athanasia
+
+| Information |
+
+| Name | Athanasia |
+| Status | In development |
+| Release Date | To Be Announced |
+| Demo available | No |
+| Genres | Survival Horror / FPS |
+| Setting | Modern |
+| Developer | Momentum Games LLC |
+| Platform | Windows PC |
+| Engine | ??? |
+
+| Links | [...] |  |
+
+| Released Immersive Sims | [...] Alkahest
+ Aquametsis
+ Athanasia
+ BLOOD VESSEL
+ CONSORTIUM Remastered
+ Consortium: The Tower
+ Core Decay
+ Corpus Edax
+ Datajack 2020
+ Deadeye Deepfake Simulacrum
+ ETOS
+ ExeKiller
+ ExMORTALIS
+ Fallen Aces
+ Final Defect
+ Fortune's Run
+ Full Fathom
+ Gloomwood
+ Hapax
+ HEARTRENDER
+ HYDROPUNK
+ Imprisoned Hyperion 2
+ Incoherence
+ INDUSTRIA 2
+ Lonely Space
+ Maliguard
+ Memories of a Spy
+ Monomyth
+ Neverlooted Dungeon
+ PARKSIDE: Decayed Soul Manipulation
+ Partizan
+ Peripeteia
+ Project Silverfish",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+1761910,web_result,unknown_date,https://www.youtube.com/watch?v=KhDL_hE-j94,Athanasia - Official Release Date Trailer!,"Athanasia, an immersive sim dinosaur horror game is coming out in EARLY ACCESS on October 19th, 2026! Dive deep into the lore and depths of",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+1761910,web_result,unknown_date,https://www.primevideo.com/detail/0TYZQORZY5SNLOFGGUKLM1AV39,Prime Video: Season 1,"When a woman wakes up as Athanasia, the ill-fated princess from the novel The Lovely Princess, she's gotta rewrite this tragedy or face execution-by her own father! She may be trapped, but she's got her wits and the doomed girl's memories to help her with a plot twist of survival. But when her escape plan fails, she has to charm her way into not being executed again.
+
+2025
+
+Drama•Fantasy
+
+Drama•Fantasy
+
+2025
+
+18+
+
+The Fated Magical Princess: Who Made Me a Princess
+
+Drama•Fantasy
+
+2025 [...] 2025
+
+When a woman wakes up as Athanasia, the ill-fated princess from the novel The Lovely Princess, she's gotta rewrite this tragedy or face execution-by her own father! She may be trapped, but she's got her wits and the doomed girl's memories to help her with a plot twist of survival. But when her escape plan fails, she has to charm her way into not being executed again.
+
+Creators and Cast
+
+Studio
+:   Colored-Pencil Animation Design
+
+Content advisory
+
+18+ [...] To learn more about the personal information Amazon uses for advertising purposes (like Store order history, Prime Video Watch history, or demographic information) and cookies, see our Privacy Notice and Cookie Notice.
+
+Click Decline to reject or Customize to make more detailed advertising choices or learn about how to change your choices.
+
+# The Fated Magical Princess: Who Made Me a Princess",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+1761910,web_result,unknown_date,https://en.wikipedia.org/wiki/Who_Made_Me_a_Princess,Who Made Me a Princess - Wikipedia,"| No. | Original release date | Original ISBN | English release date | English ISBN |
+ ---  --- 
+| 01 | August 30, 2019 | 979-11-29335-41-8 | May 16, 2023 | 978-1-68579-678-5 |
+| 02 | November 8, 2019 | 979-11-29338-18-1 | September 12, 2023 | 978-1-68579-684-6 |
+| 03 | March 4, 2020 | 979-11-29345-58-5 | November 7, 2023 | 978-1-68579-770-6 |
+| 04 | Juky 3, 2020 | 979-11-29352-56-9 | January 23, 2024 | 978-1-68579-771-3 | [...] | Athanasia is about to turn 14 and must debut into society with a dance. With only a month to go Athanasia still requires a partner. Athanasia recalls Claude never attended her birthday parties as it is also the anniversary of Diana's death when he mourns in private. Lucas tells her to ask Claude to attend her debut. She does so but after seeing Claude's reaction she changes her mind. She considers asking Felix to be her dance partner but he refuses from fear of Claude. Lily suggests asking [...] | 05 | July 20, 2021 | 979-1-12-937858-3 | March 26, 2024 | 978-1-68579-780-5 |
+| 06 | December 31, 2021 | 979-1-12-938738-7 | June 6, 2024 | 979-8-88843-204-4 |
+| 07 | September 27, 2022 | 979-1-14-040171-0 | September 24, 2024 | 979-8-89160-113-0 |
+| 08 | November 30, 2022 | 979-1-14-040497-1 | December 10, 2024 | 979-8-89160-114-7 |
+| 09 | November 30, 2022 | 979-1-14-040498-8 | March 18, 2025 | 979-8-89160-115-4 |",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+1761910,web_result,unknown_date,https://www.youtube.com/watch?v=GjxSMxRKzkQ,Athanasia - Official Announcement Trailer | The MIX Summer ...,Athanasia announcement trailer for the upcoming FPS game. Athanasia will be available on PC (Steam). A demo is out now on Steam.,,"trailer, demo, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'announcement'] (+20)",general
+1761910,web_result,unknown_date,https://www.ign.com/videos/athanasia-official-gameplay-trailer-indie-horror-showcase-2025,Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025 - IGN,"### Related
+
+Athanasia - Official Announcement Trailer | The MIX Summer Showcase 2025 [...] Skip to contentIGN LogoIGN Logo
+
+IGN LogoIGN Logo
+
+Athanasia•
+
+# Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025
+
+Explore a mysterious facility and do all you can to survive in Athanasia, where you will have to use the tools at your disposal and your quick wit to survive against time traveling predators from the past. Athanasia is coming soon to PC.
+
+### Did you enjoy this video?
+
+### In This Video
+
+### Related",,"trailer, gameplay, announcement, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'announcement', 'showcase'] (+20)",general
+1761910,web_result,unknown_date,https://www.youtube.com/watch?v=GjxSMxRKzkQ,Athanasia - Official Announcement Trailer | The MIX Summer Showcase 2025,"### Description
+4,307 views
+Posted: 2025-06-03
+Here's your look at the Athanasia announcement trailer for the upcoming FPS game. In Athanasia, explore a mysterious facility and use everything you have to survive. Use an arsenal of equipment and your wits against time-traveling predators from the past. Athanasia will be available on PC (Steam). A demo is out now on Steam. [...] # Athanasia - Official Announcement Trailer | The MIX Summer Showcase 2025
+## Channel: GameTrailers (verified)
+1.33M subscribers
+123 likes",,"trailer, demo, announcement, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'announcement', 'showcase'] (+20)",general
+1761910,web_result,unknown_date,https://www.youtube.com/watch?v=vzscMM0HmVM,Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025,"# Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025
+## Channel: GameTrailers (verified)
+1.33M subscribers
+33 likes
+
+### Description
+1,506 views
+Posted: 2025-10-23
+Explore a mysterious facility and do all you can to survive in Athanasia, where you will have to use the tools at your disposal and your quick wit to survive against time traveling predators from the past. Athanasia is coming soon to PC. [...] [0:45] [music]
+[0:46] I just need you and the rest of the security team to keep things under control while we wait for the professionals to arrive. We've already
+[0:54] purchased tranquilizers and constructed some temporary pens in the labs. [...] ### Transcript
+[0:14] Lieutenant. Hey, listen. If you get this log, they found something out there and you need it in the R&D sector. They
+[0:22] sound worried, so you better get there ASAP.
+[0:26] [music]
+[0:34] I didn't recruit you out of the military just to hear excuses from you. I hope you understand. Otherwise, I will have to look for a replacement head of security.
+[0:45] [music]",,"trailer, gameplay, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'showcase'] (+20)",general
+1761910,web_result,unknown_date,https://www.ign.com/videos/athanasia-official-gameplay-trailer-indie-horror-showcase-2025,Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025 - IGN,"Skip to contentIGN LogoIGN Logo
+
+IGN LogoIGN Logo
+
+Athanasia•
+
+# Athanasia - Official Gameplay Trailer | Indie Horror Showcase 2025
+
+Explore a mysterious facility and do all you can to survive in Athanasia, where you will have to use the tools at your disposal and your quick wit to survive against time traveling predators from the past. Athanasia is coming soon to PC.
+
+### Did you enjoy this video?
+
+### In This Video
+
+### Related [...] ### Related
+
+Athanasia - Official Announcement Trailer | The MIX Summer Showcase 2025",,"trailer, gameplay, announcement, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'announcement', 'showcase'] (+20)",general
+1761910,web_result,unknown_date,https://store.steampowered.com/app/1761910/Athanasia,Athanasia on Steam,"All Games > Action Games > Athanasia
+
+Community Hub
+
+Athanasia
+
+THIS GAME IS PART OF A SALE EVENT
+
+ 
+
+Athanasia
+
+Athanasia
+
+Developer
+
+Momentum Games LLC
+
+Publisher
+
+Black Lantern Collective
+
+Release
+
+19 Oct, 2026
+
+Fight the past in Athanasia, an immersive horror FPS set in an abandoned research facility overrun with prehistoric predators. Outwit nature, delve deep and uncover the facility's mysteries.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+19 Oct, 2026
+
+Developer: [...] )
+
+Features
+
+Single-player
+
+Family Sharing
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+
+Ratings
+
+Title: Athanasia  
+ Genre: Action, Adventure, Indie, Early Access  
+
+Developer: Momentum Games LLC
+
+Publisher: Black Lantern Collective
+
+Release Date: 19 Oct, 2026
+
+Visit the website External   Discord External   YouTube External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Awards [...] Developer:
+
+Momentum Games LLC
+
+Publisher:
+
+Black Lantern Collective
+
+Tags
+
+Popular user-defined tags for this product:
+
+Early Access  Immersive Sim  Dinosaurs  FPS  Exploration  Female Protagonist  Action  Shooter  First-Person  Horror  Retro  Survival Horror  Sci-fi  Time Travel  3D  Artificial Intelligence  Combat  Inventory Management  Nonlinear  Resource Management 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+1761910,web_result,unknown_date,https://xerxes-0451.itch.io/athanasia,Athanasia Pre Alpha Demo by Xerxes,"Athanasia is a horror FPS immersive sim, where you are Carmen Flores, a researcher and explorer, called to a mysterious facility in South America where reports of local disappearances and strange phenomena have occurred. Explore to uncover a hidden past, all while battling time traveling creatures from prehistory and the future.
+
+This is the pre alpha demo for the game and content is subject to change as development progresses
+
+Website: 
+
+Twitter: 
+
+Discord: 
+
+Wishlist Here: [...] Athanasia Demo 1.2.zip 77 MB
+
+## Development log
+
+ Athanasia out in early access Oct 19th!
+
+  4 days ago
+
+## Comments
+
+Log in with itch.io to leave a comment.
+
+fotomelodios1 year ago
+
+Many retro games had the option of brightness. Most of 3d itch io games, lack this option. No all monitors are the same, not all light in rooms is the same.
+
+Reply
+
+Modern Horror Gaming2 years ago
+
+This game has come so far!!  Very excited for this
+
+Full Demo NO Commentary
+
+Reply
+
+Pluma4 years ago [...] View all by XerxesXerxes
+ Follow XerxesFollowFollowing XerxesFollowing
+ Add To CollectionCollection
+ Comments
+ Devlog
+ Related gamesRelated
+
+Athanasia Pre Alpha Demo
+
+# Athanasia Pre Alpha Demo
+
+A downloadable Athanasia
+
+Download NowName your own price",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+1761910,web_result,unknown_date,https://steamcommunity.com/app/1761910,Steam Community :: Athanasia,"23 Oct, 2025
+
+Trick, treat, or scream?  
+  
+The nightmare continues this spooky season! Catch the brand new trailer of Athanasia at the Indie Horror Showcase by DreadXP!  
+  
+
+Ancient predators now roam free in this abandoned facility. What they have in strength and number, you counter with cunning and wit.  
+  
+Scavenge, craft, think your way to survival in Athanasia. Remember, not all fights can be won...  
+  
+
+Play the demo and wishlist now: [...] Store Page
+
+Athanasia
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Athanasia
+
+Store Page
+
+0 in Group Chat;)
+
+0 in Group Chat;)
+
+Fight the past in Athanasia, an immersive horror FPS set in an abandoned research facility overrun with prehistoric predators. Outwit nature, delve deep and uncover the facility's mysteries.
+
+Visit the Store Page
+
+Early Access Game
+
+Get instant access and start playing; get involved with this game as it develops. Learn more. [...] This will include the first half of the game. With the remaining half under development as of this moment and will be during the remainder of the Early Access period. Our early access will include several areas to explore, unique tools, weapons and creatures. There will be lots to explore and overcome in the halls of the SAIR facility, do you think you will survive?",,"trailer, demo, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'showcase'] (+20)",general
+1761910,web_result,unknown_date,https://www.youtube.com/watch?v=GjxSMxRKzkQ,Athanasia - Official Announcement Trailer | The MIX Summer Showcase 2025,"### Description
+4,307 views
+Posted: 2025-06-03
+Here's your look at the Athanasia announcement trailer for the upcoming FPS game. In Athanasia, explore a mysterious facility and use everything you have to survive. Use an arsenal of equipment and your wits against time-traveling predators from the past. Athanasia will be available on PC (Steam). A demo is out now on Steam. [...] # Athanasia - Official Announcement Trailer | The MIX Summer Showcase 2025
+## Channel: GameTrailers (verified)
+1.33M subscribers
+123 likes",,"trailer, demo, announcement, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'announcement', 'showcase'] (+20)",general
+1761910,youtube_video,outside_window,https://www.youtube.com/watch?v=AOhuwqZptjk,The Fated Magical Princess: Who Made Me a Princess | Official Trailer | Crunchyroll,,Watch The Fated Magical Princess: Who Made Me a Princess on Crunchyroll! https://got.cr/cc-wmmap ABOUT THE FATED ...,trailer,35,medium,YouTube (+15); Keywords ['trailer'] (+20),
+1761910,reddit_discussion,unknown_date,https://www.reddit.com/r/graphicnovels/comments/1q0w0g4/athanasia_by_daniel_kraus_dani,Athanasia by Daniel Kraus & Dani : r/graphicnovels,"It's a superhero horror story that's as disturbing as it is suspenseful. Dani's artwork complements Kraus' pulp fiction-style writing, black and",,,30,weak,Reddit (+10); Exact title match (+20),general
+1761910,reddit_discussion,unknown_date,https://www.reddit.com/r/graphicnovels/comments/1q0w0g4/athanasia_by_daniel_kraus_dani,Athanasia by Daniel Kraus & Dani : r/graphicnovels,Athanasia by Daniel Kraus & Dani. Vault Comics offers Athanasia Ashcan for 24 hours only.,,,30,weak,Reddit (+10); Exact title match (+20),general
+1761910,reddit_discussion,unknown_date,https://www.reddit.com/r/graphicnovels/comments/1q0w0g4/athanasia_by_daniel_kraus_dani,Athanasia by Daniel Kraus & Dani : r/graphicnovels,"It's a superhero horror story that's as disturbing as it is suspenseful. Dani's artwork complements Kraus' pulp fiction-style writing, black and",,,30,weak,Reddit (+10); Exact title match (+20),social
+1761910,reddit_discussion,unknown_date,https://www.reddit.com/r/OtomeIsekai/comments/1nvck1c/in_who_made_me_a_princess_did_claude_truly_love,"In Who made me a princess, did Claude truly love ...",Athanasia He doesn't love her because she's his daughter she loves her because of who she is. If they had never met when she was five he would',,,30,weak,Reddit (+10); Exact title match (+20),social
+1761910,reddit_discussion,unknown_date,https://www.reddit.com/r/OtomeIsekai/comments/1oyvdfy/claude_and_athanasia_are_weird_who_made_me_a,Claude and Athanasia are WEIRD. (Who made me a ...,"The ""Claude can't love both"" doesn't even come from reason or his actions, it comes from Athanasia's fear of the original story repeating.",,,30,weak,Reddit (+10); Exact title match (+20),social
+1761910,reddit_discussion,unknown_date,https://www.reddit.com/r/OtomeIsekai/comments/1gwe1gb/why_do_people_like_jennette_more_than,Why do people like Jennette more than Athanasia(wmmap) ...,(since i feel like i'll get attacked for asking this since when i said a different opinion..they still force me to like her..even though its my opinion,,,30,weak,Reddit (+10); Exact title match (+20),social
+1761910,web_result,unknown_date,https://www.instagram.com/reel/DTB-hL3kcRw,Athanasia GN - Book Review,so really deep themes here and fantastic art. I highly recommend checking this out. It was it was a really good read.,,,25,weak,Social Index (+5); Exact title match (+20),general
+1761910,web_result,unknown_date,https://x.com/AySashaa,Sasha | Athanasia Dev (@AySashaa) / X,"Making Athanasia an FPS horror immersive sim with dinosaurs at @MomentumGamesCo. Immersive, disco-punk, space-horror, stealth-shooter, eurojank, janitor core",,,25,weak,Social Index (+5); Exact title match (+20),general
+1761910,social_post,unknown_date,https://www.tiktok.com/@maenoyuken_yanzz/video/7684595214899498258,Athanasia de Alger Obelia: Who Made Me a Princess,"She is a girl who reincarnates into the body of Princess Athanasia. This princess was fated to have a tragic end, to be killed by her own father",,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://www.tiktok.com/@rhainyyy_2.0/video/7684937233266183445,Who Made Me a Princess side story: Athanasia guide,"It explains who Athanasia De Algerobelia is, what the Athanasia side story covers, and where readers commonly search for it. What the Athanasia",,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://www.tiktok.com/tag/athanasia,athanasia,a than asia | 23.8K posts Watch the latest videos about #athanasia on TikTok.,,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://www.tiktok.com/@kioshitsu/video/7556504013420743947,Athanasia De Alger Obelia: Un recorrido por su historia,Descubre la fascinante saga de Athanasia De Alger Obelia en este emocionante anime. ¡No. @,,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://www.tiktok.com/@athanasiacatrina/video/7695338411208625430,Videoclipuri postate de Athanasia (@athanasiacatrina) cu ...,"6806 aprecieri,Videoclip TikTok de la Athanasia (@athanasiacatrina): „”.Nu-l mai supraevaluasunet original - Athanasia.",,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://www.instagram.com/reel/DQtide1jY4J,"Sweet dreams, Athanasia 🥰 (via The Fated Magical Princess","A modern-day woman is reborn as Athanasia, the doomed princess of a novel she knows by heart. she will be executed by her own father, the",,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://www.instagram.com/athanasiakontou_,Athanasia Kontou (@athanasiakontou_),"Composer/comedian ・ woman comedy music show ・ authentic, witty and hilarious musical comedy hour about finding strength and resilience in vulnerability.",,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://www.instagram.com/athanasiamusic,ATHANASIA ☆ (@athanasiamusic),"ATHANASIA ☆ 6,724 followers 2,868 ・ founder @b4thebrand bookings: info@athanasia.com.au. We're launching Nov 20th. TICKETS ON SALE NOW ・ connect over music",,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://www.instagram.com/athanasia.kotronia,Athanasia Kotronia,"Composer working with acoustic music and electroacoustics For upcoming concerts, scores or other requests reach out to me through my website: Follow. Message",,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://www.instagram.com/athanasia._vin.webtoon,Who Made Me a Princess (@athanasia._vin.webtoon),"My name is Shackvina, just call me Vina or Vivin. I got Princess Athanasia. These are the comics ""Who Made Me a Princess, Princess Athanasia and Papa Claude in",,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://x.com/GreekAesthete?lang=en,Athanasia Panagiotopoulou Andritsopoulou (@GreekAesthete) / X,"Title: Athanasia Panagiotopoulou Andritsopoulou (@GreekAesthete) / X
+Athanasia Panagiotopoulou Andritsopoulou profile banner. # Athanasia Panagiotopoulou Andritsopoulou. made in 🇬🇷 | luxury hotelier & travel advisor | fighting illini & csuf wbb alumna 🏀 🎓. Balln Thursday @TheBallnChikn @BallnToken3 @coachMinor3 🏀.",,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://x.com/AthanasiaPapas2,Athanasia Papastergiou (@AthanasiaPapas2) / X,"Log inSign up
+
+Log inSign up
+
+Athanasia Papastergiou
+
+@AthanasiaPapas2
+
+# Athanasia Papastergiou
+
+@AthanasiaPapas2
+
+Lecturer @OfficialUoM| Bilingualism, cognitive & language development, reading comprehension, EAL, supplementary schools.
+
+NW England / Athens, Greece
+
+research.manchester.ac.uk/en/persons/dr-…
+
+Joined April 2021
+
+124 Following94 Followers
+
+RepliesRepliesRepostsRepostsMediaMedia
+
+ Pinned
+
+  @AthanasiaPapas2
+
+  Athanasia Papastergiou@AthanasiaPapas2
+
+  Sep 10, 2021 [...] Nov 23, 2022
+
+  ⬇️⬇️⬇️ Such an informative article in the @ConversationUK by my colleague Peredur Webb-Davies @doctorpreds #cymraeg
+
+  You’re unable to view this Post because this account owner limits who can view their Posts. Learn more
+ @AthanasiaPapas2
+
+  Athanasia Papastergiou@AthanasiaPapas2
+
+  Oct 29, 2022
+
+  ⬇️⬇️⬇️
+
+  @ESanoudaki
+
+  Dr Eirini Sanoudaki@ESanoudaki
+
+  Oct 29, 2022 [...] Sep 10, 2021
+
+  Very happy to announce that our paper with #VPappas and @ESanoudaki introducing a novel approach to evaluate performance in the #executivefunctioning skills of #bilingual & monolingual children is now available open access in #BehaviorResearchMethods here doi.org/10.3758/s13428…
+
+  
+
+  4
+ @AthanasiaPapas2
+
+  Athanasia Papastergiou@AthanasiaPapas2
+
+  Nov 23, 2022",,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://x.com/CHaroutonian,Carla Haroutonian (@CHaroutonian) / X,"Sep 27, 2024
+
+  Military somnology: the worst #sleep scenario we still need to face/treat. What a wonderful and very important session!! Speakers from Armenia, Ukraine and Israel. #SleepEurope2024 #ESRS2024 @ESRS\_Sleep
+
+  
+
+  
+
+  
+ @CHaroutonian
+
+  Carla Haroutonian@CHaroutonian
+
+  Sep 27, 2024
+
+  OSA symptomatology in female patients by Athanasia Pataka. Very interesting! #SleepEurope2024 #ESRS2024 @ESRS\_Sleep
+
+  
+ @CHaroutonian
+
+  Carla Haroutonian@CHaroutonian
+
+  Sep 25, 2024 [...] Log inSign up
+
+Log inSign up
+
+Carla Haroutonian
+
+Carla Haroutonian profile banner
+
+@CHaroutonian
+
+# Carla Haroutonian
+
+@CHaroutonian
+
+Researcher interested in Sleep | EEG | Mental Health | Memory | Trauma | Displacement | CaLD @WestmeadInst @sydney\_uni🇦🇲-🇦🇺
+
+Sydney, New South Wales
+
+Joined April 2017
+
+589 Following365 Followers
+
+RepliesRepliesRepostsRepostsMediaMedia
+
+ @CHaroutonian
+
+  Carla Haroutonian@CHaroutonian
+
+  Oct 8, 2024 [...] Sep 25, 2024
+
+  Looking forward to hearing keynote speaker Dieter Riemann’s talk: sleep, insomnia and mental illness #SleepEurope2024 @ESRS\_Sleep
+
+  
+ @CHaroutonian
+
+  Carla Haroutonian@CHaroutonian
+
+  Oct 10, 2023
+
+  V interesting work with important clinical implications for #mentalhealth by treating #sleep and factors influencing circadian rhythms 🧠💤
+
+  @circadian247
+
+  Sean W Cain@circadian247
+
+  Oct 9, 2023",,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://athanasiametal.bandcamp.com,Music | ‡ Athanasia ‡,"Athanasia ‡. Los Angeles, California. ATHANASIA is a power trio playing a highly original hybrid of classic and modern heavy metal.",,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://blog.vaultcomics.com/new-series-athanasia,New Series: ATHANASIA,"Get ready for the most disturbing superhero story ever told. Forrest Molson is going nowhere. One year out of high school—and one year into sobriety—she's working with her father as assistant groundskeeper at Athanasia Cemetery, the final resting place of fallen members of the Dynamic Guild, Venture City's resident superheroes. At her lowest point, Forrest discovers Athanasia's darkest secret. At night, the cemetery soil bleeds a substance created from the ooze of rotting superheroes. This ooze [...] This ooze becomes Forrest's new drug—and she's intent on using the unpredictable powers it bestows to be judge, jury, and executioner of Venture City's evil citizens. But, as she loses her mind to her new addiction, she inches closer to becoming the most evil of all. ATHANASIA is a superhero story seen through the darkest lens. [...] “ATHANASIA is six years in the making and that's because I -- and the whole team -- have approached it with as much care as possible. It was a dream of mine to work with Dani,” said Kraus. “I wanted to work with Vault again. And so there was some waiting for those stars to align. But I never got weary or impatient. This thing has been a labor of love from the very first moment I had the idea. Speaking of the idea, it first came to me when I was approached by one of the Big Two to do a superhero",,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,social_post,unknown_date,https://who-made-me-a-princess.fandom.com/wiki/Athanasia_de_Alger_Obelia,Athanasia de Alger Obelia - Who Made Me a Princess Wiki,"Athanasia de Alger Obelia is the main protagonist in Who Made Me a Princess, and the current Crown Princess of the Obelian Empire. After reading a romance",,,25,weak,Social Index (+5); Exact title match (+20),social
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785321795735557,Post Kickstarter Update!,,"Hello everyone! Things have been hectic but our Kickstarter ended in a huge success! We surpassed our goal at the end of September and have had our heads down for a little while now working on the game. In the past we havent been terribly great with providing updates on the steam side of things, and",,20,weak,Official Steam News (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6250522009511116136,Kickstarter 37% Funded!,,Our kickstarter is trailing ahead and we are making amazing progress! With 17 days left and 37% funded were getting there but we will need more support to help us reach the finish line. If you believe in cool indie games getting made then get on over to our Kickstarter and lets make it happen! www.k,,20,weak,Official Steam News (+20),
+1761910,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/6474562312199369977,"New FPS is Deus Ex and Half-Life with dinosaurs, you can try it now",,"If fiction has taught me anything, it's that dinosaurs coming back is rarely a good thing. They'll escape a park, disrupt ecosystems, and perhaps most importantly, they'll tear us all to pieces. Luckily one upcoming Steam game wants to give you the tools to fight back. Mixing Deus Ex, Half-Life, and",,20,weak,Official Steam News (+20),
+1761910,web_result,unknown_date,https://store.steampowered.com/app/1809950/Athanasia_Demo,Welcome to Steam,"Sexual Content, Hentai, Simulation, Anime
+
+Available: 16 Oct, 2026 Moon Sweepers
+
+Moon Sweepers
+
+Indie, Automation, Base Building, Job Simulator
+
+Available: 23 Oct, 2026 DREADMOOR
+
+DREADMOOR
+
+Early Access, Adventure, Exploration, Simulation
+
+Available: 9 Nov, 2026 Athanasia
+
+Athanasia
+
+Early Access, Immersive Sim, Dinosaurs, FPS
+
+Available: 19 Oct, 2026 The Wolf Among Us Remastered
+
+The Wolf Among Us Remastered
+
+Story Rich, Choices Matter, Detective, Investigation [...] -75%
+
+₱3,399.00
+
+₱849.75
+
+75% off. ₱3,399.00 normally, discounted to ₱849.75
+
+-75%
+
+₱3,399.00
+
+₱849.75
+
+75% off. ₱3,399.00 normally, discounted to ₱849.75 Hogwarts Legacy
+
+Hogwarts Legacy
+
+Magic, Open World, Fantasy, Singleplayer
+
+Released: 10 Feb, 2023
+
+-90%
+
+₱2,990.00
+
+₱299.00
+
+90% off. ₱2,990.00 normally, discounted to ₱299.00
+
+-90%
+
+₱2,990.00
+
+₱299.00
+
+90% off. ₱2,990.00 normally, discounted to ₱299.00 NBA 2K27
+
+NBA 2K27
+
+Sports, Simulation, 3D, Basketball
+
+Released: 3 Sep, 2026
+
+-30% [...] -30%
+
+₱2,920.00
+
+₱2,044.00
+
+30% off. ₱2,920.00 normally, discounted to ₱2,044.00
+
+-30%
+
+₱2,920.00
+
+₱2,044.00
+
+30% off. ₱2,920.00 normally, discounted to ₱2,044.00 Warhammer 40,000: Space Marine 2
+
+Warhammer 40,000: Space Marine 2
+
+Co-op, Action, Multiplayer, Third-Person Shooter
+
+Released: 9 Sep, 2024
+
+-75%
+
+₱1,995.00
+
+₱498.75
+
+75% off. ₱1,995.00 normally, discounted to ₱498.75
+
+-75%
+
+₱1,995.00
+
+₱498.75
+
+75% off. ₱1,995.00 normally, discounted to ₱498.75 RuneScape: Dragonwilds",,,20,weak,Exact title match (+20),general
+1761910,web_result,unknown_date,https://steamcommunity.com/app/1761910,Athanasia,Explore a mysterious facility and use everything you have to survive. Use an arsenal of equipment and your wits against time traveling predators from the past.,,,20,weak,Exact title match (+20),general
+1761910,web_result,unknown_date,https://who-made-me-a-princess.fandom.com/wiki/Athanasia_de_Alger_Obelia,Athanasia de Alger Obelia - Who Made Me a Princess Wiki,"Athanasia de Alger Obelia is the main protagonist in Who Made Me a Princess, Age 15 [1](current) 18 (pre-regression) Birthdate December 3rd. Media Novel Debut",,,20,weak,Exact title match (+20),general
+1761910,web_result,unknown_date,https://www.crunchyroll.com/series/GT00364694/the-fated-magical-princess-who-made-me-a-princess,Watch The Fated Magical Princess: Who Made Me a Princess,"More
+
+When a woman wakes up as Athanasia, the ill-fated princess from the novel The Lovely Princess, she’s gotta rewrite this tragedy or face execution—by her own father! She may be trapped, but she’s got her wits and the doomed girl’s memories to help her with a plot twist of survival. But when her escape plan fails, she has to charm her way into not being executed again. [...] ## Explore
+
+   Browse Popular
+   Browse Simulcasts
+   Release Calendar
+   News
+   Store
+   Games
+
+## Resources
+
+   About
+   Get the Apps
+   Jobs
+   Help Center
+   Advertising Inquiries
+   Press Inquiries
+
+## Account
+
+   Start a Free Trial
+   Create Account
+   Log In
+   Redeem Gift Card
+
+Image 72
+
+   Terms of Service
+   Privacy Policy
+   Cookie Consent Tool
+   AdChoices
+   Do Not Sell or Share My Personal Information [...] Simulcast Season
+   Release Calendar
+   Music Videos & Concerts
+
+Themes
+   Action 
+   Adventure 
+   Comedy 
+   Drama 
+   Fantasy 
+   Music 
+   Romance 
+   Sci-Fi 
+   Seinen 
+   Shojo 
+   Shonen 
+   Slice of life 
+   Sports 
+   Supernatural 
+   Thriller 
+
+   New
+   Popular
+   Browse All (A-Z)
+   Simulcast Season
+   Release Calendar",,,20,weak,Exact title match (+20),general
+1761910,web_result,unknown_date,https://blog.vaultcomics.com/new-series-athanasia,New Series: ATHANASIA - The Vanguardian - Vault Comics,ATHANASIA will be published as a 256-page deluxe graphic novel and can be found in comic and bookstores everywhere this October.,,,20,weak,Exact title match (+20),general
+1761910,web_result,unknown_date,https://www.thecomiccrush.com/singles-crush/athanasia-preview-24-hours-only,ATHANASIA PREVIEW - 24 HOURS ONLY!,"Vault Comics are offering a look at the 24 Page Ashcan for the new book by Daniel Kraus and the amazing artist Dani, entitled Athanasia!",,,20,weak,Exact title match (+20),general
+1761910,web_result,unknown_date,https://app.thestorygraph.com/book_reviews/c7989251-ceb2-40bd-abb7-3c12aa22892a?sort=oldest,Reviews - Athanasia,Athanasia has a lot going for it. great read and awesome art! Athanasia reads a bit an extra dose of absolute horror thrown on top—in … a superhero comic,,,20,weak,Exact title match (+20),general
+1761910,web_result,unknown_date,https://capesandtights.com/athanasia-review-superhero-story-darker-lens,Athanasia: A Superhero Story Told Through a Darker Lens,Athanasia by Daniel Kraus and Dani is a must-read for those fans looking for a superhuman story outside of the everyday of the big two.,,,20,weak,Exact title match (+20),general
+1761910,web_result,unknown_date,https://blog.vaultcomics.com/notes-on-athanasia,Notes on Athanasia - The Vanguardian - Vault Comics,"ATHANASIA takes the superhero genre and twists it into a haunting meditation on power, addiction, and corruption.",,,20,weak,Exact title match (+20),general
+1761910,web_result,unknown_date,https://www.comicsbeat.com/vault-announces-athanasia-out-october-2025,"Vault announces ATHANASIA, out October 2025 - Comics Beat",Athanasia will be published as a 256-page deluxe graphic novel and can be found in comic stores everywhere this October 2025 from Vault Comics.,,,20,weak,Exact title match (+20),general
+1761910,web_result,unknown_date,https://blog.vaultcomics.com/notes-on-athanasia,Notes on Athanasia - The Vanguardian - Vault Comics,"ATHANASIA is created by Daniel Kraus and Dani, written by Kraus, illustrated by Dani, with colors by Brad Simpson and letters by Jim Campbell.",,,20,weak,Exact title match (+20),general
+1761910,web_result,unknown_date,https://www.danielkraus.com/books/athanasia,Athanasia - Daniel Kraus,ATHANASIA is a superhero story seen through the darkest lens. Colors: Brad Simpson. Letters: Jim Campbell. BRAM STOKER AWARD FINALIST. “A provocative and,,,20,weak,Exact title match (+20),general
+1761910,web_result,unknown_date,http://www.publishersweekly.com/9781638492818,Athanasia,"Novelist Kraus (The Autumnal) and artist Dani (The Low, Low Wood) serve up a provocative and unsettling superhero horror story. For generations, the Molson",,,20,weak,Exact title match (+20),general
+1761910,reddit_discussion,unknown_date,https://www.reddit.com/r/OtomeIsekai/comments/195wxn2/what_is_a_character_name_that_distracts_or,What is a character name that distracts or bothers you ...,Her name may be weird to me but that doesn’t mean she’s not 100/10 cute and perfect,,,10,weak,Reddit (+10),social
+1761910,social_post,unknown_date,https://x.com/HelloAochi,Athanasía Aarniosuo (@HelloAochi) / X,"Title: Athanasía Aarniosuo (@HelloAochi) / X
+# Athanasía Aarniosuo. Tervetuloa Pilvi Ojalan näyttelyn taiteilijatapaamiseen su 26.4. Paikalla myös Jaakko Pesonen (Mediaboxi). Whatever happened to Neil Gaiman? Tessa is full of beans.",,,5,weak,Social Index (+5),social

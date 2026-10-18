@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: ECC: REDLINE
+Analyzed: Athanasia
 Tavily Budget Used: 15
 Errors: 0

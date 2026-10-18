@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-10-18T04:05:01.264412+00:00,5268340,ECC: REDLINE,data/spike_explainer/2026-10-18__appid_5268340__rank_950_to_925__up_25,25,85,data/spike_explainer/2026-10-18__appid_5268340__rank_950_to_925__up_25/llm_summary_input.md
+2026-10-18T15:48:37.152683+00:00,1761910,Athanasia,data/spike_explainer/2026-10-18__appid_1761910__rank_1103_to_1051__up_52,52,75,data/spike_explainer/2026-10-18__appid_1761910__rank_1103_to_1051__up_52/llm_summary_input.md

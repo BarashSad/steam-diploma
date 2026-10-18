@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+1761910,Athanasia,"""Athanasia"" Steam",general,1,tavily,True,,5
+1761910,Athanasia,"""Athanasia"" trailer",general,1,tavily,True,,5
+1761910,Athanasia,"""Athanasia"" gameplay",general,1,tavily,True,,5
+1761910,Athanasia,"""Athanasia"" demo",general,1,tavily,True,,5
+1761910,Athanasia,"""Athanasia"" release date",general,1,tavily,True,,5
+1761910,Athanasia,"""Athanasia"" announcement",general,1,tavily,True,,5
+1761910,Athanasia,"""Athanasia"" preview",general,1,tavily,True,,5
+1761910,Athanasia,"""Athanasia"" review",general,1,tavily,True,,5
+1761910,Athanasia,"""Athanasia"" publisher",general,1,tavily,True,,5
+1761910,Athanasia,"""Athanasia"" developer",general,1,tavily,True,,5
+1761910,Athanasia,"site:pcgamer.com ""Athanasia""",press,2,tavily,False,General budget exhausted,0
+1761910,Athanasia,"site:rockpapershotgun.com ""Athanasia""",press,2,tavily,False,General budget exhausted,0
+1761910,Athanasia,"site:ign.com ""Athanasia""",press,2,tavily,False,General budget exhausted,0
+1761910,Athanasia,"site:gamespot.com ""Athanasia""",press,2,tavily,False,General budget exhausted,0
+1761910,Athanasia,"site:game8.co ""Athanasia""",press,2,tavily,False,General budget exhausted,0
+1761910,Athanasia,"site:reddit.com ""Athanasia""",social,3,tavily,True,,5
+1761910,Athanasia,"site:tiktok.com ""Athanasia""",social,4,tavily,True,,5
+1761910,Athanasia,"site:instagram.com ""Athanasia""",social,4,tavily,True,,5
+1761910,Athanasia,"site:x.com ""Athanasia""",social,4,tavily,True,,5
+1761910,Athanasia,"site: ""Athanasia""",social,4,tavily,True,,5
