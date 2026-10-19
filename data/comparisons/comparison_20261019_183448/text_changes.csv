@@ -1,0 +1,18 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+1761910,Athanasia,Athanasia,974,929,45,45,up,upward_spike,Unpriced (Coming Soon),Free,True,"Oct 19, 2026",Coming soon,True
+4193010,Hypernet Explorer,Hypernet Explorer,985,967,18,18,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 20, 2026",October 2026,True
+5037200,just volleyball,just volleyball,846,841,5,5,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q4 2026,"Nov 4, 2026",True
+2440760,GRAVHOUNDS,GRAVHOUNDS,884,879,5,5,up,none,Free,Unpriced (Coming Soon),True,Coming soon,"Nov 2, 2026",True
+3810510,DERELIKT,DERELIKT,916,911,5,5,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Nov 13, 2026",True
+2348250,13Z: The Zodiac Trials,13Z: The Zodiac Trials,490,487,3,3,up,none,Free,Free,False,Q1 2027,"Jan 13, 2027",True
+2223980,Nomad Drive,Nomad Drive,181,179,2,2,up,none,Unpriced (Coming Soon),Free,True,October 2026,Coming soon,True
+2870790,Dumpster Gang,Dumpster Gang,317,315,2,2,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,December 2026,"Dec 3, 2026",True
+3058660,HARK THE GHOUL,HARK THE GHOUL,588,590,-2,2,down,none,Unpriced (Coming Soon),Free,True,2026,Q1 2027,True
+2359660,Arisen Force: Vonimir,Arisen Force: Vonimir,928,930,-2,2,down,none,Free,Unpriced (Coming Soon),True,Coming soon,December 2026,True
+5306540,Groundwork Simulator,Groundwork Simulator,1032,1030,2,2,up,none,Free,Unpriced (Coming Soon),True,Coming soon,"Oct 22, 2026",True
+1622130,Our Life: Now & Forever,Our Life: Now & Forever,636,637,-1,1,down,none,Free,Free,False,2026,"Nov 27, 2026",True
+3644020,Cleaner Company,Cleaner Company,657,658,-1,1,down,none,Unpriced (Coming Soon),Free,True,2026,"Jan 28, 2027",True
+2541950,Sirens,Sirens,752,751,1,1,up,none,Unpriced (Coming Soon),Free,True,To be announced,Q1 2027,True
+3109590,Cat Cafe Manager 2: Big City Bliss,Cat Cafe Manager 2: Big City Bliss,1105,1106,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q4 2026,"Nov 25, 2026",True
+1853440,Tropico 7,Tropico 7,218,218,0,0,stable,none,Free,$49.49,True,"Jan 28, 2027","Jan 28, 2027",False
+2083660,Littlelands,Littlelands,908,908,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,"Nov 16, 2026",True

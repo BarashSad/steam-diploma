@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-19T18:44:19.982880+00:00",
+    "timestamp": "20261019_184419",
+    "input_file": "data/spike_explainer/2026-10-19__appid_3680170__rank_1108_to_1034__up_74/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-19__appid_3680170__rank_1108_to_1034__up_74/llm_outputs/gemini_20261019_184419.md",
+    "game_title": "Mortuus",
+    "appid": "3680170",
+    "duration_sec": 24.39,
+    "response_length": 6351,
+    "error": null
+}

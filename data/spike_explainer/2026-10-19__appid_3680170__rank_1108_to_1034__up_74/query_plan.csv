@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3680170,Mortuus,"""Mortuus"" Steam",general,1,tavily,True,,5
+3680170,Mortuus,"""Mortuus"" trailer",general,1,tavily,True,,5
+3680170,Mortuus,"""Mortuus"" gameplay",general,1,tavily,True,,5
+3680170,Mortuus,"""Mortuus"" demo",general,1,tavily,True,,5
+3680170,Mortuus,"""Mortuus"" release date",general,1,tavily,True,,5
+3680170,Mortuus,"""Mortuus"" announcement",general,1,tavily,True,,5
+3680170,Mortuus,"""Mortuus"" preview",general,1,tavily,True,,5
+3680170,Mortuus,"""Mortuus"" review",general,1,tavily,True,,5
+3680170,Mortuus,"""Mortuus"" publisher",general,1,tavily,True,,5
+3680170,Mortuus,"""Mortuus"" developer",general,1,tavily,True,,5
+3680170,Mortuus,"site:pcgamer.com ""Mortuus""",press,2,tavily,False,General budget exhausted,0
+3680170,Mortuus,"site:rockpapershotgun.com ""Mortuus""",press,2,tavily,False,General budget exhausted,0
+3680170,Mortuus,"site:ign.com ""Mortuus""",press,2,tavily,False,General budget exhausted,0
+3680170,Mortuus,"site:gamespot.com ""Mortuus""",press,2,tavily,False,General budget exhausted,0
+3680170,Mortuus,"site:game8.co ""Mortuus""",press,2,tavily,False,General budget exhausted,0
+3680170,Mortuus,"site:reddit.com ""Mortuus""",social,3,tavily,True,,5
+3680170,Mortuus,"site:tiktok.com ""Mortuus""",social,4,tavily,True,,5
+3680170,Mortuus,"site:instagram.com ""Mortuus""",social,4,tavily,True,,5
+3680170,Mortuus,"site:x.com ""Mortuus""",social,4,tavily,True,,5
+3680170,Mortuus,"site: ""Mortuus""",social,4,tavily,True,,5
