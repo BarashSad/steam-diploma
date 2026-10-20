@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-10-19T18:43:52.037858+00:00,3680170,Mortuus,data/spike_explainer/2026-10-19__appid_3680170__rank_1108_to_1034__up_74,74,85,data/spike_explainer/2026-10-19__appid_3680170__rank_1108_to_1034__up_74/llm_summary_input.md
+2026-10-20T04:27:44.076774+00:00,3680170,Mortuus,data/spike_explainer/2026-10-20__appid_3680170__rank_1034_to_956__up_78,78,85,data/spike_explainer/2026-10-20__appid_3680170__rank_1034_to_956__up_78/llm_summary_input.md

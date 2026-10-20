@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-10-19T18:44:19.898407+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261019_183448/rank_changes.csv",
+    "started_at": "2026-10-20T04:28:11.561191+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261020_041813/rank_changes.csv",
     "selected_appid": "3680170",
     "selected_game_title": "Mortuus",
     "top_n": 1,
-    "old_snapshot_date": "2026-10-16",
-    "new_snapshot_date": "2026-10-19",
+    "old_snapshot_date": "2026-10-17",
+    "new_snapshot_date": "2026-10-20",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-19T18:44:19.898418+00:00",
+    "finished_at": "2026-10-20T04:28:11.561210+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
