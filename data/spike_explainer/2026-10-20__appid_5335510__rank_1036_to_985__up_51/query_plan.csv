@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5335510,Moon Sweepers,"""Moon Sweepers"" Steam",general,1,tavily,True,,5
+5335510,Moon Sweepers,"""Moon Sweepers"" trailer",general,1,tavily,True,,5
+5335510,Moon Sweepers,"""Moon Sweepers"" gameplay",general,1,tavily,True,,5
+5335510,Moon Sweepers,"""Moon Sweepers"" demo",general,1,tavily,True,,5
+5335510,Moon Sweepers,"""Moon Sweepers"" release date",general,1,tavily,True,,5
+5335510,Moon Sweepers,"""Moon Sweepers"" announcement",general,1,tavily,True,,5
+5335510,Moon Sweepers,"""Moon Sweepers"" preview",general,1,tavily,True,,5
+5335510,Moon Sweepers,"""Moon Sweepers"" review",general,1,tavily,True,,5
+5335510,Moon Sweepers,"""Moon Sweepers"" publisher",general,1,tavily,True,,5
+5335510,Moon Sweepers,"""Moon Sweepers"" developer",general,1,tavily,True,,5
+5335510,Moon Sweepers,"site:pcgamer.com ""Moon Sweepers""",press,2,tavily,False,General budget exhausted,0
+5335510,Moon Sweepers,"site:rockpapershotgun.com ""Moon Sweepers""",press,2,tavily,False,General budget exhausted,0
+5335510,Moon Sweepers,"site:ign.com ""Moon Sweepers""",press,2,tavily,False,General budget exhausted,0
+5335510,Moon Sweepers,"site:gamespot.com ""Moon Sweepers""",press,2,tavily,False,General budget exhausted,0
+5335510,Moon Sweepers,"site:game8.co ""Moon Sweepers""",press,2,tavily,False,General budget exhausted,0
+5335510,Moon Sweepers,"site:reddit.com ""Moon Sweepers""",social,3,tavily,True,,5
+5335510,Moon Sweepers,"site:tiktok.com ""Moon Sweepers""",social,4,tavily,True,,5
+5335510,Moon Sweepers,"site:instagram.com ""Moon Sweepers""",social,4,tavily,True,,5
+5335510,Moon Sweepers,"site:x.com ""Moon Sweepers""",social,4,tavily,True,,5
+5335510,Moon Sweepers,"site: ""Moon Sweepers""",social,4,tavily,True,,5

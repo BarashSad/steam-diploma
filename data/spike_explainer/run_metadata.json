@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-10-20T04:28:11.561191+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261020_041813/rank_changes.csv",
-    "selected_appid": "3680170",
-    "selected_game_title": "Mortuus",
+    "started_at": "2026-10-20T16:47:35.779709+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261020_163816/rank_changes.csv",
+    "selected_appid": "5335510",
+    "selected_game_title": "Moon Sweepers",
     "top_n": 1,
     "old_snapshot_date": "2026-10-17",
     "new_snapshot_date": "2026-10-20",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-20T04:28:11.561210+00:00",
+    "finished_at": "2026-10-20T16:47:35.779723+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

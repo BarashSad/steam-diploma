@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3469910,Star Trek: Outposts Unknown,Star Trek: Outposts Unknown,499,489,10,10,up,none,Unpriced (Coming Soon),Free,True,"Oct 20, 2026",Coming soon,True
+3322630,Culdcept BEGINS,Culdcept BEGINS,973,963,10,10,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q4 2026,"Oct 27, 2026",True
+4626020,Happy Ending Simulator,Happy Ending Simulator,702,707,-5,5,down,none,Unpriced (Coming Soon),Free,True,Q4 2026,Q2 2027,True
+2781660,Dawn of Defense,Dawn of Defense,599,595,4,4,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q4 2026,"Nov 17, 2026",True
+2692660,Car Mechanic Simulator 2026,Car Mechanic Simulator 2027,61,61,0,0,stable,none,Unpriced (Coming Soon),Free,True,2026,Q1 2027,True

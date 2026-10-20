@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-20T16:47:35.869306+00:00",
+    "timestamp": "20261020_164735",
+    "input_file": "data/spike_explainer/2026-10-20__appid_5335510__rank_1036_to_985__up_51/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-20__appid_5335510__rank_1036_to_985__up_51/llm_outputs/gemini_20261020_164735.md",
+    "game_title": "Moon Sweepers",
+    "appid": "5335510",
+    "duration_sec": 24.03,
+    "response_length": 5950,
+    "error": null
+}
