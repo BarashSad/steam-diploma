@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-10-21T04:17:31.683144+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261021_040709/rank_changes.csv",
+    "started_at": "2026-10-21T17:06:53.475179+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261021_165646/rank_changes.csv",
     "selected_appid": "3797790",
     "selected_game_title": "Abyssal Lapidary",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-21T04:17:31.683174+00:00",
+    "finished_at": "2026-10-21T17:06:53.475194+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

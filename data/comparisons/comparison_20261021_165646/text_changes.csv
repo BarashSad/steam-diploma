@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3419080,The Regreening,The Regreening,841,834,7,7,up,none,Free,Unpriced (Coming Soon),True,Coming soon,"Dec 7, 2026",True
+3262820,Uncanny Valley: Checkpoint,Uncanny Valley: Checkpoint,886,889,-3,3,down,none,Free,Free,False,Coming soon,March 2027,True
+4704000,Shark Mart,Shark Mart,693,692,1,1,up,none,Free,Unpriced (Coming Soon),True,Coming soon,"Nov 26, 2026",True
+2055770,Bloody Hell Hotel,Bloody Hell Hotel,120,120,0,0,stable,none,Unpriced (Coming Soon),Free,True,2026,2027,True

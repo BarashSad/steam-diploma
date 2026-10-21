@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-21T17:06:53.576350+00:00",
+    "timestamp": "20261021_170653",
+    "input_file": "data/spike_explainer/2026-10-21__appid_3797790__rank_874_to_772__up_102/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-21__appid_3797790__rank_874_to_772__up_102/llm_outputs/gemini_20261021_170653.md",
+    "game_title": "Abyssal Lapidary",
+    "appid": "3797790",
+    "duration_sec": 25.86,
+    "response_length": 6831,
+    "error": null
+}
