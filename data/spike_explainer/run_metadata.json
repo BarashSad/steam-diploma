@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-10-20T16:47:35.779709+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261020_163816/rank_changes.csv",
-    "selected_appid": "5335510",
-    "selected_game_title": "Moon Sweepers",
+    "started_at": "2026-10-21T04:17:31.683144+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261021_040709/rank_changes.csv",
+    "selected_appid": "3797790",
+    "selected_game_title": "Abyssal Lapidary",
     "top_n": 1,
-    "old_snapshot_date": "2026-10-17",
-    "new_snapshot_date": "2026-10-20",
+    "old_snapshot_date": "2026-10-18",
+    "new_snapshot_date": "2026-10-21",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-20T16:47:35.779723+00:00",
+    "finished_at": "2026-10-21T04:17:31.683174+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

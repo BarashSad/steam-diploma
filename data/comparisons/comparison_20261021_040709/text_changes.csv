@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2616540,Croak,Croak,690,687,3,3,up,none,Free,Free,False,Coming soon,March 2027,True
+2561460,Burning Sword: Death Sun,Burning Sword: Death Sun,956,959,-3,3,down,none,Free,Unpriced (Coming Soon),True,Coming soon,"Nov 17, 2026",True
+2409320,Drill Keeper,Drill Keeper,557,556,1,1,up,none,Unpriced (Coming Soon),Free,True,2026,Q3 2027,True

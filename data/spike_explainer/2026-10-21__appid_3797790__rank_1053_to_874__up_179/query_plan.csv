@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3797790,Abyssal Lapidary,"""Abyssal Lapidary"" Steam",general,1,tavily,True,,5
+3797790,Abyssal Lapidary,"""Abyssal Lapidary"" trailer",general,1,tavily,True,,5
+3797790,Abyssal Lapidary,"""Abyssal Lapidary"" gameplay",general,1,tavily,True,,5
+3797790,Abyssal Lapidary,"""Abyssal Lapidary"" demo",general,1,tavily,True,,5
+3797790,Abyssal Lapidary,"""Abyssal Lapidary"" release date",general,1,tavily,True,,5
+3797790,Abyssal Lapidary,"""Abyssal Lapidary"" announcement",general,1,tavily,True,,5
+3797790,Abyssal Lapidary,"""Abyssal Lapidary"" preview",general,1,tavily,True,,5
+3797790,Abyssal Lapidary,"""Abyssal Lapidary"" review",general,1,tavily,True,,5
+3797790,Abyssal Lapidary,"""Abyssal Lapidary"" publisher",general,1,tavily,True,,5
+3797790,Abyssal Lapidary,"""Abyssal Lapidary"" developer",general,1,tavily,True,,5
+3797790,Abyssal Lapidary,"site:pcgamer.com ""Abyssal Lapidary""",press,2,tavily,False,General budget exhausted,0
+3797790,Abyssal Lapidary,"site:rockpapershotgun.com ""Abyssal Lapidary""",press,2,tavily,False,General budget exhausted,0
+3797790,Abyssal Lapidary,"site:ign.com ""Abyssal Lapidary""",press,2,tavily,False,General budget exhausted,0
+3797790,Abyssal Lapidary,"site:gamespot.com ""Abyssal Lapidary""",press,2,tavily,False,General budget exhausted,0
+3797790,Abyssal Lapidary,"site:game8.co ""Abyssal Lapidary""",press,2,tavily,False,General budget exhausted,0
+3797790,Abyssal Lapidary,"site:reddit.com ""Abyssal Lapidary""",social,3,tavily,True,,5
+3797790,Abyssal Lapidary,"site:tiktok.com ""Abyssal Lapidary""",social,4,tavily,True,,5
+3797790,Abyssal Lapidary,"site:instagram.com ""Abyssal Lapidary""",social,4,tavily,True,,5
+3797790,Abyssal Lapidary,"site:x.com ""Abyssal Lapidary""",social,4,tavily,True,,5
+3797790,Abyssal Lapidary,"site: ""Abyssal Lapidary""",social,4,tavily,True,,5

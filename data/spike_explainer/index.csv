@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-10-20T16:47:06.163879+00:00,5335510,Moon Sweepers,data/spike_explainer/2026-10-20__appid_5335510__rank_1036_to_985__up_51,51,85,data/spike_explainer/2026-10-20__appid_5335510__rank_1036_to_985__up_51/llm_summary_input.md
+2026-10-21T04:17:07.481645+00:00,3797790,Abyssal Lapidary,data/spike_explainer/2026-10-21__appid_3797790__rank_1053_to_874__up_179,179,85,data/spike_explainer/2026-10-21__appid_3797790__rank_1053_to_874__up_179/llm_summary_input.md
