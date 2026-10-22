@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4915700,Ebbtide,"""Ebbtide"" Steam",general,1,tavily,True,,5
+4915700,Ebbtide,"""Ebbtide"" trailer",general,1,tavily,True,,5
+4915700,Ebbtide,"""Ebbtide"" gameplay",general,1,tavily,True,,5
+4915700,Ebbtide,"""Ebbtide"" demo",general,1,tavily,True,,5
+4915700,Ebbtide,"""Ebbtide"" release date",general,1,tavily,True,,5
+4915700,Ebbtide,"""Ebbtide"" announcement",general,1,tavily,True,,5
+4915700,Ebbtide,"""Ebbtide"" preview",general,1,tavily,True,,5
+4915700,Ebbtide,"""Ebbtide"" review",general,1,tavily,True,,5
+4915700,Ebbtide,"""Ebbtide"" publisher",general,1,tavily,True,,5
+4915700,Ebbtide,"""Ebbtide"" developer",general,1,tavily,True,,5
+4915700,Ebbtide,"site:pcgamer.com ""Ebbtide""",press,2,tavily,False,General budget exhausted,0
+4915700,Ebbtide,"site:rockpapershotgun.com ""Ebbtide""",press,2,tavily,False,General budget exhausted,0
+4915700,Ebbtide,"site:ign.com ""Ebbtide""",press,2,tavily,False,General budget exhausted,0
+4915700,Ebbtide,"site:gamespot.com ""Ebbtide""",press,2,tavily,False,General budget exhausted,0
+4915700,Ebbtide,"site:game8.co ""Ebbtide""",press,2,tavily,False,General budget exhausted,0
+4915700,Ebbtide,"site:reddit.com ""Ebbtide""",social,3,tavily,True,,4
+4915700,Ebbtide,"site:tiktok.com ""Ebbtide""",social,4,tavily,True,,5
+4915700,Ebbtide,"site:instagram.com ""Ebbtide""",social,4,tavily,True,,5
+4915700,Ebbtide,"site:x.com ""Ebbtide""",social,4,tavily,True,,5
+4915700,Ebbtide,"site: ""Ebbtide""",social,4,tavily,True,,5

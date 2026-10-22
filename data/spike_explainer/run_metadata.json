@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-10-22T04:17:02.195180+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261022_040742/rank_changes.csv",
+    "started_at": "2026-10-22T17:06:24.257697+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261022_165615/rank_changes.csv",
     "selected_appid": "4915700",
     "selected_game_title": "Ebbtide",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-22T04:17:02.195195+00:00",
+    "finished_at": "2026-10-22T17:06:24.257711+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

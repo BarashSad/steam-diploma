@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-22T17:06:24.354900+00:00",
+    "timestamp": "20261022_170624",
+    "input_file": "data/spike_explainer/2026-10-22__appid_4915700__rank_717_to_556__up_161/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-22__appid_4915700__rank_717_to_556__up_161/llm_outputs/gemini_20261022_170624.md",
+    "game_title": "Ebbtide",
+    "appid": "4915700",
+    "duration_sec": 19.31,
+    "response_length": 5202,
+    "error": null
+}
