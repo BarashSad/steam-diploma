@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-10-22T17:06:24.257697+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261022_165615/rank_changes.csv",
-    "selected_appid": "4915700",
-    "selected_game_title": "Ebbtide",
+    "started_at": "2026-10-23T04:20:24.136853+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261023_041106/rank_changes.csv",
+    "selected_appid": "2523740",
+    "selected_game_title": "DreamWorks Shrek 2 Remastered",
     "top_n": 1,
-    "old_snapshot_date": "2026-10-19",
-    "new_snapshot_date": "2026-10-22",
+    "old_snapshot_date": "2026-10-20",
+    "new_snapshot_date": "2026-10-23",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-22T17:06:24.257711+00:00",
+    "finished_at": "2026-10-23T04:20:24.136863+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+2523740,DreamWorks Shrek 2 Remastered,"""DreamWorks Shrek 2 Remastered"" Steam",general,1,tavily,True,,5
+2523740,DreamWorks Shrek 2 Remastered,"""DreamWorks Shrek 2 Remastered"" trailer",general,1,tavily,True,,5
+2523740,DreamWorks Shrek 2 Remastered,"""DreamWorks Shrek 2 Remastered"" gameplay",general,1,tavily,True,,5
+2523740,DreamWorks Shrek 2 Remastered,"""DreamWorks Shrek 2 Remastered"" demo",general,1,tavily,True,,5
+2523740,DreamWorks Shrek 2 Remastered,"""DreamWorks Shrek 2 Remastered"" release date",general,1,tavily,True,,5
+2523740,DreamWorks Shrek 2 Remastered,"""DreamWorks Shrek 2 Remastered"" announcement",general,1,tavily,True,,5
+2523740,DreamWorks Shrek 2 Remastered,"""DreamWorks Shrek 2 Remastered"" preview",general,1,tavily,True,,5
+2523740,DreamWorks Shrek 2 Remastered,"""DreamWorks Shrek 2 Remastered"" review",general,1,tavily,True,,5
+2523740,DreamWorks Shrek 2 Remastered,"""DreamWorks Shrek 2 Remastered"" publisher",general,1,tavily,True,,5
+2523740,DreamWorks Shrek 2 Remastered,"""DreamWorks Shrek 2 Remastered"" developer",general,1,tavily,True,,5
+2523740,DreamWorks Shrek 2 Remastered,"site:pcgamer.com ""DreamWorks Shrek 2 Remastered""",press,2,tavily,False,General budget exhausted,0
+2523740,DreamWorks Shrek 2 Remastered,"site:rockpapershotgun.com ""DreamWorks Shrek 2 Remastered""",press,2,tavily,False,General budget exhausted,0
+2523740,DreamWorks Shrek 2 Remastered,"site:ign.com ""DreamWorks Shrek 2 Remastered""",press,2,tavily,False,General budget exhausted,0
+2523740,DreamWorks Shrek 2 Remastered,"site:gamespot.com ""DreamWorks Shrek 2 Remastered""",press,2,tavily,False,General budget exhausted,0
+2523740,DreamWorks Shrek 2 Remastered,"site:game8.co ""DreamWorks Shrek 2 Remastered""",press,2,tavily,False,General budget exhausted,0
+2523740,DreamWorks Shrek 2 Remastered,"site:reddit.com ""DreamWorks Shrek 2 Remastered""",social,3,tavily,True,,5
+2523740,DreamWorks Shrek 2 Remastered,"site:tiktok.com ""DreamWorks Shrek 2 Remastered""",social,4,tavily,True,,5
+2523740,DreamWorks Shrek 2 Remastered,"site:instagram.com ""DreamWorks Shrek 2 Remastered""",social,4,tavily,True,,5
+2523740,DreamWorks Shrek 2 Remastered,"site:x.com ""DreamWorks Shrek 2 Remastered""",social,4,tavily,True,,5
+2523740,DreamWorks Shrek 2 Remastered,"site: ""DreamWorks Shrek 2 Remastered""",social,4,tavily,True,,5

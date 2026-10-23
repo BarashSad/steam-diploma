@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-23T04:20:24.209427+00:00",
+    "timestamp": "20261023_042024",
+    "input_file": "data/spike_explainer/2026-10-23__appid_2523740__rank_1014_to_938__up_76/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-23__appid_2523740__rank_1014_to_938__up_76/llm_outputs/gemini_20261023_042024.md",
+    "game_title": "DreamWorks Shrek 2 Remastered",
+    "appid": "2523740",
+    "duration_sec": 24.66,
+    "response_length": 6760,
+    "error": null
+}
