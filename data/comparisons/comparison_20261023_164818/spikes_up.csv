@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4915700,Ebbtide,Ebbtide,498,423,75,75,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+2523740,DreamWorks Shrek 2 Remastered,DreamWorks Shrek 2 Remastered,938,895,43,43,up,upward_spike,$26.99,$26.99,False,"Nov 10, 2026","Nov 10, 2026",False
+3797790,Abyssal Lapidary,Abyssal Lapidary,547,505,42,42,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4688700,Project Exhibitionist,Project Exhibitionist,749,712,37,37,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Oct 27, 2026","Oct 27, 2026",False
+3680170,Mortuus,Mortuus,736,709,27,27,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False

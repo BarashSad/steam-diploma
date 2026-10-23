@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-10-23T04:20:00.815289+00:00,2523740,DreamWorks Shrek 2 Remastered,data/spike_explainer/2026-10-23__appid_2523740__rank_1014_to_938__up_76,76,85,data/spike_explainer/2026-10-23__appid_2523740__rank_1014_to_938__up_76/llm_summary_input.md
+2026-10-23T16:58:10.014464+00:00,4915700,Ebbtide,data/spike_explainer/2026-10-23__appid_4915700__rank_498_to_423__up_75,75,85,data/spike_explainer/2026-10-23__appid_4915700__rank_498_to_423__up_75/llm_summary_input.md
