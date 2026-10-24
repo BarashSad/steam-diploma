@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4395870,Magical Girl ER,"""Magical Girl ER"" Steam",general,1,tavily,True,,5
+4395870,Magical Girl ER,"""Magical Girl ER"" trailer",general,1,tavily,True,,5
+4395870,Magical Girl ER,"""Magical Girl ER"" gameplay",general,1,tavily,True,,5
+4395870,Magical Girl ER,"""Magical Girl ER"" demo",general,1,tavily,True,,5
+4395870,Magical Girl ER,"""Magical Girl ER"" release date",general,1,tavily,True,,5
+4395870,Magical Girl ER,"""Magical Girl ER"" announcement",general,1,tavily,True,,5
+4395870,Magical Girl ER,"""Magical Girl ER"" preview",general,1,tavily,True,,5
+4395870,Magical Girl ER,"""Magical Girl ER"" review",general,1,tavily,True,,5
+4395870,Magical Girl ER,"""Magical Girl ER"" publisher",general,1,tavily,True,,5
+4395870,Magical Girl ER,"""Magical Girl ER"" developer",general,1,tavily,True,,5
+4395870,Magical Girl ER,"site:pcgamer.com ""Magical Girl ER""",press,2,tavily,False,General budget exhausted,0
+4395870,Magical Girl ER,"site:rockpapershotgun.com ""Magical Girl ER""",press,2,tavily,False,General budget exhausted,0
+4395870,Magical Girl ER,"site:ign.com ""Magical Girl ER""",press,2,tavily,False,General budget exhausted,0
+4395870,Magical Girl ER,"site:gamespot.com ""Magical Girl ER""",press,2,tavily,False,General budget exhausted,0
+4395870,Magical Girl ER,"site:game8.co ""Magical Girl ER""",press,2,tavily,False,General budget exhausted,0
+4395870,Magical Girl ER,"site:reddit.com ""Magical Girl ER""",social,3,tavily,True,,5
+4395870,Magical Girl ER,"site:tiktok.com ""Magical Girl ER""",social,4,tavily,True,,5
+4395870,Magical Girl ER,"site:instagram.com ""Magical Girl ER""",social,4,tavily,True,,5
+4395870,Magical Girl ER,"site:x.com ""Magical Girl ER""",social,4,tavily,True,,5
+4395870,Magical Girl ER,"site: ""Magical Girl ER""",social,4,tavily,True,,5

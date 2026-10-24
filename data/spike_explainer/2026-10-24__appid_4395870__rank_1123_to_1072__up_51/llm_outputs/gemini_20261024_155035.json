@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-24T15:50:35.874790+00:00",
+    "timestamp": "20261024_155035",
+    "input_file": "data/spike_explainer/2026-10-24__appid_4395870__rank_1123_to_1072__up_51/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-24__appid_4395870__rank_1123_to_1072__up_51/llm_outputs/gemini_20261024_155035.md",
+    "game_title": "Magical Girl ER",
+    "appid": "4395870",
+    "duration_sec": 27.27,
+    "response_length": 5795,
+    "error": null
+}

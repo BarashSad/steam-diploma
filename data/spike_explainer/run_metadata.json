@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-10-24T04:13:22.951228+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261024_040320/rank_changes.csv",
-    "selected_appid": "5185890",
-    "selected_game_title": "Zombies Aren't Real",
+    "started_at": "2026-10-24T15:50:35.765915+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261024_154107/rank_changes.csv",
+    "selected_appid": "4395870",
+    "selected_game_title": "Magical Girl ER",
     "top_n": 1,
     "old_snapshot_date": "2026-10-21",
     "new_snapshot_date": "2026-10-24",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-24T04:13:22.951243+00:00",
+    "finished_at": "2026-10-24T15:50:35.765932+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

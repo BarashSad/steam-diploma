@@ -1,0 +1,50 @@
+{
+    "appnews": {
+        "appid": 4395870,
+        "newsitems": [
+            {
+                "gid": "1847286114032008",
+                "title": "40,000 Wishlists!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114032008",
+                "is_external_url": true,
+                "author": "noranuco",
+                "contents": "Hello everyone!Thank you so much for supporting Magical Girl ER!We're excited to announce that Magical Girl ER has surpassed 40,000 wishlists on Steam!It means so much to know that so many people are looking forward to the game.Your encouragement and kind comments have been a huge source of motivation throughout development.Once again, thank you so much for helping us reach this incredible milestone!We truly appreciate your support and hope you'll continue to follow Magical Girl ER!",
+                "feedlabel": "Community Announcements",
+                "date": 1792663388,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4395870
+            },
+            {
+                "gid": "1840310314341507",
+                "title": "Demo Update V1.0.1",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314341507",
+                "is_external_url": true,
+                "author": "noranuco",
+                "contents": "Adjusted the default audio settings and made minor improvements to the UI and in-game text.",
+                "feedlabel": "Community Announcements",
+                "date": 1786013951,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4395870,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1839676055886779",
+                "title": "Streaming Guidelines for Magical Girl ER",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886779",
+                "is_external_url": true,
+                "author": "noranuco",
+                "contents": "Video uploads and livestreams of both the demo and full version of Magical Girl ER are welcome!There are no special restrictions regarding gameplay videos or livestreams. Both individuals and companies are welcome to create and monetize content featuring the game.We would appreciate it if you included the game title and Steam store page in the video or stream description.",
+                "feedlabel": "Community Announcements",
+                "date": 1785458446,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4395870
+            }
+        ],
+        "count": 3
+    }
+}

@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Zombies Aren't Real
+Analyzed: Magical Girl ER
 Tavily Budget Used: 15
 Errors: 0
