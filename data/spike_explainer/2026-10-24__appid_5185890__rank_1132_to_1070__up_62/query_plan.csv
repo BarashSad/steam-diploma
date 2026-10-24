@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5185890,Zombies Aren't Real,"""Zombies Aren't Real"" Steam",general,1,tavily,True,,5
+5185890,Zombies Aren't Real,"""Zombies Aren't Real"" trailer",general,1,tavily,True,,5
+5185890,Zombies Aren't Real,"""Zombies Aren't Real"" gameplay",general,1,tavily,True,,5
+5185890,Zombies Aren't Real,"""Zombies Aren't Real"" demo",general,1,tavily,True,,5
+5185890,Zombies Aren't Real,"""Zombies Aren't Real"" release date",general,1,tavily,True,,5
+5185890,Zombies Aren't Real,"""Zombies Aren't Real"" announcement",general,1,tavily,True,,5
+5185890,Zombies Aren't Real,"""Zombies Aren't Real"" preview",general,1,tavily,True,,5
+5185890,Zombies Aren't Real,"""Zombies Aren't Real"" review",general,1,tavily,True,,5
+5185890,Zombies Aren't Real,"""Zombies Aren't Real"" publisher",general,1,tavily,True,,5
+5185890,Zombies Aren't Real,"""Zombies Aren't Real"" developer",general,1,tavily,True,,5
+5185890,Zombies Aren't Real,"site:pcgamer.com ""Zombies Aren't Real""",press,2,tavily,False,General budget exhausted,0
+5185890,Zombies Aren't Real,"site:rockpapershotgun.com ""Zombies Aren't Real""",press,2,tavily,False,General budget exhausted,0
+5185890,Zombies Aren't Real,"site:ign.com ""Zombies Aren't Real""",press,2,tavily,False,General budget exhausted,0
+5185890,Zombies Aren't Real,"site:gamespot.com ""Zombies Aren't Real""",press,2,tavily,False,General budget exhausted,0
+5185890,Zombies Aren't Real,"site:game8.co ""Zombies Aren't Real""",press,2,tavily,False,General budget exhausted,0
+5185890,Zombies Aren't Real,"site:reddit.com ""Zombies Aren't Real""",social,3,tavily,True,,5
+5185890,Zombies Aren't Real,"site:tiktok.com ""Zombies Aren't Real""",social,4,tavily,True,,5
+5185890,Zombies Aren't Real,"site:instagram.com ""Zombies Aren't Real""",social,4,tavily,True,,5
+5185890,Zombies Aren't Real,"site:x.com ""Zombies Aren't Real""",social,4,tavily,True,,5
+5185890,Zombies Aren't Real,"site: ""Zombies Aren't Real""",social,4,tavily,True,,5

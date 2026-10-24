@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-24T04:13:23.050285+00:00",
+    "timestamp": "20261024_041323",
+    "input_file": "data/spike_explainer/2026-10-24__appid_5185890__rank_1132_to_1070__up_62/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-24__appid_5185890__rank_1132_to_1070__up_62/llm_outputs/gemini_20261024_041323.md",
+    "game_title": "Zombies Aren't Real",
+    "appid": "5185890",
+    "duration_sec": 17.95,
+    "response_length": 5629,
+    "error": null
+}

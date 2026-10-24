@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-10-23T16:58:40.155193+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261023_164818/rank_changes.csv",
-    "selected_appid": "4915700",
-    "selected_game_title": "Ebbtide",
+    "started_at": "2026-10-24T04:13:22.951228+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261024_040320/rank_changes.csv",
+    "selected_appid": "5185890",
+    "selected_game_title": "Zombies Aren't Real",
     "top_n": 1,
-    "old_snapshot_date": "2026-10-20",
-    "new_snapshot_date": "2026-10-23",
+    "old_snapshot_date": "2026-10-21",
+    "new_snapshot_date": "2026-10-24",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-23T16:58:40.155207+00:00",
+    "finished_at": "2026-10-24T04:13:22.951243+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
