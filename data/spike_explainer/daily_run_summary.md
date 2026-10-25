@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Magical Girl ER
+Analyzed: DEADLINE: Afterlife Processing
 Tavily Budget Used: 15
 Errors: 0

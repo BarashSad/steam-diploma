@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-10-24T15:50:35.765915+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261024_154107/rank_changes.csv",
-    "selected_appid": "4395870",
-    "selected_game_title": "Magical Girl ER",
+    "started_at": "2026-10-25T04:14:00.095669+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261025_040455/rank_changes.csv",
+    "selected_appid": "5142140",
+    "selected_game_title": "DEADLINE: Afterlife Processing",
     "top_n": 1,
-    "old_snapshot_date": "2026-10-21",
-    "new_snapshot_date": "2026-10-24",
+    "old_snapshot_date": "2026-10-22",
+    "new_snapshot_date": "2026-10-25",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-24T15:50:35.765932+00:00",
+    "finished_at": "2026-10-25T04:14:00.095685+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

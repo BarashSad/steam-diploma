@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5142140,DEADLINE: Afterlife Processing,"""DEADLINE: Afterlife Processing"" Steam",general,1,tavily,True,,5
+5142140,DEADLINE: Afterlife Processing,"""DEADLINE: Afterlife Processing"" trailer",general,1,tavily,True,,5
+5142140,DEADLINE: Afterlife Processing,"""DEADLINE: Afterlife Processing"" gameplay",general,1,tavily,True,,5
+5142140,DEADLINE: Afterlife Processing,"""DEADLINE: Afterlife Processing"" demo",general,1,tavily,True,,5
+5142140,DEADLINE: Afterlife Processing,"""DEADLINE: Afterlife Processing"" release date",general,1,tavily,True,,5
+5142140,DEADLINE: Afterlife Processing,"""DEADLINE: Afterlife Processing"" announcement",general,1,tavily,True,,5
+5142140,DEADLINE: Afterlife Processing,"""DEADLINE: Afterlife Processing"" preview",general,1,tavily,True,,5
+5142140,DEADLINE: Afterlife Processing,"""DEADLINE: Afterlife Processing"" review",general,1,tavily,True,,5
+5142140,DEADLINE: Afterlife Processing,"""DEADLINE: Afterlife Processing"" publisher",general,1,tavily,True,,5
+5142140,DEADLINE: Afterlife Processing,"""DEADLINE: Afterlife Processing"" developer",general,1,tavily,True,,5
+5142140,DEADLINE: Afterlife Processing,"site:pcgamer.com ""DEADLINE: Afterlife Processing""",press,2,tavily,False,General budget exhausted,0
+5142140,DEADLINE: Afterlife Processing,"site:rockpapershotgun.com ""DEADLINE: Afterlife Processing""",press,2,tavily,False,General budget exhausted,0
+5142140,DEADLINE: Afterlife Processing,"site:ign.com ""DEADLINE: Afterlife Processing""",press,2,tavily,False,General budget exhausted,0
+5142140,DEADLINE: Afterlife Processing,"site:gamespot.com ""DEADLINE: Afterlife Processing""",press,2,tavily,False,General budget exhausted,0
+5142140,DEADLINE: Afterlife Processing,"site:game8.co ""DEADLINE: Afterlife Processing""",press,2,tavily,False,General budget exhausted,0
+5142140,DEADLINE: Afterlife Processing,"site:reddit.com ""DEADLINE: Afterlife Processing""",social,3,tavily,True,,5
+5142140,DEADLINE: Afterlife Processing,"site:tiktok.com ""DEADLINE: Afterlife Processing""",social,4,tavily,True,,5
+5142140,DEADLINE: Afterlife Processing,"site:instagram.com ""DEADLINE: Afterlife Processing""",social,4,tavily,True,,5
+5142140,DEADLINE: Afterlife Processing,"site:x.com ""DEADLINE: Afterlife Processing""",social,4,tavily,True,,5
+5142140,DEADLINE: Afterlife Processing,"site: ""DEADLINE: Afterlife Processing""",social,4,tavily,True,,5

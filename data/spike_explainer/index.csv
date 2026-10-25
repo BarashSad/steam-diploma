@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-10-24T15:50:11.386281+00:00,4395870,Magical Girl ER,data/spike_explainer/2026-10-24__appid_4395870__rank_1123_to_1072__up_51,51,85,data/spike_explainer/2026-10-24__appid_4395870__rank_1123_to_1072__up_51/llm_summary_input.md
+2026-10-25T04:13:36.606722+00:00,5142140,DEADLINE: Afterlife Processing,data/spike_explainer/2026-10-25__appid_5142140__rank_1122_to_967__up_155,155,90,data/spike_explainer/2026-10-25__appid_5142140__rank_1122_to_967__up_155/llm_summary_input.md
