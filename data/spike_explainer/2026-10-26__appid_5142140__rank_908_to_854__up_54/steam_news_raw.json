@@ -1,0 +1,60 @@
+{
+    "appnews": {
+        "appid": 5142140,
+        "newsitems": [
+            {
+                "gid": "1847286114034893",
+                "title": "Watch DEADLINE demo gameplay",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034893",
+                "is_external_url": true,
+                "author": "soundil.official",
+                "contents": "Get a look at the DEADLINE: Afterlife Processing demo, available now during Steam Next Fest!Every soul has a file. Read their records, weigh their choices and decide where they go: heaven or hell. Some verdicts are easy. Most aren\u2019t.Play the demo now and tell us how many souls you got right \u2696\ufe0fJoin our Discord: https://discord.gg/PHnJgxH8nA",
+                "feedlabel": "Community Announcements",
+                "date": 1792727466,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5142140
+            },
+            {
+                "gid": "1847286114033680",
+                "title": "Watch DEADLINE demo gameplay",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114033680",
+                "is_external_url": true,
+                "author": "soundil.official",
+                "contents": "Get a look at the DEADLINE: Afterlife Processing demo, available now during Steam Next Fest!Every soul has a file. Read their records, weigh their choices and decide where they go: heaven or hell. Some verdicts are easy. Most aren\u2019t.Play the demo now and tell us how many souls you got right \u2696\ufe0fJoin our Discord: https://discord.gg/PHnJgxH8nA",
+                "feedlabel": "Community Announcements",
+                "date": 1792690899,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5142140
+            },
+            {
+                "gid": "1847286114032136",
+                "title": "Next Fest update: thank you, and here\u2019s everything we fixed",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114032136",
+                "is_external_url": true,
+                "author": "soundil.official",
+                "contents": "Hey everyone! \ud83d\udc4bNext Fest has been a wild ride, and we\u2019ve been reading every bug report, review and Discord message, even when we were too busy fixing things to reply. Thank you, seriously. Since the fest started we\u2019ve pushed seven updates to the demo, almost all of them because of you.Here\u2019s what changed:\ud83d\udd13 No more getting stuckThe office door no longer stays locked after punching inYou can\u2019t get trapped in the office at the end of a shift anymoreThe upgrade form no longer disappears or gets stuck behind anythingRestarting from the menu now gives you a truly fresh runThe last shift is much clearer about what\u2019s left to do\ud83c\udfae ControlsFull controller support, menus and settings includedThe big lever: just hold right-click / RT, no more dragging your mouse off the deskDoors open with a clickA clear prompt when it\u2019s time to leave for the day\u26a1 Runs betterMuch lighter on graphics cards by default, plus a frame limit optionFixed guide pages blending together on some PCsAlt-tab works properlyMotion blur can now be turned off\u2795 And a Wishlist on Steam button in the menus, in case you want to keep an eye on us \ud83d\ude04We\u2019ve also read that some of you got a bit lost here and there, so we\u2019ve made changes all over to keep things as clear as possible, and we\u2019re not done yet. Please keep the feedback coming. As a solo developer, every single report genuinely helps.If you find anything else, the Report a Bug button in the pause menu goes straight to us, or come say hi on Discord. We\u2019re listening, even when we\u2019re quiet.See you at your station. \ud83d\udd8b\ufe0f",
+                "feedlabel": "Community Announcements",
+                "date": 1792665992,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5142140
+            },
+            {
+                "gid": "1846651706696356",
+                "title": "Live now: KindredSpiritVA plays the DEADLINE demo!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706696356",
+                "is_external_url": true,
+                "author": "soundil.official",
+                "contents": "KindredSpiritVA is live playing the DEADLINE: Afterlife Processing demo during Steam Next Fest! Come hang out in the chat, watch him judge some souls, and play the demo free right now.Follow him on YouTube: ",
+                "feedlabel": "Community Announcements",
+                "date": 1792520656,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5142140
+            }
+        ],
+        "count": 4
+    }
+}
