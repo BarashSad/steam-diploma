@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: DEADLINE: Afterlife Processing
+Analyzed: Rip It! Card Collector
 Tavily Budget Used: 15
 Errors: 0

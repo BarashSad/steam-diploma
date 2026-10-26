@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-10-26T04:18:18.304749+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261026_040857/rank_changes.csv",
-    "selected_appid": "5142140",
-    "selected_game_title": "DEADLINE: Afterlife Processing",
+    "started_at": "2026-10-26T18:42:37.548171+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261026_183228/rank_changes.csv",
+    "selected_appid": "5088440",
+    "selected_game_title": "Rip It! Card Collector",
     "top_n": 1,
     "old_snapshot_date": "2026-10-23",
     "new_snapshot_date": "2026-10-26",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-26T04:18:18.304763+00:00",
+    "finished_at": "2026-10-26T18:42:37.548188+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

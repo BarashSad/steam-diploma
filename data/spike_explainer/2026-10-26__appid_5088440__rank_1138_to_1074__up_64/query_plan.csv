@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5088440,Rip It! Card Collector,"""Rip It! Card Collector"" Steam",general,1,tavily,True,,5
+5088440,Rip It! Card Collector,"""Rip It! Card Collector"" trailer",general,1,tavily,True,,5
+5088440,Rip It! Card Collector,"""Rip It! Card Collector"" gameplay",general,1,tavily,True,,5
+5088440,Rip It! Card Collector,"""Rip It! Card Collector"" demo",general,1,tavily,True,,5
+5088440,Rip It! Card Collector,"""Rip It! Card Collector"" release date",general,1,tavily,True,,5
+5088440,Rip It! Card Collector,"""Rip It! Card Collector"" announcement",general,1,tavily,True,,5
+5088440,Rip It! Card Collector,"""Rip It! Card Collector"" preview",general,1,tavily,True,,5
+5088440,Rip It! Card Collector,"""Rip It! Card Collector"" review",general,1,tavily,True,,5
+5088440,Rip It! Card Collector,"""Rip It! Card Collector"" publisher",general,1,tavily,True,,5
+5088440,Rip It! Card Collector,"""Rip It! Card Collector"" developer",general,1,tavily,True,,5
+5088440,Rip It! Card Collector,"site:pcgamer.com ""Rip It! Card Collector""",press,2,tavily,False,General budget exhausted,0
+5088440,Rip It! Card Collector,"site:rockpapershotgun.com ""Rip It! Card Collector""",press,2,tavily,False,General budget exhausted,0
+5088440,Rip It! Card Collector,"site:ign.com ""Rip It! Card Collector""",press,2,tavily,False,General budget exhausted,0
+5088440,Rip It! Card Collector,"site:gamespot.com ""Rip It! Card Collector""",press,2,tavily,False,General budget exhausted,0
+5088440,Rip It! Card Collector,"site:game8.co ""Rip It! Card Collector""",press,2,tavily,False,General budget exhausted,0
+5088440,Rip It! Card Collector,"site:reddit.com ""Rip It! Card Collector""",social,3,tavily,True,,5
+5088440,Rip It! Card Collector,"site:tiktok.com ""Rip It! Card Collector""",social,4,tavily,True,,5
+5088440,Rip It! Card Collector,"site:instagram.com ""Rip It! Card Collector""",social,4,tavily,True,,5
+5088440,Rip It! Card Collector,"site:x.com ""Rip It! Card Collector""",social,4,tavily,True,,5
+5088440,Rip It! Card Collector,"site: ""Rip It! Card Collector""",social,4,tavily,True,,5
