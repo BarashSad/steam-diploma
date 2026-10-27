@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-10-27T04:37:43.740809+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261027_042845/rank_changes.csv",
+    "started_at": "2026-10-27T17:57:12.269501+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261027_174702/rank_changes.csv",
     "selected_appid": "5088440",
     "selected_game_title": "Rip It! Card Collector",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-27T04:37:43.740827+00:00",
+    "finished_at": "2026-10-27T17:57:12.269514+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

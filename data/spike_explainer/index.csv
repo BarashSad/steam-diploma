@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-10-27T04:37:15.345431+00:00,5088440,Rip It! Card Collector,data/spike_explainer/2026-10-27__appid_5088440__rank_1074_to_1035__up_39,39,75,data/spike_explainer/2026-10-27__appid_5088440__rank_1074_to_1035__up_39/llm_summary_input.md
+2026-10-27T17:56:45.396329+00:00,5088440,Rip It! Card Collector,data/spike_explainer/2026-10-27__appid_5088440__rank_1035_to_976__up_59,59,75,data/spike_explainer/2026-10-27__appid_5088440__rank_1035_to_976__up_59/llm_summary_input.md
