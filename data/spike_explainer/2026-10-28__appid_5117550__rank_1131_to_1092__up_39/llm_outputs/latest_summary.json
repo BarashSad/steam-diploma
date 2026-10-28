@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-28T05:09:26.527930+00:00",
+    "timestamp": "20261028_050926",
+    "input_file": "data/spike_explainer/2026-10-28__appid_5117550__rank_1131_to_1092__up_39/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-28__appid_5117550__rank_1131_to_1092__up_39/llm_outputs/gemini_20261028_050926.md",
+    "game_title": "Fart Together",
+    "appid": "5117550",
+    "duration_sec": 22.64,
+    "response_length": 6132,
+    "error": null
+}

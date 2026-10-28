@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5117550,Fart Together,"""Fart Together"" Steam",general,1,tavily,True,,5
+5117550,Fart Together,"""Fart Together"" trailer",general,1,tavily,True,,5
+5117550,Fart Together,"""Fart Together"" gameplay",general,1,tavily,True,,5
+5117550,Fart Together,"""Fart Together"" demo",general,1,tavily,True,,5
+5117550,Fart Together,"""Fart Together"" release date",general,1,tavily,True,,5
+5117550,Fart Together,"""Fart Together"" announcement",general,1,tavily,True,,5
+5117550,Fart Together,"""Fart Together"" preview",general,1,tavily,True,,5
+5117550,Fart Together,"""Fart Together"" review",general,1,tavily,True,,5
+5117550,Fart Together,"""Fart Together"" publisher",general,1,tavily,True,,5
+5117550,Fart Together,"""Fart Together"" developer",general,1,tavily,True,,5
+5117550,Fart Together,"site:pcgamer.com ""Fart Together""",press,2,tavily,False,General budget exhausted,0
+5117550,Fart Together,"site:rockpapershotgun.com ""Fart Together""",press,2,tavily,False,General budget exhausted,0
+5117550,Fart Together,"site:ign.com ""Fart Together""",press,2,tavily,False,General budget exhausted,0
+5117550,Fart Together,"site:gamespot.com ""Fart Together""",press,2,tavily,False,General budget exhausted,0
+5117550,Fart Together,"site:game8.co ""Fart Together""",press,2,tavily,False,General budget exhausted,0
+5117550,Fart Together,"site:reddit.com ""Fart Together""",social,3,tavily,True,,5
+5117550,Fart Together,"site:tiktok.com ""Fart Together""",social,4,tavily,True,,5
+5117550,Fart Together,"site:instagram.com ""Fart Together""",social,4,tavily,True,,5
+5117550,Fart Together,"site:x.com ""Fart Together""",social,4,tavily,True,,5
+5117550,Fart Together,"site: ""Fart Together""",social,4,tavily,True,,5
