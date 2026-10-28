@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-28T18:21:07.766062+00:00",
+    "timestamp": "20261028_182107",
+    "input_file": "data/spike_explainer/2026-10-28__appid_5088440__rank_949_to_887__up_62/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-28__appid_5088440__rank_949_to_887__up_62/llm_outputs/gemini_20261028_182107.md",
+    "game_title": "Rip It! Card Collector",
+    "appid": "5088440",
+    "duration_sec": 20.55,
+    "response_length": 6957,
+    "error": null
+}
