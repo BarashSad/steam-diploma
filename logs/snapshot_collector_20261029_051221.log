@@ -1,0 +1,107 @@
+2026-10-29 05:12:21,691 [INFO] Steam Snapshot Collector Started.
+2026-10-29 05:12:21,691 [INFO] Speed Mode: fast
+2026-10-29 05:12:21,691 [INFO] Work Dir: /home/runner/work/steam-diploma/steam-diploma/data/snapshots
+2026-10-29 05:12:21,691 [INFO] Base Output Dir: .
+2026-10-29 05:12:21,692 [INFO] Page 1 | Collected: 0
+2026-10-29 05:12:22,139 [INFO] Pacing: sleep 1.2s
+2026-10-29 05:12:23,373 [INFO] Page 2 | Collected: 0
+2026-10-29 05:12:23,763 [INFO] Pacing: sleep 1.3s
+2026-10-29 05:12:25,101 [INFO] Page 3 | Collected: 0
+2026-10-29 05:12:25,448 [INFO] Pacing: sleep 1.3s
+2026-10-29 05:12:26,778 [INFO] Page 4 | Collected: 0
+2026-10-29 05:12:27,148 [INFO] Pacing: sleep 0.8s
+2026-10-29 05:12:27,944 [INFO] Page 5 | Collected: 0
+2026-10-29 05:12:28,339 [INFO] Pacing: sleep 1.1s
+2026-10-29 05:12:29,415 [INFO] Page 6 | Collected: 0
+2026-10-29 05:12:29,753 [INFO] Pacing: sleep 1.4s
+2026-10-29 05:12:31,195 [INFO] Page 7 | Collected: 0
+2026-10-29 05:12:31,531 [INFO] Pacing: sleep 0.7s
+2026-10-29 05:12:32,188 [INFO] Page 8 | Collected: 0
+2026-10-29 05:12:32,584 [INFO] Pacing: sleep 1.1s
+2026-10-29 05:12:33,693 [INFO] Page 9 | Collected: 0
+2026-10-29 05:12:33,983 [INFO] Pacing: sleep 1.2s
+2026-10-29 05:12:35,144 [INFO] Page 10 | Collected: 0
+2026-10-29 05:12:35,509 [INFO] Pacing: sleep 1.2s
+2026-10-29 05:12:36,696 [INFO] Page 11 | Collected: 250
+2026-10-29 05:12:37,035 [INFO] Pacing: sleep 0.6s
+2026-10-29 05:12:37,633 [INFO] Page 12 | Collected: 250
+2026-10-29 05:12:37,987 [INFO] Pacing: sleep 1.3s
+2026-10-29 05:12:39,240 [INFO] Page 13 | Collected: 250
+2026-10-29 05:12:39,723 [INFO] Pacing: sleep 0.8s
+2026-10-29 05:12:40,525 [INFO] Page 14 | Collected: 250
+2026-10-29 05:12:40,834 [INFO] Pacing: sleep 0.9s
+2026-10-29 05:12:41,782 [INFO] Page 15 | Collected: 250
+2026-10-29 05:12:42,147 [INFO] Pacing: sleep 1.4s
+2026-10-29 05:12:43,551 [INFO] Page 16 | Collected: 250
+2026-10-29 05:12:43,892 [INFO] Pacing: sleep 1.4s
+2026-10-29 05:12:45,246 [INFO] Page 17 | Collected: 250
+2026-10-29 05:12:45,533 [INFO] Pacing: sleep 1.1s
+2026-10-29 05:12:46,665 [INFO] Page 18 | Collected: 250
+2026-10-29 05:12:47,095 [INFO] Pacing: sleep 1.1s
+2026-10-29 05:12:48,205 [INFO] Page 19 | Collected: 250
+2026-10-29 05:12:48,486 [INFO] Pacing: sleep 1.5s
+2026-10-29 05:12:49,942 [INFO] Page 20 | Collected: 250
+2026-10-29 05:12:50,282 [INFO] Pacing: sleep 1.2s
+2026-10-29 05:12:51,460 [INFO] Page 21 | Collected: 500
+2026-10-29 05:12:51,767 [INFO] Pacing: sleep 1.3s
+2026-10-29 05:12:53,086 [INFO] Page 22 | Collected: 500
+2026-10-29 05:12:53,454 [INFO] Pacing: sleep 0.7s
+2026-10-29 05:12:54,191 [INFO] Page 23 | Collected: 500
+2026-10-29 05:12:54,581 [INFO] Pacing: sleep 1.1s
+2026-10-29 05:12:55,656 [INFO] Page 24 | Collected: 500
+2026-10-29 05:12:55,918 [INFO] Pacing: sleep 1.5s
+2026-10-29 05:12:57,384 [INFO] Page 25 | Collected: 500
+2026-10-29 05:12:58,094 [INFO] Pacing: sleep 0.7s
+2026-10-29 05:12:58,747 [INFO] Page 26 | Collected: 500
+2026-10-29 05:12:59,026 [INFO] Pacing: sleep 1.2s
+2026-10-29 05:13:00,222 [INFO] Page 27 | Collected: 500
+2026-10-29 05:13:00,504 [INFO] Pacing: sleep 0.9s
+2026-10-29 05:13:01,401 [INFO] Page 28 | Collected: 500
+2026-10-29 05:13:01,753 [INFO] Pacing: sleep 1.1s
+2026-10-29 05:13:02,808 [INFO] Page 29 | Collected: 500
+2026-10-29 05:13:03,080 [INFO] Pacing: sleep 0.9s
+2026-10-29 05:13:03,976 [INFO] Page 30 | Collected: 500
+2026-10-29 05:13:04,340 [INFO] Pacing: sleep 1.1s
+2026-10-29 05:13:05,487 [INFO] Page 31 | Collected: 750
+2026-10-29 05:13:05,604 [WARNING] Block detected on page 31: HTTP 429
+2026-10-29 05:13:05,604 [INFO] Saved raw HTML for debugging: blocked_0031.html
+2026-10-29 05:13:05,604 [WARNING] Initiating ADAPTIVE THROTTLING. Sleeping 180s, switching to SAFE mode.
+2026-10-29 05:16:05,604 [INFO] Pacing: sleep 39.3s | Short Cooldown: 32.1s
+2026-10-29 05:16:44,897 [INFO] Page 31 | Collected: 750
+2026-10-29 05:16:45,877 [INFO] Pacing: sleep 5.1s
+2026-10-29 05:16:51,010 [INFO] Page 32 | Collected: 750
+2026-10-29 05:16:52,029 [INFO] Pacing: sleep 6.1s
+2026-10-29 05:16:58,135 [INFO] Page 33 | Collected: 750
+2026-10-29 05:16:59,071 [INFO] Pacing: sleep 5.1s
+2026-10-29 05:17:04,129 [INFO] Page 34 | Collected: 750
+2026-10-29 05:17:05,324 [INFO] Pacing: sleep 5.3s
+2026-10-29 05:17:10,641 [INFO] Page 35 | Collected: 750
+2026-10-29 05:17:11,909 [INFO] Pacing: sleep 5.7s
+2026-10-29 05:17:17,636 [INFO] Page 36 | Collected: 750
+2026-10-29 05:17:19,151 [INFO] Pacing: sleep 6.1s
+2026-10-29 05:17:25,291 [INFO] Page 37 | Collected: 750
+2026-10-29 05:17:26,640 [INFO] Pacing: sleep 4.5s
+2026-10-29 05:17:31,152 [INFO] Page 38 | Collected: 750
+2026-10-29 05:17:31,795 [INFO] Pacing: sleep 6.8s
+2026-10-29 05:17:38,553 [INFO] Page 39 | Collected: 750
+2026-10-29 05:17:39,648 [INFO] Pacing: sleep 7.6s
+2026-10-29 05:17:47,204 [INFO] Page 40 | Collected: 750
+2026-10-29 05:17:48,412 [INFO] Pacing: sleep 141.4s | Long Cooldown: 135.0s
+2026-10-29 05:20:09,808 [INFO] Page 41 | Collected: 1000
+2026-10-29 05:20:10,294 [INFO] Pacing: sleep 6.2s
+2026-10-29 05:20:16,449 [INFO] Page 42 | Collected: 1000
+2026-10-29 05:20:16,991 [INFO] Pacing: sleep 6.5s
+2026-10-29 05:20:23,522 [INFO] Page 43 | Collected: 1000
+2026-10-29 05:20:24,005 [INFO] Pacing: sleep 7.3s
+2026-10-29 05:20:31,289 [INFO] Page 44 | Collected: 1000
+2026-10-29 05:20:31,854 [INFO] Pacing: sleep 6.8s
+2026-10-29 05:20:38,692 [INFO] Page 45 | Collected: 1000
+2026-10-29 05:20:39,095 [INFO] Pacing: sleep 5.7s
+2026-10-29 05:20:44,760 [INFO] Page 46 | Collected: 1000
+2026-10-29 05:20:45,141 [INFO] Pacing: sleep 7.7s
+2026-10-29 05:20:52,822 [INFO] Page 47 | Collected: 1000
+2026-10-29 05:20:53,081 [WARNING] Block detected on page 47: Suspicious term found: 'captcha'
+2026-10-29 05:20:53,082 [INFO] Saved raw HTML for debugging: blocked_0047.html
+2026-10-29 05:20:53,082 [ERROR] Blocked again even after safe mode. Stopping gracefully.
+2026-10-29 05:20:53,083 [INFO] Crawl stopped. Reason: adaptive_throttle_failed_page_47. Finalizing...
+2026-10-29 05:20:53,083 [INFO] Merging intermediate pages from work_dir: /home/runner/work/steam-diploma/steam-diploma/data/snapshots/data/snapshots/_in_progress/0f5f6d4d-4b3e-4573-9716-0171afba2b6e

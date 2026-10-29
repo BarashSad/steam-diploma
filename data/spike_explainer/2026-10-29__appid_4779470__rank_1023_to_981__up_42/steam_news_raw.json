@@ -1,0 +1,301 @@
+{
+    "appnews": {
+        "appid": 4779470,
+        "newsitems": [
+            {
+                "gid": "1847286114050509",
+                "title": "The Walkers Demo Has Ended: Thank You!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114050509",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "The Demo Has EndedThe Walkers demo is now closed, and I want to say a huge thank you to everyone who played it.I\u2019m developing Walkers on my own, so seeing so many of you jump in, play for hours and take the time to write to me has meant a lot.Your Feedback Shaped the GameI read every bug report, suggestion, review and Discord message. A lot of what changed during the demo came straight from you:Save System: auto saves, manual saves and save slots.Full Gamepad Support: adaptive triggers, haptics and full button remapping.Survivors & Smarter AI: recruitable survivors, a reputation system, loot orders and enemies that fight back.Vehicles: the Buggy and the Sedan, with fuel, durability and room for your crew.Status Effects & Healing: bleeding, infection, poison and healing over time.Death & Respawn: respawn at your bed and recover your belongings sack.Lots of quality-of-life changes and bug fixes: inventory sorting and weight, crafting queues, the map and minimap, and much more.As a solo developer, I couldn\u2019t have found and fixed all of this so quickly without your help. Thank you for your patience with the bugs, and for every report you sent.What\u2019s Next: Early AccessI\u2019m now fully focused on Early Access. Archery, fishing, seasons with dynamic weather, body heat, zombie levels and much more are already in, and none of it was in the demo.You can read everything in detail in the latest Devlog #12. I\u2019ll keep adding new features, and you can follow the progress here until October 30.Stay With MeWishlist Walkers on Steam to get notified the moment Early Access launches.Join the Discord to share ideas, report bugs and talk to me directly.Follow the game on Steam so you don\u2019t miss future devlogs.Thank you again for playing. See you in Early Access.",
+                "feedlabel": "Community Announcements",
+                "date": 1793136697,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1847286114049116",
+                "title": "Devlog #12: Seasons, Archery, Fishing & Zombie Levels",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114049116",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "Everything in this devlog is coming with the Early Access release and will not be added to the demo.New: ArcheryNew craftable Bow and Arrows, made from the craft panel \\. The bow is crafted from Wood and Rope, and each arrow from Wood and Rock.The bow uses the same controls as guns: hold aim to raise and draw the bow, then press attack to release the arrow.Draw tension matters: the longer you hold your aim, the tighter the draw. A quick shot flies slow, hits soft and goes wide. A full draw flies fast, hits hard and lands where you aim.Stand still for precision: shooting on the move spreads your arrows, so stop and draw for the cleanest shot.Don\u2019t hold it forever: if you keep a full draw for more than a few seconds, your arm starts to shake and your aim widens.A dynamic reticle opens and closes with your accuracy. Next to it, a draw meter turns green at full tension, and your arrow count is shown below.A fresh arrow is nocked after every shot, with its own animation.The bow has a real string that pulls back as you draw, and you can see the arrow resting on it while you aim.Bows are quiet: zombies only hear a shot from a few meters away, which makes stealth kills possible.ArrowsArrows are real projectiles that arc under gravity, so long shots need a little lead.Headshots deal heavy bonus damage and limb shots deal less, just like with guns.Arrows stick into whatever they hit and can be picked back up.Arrows stuck in a zombie fall to the ground when it dies, ready to be collected.Some arrows break on impact and are lost.Inventory & NPCsBows and arrows fit anywhere: inventory, backpack, chests, and the bow on your hotbar. Both are kept in your save.You can give a bow to an ally NPC. They fire real arrows that never hurt you or other allies.NPCs now use the right ammo for their weapon: bows only use arrows, and guns no longer waste arrows.New: FishingNew craftable Fishing Rod: make it from the craft panel \\ with Wood, Plastic Parts and Rope.The rod works like any other item: hotbar, inventory, backpack and chests. It\u2019s also kept in your save.It\u2019s held in the left hand and can\u2019t be used to attack.Look at a lake or river to see both Drink Water and Cast Line (Hold). If you try to fish without a rod, the game tells you that you need one.Cast: hold the button to charge your cast, then release to throw the bobber. The farther you cast, the bigger the fish can be. If the bobber lands on dry ground, the line reels back in.Wait for the bite: the bobber twitches with fake nibbles first. Pull too early and you\u2019ll scare the fish away.Hook it: when the hook icon pops up, react in time to set the hook.Reel it in: a fish icon darts along a bar. Hold to push the green zone right, and release to let it drift left. Keep the fish inside the zone to fill the catch meter. If the meter drains, the line snaps.Big fish (2.6 kg+) give 2 Raw Fish. If your bag is full, the catch drops at your feet.Moving, jumping or taking damage interrupts fishing.Full cast, idle and collect animations, with a fishing line, bobber and water splashes.The fishing UI matches the rest of the game\u2019s HUD.Ally NPCsRaw Fish is now an option in the NPC loot filter and loot orders.When you ask for fish, an NPC walks to the nearest shore, casts and fishes with the same animations as the player, then brings back Raw Fish.NPCs use a rod from their own inventory or backpack, or grab one from a nearby chest. If there\u2019s no rod anywhere, they tell you they need one.You can hand a fishing rod to an NPC through their inventory, and they keep it instead of depositing it into chests.Fixes & ImprovementsFixed being able to drink water or refill your thermos while looking at dry ground near lakes.Water hints now update correctly when you equip or put away the fishing rod.You can now drink straight from lakes and rivers even while carrying a thermos.The torch now hides while you hold the fishing rod and comes back when you put the rod away.Items can now be set to be held in the left hand.New: Seasons & WeatherSeason cycle: Summer \u2192 Autumn \u2192 Winter \u2192 Spring. Each season lasts 10 in-game days, and seasons blend smoothly into each other over their last days.Simulated weather: clouds gather first and the sky darkens. Rain or snow starts light, gets heavier, eases off, and then the sky clears. Whether it rains or snows depends on the day\u2019s temperature, the clouds, and the cooling from the precipitation itself.Ground conditions build up: snow piles up gradually, and wet ground freezes first. Snow melts above 0\u00b0C and in the rain. Rain soaks the ground, and puddles form over time. How fast things dry depends on temperature, sunlight and cloud cover.Snowier winters: snow starts falling as soon as winter begins. Clear spells are short, snowfalls are long, and snow builds up much faster.Seasonal lighting: every season has its own light tone and sun intensity.Season UI: a season indicator has been added to the screen.New: Cold & Body HeatBody temperature: your body temperature is now trac...",
+                "feedlabel": "Community Announcements",
+                "date": 1793111113,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470
+            },
+            {
+                "gid": "1847286114043163",
+                "title": "Devlog #11: Death & Respawn, Unarmed Combat & New Skies",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114043163",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "New FeaturesUnarmed CombatWith empty hands, left-click to punch. Punches alternate between right and left hooks, have their own swing sound, and cost stamina.New Death & Respawn SystemWhen you die, the screen fades to black with a \u201cYOU ARE DEAD\u201d message and a 3-2-1 countdown.You respawn next to your marked bed, sleeping bag or tent. If you haven\u2019t marked one, you respawn at your bonfire.You respawn with full health, and your hunger and thirst are restored to at least half.Belongings SackWhen you die, your hotbar, inventory and equipped backpack (with everything inside) drop as a sack where you died. Armor you\u2019re wearing stays on you.The sack shows up on the world map and minimap, so you can always find your way back.If you die again before collecting your items, each death leaves its own sack, and you can recover all of them.Sacks are saved with your game.NPC EquipmentNPCs can now wear helmets, chest armor and knee pads (leather and metal) and carry backpacks. Their armor is visible and reduces the damage they take.Item Weights While LootingThe loot screen shows the container\u2019s total weight and your current carry weight.Item tooltips show the total weight of a stack.NPC ImprovementsFood, water & healing: NPCs now eat, drink and heal on their own.They use items from their own inventory first.Workers who run out walk to the nearest chest to restock.If nothing is available anywhere, they let you know they\u2019re hungry, thirsty or need medicine.Morale fix: NPC health was counted incorrectly, so morale could never fully recover. This is fixed, and NPCs now also slowly regenerate health while they\u2019re fed and hydrated.Strength by tier: NPC health and melee damage now scale with how strong the NPC is. NPCs that need more Outpost Reputation to recruit are tougher, and they get stronger as they level up.Balance ChangesResource respawns: trees, rocks, plants and other resources now take 1\u20132 in-game days to respawn. Gathered resources stay gathered after saving and loading.Tracker: the Tracker no longer knocks you to the ground. Its hits deal more damage instead.Sprinting: sprinting only works while moving forward and is disabled when you\u2019re close to being over-encumbered. After you run out of stamina, press sprint again to start running.Sky & AtmosphereSunrise & sunset: the orange-pink glow now gathers around the sun, while the rest of the sky stays dimmer, so sunrises and sunsets look more natural.Sunlight color: sunlight turns warm at sunrise and sunset and goes back to its normal color during the day.Weather-based tinting: sunset colors are muted on overcast days and fully visible on clear days.Darker nights: the night sky is almost black, and only the moon lights up the night. Moonlight is softer too.Vegetation glow at night: night reflections have been reduced, so trees and plants no longer glow white at night.Vignette: when effects like menus close, the vignette now goes back to the scene\u2019s own setting instead of being turned off completely.CloudsMore detailed clouds: cloud edges are sharper, and clouds now have non-repeating procedural detail that thins out toward the horizon and fades away there.Fixed distortion overhead: looking straight up no longer shows a star-shaped pinch and a visible seam in the clouds.TechnicalUpdated render settings.Bug FixesInteractionBuilt chests can now be opened reliably with E.Fridges can now be opened and searched.F works again for entering vehicles.Loot ExploitSearched containers (crates, fridges, cabinets, car trunks\u2026) no longer refill when you reload a save.BuildingFull walls now have proper collision, so you can no longer walk through them.MovementYour character can now climb steep stairs.You no longer keep running, walking, crouching or jumping after respawning, and jumping and the camera now work correctly after respawn.Key RebindingThe Loot All key now works everywhere after rebinding, including at crafting stations.Custom key bindings no longer reset after sleeping or getting knocked down.Melee CombatFixed melee weapons (bat, axe, etc.) sometimes failing to hit, for example when a dead zombie\u2019s backpack or dropped loot was in the way.Fixed your character\u2019s arms getting stuck in the attack pose.Fixed weapons getting locked until you equipped them again.DamageFixed hits on some zombie types not dealing damage because of an error during dismemberment.",
+                "feedlabel": "Community Announcements",
+                "date": 1792969227,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470
+            },
+            {
+                "gid": "1847286114041192",
+                "title": "Devlog #10: Vehicles, Survivors, QoL & Smarter AI",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114041192",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "New: VehiclesVehicles are here! Two are available for now: a Buggy and a classic Sedan.Your allied NPCs can ride with you. The Buggy seats 1 driver + 1 passenger, and the Sedan seats 1 driver + 3 passengers.Vehicles have a speedometer, a gear system, durability, and fuel.When a vehicle\u2019s durability runs out, it explodes, and the blast damages everything nearby.Vehicles damage NPCs, zombies and other living things they hit, and zombies can attack your vehicles.Gasoline has been added and can be found in loot.AI Behaviour UpdatesSurvivors & ReputationThere are now three survivor tiers: Weak, Average and Strong. Higher-tier survivors are more skilled, but they\u2019re also harder to convince to join you.Survivors now live in the world. They appear as you approach zombie areas and disappear as you move away. When survivors die or join your crew, new ones arrive overnight or while you sleep.Weak survivors can now be found inside buildings in their areas.Your base now has a Reputation. The structures you build at your shelter, and the enemy camps you clear both raise it. You need enough reputation to recruit NPCs, and Strong survivors may still turn you down.A helping hand for new players: if you haven\u2019t recruited anyone yet, two Weak survivors appear near you at the start of the game.NPCs now level up, so your crew grows stronger along with you.Dialogue & DecisionsRedesigned decision panel: when you talk to survivors, the choice buttons appear one by one, with color, slide and scale effects on hover.Press ESC to close the decision panel without accepting or declining.Loot Orders & Base ManagementNew Loot Order panel: tell your NPCs which materials to gather and how much, or let them gather the max limit. They drop everything off in storage and let you know when they\u2019re done.You get a notification when a material or resource runs short. Hover over a job to see its description.No more items scattered on the ground. If there\u2019s no suitable chest, NPCs keep their items instead of dumping them in the middle of your base, and they let you know. As soon as you place a chest, they go and store everything.Enemy NPCsPeople in enemy camps no longer behave like zombies. They now run on their own AI.Enemies now have distance-based accuracy, burst fire, and cover, and Commander units buff the enemies around them.Every enemy has its own loot and XP reward.Realistic fire rate: NPCs no longer fire semi-automatic weapons like pistols and revolvers as if they were automatic rifles. They now shoot at a human trigger pace with slightly random intervals, and wait longer between sniper rifle shots.CompanionsCompanions now follow you from behind.They no longer shoot each other in combat. They protect you and fire on hostile humans with ranged weapons.Armed NPCs shoot their targets instead of trying to punch them.Friendly fire: allies are now protected while they\u2019re fighting someone else. Outside of that, your shots will hurt an ally, and they will fight back.Melee CombatUnarmed NPCs now punch with left and right hooks, and each hit lands in sync with the animation.They surround you: NPCs attacking the same target form a ring around it instead of lining up or stacking on top of each other.Between punches, they sidestep, back off, and move back in, so they no longer freeze in place.Attack animations are faster, so combat feels snappier.ZombiesZombies now react to gunfire. How far away they hear it depends on the weapon.WeaponsImproved sniper scope: hold your breath to steady your aim and zoom in or out.You can no longer sprint while aiming.Improved firearm raycasting for more accurate hits.Inventory, Weight & HotbarWeight system: items now show their weight, and the inventory shows your carrying capacity.Backpacks now increase your carrying capacity by a percentage.Rebalanced the base carry weight for NPCs.The hotbar now has 8 slots.Usable items you pick up now go straight to your hotbar. If it\u2019s full, they go to your bag.The player inventory now has 20 slots by default.New slot visuals with a soft, color-coded glow: green for items you can use, wear or consume, blue for everything else. The same look carries over to the in-game hotbar.Removed a small hitch the first time you dragged an item.BuildingYou can now walk through unfinished structures in Build Mode, which makes building houses much easier.Hold to add materials: hold the button to add all required materials at once.Fixed collider issues on house pieces.Fixed unfinished structures not being demolishable in Build Mode.Fixed snapping not working after demolishing in Build Mode.Player & ControlsStairs & steps: your character now climbs low steps and ledges without getting stuck.Interacting with small items: small objects used to lose focus when the camera shook slightly. The aiming area is now more forgiving, so focus stays on the object even if your aim drifts a little.The default cursor is now smaller.World & VisualsReworked the terrain.Rock collisions: rebuilt so they match the rocks\u2019...",
+                "feedlabel": "Community Announcements",
+                "date": 1792901697,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470
+            },
+            {
+                "gid": "1847286114035774",
+                "title": "Devlog #9: Water & Thermos",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035774",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "New: Drinking WaterYou can now drink directly from lakes and rivers.New: ThermosCraft a Thermos to carry water with you.Fill it at any lake or river.Each Thermos holds 3 uses and needs to be refilled after that.Balance ChangesThirst no longer drains as quickly.The Weapon Workbench no longer requires a blueprint to build.Coming Soon: Durability We\u2019ve laid the groundwork for a durability system. Soon, your items will wear down as you use them, so take care of your gear!",
+                "feedlabel": "Community Announcements",
+                "date": 1792749968,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1847286114034698",
+                "title": "Devlog #8: Full Gamepad Support Is Here!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034698",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "New: Full Gamepad SupportWalkers now supports all major gamepad controllers, so you can play the whole game from your couch.Adaptive Triggers: On supported controllers, the triggers push back as you use your weapons and tools, giving each action its own physical feel.Haptic Feedback: Feel hits, impacts and actions through controller vibration.Button Remapping: Change every gamepad button from the Settings menu to set up controls the way you like.Vibration Settings: Adjust vibration strength in the Settings menu, or turn it off completely.Control ChangesThe main interaction key has moved from Left Mouse Button to E.Demolish Mode is now on the Middle Mouse Button by default.Added a Quick Demolish key that appears when you look at a structure in Build Mode.Main MenuUpdated the main menu for a smoother experience.Fixed the Steam, Discord and Feedback buttons on the main menu.Settings & In-Game MenusAdded quick navigation with Q / E to the Settings menu.Added quick navigation with Q / E to the in-game menu.The in-game menu now shows the shortcut key for each tab.Fixed overlapping visual elements in the Settings menu.",
+                "feedlabel": "Community Announcements",
+                "date": 1792719279,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470
+            },
+            {
+                "gid": "1847286114031121",
+                "title": "Devlog #7: Save System Is Here!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031121",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "New: Save SystemAuto Save: The game now saves automatically at regular intervals.Save on Exit: Your progress is saved automatically when you quit the game.Manual Save: Save your game whenever you want.Save Slots: Overwrite any existing save slot with a new save.Load Game: Continue from any of your saved games.LoadingFixed the loading screen not appearing when returning to the main menu and starting the game again, which made the game look frozen.Inventory, Backpack & HotbarFixed a false \u201cInventory Full\u201d warning when picking up items of the same type with Shift + Left Click while looting.Fixed equippable items in the backpack not being placeable into character slots.Fixed Split and Salvage not working in the backpack, and item counts not going down when dropping items.Fixed stack counts not showing for hotbar items.Fixed misleading notifications (e.g., \u201c-20 Wood / +20 Wood\u201d) when moving items between the Player Inventory and Backpack in the Tab menu.Audio & AnimationFixed item use sound effects playing while browsing the Tab menu.Fixed the baseball bat playing a hit impact sound even when it didn\u2019t hit anything.Fixed broken animations when switching to another weapon after using a Stone Axe or Stone Pickaxe.Interaction & LocalizationAll environment interactions now have dynamic names and updated key prompt descriptions.Fixed a localization error during NPC conversations.If you haven't added Walkers to your wish list yet! ",
+                "feedlabel": "Community Announcements",
+                "date": 1792641643,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470
+            },
+            {
+                "gid": "1847286114029946",
+                "title": "Devlog #6: Crafting Improvements & Bug Fixes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029946",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "Crafting StationsCrafting at stations like the Smelting Furnace and Sewing Bench used to stop when the panel was closed or no one was working there. Now it keeps going, but when no player or NPC is at the station, crafting takes 4x longer.Fixed crafting queues getting stuck at the Campfire, Smelting Furnace, Sewing Bench, and other crafting stations. You can now right-click to cancel a queued craft.Combat & WeaponsPlayers can now attack with tools such as the Axe, Pickaxe, Stone Axe, and Stone Pickaxe.Fixed magazines refilling automatically when switching weapons on the hotbar.Fixed weapon magazine capacities.Inventory & HotbarFixed Sort All, Put All, Take All, and Shift + Left Click not stacking identical items.Fixed items not being placed into chests from the player's hotbar.NPCs & Other FixesFixed items not being given to NPCs.Fixed the P key opening an unintended UI panel.",
+                "feedlabel": "Community Announcements",
+                "date": 1792607352,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1847286114029487",
+                "title": "Devlog #5: Status Effects & Healing Overhaul",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029487",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "New: Status EffectsBleeding: Zombie attacks can cause bleeding.Infection: Zombie attacks can infect you.Food Poisoning: Eating raw food will poison you.Mushrooms: 30% chance to cause poisoning.Healing Items ReworkedHealing items now restore health over time instead of instantly, and you can see the healing progress.Bandage: Stops bleeding.Sterile Bandage: Removes bleeding and infection.Painkillers: Remove infection and apply a Cure effect.Medkit & Medical Box: Remove all effects and apply a Cure effect.Health Bar ColorsTurns yellow when poisoned.Turns green when infected.ConsumablesEnergy Drink: Boosts energy regeneration for a limited time.Adrenaline Syringe: Boosts energy regeneration for a limited time and restores health.Hotbar ImprovementsConsumables can now be assigned to the hotbar for quick use.Press the same quick action key again to holster your item. Don\u2019t want to walk around with the bat out? Just press its key again.HUD ImprovementsAdded icons for Bleeding, Healing, Infection, Poisoning and Energy Boost.Localization & TooltipsAll localizations have been updated.Item tooltips now show where each item can be found.",
+                "feedlabel": "Community Announcements",
+                "date": 1792599407,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1847286114027267",
+                "title": "Devlog #4: Inventory & Loot Overhaul",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114027267",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "New: Inventory, Containers & LootAuto Sort: Organize your inventory or a container with one button.Take All: Grab everything from a container at once.Deposit All: Move all your items into a container at once.Quick Drop: A new drop area for throwing items on the ground quickly.Bug FixesFixed firearms such as the AK47, M4 and Submachine Gun not recognizing their ammo.Fixed pistol ammo dropped by zombies that couldn\u2019t be picked up.Fixed Split working even when the backpack was full.Fixed Salvage working even when the backpack was full.Fixed incorrect ammo amounts found in crates.Fixed visual issues in the backpack panel when equipping backpacks with more slots.If you haven't added it to Walker's wish list yet! ",
+                "feedlabel": "Community Announcements",
+                "date": 1792547554,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1846651706695819",
+                "title": "Devlog #3: Smarter Crafting, Minimap Tracking & Combat Audio",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695819",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "Hi survivors!Devlog #3 is here. This one is packed with fixes and quality-of-life improvements, many of them based directly on your feedback.CraftingYou can now craft any amount you want.Added visual and sound feedback that shows whether you have enough resources.Hovering over a required resource now shows a tooltip with where to find it.Updated the crafting queue: items of the same type are now grouped into a single entry with a 1/x progress counter, instead of a long list.Inventory & StorageFixed being able to pick up items with a full bag.Fixed chests at your outpost being counted as if they were on your character. When you\u2019re away from your chests, you now see only what you\u2019re carrying.Fixed the slot counts of the Small Chest and Big Chest.SurvivorsImproved survivor behavior. Survivors now send notifications based on their status and needs.Minimap, World & TutorialYour base and allied survivors now appear on the minimap, so you can keep track of them.The minimap now shows the demo area correctly.Respawn points have been fixed. You now respawn away from zombie areas and close to resources.Fixed health draining too quickly when leaving the demo area.The onboarding and tutorial have been updated to be clearer, with new visual and audio feedback.AudioAdded impact sounds for all weapons.Added bullet shell sounds.Added an empty magazine sound when you run out of ammo.Updated reload sounds for all weapons.Updated swing sounds for melee weapons.Added sounds for gathering bushes, breaking rocks and chopping trees. HotfixThe issue where items from chests and loot could not be added to the inventory has been fixed.The issue where items did not drop from loot has been resolved.The issue where a weapon could not be placed on the hotbar while holding a torch has been fixed.The issue where only 1 bullet was obtained from loot has been fixed.Thank you for every bug report and suggestion. Keep them coming, they make a real difference.If you haven\u2019t yet, add Walkers to your wishlist! ",
+                "feedlabel": "Community Announcements",
+                "date": 1792511712,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470,
+                "tags": [
+                    "patchnotes",
+                    "mod_reviewed",
+                    "ModAct_1691520782_1792513501_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1846651706693817",
+                "title": "Walkers Devlog #2 \u2014 Settlement Management, Loot & Audio Improvements",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706693817",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "Settlement Management & UINew Residential Menu: A new Residential section has been added to make managing your settlement easier. You can view and manage your NPCs, check their status, and select the Guard option to call them back to your base.Storage Overview: You can now view the storage containers placed in your settlement and check their contents more easily through an improved overview panel. NPC & Loot ImprovementsImproved NPC Looting: Fixed issues with NPC looting mechanics and expanded their working areas.Increased Drop Rates: Drop rates have been increased to make collecting loot more rewarding.Audio ImprovementsI've added new sound effects to make the world of Walkers feel more immersive:Zombie Audio: Idle, chase, alert, flesh impact, and death sounds.Character Movement: Separate walking, crouch-walking, and running sounds for different surfaces.Item Interactions: New sounds for using items and searching containers.Weapon Audio: New weapon sound effects.Fixes & AdjustmentsCorrected the Rifle Ammo item name, which was incorrectly displayed as AK47.Performance improvements. Known Issues & Upcoming ImprovementsI'm aware of the following issues and am working on improvements:Enemy outpost NPCs currently use zombie sounds, and their weapons produce no sound.Weapon impact sound effects still need to be added.Bullet shell sound effects still need to be added.UI warning and alert sound effects still need to be added.Some terrain objects appear to float above the ground and need to be adjusted.Thanks for following the development of Walkers! Your feedback helps us continue improving the game. Stay tuned for more updates!",
+                "feedlabel": "Community Announcements",
+                "date": 1792475529,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1846651706693159",
+                "title": "Devlog #1: Terrain Overhaul, Survival Alerts & More",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706693159",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "Hi survivors!Thank you for playing the demo and sending your feedback during Next Fest. I\u2019ve been going through every report, and this first devlog covers what I\u2019ve fixed and improved so far.Terrain & PerformanceThe terrain has been completely rebuilt. Chopping trees and mining rocks no longer causes FPS drops.Fixed an issue where wood, stone, bushes, and mushrooms couldn\u2019t be found.Fixed objects appearing to float above the terrain.Survival & NotificationsThe energy bar now changes color and animates smoothly.Added hunger and thirst notifications.Added morale, thirst, and hunger notifications for your survivors, so you know when they need you.Improved the notification panel: picking up several items of the same type now shows a single combined notification instead of one for each item.GameplayFixed the day length: one in-game day now lasts 30 real-world minutes.The House no longer requires a blueprint, so you can start building your shelter much faster.All item actions checked and fixed. AudioFootstep sounds now change depending on the surface you\u2019re walking on.Coming nextZombie sound effects for idle, alert, chase, attack, and deathWeapon sound fixesWeapon impact soundsPlease keep the feedback coming. Every report helps me make Walkers better before Early Access.If you haven\u2019t yet, add Walkers to your wishlist! ",
+                "feedlabel": "Community Announcements",
+                "date": 1792454516,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1846651706692913",
+                "title": "Walkers \u2013 Hotfix #2",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692913",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "Another round of fixes is here, thanks to your reports!Crafting & BuildingFixed the Produce button not working after switching between menus when the craft menu is opened with \\.Added visual feedback when producing items from the craft menu.Bandages no longer require a blueprint to craft. That was a bug.Added the early-game Fiber Basket to the build panel and fixed the Small Chest.Added rotate input hints to the build panel.Items & InventoryFixed Bandages and Painkillers not being usable.Fixed Bandage and Leather dropped by zombies not being lootable.Fixed use actions for the Stone Pickaxe and Stone Axe.Added a right-click \u201cUse\u201d input hint to the inventory.Fixed being unable to give a stick to NPCs.Survival & DeathFixed thirst draining too quickly.Fixed the character not dying when HP hit 0 while a HUD was open.Added Retry and Return to Main Menu buttons to the death screen (fully localized).WorldFixed snow particles spawning for no reason.",
+                "feedlabel": "Community Announcements",
+                "date": 1792447796,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1846651706692471",
+                "title": "HOTFIX v.0.1.3",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692471",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "Walkers \u2013 Hotfix \\We\u2019ve jumped on the bugs you reported after launch. Thanks for all the feedback. Here\u2019s what this update fixes:UI & MenusFixed the crafting panel breaking (and items failing to craft) after switching Craft \u2192 Inventory \u2192 Craft.Fixed the NPC HUD getting stuck and the mouse cursor locking.Fixed the death screen not appearing after the character dies.Fixed issues with the task list.Fixed issues in the tutorial.SurvivalFixed thirst draining too quickly.Fixed thirst draining excessively while sprinting.Fixed an issue with hunger and thirst damage to the player.Fixed mushrooms not being edible.ZombiesFixed zombie names.Fixed the Tracker not dealing damage.World & ItemsFixed Small Chest and Fiber Basket issues.Fixed rock colliders inside caves.Adjusted loot drop rates.Skill TreeFixed Alpha Vitality starting already maxed out.PerformanceFixed FPS drops when picking up stone, wood and mushrooms.Known issue: FPS drops when breaking bushes, trees and rocks are still being worked on and will be fixed in an upcoming update.",
+                "feedlabel": "Community Announcements",
+                "date": 1792438780,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1846651706674026",
+                "title": "20,000 WISHLISTS!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674026",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "Walkers has passed 20,000 wishlists!Just a few days ago I was thanking you for 10,000, and now that number has doubled. I\u2019m making Walkers on my own, so seeing 20,000 of you waiting for the game honestly means more than I can put into words. Thank you.What\u2019s coming next The free demo will be playable during Steam Next Fest, October 19\u201326. After that, Early Access launches on October 30.I\u2019d love to hear what you think of the demo. Every comment and bug report helps me make Walkers better. If you haven\u2019t yet, add Walkers to your wishlist! ",
+                "feedlabel": "Community Announcements",
+                "date": 1791978032,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470
+            },
+            {
+                "gid": "1846018067937258",
+                "title": "Play the Walkers Demo During Steam Next Fest",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067937258",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "Walkers is joining Steam Next Fest!From October 19 to October 26, you can play the free Walkers demo right here on Steam.What is Walkers? Walkers is an open-world zombie survival game about building an outpost, crafting, and keeping your recruited survivors alive in a post-apocalyptic wasteland. Every survivor matters: low morale can make them rebel or run away, and the ones you lose don\u2019t come back.When can I play? The demo goes live with the festival on October 19 at 10:00 AM PDT and is playable until October 26 at 10:00 AM PDT.Your feedback matters I\u2019m making Walkers on my own, and Next Fest is the first time many of you will get to play it. Every bug report, suggestion, and comment helps me shape the game before Early Access launches on October 30. If you enjoy the demo, adding Walkers to your wishlist is the best way to support the game. ",
+                "feedlabel": "Community Announcements",
+                "date": 1791664323,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470
+            },
+            {
+                "gid": "1846018067935044",
+                "title": "Meet the Composer Behind the Sound of Walkers",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067935044",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "We're happy to announce that composer and music producer Miguel Lopez has joined Walkers. Miguel is taking on all of the game's audio: music, sound effects, ambience, and overall sound design, along with original soundtracks composed specifically for Walkers.No stock sounds, no AI audioIn a zombie survival game, you usually hear the fear before you see it. A growl from the far end of a dark street, the silence inside a building you entered for supplies, footsteps behind you on the way back to your base. In an open world, sound is what tells you that every step is a risk.That's why Walkers will not use stock sound packs or AI-generated audio.About MiguelMiguel is based in Spain and creates original music for video games, animation, films, and trailers. In more than four years as a freelance composer, he has completed over 350 commissions for clients in more than 30 countries. His music focuses on storytelling, emotion, and memorable themes.Miguel is interested in the project itself and wanted to support Walkers this way, which means a lot to us.Supporter PackTo make sure Miguel's work is rewarded, we're preparing a Supporter Pack that will include the original soundtracks (extra ones) he composes for Walkers.The pack will be completely optional and will not include anything that affects gameplay. By picking it up, you'll own the game's music and directly support the work behind the sound of Walkers. We'll share the contents, price, and date in a future announcement.What's next?Miguel has already started working, and we'll share the first tracks as they're ready. If you haven't yet, wishlist Walkers!",
+                "feedlabel": "Community Announcements",
+                "date": 1791593946,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470
+            },
+            {
+                "gid": "1846018067931764",
+                "title": "10,000 WISHLIST!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931764",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "I\u2019m aware that Walkers\u2019 graphics resemble those of other games. However, I\u2019m a solo developer, and I\u2019m continuing to update the game as best I can for you all while working to get it ready for release. Your support is what keeps me going and really boosts my motivation. I\u2019d like to express my endless gratitude to the 10,000 people who\u2019ve added it to their wishlists.I promise you that if I have the budget in the future, I\u2019ll also release a graphics update.If you\u2019d like to join us, add it to your wishlist! #WALKERS #solodev #indiegame #zombie #survival #gamedev #steam",
+                "feedlabel": "Community Announcements",
+                "date": 1791505415,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470
+            },
+            {
+                "gid": "1846018067924638",
+                "title": "5,000 wishlists. Thank you!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067924638",
+                "is_external_url": true,
+                "author": "Punch Interactive",
+                "contents": "5,000 of you have now said, \"I want to play this.\" When I started, I wasn't sure even 50 people would.Thank you for believing in the game this early. It gives me the energy to keep building, and I won't forget who was here first. If WALKERS looks like your kind of game, a wishlist helps more than you'd think #WALKERS #solodev #indiegame #zombie #survival",
+                "feedlabel": "Community Announcements",
+                "date": 1791332782,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4779470
+            }
+        ],
+        "count": 20
+    }
+}

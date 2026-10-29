@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-29T05:21:22.746774+00:00",
+    "timestamp": "20261029_052122",
+    "input_file": "data/spike_explainer/2026-10-29__appid_4779470__rank_1023_to_981__up_42/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-29__appid_4779470__rank_1023_to_981__up_42/llm_outputs/gemini_20261029_052122.md",
+    "game_title": "Walkers",
+    "appid": "4779470",
+    "duration_sec": 24.73,
+    "response_length": 6150,
+    "error": null
+}

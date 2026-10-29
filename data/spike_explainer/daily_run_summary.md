@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Rip It! Card Collector
+Analyzed: Walkers
 Tavily Budget Used: 15
 Errors: 0
