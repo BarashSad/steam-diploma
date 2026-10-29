@@ -1,0 +1,7 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5117550,Fart Together,Fart Together,1020,967,53,53,up,upward_spike,Unpriced (Coming Soon),Free,True,"Oct 29, 2026",Coming soon,True
+4530370,Football Manager 27,Football Manager 27,240,209,31,31,up,upward_spike,Unpriced (Coming Soon),$53.99,True,"Nov 10, 2026","Nov 10, 2026",False
+2646170,My Arms Are Longer Now,My Arms Are Longer Now,1112,1085,27,27,up,upward_spike,Free,Free,False,2027,"Mar 11, 2027",True
+4299480,Vampire Mistress,Vampire Mistress,814,804,10,10,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 13, 2026",Q4 2026,True
+3218350,Melvor Idle 2,Melvor Idle 2,326,319,7,7,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Nov 17, 2026",True
+4738100,10 Million Pixels,10 Million Pixels,511,506,5,5,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 13, 2026","Nov 27, 2026",True

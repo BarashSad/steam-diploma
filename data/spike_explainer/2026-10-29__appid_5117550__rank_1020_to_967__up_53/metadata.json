@@ -1,0 +1,41 @@
+{
+    "appid": "5117550",
+    "game_title": "Fart Together",
+    "safe_slug": "fart_together",
+    "analysis_date_utc": "2026-10-29T18:27:27.545409+00:00",
+    "spike_window_start": "2026-10-26T00:00:00+00:00",
+    "spike_window_end": "2026-10-29T00:00:00+00:00",
+    "extended_window_start": "2026-09-11T00:00:00+00:00",
+    "extended_window_end": "2026-11-01T00:00:00+00:00",
+    "dt_start": "2026-10-26 00:00:00+00:00",
+    "dt_end": "2026-10-29 00:00:00+00:00",
+    "ext_start": "2026-09-11 00:00:00+00:00",
+    "ext_end": "2026-11-01 00:00:00+00:00",
+    "window_inferred_fallback": false,
+    "prev_rank": 1020,
+    "curr_rank": 967,
+    "rank_delta": 53,
+    "movement_score": 0,
+    "is_new_entry": false,
+    "changed_fields_detected": [
+        "price",
+        "release_date"
+    ],
+    "input_diff_row": {
+        "appid": 5117550,
+        "title_old": "Fart Together",
+        "curr_title": "Fart Together",
+        "prev_rank": 1020,
+        "curr_rank": 967,
+        "rank_delta": 53,
+        "abs_rank_delta": 53,
+        "movement_type": "up",
+        "spike_type": "upward_spike",
+        "price_text_old": "Unpriced (Coming Soon)",
+        "price_text_new": "Free",
+        "price_changed": true,
+        "release_text_old": "Oct 29, 2026",
+        "release_text_new": "Coming soon",
+        "release_changed": true
+    }
+}
