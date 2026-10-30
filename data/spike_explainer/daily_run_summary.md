@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Fart Together
+Analyzed: Walkers
 Tavily Budget Used: 15
 Errors: 0

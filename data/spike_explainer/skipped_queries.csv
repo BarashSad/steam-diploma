@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-5117550,Fart Together,"site:pcgamer.com ""Fart Together""",press,2,tavily,False,General budget exhausted,0
-5117550,Fart Together,"site:rockpapershotgun.com ""Fart Together""",press,2,tavily,False,General budget exhausted,0
-5117550,Fart Together,"site:ign.com ""Fart Together""",press,2,tavily,False,General budget exhausted,0
-5117550,Fart Together,"site:gamespot.com ""Fart Together""",press,2,tavily,False,General budget exhausted,0
-5117550,Fart Together,"site:game8.co ""Fart Together""",press,2,tavily,False,General budget exhausted,0
+4779470,Walkers,"site:pcgamer.com ""Walkers""",press,2,tavily,False,General budget exhausted,0
+4779470,Walkers,"site:rockpapershotgun.com ""Walkers""",press,2,tavily,False,General budget exhausted,0
+4779470,Walkers,"site:ign.com ""Walkers""",press,2,tavily,False,General budget exhausted,0
+4779470,Walkers,"site:gamespot.com ""Walkers""",press,2,tavily,False,General budget exhausted,0
+4779470,Walkers,"site:game8.co ""Walkers""",press,2,tavily,False,General budget exhausted,0

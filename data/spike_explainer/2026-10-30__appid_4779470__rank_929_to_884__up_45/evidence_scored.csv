@@ -1,0 +1,947 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+4779470,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114050509,The Walkers Demo Has Ended: Thank You!,,"The Demo Has EndedThe Walkers demo is now closed, and I want to say a huge thank you to everyone who played it.I’m developing Walkers on my own, so seeing so many of you jump in, play for hours and take the time to write to me has meant a lot.Your Feedback Shaped the GameI read every bug report, sug",demo,90,very_strong,Inside spike window (+30); Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+4779470,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=ONgEY7mm_MY,A First Look at this NEW Zombie Survival Game | WALKERS Demo,,"Welcome back to the Survival Paige! Today we are checking out WALKERS, a new open world zombie survival game. The full ...",demo,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674026,"20,000 WISHLISTS!",,"Walkers has passed 20,000 wishlists!Just a few days ago I was thanking you for 10,000, and now that number has doubled. I’m making Walkers on my own, so seeing 20,000 of you waiting for the game honestly means more than I can put into words. Thank you.What’s coming next The free demo will be playabl",demo,75,strong,Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067937258,Play the Walkers Demo During Steam Next Fest,,"Walkers is joining Steam Next Fest!From October 19 to October 26, you can play the free Walkers demo right here on Steam.What is Walkers? Walkers is an open-world zombie survival game about building an outpost, crafting, and keeping your recruited survivors alive in a post-apocalyptic wasteland. Eve",demo,75,strong,Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+4779470,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302236207,"60,000 Wishlists & Early Access Launch Update",,"Walkers has passed 60,000 wishlists!A few weeks ago I was celebrating 10,000 with you, and today 60,000 of you are waiting for the game. I'm making Walkers on my own, and I honestly don't have the words to thank you enough. Thank you, all.Early Access launch: where things standI want to be completel",,70,strong,Inside spike window (+30); Official Steam News (+20); Exact title match (+20),
+4779470,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114049116,"Devlog #12: Seasons, Archery, Fishing & Zombie Levels",,"Everything in this devlog is coming with the Early Access release and will not be added to the demo.New: ArcheryNew craftable Bow and Arrows, made from the craft panel \. The bow is crafted from Wood and Rope, and each arrow from Wood and Rock.The bow uses the same controls as guns: hold aim to rais",demo,70,strong,Inside spike window (+30); Official Steam News (+20); Keywords ['demo'] (+20),
+4779470,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=6b4gBBSUh90,Walkers | game trailer reaction,,"Walkers is an open-world zombie survival game with advanced base building and NPC systems. Scavenge, craft, and loot across ...",trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4779470,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=Wx7YDpdToxA,I Had High Hopes for This Upcoming Zombie Survival Game... | Walkers,,"Walkers Demo - First Impressions I was excited to try Walkers, but my time with the demo left me with some concerns. We're ...",demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4779470,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=CjziU3dkEIo,This New Zombie Survival Colony Builder Game Looks Interesting - Walkers Gameplay,,,gameplay,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+4779470,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=0TeTTdJFmrI,WALKERS PC DEMO,,POLY OPEN WORLD SURVIVAL.,demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034698,Devlog #8: Full Gamepad Support Is Here!,,"New: Full Gamepad SupportWalkers now supports all major gamepad controllers, so you can play the whole game from your couch.Adaptive Triggers: On supported controllers, the triggers push back as you use your weapons and tools, giving each action its own physical feel.Haptic Feedback: Feel hits, impa",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706693817,"Walkers Devlog #2 — Settlement Management, Loot & Audio Improvements",,"Settlement Management & UINew Residential Menu: A new Residential section has been added to make managing your settlement easier. You can view and manage your NPCs, check their status, and select the Guard option to call them back to your base.Storage Overview: You can now view the storage container",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706693159,"Devlog #1: Terrain Overhaul, Survival Alerts & More",,"Hi survivors!Thank you for playing the demo and sending your feedback during Next Fest. I’ve been going through every report, and this first devlog covers what I’ve fixed and improved so far.Terrain & PerformanceThe terrain has been completely rebuilt. Chopping trees and mining rocks no longer cause",demo,55,medium,Inside extended window (+15); Official Steam News (+20); Keywords ['demo'] (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692913,Walkers – Hotfix #2,,"Another round of fixes is here, thanks to your reports!Crafting & BuildingFixed the Produce button not working after switching between menus when the craft menu is opened with \.Added visual feedback when producing items from the craft menu.Bandages no longer require a blueprint to craft. That was a",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692471,HOTFIX v.0.1.3,,Walkers – Hotfix \We’ve jumped on the bugs you reported after launch. Thanks for all the feedback. Here’s what this update fixes:UI & MenusFixed the crafting panel breaking (and items failing to craft) after switching Craft → Inventory → Craft.Fixed the NPC HUD getting stuck and the mouse cursor loc,,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067935044,Meet the Composer Behind the Sound of Walkers,,"We're happy to announce that composer and music producer Miguel Lopez has joined Walkers. Miguel is taking on all of the game's audio: music, sound effects, ambience, and overall sound design, along with original soundtracks composed specifically for Walkers.No stock sounds, no AI audioIn a zombie s",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931764,"10,000 WISHLIST!",,"I’m aware that Walkers’ graphics resemble those of other games. However, I’m a solo developer, and I’m continuing to update the game as best I can for you all while working to get it ready for release. Your support is what keeps me going and really boosts my motivation. I’d like to express my endles",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4779470,youtube_video,outside_window,https://www.youtube.com/watch?v=dlQYk0O56HU,Cliff Walkers - Official International Trailer (2021) English Sub,,Cliff Walkers follows four Chinese special agents who embark on a secret mission in the 1930s puppet state of Manchukuo.,trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4779470,youtube_video,outside_window,https://www.youtube.com/watch?v=DqFy0dAnJnI,CLIFF WALKERS Official Trailer (2021),,First trailer for cliff walkers.,trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4779470,youtube_video,outside_window,https://www.youtube.com/watch?v=6WGKv0AxbVw,"Wind Walkers Official Trailer 1 (2015) - Glen Powell, Zane Holtz Movie HD",,Subscribe to INDIE & FILM FESTIVALS: http://bit.ly/1wbkfYg Subscribe to TRAILERS: http://bit.ly/sxaw6h Subscribe to COMING ...,trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4779470,youtube_video,outside_window,https://www.youtube.com/watch?v=CTb-USFvJbc,Wind Walkers (2025) | Trailer | Action | Glen Powell,,"With one of their own missing, a group of friends travel to the remote Florida Everglades where they discover that an ancient, ...",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4779470,youtube_video,outside_window,https://www.youtube.com/watch?v=A4pHib4QGrQ,The Midnight Walkers Review - Is It Worth Playing? | Analysis of Gameplay Demo,,"The Midnight Walkers drops you into a massive high-rise crawling with danger, darkness, and survivors who are just as desperate ...","gameplay, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+4779470,youtube_video,outside_window,https://www.youtube.com/watch?v=A4pHib4QGrQ,The Midnight Walkers Review - Is It Worth Playing? | Analysis of Gameplay Demo,,"The Midnight Walkers drops you into a massive high-rise crawling with danger, darkness, and survivors who are just as desperate ...","gameplay, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+4779470,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=de7StjYWBFw,A NEW Zombie Survival Game Where You RECRUIT Survivors! | WALKERS Day 1,,"Welcome to **WALKERS**, a new open-world zombie survival game we're checking out during Steam Next Fest! Today we're ...",,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+4779470,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=y7QJC5PMGlY,Walkers Game | New Upcoming Zombie Survival Game,,"WALKERS is an upcoming open-world zombie survival game where you build a base, rescue survivors, grow your community, ...",,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+4779470,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=de7StjYWBFw,A NEW Zombie Survival Game Where You RECRUIT Survivors! | WALKERS Day 1,,"Welcome to **WALKERS**, a new open-world zombie survival game we're checking out during Steam Next Fest! Today we're ...",,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+4779470,web_result,unknown_date,https://www.youtube.com/watch?v=dCxSO4xVOXI,The Midnight Walkers - Gameplay,"The Midnight Walkers is a hardcore FPS blending extraction gameplay with deadly zombies, ruthless players, and high-stakes loot. Fight, scavenge, and extract from the Liberty Grand Center mega complex while crafting weapons, armor, and consumables. Trade items, upgrade your hideout, and push deeper into danger—because one wrong move means death… and losing everything you carried.
+
+🔥 Key Features [...] 🔫 Hardcore Extraction FPS – High-risk raids where survival and extraction are the only true victories.
+🧟 Deadly Zombie Threats – Face relentless undead alongside unpredictable human enemies.
+⚔️ PvPvE Combat – Dangerous players and AI threats collide in every run.
+🛠️ Crafting & Gear Progression – Create weapons, armor, and consumables to improve survival odds.
+🏚️ Hideout Management – Maintain and upgrade your base between raids. [...] 💀 Lose Everything on Death – Permadeath stakes that reward smart decisions and cautious play.",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4779470,web_result,unknown_date,https://play.google.com/store/apps/details?id=com.homiebearstudio.walkersattack&hl=en_US,Walkers Attack - Apps on Google Play,"""Walkers Attack"" combines the best of action and RPG with simple gameplay, strategic depth, and a compelling narrative. Embrace the challenge, unlock the mysteries, and carve your path through a world teeming with danger.  
+Download now and step into the action. Your quest for survival begins here! [...] 🧟‍♂️ Walkers Attack: Ultimate Action RPG Adventure 🌍  
+Dive into the thrill of ""Walkers Attack,"" an action-packed RPG where your survival hinges on battling through hordes of zombies. Navigate diverse, apocalyptic worlds with a simple, intuitive control system focused on movement and strategy. Are you ready to become humanity's last hope?  
+🔫 Seamless Action and RPG Depth 🛡️ [...] Experience non-stop action with automatic shooting and strategic movement. Collect resources, complete quests, and unlock new, themed levels from Sci-fi to Medieval and Urban. Your arsenal and skills upgrade as you progress, ensuring you're always ready for the next challenge.  
+🚶‍♂️ Explore & Survive 🗺️",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+4779470,web_result,unknown_date,https://store.steampowered.com/app/3904060/Dust_Walkers_Demo,Dust Walkers Demo on Steam,"Links & info
+
+Free Demo
+
+## Play Dust Walkers Demo
+
+Install Demo
+
+## Check out the full game
+
+View Community Hub
+
+## About This Demo
+
+Dust Walkers is a Top-Down, relentless Action Rogue-like with MOBA inspired abilities, and base defenses.
+
+In this DEMO you will be able to:
+
+ Build your own MOBA style character
+ Play with 3 class types
+ Combine starter abilities
+ Do operations on our first map
+ Complete objectives
+ Find guns and gear
+ Break the game! [...] All Games > Action Games > Dust Walkers > Demo
+
+Community Hub
+
+Dust Walkers Demo
+
+Dust Walkers Demo
+
+Dust Walkers Demo
+
+Developer
+
+Guide Stone Studios
+
+Publisher
+
+Guide Stone Studios
+
+Released
+
+20 Feb, 2026
+
+Deploy as a DUST WALKER and protect the galaxy's most valuable resource! This top-down, action strategy game challenges you to balance constructing defenses, optimizing your build, and crushing your skillshots while boss after boss closes in on your mining operation.
+
+All Reviews: [...] Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player
+
+Game demo
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+
+Title: Dust Walkers Demo  
+ Genre: Action, Indie, Strategy  
+
+Developer: Guide Stone Studios
+
+Publisher: Guide Stone Studios
+
+Release Date: 20 Feb, 2026
+
+Discord External   TikTok External   YouTube External   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+4779470,web_result,unknown_date,https://www.youtube.com/watch?v=opdeP_W5Qcw,The Midnight Walkers | Demo | Early Access | Gameplay PC,"# The Midnight Walkers | Demo | Early Access | Gameplay PC
+## Channel: Game channel MAZAVS
+39.8K subscribers
+8 likes
+
+### Description
+414 views
+Posted: 2025-10-16
+Scavenge, Fight, Escape
+
+The Midnight Walkers is a hardcore PvPvE FPS zombie extraction game. [...] LOCKDOWN, a sniper who can attack from a distance using a bow.
+
+MARGARITA, a supporter who can mix cocktails to heal and buff allies.
+
+Choose the one that fits your playstyle.
+
+Face Your Enemies
+
+The zombies here are all deadly.
+
+Even the weakest zombie, the Walker, can be a great threat if you are surrounded, and there are also zombies more lethally mutated than the Runner, which fiercely pursues survivors.
+
+In any case, the biggest threat is other survivors. [...] The threats here are not just zombies or other survivors.
+
+As time passes, the poison gas system spreads to random floors, and you must use elevators or stairs to avoid it.
+
+But remember: every time you move to another floor, your chances of encountering other survivors will increase.
+
+Choose Your Class
+
+BRICK, a steadfast warrior armed with a large hammer and heavy armor.
+
+CROW, an assassin with nimble movements who uses daggers to strike opponents off guard.",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+4779470,web_result,unknown_date,https://www.facebook.com/fb-answers/is-walkers-game-on-steam,Is Walkers Game on Steam?,"""Walkers"" is set to launch on Steam for PC (Windows) on October 30, 2026. It's confirmed for PC via Steam with a release date of October 30, 2026, and it",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4779470,web_result,unknown_date,https://www.g2a.com/news/features/the-midnight-walkers-release-date-system-requirements-platforms,"The Midnight Walkers: Release Date, System Requirements, Platforms - G2A News","The Midnight Walkers is set to launch in Steam Early Access on January 29, 2026. Originally it was scheduled for the last quarter of 2025, but the developers delayed it to polish core systems and ensure stable performance. A few extra weeks is a fair trade if it means fewer crashes and more consistent play.
+
+The Midnight Walkers: Official Gameplay Explainer [...] call of duty
+
+gta
+
+minecraft
+
+claude
+
+gemini
+
+fc
+
+Recent searches
+
+Sign in / Register
+
+Categories
+
+Show all from this category
+
+ Bestsellers
+ CS2 Cases
+ Random Keys
+ Software
+ Save more with Plus
+
+Image credit: Oneway Ticket Studio
+
+G2A.COM  G2A News Features The Midnight Walkers: Release Date, System Requirements, Platforms
+
+# The Midnight Walkers: Release Date, System Requirements, Platforms
+
+January 23, 2026 | 11:06 | By: Dagmara Śliwa
+
+SPONSORED [...] The current goal is to bring all versions to market by the time the full release happens in late 2026.
+
+### Gameplay Loop and Core Design
+
+The game takes place in a massive multi-floor structure called the Liberty Grand Center, when each floor has a theme. There is a hospital, a casino, a shopping mall, and more. The idea is to keep the setting varied and the tension high.
+
+The Midnight Walkers | Image credit: Oneway Ticket Studio",,"gameplay, release date",40,medium,"Exact title match (+20); Keywords ['gameplay', 'release date'] (+20)",general
+4779470,web_result,unknown_date,https://www.youtube.com/watch?v=d_Z_tybgPgg,Wolfwalkers — Official Trailer | Apple TV,"In a time of superstition and magic, a young apprentice hunter, Robyn Goodfellowe, journeys to Ireland with her father to wipe out the last wolf pack. While exploring the forbidden lands outside the city walls, Robyn befriends a free-spirited girl, Mebh, a member of a mysterious tribe rumored to have the ability to transform into wolves by night. As they search for Mebh’s missing mother, Robyn uncovers a secret that draws her further into the enchanted world of the WOLFWALKERS and risks turning [...] #Wolfwalkers #Trailer #AppleTV [...] ### Transcript
+[0:04] Wolf, wolf, hunt them far and yonder.
+[0:08] ♪♪ Bill: The forest is brimming with wolves. Bill: It's my job to hunt them down, not yours. But we can hunt them together.
+[0:15] Wolves, bears, dragons even.
+[0:18] (Bill and Robyn laughing) ♪♪ (Stick cracking) Man: She's one of them wolfwalkers.
+[0:29] (Ruff) Wolfwalkers? Robyn: Wait! Man: The ones that can talk to wolves. Man: With some wild magic.
+[0:37] ♪♪ Ahh! Mebh: You can come out now. Mebh: We can smell ya, you stink.",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114043163,"Devlog #11: Death & Respawn, Unarmed Combat & New Skies",,"New FeaturesUnarmed CombatWith empty hands, left-click to punch. Punches alternate between right and left hooks, have their own swing sound, and cost stamina.New Death & Respawn SystemWhen you die, the screen fades to black with a “YOU ARE DEAD” message and a 3-2-1 countdown.You respawn next to your",,35,medium,Inside extended window (+15); Official Steam News (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114041192,"Devlog #10: Vehicles, Survivors, QoL & Smarter AI",,"New: VehiclesVehicles are here! Two are available for now: a Buggy and a classic Sedan.Your allied NPCs can ride with you. The Buggy seats 1 driver + 1 passenger, and the Sedan seats 1 driver + 3 passengers.Vehicles have a speedometer, a gear system, durability, and fuel.When a vehicle’s durability ",,35,medium,Inside extended window (+15); Official Steam News (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035774,Devlog #9: Water & Thermos,,New: Drinking WaterYou can now drink directly from lakes and rivers.New: ThermosCraft a Thermos to carry water with you.Fill it at any lake or river.Each Thermos holds 3 uses and needs to be refilled after that.Balance ChangesThirst no longer drains as quickly.The Weapon Workbench no longer requires,,35,medium,Inside extended window (+15); Official Steam News (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031121,Devlog #7: Save System Is Here!,,New: Save SystemAuto Save: The game now saves automatically at regular intervals.Save on Exit: Your progress is saved automatically when you quit the game.Manual Save: Save your game whenever you want.Save Slots: Overwrite any existing save slot with a new save.Load Game: Continue from any of your s,,35,medium,Inside extended window (+15); Official Steam News (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029946,Devlog #6: Crafting Improvements & Bug Fixes,,"Crafting StationsCrafting at stations like the Smelting Furnace and Sewing Bench used to stop when the panel was closed or no one was working there. Now it keeps going, but when no player or NPC is at the station, crafting takes 4x longer.Fixed crafting queues getting stuck at the Campfire, Smelting",,35,medium,Inside extended window (+15); Official Steam News (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029487,Devlog #5: Status Effects & Healing Overhaul,,"New: Status EffectsBleeding: Zombie attacks can cause bleeding.Infection: Zombie attacks can infect you.Food Poisoning: Eating raw food will poison you.Mushrooms: 30% chance to cause poisoning.Healing Items ReworkedHealing items now restore health over time instead of instantly, and you can see the ",,35,medium,Inside extended window (+15); Official Steam News (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114027267,Devlog #4: Inventory & Loot Overhaul,,"New: Inventory, Containers & LootAuto Sort: Organize your inventory or a container with one button.Take All: Grab everything from a container at once.Deposit All: Move all your items into a container at once.Quick Drop: A new drop area for throwing items on the ground quickly.Bug FixesFixed firearms",,35,medium,Inside extended window (+15); Official Steam News (+20),
+4779470,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695819,"Devlog #3: Smarter Crafting, Minimap Tracking & Combat Audio",,"Hi survivors!Devlog #3 is here. This one is packed with fixes and quality-of-life improvements, many of them based directly on your feedback.CraftingYou can now craft any amount you want.Added visual and sound feedback that shows whether you have enough resources.Hovering over a required resource no",,35,medium,Inside extended window (+15); Official Steam News (+20),
+4779470,youtube_video,outside_window,https://www.youtube.com/watch?v=k2-w3LZlCVk,"Crutches, Canes, and Walkers Nursing NCLEX Assistive Devices Review",,"Crutches, canes, and walker nursing assistive devices compilation video for NCLEX and nursing school review. Nursing School ...",,35,medium,YouTube (+15); Exact title match (+20),
+4779470,reddit_discussion,unknown_date,https://www.reddit.com/r/Baking/comments/17cgkxt/walkers_shortbread_walkers_crisps,Walkers Shortbread & Walkers Crisps : r/Baking,"Title: Walkers Shortbread & Walkers Crisps : r/Baking
+# Walkers Shortbread & Walkers Crisps : r/Baking. Skip to main contentWalkers Shortbread & Walkers Crisps : r/Baking. Open menu Open navigationGo to Reddit Home. Sign UpSign up for RedditLog InLog in to Reddit. Expand user menu Open settings menu. Image 1 Go to Baking. # Walkers Shortbread & Walkers Crisps. I know that Walkers Crisps is now a subsidiary of Pepsi-co. But is Walkers Shortbread part of the same family/company? The history goes way back, but at the start were they part of the same family and then branched off to do their own thing or are they actually completely different companies? Image 2: u/Glenfiddich_Official avatarGlenfiddich_Official•Promoted. Glenfiddich, the World's Most Awarded Single Malt Scotch Whisky. Image 3: Clickable image which will reveal the video player: Made not manufactured. Image 4: u/Consistent-Paint-472 avatar. Im only asking to settle a debate between my friends as theres a lot of confusion, some think they’re the same company but just rebranded for what they actually make, and others think they never never the same and are completely different. And if they are different how is there no copyright lawsuits going on over the name. Image 5: u/Majestic-Fan7521 avatar. It’s a different brand Walkers Shortbread Ltd is a Scottish manufacturer of shortbreads - diff company. # People also ask about section. Comparison of Walkers and Lays brands. Availability of Walkers Crisps in America. Unique flavor combinations for cookies. Best tips for baking the perfect bread. Anyone can view, post, and comment to this community. ## Top Posts. *   Reddit reReddit: Top posts of October 20, 2023 * * *. *   Reddit reReddit: Top posts of 2023 * * *. *   Best of Reddit in Portuguese. *   Best of Reddit in German. Join the most real place on the internet. By continuing, you agree to ourUser Agreementand acknowledge that you understand thePrivacy Policy.",,,30,weak,Reddit (+10); Exact title match (+20),social
+4779470,reddit_discussion,unknown_date,https://www.reddit.com/r/crisps/comments/1tyxb5w/walkers_bangers_and_mash,Walkers Bangers and mash. : r/crisps,"Title: Walkers Bangers and mash. : r/crisps
+# Walkers Bangers and mash. Skip to main contentWalkers Bangers and mash. Open menu Open navigationGo to Reddit Home. Sign UpSign up for RedditLog InLog in to Reddit. Expand user menu Open settings menu. Image 1 Go to crisps. Image 2: r/crisps - iNsPirEd BY ENGLISH BANGERS & MASH FLAvour POtATO crisps 5 PACK FIFA OrFiCALsronsOrFOr Fa anta Cun-3ette L WALKERSImage 3: r/crisps - iNsPirEd BY ENGLISH BANGERS & MASH FLAvour POtATO crisps 5 PACK FIFA OrFiCALsronsOrFOr Fa anta Cun-3ette L WALKERS. Image 4: r/crisps - iNsPirEd BY ENGLISH BANGERS & MASH FLAvour POtATO crisps 5 PACK FIFA OrFiCALsronsOrFOr Fa anta Cun-3ette L WALKERS. Finally got my hands on these. # People also ask about section. Review of Walkers Bangers and Mash crisps. Best flavors of Walkers crisps. Comparison between Walkers and Lays crisps. Unique crisp flavors from around the world. Best homemade crisp recipes to try. Anyone can view, post, and comment to this community. *   Best of Reddit in Portuguese. *   Best of Reddit in German. Join the most real place on the internet. By continuing, you agree to ourUser Agreementand acknowledge that you understand thePrivacy Policy.",,,30,weak,Reddit (+10); Exact title match (+20),social
+4779470,reddit_discussion,unknown_date,https://old.reddit.com/r/proceduralgeneration/comments/g49qwk/random_walkers_abstract_art,Random walkers abstract art : proceduralgeneration,"Title: Random walkers abstract art : proceduralgeneration
+use the following search parameters to narrow your results:. `subreddit:aww site:imgur.com dog`. `subreddit:aww site:imgur.com dog`. see the search faq for details. advanced search: by author, subreddit... This subreddit is about everything procedurally generated (pictures, videos, discussions on techniques, ...). ## Welcome to Reddit,. Random walkers abstract art (i.redd.it). submitted 5 years ago by Especuloide. ## Want to add to the discussion? )roxven 5 points6 points7 points 5 years ago (1 child)). )Especuloide[S] 1 point2 points3 points 5 years ago (0 children)). )skeeto 2 points3 points4 points 5 years ago\* (0 children)). I wanted to take a crack at it too:. * $ ./a.out | x264 --frames $((30*60)) --fps 60 -o walkers.mp4 /dev/stdin. static unsigned char tails[SIZE*3L*SIZE];. static unsigned char output[SIZE*3L*SIZE];. static struct { int x, y; char dir, len, color; } walkers[N];. static const int dirs[] = {+0, -1, +1, +0, +0, +1, -1, +0};. 0xffffff, 0x000000, 0xff0000, 0x7f0000, 0xff7f00, 0xffff7f. walkers[i].x = SIZE / 2;. walkers[i].y = SIZE / 2;. walkers[i].color = rand() % 6;. walkers[i].len = rand()%40 + 10;. walkers[i].dir = (walkers[i].dir + (rand()%2 ? walkers[i].x += dirs[walkers[i].dir*2 + 0];. walkers[i].y += dirs[walkers[i].dir*2 + 1];. if (INBOUNDS(walkers[i].x) && INBOUNDS(walkers[i].y)) {. long c = colors[walkers[i].color];. tails[walkers[i].y*3L*SIZE + walkers[i].x*3L + 0] = c >> 16;. tails[walkers[i].y*3L*SIZE + walkers[i].x*3L + 1] = c >> 8;. tails[walkers[i].y*3L*SIZE + walkers[i].x*3L + 2] = c >> 0;. memcpy(output, tails, sizeof(output));. for (int y = walkers[i].y - R; y <= walkers[i].y + R; y++) {. for (int x = walkers[i].x - R; x <= walkers[i].x + R; x++) {. if (INBOUNDS(y) && INBOUNDS(x)) {. long c = colors[walkers[i].color];. output[y*3L*SIZE + x*3L + 0] = c >> 16;. output[y*3L*SIZE + x*3L + 1] = c >> 8;. output[y*3L*SIZE + x*3L + 2] = c >> 0;. )i-make-robots 1 point2 points3 points 5 years ago (0 children)). )Especuloide[S] 0 points1 point2 points 5 years ago (0 children)). )RedTrollsGaming 0 points1 point2 points 5 years ago (1 child)). )Especuloide[S] 0 points1 point2 points 5 years ago (0 children)). Use of this site constitutes acceptance of our User Agreement and Privacy Policy. π Rendered by PID 102837 on reddit-service-r2-loggedout-667f6bb8f-fnqbw at 2026-03-04 14:06:47.857865+00:00 running 07790be country code: IE.",,,30,weak,Reddit (+10); Exact title match (+20),social
+4779470,reddit_discussion,unknown_date,https://www.reddit.com/r/milwaukee/comments/1ri8y7w/trip_to_walkers_point,trip to Walkers Point : r/milwaukee,"Title: trip to Walkers Point : r/milwaukee
+Skip to main contenttrip to Walkers Point : r/milwaukee. Open menu Open navigationGo to Reddit Home. Sign UpSign up for RedditLog InLog in to Reddit. Image 1 Go to milwaukee. # trip to Walkers Point. I’m (F 24) am taking my girlfriend (they/them 22) to Walkers Point for their birthday in April. We plan on going to the art museum, lecage, and some other bars/clubs. We are wanting to hit some thrift stores and good coffee shops/ restaurants. [PSA] You don't need 14 open tabs to find a vehicle with award-winning safety. Mazda was just named the Safest New-Car Brand by Consumer Reports.*. ![Image 3: Thumbnail image: [PSA] You don't need 14 open tabs to find a vehicle with award-winning safety. Cold, refreshing, and calling your name. Twisted Tea Hard Iced Tea. Image 5: Clickable image which will reveal the video player: Cold, refreshing, and calling your name. Art Museum isn’t Walker’s Point - are you looking for WP recommendations or any in the general area? Antiques on Pierce is also in the area - huge antique mall. Willing to drive anywhere in the Milwaukee area, we’re just staying in walkers point! Midwest Sad and Zocalo are both on the same block for food/bakery/coffee/bar. Recommendations for Walkers Point restaurants. Best bars in Walkers Point. Thrift stores in Walkers Point. Good coffee shops in Walkers Point. *   Is there weird vibes in Walker’s Point neighborhood or was that just me? Image 20 r/milwaukee•1y ago    ### Is there weird vibes in Walker’s Point neighborhood or was that just me? Image 22: r/milwaukee - Camino Fries make a ""Best Fries By State"" list.chowhound    46 upvotes ·23 comments. *   Anyone been to the new gay bar in walkers point? Image 24 r/milwaukee•3y ago    ### Anyone been to the new gay bar in walkers point? *   How is Walker’s Point for living? Image 25 r/milwaukee•5y ago    ### How is Walker’s Point for living? *   A Day trip to SkegnessImage 29 r/Lincolnshire•4mo ago    ### A Day trip to Skegness    8 upvotes ·17 comments. *   Where to walk in Walker's Point? Image 40 r/milwaukee•2mo ago    ### Where to walk in Walker's Point? Image 43 r/milwaukee•1y ago    ### Thoughts on Walkers Point?",,,30,weak,Reddit (+10); Exact title match (+20),social
+4779470,reddit_discussion,unknown_date,https://www.reddit.com/r/Parkinsons/comments/136t8jp/are_some_walkers_better_for_pd_patients_than_the,Are some walkers better for PD patients than the Medicare walkers? : r/Parkinsons,"Title: Are some walkers better for PD patients than the Medicare walkers? : r/Parkinsons
+# Are some walkers better for PD patients than the Medicare walkers? Skip to main contentAre some walkers better for PD patients than the Medicare walkers? Open menu Open navigationGo to Reddit Home. Sign UpSign up for RedditLog InLog in to Reddit. If a person is on Medicare, you can get a walker through Medicare at no cost to the patient, but these are what I would call ""short"" even when they are set to their tallest setting. I would like to buy my husband a taller, sturdy walker. Are there any walkers that are better than others for PD patients? My issue with the Medicare walker is that he walks all hunched over, whether he knows it or not. This walker was set to his height by a physical therapist at the hospital, while he was in the hospital. I would like to see if there is a better one for him. Check out the U-step walkers. They are covered by Medicare up to a certain amount. They are good for PD because they keep you upright (lots of falls happen because because with PD get hunched posture). It gives him a line to ""step over"" that tricks his brain so he can start walking. Also comes with a metronome you can set--this is another way of tricking the brain so you can start walking if you freeze. You can set the wheel speed so it won't roll away from him if he's a slower walker. And it has the reverse braking system, so you have to squeeze the brake to get the walker to move (versus a rollator). This walker is specifically made for people with PD. I would check out the ustep website and see if they have a list of what stores carry them. It was less than $300, but I justified the cost by telling myself that he uses it all day, every day and it encourages him to get out of the house more. and be sure to get one with a seat. I would give you the brand name and link, but I can't remember it off hand.",,,30,weak,Reddit (+10); Exact title match (+20),social
+4779470,social_post,unknown_date,https://www.tiktok.com/@walkers_bakery/video/7676391899090930966,Walkers Bakery on TikTok,"Title: Walkers Bakery on TikTok
+Image 1: 📍Walkers Bakers and chocolatiers, come in one of our two shops in Skipton or grassington! #bakery #backtoit #fyp #foodtok #treats. 📍Walkers Bakers and chocolatiers, come in one of our two shops in Skipton or grassington! Walkers very own fluffy chocolate muffins, come in and try one today! #fyp#bakery#foodtok#muffins#chocolate. Image 5: Walkers very own fluffy chocolate muffins, come in and try one today! Walkers very own fluffy chocolate muffins, come in and try one today! Image 6: NEW CAKE ALERT👨‍🍳, Walkers new white chocolate strawberry sponge cake, come in today and be one of the first to try! #alert #newproduct #fyp #bakery #satisfyingvideos. NEW CAKE ALERT👨‍🍳, Walkers new white chocolate strawberry sponge cake, come in today and be one of the first to try! Image 7: Walkers bakery’s delicious scones, come in and try one today! #bakery #fyp #scones #foodtok #blowthisupforme. Walkers bakery’s delicious scones, come in and try one today! Image 8: Walkers bakery’s very own cafe, in Skipton, North Yorkshire. #bakery #cafe #yorkshire #fyp #food. Walkers bakery’s very own cafe, in Skipton, North Yorkshire. Image 9: Walker’s cake selection in our very own cafe, come in and give one a try today! #bakery #cake #hungry #treat #fyp. Walker’s cake selection in our very own cafe, come in and give one a try today! Image 10: Walkers famous Chocolates flapjacks 🍫. #bakery #chocolate #satisfy #fyp #xyzabc. Image 11: Walkers very own Rocky Road, come in and get yours today! #bakery #backtoit #chocolate #satisfy #satisfyingvideos. Walkers very own Rocky Road, come in and get yours today! Image 12: Walkers very own Manchester tarts, come in and grab one today! #bakery #chocolate #satisfy #fyp #satisfyingvideos. Walkers very own Manchester tarts, come in and grab one today! Our very own gingerbread men at walkers bakery, come in and get yours now! #bakery #chocolate #satisfy #fyp #gingerbread. Walkers caramel cups, come in and get yours today! Yum, walkers very own Cookie Monsters, come in and get yours now! #bakery #chocolate #satisfy #fyp #cookies. Walkers very own chocolate millionaire shortbread, come in and get yours today! #bakery #shortbread #chocolate #satisfy #fyp. Scroll, use the ↑ ↓ keys, or click the arrows on the right to browse your feed.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://www.tiktok.com/discover/bbq-walkers-uk,Bbq Walkers Uk | TikTok,"# Bbq Walkers Uk. Explore the history and flavors of Walkers BBQ ribs in the UK, including popular snacks and the latest updates on discontinued products. Walkers BBQ rib flavors, Walkers BBQ snacks UK, Walkers BBQ discontinued review. ## Explore the history and flavors of Walkers BBQ ribs in the UK, including popular snacks and the latest updates on discontinued products. Walkers BBQ rib flavors, Walkers BBQ snacks UK, Walkers BBQ discontinued review. If you have concerns，please report at: Feedback and help - TikTok. This one here is my childhood fr 🥹🥹 #fyp #foryou #viral #viralvideo #funny #relatable #crisps #walkers #walkerscrisps #bbq #bbqsauce #barbecue #barbecuesauce #bbqribs #barbecueribs #chips #food #uk #england #british #snacks #britishsnacks #britishfood. #crisps #foodtiktok #bbqribcrisps #fyp #uksnacks Walkers BBQ Rib Crisps: Top 3 All Time Snack. Discover why Walkers BBQ Rib crisps are considered a top 3 snack of all time! Walkers BBQ Rib crisps, best UK snacks, top crisps all time, barbecue rib crisps review, crisps flavor comparison, Walkers crisps popularity, nostalgic snacks UK, favorite crisps, unique crisp flavors, BBQ rib crisps fan favorite. Walkers BBQ crisps, Walkers crisps UK, BBQ flavor snacks, popular UK snacks, return of BBQ crisps, fan favorite crisps, UK snack revival, Walker's brand crisps, crisps enthusiasts, UK food trends. New Quavers BBQ, Quavers, Quaver, Crisp, Crisps, Walkers Crisps, UK snacks, Barbecue Quavers, Quavers chips. Try the latest snack sensation: BBQ Sauce Quavers from Walkers Crisps. barbecue quavers, bbq quavers, walkers quavers bbq, quaver and crisps, new food finds uk, snack sensation. BBQ Walkers crisps are back! BBQ Walkers crisps flavor return, nostalgic BBQ crisps snacks, Home Bargains BBQ crisps, popular Walkers flavors, BBQ crisps fan favorites, Walker's classic snacks, UK crisps brand return, flavor celebration crisps, Walkers snack nostalgia, BBQ crisps tasting experience. #ukfoodsdownunder #walkerscrisps #bbq #crisps #snacks New BBQ Sauce Walkers Crisps Available Now. Discover the brand new BBQ sauce Walkers crisps in-store and online! BBQ sauce Walkers crisps online, UK Foods Down Under snacks, buy Walkers crisps Kardinya, new snacks Perth Australia, best BBQ crisps in store, online shopping for snacks, Walkers crisps Australia, crispy snacks from UK, delicious crisps for snack lovers, UK Foods Down Under store locations.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://www.tiktok.com/discover/student-walkers-legit?lang=en,Student Walkers Legit | TikTok,"# Student Walkers Legit. Discover if student walkers are legit! Get insights on student walker's experiences and tips for safe practices. ## Discover if student walkers are legit! Get insights on student walker's experiences and tips for safe practices. Explore the relatable experiences of being a walker in middle school. middle school walker experiences, relatable middle school stories, childhood walking experiences, middle school memories, nostalgic school days, walker childhood experiences, school journey anecdotes, being a walker in school, middle school life reflections, childhood friendships and walks. Join digital media next year @ walker students 🥰🥰🥰🥰 #digitalmedia #broadcasting #walker #dayinthelife #contentcreation #content #student #school #highschool. @Walkersoficial @Walkerslegit #walkers #autentico #originales #fake #polemica #sneakers #cultura #checkcheck #legitcheck Verifica la autenticidad de tus zapatos con Walkers. cómo verificar zapatos originales, zapatillas sneakers auténticas, japonesa cultura de sneakers, legit check tenis, diferencias entre fake y original, pasos para validar zapatos Walkers, cómo identificar zapatos originales, sneakers originales en el mercado, autenticidad en la moda de calzado, comunidad de sneakers en línea. #walkers #legit #clon #fake #revision #elsalvador #valid Verificando la Legitimidad en Walker: ¡Trae tus Sneakers!. Visita la tienda Walker en El Salvador para validar la autenticidad de tus sneakers. validación de sneakers originales, verificar autenticidad sneakers, tiendas de zapatos en El Salvador, cómo saber si unas zapatillas son fake, herramientas para verificar sneakers, Walker tienda de sneakers, compra de calzado legítimo, Bunny Kids sneakers, consejos para identificar zapatillas falsas, autenticidad y calidad en sneakers. Your legit walker Tagum city Walker Tagum City: Your Local Connection. Discover Tagum City with our Walker community. Tagum City walking community, local events Tagum walkers, connect with walkers Tagum, Tagum walker tips and tricks, join Tagum walking group. your legit walker Legit Walkers in the Philippines: A Comprehensive Guide. legit walker services Philippines, reliable walker options, walk services in Manila, booking legit walkers, walker availability in Cebu, pinay walker services, walking options in Pampanga, student walker services Philippines, high-end walker services, contact legit walkers. ### Related to Student Walkers Legit. Legit Walker Student La UnionLegit Walker Student TlStudent WalkerLegit Walker Student CaintaGensan Legit Student WalkerLegit Walker Student GensanLegit Walker Student CarmonaStudent Walker IloiloLegit Walkers Student Handler in Taytay RizalLegit Walker Student Malate.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://www.tiktok.com/discover/wind-walkers,Wind Walkers | TikTok,"Title: Wind Walkers | TikTok
+# Wind Walkers. Discover videos related to Wind Walkers on TikTok. ## Discover videos related to Wind Walkers on TikTok. Last updated 2026-09-28. TikTok video from patyRGLEO (@pattyrg19): Disfruta de 'Hangfire' de Wind Walkers con letra en español y traducción. Artista:Wind Walkers Canción:Hangfire #windwalkers #traduccionesdecanciones #subespañol Wind Walkers - Hangfire: Letra y Traducción. Disfruta de 'Hangfire' de Wind Walkers con letra en español y traducción. TikTok video from ꧁PerfectlyᛑᛗᛛMisaligned ꧂ (@perfectly.misaligned78): ""@Wind Walkers -Hereditary 09/16/26 Atlanta, GA #windwalkers #concert #atlanta #metalcore"" **1**. @Wind Walkers -Hereditary 09/16/26 Atlanta, GA #windwalkers #concert #atlanta #metalcore. TikTok video from aeropexia (@aeropexia): Experimental Toon Link edit blending Wind Waker and Minish Cap sprite styles. TikTok video from Metal 1337 (@metal_1337): Explora la poderosa letra de 'Dead Talk' de Wind Walkers. Wind Walkers - Dead Talk (legendado) #windwalkers #deadtalk #metalcore #emo #letra #fy #breakdown #metalcoretiktok Wind Walkers - Dead Talk: Emocionante Letra Metalcore. Explora la poderosa letra de 'Dead Talk' de Wind Walkers. TikTok video from Pape Playz 👾🇺🇸 (@papeplayz): ""just inbox me, nothing major 👾📫 #fy #Wherewindsmeet #WindWalkerz #pvp #PapePlayz @👣xheifsosa💢 “Z”"" **21**. TikTok video from Pape Playz 👾🇺🇸 (@papeplayz): ""been playin this build forever and still learning new shh 🗡️ @👣xheifsosa💢 @Doofenshmirtz #pvp #wwm #papeplayz #windwalkerz #fy"" **914**. TikTok video from Ohrion Reacts (@ohrionreacts): Check out Wind Walkers' powerful new EP 'I Don't Belong Here'! 🤌🔥 🎵 Wind Walkers - ""I Don't Belong Here"" EP @fearlessrecords #metalcore #metaltiktok #blegh #metalmusic #metaltok Discover Wind Walkers' New Metalcore EP. TikTok video from ꧁PerfectlyᛑᛗᛛMisaligned ꧂ (@perfectly.misaligned78): Wind Walkers concert on 09/16/26 in Atlanta, GA. @Wind Walkers -Feeding The Gods 09/16/26 Atlanta, GA #concert #atlanta #metalcore Wind Walkers Concert in Atlanta, GA on 09/16/26. Wind Walkers concert on 09/16/26 in Atlanta, GA. TikTok video from ♱『K E N N Y』♱ (@kennysubs2): Explora el tema de Dead Talk de Wind Walkers y su significado. TikTok video from ꧁PerfectlyᛑᛗᛛMisaligned ꧂ (@perfectly.misaligned78): Catch Wind Walkers live in Atlanta, GA on September 16, 2026 for a metalcore concert. Wind Walkers- The Overlook 09/16/26 Atlanta, GA #windwalkers #concert #atlanta #metalcore Wind Walkers Concert in Atlanta, GA - September 16, 2026. Catch Wind Walkers live in Atlanta, GA on September 16, 2026 for a metalcore concert.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://www.tiktok.com/topic/worth-walkers-webtoon?lang=en,Worth Walkers Webtoon | TikTok,"Title: Worth Walkers Webtoon | TikTok
+1.      #### TikTok Shop is now available on web! # Worth Walkers Webtoon. Discover the world of 'Worth Walkers' Webtoon! Explore key moments, character scenes, and join the team for collaboration on this exciting webcomic. This is an AI-generated summary of the content, and is not intended to provide factual context. If you think it may contain an error, please report at: Feedback and help - TikTok. Image 1: 697.4K Likes, 1171 Comments. TikTok video from ♡Sofia♡ (@sofiamins_art): ""ghost au🤨 read worth walkers on webtoon #worthwalkers #wowa #kai #nathan #fyp"" **697.4K**. ghost au🤨 read worth walkers on webtoon #worthwalkers #wowa #kai #nathan #fyp. TikTok video from ♡Sofia♡ (@sofiamins_art): ""canon event lol anyways read worth walkers on webtoon (original video by: @k.prezzi ) #fyp #worthwalkers #wowa #kai #nathan"" **275.7K**. canon event lol anyways read worth walkers on webtoon (original video by: @k.prezzi ) #fyp #worthwalkers #wowa #kai #nathan. TikTok video from 🌹🧩Leviathan’s#1fan⚔️🍁 (@ddxm2452m): ""Good edit, bad quality #worthwalkers#worthwalkerswebtoon#webtoon#edit"" **566**. TikTok video from KEisha MANGO (@keisha.mango): ""#stitch with @♡Sofia♡ #greenscreen why is he sooo cute"" **494**. TikTok video from user3176029215679 (@user3176029215679): ""ghost au🤨 read worth walkers on webtoon #worthwalkers #wowa #kai #nathan #fyp"" **8337**. TikTok video from user3176029215679 (@user3176029215679): Breakdown of the Canon Event scene from Worth Walkers: key moments, character reactions, and where to read the chapter. canon event lol anyways read worth walkers on webtoon (original video by @k.prezzi ) #fyp #worthwalkers #wowa #kai #nathan Worth Walkers canon event scene explained. Breakdown of the Canon Event scene from Worth Walkers: key moments, character reactions, and where to read the chapter. TikTok video from shaliliki (@shaliliki): Dive into the Worth Walkers journey and discover an unforgettable adventure! like here goddamn #worthwalkers #wowa #val #robin #fyp Explore the Worth Walkers Experience. Dive into the Worth Walkers journey and discover an unforgettable adventure! TikTok video from user3176029215679 (@user3176029215679): ""like here goddamn #worthwalkers #wowa #val #robin #fyp"" **1951**. TikTok video from Elite Nanny (@themafiananny3): Join Davina as she embarks on her first assignment at the elite nanny academy, where secrets unfold and children's safety is paramount. Join Davina as she embarks on her first assignment at the elite nanny academy, where secrets unfold and children's safety is paramount.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://www.instagram.com/popular/senior-walkers,Senior Walkers,"30
+
+Step forward with Confidence and Independence 💙 Our durable walkers are designed for stability, comfort, and everyday support — giving you the freedom to move safely and securely wherever life takes you. Lightweight. Reliable. Built to support every step. 📲 Contact us today (617 1602) to learn more or place your order! #Walker #rollator #rollatorwalker #patientcare
+
+Get the full experience
+
+Sign up for Instagram [...] Mobility that moves with you. 🚶‍♀️✨
+Walkers and rollators designed for confidence, comfort, and independence—every step of the way. #rollator #walkers #mobilityaid #medicalsupplies
+
+91
+
+Mobility that moves with you. 🚶‍♀️✨ Walkers and rollators designed for confidence, comfort, and independence—every step of the way. #rollator #walkers #mobilityaid #medicalsupplies
+
+A walker is more than a mobility aid — it’s a doorway to connection 🫶 [...] A walker is more than a mobility aid — it’s a doorway to connection 🫶 Just a few of the many ways it can help: 🔸 Being part of everyday family moments 🔸 Saying YES to fun instead of sitting it out 🔸 Steady support while standing 🔸 The freedom to move through the day independently Accessible technology helps make participation possible. 🧡 Alt Text: An image of a walker with four video frames overlayed. One showing a child walking with an elderly individual using a walker. The woman kisses the",,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://www.instagram.com/walkersbarnyc,Walker's (@walkersbarnyc) • Instagram photos and videos,"Photo by Walker's on October 20, 2026.
+
+Photo by Walker's on October 15, 2026.
+
+Photo by Walker's on October 09, 2026.
+
+Photo by Walker's on October 08, 2026.
+
+Photo by Walker's on October 02, 2026. May be an image of text.
+
+Photo by Walker's on September 25, 2026. May be an image of text.
+
+Photo by Walker's on September 23, 2026. May be an image of brick wall and text.
+
+Photo by Walker's on September 22, 2026.
+
+Photo by Walker's on September 16, 2026.
+
+Show more posts from walkersbarnyc [...] Log In
+
+Sign Up
+
+## walkersbarnyc
+
+ 4,097 followers
+ 1,453 following
+
+Walker's
+
+KITCHEN | MON-SUN 12-10p • SAT&SUN 11-10p  
+BAR | Open till 4am   
+📞 212-941-0142 take-out
+
+www.walkersbarnyc.com
+
+ walkersbarnyc's highlight story picture
+
+  LUNCH MENU
+ walkersbarnyc's highlight story picture
+
+  DRINKS
+ walkersbarnyc's highlight story picture
+
+  DINNER
+
+Photo by Walker's on January 12, 2026.
+
+Photo by Taste of Tribeca on April 23, 2025.
+
+Photo by Walker's on October 26, 2026.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://www.instagram.com/reel/DUtkcntCWwW,Instagram,"Let’s talk walkers……  
+  
+Sit in walkers? I don’t recommend them.  
+They don’t teach your baby to walk and they can be dangerous. If baby tips or falls, they can’t protect themselves.  
+  
+Push walkers? Big fan.  
+They help your baby practice balancing in standing, use all their muscles, and most importantly, they can let go anytime.  
+  
+Will your baby walk without one? Yes.  
+But if you want to use a push walker, you have my blessing.  
+  
+Comment 👇TIPS👇for my FREE milestone guides [...] sahartaremi.eltexpert's profile picture
+
+sahartaremi.eltexpert
+
+❤️❤️👏
+
+Reply
+
+weethrive_oc's profile picture
+
+weethrive\_oc
+
+Reverse toddler walkers are great too! Somewhat affordable on Amazon (especially if a family member wants to spoil your child) 😊
+
+Reply
+
+dr.kassiedewittotd's profile picture
+
+dr.kassiedewittotd
+
+Soooo good! Okay we have the push walker. I’m on the right track. Nora loves the push walker too. She wouldn’t sit in the sit walker. Probably because it’s not natural.
+
+Reply [...] Log In
+
+Sign Up
+
+totsontarget's profile picture
+
+Never miss a post from totsontarget
+
+Sign up for Instagram to stay in the loop.
+
+By continuing, you agree to Instagram's Terms of Use and Privacy Policy.
+
+Sign up
+
+Log in
+
+Video by Dr. Allison Mell, pediatric PT on February 13, 2026.
+
+totsontarget's profile picture
+
+totsontarget
+
+•
+
+Follow
+
+Original audio
+
+totsontarget's profile picture
+
+totsontarget",,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://www.instagram.com/walkersdrivein,Walkers Drive-in (@walkersdrivein) • Instagram photos and videos,"Photo by Walkers Drive-in on October 17, 2026. May be an image of text.
+
+Photo by Walkers Drive-in on October 14, 2026.
+
+Video by Walkers Drive-in on October 13, 2026. May be an image of poached egg, pasta, ossobuco, brussels sprouts, fork, tomato and text.
+
+Photo by Walkers Drive-in on October 10, 2026.
+
+Photo by Walkers Drive-in on October 09, 2026. May be an image of one or more people, people smiling, wedding and text.
+
+Photo by Walkers Drive-in on July 30, 2026. [...] Log In
+
+Sign Up
+
+## walkersdrivein
+
+ 2,329 followers
+ 114 following
+
+Walkers Drive-in
+
+Video by Walkers Drive-in on February 06, 2026.
+
+Video by Walkers Drive-in on November 25, 2025.
+
+Video by Walkers Drive-in on October 27, 2026. May be an image of wine, fondue, escargot, oyster, silver oak tree and text.
+
+Video by Walkers Drive-in on October 23, 2026. May be an image of tractor, buggy and text.
+
+Video by Walkers Drive-in on October 20, 2026. May be an image of one or more people and text. [...] Photo by Walkers Drive-in on July 24, 2026.
+
+Show more posts from walkersdrivein",,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://www.instagram.com/eatatwalkers,Walker’s Tap & Table (@eatatwalkers) • Instagram photos and videos,"NOW HIRING
+
+Photo by Chad Wells on October 16, 2026. May be an image of soup and text.
+
+Photo by Chad Wells on August 21, 2026. May be an image of poached egg, mozzarella, tomato, melon and text.
+
+Photo by Chad Wells on July 10, 2026.
+
+Video by Walker’s Tap & Table on July 04, 2026.
+
+Photo by Chad Wells on May 15, 2026.
+
+Photo by Chad Wells on May 05, 2026.
+
+Video by Walker’s Tap & Table on March 17, 2026.
+
+Photo by Walker’s Tap & Table on February 13, 2026. [...] Log In
+
+Sign Up
+
+## eatatwalkers
+
+ 3,745 followers
+ 40 following
+
+Walker’s Tap & Table
+
+Locally Owned w/Craft Cocktails & Local Beer on 20 Taps. Chef Driven Scratch Made Modern American Cuisine. Brick Oven
+
+...
+
+more
+
+ eatatwalkers's highlight story picture
+
+  2024
+ eatatwalkers's highlight story picture
+
+  GIVE BACK
+ eatatwalkers's highlight story picture
+
+  FLIGHT NIGHT
+ eatatwalkers's highlight story picture
+
+  NOW HIRING [...] Photo by Walker’s Tap & Table on December 09, 2025.
+
+Photo by Colmont Farm on November 28, 2025.
+
+Photo by Walker’s Tap & Table on November 26, 2025.
+
+Photo by Walker’s Tap & Table on November 24, 2025.
+
+Show more posts from eatatwalkers",,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://x.com/hashtag/walkers,#walkers - Search / X,See posts about #walkers on X. See what people are saying and join the conversation.,,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://x.com/IAmAlanWalker/status/2009286058874425592,Alan Walker on X,"Walkers! It has been 10 years since we embarked on this journey together. Looking back at everything we've created, shared, and experienced",,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://x.com/IAmAlanWalker/status/2027289366381605168,Post,Walkers! The lyrics video for my new song 'A World I Don't Know' is premiering today on YouTube. Don't miss it and join the premiere here,,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://x.com/w47k3rg4m1ng,Walker Gaming (@w47k3rg4m1ng) / X,"hi walkers, I have a new mission for you! download the #AviationGame and share your scores with me: hyperurl.co/walkeraviation… Alan Walker.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://www.rehabmart.com/category/institutional_walkers~2.htm,Institutional Walkers | Platform Walkers | Walker With Wheels and Seat | BEST | Walkers - Page 2,"A walker, also known as a walking frame, is a medical tool designed for those who are recuperating from leg or back injuries, or for the elderly and disabled people who may need additional support for stability to maintain balance while walking.
+
+Rehabmart is proud to offer an extensive line of top quality walkers from innovative and experienced vendors which include Easy Walking, Inc., IPU, MJM International, TFI Healthcare, Drive Medical, Invacare, Medline and Carex.
+
+What is a Walker? [...] A walker is a medical device that has a basic design consisting of a lightweight frame usually made from aluminum and is waist high, about 12 inches deep and slightly wider than the user. Walkers come in various sizes such as pediatric sizes for children or bariatric sizes for large adults, and many are height adjustable. The height of the walker should be set at a height where the user can have a slight bend in his arms when walking (about hip high) with a walker to allow for proper blood [...] Gait trainer – intended to provide the opportunity to improve the walking ability of physically disabled children and adults, a gait trainer is a wheeled medical device that offers both postural alignment and non-weighted support to help individuals to walk independently or to learn/re-learn to walk safely and efficiently. Functionally similar to a support walker, a gait trainer provides more assistance for weight-bearing and balance in a safe, supported position by stabilizing the pelvis to",,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,social_post,unknown_date,https://www.youtube.com/watch?v=SliLQZ5u7_k,Review of the @theOasisSpace Upright Walker,"Are you thinking about getting a walker and not sure what you need to know before buying one? In looking into walkers in general,",,,25,weak,Social Index (+5); Exact title match (+20),social
+4779470,web_result,unknown_date,https://steamcommunity.com/app/4779470,Steam Community :: Walkers,"Store Page
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Walkers
+
+Store Page
+
+0 in Group Chat;)
+
+0 in Group Chat;)
+
+Walkers is an open-world zombie survival game with advanced base building and NPC systems. Scavenge, craft, and loot across a post-apocalyptic wasteland. Recruit survivors from the streets, assign them as workers, guards, or companions.
+
+Visit the Store Page
+
+Early Access Game [...] Your base now has a Reputation. The structures you build at your shelter, and the enemy camps you clear both raise it. You need enough reputation to recruit NPCs, and Strong survivors may still turn you down.
+ A helping hand for new players: if you haven’t recruited anyone yet, two Weak survivors appear near you at the start of the game.
+ NPCs now level up, so your crew grows stronger along with you. [...] Smoother list transitions, more responsive Produce / Place buttons, and sound feedback when you pick a recipe.
+ Batch crafting: queue several items at once. Materials are taken and refunded in a single step, so you no longer get one notification per item.
+ Adding an item that’s already in the queue now stacks it onto the existing entry instead of taking a new slot.",,,20,weak,Exact title match (+20),general
+4779470,web_result,unknown_date,https://store.steampowered.com/news/app/4779470?snr=1_5_9_,Walkers - Steam News Hub,"Updates, events, and news from the developers of Walkers.",,,20,weak,Exact title match (+20),general
+4779470,web_result,unknown_date,https://www.youtube.com/watch?v=HxK-G41OjGY,Walker Season 1 Trailer | 'The Cowboy Way' | Rotten Tomatoes TV,"# Walker Season 1 Trailer | 'The Cowboy Way' | Rotten Tomatoes TV
+## Channel: Rotten Tomatoes TV (verified)
+1.42M subscribers
+41 likes
+
+### Description
+4,270 views
+Posted: 2021-01-08
+Check out the new Walker Season 1 Trailer starring Jared Padalecki! Let us know what you think in the comments below.
+► Learn more about this show on Rotten Tomatoes: 
+
+Want to be notified of all the latest TV shows? Subscribe to the channel and click the bell icon to stay up to date. [...] US Air Date: January 21, 2021
+Starring: Jared Padalecki, Lindsey Morgan, Jeff Pierre
+Network: CW
+Synopsis: Jared Padalecki is Cordell Walker, a widower and father of two with his own moral code, who returns home to Austin after being undercover for two years, only to discover there's harder work to be done at home.
+
+What to Watch Next:
+► Certified Fresh TV: 
+► Top TV Dramas: 
+► Most Anticipated Shows: 
+► TV Shows by Channel & Streaming Platform: [...] ### Transcript
+[0:00] [Music]
+[0:00] texas rangers supposed to be the ones that weed out the bad seats how do you think we've been doing it
+[0:05] [Music]
+[0:07] do better see that's his formal way of calling me an idiot
+[0:10] [Applause]
+[0:12] i have a certain way of doing things here he comes to save the day it's good to see you too
+[0:20] i'm trying to fix things i got a second chance walker series premiere thursday january 21st stream free next day
+[0:28] only on the cw app",,trailer,20,weak,Keywords ['trailer'] (+20),general
+4779470,web_result,unknown_date,https://wtsla.com,Home - Walker's Trailer Sales,"Skip to content
+
+Walker-Logo
+
+Credit Application
+
+Shop Inventory
+
+### Welcome to Walker's Trailer Sales
+
+# Our commitment is to provide you with a seamless and enjoyable experience as you search for the perfect trailer to meet your needs.
+
+Our knowledgeable team is dedicated to understanding your requirements and guiding you through our inventory to find a trailer that not only meets your expectations but exceeds them.
+
+Shop Our Inventory
+
+flatbed-semi-trailer
+
+65da3f8d569180700b080c1d [...] Walker's stocks only the highest quality equipment designed to serve the freight, heavy haul, logging, and oil field industries.
+
+### Schedule Service
+
+When you're invested in making sure your trailer stays in great working order for years to come, you need knowledge and skill you can count on.
+
+### Tire Alignment
+
+We specialize in professional semi-truck and trailer tire alignment to keep your fleet running smoothly, efficiently, and safely.
+
+# Manufacturers [...] youtube-video-thumbnail
+
+#### Why choose us
+
+## We understand that choosing the right trailer for your commercial or construction needs is more than a purchase—it's an investment
+
+Whether you're in the market for a rugged construction trailer capable of withstanding the demands of your work site, or a versatile commercial trailer to transport your goods safely and securely, Walker Trailer Sales has the perfect solution for you.
+
+### Browse Our Inventory",,trailer,20,weak,Keywords ['trailer'] (+20),general
+4779470,web_result,unknown_date,https://store.steampowered.com/app/2795540/The_Midnight_Walkers,The Midnight Walkers on Steam,"## Reviews
+
+“New zombie game feels like Dying Light reimagined as an extraction FPS.”  
+PCGamesN  
+  
+“I played The Midnight Walkers, and it's much more than 'Tarkov with zombies'.”  
+PCGamesN  
+  
+“The Midnight Walkers could break that trend.”  
+Yahoo Entertainment
+
+## About This Game
+
+## 
+
+The Midnight Walkers is a hardcore PvE zombie extraction FPS.
+
+Play in Solo or Trio Mode as you search for valuable loot, gear up, fight off zombies, and make your escape. [...] All Games > Action Games > The Midnight Walkers
+
+Community Hub
+
+The Midnight Walkers
+
+The Midnight Walkers
+
+The Midnight Walkers
+
+Developer
+
+Oneway Ticket Studio
+
+Publisher
+
+Oneway Ticket Studio
+
+Released
+
+28 Jan, 2026
+
+Fight, loot, and escape in a hardcore FPS world filled with deadly zombies and valuable loot. Craft weapons, armor, and consumables, trade items, and survive your escape from the massive Liberty Grand Center complex.
+
+Recent Reviews: [...] Bartender, a support specialist who mixes cocktails to heal and empower allies,
+
+Choose the class that best suits your playstyle.
+
+## 
+
+Every zombie in this place is deadly.
+
+Even the Walker, the weakest of them all, can become a serious threat when it surrounds you with the horde. Beyond the relentless Runners that pursue survivors without mercy, even deadlier mutations await.",,,20,weak,Exact title match (+20),general
+4779470,web_result,unknown_date,https://demo.walkerinfo.com,Walker - Digital CX (DCX) Demo,"# About Walker
+
+Walker is an experience management (XM) services firm. Our experts provide wide range of flexible solutions to maximize technology investments and support customer and employee experience initiatives for a wide range of organizations.
+
+Walker logo  
+  
+ walkerxm.com
+
+# Qualtrics Partner Network [...] Qualtrics Digital CX Demo
+
+ Home
+ Use Cases 
+  + Overall Site Experience
+  + Persistent Feedback
+  + Embedded Feedback
+  + Site Abandonment
+  + Cart Abandonment
+  + Post Transaction
+  + Mobile App Experience
+ Creatives
+ Resources 
+  + Frequently Asked Questions
+  + Digital CX Glossary
+  + Digital Sample Size Calculator
+ Contact Us
+
+# Maximize your Digital Customer Experience Investment
+
+Walker can help you accelerate your Digital CX.
+
+#### Track & Diagnose [...] Listening posts, dashboards, contextual embedded data, and smart-routing capabilities established in the earlier phases should genuinely inform decision-making processes across the organization
+
+#### XMSupport — Getting Started with Website Feedback
+
+Topics covered: Key Terms and Best Practices
+
+Visit Qualtrics Support
+
+# About Walker",,demo,20,weak,Keywords ['demo'] (+20),general
+4779470,web_result,unknown_date,https://news.designrush.com/walkers-drops-crisp-from-logo-aligns-with-lays-global-rebrand,Walkers Drops 'Crisp' From Its Logo in Major Rebrand,"While Walkers announced the new Hot Honey flavor, a single SKU doesn't justify an 80-year milestone redesign.
+
+The new logo's flexibility suggests preparation for category expansion beyond the chip aisle.
+
+Brands investing in major rebrands without obvious product changes are typically clearing visual space for moves they haven't announced yet.
+
+Three patterns emerge from Walkers' logo redesign: [...] Walkers recently made its biggest logo change in 80 years, and the ""crisp"" is gone.
+
+The U.K. brand unveiled a sun-inspired design last week, replacing the crisp symbol with rays of light emanating from the logo's center.
+
+The redesign brings Walkers closer to Lay's, its PepsiCo sister brand, which launched a global rebrand in October 2025 featuring the Rays sunburst. [...] Rebrand timing creates dual news hooks: Announcing Hot Honey alongside the visual refresh generates coverage from both food and design media.
+ Sister brand coordination signals strategy: When brands adopt matching systems within months, expect coordinated portfolio moves across markets.
+ Heritage updates signal category confidence: 80-year-old brands only invest in major redesigns when fundamentals support expansion.",,,20,weak,Exact title match (+20),general
+4779470,web_result,unknown_date,https://www.walkersglobal.com/en/About-us/News,Latest News Articles & Updates | Walkers,"1/4
+
+## Shana Ray
+
+Director of Marketing, Business Development and Communications - Asia and Middle East
+
+T/+852 2596 3302
+
+M/+852 9030 6084
+
+E/Email Shana Ray
+
+Jenny Kokolas profile
+
+## Jenny Kokolas
+
+Senior Communications Manager - Global
+
+T/+44 20 7220 4999
+
+M/+44 (0)7301 272 2477301 272 247)
+
+E/Email Jenny Kokolas
+
+Chloe Ainsworth
+
+## Chloe Ainsworth
+
+Senior Communications Manager - Europe/Jersey
+
+T/+44 (0) 1534 700 759 1534 700 759)
+
+M/+44 (0) 7797 855 270 7797 855 270) [...] About us
+
+News
+
+Locations
+
+All locations
+
+Content type
+
+All content types
+
+Solutions
+
+All solutions
+
+Sort by
+
+Sort by
+
+‌
+
+‌  
+
+‌  
+‌  
+‌
+
+‌
+
+‌
+
+‌  
+
+‌  
+‌  
+‌
+
+‌
+
+‌
+
+‌  
+
+‌  
+‌  
+‌
+
+‌
+
+‌
+
+‌  
+
+‌  
+‌  
+‌
+
+‌
+
+‌
+
+‌  
+
+‌  
+‌  
+‌
+
+‌
+
+‌
+
+‌  
+
+‌  
+‌  
+‌
+
+‌
+
+‌
+
+‌  
+
+‌  
+‌  
+‌
+
+‌
+
+‌
+
+‌  
+
+‌  
+‌  
+‌
+
+‌
+
+‌
+
+‌  
+
+‌  
+‌  
+‌
+
+‌
+
+‌
+
+‌  
+
+‌  
+‌  
+‌
+
+‌
+
+‌
+
+‌  
+
+‌  
+‌  
+‌
+
+‌
+
+‌
+
+‌  
+
+‌  
+‌  
+‌
+
+‌
+
+‌
+
+## Media contacts
+
+1/4
+
+## Shana Ray [...] E/Email Chloe Ainsworth
+
+## Emily Hirsch
+
+Communications and Digital Marketing Manager - Americas/Cayman Islands
+
+T/+1 345 814 6805
+
+M/+1 345 936 6805
+
+E/Email Emily Hirsch
+
+## Get the latest insights and expertise in your inbox
+
+Sign up",,,20,weak,Exact title match (+20),general
+4779470,web_result,unknown_date,https://www.youtube.com/watch?v=KVVQo1lbGQs,Walker Season 1 Trailer | 'Moving On' | Rotten Tomatoes TV,"Synopsis: A reimagining of the long-running series ""Walker, Texas Ranger,"" ""Walker"" follows the adventures of Cordell Walker, a widower and father of two with his own moral code, as he returns home to Austin after being under cover for two years, only to discover there's harder work to be done at home. He must attempt to reconnect with his creative and thoughtful son and his headstrong, somewhat rebellious teenage daughter and navigate clashes with his family -- an ADA brother who stepped in [...] ### Transcript
+[0:00] [Music]
+[0:00] i didn't protect her emily so what did i miss you may run i see her
+[0:08] sometimes i talk to her i can't think about anything else but her i
+[0:18] you're chasing ghosts she is gone and there's nothing that you can do i think i know you you the ranger with
+[0:26] the dead wife what did you say texas ranger's wife bites a bullet down by the border you got a sad story i get that and i got
+[0:34] your back that is my job but i need to know that you have [...] [0:38] [Applause]
+[0:43] are under mine it's about your brother he requested the drone footage of the night that emily died
+[0:50] you hear me when i say this you will lose everything walker series premiere thursday january 21st stream free next
+[0:58] day only on the cw app
+[1:13] you",,trailer,20,weak,Keywords ['trailer'] (+20),general
+4779470,web_result,unknown_date,https://nsfordwriter.com/walkers-graham-masterton,Review of 'Walkers' by Graham Masterton - N S Ford,"This book feels quite dated in its social attitudes, but if you decide to ignore that, it's an addictive read which I thought was genuinely scary. It was more ...Read more",,,20,weak,Exact title match (+20),general
+4779470,web_result,unknown_date,https://www.walkersbarnyc.com,walkersbarNYC.com,Hours Lunch: Mon - Fri 12 pm - 4 pm Dinner: Mon - Sun 4 pm - 10 pm Brunch: Sat & Sun 11 am - 4 pm Bar: Mon - Fri 12 pm - 3 am Bar: Sat & Sun 11 am - 3 am,,,20,weak,Exact title match (+20),general
+4779470,web_result,unknown_date,https://www.instagram.com/walkerbooksuk?hl=en,Walker Books (@walkerbooksuk) • Instagram photos and videos,"Photo by Walker Books on October 27, 2026. May be a graphic of poster, book, magazine, office and text.
+
+Photo by Walker Books on October 26, 2026.
+
+Photo by Walker Books on October 26, 2026.
+
+Photo by Chris Riddell on October 25, 2026.
+
+Photo by Walker Books on October 24, 2026. May be an image of leather, armchair, chair, book, rocking chair and text.
+
+Photo by Tom Griffiths on October 24, 2026. May be an image of book and text. [...] Log In
+
+Sign Up
+
+ 43.1K followers
+ 608 following
+
+Walker Books
+
+walkerbooksuk
+
+For the best children’s books, look for the bear 🐻🕯️
+
+ walkerbooksuk's highlight story picture
+
+  Really Rubie
+ walkerbooksuk's highlight story picture
+
+  Traitors 🗡️
+ walkerbooksuk's highlight story picture
+
+  Michael Rosen
+ walkerbooksuk's highlight story picture
+
+  Hay Festival
+ walkerbooksuk's highlight story picture
+
+  Harry Hill
+ walkerbooksuk's highlight story picture [...] Photo by Walker Books on October 23, 2026. May be an image of card, poster, book, magazine and text.
+
+Photo by Walker Picture Books on October 23, 2026.
+
+Video by Lucy Strange | Children's & YA Author on October 23, 2026. May be an image of book and text.
+
+Photo by 🤍 🪴What The Teacher Reads🪴 🤍 on October 23, 2026. May be an image of text.
+
+Show more posts from walkerbooksuk",,,5,weak,Social Index (+5),general
+4779470,social_post,unknown_date,https://x.com/thecwwalker,thecwwalker - Walker,Your favorite Texas Ranger is back! Watch #Walker Wednesdays at 8/7c Stream free next day on The CW! go.cwtv.com/streamWLKtw.,,,5,weak,Social Index (+5),social
+4779470,web_result,unknown_date,https://www.imdb.com/title/tt11006642,Walker (TV Series 2021–2024),"Reviewers say 'Walker' It *is* more of a family melodrama than anything else, Great scenery, appealing actors.",,,0,weak,,general
+4779470,web_result,unknown_date,https://en.wikipedia.org/wiki/Walker_Books,Walker Books - Wikipedia,"Children's literature portal
+
+Walker Books is a British publisher of children's books, founded in 1978 by Sebastian Walker, Amelia Edwards, and Wendy Boase.
+
+In 1991, the success of Walker Books' Where's Wally? series enabled the company to expand into the American market, starting a sister company called Candlewick Press in 1991. In 1993, Walker Books also entered the Australian market by establishing another sister company, Walker Books Australia. [...] In 2001, co-founder of Walker Books Amelia Edwards won the Eleanor Farjeon Award for her contributions to children's literature as the publisher's art director.
+
+The company's logo of a bear holding a candle was designed by Helen Oxenbury.
+
+In 2020, the company was acquired by Trustbridge Global Media, together with its sister company in the US Candlewick Press and its other subsidiary in Australia.
+
+## Publications
+
+[edit] [...] | Parent company | Trustbridge Global Media |
+| Founded | 1978 |
+| Founders | Sebastian Walker, Amelia Edwards & Wendy Boase |
+| Country of origin | United Kingdom |
+| Headquarters location | London |
+| Distribution | The Book Service (UK)   Harper Entertainment Distribution Services (Australia)   Pan Macmillan (South Africa) |
+| Publication types | Books |
+| Imprints ""Imprint (trade name)"") |  Candlewick Press  Walker Books Australia"") |",,,0,weak,,general
+4779470,web_result,unknown_date,https://www.walker.co.uk,Walker Books - Walker Books - Childrens Books,WALKER BOOKS is the world's leading independent publisher of children's books. Working with the best authors and illustrators,,,0,weak,,general
+4779470,web_result,unknown_date,https://walkerconsultants.com/market/developer-private,Developers – Walker Consultants,"Connected Projects Explore developer related Walker projects that show relevant experience, practical judgment, and the kinds of problems our teams help clients solve.",,,0,weak,,general
+4779470,web_result,unknown_date,https://walker-dev.com,"Walker Development and Construction Management | Boston, Massachusetts","Walker Development & Construction Management has been named to the Boston Business Journal's 2026 Best Places to Work list for the second year in a row.
+
+Read more → [...] Our blended approach is unique, with extensive experience and specialized knowledge in building, real estate, and construction management. We partner with sophisticated owners, landlords, architects, subcontractors, property management firms, brokers, and a variety of industry professionals to provide top-of-the-line services and get your project or investment deal done right the first time.
+
+More about Walker
+
+ 
+
+  ## Walker Development Giving Back
+
+  Learn More [...] Commercial Fire Restoration in New England: What Property Owners and Institutions Need to Know
+
+Walker Development recently completed a 50,000 SF commercial fire restoration for Oakley Country Club in under one year. Here is what the process actually looks like.
+
+Read more →
+
+What It Really Takes to Deliver DCAMM Construction Projects in Massachusetts
+
+What It Really Takes to Deliver DCAMM Construction Projects in Massachusetts",,,0,weak,,general
+4779470,web_result,unknown_date,https://quinlandev.com/executive-team,Executive Team « Quinlan Development Group—Real Estate Investment and Development,"Mr. Quinlan is also owner of Walker, Malloy & Company, Inc., a management and leasing company that specializes in residential management and retail leasing.
+
+From 1964 to 1971, Mr. Quinlan was Partner and Vice President of James D. Landauer Associates, national real estate consultants. While there, he was consultant to over fifty corporate and institutional clients, including the Rockefeller, Goelet, and Phipps Families. [...] #### Principal
+
+In 2007, Tim took over all day-to-day operations of Quinlan Development Group and is directly responsible for all aspects of the company. During his tenure he has invested in, developed, or is developing over one million square feet of new projects.
+
+Tim also oversees the family’s legacy portfolio and the leasing and management affiliate Walker, Malloy & Company, Inc. [...] Prior to joining DTZ Rockwood, Tyler founded Wilkins Development, a real estate development firm which built, operated, and owned office, residential, and self-storage properties in the Washington, D.C. metro area.",,,0,weak,,general
+4779470,web_result,unknown_date,https://newyorkyimby.com/2026/10/permits-filed-for-1-walker-street-in-tribeca-manhattan.html,"Permits Filed for 1 Walker Street in Tribeca, Manhattan","1 day ago · Permits have been filed for a nine-story mixed-use building at 1 Walker Street in Tribeca, Manhattan. Located between West Broadway and Sixth Avenue, the lot is near the Franklin Street subway station, served by the 1 train.",,,0,weak,,general
