@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4045480,Drawquarium,"""Drawquarium"" Steam",general,1,tavily,True,,3
+4045480,Drawquarium,"""Drawquarium"" trailer",general,1,tavily,True,,2
+4045480,Drawquarium,"""Drawquarium"" gameplay",general,1,tavily,True,,4
+4045480,Drawquarium,"""Drawquarium"" demo",general,1,tavily,True,,3
+4045480,Drawquarium,"""Drawquarium"" release date",general,1,tavily,True,,2
+4045480,Drawquarium,"""Drawquarium"" announcement",general,1,tavily,True,,2
+4045480,Drawquarium,"""Drawquarium"" preview",general,1,tavily,True,,2
+4045480,Drawquarium,"""Drawquarium"" review",general,1,tavily,True,,2
+4045480,Drawquarium,"""Drawquarium"" publisher",general,1,tavily,True,,2
+4045480,Drawquarium,"""Drawquarium"" developer",general,1,tavily,True,,2
+4045480,Drawquarium,"site:pcgamer.com ""Drawquarium""",press,2,tavily,False,General budget exhausted,0
+4045480,Drawquarium,"site:rockpapershotgun.com ""Drawquarium""",press,2,tavily,False,General budget exhausted,0
+4045480,Drawquarium,"site:ign.com ""Drawquarium""",press,2,tavily,False,General budget exhausted,0
+4045480,Drawquarium,"site:gamespot.com ""Drawquarium""",press,2,tavily,False,General budget exhausted,0
+4045480,Drawquarium,"site:game8.co ""Drawquarium""",press,2,tavily,False,General budget exhausted,0
+4045480,Drawquarium,"site:reddit.com ""Drawquarium""",social,3,tavily,True,,1
+4045480,Drawquarium,"site:tiktok.com ""Drawquarium""",social,4,tavily,True,,5
+4045480,Drawquarium,"site:instagram.com ""Drawquarium""",social,4,tavily,True,,5
+4045480,Drawquarium,"site:x.com ""Drawquarium""",social,4,tavily,True,,5
+4045480,Drawquarium,"site: ""Drawquarium""",social,4,tavily,True,,2

@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-30T18:03:55.388793+00:00",
+    "timestamp": "20261030_180355",
+    "input_file": "data/spike_explainer/2026-10-30__appid_4045480__rank_612_to_558__up_54/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-30__appid_4045480__rank_612_to_558__up_54/llm_outputs/gemini_20261030_180355.md",
+    "game_title": "Drawquarium",
+    "appid": "4045480",
+    "duration_sec": 25.74,
+    "response_length": 6162,
+    "error": null
+}

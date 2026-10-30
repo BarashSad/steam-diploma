@@ -1,0 +1,670 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+4045480,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706690994,🎨🐠 Drawquarium Creative Event,,"It's time to get creative! 🫧 We're hosting a special Drawquarium Creative Event, and this is your chance to show off your artistic skills, win prizes and get your creations added to the game! During the Steam NEXT FEST the demo will still have plenty of features unlocked, so you can really give your",demo,75,strong,Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+4045480,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495016,Drawquarium has changed a LOT since the demo in May 🐟,,"Hey everyone! 👋Back in May, I released the first demo of Drawquarium. Since then, I have been working on the game pretty much nonstop, and a lot has changed.From the beginning, my goal with Drawquarium has been to create something that helps you slow down and relax. Something you can interact with w",demo,75,strong,Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+4045480,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=xqkNEx5z8SI,Drawquarium - Official Release Date Trailer,,Drawquarium gets a new trailer and a release date. Chase your dreams in the Drawquarium release date trailer for this upcoming ...,"trailer, release date",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",
+4045480,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=uniF3oUQs5Q,Drawquarium - Official Release Date Trailer,,Drawquarium will be released on 13 November 2026 for PC. Wishlist on Steam: ...,"trailer, release date",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",
+4045480,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=EIZ-kw2tcjA,Drawquarium - Official Release Date Trailer,,Drawquarium gets a new trailer and a release date. Chase your dreams in the Drawquarium release date trailer for this upcoming ...,"trailer, release date",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",
+4045480,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=a8ftKl27JV4,Drawquarium - Gameplay Trailer,,"Drawquarium turns your drawings into aquarium inhabitants, from fish and jellyfish to submarines and spaceships. This relaxing ...","trailer, gameplay",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+4045480,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=xqkNEx5z8SI,Drawquarium - Official Release Date Trailer,,Drawquarium gets a new trailer and a release date. Chase your dreams in the Drawquarium release date trailer for this upcoming ...,"trailer, release date",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",
+4045480,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=a8ftKl27JV4,Drawquarium - Gameplay Trailer,,"Drawquarium turns your drawings into aquarium inhabitants, from fish and jellyfish to submarines and spaceships. This relaxing ...","trailer, gameplay",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+4045480,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=IlNKSn7EfQI,Drawquarium - Official Demo Annoucment Trailer,,"Draw your very own fish and build a cozy little aquarium. And if you like, set it as your animated desktop wallpaper! Watch your ...","trailer, demo",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+4045480,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=PBOZDMjVaQw,Drawquarium is a cozy sandbox game that allows you to breathe life in what you draw #drawquarium #ad,,,,65,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20),
+4045480,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047262248,The Demo Is Out Now,,"Hey Drawquarium Community 👋,Yesterday I had to share some disappointing news: the demo was delayed.Today, I’m very happy to say that the wait is over.The Drawquarium demo is out now on Steam.Thank you for sticking with me through the unexpected delay and for all the support in the meantime. I origin",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+4045480,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260868,The Demo Is Delayed,,"Hey Drawquarium Community 👋, This was actually meant to be a surprise for almost 35,000 people who have wishlisted Drawquarium. I wanted to announce the demo today, on Friday, April 17, and simply share the good news with all of you. But sadly, things did not go as planned. My demo submission did no",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+4045480,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045126,Drawquarium is Coming to Steam on November 13!,,"Hey everyone! 👋I'm Kaleb, and I'm incredibly excited (and a little nervous) to finally announce thatDrawquarium is coming to Steam on November 13! I'm actually a 3D artist working in the film industry, and about 1.5 years ago, I had a little idea: What if I could bring my children's drawings to life",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4045480,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114045158,Drawquarium позволит оживить собственные рисунки и превратить их в уютный аквариум на рабочем столе,,"Инди-разработчик byKaleb и издатель rokaplay объявили дату выхода Drawquarium — расслабляющего симулятора, в котором игроки смогут рисовать собственных рыбок, оживлять их и создавать уникальный подводный мир. Игра выйдет 13 ноября 2026 года на PC в Steam, а уже сейчас можно попробовать бесплатную де",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4045480,youtube_video,outside_window,https://www.youtube.com/watch?v=1KzjNQN5pSE,Drawquarium - Official Demo Trailer,,"Draw your own fish and unlock new ways to decorate your aquarium. If you feed them well, they will gain a metallic shimmer as ...","trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+4045480,youtube_video,outside_window,https://www.youtube.com/watch?v=AOMjC3LBLgQ,Drawquarium - Official Demo Trailer,,"Draw your own fish and unlock new ways to decorate your aquarium. If you feed them well, they will gain a metallic shimmer as ...","trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+4045480,youtube_video,outside_window,https://www.youtube.com/watch?v=fvbPRIz9Tzw,Drawquarium - Official Demo Trailer,,"Take a look at the Official Demo Trailer for Drawquarium, a relaxing sandbox experience where creativity meets aquatic life.","trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+4045480,youtube_video,outside_window,https://www.youtube.com/watch?v=1KzjNQN5pSE,Drawquarium - Official Demo Trailer,,"Draw your own fish and unlock new ways to decorate your aquarium. If you feed them well, they will gain a metallic shimmer as ...","trailer, demo",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+4045480,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1xgktuk/drawquarium_official_release_date_trailer_pc_13,"Drawquarium - Official Release Date Trailer (PC, 13 Nov '26)",The trailer is really cool. There are plenty of aquarium games out there already. Let's see if being able to draw your own fish is enough of a ...Read more,,"trailer, release date",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+4045480,reddit_discussion,unknown_date,https://www.reddit.com/r/gamereviews/comments/1u0nx6m/i_reviewed_drawquarium_wishlisted_after_playing,I reviewed Drawquarium! 💯 Wishlisted after playing,This game is a masterpiece! What you draw becomes a fish in an aquarium! Best part is a free demo on Steam!,,demo,50,medium,Reddit (+10); Exact title match (+20); Keywords ['demo'] (+20),general
+4045480,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1xgktuk/drawquarium_official_release_date_trailer_pc_13,"Drawquarium - Official Release Date Trailer (PC, 13 Nov '26)","Drawquarium - Official Release Date Trailer (PC, 13 Nov '26) you build your own fish and then scan it and make it alive in their digital fish",,"trailer, release date",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+4045480,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=LNa4_xqMT6g,Drawquarium Game | Your Drawings Come To Life!,,"My gym bro fish needed a workout partner, so I drew him a CRAB WITH A PROTEIN SHAKE! In Drawquarium, you can draw ...",,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+4045480,social_post,unknown_date,https://www.tiktok.com/@drawquarium_game/video/7701330813878570262,Indie game trailer reaction: Drawquarium viral moment,"I used to work as a 3D artist in the film industry, but now I'm making Drawquarium, a cozy game where you can bring your own drawings to life!",,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+4045480,social_post,unknown_date,https://www.instagram.com/reel/DSC7jhQDGnZ,Instagram,"Title: Instagram
+Never miss a post from rokaplayhq. Sign up for Instagram to stay in the loop. By continuing, you agree to Instagram's Terms of Use and Privacy Policy. Video by rokaplay | we make cozy & and family-friendly games🚀 on December 09, 2025. My little side project, which I created in three weeks, became a hit on social media, and a few months later, it’s now available on Game Pass. A Game About Digging A Hole is cloud playable with @Xbox Game pass Ultimate. #videogames #gamedev #indiegames #solodev #xbox #playstation5 #nintendoswitch. What's the game name? ruben.isantos's profile picture. I played the solar punk demo and it was pretty good. A Game About Digging A Hole is now available on all consoles! Log in to like or comment. Photo by The Triple-i Initiative on April 09, 2026. Video by Drawquarium on December 19, 2025. Photo by Drawquarium on December 11, 2025. Video by Solarpunk - a cozy survival game 🌱🚀☀️ on August 14, 2025. Video by rokaplay | we make cozy & and family-friendly games🚀 on July 31, 2025. Photo by Solarpunk - a cozy survival game 🌱🚀☀️ on May 06, 2025.",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+4045480,social_post,unknown_date,https://x.com/ToonHive/status/2115621659453665418,ToonHive on X,The trailer for 'Drawquarium' has been released. The indie art game lets you draw your own fish and raise them in an aquarium.,,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+4045480,social_post,unknown_date,https://x.com/DrawquariumGame,Drawquarium (@DrawquariumGame) / X,My cozy game lets you draw your own fish and watch them come to life. I spent years working on films so you know I had to give it a cinematic trailer. ✨ You,,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+4045480,social_post,unknown_date,https://steamcommunity.com/app/4045480,Steam Community :: Drawquarium,"That idea became Drawquarium, my very first video game! I've poured my heart into this little project, creating all the artwork and animations myself.
+
+In Drawquarium, you can draw your own fish, import your own images (including your kids' drawings!), decorate your aquarium, and even turn it into a living desktop wallpaper!
+
+Watch Our Release Date Trailer!
+
+The trailer is a little longer and more story driven than usual, but hey, I come from the film industry. I couldn't help myself! 😅 [...] From the beginning, my goal with Drawquarium has been to create something that helps you slow down and relax. Something you can interact with whenever you feel like it, while your aquarium continues living peacefully in the background. That is also why the Wallpaper Mode is such an important part of the game. [...] Create a fish that's funny, weird, beautiful, super realistic or completely unexpected. Let your imagination run wild! Your fish also needs to be new, just to make it fair for everyone!",,"trailer, release date",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",social
+4045480,web_result,unknown_date,https://store.steampowered.com/app/4045480/Drawquarium,Drawquarium on Steam,"Drawquarium is a relaxing aquarium sandbox where your drawings come to life! Draw your own fish and plants, feed them, raise them, and collect golden fish scales to unlock new decorations and tools. Create your own cozy little underwater world and bring it to your desktop as an animated wallpaper!
+
+## And don't worry, you don't have to be an artist to create something beautiful! You can always choose from a variety of ready-made fish and simply enjoy watching your little aquarium come to life. [...] All Games > Simulation Games > Drawquarium
+
+Community Hub
+
+Drawquarium
+
+Drawquarium
+
+Drawquarium
+
+Developer
+
+byKaleb
+
+Publisher
+
+rokaplay
+
+Release
+
+13 Nov, 2026
+
+Draw your very own fish and build a cozy little aquarium. And if you like, set it as your animated desktop wallpaper! Watch your drawings come to life. Feed them, raise them and collect golden scales to unlock new decorations. There's also some handy tools to help you focus and unwind.
+
+All Reviews:
+
+No user reviews
+
+Release Date: [...] )
+
+Features
+
+Single-player
+
+Family Sharing
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  |  |
+
+Title: Drawquarium  
+ Genre: Simulation  
+
+Developer: byKaleb
+
+Publisher: rokaplay
+
+Release Date: 13 Nov, 2026
+
+Visit the website External   Discord External   TikTok External   YouTube External   X External   Bluesky External   Instagram External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4045480,web_result,unknown_date,https://steamcommunity.com/app/4045480,Steam Community :: Drawquarium,"I really hope you enjoy it!
+
+Drawquarium launches November 13 on Steam!
+
+If you'd like to support this little project, adding it to your wishlist or sharing the trailer would mean the world to me.
+
+And if you want to follow development more closely:
+
+💬 Join our Discord: 
+
+🐦 X / Twitter: 
+
+📷 Instagram: 
+
+🎵 TikTok: 
+
+Thank you so much for all the love and support! ❤️
+
+Kaleb
+
+Project i love to support [...] Most popular community and official content for the past week.  (?)
+
+Drawquarium is Coming to Steam on November 13!
+
+7:38am
+
+Hey everyone! 👋
+
+I'm Kaleb, and I'm incredibly excited (and a little nervous) to finally announce that
+
+Drawquarium is coming to Steam on November 13!
+
+I'm actually a 3D artist working in the film industry, and about 1.5 years ago, I had a little idea: What if I could bring my children's drawings to life? [...] It's time to get creative! 🫧  
+  
+We're hosting a special Drawquarium Creative Event, and this is your chance to show off your artistic skills, win prizes and get your creations added to the game!  
+  
+During the Steam NEXT FEST the demo will still have plenty of features unlocked, so you can really give your submission extra love! After the event, the demo will be downgraded to a more ""demo like"" feature set.  
+  
+So now is the best time to give it a try and maybe even win something!",,"trailer, demo",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+4045480,web_result,unknown_date,https://www.gamespot.com/videos/drawquarium-official-release-date-trailer,DRAWQUARIUM - Official Release Date Trailer - GameSpot,"Skip to content
+
+# DRAWQUARIUM – Official Release Date Trailer
+
+Available November 13, 2026
+
+Follow Us
+
+Available November 13, 2026
+
+HEVLXEIQQNEE5MVP  
+GZW1OC2I04DUGWFA
+
+## Featured In This Story
+
+Drawquarium 
+
+### Drawquarium
+
+First Released
+
+Platforms
+:   PC
+
+View Game Hub
+
+## About the Authors
+
+Ben Janca 
+
+### Ben Janca
+
+I play too many games and help publish all the videos you see on the site.
+
+ Bluesky profile of Ben Janca 
+  @benjanca.bsky.social
+ X profile of Ben Janca 
+  @BenJanca [...] ## Latest on Featured Games
+
+ 
+
+## The Most Unexpectedly Emotional Trailer Of The Year Is For A Game About Drawing Fish
+
+## Latest News
+
+ 
+
+## You Can Make Your WoW: Forever Character Now And Be Ready For Launch
+
+ 
+
+## GTA 6 Developers Are About To Do Something Historic
+
+ 
+
+## This Company Is Paying You To Play GTA 6, But It’s A Long Shot
+
+ 
+
+## Official WoW: Forever AMV Will Get You Super Hyped
+
+### GameSpot Newsletters, Straight to Your Inbox [...] label
+
+label
+
+label",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+4045480,web_result,unknown_date,https://store.steampowered.com/app/4045480/Drawquarium,Drawquarium on Steam,"Drawquarium is a relaxing aquarium sandbox where your drawings come to life! Draw your own fish and plants, feed them, raise them, and collect golden fish scales to unlock new decorations and tools. Create your own cozy little underwater world and bring it to your desktop as an animated wallpaper!
+
+## And don't worry, you don't have to be an artist to create something beautiful! You can always choose from a variety of ready-made fish and simply enjoy watching your little aquarium come to life. [...] All Games > Simulation Games > Drawquarium
+
+Community Hub
+
+Drawquarium
+
+Drawquarium
+
+Drawquarium
+
+Developer
+
+byKaleb
+
+Publisher
+
+rokaplay
+
+Release
+
+13 Nov, 2026
+
+Draw your very own fish and build a cozy little aquarium. And if you like, set it as your animated desktop wallpaper! Watch your drawings come to life. Feed them, raise them and collect golden scales to unlock new decorations. There's also some handy tools to help you focus and unwind.
+
+All Reviews:
+
+No user reviews
+
+Release Date: [...] )
+
+Features
+
+Single-player
+
+Family Sharing
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  |  |
+
+Title: Drawquarium  
+ Genre: Simulation  
+
+Developer: byKaleb
+
+Publisher: rokaplay
+
+Release Date: 13 Nov, 2026
+
+Visit the website External   Discord External   TikTok External   YouTube External   X External   Bluesky External   Instagram External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4045480,web_result,unknown_date,https://www.youtube.com/watch?v=xqkNEx5z8SI,Drawquarium - Official Release Date Trailer,"Drawquarium gets a new trailer and a release date. Chase your dreams in the Drawquarium release date trailer for this upcoming sim game. In Drawquarium, draw your very own fish and build a cozy little aquarium. And if you like, set it as your animated desktop wallpaper! Watch your drawings come to life. Feed them, raise them and collect golden scales to unlock new decorations. There's also some handy tools to help you focus and unwind. Drawquarium will be available on PC (Steam) on November 13, [...] #IGN #gaming [...] on November 13, 2026.",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+4045480,web_result,unknown_date,https://www.youtube.com/watch?v=AOMjC3LBLgQ,Drawquarium - Official Demo Trailer,"Draw your own fish and unlock new ways to decorate your aquarium. Drawquarium will be available on PC, and a demo is out now on Steam.",,"trailer, demo",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+4045480,web_result,unknown_date,https://www.youtube.com/watch?v=CS9f8e8920Q,Drawquarium - Announce Trailer 2025,"Draw your own fish and unlock new ways to decorate your aquarium. metallic shimmer as they age. Drawquarium demo gameplay - making Ghastling,",,"trailer, gameplay, demo",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo'] (+20)",general
+4045480,web_result,unknown_date,https://www.gamespot.com/videos/drawquarium-official-release-date-trailer,DRAWQUARIUM - Official Release Date Trailer - GameSpot,"Skip to content
+
+# DRAWQUARIUM – Official Release Date Trailer
+
+Available November 13, 2026
+
+Follow Us
+
+Available November 13, 2026
+
+HEVLXEIQQNEE5MVP  
+GZW1OC2I04DUGWFA
+
+## Featured In This Story
+
+Drawquarium 
+
+### Drawquarium
+
+First Released
+
+Platforms
+:   PC
+
+View Game Hub
+
+## About the Authors
+
+Ben Janca 
+
+### Ben Janca
+
+I play too many games and help publish all the videos you see on the site.
+
+ Bluesky profile of Ben Janca 
+  @benjanca.bsky.social
+ X profile of Ben Janca 
+  @BenJanca [...] label
+
+label
+
+label [...] ## Latest on Featured Games
+
+ 
+
+## The Most Unexpectedly Emotional Trailer Of The Year Is For A Game About Drawing Fish
+
+## Latest News
+
+ 
+
+## You Can Make Your WoW: Forever Character Now And Be Ready For Launch
+
+ 
+
+## GTA 6 Developers Are About To Do Something Historic
+
+ 
+
+## This Company Is Paying You To Play GTA 6, But It’s A Long Shot
+
+ 
+
+## Official WoW: Forever AMV Will Get You Super Hyped
+
+### GameSpot Newsletters, Straight to Your Inbox",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+4045480,web_result,unknown_date,https://www.youtube.com/watch?v=jjlk6jcnPUk,Drawquarium Release Date Announcement Trailer,"# Drawquarium Release Date Announcement Trailer
+## Channel: Wholesome Games
+62.7K subscribers
+326 likes
+
+### Description
+4,451 views
+Posted: 2026-10-26
+#ad Draw your own fish and build a cozy aquarium in Drawquarium! If you like, set it as an animated desktop wallpaper! Watch your drawings come to life: feed them, raise them, and collect golden scales to unlock new decorations. There are even tools to help you focus and unwind!  #indiegames #cozygames #cozygamer",,"trailer, announcement, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement', 'release date'] (+20)",general
+4045480,web_result,unknown_date,https://store.steampowered.com/app/4045480/Drawquarium,Drawquarium on Steam,"All Games > Simulation Games > Drawquarium
+
+Community Hub
+
+Drawquarium
+
+Drawquarium
+
+Drawquarium
+
+Developer
+
+byKaleb
+
+Publisher
+
+rokaplay
+
+Release
+
+13 Nov, 2026
+
+Draw your very own fish and build a cozy little aquarium. And if you like, set it as your animated desktop wallpaper! Watch your drawings come to life. Feed them, raise them and collect golden scales to unlock new decorations. There's also some handy tools to help you focus and unwind.
+
+All Reviews:
+
+No user reviews
+
+Release Date: [...] Drawquarium is a relaxing aquarium sandbox where your drawings come to life! Draw your own fish and plants, feed them, raise them, and collect golden fish scales to unlock new decorations and tools. Create your own cozy little underwater world and bring it to your desktop as an animated wallpaper!
+
+## And don't worry, you don't have to be an artist to create something beautiful! You can always choose from a variety of ready-made fish and simply enjoy watching your little aquarium come to life. [...] )
+
+Features
+
+Single-player
+
+Family Sharing
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  |  |
+
+Title: Drawquarium  
+ Genre: Simulation  
+
+Developer: byKaleb
+
+Publisher: rokaplay
+
+Release Date: 13 Nov, 2026
+
+Visit the website External   Discord External   TikTok External   YouTube External   X External   Bluesky External   Instagram External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4045480,web_result,unknown_date,https://www.youtube.com/watch?v=xqkNEx5z8SI,Drawquarium - Official Release Date Trailer,"Drawquarium gets a new trailer and a release date. Chase your dreams in the Drawquarium release date trailer for this upcoming sim game. In Drawquarium, draw your very own fish and build a cozy little aquarium. And if you like, set it as your animated desktop wallpaper! Watch your drawings come to life. Feed them, raise them and collect golden scales to unlock new decorations. There's also some handy tools to help you focus and unwind. Drawquarium will be available on PC (Steam) on November 13, [...] on November 13, 2026. [...] #IGN #gaming",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+4045480,web_result,unknown_date,https://www.youtube.com/watch?v=xqkNEx5z8SI,Drawquarium - Official Release Date Trailer,"Drawquarium gets a new trailer and a release date. Chase your dreams in the Drawquarium release date trailer for this upcoming sim game. In Drawquarium, draw your very own fish and build a cozy little aquarium. And if you like, set it as your animated desktop wallpaper! Watch your drawings come to life. Feed them, raise them and collect golden scales to unlock new decorations. There's also some handy tools to help you focus and unwind. Drawquarium will be available on PC (Steam) on November 13, [...] on November 13, 2026. [...] # Drawquarium - Official Release Date Trailer
+## Channel: IGN (verified)
+20M subscribers
+1.7K likes",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+4045480,web_result,unknown_date,https://www.gamespot.com/articles/the-most-unexpectedly-emotional-trailer-of-the-year-is-for-a-game-about-drawing-fish,The Most Unexpectedly Emotional Trailer Of The Year Is For A Game About Drawing Fish - GameSpot,"Follow Us
+
+On the one hand, the upcoming game Drawquarium looks like a sweet little cozy game. You draw fish and import them into your aquarium and your fishy friends swim around. It’s cute! But the release date trailer goes further than simply explaining the game and its features. It’s more like a short film that’s poignant and timely, and honestly, best if you just see it for yourself. [...] As the trailer suggests, the game revolves around creating your fish, housing them in your aquarium, and feeding and caring for them. You can even set your personalized aquarium as a desktop wallpaper to watch your little fishies swim around while you, let’s say, write a paper about finance. It’s a little shot of concentrated hope and humanity that put the game at the top of our cozy game radar.
+
+Drawquarium is releasing on November 13. A demo is available now.
+
+## About the Authors [...] Skip to content
+
+# The Most Unexpectedly Emotional Trailer Of The Year Is For A Game About Drawing Fish
+
+The release date trailer for Drawquarium is poignant and timely, and it also features cute little fishies.
+
+Follow Us",,"trailer, demo, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'release date'] (+20)",general
+4045480,web_result,unknown_date,https://www.invenglobal.com/articles/27688/drawquarium-the-aquarium-for-your-drawn-fish-confirmed-for-november-14-steam-release,"'Drawquarium', the Aquarium for Your Drawn Fish, Confirmed for November 14 Steam Release - Inven Global","Created by German solo developer Kaleb, Drawquarium is a single-player cozy sandbox game where players decorate an aquarium with fish and aquatic plants they draw themselves. Gameplay proceeds without competition as players cultivate an underwater world, and players can also choose preset fish instead of drawing their own. [...] The demo currently distributed on Steam supports 14 languages, including Korean. rokaplay shared that user reviews for the demo were entirely positive and stated that it participated in this Steam Next Fest with a new demo featuring expanded features.
+
+Developer Kaleb is a 3D artist working in the film industry in Berlin, Germany. Without formal education in game development, he self-taught Unreal Engine and Blueprints, creating Drawquarium as a personal passion project. [...] # Inven Global
+
+## 'Drawquarium', the Aquarium for Your Drawn Fish, Confirmed for November 14 Steam Release
+
+Jaihoon    Jaihoon ""Laffa"" Jeong  laffa@inven.co.kr
+
+Korean (한국어) KO   Add us on
+
+드로우쿠아리움, 11월 14일 스팀 출시 확정
+
+ⓒ rokaplay
+
+rokaplay announced on the 26th that aquarium management game Drawquarium will launch on PC via Steam on November 14. Prior to release, wishlist additions have surpassed 75,000, and a new trailer announcing the release date was also revealed.",,"trailer, gameplay, demo, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo', 'release date'] (+20)",general
+4045480,web_result,unknown_date,https://www.facebook.com/IndieGameJoe/videos/a-film-industry-3d-artist-made-a-game-where-you-draw-a-fish-and-it-comes-to-life/1132290272784396,A film industry 3D artist made a game where you draw ...,"This post showcases ""Drawquarium,"" an upcoming online game from the developer 80 Level. The video is a short, animated CGI demonstration of the ...Read more",,"demo, showcase",40,medium,"Exact title match (+20); Keywords ['demo', 'showcase'] (+20)",general
+4045480,youtube_video,outside_window,https://www.youtube.com/watch?v=9_wFvQOGmII,Let&#39;s Create Fish! - NEW Drawquarium Game!,,Become a member of the channel: https://www.youtube.com/channel/UCIDlKYC7I6_76jCUBdX-6VQ/join My Twitter ...,,35,medium,YouTube (+15); Exact title match (+20),
+4045480,youtube_video,outside_window,https://www.youtube.com/watch?v=oPQaiwp9IG4,A game about drawing fish,,In Drawquarium you draw fish and plants to build an aquarium. Wishlist now on Steam!,,35,medium,YouTube (+15); Exact title match (+20),
+4045480,reddit_discussion,unknown_date,https://www.reddit.com/r/Cinema4D/comments/1ad08zj/local_client_wants_to_pay_100_for_product,Local client wants to pay 100$ for product animation : r/Cinema4D,"Skip to main contentLocal client wants to pay 100$ for product animation : r/Cinema4D. I've been trying to learn product design and animation for a while and but I have no real experience or projects so I'm considering taking it despite the low price, what do you think I should do? Project details below- r/Cinema4D•3mo ago ### Excited to share latest 3D motion client work! Project details below- : r/Cinema4D - Excited to share latest 3D motion client work! * ANIMATORS NEEDED: PAID WORK r/Animators•7mo ago ### ANIMATORS NEEDED: PAID WORK : r/Animators - ANIMATORS NEEDED: PAID WORK3 46 upvotes ·27 comments. * Little animations I've made over the years :) r/Cinema4D•9mo ago ### Little animations I've made over the years :) : r/Cinema4D - Little animations I've made over the years :)1:44 47 upvotes ·8 comments. r/animation•25d ago ### How much 2D animation could I expect to buy for $10,000? r/ProductViz•10mo ago ### How much would you price this 3d product animation? : r/ProductViz - How much would you price this 3d product animation? * [[Hiring] 2D Animator]() r/AnimatorsOnYoutube•14d ago ### [[Hiring] 2D Animator]() 11 upvotes ·13 comments. r/Animators•11d ago ### Hiring 2D animators! * ""When a department store hires you to do their 3d animation""r/artph•1mo ago ### ""When a department store hires you to do their 3d animation"" : r/artph - ""When a department store hires you to do their 3d animation""0:41 809 upvotes ·21 comments. * Animator looking for small paid gigs — sample attached r/animation•1mo ago ### Animator looking for small paid gigs — sample attached : r/animation - Animator looking for small paid gigs — sample attached1:18 29 upvotes ·18 comments. * Animation Studios Cheapest to Most Expensive Film r/cartoons•15d ago ### Animation Studios Cheapest to Most Expensive Film : r/cartoons - Animation Studios Cheapest to Most Expensive Film8 3.9K upvotes ·151 comments. r/IndieDev•3mo ago ### I am 3D animator in the film world, but my heart kept pulling me toward a small, very personal game idea called Drawquarium. : r/IndieDev - I am 3D animator in the film world, but my heart kept pulling me toward a small, very personal game idea called Drawquarium.1:23 931 upvotes ·52 comments. r/IndieAnimation•1mo ago ### Before working with animators who don't charge, read this.",,,30,weak,Reddit (+10); Exact title match (+20),social
+4045480,social_post,unknown_date,https://www.tiktok.com/@drawquarium_game/video/7651552317191310624,Drawquarium: Create & Watch Your Own Fish Come to Life!,"Drawquarium is a charming and cozy game that puts your creativity at the forefront, allowing you to draw your very own fish and witness them",,,25,weak,Social Index (+5); Exact title match (+20),social
+4045480,social_post,unknown_date,https://www.tiktok.com/@drawquarium_game/video/7700949945938922774,cozy aquarium game where drawings become fish - Steam ...,"It's called Drawquarium, a relaxing aquarium video game where your drawings & paintings come to life as little fish! I originally started",,,25,weak,Social Index (+5); Exact title match (+20),social
+4045480,social_post,unknown_date,https://www.tiktok.com/@whoelsbutme/video/7701279802552028448,TikTok - Make Your Day,"Drawquarium lets you draw your own fish and create a cozy aquarium that doubles as an animated desktop wallpaper.  
+#Drawquarium#CozyGames#RelaxingGames#IndieGames#AquariumGame
+
+more
+
+00:03 / 00:28
+
+Image 2: whoelsbutme
+
+61
+
+0
+
+21
+
+8
+
+[](
+
+Image 3: #chicuelas #humor #humornegro #amigas #fyp 
+
+Video 2
+
+Who Els But Me | Game Finds · 1d ago [...] TikTok
+
+Log in
+
+TikTok
+
+Search
+
+For You
+
+Explore
+
+Following
+
+Short dramas
+
+LIVE
+
+Upload
+
+Profile
+
+More
+
+Log in
+
+© 2026 TikTok
+
+Image 1: Drawquarium lets you draw your own fish and create a cozy aquarium that doubles as an animated desktop wallpaper. #Drawquarium #CozyGames #RelaxingGames #IndieGames #AquariumGame
+
+Video 1
+
+Who Els But Me | Game Finds · 17h ago [...] 20
+
+·1w ago 
+
+Image 15: #chicuelas #humor #humornegro #amigas #fyp 
+
+Turn rough wood into handmade furniture, then photograph your creations and sell them online. Game name; Made by Hand #MadeByHand #Woodworking #CraftingGames #SimulationGames #IndieGames
+
+Who Els But Me | Game Finds
+
+99
+
+·10-13
+
+Image 16: #chicuelas #humor #humornegro #amigas #fyp",,,25,weak,Social Index (+5); Exact title match (+20),social
+4045480,social_post,unknown_date,https://www.tiktok.com/@wholesomegames/video/7700995919315012895,Draw your own fish and build a cozy aquarium in ...,"Draw your own fish and build a cozy aquarium in Drawquarium! If you like, set it as an animated desktop wallpaper! Watch your drawings come",,,25,weak,Social Index (+5); Exact title match (+20),social
+4045480,social_post,unknown_date,https://www.instagram.com/reel/DXOqVEwjMJZ,Instagram,"Title: Instagram
+Never miss a post from drawquarium\_game. Sign up for Instagram to stay in the loop. By continuing, you agree to Instagram's Terms of Use and Privacy Policy. Video by Drawquarium on April 17, 2026. I'm working on a game where you draw your own fish and watch them come to life. Feed them, watch them grow, and see which one turns golden. You can even run the game as your desktop wallpaper! #solodev #indiedev #gamedev #indiegames #cozygames. DUDE I literally been developing something similar ! A chatquarium, it let's you connect to twitch, and your viewers become fish in the aquarium. I had to pause development temporarily but this is inspiring to me. Log in to like or comment. More posts from drawquarium\_game. Video by Kaleb Lechowski on December 11, 2025. Photo by Drawquarium on June 30, 2026. Video by Drawquarium on June 15, 2026. May be an image of guppy, seahorse and text that says 'I spent years working in the film industry, but this game is what I'm most proud of. Video by Drawquarium on March 30, 2026. Video by Drawquarium on February 16, 2026. Video by Drawquarium on December 19, 2025. Photo by Drawquarium on December 11, 2025.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4045480,social_post,unknown_date,https://www.instagram.com/reel/DMw5AwDIbcD?hl=en,Instagram,"Title: Instagram
+Never miss a post from rokaplayhq. Sign up for Instagram to stay in the loop. By continuing, you agree to Instagram's Terms of Use and Privacy Policy. Video by rokaplay | we make cozy & and family-friendly games🚀 on July 31, 2025. You asked for it, and I’m giving it to you! A Game About Digging A Hole is coming to mobile TODAY! (Available for iOS and Android). In this game, you dig as deep as you can and see what you will find. maybe you’re not alone down there? #mobilegame #mobilegaming #mobilegamer #indiegamedev #indiegame. Is it free on mobile? A Game About Digging A Hole is coming to mobile (iOS & Android) 📱. Log in to like or comment. Photo by The Triple-i Initiative on April 09, 2026. Video by Drawquarium on December 19, 2025. Photo by Drawquarium on December 11, 2025. Video by rokaplay | we make cozy & and family-friendly games🚀 on December 09, 2025. Video by Solarpunk - a cozy survival game 🌱🚀☀️ on August 14, 2025. Photo by Solarpunk - a cozy survival game 🌱🚀☀️ on May 06, 2025.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4045480,social_post,unknown_date,https://www.instagram.com/reel/DLXWzRnBryM,Instagram,"Video by Drawquarium on December 19, 2025.
+
+Photo by Drawquarium on December 11, 2025.
+
+Video by rokaplay | we make cozy & and family-friendly games🚀 on December 09, 2025.
+
+Video by rokaplay | we make cozy & and family-friendly games🚀 on November 20, 2025.
+
+Video by Solarpunk - a cozy survival game 🌱🚀☀️ on August 14, 2025.
+
+Video by rokaplay | we make cozy & and family-friendly games🚀 on July 31, 2025.
+
+See more posts
+
+--- [...] lucifer.our.lord666's profile picture
+
+lucifer.our.lord666
+
+el hoyo de @marchenoo
+
+Reply
+
+dennisdauth's profile picture
+
+dennisdauth
+
+I followed you because of Solarpunk... In the meantime you released this Game and i played it as soon possible. You deserve Everthing! I personally love the overall look of the Game :) Keep goin ;)
+
+1 like
+
+Reply
+
+josee_ssousa's profile picture
+
+josee\_ssousa
+
+Vai ver mazé o canal do ric fazeres que ele está a fazer ganda série
+
+2 likes
+
+Reply [...] This game is about digging a hole in the garden of your new house. Gather resources, upgrade your tools and find the secrets deep in the ground. This game is made by one person. I used the Unreal engine and voxel technology to complete the game in about 2 weeks in my spare time. what do you think? #videogames #unrealengine #solodev #gamedev #voxel #horror",,,25,weak,Social Index (+5); Exact title match (+20),social
+4045480,social_post,unknown_date,https://www.instagram.com/rokaplayhq?hl=en,rokaplay | we make cozy & and family-friendly games🚀 (@rokaplayhq) • Instagram photos and videos,"Title: rokaplay | we make cozy & and family-friendly games🚀 (@rokaplayhq) • Instagram photos and videos
+## rokaplayhq. rokaplay | we make cozy & and family-friendly games🚀. We make Cozy & Family Friendly Games! * rokaplayhq's highlight story picture. Photo by The Triple-i Initiative on April 09, 2026. Video by Drawquarium on December 19, 2025. Photo by Drawquarium on December 11, 2025. Video by rokaplay | we make cozy & and family-friendly games🚀 on December 09, 2025. Video by Solarpunk - a cozy survival game 🌱🚀☀️ on August 14, 2025. Video by rokaplay | we make cozy & and family-friendly games🚀 on July 31, 2025. Photo by Solarpunk - a cozy survival game 🌱🚀☀️ on May 06, 2025. Photo by Solarpunk - a cozy survival game 🌱🚀☀️ on March 18, 2025. Video by Sugardew Island on March 07, 2025. Show more posts from rokaplayhq.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4045480,social_post,unknown_date,https://x.com/IndieGameJoe/status/2112586079320539529,Indie Game Joe - X,"""Drawquarium is a relaxing aquarium sandbox where your drawings come to life! Draw your own fish and plants, feed them, raise them,",,,25,weak,Social Index (+5); Exact title match (+20),social
+4045480,social_post,unknown_date,https://x.com/ChamanthaPlays/status/2112911333620621727,"chamantha elf girl streamer on X: ""DRAWQUARIUM is a unique ...",DRAWQUARIUM is a unique aquarium sim where you shape almost every aspect of your tank illustrate your own fish and plants earn money,,,25,weak,Social Index (+5); Exact title match (+20),social
+4045480,social_post,unknown_date,https://x.com/DrawquariumGame/status/2112835729625653664,Drawquarium on X,"Illustrators & artists, would you play my indie game, Drawquarium? If YES = Comment! Draw your own fish & plants, feed them, raise them,",,,25,weak,Social Index (+5); Exact title match (+20),social
+4045480,social_post,unknown_date,https://play.google.com/store/apps/details?id=com.abokado.aqua.play.fish.draw&hl=en_US,Aqua Play: Draw Aquarium - Apps on Google Play,"Perfect for kids and families who love drawing, creativity, and discovery!  
+Draw it 🖍️. Snap it 📸. Watch it swim.🐠 Drawquarium🐠 Pond life 🐠
+
+An Aquarium made from your drawings!
+
+Updated on
+
+Oct 19, 2026
+
+Available on
+
+Android, Windows\
+
+Simulation
+
+\Powered by Intel® technology
+
+## Data safety
+
+arrow\_forward [...] - 🐠 Build your best Aquairum ever: Feed your fish, raise them big, protect them from the Sea Monsters.  
+- 🌊 Relax & Explore: Build your own underwater world full of your handmade creations.  
+- ✨ Play offline — no ads, no data tracking [...] \Might not be available for this game
+
+## App support
+
+public
+
+Website
+
+email
+
+Support email
+
+dangle.dangle.143@gmail.com
+
+shield
+
+Privacy Policy
+
+About the developer
+
+Lê Hải Đăng
+
+abokado.games@gmail.com
+
+P19 A1, TT Văn Chương, Đống Đa, Hà Nội Hà Nội 12100 Vietnam
+
+## More by Abokado.Games
+
+arrow\_forward
+
+Thumbnail image
+
+Aqua Play: Draw Aquarium ++
+
+Abokado.Games
+
+₹220.00
+
+## Similar games
+
+arrow\_forward
+
+Thumbnail image
+
+Ocean -The place in your heart
+
+Ligensoft
+
+3.8star
+
+Thumbnail image",,,25,weak,Social Index (+5); Exact title match (+20),social
+4045480,web_result,unknown_date,https://www.ign.com/games/drawquarium,Drawquarium,"Draw your own fish and unlock new ways to decorate your aquarium. If you feed them well, they will gain a metallic shimmer as they age.",,,20,weak,Exact title match (+20),general
+4045480,web_result,unknown_date,https://nerdybirdgames.com/2026/04/29/drawquarium-indie-game-spotlight,Drawquarium Indie Game Spotlight,"Drawquarium, a game that lets you run your very own fish tank on your desktop! Not only do you look after your fish and plant life, but you can",,,20,weak,Exact title match (+20),general
+4045480,web_result,unknown_date,https://play.google.com/store/apps/details?id=com.abokado.aqua.play.fish.draw&hl=en_US,Aqua Play: Draw Aquarium - Apps on Google Play,"Perfect for kids and families who love drawing, creativity, and discovery! Draw it 🖍️. Snap it . Watch it swim. Drawquarium Pond life. An Aquarium",,,20,weak,Exact title match (+20),general
+4045480,web_result,unknown_date,https://play.google.com/store/apps/details?id=com.abokado.aqua.play.fish.draw&hl=en_US,Aqua Play: Draw Aquarium - Apps on Google Play,"Perfect for kids and families who love drawing, creativity, and discovery! Draw it 🖍️. Snap it . Watch it swim.   Drawquarium   Pond life. An Aquarium ...Read more",,,20,weak,Exact title match (+20),general
+4045480,web_result,unknown_date,https://nerdybirdgames.com/2026/04/29/drawquarium-indie-game-spotlight,Drawquarium Indie Game Spotlight,"Skip to content
+
+ X
+ Share on Facebook (Opens in new window) Facebook
+
+### Like this:
+
+Like Loading…
+
+### Related
+
+Unknown's avatar
+
+## Published by Jake Smith [...] Hello, I'm Jake, I have loved all things gaming since the SEGA Megadrive days. As a kid, teenager, young adult I loved playing games, but I always wanted more, I wanted to see what went on behind the scenes, talk to the amazing people who work in the industry. That's how I got into gaming sites and that's why I created my own.  View all posts by Jake Smith
+
+### Leave a Reply Cancel reply
+
+Loading Comments...",,,20,weak,Exact title match (+20),general
+4045480,web_result,unknown_date,https://nerdybirdgames.com/2026/04/29/drawquarium-indie-game-spotlight,Drawquarium Indie Game Spotlight,"Hello, I'm Jake, I have loved all things gaming since the SEGA Megadrive days. As a kid, teenager, young adult I loved playing games, but I always wanted more, I wanted to see what went on behind the scenes, talk to the amazing people who work in the industry. That's how I got into gaming sites and that's why I created my own.  View all posts by Jake Smith
+
+### Leave a Reply Cancel reply
+
+Loading Comments... [...] Skip to content
+
+ X
+ Share on Facebook (Opens in new window) Facebook
+
+### Like this:
+
+Like Loading…
+
+### Related
+
+Unknown's avatar
+
+## Published by Jake Smith",,,20,weak,Exact title match (+20),general
