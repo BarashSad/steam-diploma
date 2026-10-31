@@ -18,3 +18,8 @@
 2026-08-03 15:01:06,848 [ERROR] Tavily query failed (site:instagram.com "Dead Zone Revive"): RetryError[<Future at 0x7f14bf7b7110 state=finished raised HTTPError>]
 2026-08-03 15:01:10,864 [ERROR] Tavily query failed (site:x.com "Dead Zone Revive"): RetryError[<Future at 0x7f14bf7b4110 state=finished raised HTTPError>]
 2026-08-03 15:01:14,880 [ERROR] Tavily query failed (site: "Dead Zone Revive"): RetryError[<Future at 0x7f14bf78f690 state=finished raised HTTPError>]
+2026-10-31 05:05:01,588 [ERROR] Tavily query failed (site:reddit.com "Drawquarium"): RetryError[<Future at 0x7f885819a090 state=finished raised HTTPError>]
+2026-10-31 05:05:05,846 [ERROR] Tavily query failed (site:tiktok.com "Drawquarium"): RetryError[<Future at 0x7f88581b1310 state=finished raised HTTPError>]
+2026-10-31 05:05:10,090 [ERROR] Tavily query failed (site:instagram.com "Drawquarium"): RetryError[<Future at 0x7f88581b2150 state=finished raised HTTPError>]
+2026-10-31 05:05:14,358 [ERROR] Tavily query failed (site:x.com "Drawquarium"): RetryError[<Future at 0x7f88581b3790 state=finished raised HTTPError>]
+2026-10-31 05:05:18,634 [ERROR] Tavily query failed (site: "Drawquarium"): RetryError[<Future at 0x7f88581b9650 state=finished raised HTTPError>]

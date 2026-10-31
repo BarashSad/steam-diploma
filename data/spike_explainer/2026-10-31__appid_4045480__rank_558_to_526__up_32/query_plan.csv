@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4045480,Drawquarium,"""Drawquarium"" Steam",general,1,tavily,True,,5
+4045480,Drawquarium,"""Drawquarium"" trailer",general,1,tavily,True,,5
+4045480,Drawquarium,"""Drawquarium"" gameplay",general,1,tavily,True,,5
+4045480,Drawquarium,"""Drawquarium"" demo",general,1,tavily,True,,5
+4045480,Drawquarium,"""Drawquarium"" release date",general,1,tavily,True,,5
+4045480,Drawquarium,"""Drawquarium"" announcement",general,1,tavily,True,,5
+4045480,Drawquarium,"""Drawquarium"" preview",general,1,tavily,True,,5
+4045480,Drawquarium,"""Drawquarium"" review",general,1,tavily,True,,5
+4045480,Drawquarium,"""Drawquarium"" publisher",general,1,tavily,True,,5
+4045480,Drawquarium,"""Drawquarium"" developer",general,1,tavily,True,,5
+4045480,Drawquarium,"site:pcgamer.com ""Drawquarium""",press,2,tavily,False,General budget exhausted,0
+4045480,Drawquarium,"site:rockpapershotgun.com ""Drawquarium""",press,2,tavily,False,General budget exhausted,0
+4045480,Drawquarium,"site:ign.com ""Drawquarium""",press,2,tavily,False,General budget exhausted,0
+4045480,Drawquarium,"site:gamespot.com ""Drawquarium""",press,2,tavily,False,General budget exhausted,0
+4045480,Drawquarium,"site:game8.co ""Drawquarium""",press,2,tavily,False,General budget exhausted,0
+4045480,Drawquarium,"site:reddit.com ""Drawquarium""",social,3,tavily,False,API Error: RetryError[<Future at 0x7f885819a090 state=finished raised HTTPError>],0
+4045480,Drawquarium,"site:tiktok.com ""Drawquarium""",social,4,tavily,False,API Error: RetryError[<Future at 0x7f88581b1310 state=finished raised HTTPError>],0
+4045480,Drawquarium,"site:instagram.com ""Drawquarium""",social,4,tavily,False,API Error: RetryError[<Future at 0x7f88581b2150 state=finished raised HTTPError>],0
+4045480,Drawquarium,"site:x.com ""Drawquarium""",social,4,tavily,False,API Error: RetryError[<Future at 0x7f88581b3790 state=finished raised HTTPError>],0
+4045480,Drawquarium,"site: ""Drawquarium""",social,4,tavily,False,API Error: RetryError[<Future at 0x7f88581b9650 state=finished raised HTTPError>],0

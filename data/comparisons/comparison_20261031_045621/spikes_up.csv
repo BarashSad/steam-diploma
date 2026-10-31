@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4045480,Drawquarium,Drawquarium,558,526,32,32,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 13, 2026","Nov 13, 2026",False
+5185890,Zombies Aren't Real,Zombies Aren't Real,735,713,22,22,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+2841710,Vermin,Vermin,999,977,22,22,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+5117550,Fart Together,Fart Together,924,904,20,20,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
