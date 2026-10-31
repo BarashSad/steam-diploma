@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5086460,PeeVPee,"""PeeVPee"" Steam",general,1,tavily,False,API Error: RetryError[<Future at 0x7f3612f98290 state=finished raised HTTPError>],0
+5086460,PeeVPee,"""PeeVPee"" trailer",general,1,tavily,False,API Error: RetryError[<Future at 0x7f3612f9bb90 state=finished raised HTTPError>],0
+5086460,PeeVPee,"""PeeVPee"" gameplay",general,1,tavily,False,API Error: RetryError[<Future at 0x7f3612fad210 state=finished raised HTTPError>],0
+5086460,PeeVPee,"""PeeVPee"" demo",general,1,tavily,False,API Error: RetryError[<Future at 0x7f3612fadfd0 state=finished raised HTTPError>],0
+5086460,PeeVPee,"""PeeVPee"" release date",general,1,tavily,False,API Error: RetryError[<Future at 0x7f3612faf610 state=finished raised HTTPError>],0
+5086460,PeeVPee,"""PeeVPee"" announcement",general,1,tavily,False,API Error: RetryError[<Future at 0x7f3612fb14d0 state=finished raised HTTPError>],0
+5086460,PeeVPee,"""PeeVPee"" preview",general,1,tavily,False,API Error: RetryError[<Future at 0x7f3612fb2310 state=finished raised HTTPError>],0
+5086460,PeeVPee,"""PeeVPee"" review",general,1,tavily,False,API Error: RetryError[<Future at 0x7f3612fb23d0 state=finished raised HTTPError>],0
+5086460,PeeVPee,"""PeeVPee"" publisher",general,1,tavily,False,API Error: RetryError[<Future at 0x7f3612fb38d0 state=finished raised HTTPError>],0
+5086460,PeeVPee,"""PeeVPee"" developer",general,1,tavily,False,API Error: RetryError[<Future at 0x7f3612fb3410 state=finished raised HTTPError>],0
+5086460,PeeVPee,"site:pcgamer.com ""PeeVPee""",press,2,tavily,False,API Error: RetryError[<Future at 0x7f3612fb2110 state=finished raised HTTPError>],0
+5086460,PeeVPee,"site:rockpapershotgun.com ""PeeVPee""",press,2,tavily,False,API Error: RetryError[<Future at 0x7f3612fb1510 state=finished raised HTTPError>],0
+5086460,PeeVPee,"site:ign.com ""PeeVPee""",press,2,tavily,False,API Error: RetryError[<Future at 0x7f3612fae710 state=finished raised HTTPError>],0
+5086460,PeeVPee,"site:gamespot.com ""PeeVPee""",press,2,tavily,False,API Error: RetryError[<Future at 0x7f3612fadb10 state=finished raised HTTPError>],0
+5086460,PeeVPee,"site:game8.co ""PeeVPee""",press,2,tavily,False,API Error: RetryError[<Future at 0x7f3612f9be90 state=finished raised HTTPError>],0
+5086460,PeeVPee,"site:reddit.com ""PeeVPee""",social,3,tavily,False,API Error: RetryError[<Future at 0x7f3612fb4050 state=finished raised HTTPError>],0
+5086460,PeeVPee,"site:tiktok.com ""PeeVPee""",social,4,tavily,False,API Error: RetryError[<Future at 0x7f3612fb6650 state=finished raised HTTPError>],0
+5086460,PeeVPee,"site:instagram.com ""PeeVPee""",social,4,tavily,False,API Error: RetryError[<Future at 0x7f3612fb6710 state=finished raised HTTPError>],0
+5086460,PeeVPee,"site:x.com ""PeeVPee""",social,4,tavily,False,API Error: RetryError[<Future at 0x7f3612fb6b10 state=finished raised HTTPError>],0
+5086460,PeeVPee,"site: ""PeeVPee""",social,4,tavily,False,API Error: RetryError[<Future at 0x7f3612fb6690 state=finished raised HTTPError>],0

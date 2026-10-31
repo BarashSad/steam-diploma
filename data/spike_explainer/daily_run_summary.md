@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Drawquarium
-Tavily Budget Used: 10
-Errors: 5
+Analyzed: PeeVPee
+Tavily Budget Used: 0
+Errors: 20

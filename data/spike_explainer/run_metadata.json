@@ -1,20 +1,20 @@
 {
-    "started_at": "2026-10-31T05:05:19.413875+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261031_045621/rank_changes.csv",
-    "selected_appid": "4045480",
-    "selected_game_title": "Drawquarium",
+    "started_at": "2026-10-31T17:15:58.995897+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261031_170510/rank_changes.csv",
+    "selected_appid": "5086460",
+    "selected_game_title": "PeeVPee",
     "top_n": 1,
     "old_snapshot_date": "2026-10-28",
     "new_snapshot_date": "2026-10-31",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
-    "tavily_queries_used": 10,
+    "tavily_queries_used": 0,
     "youtube_enabled": true,
     "youtube_queries_budget": 3,
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-10-31T05:05:19.413888+00:00",
-    "errors_count": 5,
-    "skipped_queries_count": 5
+    "finished_at": "2026-10-31T17:15:58.995911+00:00",
+    "errors_count": 20,
+    "skipped_queries_count": 0
 }

@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-10-31T17:15:59.098469+00:00",
+    "timestamp": "20261031_171559",
+    "input_file": "data/spike_explainer/2026-10-31__appid_5086460__rank_1097_to_1078__up_19/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-10-31__appid_5086460__rank_1097_to_1078__up_19/llm_outputs/gemini_20261031_171559.md",
+    "game_title": "PeeVPee",
+    "appid": "5086460",
+    "duration_sec": 22.01,
+    "response_length": 6237,
+    "error": null
+}
