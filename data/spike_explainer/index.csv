@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-01T05:33:16.545287+00:00,1686230,Mayday: The Survival Island,data/spike_explainer/2026-11-01__appid_1686230__rank_908_to_883__up_25,25,85,data/spike_explainer/2026-11-01__appid_1686230__rank_908_to_883__up_25/llm_summary_input.md
+2026-11-01T17:58:32.839885+00:00,4262460,ROB RUN,data/spike_explainer/2026-11-01__appid_4262460__rank_1079_to_963__up_116,116,75,data/spike_explainer/2026-11-01__appid_4262460__rank_1079_to_963__up_116/llm_summary_input.md

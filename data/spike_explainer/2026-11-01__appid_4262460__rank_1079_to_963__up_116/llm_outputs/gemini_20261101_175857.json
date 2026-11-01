@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-01T17:58:57.190637+00:00",
+    "timestamp": "20261101_175857",
+    "input_file": "data/spike_explainer/2026-11-01__appid_4262460__rank_1079_to_963__up_116/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-01__appid_4262460__rank_1079_to_963__up_116/llm_outputs/gemini_20261101_175857.md",
+    "game_title": "ROB RUN",
+    "appid": "4262460",
+    "duration_sec": 17.21,
+    "response_length": 6106,
+    "error": null
+}
