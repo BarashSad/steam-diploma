@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-01T05:33:40.692197+00:00",
+    "timestamp": "20261101_053340",
+    "input_file": "data/spike_explainer/2026-11-01__appid_1686230__rank_908_to_883__up_25/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-01__appid_1686230__rank_908_to_883__up_25/llm_outputs/gemini_20261101_053340.md",
+    "game_title": "Mayday: The Survival Island",
+    "appid": "1686230",
+    "duration_sec": 14.83,
+    "response_length": 6292,
+    "error": null
+}

@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: PeeVPee
-Tavily Budget Used: 0
-Errors: 20
+Analyzed: Mayday: The Survival Island
+Tavily Budget Used: 15
+Errors: 0

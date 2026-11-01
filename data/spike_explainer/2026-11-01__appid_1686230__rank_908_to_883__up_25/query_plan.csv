@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+1686230,Mayday: The Survival Island,"""Mayday: The Survival Island"" Steam",general,1,tavily,True,,5
+1686230,Mayday: The Survival Island,"""Mayday: The Survival Island"" trailer",general,1,tavily,True,,5
+1686230,Mayday: The Survival Island,"""Mayday: The Survival Island"" gameplay",general,1,tavily,True,,5
+1686230,Mayday: The Survival Island,"""Mayday: The Survival Island"" demo",general,1,tavily,True,,5
+1686230,Mayday: The Survival Island,"""Mayday: The Survival Island"" release date",general,1,tavily,True,,5
+1686230,Mayday: The Survival Island,"""Mayday: The Survival Island"" announcement",general,1,tavily,True,,5
+1686230,Mayday: The Survival Island,"""Mayday: The Survival Island"" preview",general,1,tavily,True,,5
+1686230,Mayday: The Survival Island,"""Mayday: The Survival Island"" review",general,1,tavily,True,,5
+1686230,Mayday: The Survival Island,"""Mayday: The Survival Island"" publisher",general,1,tavily,True,,5
+1686230,Mayday: The Survival Island,"""Mayday: The Survival Island"" developer",general,1,tavily,True,,5
+1686230,Mayday: The Survival Island,"site:pcgamer.com ""Mayday: The Survival Island""",press,2,tavily,False,General budget exhausted,0
+1686230,Mayday: The Survival Island,"site:rockpapershotgun.com ""Mayday: The Survival Island""",press,2,tavily,False,General budget exhausted,0
+1686230,Mayday: The Survival Island,"site:ign.com ""Mayday: The Survival Island""",press,2,tavily,False,General budget exhausted,0
+1686230,Mayday: The Survival Island,"site:gamespot.com ""Mayday: The Survival Island""",press,2,tavily,False,General budget exhausted,0
+1686230,Mayday: The Survival Island,"site:game8.co ""Mayday: The Survival Island""",press,2,tavily,False,General budget exhausted,0
+1686230,Mayday: The Survival Island,"site:reddit.com ""Mayday: The Survival Island""",social,3,tavily,True,,5
+1686230,Mayday: The Survival Island,"site:tiktok.com ""Mayday: The Survival Island""",social,4,tavily,True,,5
+1686230,Mayday: The Survival Island,"site:instagram.com ""Mayday: The Survival Island""",social,4,tavily,True,,5
+1686230,Mayday: The Survival Island,"site:x.com ""Mayday: The Survival Island""",social,4,tavily,True,,5
+1686230,Mayday: The Survival Island,"site: ""Mayday: The Survival Island""",social,4,tavily,True,,5
