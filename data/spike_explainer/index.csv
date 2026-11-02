@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-02T05:33:31.739192+00:00,3557890,Mann Versus Zombies,data/spike_explainer/2026-11-02__appid_3557890__rank_870_to_650__up_220,220,90,data/spike_explainer/2026-11-02__appid_3557890__rank_870_to_650__up_220/llm_summary_input.md
+2026-11-02T21:44:30.457738+00:00,3557890,Mann Versus Zombies,data/spike_explainer/2026-11-02__appid_3557890__rank_650_to_559__up_91,91,90,data/spike_explainer/2026-11-02__appid_3557890__rank_650_to_559__up_91/llm_summary_input.md

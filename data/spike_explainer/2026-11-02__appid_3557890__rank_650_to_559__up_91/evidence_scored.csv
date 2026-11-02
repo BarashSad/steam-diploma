@@ -1,0 +1,2091 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+3557890,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302243855,Mann Versus Zombies - Gameplay Trailer,,Watch it here in 4K!,"trailer, gameplay",90,very_strong,"Inside spike window (+30); Official Steam News (+20); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+3557890,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=lln253BWofo,Mann Versus Zombies - trailer theme,,Happy Halloween... again. https://soundcloud.com/optimus97-v3/mvz-trailer-theme Trailer: ...,trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+3557890,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=KQNzcfwZrCg,Mann Versus Zombies Gameplay Trailer Reaction | Poppa Benji,,"Watch Poppa Benji (also known as Papa Benji) react to Mann Versus Zombies - Gameplay Trailer. In this gaming reaction, Poppa ...","trailer, gameplay",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+3557890,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=RlWiHKstrI0,Gor&#39;s &quot;Mann Versus Zombies Gameplay Trailer by Breadworks &amp; ShorK&quot; REACTION,,Mann Versus Zombies Gameplay Trailer https://www.youtube.com/watch?v=2V3wsgg71u8 Join this channel to get access to ...,"trailer, gameplay",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+3557890,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=KQNzcfwZrCg,Mann Versus Zombies Gameplay Trailer Reaction | Poppa Benji,,"Watch Poppa Benji (also known as Papa Benji) react to Mann Versus Zombies - Gameplay Trailer. In this gaming reaction, Poppa ...","trailer, gameplay",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+3557890,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=RlWiHKstrI0,Gor&#39;s &quot;Mann Versus Zombies Gameplay Trailer by Breadworks &amp; ShorK&quot; REACTION,,Mann Versus Zombies Gameplay Trailer https://www.youtube.com/watch?v=2V3wsgg71u8 Join this channel to get access to ...,"trailer, gameplay",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+3557890,youtube_video,outside_window,https://www.youtube.com/watch?v=LawAg_pKivI,Mann Versus Zombies | Official Trailer,,"Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde ...",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+3557890,reddit_discussion,unknown_date,https://www.reddit.com/r/tf2/comments/1xkpu2u/mann_versus_zombies_gameplay_trailer,Mann Versus Zombies Gameplay Trailer : r/tf2 - Reddit,Mann Versus Zombies Gameplay Trailer ... Made a post about this TF2 Steam mod some months ago and they're back in time for Halloween with a,,"trailer, gameplay",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",social
+3557890,reddit_discussion,unknown_date,https://www.reddit.com/r/tf2/comments/1xkys89/are_yall_excited_for_mann_versus_zombies,Are y'all excited for Mann Versus Zombies? : r/tf2 - Reddit,"I saw The gameplay trailer for Mann Versus Zombies, wishlisted instantly wondering if anyone else did.",,"trailer, gameplay",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",social
+3557890,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=8pf45l9gTIM,TF2 Gets Free 8-Player Zombie Survival | Mann Versus Zombies,,Mann Versus Zombies is a free community-made Team Fortress 2 mod featuring 8-player zombie survival. Fight endless undead ...,,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+3557890,social_post,unknown_date,https://store.steampowered.com/app/3557890/Mann_Versus_Zombies,Mann Versus Zombies on Steam,"View Community Hub
+
+## About This Game
+
+Merasmus returns with more than a tide of blood. This time he possesses something far more malicious than his usual magic tricks. The Undead have arisen... with their rotting carcasses mangled, mutated, and hungry for the flesh of the living!
+
+Welcome to Mann Versus Zombies, a total-conversion Team Fortress 2 mod that transforms familiar battlefields into desperate last stands against endless waves of horrific creatures.
+
+## Survive the Hordes [...] All Games > Free To Play Games > Mann Versus Zombies
+
+Community Hub
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Developer
+
+Breadworks
+
+Publisher
+
+Breadworks
+
+Released
+
+Coming soon
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive... [...] Family Sharing
+
+Profile Features Limited   
+
+Languages:
+
+English and 4 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+| Dutch | ✔ |  |  |
+| Polish | ✔ |  |  |
+| Russian | ✔ |  |  |
+| Spanish - Latin America | ✔ |  |  |
+
+Title: Mann Versus Zombies  
+ Genre: Action, Free To Play  
+
+Developer: Breadworks
+
+Publisher: Breadworks
+
+Release Date: Coming soon",,release date,45,medium,Social Index (+5); Exact title match (+20); Keywords ['release date'] (+20),social
+3557890,social_post,unknown_date,https://steamcommunity.com/app/3557890,Steam Community :: Mann Versus Zombies,"Store Page
+
+Mann Versus Zombies
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Mann Versus Zombies
+
+Store Page
+
+8 in Group Chat;)
+
+8 in Group Chat;)
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive...
+
+Visit the Store Page [...] 简体中文 (Simplified Chinese)   繁體中文 (Traditional Chinese)   日本語 (Japanese)   한국어 (Korean)   ไทย (Thai)   Bahasa Indonesia (Indonesian)   Bahasa Melayu (Malay) BETA   Български (Bulgarian)   Čeština (Czech)   Dansk (Danish)   Deutsch (German)   Español - España (Spanish - Spain)   Español - Latinoamérica (Spanish - Latin America)   Ελληνικά (Greek)   Français (French)   Italiano (Italian)   Magyar (Hungarian)   Nederlands (Dutch)   Norsk (Norwegian)   Polski (Polish)   Português (Portuguese - [...] Most popular community and official content for the past week.  (?)
+
+Mann Versus Zombies - Gameplay Trailer
+
+31 Oct
+
+Watch it here in 4K!
+
+Mann Versus Zombies
+
+309
+
+36
+
+After watching the gameplay trailer, I came to something to tell.",,"trailer, gameplay",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",social
+3557890,web_result,unknown_date,https://store.steampowered.com/app/3557890/Mann_Versus_Zombies,Mann Versus Zombies on Steam,"View Community Hub
+
+## About This Game
+
+Merasmus returns with more than a tide of blood. This time he possesses something far more malicious than his usual magic tricks. The Undead have arisen... with their rotting carcasses mangled, mutated, and hungry for the flesh of the living!
+
+Welcome to Mann Versus Zombies, a total-conversion Team Fortress 2 mod that transforms familiar battlefields into desperate last stands against endless waves of horrific creatures.
+
+## Survive the Hordes [...] All Games > Free To Play Games > Mann Versus Zombies
+
+Community Hub
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Developer
+
+Breadworks
+
+Publisher
+
+Breadworks
+
+Released
+
+Coming soon
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive... [...] Family Sharing
+
+Profile Features Limited   
+
+Languages:
+
+English and 4 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+| Dutch | ✔ |  |  |
+| Polish | ✔ |  |  |
+| Russian | ✔ |  |  |
+| Spanish - Latin America | ✔ |  |  |
+
+Title: Mann Versus Zombies  
+ Genre: Action, Free To Play  
+
+Developer: Breadworks
+
+Publisher: Breadworks
+
+Release Date: Coming soon",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3557890,web_result,unknown_date,https://steamcommunity.com/app/3557890,Steam Community :: Mann Versus Zombies,"Store Page
+
+Mann Versus Zombies
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Mann Versus Zombies
+
+Store Page
+
+8 in Group Chat;)
+
+8 in Group Chat;)
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive...
+
+Visit the Store Page [...] Not a fan from it. The graphics looks like cartoonish and not realistic from like end of 10s. The upgrades and boosts sounds like from call of duty ripoff series. I'm sorry but for what I've seen, activision should make a dmca takedown against this game. It sounds like this game sounds like a huge ripoff from cod zombies....
+
+9
+
+[󠀡󠀡 󠀡󠀡
+
+5 hours ago](
+
+General Discussions
+
+Easter Eggs?
+
+Will this mod have Easter Eggs comparable to BO2/3/4 Zombies?
+
+3
+
+[Souljaboytellem
+
+4 hours ago]( [...] Most popular community and official content for the past week.  (?)
+
+Mann Versus Zombies - Gameplay Trailer
+
+31 Oct
+
+Watch it here in 4K!
+
+Mann Versus Zombies
+
+309
+
+36
+
+After watching the gameplay trailer, I came to something to tell.",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3557890,web_result,unknown_date,https://steamcommunity.com/app/3557890/discussions,Mann Versus Zombies General Discussions :: Steam Community,"Store Page
+
+Mann Versus Zombies
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Mann Versus Zombies
+
+Store Page
+
+Start a New Discussion
+
+START A NEW DISCUSSION
+
+You need to sign in or create an account to do that.
+
+< >
+
+Showing 1-15 of 51 active topics
+
+ 0
+
+17 Jun @ 6:31am
+
+PINNED: FAQ
+
+Breadworks
+
+ 43
+
+10
+
+2 hours ago
+
+This entire mod needs a rework.
+
+Gavitro
+
+ 0
+
+3 hours ago
+
+Females, Replay, and Playtests?
+
+bb mr. B anana
+
+ 3
+
+4 hours ago
+
+Easter Eggs? [...] Easter Eggs?
+
+Souljaboytellem
+
+ 1
+
+4 hours ago
+
+The point of classes?
+
+BrokenDoop
+
+ 0
+
+4 hours ago
+
+Will the classes have different attributes unique to this game?
+
+Hugh Jeffingcauck
+
+ 4
+
+5 hours ago
+
+Will zombies have buffs depending on their class
+
+RocketBoy7768
+
+ 9
+
+5 hours ago
+
+After watching the gameplay trailer, I came to something to tell.
+
+󠀡󠀡 󠀡󠀡
+
+ 1
+
+7 hours ago
+
+Release date - Estimate
+
+Savagesheep
+
+ 0
+
+8 hours ago
+
+Sentry Girl
+
+Haka
+
+ 6
+
+2
+
+9 hours ago
+
+Every weapon showcased so far [...] 简体中文 (Simplified Chinese)   繁體中文 (Traditional Chinese)   日本語 (Japanese)   한국어 (Korean)   ไทย (Thai)   Bahasa Indonesia (Indonesian)   Bahasa Melayu (Malay) BETA   Български (Bulgarian)   Čeština (Czech)   Dansk (Danish)   Deutsch (German)   Español - España (Spanish - Spain)   Español - Latinoamérica (Spanish - Latin America)   Ελληνικά (Greek)   Français (French)   Italiano (Italian)   Magyar (Hungarian)   Nederlands (Dutch)   Norsk (Norwegian)   Polski (Polish)   Português (Portuguese -",,"trailer, gameplay, release date, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'release date', 'showcase'] (+20)",general
+3557890,web_result,unknown_date,https://www.youtube.com/watch?v=LawAg_pKivI,Mann Versus Zombies | Official Trailer,"# Mann Versus Zombies | Official Trailer
+## Channel: Indie Game Radar
+3.6K subscribers
+39 likes
+
+### Description
+1,579 views
+Posted: 2026-05-22
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive...
+
+#indiegame #action #zombies",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+3557890,web_result,unknown_date,https://www.gamelandmag.com/mann-versus-zombies-turns-team-fortress-2-into-a-cooperative-zombie-survival-experience,Mann Versus Zombies turns Team Fortress 2 into a cooperative zombie survival experience | GameLandMag,"The trailer leans into a mixture of whimsy and grotesque—mercenaries rendered in a cartoony, macabre style that keeps the game’s personality intact while leaning into horror elements. It highlights brand-new weapons and zombified character variants, giving a taste of the mod’s stylistic direction. Although there is no live gameplay footage yet, the screenshots and cinematic segments combine to communicate pacing, enemy design, and the overall atmosphere the developers aim to create. [...] This announcement lives primarily on the mod’s Steam page, where the creators lay out features and share a trailer produced in Source Filmmaker. The trailer offers a cinematic glimpse rather than gameplay, using stylized scenes to showcase new weaponry and undead takes on the familiar mercenaries. The presentation is deliberately illustrative: it sells mood and concept more than mechanics, but the written feature list fills in the rest.
+
+## Core gameplay and features [...] The arrival of a mod like Mann Versus Zombies is the kind of news that tugs at long-standing Team Fortress 2 fans. For many players who remember late-night sessions and competitive scrambles, a conversion that swaps firefights for hordes of shambling enemies can feel both nostalgic and dangerously addictive. The project promises to reshape the original game into a distinct survival experience while preserving the things players care about most, like cosmetic items and class identity.",,"trailer, gameplay, announcement, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'announcement', 'showcase'] (+20)",general
+3557890,web_result,unknown_date,https://steamcommunity.com/app/3557890,Steam Community :: Mann Versus Zombies,"Most popular community and official content for the past week.  (?)
+
+Mann Versus Zombies - Gameplay Trailer
+
+31 Oct
+
+Watch it here in 4K!
+
+Mann Versus Zombies
+
+309
+
+36
+
+After watching the gameplay trailer, I came to something to tell. [...] 4 hours ago](
+
+General Discussions
+
+The point of classes?
+
+I know from the trailer and screenshots it seems like certain classes can do certain things. Do we know how this will work exactly and what each class can actually do or no?
+
+1
+
+[BrokenDoop
+
+4 hours ago](
+
+General Discussions
+
+Release date - Estimate
+
+Is there any idea on a time for release? Is it soon or late? At the start or end of 2027?
+
+1
+
+[Savagesheep
+
+7 hours ago](
+
+General Discussions
+
+Linux support? [...] Store Page
+
+Mann Versus Zombies
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Mann Versus Zombies
+
+Store Page
+
+8 in Group Chat;)
+
+8 in Group Chat;)
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive...
+
+Visit the Store Page",,"trailer, gameplay, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'release date'] (+20)",general
+3557890,web_result,unknown_date,https://www.youtube.com/watch?v=lln253BWofo,Mann Versus Zombies - trailer theme,"# Mann Versus Zombies - trailer theme
+## Channel: Optimus97
+13.5K subscribers
+95 likes
+
+### Description
+1,163 views
+Posted: 2026-11-01
+Happy Halloween... again.   / mvz-trailer-theme  
+Trailer:    • Mann Versus Zombies - Gameplay Trailer",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3557890,web_result,unknown_date,https://www.youtube.com/watch?v=RlWiHKstrI0,"Gor's ""Mann Versus Zombies Gameplay Trailer by Breadworks & ShorK"" REACTION","# Gor's ""Mann Versus Zombies Gameplay Trailer by Breadworks & ShorK"" REACTION
+## Channel: GorTheMovieGod (verified)
+203K subscribers
+39 likes
+
+### Description
+2,125 views
+Posted: 2026-11-01
+Mann Versus Zombies Gameplay Trailer
+   • Mann Versus Zombies - Gameplay Trailer  
+
+Join this channel to get access to perks:
+   / @gorthemoviegod  
+
+Shoutouts to my current channel members! Will update list soon
+
+Follow me on Twitter:   / gorthemoviegod  
+
+BUSINESS ENQUIRIES: gorthemoviegod@hotmail.com [...] ### Transcript
+[0:00] Hey, what's up people? How you doing?
+[0:02] Welcome to another reaction video for today and it's time for Man Versus Zambies uh gameplay trailer. Of course,
+[0:10] this is a I would assume a mod because bread works and short sh
+[0:20] um so I'm assuming I could be wrong but you know anyway just popped up. Uh, I know Man Versus Machines, you know, all [...] [4:58] Maybe they still do that. But uh I think I watched one or two animations uh that won whatever that award was. If anybody knows what I'm talking about.
+[5:07] Anyway, there go. That's it. That's from Bread Works and Shark Shark Man vs Zombies gameplay trailer. That looks awesome. Anyway, that's it.",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3557890,web_result,unknown_date,https://store.steampowered.com/app/3557890/Mann_Versus_Zombies,Mann Versus Zombies on Steam,"View Community Hub
+
+## About This Game
+
+Merasmus returns with more than a tide of blood. This time he possesses something far more malicious than his usual magic tricks. The Undead have arisen... with their rotting carcasses mangled, mutated, and hungry for the flesh of the living!
+
+Welcome to Mann Versus Zombies, a total-conversion Team Fortress 2 mod that transforms familiar battlefields into desperate last stands against endless waves of horrific creatures.
+
+## Survive the Hordes [...] All Games > Free To Play Games > Mann Versus Zombies
+
+Community Hub
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Developer
+
+Breadworks
+
+Publisher
+
+Breadworks
+
+Released
+
+Coming soon
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive... [...] Contains cartoony depictions of blood, dismemberment and gore during gameplay. These can be disabled in settings.  
+ Online lobbies are solely user-operated.
+
+## System Requirements
+
+Minimum:",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+3557890,web_result,unknown_date,https://steamcommunity.com/app/3557890,Steam Community :: Mann Versus Zombies,"Most popular community and official content for the past week.  (?)
+
+Mann Versus Zombies - Gameplay Trailer
+
+31 Oct
+
+Watch it here in 4K!
+
+Mann Versus Zombies
+
+309
+
+36
+
+After watching the gameplay trailer, I came to something to tell. [...] Store Page
+
+Mann Versus Zombies
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Mann Versus Zombies
+
+Store Page
+
+8 in Group Chat;)
+
+8 in Group Chat;)
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive...
+
+Visit the Store Page [...] Not a fan from it. The graphics looks like cartoonish and not realistic from like end of 10s. The upgrades and boosts sounds like from call of duty ripoff series. I'm sorry but for what I've seen, activision should make a dmca takedown against this game. It sounds like this game sounds like a huge ripoff from cod zombies....
+
+9
+
+[󠀡󠀡 󠀡󠀡
+
+5 hours ago](
+
+General Discussions
+
+Easter Eggs?
+
+Will this mod have Easter Eggs comparable to BO2/3/4 Zombies?
+
+3
+
+[Souljaboytellem
+
+4 hours ago](",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3557890,web_result,unknown_date,https://www.youtube.com/watch?v=2V3wsgg71u8,Mann Versus Zombies - Gameplay Trailer,"# Mann Versus Zombies - Gameplay Trailer
+55K likes
+
+### Description
+964,400 views
+Posted: 2026-10-31
+Wishlist on Steam: 
+
+Discord:   / discord  
+Twitter (X): 
+Instagram:   / breadworksteam  
+TikTok:   / breadworksteam  
+
+#tf2 #teamfortress2 #valve #gaming",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3557890,web_result,unknown_date,https://steamcommunity.com/app/3557890/discussions,Mann Versus Zombies General Discussions :: Steam Community,"Easter Eggs?
+
+Souljaboytellem
+
+ 1
+
+4 hours ago
+
+The point of classes?
+
+BrokenDoop
+
+ 0
+
+4 hours ago
+
+Will the classes have different attributes unique to this game?
+
+Hugh Jeffingcauck
+
+ 4
+
+5 hours ago
+
+Will zombies have buffs depending on their class
+
+RocketBoy7768
+
+ 9
+
+5 hours ago
+
+After watching the gameplay trailer, I came to something to tell.
+
+󠀡󠀡 󠀡󠀡
+
+ 1
+
+7 hours ago
+
+Release date - Estimate
+
+Savagesheep
+
+ 0
+
+8 hours ago
+
+Sentry Girl
+
+Haka
+
+ 6
+
+2
+
+9 hours ago
+
+Every weapon showcased so far [...] Store Page
+
+Mann Versus Zombies
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Mann Versus Zombies
+
+Store Page
+
+Start a New Discussion
+
+START A NEW DISCUSSION
+
+You need to sign in or create an account to do that.
+
+< >
+
+Showing 1-15 of 51 active topics
+
+ 0
+
+17 Jun @ 6:31am
+
+PINNED: FAQ
+
+Breadworks
+
+ 43
+
+10
+
+2 hours ago
+
+This entire mod needs a rework.
+
+Gavitro
+
+ 0
+
+3 hours ago
+
+Females, Replay, and Playtests?
+
+bb mr. B anana
+
+ 3
+
+4 hours ago
+
+Easter Eggs? [...] 简体中文 (Simplified Chinese)   繁體中文 (Traditional Chinese)   日本語 (Japanese)   한국어 (Korean)   ไทย (Thai)   Bahasa Indonesia (Indonesian)   Bahasa Melayu (Malay) BETA   Български (Bulgarian)   Čeština (Czech)   Dansk (Danish)   Deutsch (German)   Español - España (Spanish - Spain)   Español - Latinoamérica (Spanish - Latin America)   Ελληνικά (Greek)   Français (French)   Italiano (Italian)   Magyar (Hungarian)   Nederlands (Dutch)   Norsk (Norwegian)   Polski (Polish)   Português (Portuguese -",,"trailer, gameplay, release date, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'release date', 'showcase'] (+20)",general
+3557890,web_result,unknown_date,https://www.techtimes.com/articles/329825/20261101/free-tf2-mod-mann-versus-zombies-brings-8-player-horde-survival-steam.htm,Free TF2 Mod Mann Versus Zombies Brings 8-Player Horde Survival to Steam,"The mechanical template for _Mann Versus Zombies_ draws heavily from Call of Duty's Zombies mode — a design lineage the developer makes no effort to disguise. Players start with only a sidearm. From there, the loop is: survive a wave, earn in-game currency, buy or upgrade weapons, prepare for the next wave — which arrives harder and more numerous than the last. [...] What separates _Mann Versus Zombies_ from Team Fortress 2's existing PvE mode, Mann vs. Machine, is structural. Mann vs. Machine features fixed robot-wave sets with a bomb-delivery objective, supports a maximum of six players, and in its advanced tier requires paid Tickets for each attempt. _Mann Versus Zombies_ has no terminal wave — the horde never stops — supports up to eight players at no cost, and positions team coordination around barricade repair rather than bomb interception. As [...] The mercenaries — Spy, Scout, Heavy, Engineer, and the rest — find themselves no longer fighting each other but fighting together to survive. They appear in zombified form in the teaser trailer, rendered in the same exaggerated slapstick aesthetic that has made the TF2 cast beloved for nearly two decades, now repurposed for dread rather than comedy. The central dramatic question is survival: how many waves can a squad endure before the barricades give out, the perks are depleted, and the horde",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+3557890,web_result,unknown_date,https://www.youtube.com/watch?v=YgAYfNF1hi0,Mann Versus Zombies - 215th Stream,"[2:45:34] [ __ ]
+[2:45:44] going that's a demo demo manate
+[2:45:57] attack money we got to get no no no no no no
+[2:46:15] no mo is dead boys we lost
+[2:46:23] [ __ ]
+[2:46:28] nice down I bet you
+[2:46:54] sentri going up moving
+[2:47:03] out down alive
+[2:47:20] [Music]
+[2:47:23] I'm moving this much no going
+[2:47:35] up kick his
+[2:47:46] ass money
+[2:48:03] got Heavies
+[2:48:12] [ __ ] I killed the money
+[2:48:23] man I need help help
+[2:48:34] [Music] [...] [5:33:50] spy the Scout is a spy the Scout is a spy
+[5:33:58] Spy the Scout is a spy the Scout is a spy Scout is a spy
+[5:34:07] hyro is a spy dis the freaking heav is a
+[5:34:18] [Music]
+[5:34:35] spy yeah
+[5:34:45] spy hey yeah incoming
+[5:35:14] need a Sentry here ining that Demo Man is
+[5:35:22] as yes I'm going to
+[5:35:32] blood thanks mate the p a blood
+[5:35:38] Hi friend and yes I saw you uh join bong now I can actually read your name which is [...] [1:48:02] [Music]
+[1:48:05] it I'm moving this heavy go
+[1:48:13] on moving out why don't you destroy your buildings and just put them over there man you're
+[1:48:20] all right but this is just like like Manhattan but it's the nightmare nightmare version with a few tweaks and
+[1:48:27] upgrades so same exact layout same design with with a few minor changes in
+[1:48:34] details a Walton sent me sent me a link to something yeah no problem take it",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3557890,web_result,unknown_date,https://store.steampowered.com/app/3557890/Mann_Versus_Zombies,Mann Versus Zombies on Steam,"View Community Hub
+
+## About This Game
+
+Merasmus returns with more than a tide of blood. This time he possesses something far more malicious than his usual magic tricks. The Undead have arisen... with their rotting carcasses mangled, mutated, and hungry for the flesh of the living!
+
+Welcome to Mann Versus Zombies, a total-conversion Team Fortress 2 mod that transforms familiar battlefields into desperate last stands against endless waves of horrific creatures.
+
+## Survive the Hordes [...] All Games > Free To Play Games > Mann Versus Zombies
+
+Community Hub
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Developer
+
+Breadworks
+
+Publisher
+
+Breadworks
+
+Released
+
+Coming soon
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive... [...] Family Sharing
+
+Profile Features Limited   
+
+Languages:
+
+English and 4 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+| Dutch | ✔ |  |  |
+| Polish | ✔ |  |  |
+| Russian | ✔ |  |  |
+| Spanish - Latin America | ✔ |  |  |
+
+Title: Mann Versus Zombies  
+ Genre: Action, Free To Play  
+
+Developer: Breadworks
+
+Publisher: Breadworks
+
+Release Date: Coming soon",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3557890,web_result,unknown_date,https://www.youtube.com/watch?v=2V3wsgg71u8,Mann Versus Zombies - Gameplay Trailer,"# Mann Versus Zombies - Gameplay Trailer
+55K likes
+
+### Description
+964,400 views
+Posted: 2026-10-31
+Wishlist on Steam: 
+
+Discord:   / discord  
+Twitter (X): 
+Instagram:   / breadworksteam  
+TikTok:   / breadworksteam  
+
+#tf2 #teamfortress2 #valve #gaming",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3557890,web_result,unknown_date,https://steamcommunity.com/app/3557890,Steam Community :: Mann Versus Zombies,"Most popular community and official content for the past week.  (?)
+
+Mann Versus Zombies - Gameplay Trailer
+
+31 Oct
+
+Watch it here in 4K!
+
+Mann Versus Zombies
+
+309
+
+36
+
+After watching the gameplay trailer, I came to something to tell. [...] Store Page
+
+Mann Versus Zombies
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Mann Versus Zombies
+
+Store Page
+
+8 in Group Chat;)
+
+8 in Group Chat;)
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive...
+
+Visit the Store Page [...] Not a fan from it. The graphics looks like cartoonish and not realistic from like end of 10s. The upgrades and boosts sounds like from call of duty ripoff series. I'm sorry but for what I've seen, activision should make a dmca takedown against this game. It sounds like this game sounds like a huge ripoff from cod zombies....
+
+9
+
+[󠀡󠀡 󠀡󠀡
+
+5 hours ago](
+
+General Discussions
+
+Easter Eggs?
+
+Will this mod have Easter Eggs comparable to BO2/3/4 Zombies?
+
+3
+
+[Souljaboytellem
+
+4 hours ago](",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3557890,web_result,unknown_date,https://www.techtimes.com/articles/329825/20261101/free-tf2-mod-mann-versus-zombies-brings-8-player-horde-survival-steam.htm,Free TF2 Mod Mann Versus Zombies Brings 8-Player Horde Survival to Steam,"_Mann Versus Zombies_ has arrived at what may be the most advantageous possible window for TF2 fan projects. Scream Fortress XVIII — TF2's eighteenth annual Halloween event — launched on October 1, 2026 and runs through November 7, bringing five community-created Halloween maps and a Haunted Hoard Case to the game's active player base. The timing puts _Mann Versus Zombies_' wishlist campaign directly in front of TF2's most engaged seasonal audience, at the exact moment players are already [...] ### When does Mann Versus Zombies actually come out?
+
+No release date has been confirmed. The Steam page shows ""Coming Soon"" with no window announced. Breadworks is active on social media (@breadworksteam) and Discord for updates. Adding the game to your Steam wishlist will trigger a notification when the launch date is announced.
+
+ⓒ 2026 TECHTIMES.com All rights reserved. Do not reproduce without permission.
+
+Tags:Team Fortress 2ValveSteam
+
+Join the Discussion
+
+Most Popular [...] , which launched on Steam on January 30, 2026 and drew thousands of day-one players. _Mann Versus Zombies_ belongs to the same new class of product: a Steam-listed, free-to-play standalone game that requires TF2 — itself free since 2011 — as its only prerequisite.
+
+### Merasmus Tears Open the Veil of Death",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3557890,web_result,unknown_date,https://steamcommunity.com/app/3557890/discussions/0/567037624436435236,FAQ :: Mann Versus Zombies General Discussions,"When is it releasing?  
+We will share a specific date when we are ready. It will not take years.  
+  
+Is it free?  
+Yes, and there won't be any microtransactions.  
+  
+How long has Mann Versus Zombies been in development for?  
+Development started in February 2024, originally as a collection of workshop maps. We switched to the TF2 SDK when it released.  
+  
+Is this MvM/L4D2? [...] <;) >;)
+
+Showing 1-0 of 0 comments
+
+<;) >;)
+
+Showing 1-0 of 0 comments
+
+Mann Versus Zombies > General Discussions > Topic Details
+
+Date Posted: 17 Jun @ 6:31am
+
+Posts: 0
+
+ Discussions Rules and Guidelines
+
+More discussions
+
+ 0
+
+Patreon?
+
+ 35
+
+This entire mod needs a rework.
+
+ 0
+
+That trailer?
+
+ 0
+
+Black ops zombies and tf2 have a baby
+
+Close)
+
+## Report this post
+
+Note: This is ONLY to be used to report spam, advertising, and problematic (harassment, fighting, or rude) posts. [...] Is this MvM/L4D2?  
+Mann Versus Zombies is not a MvM mission, and it isn't a L4D2 campaign. Gameplay footage will be shown later this year.  
+  
+Will there be a public beta test/early access?  
+There are regular private playtests and we will invite more people later on. The game will not release in early access.  
+  
+Will there be dedicated servers?",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3557890,web_result,unknown_date,https://store.steampowered.com/app/3557890/Mann_Versus_Zombies,Mann Versus Zombies on Steam,"Family Sharing
+
+Profile Features Limited   
+
+Languages:
+
+English and 4 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+| Dutch | ✔ |  |  |
+| Polish | ✔ |  |  |
+| Russian | ✔ |  |  |
+| Spanish - Latin America | ✔ |  |  |
+
+Title: Mann Versus Zombies  
+ Genre: Action, Free To Play  
+
+Developer: Breadworks
+
+Publisher: Breadworks
+
+Release Date: Coming soon [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+Coming soon
+
+Developer:
+
+Breadworks
+
+Publisher:
+
+Breadworks
+
+Tags
+
+Popular user-defined tags for this product:
+
+Free to Play  Action  Zombies  FPS  Co-op  Shooter  Multiplayer  Singleplayer  Mod 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player
+
+Online Co-op
+
+LAN Co-op
+
+Steam Cloud
+
+Includes level editor
+
+Includes Source SDK
+
+Family Sharing [...] All Games > Free To Play Games > Mann Versus Zombies
+
+Community Hub
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Developer
+
+Breadworks
+
+Publisher
+
+Breadworks
+
+Released
+
+Coming soon
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive...",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3557890,web_result,unknown_date,https://www.youtube.com/watch?v=LawAg_pKivI,Mann Versus Zombies | Official Trailer,"# Mann Versus Zombies | Official Trailer
+## Channel: Indie Game Radar
+3.6K subscribers
+39 likes
+
+### Description
+1,579 views
+Posted: 2026-05-22
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive...
+
+#indiegame #action #zombies",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+3557890,web_result,unknown_date,https://steamcommunity.com/app/3557890/discussions,Mann Versus Zombies General Discussions :: Steam Community,"Easter Eggs?
+
+Souljaboytellem
+
+ 1
+
+4 hours ago
+
+The point of classes?
+
+BrokenDoop
+
+ 0
+
+4 hours ago
+
+Will the classes have different attributes unique to this game?
+
+Hugh Jeffingcauck
+
+ 4
+
+5 hours ago
+
+Will zombies have buffs depending on their class
+
+RocketBoy7768
+
+ 9
+
+5 hours ago
+
+After watching the gameplay trailer, I came to something to tell.
+
+󠀡󠀡 󠀡󠀡
+
+ 1
+
+7 hours ago
+
+Release date - Estimate
+
+Savagesheep
+
+ 0
+
+8 hours ago
+
+Sentry Girl
+
+Haka
+
+ 6
+
+2
+
+9 hours ago
+
+Every weapon showcased so far [...] Store Page
+
+Mann Versus Zombies
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Mann Versus Zombies
+
+Store Page
+
+Start a New Discussion
+
+START A NEW DISCUSSION
+
+You need to sign in or create an account to do that.
+
+< >
+
+Showing 1-15 of 51 active topics
+
+ 0
+
+17 Jun @ 6:31am
+
+PINNED: FAQ
+
+Breadworks
+
+ 43
+
+10
+
+2 hours ago
+
+This entire mod needs a rework.
+
+Gavitro
+
+ 0
+
+3 hours ago
+
+Females, Replay, and Playtests?
+
+bb mr. B anana
+
+ 3
+
+4 hours ago
+
+Easter Eggs? [...] 简体中文 (Simplified Chinese)   繁體中文 (Traditional Chinese)   日本語 (Japanese)   한국어 (Korean)   ไทย (Thai)   Bahasa Indonesia (Indonesian)   Bahasa Melayu (Malay) BETA   Български (Bulgarian)   Čeština (Czech)   Dansk (Danish)   Deutsch (German)   Español - España (Spanish - Spain)   Español - Latinoamérica (Spanish - Latin America)   Ελληνικά (Greek)   Français (French)   Italiano (Italian)   Magyar (Hungarian)   Nederlands (Dutch)   Norsk (Norwegian)   Polski (Polish)   Português (Portuguese -",,"trailer, gameplay, release date, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'release date', 'showcase'] (+20)",general
+3557890,web_result,unknown_date,https://www.techtimes.com/articles/329825/20261101/free-tf2-mod-mann-versus-zombies-brings-8-player-horde-survival-steam.htm,Free TF2 Mod Mann Versus Zombies Brings 8-Player Horde Survival to Steam,"_Mann Versus Zombies_ has arrived at what may be the most advantageous possible window for TF2 fan projects. Scream Fortress XVIII — TF2's eighteenth annual Halloween event — launched on October 1, 2026 and runs through November 7, bringing five community-created Halloween maps and a Haunted Hoard Case to the game's active player base. The timing puts _Mann Versus Zombies_' wishlist campaign directly in front of TF2's most engaged seasonal audience, at the exact moment players are already [...] The mercenaries — Spy, Scout, Heavy, Engineer, and the rest — find themselves no longer fighting each other but fighting together to survive. They appear in zombified form in the teaser trailer, rendered in the same exaggerated slapstick aesthetic that has made the TF2 cast beloved for nearly two decades, now repurposed for dread rather than comedy. The central dramatic question is survival: how many waves can a squad endure before the barricades give out, the perks are depleted, and the horde [...] ### When does Mann Versus Zombies actually come out?
+
+No release date has been confirmed. The Steam page shows ""Coming Soon"" with no window announced. Breadworks is active on social media (@breadworksteam) and Discord for updates. Adding the game to your Steam wishlist will trigger a notification when the launch date is announced.
+
+ⓒ 2026 TECHTIMES.com All rights reserved. Do not reproduce without permission.
+
+Tags:Team Fortress 2ValveSteam
+
+Join the Discussion
+
+Most Popular",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+3557890,web_result,unknown_date,https://store.steampowered.com/app/3557890/Mann_Versus_Zombies,Mann Versus Zombies on Steam,"View Community Hub
+
+## About This Game
+
+Merasmus returns with more than a tide of blood. This time he possesses something far more malicious than his usual magic tricks. The Undead have arisen... with their rotting carcasses mangled, mutated, and hungry for the flesh of the living!
+
+Welcome to Mann Versus Zombies, a total-conversion Team Fortress 2 mod that transforms familiar battlefields into desperate last stands against endless waves of horrific creatures.
+
+## Survive the Hordes [...] All Games > Free To Play Games > Mann Versus Zombies
+
+Community Hub
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Developer
+
+Breadworks
+
+Publisher
+
+Breadworks
+
+Released
+
+Coming soon
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive... [...] Family Sharing
+
+Profile Features Limited   
+
+Languages:
+
+English and 4 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+| Dutch | ✔ |  |  |
+| Polish | ✔ |  |  |
+| Russian | ✔ |  |  |
+| Spanish - Latin America | ✔ |  |  |
+
+Title: Mann Versus Zombies  
+ Genre: Action, Free To Play  
+
+Developer: Breadworks
+
+Publisher: Breadworks
+
+Release Date: Coming soon",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3557890,web_result,unknown_date,https://steamcommunity.com/app/3557890,Steam Community :: Mann Versus Zombies,"Store Page
+
+Mann Versus Zombies
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Mann Versus Zombies
+
+Store Page
+
+8 in Group Chat;)
+
+8 in Group Chat;)
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive...
+
+Visit the Store Page [...] Most popular community and official content for the past week.  (?)
+
+Mann Versus Zombies - Gameplay Trailer
+
+31 Oct
+
+Watch it here in 4K!
+
+Mann Versus Zombies
+
+309
+
+36
+
+After watching the gameplay trailer, I came to something to tell. [...] Not a fan from it. The graphics looks like cartoonish and not realistic from like end of 10s. The upgrades and boosts sounds like from call of duty ripoff series. I'm sorry but for what I've seen, activision should make a dmca takedown against this game. It sounds like this game sounds like a huge ripoff from cod zombies....
+
+9
+
+[󠀡󠀡 󠀡󠀡
+
+5 hours ago](
+
+General Discussions
+
+Easter Eggs?
+
+Will this mod have Easter Eggs comparable to BO2/3/4 Zombies?
+
+3
+
+[Souljaboytellem
+
+4 hours ago](",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3557890,web_result,unknown_date,https://www.facebook.com/lambdageneration/posts/watch-the-gameplay-trailer-of-mann-versus-zombies-a-team-fortress-2-mod-where-yo/1576056901234871,Watch the gameplay trailer of Mann Versus Zombies ...,"Watch the gameplay trailer of Mann Versus Zombies!, a Team Fortress 2 mod where you play against endless waves of zombies, new weapons, perks, ...Read more",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3557890,web_result,unknown_date,https://steamcommunity.com/app/3557890,Steam Community :: Mann Versus Zombies,"Most popular community and official content for the past week.  (?)
+
+Mann Versus Zombies - Gameplay Trailer
+
+31 Oct
+
+Watch it here in 4K!
+
+Mann Versus Zombies
+
+309
+
+36
+
+After watching the gameplay trailer, I came to something to tell. [...] Store Page
+
+Mann Versus Zombies
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Mann Versus Zombies
+
+Store Page
+
+8 in Group Chat;)
+
+8 in Group Chat;)
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive...
+
+Visit the Store Page [...] Not a fan from it. The graphics looks like cartoonish and not realistic from like end of 10s. The upgrades and boosts sounds like from call of duty ripoff series. I'm sorry but for what I've seen, activision should make a dmca takedown against this game. It sounds like this game sounds like a huge ripoff from cod zombies....
+
+9
+
+[󠀡󠀡 󠀡󠀡
+
+5 hours ago](
+
+General Discussions
+
+Easter Eggs?
+
+Will this mod have Easter Eggs comparable to BO2/3/4 Zombies?
+
+3
+
+[Souljaboytellem
+
+4 hours ago](",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3557890,web_result,unknown_date,https://www.youtube.com/watch?v=lln253BWofo,Mann Versus Zombies - trailer theme,"# Mann Versus Zombies - trailer theme
+## Channel: Optimus97
+13.5K subscribers
+95 likes
+
+### Description
+1,163 views
+Posted: 2026-11-01
+Happy Halloween... again.   / mvz-trailer-theme  
+Trailer:    • Mann Versus Zombies - Gameplay Trailer",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3557890,web_result,unknown_date,https://steamcommunity.com/app/3557890,Steam Community :: Mann Versus Zombies,"Store Page
+
+Mann Versus Zombies
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Mann Versus Zombies
+
+Store Page
+
+8 in Group Chat;)
+
+8 in Group Chat;)
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive...
+
+Visit the Store Page [...] Not a fan from it. The graphics looks like cartoonish and not realistic from like end of 10s. The upgrades and boosts sounds like from call of duty ripoff series. I'm sorry but for what I've seen, activision should make a dmca takedown against this game. It sounds like this game sounds like a huge ripoff from cod zombies....
+
+9
+
+[󠀡󠀡 󠀡󠀡
+
+5 hours ago](
+
+General Discussions
+
+Easter Eggs?
+
+Will this mod have Easter Eggs comparable to BO2/3/4 Zombies?
+
+3
+
+[Souljaboytellem
+
+4 hours ago]( [...] Most popular community and official content for the past week.  (?)
+
+Mann Versus Zombies - Gameplay Trailer
+
+31 Oct
+
+Watch it here in 4K!
+
+Mann Versus Zombies
+
+309
+
+36
+
+After watching the gameplay trailer, I came to something to tell.",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3557890,web_result,unknown_date,https://store.steampowered.com/app/3557890/Mann_Versus_Zombies,Mann Versus Zombies on Steam,"View Community Hub
+
+## About This Game
+
+Merasmus returns with more than a tide of blood. This time he possesses something far more malicious than his usual magic tricks. The Undead have arisen... with their rotting carcasses mangled, mutated, and hungry for the flesh of the living!
+
+Welcome to Mann Versus Zombies, a total-conversion Team Fortress 2 mod that transforms familiar battlefields into desperate last stands against endless waves of horrific creatures.
+
+## Survive the Hordes [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+Coming soon
+
+Developer:
+
+Breadworks
+
+Publisher:
+
+Breadworks
+
+Tags
+
+Popular user-defined tags for this product:
+
+Free to Play  Action  Zombies  FPS  Co-op  Shooter  Multiplayer  Singleplayer  Mod 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player
+
+Online Co-op
+
+LAN Co-op
+
+Steam Cloud
+
+Includes level editor
+
+Includes Source SDK
+
+Family Sharing [...] All Games > Free To Play Games > Mann Versus Zombies
+
+Community Hub
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Developer
+
+Breadworks
+
+Publisher
+
+Breadworks
+
+Released
+
+Coming soon
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive...",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3557890,web_result,unknown_date,https://steamcommunity.com/app/3557890/discussions,Mann Versus Zombies General Discussions :: Steam Community,"Store Page
+
+Mann Versus Zombies
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Mann Versus Zombies
+
+Store Page
+
+Start a New Discussion
+
+START A NEW DISCUSSION
+
+You need to sign in or create an account to do that.
+
+< >
+
+Showing 1-15 of 51 active topics
+
+ 0
+
+17 Jun @ 6:31am
+
+PINNED: FAQ
+
+Breadworks
+
+ 43
+
+10
+
+2 hours ago
+
+This entire mod needs a rework.
+
+Gavitro
+
+ 0
+
+3 hours ago
+
+Females, Replay, and Playtests?
+
+bb mr. B anana
+
+ 3
+
+4 hours ago
+
+Easter Eggs? [...] Easter Eggs?
+
+Souljaboytellem
+
+ 1
+
+4 hours ago
+
+The point of classes?
+
+BrokenDoop
+
+ 0
+
+4 hours ago
+
+Will the classes have different attributes unique to this game?
+
+Hugh Jeffingcauck
+
+ 4
+
+5 hours ago
+
+Will zombies have buffs depending on their class
+
+RocketBoy7768
+
+ 9
+
+5 hours ago
+
+After watching the gameplay trailer, I came to something to tell.
+
+󠀡󠀡 󠀡󠀡
+
+ 1
+
+7 hours ago
+
+Release date - Estimate
+
+Savagesheep
+
+ 0
+
+8 hours ago
+
+Sentry Girl
+
+Haka
+
+ 6
+
+2
+
+9 hours ago
+
+Every weapon showcased so far [...] 简体中文 (Simplified Chinese)   繁體中文 (Traditional Chinese)   日本語 (Japanese)   한국어 (Korean)   ไทย (Thai)   Bahasa Indonesia (Indonesian)   Bahasa Melayu (Malay) BETA   Български (Bulgarian)   Čeština (Czech)   Dansk (Danish)   Deutsch (German)   Español - España (Spanish - Spain)   Español - Latinoamérica (Spanish - Latin America)   Ελληνικά (Greek)   Français (French)   Italiano (Italian)   Magyar (Hungarian)   Nederlands (Dutch)   Norsk (Norwegian)   Polski (Polish)   Português (Portuguese -",,"trailer, gameplay, release date, showcase",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'release date', 'showcase'] (+20)",general
+3557890,web_result,unknown_date,https://store.steampowered.com/app/3557890/Mann_Versus_Zombies,Mann Versus Zombies on Steam,"Family Sharing
+
+Profile Features Limited   
+
+Languages:
+
+English and 4 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+| Dutch | ✔ |  |  |
+| Polish | ✔ |  |  |
+| Russian | ✔ |  |  |
+| Spanish - Latin America | ✔ |  |  |
+
+Title: Mann Versus Zombies  
+ Genre: Action, Free To Play  
+
+Developer: Breadworks
+
+Publisher: Breadworks
+
+Release Date: Coming soon [...] All Games > Free To Play Games > Mann Versus Zombies
+
+Community Hub
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Developer
+
+Breadworks
+
+Publisher
+
+Breadworks
+
+Released
+
+Coming soon
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive... [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+Coming soon
+
+Developer:
+
+Breadworks
+
+Publisher:
+
+Breadworks
+
+Tags
+
+Popular user-defined tags for this product:
+
+Free to Play  Action  Zombies  FPS  Co-op  Shooter  Multiplayer  Singleplayer  Mod 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player
+
+Online Co-op
+
+LAN Co-op
+
+Steam Cloud
+
+Includes level editor
+
+Includes Source SDK
+
+Family Sharing",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3557890,web_result,unknown_date,https://www.techtimes.com/articles/329825/20261101/free-tf2-mod-mann-versus-zombies-brings-8-player-horde-survival-steam.htm,Free TF2 Mod Mann Versus Zombies Brings 8-Player Horde Survival to Steam,"### Why can Breadworks publish this on Steam at all — isn't modifying Valve's game complicated? [...] Pages
+
+   About Us
+   Contact Us
+   Terms & Conditions
+   Privacy Policy
+
+ © 2026 Tech Times Media Inc. All rights reserved. [...] ### When does Mann Versus Zombies actually come out?
+
+No release date has been confirmed. The Steam page shows ""Coming Soon"" with no window announced. Breadworks is active on social media (@breadworksteam) and Discord for updates. Adding the game to your Steam wishlist will trigger a notification when the launch date is announced.
+
+ⓒ 2026 TECHTIMES.com All rights reserved. Do not reproduce without permission.
+
+Tags:Team Fortress 2ValveSteam
+
+Join the Discussion
+
+Most Popular",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3557890,web_result,unknown_date,https://www.youtube.com/watch?v=2V3wsgg71u8,Mann Versus Zombies - Gameplay Trailer,"# Mann Versus Zombies - Gameplay Trailer
+55K likes
+
+### Description
+964,400 views
+Posted: 2026-10-31
+Wishlist on Steam: 
+
+Discord:   / discord  
+Twitter (X): 
+Instagram:   / breadworksteam  
+TikTok:   / breadworksteam  
+
+#tf2 #teamfortress2 #valve #gaming",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3557890,web_result,unknown_date,https://store.steampowered.com/app/3557890/Mann_Versus_Zombies,Mann Versus Zombies on Steam,"Family Sharing
+
+Profile Features Limited   
+
+Languages:
+
+English and 4 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+| Dutch | ✔ |  |  |
+| Polish | ✔ |  |  |
+| Russian | ✔ |  |  |
+| Spanish - Latin America | ✔ |  |  |
+
+Title: Mann Versus Zombies  
+ Genre: Action, Free To Play  
+
+Developer: Breadworks
+
+Publisher: Breadworks
+
+Release Date: Coming soon [...] All Games > Free To Play Games > Mann Versus Zombies
+
+Community Hub
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Developer
+
+Breadworks
+
+Publisher
+
+Breadworks
+
+Released
+
+Coming soon
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive... [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+Coming soon
+
+Developer:
+
+Breadworks
+
+Publisher:
+
+Breadworks
+
+Tags
+
+Popular user-defined tags for this product:
+
+Free to Play  Action  Zombies  FPS  Co-op  Shooter  Multiplayer  Singleplayer  Mod 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player
+
+Online Co-op
+
+LAN Co-op
+
+Steam Cloud
+
+Includes level editor
+
+Includes Source SDK
+
+Family Sharing",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3557890,web_result,unknown_date,https://steamcommunity.com/app/3557890/discussions/0/567037624436435236,FAQ :: Mann Versus Zombies General Discussions,"When is it releasing?  
+We will share a specific date when we are ready. It will not take years.  
+  
+Is it free?  
+Yes, and there won't be any microtransactions.  
+  
+How long has Mann Versus Zombies been in development for?  
+Development started in February 2024, originally as a collection of workshop maps. We switched to the TF2 SDK when it released.  
+  
+Is this MvM/L4D2? [...] Is this MvM/L4D2?  
+Mann Versus Zombies is not a MvM mission, and it isn't a L4D2 campaign. Gameplay footage will be shown later this year.  
+  
+Will there be a public beta test/early access?  
+There are regular private playtests and we will invite more people later on. The game will not release in early access.  
+  
+Will there be dedicated servers? [...] All lobbies are user-hosted via Steam Networking, which means you can easily host lobbies without needing to port forward, and IP addresses are anonymized. Dedicated servers won't be supported.  
+  
+Are you related to the zombie maps on potato.tf?  
+Potato.tf hosts custom TF2 MvM missions, which we aren't involved with.  
+  
+Are you related to Fortress Zombies?  
+Fortress Zombies is a separate TF2 mod by a different creator.  
+  
+Will compilers/level editor be distributed with the game?",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+3557890,youtube_video,outside_window,https://www.youtube.com/watch?v=Oga7C9shniw,Mann Versus Zombies - Teaser,,Wishlist on Steam: https://store.steampowered.com/app/3557890/Mann_Versus_Zombies/ Discord: https://discord.gg/k5qz35vrx6 ...,,35,medium,YouTube (+15); Exact title match (+20),
+3557890,youtube_video,outside_window,https://www.youtube.com/watch?v=Oga7C9shniw,Mann Versus Zombies - Teaser,,Wishlist on Steam: https://store.steampowered.com/app/3557890/Mann_Versus_Zombies/ Discord: https://discord.gg/k5qz35vrx6 ...,,35,medium,YouTube (+15); Exact title match (+20),
+3557890,youtube_video,outside_window,https://www.youtube.com/watch?v=9mST3jgaovE,Not medicine (Mann vs Zombies Collab Entry),,My Entry for Hoovy Tube's Mann vs Zombies Collab [RIP It's cancelled] See the announcement here: ...,announcement,35,medium,YouTube (+15); Keywords ['announcement'] (+20),
+3557890,youtube_video,outside_window,https://www.youtube.com/watch?v=WOnqV4ebyiU,COD Zombies Comming to TF2! (TF2 Mod Mann Versus Zombies),,This is a mode that is going to make it so you can play call of duty zombies pretty much in TF2! Steam page ...,,35,medium,YouTube (+15); Exact title match (+20),
+3557890,youtube_video,outside_window,https://www.youtube.com/watch?v=q8KZaAVyCf8,TF2 Demoman VS Demoman Zombie: Who&#39;s Stronger? Team Fortress Funny Animation #tf2 #memes #animation,,TF2 Demoman VS Demoman Zombie: Who's Stronger? Team Fortress Funny Animation #tf2 #memes #animation.,demo,35,medium,YouTube (+15); Keywords ['demo'] (+20),
+3557890,youtube_video,outside_window,https://www.youtube.com/watch?v=bAd7ng-q3pU,Daily Mann Versus Zombies News - Day 1,,There have been no news today.,,35,medium,YouTube (+15); Exact title match (+20),
+3557890,youtube_video,outside_window,https://www.youtube.com/watch?v=BPxEtOHcb4w,Mann Vs ZOMBIE! TF2 Halloween Gameplay,,Here is the first part of our Halloween Week! Mann vs Machine with 100% MOAR zombie! More zombie Mann vs Machine to come ...,gameplay,35,medium,YouTube (+15); Keywords ['gameplay'] (+20),
+3557890,reddit_discussion,unknown_date,https://www.reddit.com/r/CODZombies/comments/1xl6o4d/cod_zombies_as_a_tf2_sourcemod_mann_versus_zombies,COD Zombies as a TF2 SourceMod! Mann Versus Zombies! - Reddit,COD Zombies as a TF2 SourceMod! Mann Versus Zombies! ... This video cannot be played. ... A group of survivors battles hordes of zombies in a post-,,,30,weak,Reddit (+10); Exact title match (+20),social
+3557890,reddit_discussion,unknown_date,https://www.reddit.com/r/tf2/comments/1u8qyh2/breadworks_the_creators_of_the_tf2_mod_mann,"Breadworks, the creators of the TF2 mod Mann Versus Zombies ...",r/tf2 - This is a Discord chat log from Breadworks APP discussing the development. r/tf2 - This is a Discord chat log from Breadworks,,,30,weak,Reddit (+10); Exact title match (+20),social
+3557890,reddit_discussion,unknown_date,https://www.reddit.com/r/tf2/comments/1xlfq7m/mann_versus_zombies_how_we_feeling_about_it,Mann Versus Zombies - How we feeling about it? : r/tf2 - Reddit,Mann Versus Zombies - How we feeling about it? Modded.,,,30,weak,Reddit (+10); Exact title match (+20),social
+3557890,social_post,unknown_date,https://www.tiktok.com/discover/plants-versus-zombies-tier-list-gw2,Plants Versus Zombies Tier List Gw2 - TikTok,"PvZ GW2 ability tier list, Plants vs Zombies gameplay tips, best PvZ GW2 strategies, characters in Plants vs Zombies GW2, PvZ abilities ranked, optimizing PvZ GW2 abilities, Plants vs Zombies character analysis, game strategies for PvZ, PvZ plant and zombie guide, PvZ GW2 top abilities Pvz2 Plant tier list rate it 1-10 #fyp #foryoupage #foryou #plantsvszombies get mad at me all you want it won't change my opinion!!! #fyp #shitposting #pvz #pvzgw #pvzgw2 i finally made the correct pvz tier list#gardenwarfare2 #gw2 #plantsvszombies #pvz #pvz2 #fyp This is an update to my 2021 tier list #fyp #foryou #foryoupage #pvz #pvz2 #pvzgardenwarfare2 #plantsvszombies #pvzgw #battleforneighborville 9 Years of garden warfare 2 #gardenwarfare #plantsvszombiesgardenwarfare2 #pvz #gw2 #playgw2 #fypシ゚viral #plantsvszombies #foryoupage #foryoupages #fyp #gw1 Explore 9 Years of Plants vs Zombies: Garden Warfare 2. tier list de Plants vs Zombies GW2, personajes de PvZ GW2, mejores estrategias en PvZ, cómo utilizar personajes en Plants vs Zombies, PvZ 2 análisis, clasificación de personajes PvZ, juego Plants vs Zombies, tips para PvZ GW2 top 5 least fun characters to play in PVZ GW2 #pvz #pvz2 #plantsvszombies #pvzgw2 #pvzgw #fyp #gaming Top 5 Least Fun Characters in PVZ GW2. least fun characters in PVZ GW2, boring characters Plants vs Zombies, PVZ GW2 character guide, Plants vs Zombies game analysis, character choices PVZ GW2, PVZ gameplay experiences, least enjoyable PVZ characters, Garden Warfare 2 character ranking, PVZ GW2 character strengths, Plants vs Zombies strategy tips Day 18 - Plants VS Zombies GW2 #fyp #fyp #foryou #foryoupage #300days300games #plantsvszombies #pvzgw2 #pvzgw #gaming #videogames Día 18 - Plants vs Zombies GW2 en 300 días de juegos. shutting down game servers, farewell to games, zackscottgames, plants vs zombies, server closure, west servers, pc gaming, server shutdown, pvz garden warfare 2 This is the ONLY Correct PvZ Tier List #pvz #plantsvszombies #retrogaming El único Tier List correcto de PvZ. Tier List Plants vs Zombies, PvZ clasificación de personajes, ranking de plantas PvZ, guía de PvZ, mejores plantas en PvZ, retro gaming Plants vs Zombies, estrategia en PvZ, PvZ personajes fuertes, PvZ mejores tácticas, PvZ comunidad ### Related to Plants Versus Zombies Tier List Gw2 What are the best plants in Plants vs Zombies Garden Warfare 2 tier list?",,gameplay,25,weak,Social Index (+5); Keywords ['gameplay'] (+20),social
+3557890,social_post,unknown_date,https://www.tiktok.com/discover/how-to-play-plants-versus-zombies,How to Play Plants Versus Zombies,"Get the full app experience. Enjoy more videos and great features on the app. # How to Play Plants Versus Zombies. 16.6K Likes, 296 Comments. TikTok video from K3VINMP (@k3vinmp7): ""Plants vs Zombies: Level 1-1 to 1-10 / Full Walkthrough (No Commentary) #PlantasvsZombies #pvz1 #GameplaysinComentarios #Nocommentary #PlantasvsZombiesNivel1"". TikTok video from Seanie Dew (@seaniedew): ""Symmetry is LAW #pvz #plantsvszombies #mobilegames #speedrunning"". TikTok video from tkee_1 (@tkee_1): ""3-7 Chill Campaign Gameplay#Zombe #PlantsVsZombies #Plants #Zombie #PlantsVsZombie #PvZ"". TikTok video from BerryFarm0wo (@berryfarmowo): ""ผสมพืชกันวุ่น part 1#pvzmod  #shorts #plants vs zombies #pvzfusion"".",,gameplay,25,weak,Social Index (+5); Keywords ['gameplay'] (+20),social
+3557890,social_post,unknown_date,https://www.instagram.com/popular/plants-vs-zombies-3-evolved-update,Plants Vs Zombies 3 Evolved Update,"Title: Plants Vs Zombies 3 Evolved Update
+# Plants Vs Zombies 3 Evolved Update. The latest update for Plants vs Zombies 3: Evolved was version 28.0.21, released on April 7, 2026, which included minor bug fixes and improvements. However, another update, version 28.1.19, was... Starting off the new year with a look back at the evolution of the sunflower through the franchise! 🌻What plant would you like to see next? #plantsvszombies #Gamer #Gaming #Videojuegos #plantsvszombiesfusion. Plantas Vs Víctimas #plantsvszombies #Gamer #Gaming #Videojuegos #plantsvszombiesfusion. Plants vs Zombies Remastered Trailer #videogames #gaming #games #mobile #plantsvszombies. Plant Vs Zombies fusion 2.8v. #pvzmodmenu #gaming #zombie #plant #pvz2. Plant Vs Zombies fusion 2.8v #pvzmodmenu #gaming #zombie #plant #pvz2. ¿CÓMO MURIERON LOS ZOMBIS DE PLANTAS VS ZOMBIES? Did they make the right decision? #explore #plantsvszombies #warnerbros #tyrecordslol #viral. ALL NEW PLANTS IN PVZ FUSION NEWEST UPDATE (Version 3.2) #pvz #plantsvszombies #pvzfusion. Zombies is out now, remastered with stunning HD graphics and more. 🍿 A dying sunflower in the desert 😭 Plants vs Zombies Animation #video. 50 diferencias increíbles de pvz2 versus gardenless 3 (parte 2-5) #pvz #pintvz #pvz2 #2025. PvZ Fusion looks like chaos on a lawn, but the hybrids reveal something deeper. Every fused plant feels engineered, every zombie wave looks like a response test, and the whole battlefield starts to feel less like a garden and more like a biological experiment running out of control. 🎮 Breaking down hidden game lore and conspiracies into quick, mind bending reels. ⚡ From Plants vs Zombies to Hollow Knight and Subnautica, nothing in gaming evolves by accident. 🔥 Fusion plants were never upgrades. #pvz #plantsvszombies #pvzfusion #gaminglore #gamingcommunity #gaming #gamers #viralreels #reach. 🎮 Breaking down hidden game lore and conspiracies into quick, mind bending reels ⚡ From Plants vs Zombies to Hollow Knight and Subnautica, nothing in gaming evolves by accident 🔥 Fusion plants were never upgrades. They were prototypes Follow @petergametalks for more Follow @petergametalks for more #pvz #plantsvszombies #pvzfusion #gaminglore #gamingcommunity #gaming #gamers #viralreels #reach. Zombies 3 ha sido CANCELADO después de 9 años 😔💔 #pvz #plantsvszombies #ea #electronicarts.",,trailer,25,weak,Social Index (+5); Keywords ['trailer'] (+20),social
+3557890,social_post,unknown_date,https://www.techtimes.com/articles/329825/20261101/free-tf2-mod-mann-versus-zombies-brings-8-player-horde-survival-steam.htm,Free TF2 Mod Mann Versus Zombies Brings 8-Player Horde Survival to Steam,"Breadworks is active across YouTube, X, TikTok, and Instagram at @breadworksteam and maintains a Discord community for updates. The mod's official website is mannversuszombies.com.
+
+Players can add _Mann Versus Zombies_ to their Steam wishlist page now.
+
+  
+
+## Frequently Asked Questions
+
+### How is Mann Versus Zombies different from Mann vs. Machine, TF2's existing co-op mode? [...] Mann vs. Machine (MvM), the official TF2 PvE mode launched in 2012, pits up to six players against waves of robots trying to deliver a bomb. It has a fixed wave structure and a defined end point, and advanced ""Mann Up"" runs require paid Tickets. _Mann Versus Zombies_ has no final wave — the zombie horde scales infinitely — supports up to eight players, costs nothing, and centers on barricade defense and survival endurance rather than bomb interception. The tone also differs: MvM is mechanical [...] The mechanical template for _Mann Versus Zombies_ draws heavily from Call of Duty's Zombies mode — a design lineage the developer makes no effort to disguise. Players start with only a sidearm. From there, the loop is: survive a wave, earn in-game currency, buy or upgrade weapons, prepare for the next wave — which arrives harder and more numerous than the last.",,,25,weak,Social Index (+5); Exact title match (+20),social
+3557890,social_post,unknown_date,https://mannversuszombies.com,Mann Versus Zombies,"Play
+
+Steam Wishlist us on Steam! 
+
+Discord Twitter Instagram TikTok
+
+Valve, the Valve logo, Steam, the Steam logo and Team Fortress 2 are trademarks and/or registered trademarks of Valve Corporation.  
+ Mann Versus Zombies is a fan creation and is not affiliated with Valve Corporation. Contact: contact@mannversuszombies.com",,,25,weak,Social Index (+5); Exact title match (+20),social
+3557890,social_post,unknown_date,https://steamcommunity.com/app/3557890/discussions,Mann Versus Zombies General Discussions :: Steam Community,"Store Page
+
+Mann Versus Zombies
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Mann Versus Zombies
+
+Store Page
+
+Start a New Discussion
+
+START A NEW DISCUSSION
+
+You need to sign in or create an account to do that.
+
+< >
+
+Showing 1-15 of 51 active topics
+
+ 0
+
+17 Jun @ 6:31am
+
+PINNED: FAQ
+
+Breadworks
+
+ 43
+
+10
+
+2 hours ago
+
+This entire mod needs a rework.
+
+Gavitro
+
+ 0
+
+3 hours ago
+
+Females, Replay, and Playtests?
+
+bb mr. B anana
+
+ 3
+
+4 hours ago
+
+Easter Eggs? [...] 简体中文 (Simplified Chinese)   繁體中文 (Traditional Chinese)   日本語 (Japanese)   한국어 (Korean)   ไทย (Thai)   Bahasa Indonesia (Indonesian)   Bahasa Melayu (Malay) BETA   Български (Bulgarian)   Čeština (Czech)   Dansk (Danish)   Deutsch (German)   Español - España (Spanish - Spain)   Español - Latinoamérica (Spanish - Latin America)   Ελληνικά (Greek)   Français (French)   Italiano (Italian)   Magyar (Hungarian)   Nederlands (Dutch)   Norsk (Norwegian)   Polski (Polish)   Português (Portuguese - [...] Sign in   Store 
+
+Home   Discovery Queue   Wishlist   Points Shop   News   Charts
+
+ Community 
+
+Home   Discussions   Workshop   Market   Broadcasts
+
+ About   Support 
+
+Change language
+
+Get the Steam Mobile App
+
+View desktop website
+
+© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.  Privacy Policy  |  Legal  |  Accessibility  |  Steam Subscriber Agreement  |  Refunds  |  Cookies
+
+STEAM
+
+Link to the Steam Homepage",,,25,weak,Social Index (+5); Exact title match (+20),social
+3557890,web_result,unknown_date,https://www.techtimes.com/articles/329825/20261101/free-tf2-mod-mann-versus-zombies-brings-8-player-horde-survival-steam.htm,Free TF2 Mod Mann Versus Zombies Brings 8-Player Horde Survival to Steam,"What separates _Mann Versus Zombies_ from Team Fortress 2's existing PvE mode, Mann vs. Machine, is structural. Mann vs. Machine features fixed robot-wave sets with a bomb-delivery objective, supports a maximum of six players, and in its advanced tier requires paid Tickets for each attempt. _Mann Versus Zombies_ has no terminal wave — the horde never stops — supports up to eight players at no cost, and positions team coordination around barricade repair rather than bomb interception. As [...] The mechanical template for _Mann Versus Zombies_ draws heavily from Call of Duty's Zombies mode — a design lineage the developer makes no effort to disguise. Players start with only a sidearm. From there, the loop is: survive a wave, earn in-game currency, buy or upgrade weapons, prepare for the next wave — which arrives harder and more numerous than the last. [...] Mann vs. Machine (MvM), the official TF2 PvE mode launched in 2012, pits up to six players against waves of robots trying to deliver a bomb. It has a fixed wave structure and a defined end point, and advanced ""Mann Up"" runs require paid Tickets. _Mann Versus Zombies_ has no final wave — the zombie horde scales infinitely — supports up to eight players, costs nothing, and centers on barricade defense and survival endurance rather than bomb interception. The tone also differs: MvM is mechanical",,,20,weak,Exact title match (+20),general
+3557890,web_result,unknown_date,https://mannversuszombies.com,Mann Versus Zombies,"Play
+
+Steam Wishlist us on Steam! 
+
+Discord Twitter Instagram TikTok
+
+Valve, the Valve logo, Steam, the Steam logo and Team Fortress 2 are trademarks and/or registered trademarks of Valve Corporation.  
+ Mann Versus Zombies is a fan creation and is not affiliated with Valve Corporation. Contact: contact@mannversuszombies.com",,,20,weak,Exact title match (+20),general
+3557890,web_result,unknown_date,https://mannversuszombies.com,Mann Versus Zombies,"Play
+
+Steam Wishlist us on Steam! 
+
+Discord Twitter Instagram TikTok
+
+Valve, the Valve logo, Steam, the Steam logo and Team Fortress 2 are trademarks and/or registered trademarks of Valve Corporation.  
+ Mann Versus Zombies is a fan creation and is not affiliated with Valve Corporation. Contact: contact@mannversuszombies.com",,,20,weak,Exact title match (+20),general
+3557890,web_result,unknown_date,https://www.pcgamesn.com/team-fortress-2/tf2-mann-versus-zombies,"Absent a Left 4 Dead 3, modders have just turned Team Fortress 2 into COD Zombies instead","If Valve isn't going to bring us Left 4 Dead 3 any time soon, we'll just have to get our zombie game fix elsewhere, and Mann Versus Zombies is looking like just what I need. This total-conversion mod for Team Fortress 2 transforms the multiplayer shooter into a gradually escalating horde survival experience akin to Call of Duty Zombies. Built by a team of modders that has dubbed itself Breadworks, it brings the timeless roster of characters and locations into a fresh spin on a tried-and-tested [...] Breadworks adds that Mann Versus Zombies will include full Steam Workshop support for people to add custom maps and skins, and notes that you can also use your TF2 skins. It's been a real heyday for co-op shooters in recent times, but I certainly won't say no to another of them, nor to a reason to return to the warm nostalgia of the Team Fortress 2 cast.
+
+Discord
+Facebook
+X
+Instagram
+Bluesky
+YouTube
+TikTok
+Steam
+Google News [...] Team Fortress 2 - The Sniper holds off a pair of zombie raccoons.
+
+Team Fortress 2 mod Mann Versus Zombies is set to launch soon on Steam. There's no exact date yet, but you can wishlist it now to be notified when it arrives. You'll need to own TF2 on your account - given that it's free, fixing that is just a button click away if you still don't have it.",,,20,weak,Exact title match (+20),general
+3557890,web_result,unknown_date,https://www.youtube.com/watch?v=zmQIAHyE3Gc,TF2 But now with ZOMBIES!,"### Transcript
+[0:00] Welcome people to the TF2 news on the community made mods for Team Fortress to section on Steam. We have a new upcoming
+[0:08] mod, Man Versus Zombies. Mirasmus is back again with his magic to destroy the mercenaries. But this time, instead of
+[0:16] spamming the Halloween bosses or spinning the wheel [music] of fate, he has something more malicious in hands. [...] # TF2 But now with ZOMBIES!
+## Channel: Zhain
+82.6K subscribers
+1.3K likes
+
+### Description
+23,892 views
+Posted: 2026-05-11
+TF2Easy Use the code ZHAIN to get a FREE Case and 5% bonus 
+DISCORD:   / discord    - Twitter: 
+
+Wishlist Mann Versus Zombies: 
+
+tags:
+tf2 2026 zhain team fortress 2 tf2 meme news update tf2 mvm update [...] [0:22] Opening the veil of death, bringing the dead back to the earthly plane of the living in the form of abominations thirsty for your blood. Unleashing
+[0:29] endless waves of zombies. Man versus zombies. It's a total conversion mod for TF2, a survival experience [music]
+[0:37] against endless waves of zombies. You can play solo or cooperative up to eight players. On this mod, you won't use the usual TF2 weapons. Instead of that, you",,,20,weak,Exact title match (+20),general
+3557890,web_result,unknown_date,https://store.steampowered.com/app/3557890/Mann_Versus_Zombies,Mann Versus Zombies on Steam,"View Community Hub
+
+## About This Game
+
+Merasmus returns with more than a tide of blood. This time he possesses something far more malicious than his usual magic tricks. The Undead have arisen... with their rotting carcasses mangled, mutated, and hungry for the flesh of the living!
+
+Welcome to Mann Versus Zombies, a total-conversion Team Fortress 2 mod that transforms familiar battlefields into desperate last stands against endless waves of horrific creatures.
+
+## Survive the Hordes [...] All Games > Free To Play Games > Mann Versus Zombies
+
+Community Hub
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Mann Versus Zombies
+
+Developer
+
+Breadworks
+
+Publisher
+
+Breadworks
+
+Released
+
+Coming soon
+
+Merasmus has torn open the veil of death, unleashing endless waves of the Undead in this Team Fortress 2 mod! Face the horde alone or with friends in co-op survival, where each wave grows more brutal. Acquire deadly weapons, test your skill, and stack powerful perks as you fight to survive... [...] Every second counts when you're surrounded. Work together with your teammates, manage your resources, and repair barricades to keep the defenses standing.
+
+## A Twisted World
+
+Fight across an ample variety of locations, from the dusty battlements of Teufort to the frozen alpine wilderness. Each environment offers its own challenges... and its own creatures. Nowhere is truly safe from them.
+
+## Endless Challenge",,,20,weak,Exact title match (+20),general
+3557890,web_result,unknown_date,https://mannversuszombies.com,Mann Versus Zombies,"Play
+
+Steam Wishlist us on Steam! 
+
+Discord Twitter Instagram TikTok
+
+Valve, the Valve logo, Steam, the Steam logo and Team Fortress 2 are trademarks and/or registered trademarks of Valve Corporation.  
+ Mann Versus Zombies is a fan creation and is not affiliated with Valve Corporation. Contact: contact@mannversuszombies.com",,,20,weak,Exact title match (+20),general
+3557890,web_result,unknown_date,https://www.techtimes.com/articles/329825/20261101/free-tf2-mod-mann-versus-zombies-brings-8-player-horde-survival-steam.htm,Free TF2 Mod Mann Versus Zombies Brings 8-Player Horde Survival to Steam,"The story premise of _Mann Versus Zombies_ plants its tongue firmly in TF2's cheek while pulling the tone toward something darker. Merasmus — the bumbling sorcerer antagonist who has haunted TF2's Halloween events since 2012 — returns, but this time with something more consequential than bumper-car curses. He has torn open the veil of death itself, unleashing mutated, rotting, flesh-hungry undead across the familiar battlefields of the TF2 universe. [...] PC Gamer's Justin Wagner, reviewing the teaser in May 2026, called it a ""Source Filmmaker-powered treat"" and noted that if the mod ""feels as good to play as it looks, it should be a treat for fans of the venerable shooter looking for a change of pace.""
+
+### How Does Mann Versus Zombies Actually Work? [...] Mann vs. Machine (MvM), the official TF2 PvE mode launched in 2012, pits up to six players against waves of robots trying to deliver a bomb. It has a fixed wave structure and a defined end point, and advanced ""Mann Up"" runs require paid Tickets. _Mann Versus Zombies_ has no final wave — the zombie horde scales infinitely — supports up to eight players, costs nothing, and centers on barricade defense and survival endurance rather than bomb interception. The tone also differs: MvM is mechanical",,,20,weak,Exact title match (+20),general
+3557890,web_result,unknown_date,https://mannversuszombies.com,Mann Versus Zombies,"Play
+
+Steam Wishlist us on Steam! 
+
+Discord Twitter Instagram TikTok
+
+Valve, the Valve logo, Steam, the Steam logo and Team Fortress 2 are trademarks and/or registered trademarks of Valve Corporation.  
+ Mann Versus Zombies is a fan creation and is not affiliated with Valve Corporation. Contact: contact@mannversuszombies.com",,,20,weak,Exact title match (+20),general
+3557890,web_result,unknown_date,https://mannversuszombies.com,Mann Versus Zombies,"Play
+
+Steam Wishlist us on Steam! 
+
+Discord Twitter Instagram TikTok
+
+Valve, the Valve logo, Steam, the Steam logo and Team Fortress 2 are trademarks and/or registered trademarks of Valve Corporation.  
+ Mann Versus Zombies is a fan creation and is not affiliated with Valve Corporation. Contact: contact@mannversuszombies.com",,,20,weak,Exact title match (+20),general
+3557890,web_result,unknown_date,https://steamcommunity.com/app/3557890/discussions,Mann Versus Zombies General Discussions :: Steam Community,"Sign in   Store 
+
+Home   Discovery Queue   Wishlist   Points Shop   News   Charts
+
+ Community 
+
+Home   Discussions   Workshop   Market   Broadcasts
+
+ About   Support 
+
+Change language
+
+Get the Steam Mobile App
+
+View desktop website
+
+© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.  Privacy Policy  |  Legal  |  Accessibility  |  Steam Subscriber Agreement  |  Refunds  |  Cookies
+
+STEAM
+
+Link to the Steam Homepage [...] STORE 
+
+Home   Discovery Queue   Wishlist   Points Shop   News   Charts
+
+ COMMUNITY 
+
+Home   Discussions   Workshop   Market   Broadcasts
+
+ About   SUPPORT
+
+Install Steam sign in  |  language [...] 简体中文 (Simplified Chinese)   繁體中文 (Traditional Chinese)   日本語 (Japanese)   한국어 (Korean)   ไทย (Thai)   Bahasa Indonesia (Indonesian)   Bahasa Melayu (Malay) BETA   Български (Bulgarian)   Čeština (Czech)   Dansk (Danish)   Deutsch (German)   Español - España (Spanish - Spain)   Español - Latinoamérica (Spanish - Latin America)   Ελληνικά (Greek)   Français (French)   Italiano (Italian)   Magyar (Hungarian)   Nederlands (Dutch)   Norsk (Norwegian)   Polski (Polish)   Português (Portuguese -",,,20,weak,Exact title match (+20),general
+3557890,web_result,unknown_date,https://www.techtimes.com/articles/329825/20261101/free-tf2-mod-mann-versus-zombies-brings-8-player-horde-survival-steam.htm,Free TF2 Mod Mann Versus Zombies Brings 8-Player Horde Survival to Steam,"The mechanical template for _Mann Versus Zombies_ draws heavily from Call of Duty's Zombies mode — a design lineage the developer makes no effort to disguise. Players start with only a sidearm. From there, the loop is: survive a wave, earn in-game currency, buy or upgrade weapons, prepare for the next wave — which arrives harder and more numerous than the last. [...] Steam Cloud, level editor, and Source SDK — Breadworks is shipping the developer tools alongside the game, a signal of long-term community investment.
+   Family Sharing — Supported, per the Steam listing. [...] Breadworks is active across YouTube, X, TikTok, and Instagram at @breadworksteam and maintains a Discord community for updates. The mod's official website is mannversuszombies.com.
+
+Players can add _Mann Versus Zombies_ to their Steam wishlist page now.
+
+  
+
+## Frequently Asked Questions
+
+### How is Mann Versus Zombies different from Mann vs. Machine, TF2's existing co-op mode?",,,20,weak,Exact title match (+20),general
+3557890,youtube_video,outside_window,https://www.youtube.com/watch?v=mi4MC5R3BIk,Mann vs Zombies (Team Fortress 2),,Potato.tf has servers for MVM type stuff and here is a full 48 minute long run on the Map mvm_shadows_b3 If you see me actin a lil ...,,15,weak,YouTube (+15),
+3557890,social_post,unknown_date,https://www.tiktok.com/discover/ben-10-versus-marvel-zombies,Ben 10 Versus Marvel Zombies | TikTok,"Title: Ben 10 Versus Marvel Zombies | TikTok
+# Ben 10 Versus Marvel Zombies. Discover videos related to Ben 10 Versus Marvel Zombies on TikTok. ## Discover videos related to Ben 10 Versus Marvel Zombies on TikTok. Last updated 2026-10-26. TikTok video from Pato_random (@battle_random): ""#entretenimiento #parati #foryou #fypシ #sigueme_para_mas_videos_asi #vsbattle #batalla #versus #battle #vs"" **8428**. #entretenimiento #parati #foryou #fypシ #sigueme_para_mas_videos_asi #vsbattle #batalla #versus #battle #vs. TikTok video from MrCrónicas (@mrcronicas): ""podría HULK INFINITO GANARLE A ALÍEN X? TikTok video from Film Curioso (@film.curioso8): ""Si sale alien X se acaba todo 😎 #marvel #quepasaria#ben10"" **70**. Si sale alien X se acaba todo 😎 #marvel #quepasaria#ben10. TikTok video from edits_davi15 (@edits_davi15): Explore the thrilling Halloween adventure in Ben 10 Omniverse! Explore the thrilling Halloween adventure in Ben 10 Omniverse! TikTok video from moviedailyclips (@moviedailyclipps): Explore Gwen's first appearance in Ben 10 Omniverse and her evolution in the series. Explore Gwen's first appearance in Ben 10 Omniverse and her evolution in the series. TikTok video from 𝙆𝙄𝙏𝙎𝙐𝙉𝙀❙❙كــيـتـسـوني🦊 (@ym_hb1): Compare Ben 10's power levels against Marvel characters in this easy-to-understand breakdown. TikTok video from Wnak (@wnak._): Edit de Ben 10 mostrando a Ben que intercepta el Omnitrix, con referencias a el abuelo Max y Omniverse. Edit de Ben 10 mostrando a Ben que intercepta el Omnitrix, con referencias a el abuelo Max y Omniverse. TikTok video from BlavkSmith (@coolestplayboyog): Discover the coolest Omnitrix alien! This Ben 10 x Spider-verse XLR8 is a Marvel Rival pick, created with Higgsfield.ai Genjutsu and manual VFX. #higgsfiledgenjutsu #genjutsu #ben10 Ben 10 XLR8 x Spider-Verse: The Coolest Marvel Rival Pick?. Discover the coolest Omnitrix alien! TikTok video from origynmv (@origynmv): Discover the epic battle between Ben 10 and the X-Men in this thrilling edit. Discover the epic battle between Ben 10 and the X-Men in this thrilling edit. TikTok video from 𝙆𝙄𝙏𝙎𝙐𝙉𝙀❙❙كــيـتـسـوني🦊 (@ym_hb1): ""ben 10 vs marvel level hard #ben10 #Comparisons #foryoupage❤️❤️ #viral #like_comment_share_follow🌺✅"" **28**. TikTok video from Frenus🍀 (@frenus7): Watch a Ben 10 × Marvel fan edit that imagines Alien X battling the Beyonder — visual mashup, epic powers, and crossover action. #ben10 #beyonder #alienx #marvel #edit Ben 10 × Marvel: Alien X vs Beyonder Fan Edit.",,,5,weak,Social Index (+5),social
+3557890,social_post,unknown_date,https://www.tiktok.com/discover/how-to-get-all-the-chomper-skins-in-plants-versus-zombies-garden-warfare-two,How to Get All The Chomper Skins in Plants Versus Zombies Garden Warfare Two,"Get the full app experience. Enjoy more videos and great features on the app. # How to Get All The Chomper Skins in Plants Versus Zombies Garden Warfare Two. TikTok video from @exotic_Z3n my main acc (@z3n_pvzgw2): ""all my skins#fypシ #pvzgw2 #pvzgw2🔛🔝 #pvz #fyp #idkwhattopost"". TikTok video from ⚠️Im a weirdo!⚠️ (@justanarteest): ""#greenscreen"". TikTok video from PVZ_Yuppers (@yuppers_gw2): ""How to get legendaries in PvZ Gw2 || I resposted to add background music and because the other one flopped #gw#gw2i#viralv#pvzgw2v#pvzv#pvzgw2gardenops"". 54.7K Likes, 595 Comments. TikTok video from Swedish Dwarf (@swedishdwarfyt): ""How To Get Torchwood & Hover Goat The RIGHT Way #pvz #gardenwarfare2 #pvzgw2 #youtube #twitch"".",,,5,weak,Social Index (+5),social
+3557890,social_post,unknown_date,https://www.tiktok.com/discover/zombies-vera?lang=en,Zombies Vera | TikTok,"Image 16 stxrs.nika38.2K
+
+Image 17: 840 Likes, 11 Comments. TikTok video from 𝓺𝓽 𝓶𝓲𝓪 ୨୧ (@ange1ic.mia): See what happens when we give the characters from Disney's Zombies 4 opposite features! Part 2 of the popular trend featuring Sway Bhatia. 840 [...] #VARGAS #VERA || this duo>>> || favorite vampires🙂‍↕️🧛 || #zombies4 #zombiesdisney #zombies4disney #zombiesdawnofthevampires #swaybathia #mekonnenknife #fyp #viral #dontletthisflop #makemefamous || -tags: @.strxhqe @°•° mimi °•° @⋆ ˚｡⋆୨୧˚ @⋆𝚰𝐒𝐀⋆ @ᯓ★ 𝐌𝐚𝐫𝐬. @☆｡. Ashlynn!! @aisshu ౨ৎ @🪐🪐 @Bear (victor's version) @caoimhe @Dilayla ꨄ @𝐸 @e v a ♧ @editor 💌 @Editzzz @𝐿𝒾𝓏𝓏𝒾𝑒🎼+ @𝓵𝓾𝓬𝓲𝓮 @m 🧟 @Maeve ☾𖤓 @malachi 👑 @mia 🫶 @nictorrz @multi ⋆౨ৎ˚⟡˖ @reese ¹⁶ ༄✩ @spalxedits⋆.ೃ࿔: - - - - - - - - - - - - - - - - [...] Vera Zombies ActorZombie 4 VeraVera Zombies 4Zombies 4 Victor E VeraZombies 4 Vera and WillaVera in Zombies 4Vera Zombies 4 DubladoraVera Picture from ZombiesZombies 4 Vampires VeraZombies 4 Vera and Vargas
+
+### Related to Zombies Vera
+
+Zombies 4 Willa and VeraZombies 4 Vera and VictorZombies 4 Victor and VeraZombies 4 Vargas and VeraVera Core Zombies 4Ava As A ZombieZombies 4 Vera X VargasZombie EvadeDubladora Da Vera Zombies 4Zombies Concord Ca",,,5,weak,Social Index (+5),social
+3557890,social_post,unknown_date,https://www.instagram.com/popular/the-zombies-band-1960s,The Zombies Band 1960s,"#thezombies #shesnothere #rarevintage #60smusic #1960s #1960smusic #colinblunstone #rodargent #hughgrundy #chriswhite #paulatkinson #psychedelicpop #psychedelicrock #throwbackthursday #tbt #rarevideo#debut #lipsync @thezombiesofficial [...] England, which killed two children; the word “zombie” is used metaphorically to criticize the cycle of violence and the numb, unthinking repetition of conflict. The contrast between the haunting verses and the explosive chorus intensifies the emotional impact, making the song both a powerful political statement and one of the most iconic rock anthems of the 1990s [...] The Zombies , lanzado en septiembre de 1967, un año después de su lanzamiento original, la canción se convirtió en un éxito inesperado en Estados Unidos , alcanzando el tercer puesto en el Billboard Hot 100 y el primer puesto en la lista Cashbox . Se ha convertido en una de las canciones más populares y reconocibles de The Zombies, y en un éxito icónico de la psicodelia de los años 60 .
+
+141K",,,5,weak,Social Index (+5),social
+3557890,social_post,unknown_date,https://www.instagram.com/popular/will-there-be-a-zombies-4,Will There Be A Zombies 4,"Title: Will There Be A Zombies 4
+# Will There Be A Zombies 4. Watch reels about will there be a zombies 4 from people around the world. ## zombie zombie. ## zomby. ## zombies. ## zombie. ## zombie 4. ## zombies 4. ## zombi. Will there be a #Zombies 5? #Zombies4 stars Milo Manheim & Meg Donnelly weigh in.](/reel/DL-nzEeJszO/). 🎥: ZOMBIES, ZOMBIES 2, ZOMBIES 3, and ZOMBIES 4: Dawn of the Vampires](/reel/DQesEkDif43/). Zombies 4 star #MalachiBarton set to star in new Disney show, Coven Academy! #zombies4 #disney #celebritynews #covenacademy #tvnews #celebrities #disneychannel #disneyzombies #tiffanythiessen #popculture #popnews #dcom](/reel/DNqZt9xN4Q5/). ✨ Who was the very first person @freyaskye told when she landed her role in Zombies 4? I’m beyond grateful that I got to be there for the Descendants x Zombies: Worlds Collide soundcheck and Q&A—it was such a fun, unforgettable experience! Getting to hear these special behind-the-scenes stories and seeing the cast interact made the night even more magical. #soundcheck #descendantszombiesworldscollidetour #disneyzombies #disneydescendants #disneyzombiesworldscollide #descendantszombiestour #DescendantsXZombies #WorldsCollideTour #Zombies4 #Descendants #DisneyZombies #DisneyDescendants #FreyaSkye #CoreMemory #UnforgettableMoments #SoundcheckMagic #DreamComeTrue #PinchMeMoment #DisneyConcert #FanExperience #MemoriesMade](/reel/DM_55n1x6w1/). Malachi Barton and Freya Skye singing the smash hit “Someday” from ZOMBIES. They will play Nova and Victor in #ZOMBIES4.](/reel/C4GLxrkO_dC/). it was seriously such a treat to bring Willa to the ballroom last night!!! 🐺 when I signed on to be a part of the Zombies franchise nearly 6 years ago, I never would’ve thought that it would lead me here…! so last night’s dance was a huuuuge thank you to all of the Z fans out there!! to anyone who has found comfort or confidence (like i did last night!) in/from these characters and movies….this is for you!! to be even a fraction of the Disney magic is a responsibility I don’t take lightly…and as Willa represents fierceness, strength, and courage, I knew I needed to fully step into her power to bring her to life on that stage. #Undawn #UndawnGame #MobileGaming #Zombies #Survival #OpenWorld](/reel/CvQxeXvMqIj/). there's no doubt we've rewatched this scene a million times 🩷💚 #ZOMBIES4](/reel/DP7TndZFXnt/). THIS is the place to be for a first look at the #ZOMBIES4: Dawn of the Vampires soundtrack tracklist! Watch ZOMBIES 4: Dawn of the Vampires on @disneychannel July 10 and next day on @disneyplus!](/reel/DJKKaH0OxSm/).",,,5,weak,Social Index (+5),social
+3557890,social_post,unknown_date,https://www.instagram.com/popular/valley-of-the-zombies,Valley Of The Zombies,"Log In
+
+Sign Up
+
+# Valley Of The Zombies
+
+Valley of the Zombies is a 1946 American horror film directed by Philip Ford for Republic Pictures. The plot follows Dr. Terry Evans as he hunts Ormand Murks, a resurrected man who requires human... more
+
+Am I missing something?😬🫣
+#weburythedead #horrormovies #filmreviews #zombiemovie #badmovie
+
+725
+
+Am I missing something?😬🫣 #weburythedead #horrormovies #filmreviews #zombiemovie #badmovie
+
+ZOMBIE MOVIES ARE AVAILABLE IN NETFLIX [...] The wild part? The comedic relief characters still get absolutely roasted in both versions. Different tone, same brutal fate. Horror really said equality.
+
+Let’s talk Night of the Living Dead remake vs original, zombie movie explosions, over-the-top horror moments, practical effects vs realism, and unintentionally hilarious horror scenes.
+
+#shorts #horror #horrormovies #nightofthelivingdead #horrorfan
+
+146 [...] rodeo. 😭 “We lost Ben!” Yeah… we noticed. The wild part? The comedic relief characters still get absolutely roasted in both versions. Different tone, same brutal fate. Horror really said equality. Let’s talk Night of the Living Dead remake vs original, zombie movie explosions, over-the-top horror moments, practical effects vs realism, and unintentionally hilarious horror scenes. #shorts #horror #horrormovies #nightofthelivingdead #horrorfan",,,5,weak,Social Index (+5),social
+3557890,social_post,unknown_date,https://www.instagram.com/popular/the-zombies-members,The Zombies Members,"Title: The Zombies Members
+# The Zombies Members. Watch reels about the zombies members from people around the world. ## zombie zombie. ## zombis. what could go so wrong with a girl and a zombie… 🤔 we had the most amazing time singing with the cast of #ZOMBIES4!! 💚 @disneyzombies @jonathantilkin #zombies #milomanheim #megdonnelly #malachibarton #freyaskye 🫶🏻. forever doing it like the ZOMBIES do! Milo Manheim from the Zombies 4 premiere 😍. Milo Manheim from the Zombies 4 premiere 😍 #milomanheim #zombies4. ZOMBIES 3 is streaming on Disney+. Your favorite duo is back! Mekonnen Knife and Freya Skye as Vargas and Nova on the set of Locker Diaries: ZOMBIES. ❤️💛 Mekonnen Knife and Freya Skye as Vargas and Nova on the set of Locker Diaries: ZOMBIES 🎥: mekonnenknife. Zed and Addison are on our minds 24/7… anyone else? 🙋 Listen to all your favorite songs from the ZOMBIES movies on the Disney Hits playlist! Disney’s #ZOMBIES is available now on @disneyplus. MK JUST KEEPS THEM COMING. #zombies4dawnofthevampires #diaanababnicova #zombies5 #updates #pearlzombies5. MK JUST KEEPS THEM COMING #zombies4dawnofthevampires #diaanababnicova #zombies5 #updates #pearlzombies5. Welcome to the making of. Welcome to the making of ""The Place To Be"" 🧛☀️ #ZOMBIES4. They’re gonna be someday 🩷💚. Start your ZOMBIES rewatch this Halloween season on Disney+. They’re gonna be someday 🩷💚 Start your ZOMBIES rewatch this Halloween season on Disney+. They are so cute and funny !! #zombies5 #disneyzombies #malachibarton #zombies5disney #explore. Via : @diaanababnicova\_official TikTok #zombies5 #disneyzombies #malachibarton #zombies5disney #explore. Plot line: Zed and Addy get married! @milomanheim seems to like the idea and @MegDonnelly would finally get to show off those. @milomanheim seems to like the idea and @MegDonnelly would finally get to show off those ""Zombies"" dance moves! 🧟‍♂️💃 “Zombies 4: Dawn of the Vampires” is streaming on @disneyplus. That’s why it sounded Familiar. #zombies#disneydescendants#milomanheim#riseofred#kyliecantrall#theriseofred#megdonnelly#disneyzombies#zombies2#descendants.",,,5,weak,Social Index (+5),social
+3557890,social_post,unknown_date,https://x.com/MelDMann/status/2114756559121084516,"Mel Mann, MBA, M.Ed on X: ""In the 584-patient Phase 3 RAINFOL-02 trial in platinum-resistant ovarian cancer, Genmab's Rina-S cut the risk of death by 57% and the risk of progression or death by 71% versus standard chemo. It worked regardless of how much of its target, folate receptor alpha, the tum…...","
+Title: Mel Mann, MBA, M.Ed on X: ""In the 584-patient Phase 3 RAINFOL-02 trial in platinum-resistant ovarian cancer, Genmab's Rina-S cut the risk of death by 57% and the risk of progression or death by 71% versus standard chemo. It worked regardless of how much of its target, folate receptor alpha, the tum… / X
+## Post. # Mel Mann, MBA, M.Ed on X: ""In the 584-patient Phase 3 RAINFOL-02 trial in platinum-resistant ovarian cancer, Genmab's Rina-S cut the risk of death by 57% and the risk of progression or death by 71% versus standard chemo. It worked regardless of how much of its target, folate receptor alpha, the tumors carried."". Mel Mann, MBA, M.Ed@MelDMann. In the 584-patient Phase 3 RAINFOL-02 trial in platinum-resistant ovarian cancer, Genmab's Rina-S cut the risk of death by 57% and the risk of progression or death by 71% versus standard chemo. The Wall Street Journal@WSJ. The Danish biotech said an experimental drug cut the risk of death and disease progression for ovarian-cancer patients in a late-stage clinical trial. 04:30:28 PM · 10/26/2026·632.",,,5,weak,Social Index (+5),social
+3557890,social_post,unknown_date,https://x.com/MelDMann/status/2114665508205109651,"Mel Mann, MBA, M.Ed on X: ""In the Phase III Krascendo 1 trial of 338 patients with previously treated KRAS G12C-mutated lung cancer, Roche's divarasib reached a median survival of 17.7 months versus 12.0 on sotorasib or adagrasib. It also nearly doubled the response rate, 58% versus 32%."" / X","Title: Mel Mann, MBA, M.Ed on X: ""In the Phase III Krascendo 1 trial of 338 patients with previously treated KRAS G12C-mutated lung cancer, Roche's divarasib reached a median survival of 17.7 months versus 12.0 on sotorasib or adagrasib. It also nearly doubled the response rate, 58% versus 32%."" / X
+## Post. # Mel Mann, MBA, M.Ed on X: ""In the Phase III Krascendo 1 trial of 338 patients with previously treated KRAS G12C-mutated lung cancer, Roche's divarasib reached a median survival of 17.7 months versus 12.0 on sotorasib or adagrasib. It also nearly doubled the response rate, 58% versus 32%."". Mel Mann, MBA, M.Ed@MelDMann. In the Phase III Krascendo 1 trial of 338 patients with previously treated KRAS G12C-mutated lung cancer, Roche's divarasib reached a median survival of 17.7 months versus 12.0 on sotorasib or adagrasib. A Roche drug billed as a potential blockbuster helped patients with a form of lung cancer that had spread live almost six months longer than two competitive medicines, according to new findings bloomberg.com/news/articles/…. 10:28:40 AM · 10/26/2026·668.",,,5,weak,Social Index (+5),social
+3557890,social_post,unknown_date,https://x.com/MelDMann/status/2114033187282395186,"Mel Mann, MBA, M.Ed on X: ""In the Phase 3 DeLLphi-305 trial of 563 patients with extensive-stage small cell lung cancer, adding Imdelltra to Imfinzi cut the risk of death by 58%, with median survival of 21.1 months versus 12.7. Nearly 80% were alive at one year, compared with 53% on Imfinzi alone."" ...","Title: Mel Mann, MBA, M.Ed on X: ""In the Phase 3 DeLLphi-305 trial of 563 patients with extensive-stage small cell lung cancer, adding Imdelltra to Imfinzi cut the risk of death by 58%, with median survival of 21.1 months versus 12.7. Nearly 80% were alive at one year, compared with 53% on Imfinzi alone."" / X
+## Post. # Mel Mann, MBA, M.Ed on X: ""In the Phase 3 DeLLphi-305 trial of 563 patients with extensive-stage small cell lung cancer, adding Imdelltra to Imfinzi cut the risk of death by 58%, with median survival of 21.1 months versus 12.7. Nearly 80% were alive at one year, compared with 53% on Imfinzi alone."". Mel Mann, MBA, M.Ed@MelDMann. In the Phase 3 DeLLphi-305 trial of 563 patients with extensive-stage small cell lung cancer, adding Imdelltra to Imfinzi cut the risk of death by 58%, with median survival of 21.1 months versus 12.7. A combination of powerful Amgen and AstraZeneca drugs helped patients with an aggressive form of lung cancer to live longer, data presented at the ESMO oncology meeting showed. 04:36:03 PM · 10/24/2026·1,015.",,,5,weak,Social Index (+5),social
+3557890,social_post,unknown_date,https://x.com/saltyzombies,Salty Zombies (@saltyzombies) / X,"saltyzombies.com
+
+  #1 Gaming Community | Salty Zombies | Come Game With Us!
+
+  Welcome to Salty Zombies Gaming Community. We play and host lots of online multiplayer games. So have some fun and join us.
+ @saltyzombies
+
+  Salty Zombies@saltyzombies
+
+  10/20/2009
+
+  just scored a free zombie book - a 700 page book just released. ""Zombies: Encounters with the Hungry Dead"". details @ zombiemovie.
+ @saltyzombies
+
+  Salty Zombies@saltyzombies
+
+  10/20/2009 [...] Log inSign up
+
+Log inSign up
+
+Salty Zombies
+
+9posts
+
+@saltyzombies
+
+# Salty Zombies
+
+@saltyzombies
+
+Joined August 2009
+
+0 Following26 Followers
+
+RepliesRepliesRepostsRepostsMediaMedia
+
+ @saltyzombies
+
+  Salty Zombies@saltyzombies
+
+  06/16/2010
+
+  Zombie Pub Crawl Saturday June 19th, saltyzombies.com
+ @saltyzombies
+
+  Salty Zombies@saltyzombies
+
+  10/23/2009
+
+  Ladies and gentlemen, dead and undead welcome to Zombies Weekend 2009.
+
+  saltyzombies.com [...] 10/20/2009
+
+  saltyzombies 25 members strong on saltyzombies.com. join us and show your support for horror organizing in SLC!
+ @saltyzombies
+
+  Salty Zombies@saltyzombies
+
+  10/11/2009
+
+  update to add Club Vegas afterparty. view details here:",,,5,weak,Social Index (+5),social
+3557890,social_post,unknown_date,https://x.com/MelDMann/status/2113578661001789939,"Mel Mann, MBA, M.Ed (@MelDMann) on X","## Post. ## Post. # Mel Mann, MBA, M.Ed on X: ""Two years after treatment, 82.2% of patients given the personalised vaccine plus Keytruda were still free of melanoma, versus 70.0% on Keytruda alone. The full Phase 3 results will be presented at the ESMO Congress on Oct. 24 and are slated for The New England Journal of Medicine."". * : Avatar Mel Mann, MBA, M.Ed @MelDMann Two years after treatment, 82.2% of patients given the personalised vaccine plus Keytruda were still free of melanoma, versus 70.0% on Keytruda alone. The full Phase 3 results will be presented at the ESMO Congress on Oct. 24 and are slated for The New England Journal of Medicine. : AvatarBBC News (UK) @BBCNews 6h First personalised cancer vaccine cuts risk of disease returning in major trial bbc.in/4iiAseM 10:29 AM · Oct 23, 2026·429 Views 2. ## Log in or sign up for X. See what’s happening and join the conversation. Continue with phoneContinue with Apple. Continue with Google Continue with Google. Log in with username or email. ## Relevant people. Mel Mann, MBA, M.Ed@MelDMannFollow. World’s Longest Living Gleevec and TKI Survivor. 31 year terminal Cancer Survivor. For world news, follow @BBCWorld. Terms·Privacy·Cookies·Accessibility·Ads Info·More© 2026 X Corp. Scan to get the app.",,,5,weak,Social Index (+5),social
+3557890,web_result,unknown_date,https://en.wikipedia.org/wiki/Plants_vs._Zombies,Plants vs. Zombies - Wikipedia,"| Genres |  Tower defense game (primary)  Third-person shooter  Digital collectible card game |
+| Developers |  PopCap Seattle (2009–present)  PopCap Shanghai (2011–present)  PopCap Vancouver (2014–2019)  Other    Tencent Games (2012–present)  Talkweb Games (2013)  DICE ""DICE (company)"") (2014–2019)  EA Vancouver (2019)  Motive Studio (2019)  Slingshot Studio (2023–present) | [...] ### Film
+
+[edit]
+
+In April 2015, a Plants vs. Zombies animated film was reported to be in development at Warner Bros., with Roy Lee attached as a producer through his production company, Vertigo Entertainment. [...] Plants vs. Zombies is a video game franchise created by George Fan. The series follows the affiliates of David ""Crazy Dave"" Blazing as they use his plants to defend against a zombie invasion, led by Dr. Edgar George Zomboss. The first game, Plants vs. Zombies ""Plants vs. Zombies (video game)"") (2009), was developed by PopCap Seattle and released by PopCap Games before being acquired by Electronic Arts (EA). After PopCap Games' acquisition, EA expanded the game into a franchise with games on",,,0,weak,,general
+3557890,web_result,unknown_date,https://linkedin.com/in/mann-8a3a661a6,Mann,"# Mann [...] Headline: Java Full Stack Developer at eBay // Available for new roles
+Current role: Java Full Stack Developer
+Seniority: Specialist, Engineering and Technical
+Location: San Jose, California, United States
+Experience: 8 years 1 month
+LinkedIn: www.linkedin.com/in/mann-8a3a661a6 · 418 followers [...] ## Experience
+- Java Full Stack Developer at eBay (Feb 2022 to present)
+- Java Software Developer at Trip advisor (Jul 2020 to Jan 2022)
+- Java Developer at MetLife (May 2018 to Jun 2020)
+
+## Skills
+microsoft, software developer, provisioning, querying, java 8, deployment, spring mvc, hibernate query language, cloud computing, java programming, lambdas, pipelines, apis, servlets, stack",,,0,weak,,general

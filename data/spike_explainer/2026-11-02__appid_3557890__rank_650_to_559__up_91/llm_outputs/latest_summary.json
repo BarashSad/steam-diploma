@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-02T21:45:01.368806+00:00",
+    "timestamp": "20261102_214501",
+    "input_file": "data/spike_explainer/2026-11-02__appid_3557890__rank_650_to_559__up_91/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-02__appid_3557890__rank_650_to_559__up_91/llm_outputs/gemini_20261102_214501.md",
+    "game_title": "Mann Versus Zombies",
+    "appid": "3557890",
+    "duration_sec": 18.17,
+    "response_length": 6431,
+    "error": null
+}
