@@ -1,0 +1,21 @@
+{
+    "appnews": {
+        "appid": 3557890,
+        "newsitems": [
+            {
+                "gid": "1847920302243855",
+                "title": "Mann Versus Zombies - Gameplay Trailer",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302243855",
+                "is_external_url": true,
+                "author": "Breadworks",
+                "contents": "Watch it here in 4K!",
+                "feedlabel": "Community Announcements",
+                "date": 1793497412,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3557890
+            }
+        ],
+        "count": 1
+    }
+}

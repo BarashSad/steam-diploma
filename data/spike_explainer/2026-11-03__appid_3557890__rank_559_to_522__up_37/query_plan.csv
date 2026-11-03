@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3557890,Mann Versus Zombies,"""Mann Versus Zombies"" Steam",general,1,tavily,True,,5
+3557890,Mann Versus Zombies,"""Mann Versus Zombies"" trailer",general,1,tavily,True,,5
+3557890,Mann Versus Zombies,"""Mann Versus Zombies"" gameplay",general,1,tavily,True,,5
+3557890,Mann Versus Zombies,"""Mann Versus Zombies"" demo",general,1,tavily,True,,5
+3557890,Mann Versus Zombies,"""Mann Versus Zombies"" release date",general,1,tavily,True,,5
+3557890,Mann Versus Zombies,"""Mann Versus Zombies"" announcement",general,1,tavily,True,,5
+3557890,Mann Versus Zombies,"""Mann Versus Zombies"" preview",general,1,tavily,True,,5
+3557890,Mann Versus Zombies,"""Mann Versus Zombies"" review",general,1,tavily,True,,5
+3557890,Mann Versus Zombies,"""Mann Versus Zombies"" publisher",general,1,tavily,True,,5
+3557890,Mann Versus Zombies,"""Mann Versus Zombies"" developer",general,1,tavily,True,,5
+3557890,Mann Versus Zombies,"site:pcgamer.com ""Mann Versus Zombies""",press,2,tavily,False,General budget exhausted,0
+3557890,Mann Versus Zombies,"site:rockpapershotgun.com ""Mann Versus Zombies""",press,2,tavily,False,General budget exhausted,0
+3557890,Mann Versus Zombies,"site:ign.com ""Mann Versus Zombies""",press,2,tavily,False,General budget exhausted,0
+3557890,Mann Versus Zombies,"site:gamespot.com ""Mann Versus Zombies""",press,2,tavily,False,General budget exhausted,0
+3557890,Mann Versus Zombies,"site:game8.co ""Mann Versus Zombies""",press,2,tavily,False,General budget exhausted,0
+3557890,Mann Versus Zombies,"site:reddit.com ""Mann Versus Zombies""",social,3,tavily,True,,5
+3557890,Mann Versus Zombies,"site:tiktok.com ""Mann Versus Zombies""",social,4,tavily,True,,5
+3557890,Mann Versus Zombies,"site:instagram.com ""Mann Versus Zombies""",social,4,tavily,True,,5
+3557890,Mann Versus Zombies,"site:x.com ""Mann Versus Zombies""",social,4,tavily,True,,5
+3557890,Mann Versus Zombies,"site: ""Mann Versus Zombies""",social,4,tavily,True,,5
