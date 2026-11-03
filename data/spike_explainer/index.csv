@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-03T06:12:08.532114+00:00,3557890,Mann Versus Zombies,data/spike_explainer/2026-11-03__appid_3557890__rank_559_to_522__up_37,37,90,data/spike_explainer/2026-11-03__appid_3557890__rank_559_to_522__up_37/llm_summary_input.md
+2026-11-03T19:28:59.089569+00:00,5175310,Worst Class Ever,data/spike_explainer/2026-11-03__appid_5175310__rank_1032_to_957__up_75,75,90,data/spike_explainer/2026-11-03__appid_5175310__rank_1032_to_957__up_75/llm_summary_input.md

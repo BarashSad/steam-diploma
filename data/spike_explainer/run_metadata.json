@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-11-03T06:12:36.485104+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261103_060206/rank_changes.csv",
-    "selected_appid": "3557890",
-    "selected_game_title": "Mann Versus Zombies",
+    "started_at": "2026-11-03T19:29:25.876338+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261103_191920/rank_changes.csv",
+    "selected_appid": "5175310",
+    "selected_game_title": "Worst Class Ever",
     "top_n": 1,
     "old_snapshot_date": "2026-10-31",
     "new_snapshot_date": "2026-11-03",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-03T06:12:36.485118+00:00",
+    "finished_at": "2026-11-03T19:29:25.876353+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

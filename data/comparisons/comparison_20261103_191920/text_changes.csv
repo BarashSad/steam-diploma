@@ -1,0 +1,7 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4262460,ROB RUN,ROB RUN,823,769,54,54,up,upward_spike,Free,Free,False,November 2026,"Nov 4, 2026",True
+2861730,Food Devils,Food Devils,1084,1059,25,25,up,upward_spike,Unpriced (Coming Soon),Free,True,"Nov 3, 2026",Coming soon,True
+2786760,Another Door,Another Door,531,529,2,2,up,none,Unpriced (Coming Soon),Free,True,2026,Q1 2027,True
+1238190,Ant Colony: Wild Forest,Ant Colony: Wild Forest,787,785,2,2,up,none,Unpriced (Coming Soon),Free,True,Q4 2026,"Jan 22, 2027",True
+2153760,Stronghold 4,Stronghold 4,66,66,0,0,stable,none,Unpriced (Coming Soon),Free,True,"Dec 7, 2026","Apr 20, 2027",True
+3209660,Golf With Your Friends 2,Golf With Your Friends 2,148,148,0,0,stable,none,Free,Free,False,Coming soon,2027,True

@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Mann Versus Zombies
+Analyzed: Worst Class Ever
 Tavily Budget Used: 15
 Errors: 0
