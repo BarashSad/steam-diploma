@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-04T19:45:55.676840+00:00",
+    "timestamp": "20261104_194555",
+    "input_file": "data/spike_explainer/2026-11-04__appid_5175310__rank_934_to_888__up_46/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-04__appid_5175310__rank_934_to_888__up_46/llm_outputs/gemini_20261104_194555.md",
+    "game_title": "Worst Class Ever",
+    "appid": "5175310",
+    "duration_sec": 21.84,
+    "response_length": 5961,
+    "error": null
+}

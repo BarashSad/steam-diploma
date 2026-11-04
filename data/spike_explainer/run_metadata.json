@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-11-04T05:51:53.919060+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261104_054218/rank_changes.csv",
-    "selected_appid": "4262460",
-    "selected_game_title": "ROB RUN",
+    "started_at": "2026-11-04T19:45:55.602350+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261104_193551/rank_changes.csv",
+    "selected_appid": "5175310",
+    "selected_game_title": "Worst Class Ever",
     "top_n": 1,
     "old_snapshot_date": "2026-11-01",
     "new_snapshot_date": "2026-11-04",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-04T05:51:53.919084+00:00",
+    "finished_at": "2026-11-04T19:45:55.602363+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
