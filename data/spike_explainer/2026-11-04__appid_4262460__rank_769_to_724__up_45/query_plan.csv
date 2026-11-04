@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4262460,ROB RUN,"""ROB RUN"" Steam",general,1,tavily,True,,5
+4262460,ROB RUN,"""ROB RUN"" trailer",general,1,tavily,True,,5
+4262460,ROB RUN,"""ROB RUN"" gameplay",general,1,tavily,True,,5
+4262460,ROB RUN,"""ROB RUN"" demo",general,1,tavily,True,,5
+4262460,ROB RUN,"""ROB RUN"" release date",general,1,tavily,True,,5
+4262460,ROB RUN,"""ROB RUN"" announcement",general,1,tavily,True,,5
+4262460,ROB RUN,"""ROB RUN"" preview",general,1,tavily,True,,5
+4262460,ROB RUN,"""ROB RUN"" review",general,1,tavily,True,,5
+4262460,ROB RUN,"""ROB RUN"" publisher",general,1,tavily,True,,5
+4262460,ROB RUN,"""ROB RUN"" developer",general,1,tavily,True,,5
+4262460,ROB RUN,"site:pcgamer.com ""ROB RUN""",press,2,tavily,False,General budget exhausted,0
+4262460,ROB RUN,"site:rockpapershotgun.com ""ROB RUN""",press,2,tavily,False,General budget exhausted,0
+4262460,ROB RUN,"site:ign.com ""ROB RUN""",press,2,tavily,False,General budget exhausted,0
+4262460,ROB RUN,"site:gamespot.com ""ROB RUN""",press,2,tavily,False,General budget exhausted,0
+4262460,ROB RUN,"site:game8.co ""ROB RUN""",press,2,tavily,False,General budget exhausted,0
+4262460,ROB RUN,"site:reddit.com ""ROB RUN""",social,3,tavily,True,,5
+4262460,ROB RUN,"site:tiktok.com ""ROB RUN""",social,4,tavily,True,,5
+4262460,ROB RUN,"site:instagram.com ""ROB RUN""",social,4,tavily,True,,5
+4262460,ROB RUN,"site:x.com ""ROB RUN""",social,4,tavily,True,,5
+4262460,ROB RUN,"site: ""ROB RUN""",social,4,tavily,True,,5
