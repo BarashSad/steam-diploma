@@ -1,0 +1,815 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+3724300,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=_wE6R8_p4Ck,Toto&#39;s Journey - Playtest trailer,,Play the free demo and wishlist Toto's Journey on Steam: ...,"trailer, demo",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",
+3724300,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=1BLb-n_qpO4,Toto&#39;s Journey Gameplay,,"Toto's Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world ...",gameplay,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+3724300,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=96sWVJZJ1lU,This Little Dog’s Adventure Looks MAGICAL! Toto’s Journey Demo,,"Join me for a first look at the Toto's Journey demo! We're stepping into a magical world as Toto, a brave little dog on a journey ...",demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+3724300,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=7mLm0-0sk8M,Toto&#39;s Journey Demo Is Nearing Its May Steam Release,,Toto's Journey demo is nearing its May release. Details below.,demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+3724300,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183776672,Toto's Journey will be showcased at Tokyo Game Show 2026!🇯🇵,,"We’re thrilled to bring Toto’s Journey to Tokyo Game Show 2026 and introduce our cozy adventure to players from around the world.From September 17–21, you’ll be able to discover the latest version of the game and get a closer look at Toto’s journey through the magical world we’ve been creating.TGS i",showcase,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['showcase'] (+20),
+3724300,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581079,Second playtest is live!,,"Hello, players!The wait is over! Second Toto's Journey playtest is now live and waiting for you to join! What to expect from this demo since the last playtest: Reworked abilities: find special outfits that give Toto unique powers! New level: explore new location enriched with details and points of i",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+3724300,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706690566,Toto’s Journey is Joining Steam Next Fest! 🐾,,"Hi everyone!We’ve got some great news — Toto’s Journey is taking part in Steam Next Fest, and we’re excited to be part of the event!🎉From today until October 26, you’ll be able to discover Toto’s Journey during one of Steam’s biggest events and, of course, play our demo.If you haven't met Toto yet, ",demo,55,medium,Inside extended window (+15); Official Steam News (+20); Keywords ['demo'] (+20),
+3724300,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678536,The Toto’s Journey Demo Is Out Now! 🎮🐾,,"Hello, players! Today, October 14, the Toto’s Journey demo is now available to everyone on Steam — and you can play it for free!To join Toto’s adventure, simply visit the game’s Steam page and download the demo. No keys, requests, or invitations are needed.👇 Play now:Toto’s Journey is an adventure a",demo,55,medium,Inside extended window (+15); Official Steam News (+20); Keywords ['demo'] (+20),
+3724300,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067929329,Toto’s Journey Demo — Coming October 14! 🐾,,"Hello, players! 🐾Toto is back — and we finally have some news we’ve been waiting to share with you: the Toto’s Journey demo is coming to Steam on October 14!Everyone will be able to play it — no access requests, invitations, or waiting lists. Just head to the game’s Steam page, download the demo, an",demo,55,medium,Inside extended window (+15); Official Steam News (+20); Keywords ['demo'] (+20),
+3724300,youtube_video,outside_window,https://www.youtube.com/watch?v=p0hlKM61CUA,Toto&#39;s Journey - Official Gameplay Trailer,,"Check out the Gameplay Trailer for Toto's Journey, a dog-centric fantasy adventure game inspired by the world of The Wizard of ...","trailer, gameplay",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+3724300,youtube_video,outside_window,https://www.youtube.com/watch?v=ibSkk8ouUBY,Toto&#39;s Journey - Official Trailer,,"Big Adventures for a Little Soul! Toto's Journey Gameplay Sometimes, the smallest steps take you to the most incredible ...","trailer, gameplay",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+3724300,youtube_video,outside_window,https://www.youtube.com/watch?v=seaEUcf7rcQ,Toto s Journey Gameplay Trailer,,"Welcome to my review of the Toto's Journey Gameplay Trailer. If you enjoy game trailers, gameplay, and honest gaming ...","trailer, gameplay",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+3724300,youtube_video,outside_window,https://www.youtube.com/watch?v=p0hlKM61CUA,Toto&#39;s Journey - Official Gameplay Trailer,,"Check out the Gameplay Trailer for Toto's Journey, a dog-centric fantasy adventure game inspired by the world of The Wizard of ...","trailer, gameplay",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+3724300,youtube_video,outside_window,https://www.youtube.com/watch?v=ibSkk8ouUBY,Toto&#39;s Journey - Official Trailer,,"Big Adventures for a Little Soul! Toto's Journey Gameplay Sometimes, the smallest steps take you to the most incredible ...","trailer, gameplay",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+3724300,reddit_discussion,unknown_date,https://www.reddit.com/r/playtesters/comments/1usrl1i/pc_steam_looking_for_playtesters_for_totos,[PC / Steam] Looking for playtesters for Toto's Journey - Reddit,"Toto (yes, that one Toto) is looking for his Dorothy in the Magic Land in our game! Check out our mix of CGI and in-game action in trailer!",,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),social
+3724300,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=IT71v8SKIfo,Toto’s Journey — Demo Release Trailer,,"Embark on a magical adventure with Toto, a little dog searching for his way home. After being separated from Dorothy by a ...","trailer, demo",50,medium,"Inside extended window (+15); YouTube (+15); Keywords ['trailer', 'demo'] (+20)",
+3724300,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=IT71v8SKIfo,Toto’s Journey — Demo Release Trailer,,"Embark on a magical adventure with Toto, a little dog searching for his way home. After being separated from Dorothy by a ...","trailer, demo",50,medium,"Inside extended window (+15); YouTube (+15); Keywords ['trailer', 'demo'] (+20)",
+3724300,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=iD_-2Af93q4,Playing Toto&#39;s Journey Demo -  Full video on Sunday! | #mavis_j on #Twitch,,shorts https://www.twitch.tv/mavis_j.,demo,50,medium,Inside extended window (+15); YouTube (+15); Keywords ['demo'] (+20),
+3724300,web_result,unknown_date,https://www.instagram.com/totosjourneygame,Toto's Journey (@totosjourneygame),Toto's Journey launches November 18! Check out our full devlog for the release announcement. Toto's Journey demo is coming to Steam on October 14!,,"demo, announcement",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['demo', 'announcement'] (+20)",general
+3724300,web_result,unknown_date,https://x.com/HanumanGames?lang=en,TOTO'S JOURNEY | Wishlist us on Steam 🐾 (@HanumanGames) / X,"## TOTO'S JOURNEY | Wishlist us on Steam 🐾’s posts
+
+ Pinned
+
+  @HanumanGames
+
+  TOTO'S JOURNEY | Wishlist us on Steam 🐾@HanumanGames
+
+  Oct 28
+
+  Hey, everyone! We’ve got some great news! 🐾 Toto’s Journey launches November 18! Get ready to join Toto, a little but brave dog on a magical adventure to find his way home. 🐶✨ We’re working hard to get everything ready for launch! Check out our full devlog for the release
+
+  
+
+  3
+ @HanumanGames
+
+  TOTO'S JOURNEY | Wishlist us on Steam 🐾@HanumanGames [...] Log inSign up
+
+Log inSign up
+
+TOTO'S JOURNEY | Wishlist us on Steam 🐾
+
+234 posts
+
+TOTO'S JOURNEY | Wishlist us on Steam 🐾 profile banner
+
+@HanumanGames
+
+# TOTO'S JOURNEY | Wishlist us on Steam 🐾
+
+@HanumanGames
+
+Coming November 2026! Play as Toto the dog in a heartwarming magical adventure. Explore, solve puzzles, and follow the storm 🐶 ⬇️ Wishlist Toto's Journey here
+
+s.team/a/3724300
+
+Joined June 2025
+
+56 Following6,687 Followers
+
+RepliesRepliesRepostsRepostsMediaMedia [...] Nov 2
+
+  We’ve reached 50,000 wishlists on Steam! 🔥️️️️️️ Toto can barely contain his excitement, and we’re so grateful to everyone who has supported Toto’s Journey along the way! Thank you for supporting Toto’s Journey, playing the demo, and helping more people discover our
+
+  
+
+  2
+ @HanumanGames
+
+  TOTO'S JOURNEY | Wishlist us on Steam 🐾@HanumanGames
+
+  Nov 2
+
+  We've got some tail-wagging players too! 👻
+
+  
+
+  1
+ @HanumanGames
+
+  TOTO'S JOURNEY | Wishlist us on Steam 🐾@HanumanGames",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),general
+3724300,social_post,unknown_date,https://www.tiktok.com/@furo_tv/video/7697885047755492640,Toto's Journey — Cozy Tiny Dog Adventure Game Demo on Steam,"Play as Toto, a tiny dog lost in a huge magical world. Toto's Journey is a cozy indie adventure where you explore oversized environments,",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+3724300,social_post,unknown_date,https://www.tiktok.com/@whoelsbutme/video/7698844393960230177,Toto's Journey: A Magical Adventure Game | TikTok,"Toto's Journey is categorized as a cozy game, emphasizing a relaxed yet engaging gameplay experience. It falls under the umbrella of adventure",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+3724300,social_post,unknown_date,https://steamcommunity.com/app/3724300,Steam Community :: Toto's Journey,"Store Page
+
+Toto's Journey
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Toto's Journey
+
+Store Page
+
+2 in Group Chat;)
+
+2 in Group Chat;)
+
+Toto’s Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a mysterious cyclone. Explore enchanted lands, meet unusual creatures, and solve environmental puzzles as you search for a way back home.
+
+Visit the Store Page [...] Hi everyone!
+
+We’ve got some great news — Toto’s Journey is taking part in Steam Next Fest, and we’re excited to be part of the event!🎉
+
+From today until October 26, you’ll be able to discover Toto’s Journey during one of Steam’s biggest events and, of course, play our demo.
+
+If you haven't met Toto yet, this is the perfect chance to join him on his journey through the Magical Land. Explore the world, solve puzzles, discover its secrets, and help Toto find his way home. [...] And we're not stopping here! We're continuing to polish the game and work on the details that make Toto's adventure feel special.
+
+In Toto's Journey, you'll get to:
+
+🐶 Explore a magical world inspired by The Wizard of Oz;
+
+🦴 Use Toto's natural abilities to sniff out secrets and discover hidden paths;
+
+🐸 Meet unusual inhabitants and help them along the way;
+
+🧩 Solve puzzles, overcome obstacles, and uncover the mysteries of the world;
+
+✨ Discover magical items and find new ways to explore.",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+3724300,social_post,unknown_date,https://indiebunny.com/news/toto-s-journey-gameplay-trailer,Toto's Journey - Gameplay Trailer | IndieBunny,"Publishers
+:   Hanuman Games, Creata Games
+
+Platforms
+:   PC (Windows)
+
+Genres
+:   Action, Adventure, Casual, Indie
+
+Price
+:   TBA
+
+View on SteamOfficial websiteGame hub →
+
+Toto's Journey is a cozy adventure that casts you as Toto, a brave dog swept into a magical world after a mysterious cyclone. Roam enchanted lands, befriend unusual creatures, and solve environmental puzzles as you search for a way back home.
+
+Tags:SteamPCNewsGameplayTrailer
+
+Share:
+
+## What do you think? [...] Action, Adventure, Casual··1 min read
+
+# Toto's Journey - Gameplay Trailer
+
+Toto's Journey is a cozy adventure that casts you as Toto, a brave dog swept into a magical world after a mysterious cyclone. Roam enchanted lands, befriend unusual creatures, and solve environmental puzzles as you search for a way back home.
+
+Toto's Journey - Gameplay Trailer
+
+Watch on YouTube
+
+## Toto's Journey - Facts
+
+Release date
+:   18 Nov, 2026 (upcoming)
+
+Developer
+:   Hanuman Games [...] ### Community tags
+
+Reader opinion, not Steam's tags. Shown publicly once 3 people agree.
+
+DemonSlime
+
+#### DemonSlime
+
+DemonSlime is the pen name of Kaan Hamarat, an indie game enthusiast who enjoys discovering creative projects from small studios. Kaan Hamarat covers new releases, developer updates, and the ideas behind memorable indie games.
+
+## Toto's Journey - Facts
+
+Release date
+:   18 Nov, 2026 (upcoming)
+
+Developer
+:   Hanuman Games
+
+Publishers
+:   Hanuman Games, Creata Games",,"trailer, gameplay, demo, release date",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo', 'release date'] (+20)",social
+3724300,social_post,unknown_date,https://www.ign.com/games/totos-journey/videos,Toto's Journey [Videos] - IGN,"Skip to contentIGN LogoIGN Logo
+
+IGN LogoIGN Logo
+
+# Toto's Journey
+
+Hanuman Games
+
+•
+
+Initial Release: TBA 2026
+
+•PC
+
+NR
+
+IGN Rating
+
+OverviewPlaylistsReviews
+
+### Images & Screenshots
+
+### Summary
+
+Toto’s Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a mysterious cyclone. Explore enchanted lands, meet unusual creatures, and solve environmental puzzles as you search for a way back home.
+
+Developers
+
+Hanuman Games [...] Hanuman Games
+
+Publishers
+
+Hanuman Games
+
+Initial Release
+
+TBA 2026
+
+Platforms
+
+PC
+
+Genres
+
+Action, Adventure
+
+HowLongToBeat
+
+#### --
+
+Main Story
+
+#### --
+
+Story + Sides
+
+#### --
+
+#### --
+
+All Styles
+
+Videos
+
+Jul 9, 2026
+
+Toto's Journey - Official Gameplay Trailer
+
+Jul 9, 2026",,"trailer, gameplay",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",social
+3724300,social_post,unknown_date,https://www.youtube.com/watch?v=p0hlKM61CUA,Toto's Journey - Official Gameplay Trailer,"### Description
+66,590 views
+Posted: 2026-07-09
+Check out the Gameplay Trailer for Toto's Journey, a dog-centric fantasy adventure game inspired by the world of The Wizard of Oz, developed by Hanuman Games. Players will embody Toto on a grand adventure after being taken to an enchanted land by a treacherous cyclone. Overcome platforming challenges, solve environmental puzzles, and embark on the ultimate search to return home. Toto's Journey is coming soon to PC (Steam). [...] # Toto's Journey - Official Gameplay Trailer
+## Channel: GameTrailers (verified)
+1.34M subscribers
+2.4K likes",,"trailer, gameplay",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",social
+3724300,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357023572,🎮 The Toto's Journey Playtest Has Ended!,,"Thank You for Playing! 🐾Thank you to everyone who joined Toto on this adventure!Over the course of the playtest, we received an incredible amount of feedback, kind messages, and valuable suggestions.As a small indie team, your support means the world to us. Your feedback helps us improve Toto's Jour",,40,medium,Official Steam News (+20); Exact title match (+20),
+3724300,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329265300,Toto's Journey Playtest ends this Wednesday!⏳,,"Hey, friend!My adventure ends this Wednesday.There's still time to join me in the Magic Land! We've received so much wonderful feedback over the past few weeks, and every message has helped us make the game better.If you haven't played Toto's Journey yet, I'd love to see you there. 🐾🫶 Join the Steam",,40,medium,Official Steam News (+20); Exact title match (+20),
+3724300,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253504,Media contest!,,"Hello, players! The playtest is up and running! A lot of players have already sumbitted their feedback. Thank you! It is you who help shape Toto's Journey future. Playtest participation is still open! Feel free to join at the game Steam page and explore the bit of Toto's Journey adventure. Just clic",,40,medium,Official Steam News (+20); Exact title match (+20),
+3724300,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165577390,Our second playtest is close!,,"Hello, players!We are back with an important update on Toto's Journey! It has been a while since we closed our very first playtest. Since then, the team has been hard at work analyzing your feedback, refining mechanics, and expanding the Magic Land. Today, we are thrilled to announce that we are act",,40,medium,Official Steam News (+20); Exact title match (+20),
+3724300,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300642,Dev Diary #011: Digging in!,,"Hello, players!We are back with another update on Toto's Journey! Our team is hard at work filling the game world with exciting details, and today we'd like to share more about how our brave dog interacts with his surroundings. In our previous posts, we showed you the environmental diversity of the ",,40,medium,Official Steam News (+20); Exact title match (+20),
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=p0hlKM61CUA,Toto's Journey - Official Gameplay Trailer,"a dog-centric fantasy adventure game inspired by the world of The Wizard of Oz, developed by Hanuman Games. Toto's Journey is coming soon to PC",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=p0hlKM61CUA&xstg=CAMSBhUDzO3xHw%3D%3D,Toto's Journey - Official Gameplay Trailer,"### Description
+64,124 views
+Posted: 2026-07-09
+Check out the Gameplay Trailer for Toto's Journey, a dog-centric fantasy adventure game inspired by the world of The Wizard of Oz, developed by Hanuman Games. Players will embody Toto on a grand adventure after being taken to an enchanted land by a treacherous cyclone. Overcome platforming challenges, solve environmental puzzles, and embark on the ultimate search to return home. Toto's Journey is coming soon to PC (Steam). [...] # Toto's Journey - Official Gameplay Trailer
+## Channel: GameTrailers (verified)
+1.33M subscribers
+2.3K likes",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,web_result,unknown_date,https://indiebunny.com/news/toto-s-journey-gameplay-trailer,Toto's Journey - Gameplay Trailer,"Toto's Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=p0hlKM61CUA,Toto's Journey - Official Gameplay Trailer,"Check out the Gameplay Trailer for Toto's Journey, a dog-centric fantasy adventure game inspired by the world of The Wizard of Oz,",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=ibSkk8ouUBY,Toto's Journey - Official Trailer,"Big Adventures for a Little Soul! Toto's Journey Gameplay Sometimes, the smallest steps take you to the most incredible places.",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=1BLb-n_qpO4,Toto's Journey Gameplay,"Toto's Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+3724300,web_result,unknown_date,https://indiebunny.com/news/toto-s-journey-gameplay-trailer,Toto's Journey - Gameplay Trailer,"Toto's Journey is a cozy adventure that casts you as Toto, a brave dog swept into a magical world after a mysterious cyclone. Roam enchanted",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=p0hlKM61CUA,Toto's Journey - Official Gameplay Trailer,"Check out the Gameplay Trailer for Toto's Journey, a dog-centric fantasy adventure game inspired by the world of The Wizard of Oz,",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=96sWVJZJ1lU,This Little Dog's Adventure Looks MAGICAL! Toto's ...,"Join me for a first look at the Toto's Journey demo! We're stepping into a magical world as Toto, a brave little dog on a journey to find",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=IT71v8SKIfo,Toto's Journey — Demo Release Trailer,"Embark on a magical adventure with Toto, a little dog searching for his way home. In Toto's Journey, you'll explore a colorful world, interact",,"trailer, demo",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+3724300,web_result,unknown_date,https://steamcommunity.com/app/3724300,Toto's Journey,"With the demo now available, we've received lots of feedback from players who have explored the world through Toto's eyes. Discover magical items and find new",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3724300,web_result,unknown_date,https://store.steampowered.com/app/3724300/Totos_Journey,Toto's Journey on Steam,"Download Toto's Journey Demo. Download. This game is not yet available on Steam. Planned Release Date: Nov 18, 2026. This game plans to unlock in approximately ...Read more",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=p0hlKM61CUA,Toto's Journey - Official Gameplay Trailer,"Check out the Gameplay Trailer for Toto's Journey, a dog-centric fantasy adventure game inspired by the world of The Wizard of Oz, developed by",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,web_result,unknown_date,https://store.steampowered.com/app/3724300/Totos_Journey,Toto's Journey on Steam,"Planned Release Date: Nov 18, 2026. This game plans to unlock in ... In Toto's Journey, you play as Toto — a brave and loyal dog who has been swept away",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=p0hlKM61CUA,Toto's Journey - Official Gameplay Trailer,"Check out the Gameplay Trailer for Toto's Journey, a dog-centric fantasy adventure game inspired by the world of The Wizard of Oz,",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,web_result,unknown_date,https://steamcommunity.com/app/3724300,Toto's Journey,Toto's Journey Is Coming to Steam on November 18! we're happy to finally announce that Toto's Journey will be released on November 18! With the demo now,,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+3724300,web_result,unknown_date,https://store.steampowered.com/app/3724300/Totos_Journey,Toto's Journey on Steam,"Release Nov 18, 2026 Toto's Journey is a cozy adventure inspired by the world of The Wizard of Oz. This game is not yet available on Steam Planned Release Date",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=p0hlKM61CUA,Toto's Journey - Official Gameplay Trailer,Toto's Journey is coming soon to PC (Steam). Toto's Journey - Official Gameplay Trailer,,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,web_result,unknown_date,https://indiebunny.com/news/toto-s-journey-gameplay-trailer,Toto's Journey - Gameplay Trailer,"Oct 8, 2026 — Toto's Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a ...Read more",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=p0hlKM61CUA,Toto's Journey - Official Gameplay Trailer,"Check out the Gameplay Trailer for Toto's Journey, a dog-centric fantasy adventure game inspired by the world of The Wizard of Oz,",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,web_result,unknown_date,https://store.steampowered.com/app/3724300/Totos_Journey,Toto's Journey on Steam,"All Games > Adventure Games > Toto's Journey
+
+Community Hub
+
+Toto's Journey
+
+Toto's Journey
+
+Toto's Journey
+
+Developer
+
+Hanuman Games
+
+Publisher
+
+Hanuman Games, Creata Games
+
+Release
+
+Nov 18, 2026
+
+Toto’s Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a mysterious cyclone. Explore enchanted lands, meet unusual creatures, and solve environmental puzzles as you search for a way back home.
+
+All Reviews: [...] Toto’s Journey is a heartfelt adventure about friendship, discovery, and the desire to return home. Explore a mysterious world, meet unforgettable characters, and uncover its hidden truths.
+
+## System Requirements
+
+Minimum:  
+
++ Requires a 64-bit processor and operating system
++ OS: Windows 11
++ Processor: Intel Core i5-10400F / AMD Ryzen 5 3600
++ Memory: 8 GB RAM
++ Graphics: NVIDIA GeForce RTX 3060 8 GB
++ DirectX: Version 12
++ Storage: 20 GB available space
+
+Recommended: [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+Nov 18, 2026
+
+Developer:
+
+Hanuman Games
+
+Publisher:
+
+Hanuman Games, Creata Games
+
+Tags
+
+Popular user-defined tags for this product:
+
+Dogs  Adventure  Exploration  Puzzle  Atmospheric  Fantasy  Story Rich  Cozy  Third Person  Action-Adventure  Magic  Cute  Relaxing  Stylized  Family Friendly  3D  Colorful  Walking Simulator  Casual  Arcade 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=p0hlKM61CUA,Toto's Journey - Official Gameplay Trailer,"Check out the Gameplay Trailer for Toto's Journey, a dog-centric fantasy adventure game inspired by the world of The Wizard of Oz,",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,web_result,unknown_date,https://store.steampowered.com/app/3724300/Totos_Journey,Toto's Journey on Steam,"All Games > Adventure Games > Toto's Journey
+
+Community Hub
+
+Toto's Journey
+
+Toto's Journey
+
+Toto's Journey
+
+Developer
+
+Hanuman Games
+
+Publisher
+
+Hanuman Games, Creata Games
+
+Release
+
+Nov 18, 2026
+
+Toto’s Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a mysterious cyclone. Explore enchanted lands, meet unusual creatures, and solve environmental puzzles as you search for a way back home.
+
+All Reviews: [...] Publisher: Hanuman Games, Creata Games
+
+Release Date: Nov 18, 2026
+
+Visit the website External   Discord External   Bluesky External   X External   TikTok External   Facebook External   Instagram External   YouTube External   Telegram External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+# Download Toto's Journey Demo
+
+Download
+
+This game is not yet available on Steam
+
+# Planned Release Date: Nov 18, 2026 [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+Nov 18, 2026
+
+Developer:
+
+Hanuman Games
+
+Publisher:
+
+Hanuman Games, Creata Games
+
+Tags
+
+Popular user-defined tags for this product:
+
+Dogs  Adventure  Exploration  Puzzle  Atmospheric  Fantasy  Story Rich  Cozy  Third Person  Action-Adventure  Magic  Cute  Relaxing  Stylized  Family Friendly  3D  Colorful  Walking Simulator  Casual  Arcade 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+3724300,web_result,unknown_date,https://indiebunny.com/news/toto-s-journey-gameplay-trailer,Toto's Journey - Gameplay Trailer,"Oct 8, 2026 — Toto's Journey - Facts. Release date: Q4 2026 (upcoming). Developer: Hanuman Games. Publisher: Hanuman Games. Platforms: PC (Windows). Genres ...Read more",,"trailer, gameplay, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'release date'] (+20)",general
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=p0hlKM61CUA,Toto's Journey - Official Gameplay Trailer,"Toto's Journey, a dog-centric fantasy adventure game inspired by the world of The Wizard of Oz, developed by Hanuman Games. Toto's Journey is",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,web_result,unknown_date,https://store.steampowered.com/app/3724300/Totos_Journey,Toto's Journey on Steam,"All Games > Adventure Games > Toto's Journey
+
+Community Hub
+
+Toto's Journey
+
+Toto's Journey
+
+Toto's Journey
+
+Developer
+
+Hanuman Games
+
+Publisher
+
+Hanuman Games, Creata Games
+
+Release
+
+Nov 18, 2026
+
+Toto’s Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a mysterious cyclone. Explore enchanted lands, meet unusual creatures, and solve environmental puzzles as you search for a way back home.
+
+All Reviews: [...] | Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| Italian | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+| Portuguese - Portugal | ✔ |  | ✔ |
+| Russian | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Portuguese - Brazil | ✔ |  | ✔ |
+
+See all 11 supported languages
+
+Title: Toto's Journey  
+ Genre: Action, Adventure, Casual, Indie  
+
+Developer: Hanuman Games [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+Nov 18, 2026
+
+Developer:
+
+Hanuman Games
+
+Publisher:
+
+Hanuman Games, Creata Games
+
+Tags
+
+Popular user-defined tags for this product:
+
+Dogs  Adventure  Exploration  Puzzle  Atmospheric  Fantasy  Story Rich  Cozy  Third Person  Action-Adventure  Magic  Cute  Relaxing  Stylized  Family Friendly  3D  Colorful  Walking Simulator  Casual  Arcade 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+3724300,web_result,unknown_date,https://www.youtube.com/watch?v=p0hlKM61CUA,Toto's Journey - Official Gameplay Trailer,"Check out the Gameplay Trailer for Toto's Journey, a dog-centric fantasy adventure game inspired by the world of The Wizard of Oz,",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+3724300,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230581,Toto’s Journey Is Coming to Steam on November 18!,,"Hey, everyone!We have some exciting news to share with you!After a long journey of development, countless little details to polish, and so much support from our community, we're happy to finally announce that Toto’s Journey will be released on November 18! 🎉Over the past few months, we've been worki",,35,medium,Inside extended window (+15); Official Steam News (+20),
+3724300,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114028207,When a Game Becomes More Than Just a Game,,"We’d like to share a story that touched our entire team.Far away in Chile, a girl named Fernanda grew up alongside a little dog named Vicente.He came into her life when she was six years old. For sixteen years, they were together, and Vicente was her loyal companion — fearless, devoted, and loved mo",,35,medium,Inside extended window (+15); Official Steam News (+20),
+3724300,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656377427,Toto’s Journey: What to Expect From the Game,,"Toto’s Journey: What Can Players Expect?As development on Toto’s Journey continues, we’ve been getting more and more questions about what the game will be like, when it will be released, and what players can expect from Toto’s journey.So we decided to gather some of the questions we get most often i",,35,medium,Inside extended window (+15); Official Steam News (+20),
+3724300,youtube_video,outside_window,https://www.youtube.com/watch?v=vEbh88SUJss,Game Discovery of Toto&#39;s Journey (playtest) with Macbigicekeys - Kid Friendly Video and Game,,I explore the game mechanics and the first few levels and quests of Toto's Journey. I'll leave a few pros and cons at the end.,,35,medium,YouTube (+15); Exact title match (+20),
+3724300,reddit_discussion,unknown_date,https://www.reddit.com/r/playmygame/comments/1ohhx1l/playtest_totos_journey_cozy_3d_adventure_about_a,[Playtest] Toto's Journey — cozy 3D adventure about a ...,"[Playtest] Toto's Journey — cozy 3D adventure about a brave little dog (FREE on Steam, Nov 1–7) · 1st explorable location · Light puzzles + small",,,30,weak,Reddit (+10); Exact title match (+20),general
+3724300,reddit_discussion,unknown_date,https://www.reddit.com/r/playmygame/comments/1ohhx1l/playtest_totos_journey_cozy_3d_adventure_about_a,[Playtest] Toto's Journey — cozy 3D adventure about a ...,"[Playtest] Toto's Journey — cozy 3D adventure about a brave little dog (FREE on Steam, Nov 1–7) · 1st explorable location · Light puzzles + small ...Read more",,,30,weak,Reddit (+10); Exact title match (+20),general
+3724300,reddit_discussion,unknown_date,https://www.reddit.com/r/playmygame/comments/1ohhx1l/playtest_totos_journey_cozy_3d_adventure_about_a,[Playtest] Toto's Journey — cozy 3D adventure about a ...,"[Playtest] Toto's Journey — cozy 3D adventure about a brave little dog (FREE on Steam, Nov 1–7) · 1st explorable location · Light puzzles + small",,,30,weak,Reddit (+10); Exact title match (+20),general
+3724300,reddit_discussion,unknown_date,https://www.reddit.com/r/playmygame/comments/1ohhx1l/playtest_totos_journey_cozy_3d_adventure_about_a,[Playtest] Toto's Journey — cozy 3D adventure about a ...,"Hi! We're the devs of Toto's Journey, a cozy 3D adventure about friendship, exploration, and a brave little dog.",,,30,weak,Reddit (+10); Exact title match (+20),general
+3724300,reddit_discussion,unknown_date,https://www.reddit.com/r/playtesters/comments/1w0qi47/pc_steam_new_playtest_for_totos_journey_play_as_a,[PC / Steam] New playtest for Toto's Journey — play as a dog in a ...,Toto's Journey is a story-driven adventure where you play as a dog and explore the world from his perspective. Platform. PC (Steam Playtest).,,,30,weak,Reddit (+10); Exact title match (+20),social
+3724300,reddit_discussion,unknown_date,https://www.reddit.com/r/playmygame/comments/1ohhx1l/playtest_totos_journey_cozy_3d_adventure_about_a,[Playtest] Toto's Journey — cozy 3D adventure about a brave little ...,"Hi! We're the devs of Toto's Journey, a cozy 3D adventure about friendship, exploration, and a brave little dog. We're inviting you to playtest",,,30,weak,Reddit (+10); Exact title match (+20),social
+3724300,reddit_discussion,unknown_date,https://www.reddit.com/r/IndieGame/comments/1u854cu/we_are_working_on_a_dig_mechanic_for_totos_journey,We are working on a dig mechanic for Toto's Journey : r/IndieGame,We wanted exploration to feel as natural as possible for a four-legged hero. Toto uses his nose! He can sniff out hidden spots and dig up,,,30,weak,Reddit (+10); Exact title match (+20),social
+3724300,web_result,unknown_date,https://www.instagram.com/totosjourneygame,Toto's Journey (@totosjourneygame),"Coming autumn 2026! Play as Toto the dog in a heartwarming magical adventure. Explore, solve puzzles, and follow the storm.Read more",,,25,weak,Social Index (+5); Exact title match (+20),general
+3724300,social_post,unknown_date,https://www.tiktok.com/@daturaplays/video/7691436075465723167,Toto's Journey game: Cozy dog adventure from The Wizard of Oz,Play as Toto from The Wizard of Oz and explore an enchanted world in Toto's Journey — a cozy dog adventure arriving on Steam in 2026.,,,25,weak,Social Index (+5); Exact title match (+20),social
+3724300,social_post,unknown_date,https://www.tiktok.com/@bullethammer/video/7691433599328849182,Toto's Journey: A Dog's Adventure Back Home - TikTok,"104 Likes, TikTok video from bullethammer (@bullethammer): “Experience Toto's Journey, a game where a dog named Toto is transported to",,,25,weak,Social Index (+5); Exact title match (+20),social
+3724300,social_post,unknown_date,https://www.tiktok.com/@krysticgames/video/7698023143390186782,Toto's Journey: A Cozy Dog Adventure Game | TikTok,"Explore a vast world, solve puzzles, and unlock new abilities to find your way home! Sponsored by Toto's Journey. #cozygames #adventuregames #",,,25,weak,Social Index (+5); Exact title match (+20),social
+3724300,social_post,unknown_date,https://www.instagram.com/popular/totos-journey-game,Totos Journey Game - Instagram,"Toto's Journey is a cozy adventure game inspired by The Wizard of Oz. Players control Toto, a brave dog lost after a cyclone, as he explores magical lands",,,25,weak,Social Index (+5); Exact title match (+20),social
+3724300,social_post,unknown_date,https://www.instagram.com/reel/DWeKqOQgiCS,Toto's Journey is a story-driven adventure puzzle platformer where ...,"Toto's Journey is a third-person adventure about a loyal dog swept into a magical world by a mysterious cyclone. Explore a vast world, meet",,,25,weak,Social Index (+5); Exact title match (+20),social
+3724300,social_post,unknown_date,https://www.instagram.com/reel/De7fSzjBTPY,Toto's Journey is a third-person fantasy adventure game ... - Instagram,"Toto's Journey is a third-person fantasy adventure game where you play as a loyal dog exploring a magical world, solving puzzles, unlocking",,,25,weak,Social Index (+5); Exact title match (+20),social
+3724300,social_post,unknown_date,https://www.instagram.com/reel/Dcq-bGKsI5w,"a cozy magical adventure where YOU play as Toto, a brave and ...","❤️ Meet Toto's Journey — a cozy magical adventure where YOU play as Toto, a brave and loyal dog separated from Dorothy after a mysterious",,,25,weak,Social Index (+5); Exact title match (+20),social
+3724300,social_post,unknown_date,https://www.instagram.com/totosjourneygame,Toto's Journey (@totosjourneygame) • Instagram photos and videos,"Coming autumn 2026! Play as Toto the dog in a heartwarming magical adventure. Explore, solve puzzles, and follow the storm. · 98 followers · 112 following",,,25,weak,Social Index (+5); Exact title match (+20),social
+3724300,social_post,unknown_date,https://x.com/Gustavo_DGoat,Gustavo D Goat 🐐 (@Gustavo_DGoat) / X,"Title: Gustavo D Goat 🐐 (@Gustavo_DGoat) / X
+Gustavo D Goat 🐐 profile banner. # Gustavo D Goat 🐐. billionaire playboy and not a philanthropist. Gustavo D Goat 🐐@Gustavo\_DGoat. This time Next year We’ll be a Millionaires, The power of manifesting. I love you dhh I really do plvut chill out with the ai stuff.... Am not even an ai guy I just believe they has to be common sense and been grounded... Your presentation on the rails conf made things clear rails in the future is fucked. It's pencils down, people. Writing code by hand is no longer an economically viable skill for most programmers at most companies. But the future of making software has never been brighter. Don't you dare black pill this beautiful moment! Hi strangers am me from the past I will become a billionaire. Wait a minute something ain't right 😂. TOTO'S JOURNEY | Wishlist us on Steam 🐾@HanumanGames. Toto’s Journey Playtest is LIVE! Jump in and try the updated version of Toto’s Journey by clicking “Request Access”.🐶 Don’t forget to fill out the survey after playing or share your thoughts in our Discord ➡️discord.gg/hq2r6tBmPJ Enjoy Toto’s.",,,25,weak,Social Index (+5); Exact title match (+20),social
+3724300,social_post,unknown_date,https://x.com/BenLP9,Blimp (@BenLP9) / X,"Title: Blimp (@BenLP9) / X
+here for Ukraine 🇺🇦, then I'm out. Am I the only one who saw a Wildberry burning in russia ? TOTO'S JOURNEY | Wishlist us on Steam 🐾. A tiny dog, a magical world, and one big journey home. Wishlist Toto’s Journey on Steam 🐾. I'm all for international cooperation ...except cooperation with russia. Average cost of recruitment in russia according to Ukraine the latest: 1.65M rub (about $20,000 USD). That's about 7B$/year in recruitment costs alone. Circumvent sanctions at your own risk. Secondary sanctions can be effective - we need to be diligent and relentless though. Today, I announced sanctions against Streit Group, a defence manufacturer that has supplied Russia’s military-industrial complex. These measures will disrupt the flow of technology and equipment fuelling the Kremlin’s war against Ukraine. By targeting those who contribute to. The Brits have nothing on us... Changing of the cobra chicken!!",,,25,weak,Social Index (+5); Exact title match (+20),social
+3724300,social_post,unknown_date,https://x.com/TheTotosFunTim2,The Toto's Fun Time Studios (@TheTotosFunTim2) / X,"Title: The Toto's Fun Time Studios (@TheTotosFunTim2) / X
+The Toto's Fun Time Studios. My name is Antonio i go by Toto i'm 27. i live in tucson az, i have a youtube channel. youtube: The Toto's Fun time Studio Actor, Filmmaker, Director, Writer. Can't wait for this film to be released in 2027 after some festival runs, this film is probably the 2nd longest film I've worked on since ""The Vampire Who Loves"" this story is very inspiring and incredible and I think people will love the characters and story of this film. @lolcowlive @KEEMSTAR @Boogie2988 Looking for a new host or costar?? The Hypnotist: Official TrailerFrom youtube.com.",,trailer,25,weak,Social Index (+5); Keywords ['trailer'] (+20),social
+3724300,social_post,unknown_date,https://store.steampowered.com/app/3724300/Totos_Journey,Toto's Journey on Steam,"All Games > Adventure Games > Toto's Journey
+
+Community Hub
+
+Toto's Journey
+
+Toto's Journey
+
+Toto's Journey
+
+Developer
+
+Hanuman Games
+
+Publisher
+
+Hanuman Games, Creata Games
+
+Release
+
+Nov 18, 2026
+
+Toto’s Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a mysterious cyclone. Explore enchanted lands, meet unusual creatures, and solve environmental puzzles as you search for a way back home.
+
+All Reviews: [...] Toto’s Journey is a heartfelt adventure about friendship, discovery, and the desire to return home. Explore a mysterious world, meet unforgettable characters, and uncover its hidden truths.
+
+## System Requirements
+
+Minimum:  
+
++ Requires a 64-bit processor and operating system
++ OS: Windows 11
++ Processor: Intel Core i5-10400F / AMD Ryzen 5 3600
++ Memory: 8 GB RAM
++ Graphics: NVIDIA GeForce RTX 3060 8 GB
++ DirectX: Version 12
++ Storage: 20 GB available space
+
+Recommended: [...] | Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| Italian | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Simplified Chinese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+| Portuguese - Portugal | ✔ |  | ✔ |
+| Russian | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Portuguese - Brazil | ✔ |  | ✔ |
+
+See all 11 supported languages
+
+Title: Toto's Journey  
+ Genre: Action, Adventure, Casual, Indie  
+
+Developer: Hanuman Games",,,25,weak,Social Index (+5); Exact title match (+20),social
+3724300,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262689015,Developer Diary #016: Turban of Winds,,"Hello, players!The dust from our second playtest has barely settled, and we’re already returning to our series about Magical Items — mysterious artifacts Toto may discover during his journey through the Magic Land.Today, we’d like to tell you about one of the most headstrong items in our collection ",,20,weak,Official Steam News (+20),
+3724300,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446623,Toto’s Journey Playtest ends this Monday!,,"Hello, friend!Toto’s Journey Playtest ends this Monday! If you haven’t played yet, there’s still time to join! Just click “Request Access” on the Toto’s Journey 🎮 Steam.See you in the game! 🐶The best way to support the game right now is to add Toto’s Journey to your Wishlist.🦴 Follow us:DiscordXYouT",,20,weak,Official Steam News (+20),
+3724300,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300801,Playtest is live!,,"Hello, players!We’re happy to announce that Toto’s Journey playtest is live! 🐾You can sign up directly from the game’s Steam page by clicking “Request Access.”Please keep in mind that this is not the final build or final visual quality, so your feedback can have a real impact on development. After p",,20,weak,Official Steam News (+20),
+3724300,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228677567,Developer Diary #015: What Changed After the Playtest,,"Hello, players!Toto is back — and wishes you a grrr-eat day! He’ll be setting off on another adventure soon — the next playtest is just around the corner!After our recent Toto’s Journey playtest, we carefully went through your feedback and continued improving some of the game’s core mechanics.Here’s",,20,weak,Official Steam News (+20),
+3724300,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773708,Dev Diary #013: The Bronze Seed,,"Hello, players!We’re continuing our series about Magical Things — mysterious artifacts that Toto will encounter during his journey through the Magic Land.Today, we’re taking a closer look at a tiny object with the power to transform an entire mountain.The Bronze SeedNo one knows where it came from. ",,20,weak,Official Steam News (+20),
+3724300,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897373,Dev Diary #013: Magical Items,,"Hello, players!In our previous developer diaries, we introduced you to the Magic Land, its inhabitants, and some of the places Toto will discover on his adventure.Toto is brave, loyal, and kind — but where do his magical abilities come from?The answer lies in the unusual discoveries he will come acr",,20,weak,Official Steam News (+20),
+3724300,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038108,Dev Diaries #012: Voices of the Swamps,,"Hello, players!We’re back with another look at the world of Toto’s Journey and the creatures who call the Magic Land their home.Throughout his adventure, Toto will meet many different inhabitants of the Blue Country. Some live among forests and mountains, while others prefer less busy places hidden ",,20,weak,Official Steam News (+20),
+3724300,web_result,unknown_date,https://store.steampowered.com/app/3724300/Totos_Journey,Toto's Journey on Steam,"Toto's Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a mysterious cyclone.",,,20,weak,Exact title match (+20),general
+3724300,web_result,unknown_date,https://www.ign.com/games/totos-journey/videos,Toto's Journey [Videos],"Toto's Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a",,,20,weak,Exact title match (+20),general
+3724300,web_result,unknown_date,https://www.ign.com/games/totos-journey/videos,Toto's Journey [Videos],"Play as Toto, a brave dog. Explore enchanted lands, meet unusual creatures, and solve environmental puzzles as you search for a way back home.",,,20,weak,Exact title match (+20),general
+3724300,web_result,unknown_date,https://store.steampowered.com/app/3724300/Totos_Journey,Toto's Journey on Steam,"Play as Toto, a brave dog lost in a magical world after a mysterious cyclone. Explore enchanted lands, meet unusual creatures, and solve environmental puzzles",,,20,weak,Exact title match (+20),general
+3724300,web_result,unknown_date,https://steamcommunity.com/app/3724300,Toto's Journey,"Toto's Journey Is Coming to Steam on November 18! Oct 28. Hey, everyone! We have some exciting news to share with you! After a long journey",,,20,weak,Exact title match (+20),general
+3724300,web_result,unknown_date,https://totosjourney.com,Toto's Journey,Toto's Journey is a touching adventure set in a magical world inspired by The Wizard of Oz and told through the eyes of Toto — a small but fearless dog.,,,20,weak,Exact title match (+20),general
+3724300,web_result,unknown_date,https://store.steampowered.com/app/3724300/Totos_Journey,Toto's Journey on Steam,"All Games > Adventure Games > Toto's Journey
+
+Community Hub
+
+Toto's Journey
+
+Toto's Journey
+
+Toto's Journey
+
+Developer
+
+Hanuman Games
+
+Publisher
+
+Hanuman Games, Creata Games
+
+Release
+
+Nov 18, 2026
+
+Toto’s Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a mysterious cyclone. Explore enchanted lands, meet unusual creatures, and solve environmental puzzles as you search for a way back home.
+
+All Reviews: [...] Toto’s Journey is a heartfelt adventure about friendship, discovery, and the desire to return home. Explore a mysterious world, meet unforgettable characters, and uncover its hidden truths.
+
+## System Requirements
+
+Minimum:  
+
++ Requires a 64-bit processor and operating system
++ OS: Windows 11
++ Processor: Intel Core i5-10400F / AMD Ryzen 5 3600
++ Memory: 8 GB RAM
++ Graphics: NVIDIA GeForce RTX 3060 8 GB
++ DirectX: Version 12
++ Storage: 20 GB available space
+
+Recommended: [...] Along the journey, you will face a range of puzzles that test your logic and creativity. Open new paths, restore broken mechanisms, and interact with light and shadows to progress. With each solved challenge, Toto grows stronger, unlocking new magical abilities that help him overcome obstacles and continue his search for Dorothy.",,,20,weak,Exact title match (+20),general
+3724300,web_result,unknown_date,https://steamcommunity.com/app/3724300,Toto's Journey,"Toto's Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a mysterious cyclone.Read more",,,20,weak,Exact title match (+20),general
+3724300,web_result,unknown_date,https://hanumangames.com,HanumanGames,"We are thrilled to officially announce our new game in development: Toto’s Journey — a heartfelt adventure through a magical world, inspired by timeless fairy tales and built with love by the Hanuman Games team. The idea was simple: what if we told the story of the Wizard of Oz\… from the point of view […]
+
+Blog Toto's Journey
+
+Next ›
+
+We use cookies to measure marketing efforts and improve our services. Please review the cookie settings and confirm your choice. [...] Hello, players! We continue our series of weekly developer diaries. Right now, the team is actively working on all aspects of the game simultaneously, so we’ll save the «before/after» format shots for future posts. For now, let’s continue exploring the world of Toto’s Journey. Crystals Toto’s main way of interacting with the magical world of […]
+
+Blog Toto's Journey
+
+## Dev Diary #004: Munchkin’s Country [...] ## Latest news
+
+## Dev Diary #009:  How the Toto model has changed
+
+Hello, players! Work on the game is in full swing! Locations are taking shape, treasures are getting lost, and puzzles are becoming even trickier. Our development team is working hard to make Toto’s adventure through the magical world truly exciting! At the same time, we’re improving existing elements of the game. And of course, special […]
+
+Blog Toto's Journey
+
+## Dev Diary #008:  Whimsical Paths",,,20,weak,Exact title match (+20),general
+3724300,web_result,unknown_date,https://steamcommunity.com/app/3724300,Toto's Journey,"Toto's Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a mysterious cyclone.",,,20,weak,Exact title match (+20),general
+3724300,web_result,unknown_date,https://totosjourney.com,Toto's Journey,"A heartfelt adventure where the fairy-tale world feels vast, alive, and full of wonder. Help Toto face every trial, find his way home, and reunite with Dorothy.",,,20,weak,Exact title match (+20),general
+3724300,web_result,unknown_date,https://www.ign.com/games/totos-journey/videos,Toto's Journey [Videos],"Jul 9, 2026 — Developers Hanuman Games Publishers Hanuman Games Initial Release TBA 2026 Platforms PC Genres Action, Adventure HowLongToBeat",,,20,weak,Exact title match (+20),general
+3724300,web_result,unknown_date,https://steamcommunity.com/app/3724300,Toto's Journey,"Toto's Journey is a cozy adventure inspired by the world of The Wizard of Oz. Play as Toto, a brave dog lost in a magical world after a mysterious cyclone.Read more",,,20,weak,Exact title match (+20),general
+3724300,youtube_video,outside_window,https://www.youtube.com/watch?v=wEUnGOuVguA,Toto&#39;s Journey Second Playtest - Full Playthrough,,Main Channel: https://www.youtube.com/c/fatalsteven Twitter: http://www.twitter.com/FatalStevenYT Instagram: http://www.,,15,weak,YouTube (+15),
+3724300,youtube_video,outside_window,https://www.youtube.com/watch?v=wEUnGOuVguA,Toto&#39;s Journey Second Playtest - Full Playthrough,,Main Channel: https://www.youtube.com/c/fatalsteven Twitter: http://www.twitter.com/FatalStevenYT Instagram: http://www.,,15,weak,YouTube (+15),
+3724300,reddit_discussion,unknown_date,https://www.reddit.com/r/rockmusic/comments/1ig89lw/toto_vs_journey,Toto vs. Journey : r/rockmusic - Reddit,"Every member of Toto has been more skilled than every member of Journey, but Journey was always more popular, especially in the US. Toto is huge",,,10,weak,Reddit (+10),social
+3724300,social_post,unknown_date,https://x.com/mexican_toto,Toto’s Mexican Restaurant (@mexican_toto) / X,"04/30/2026
+
+  Come Help us celebrate Cinco de Mayo #cincodemayo #enchiladas #chileverde #polloasado #carneasada
+
+  
+ @mexican_toto
+
+  Toto’s Mexican Restaurant@mexican\_toto
+
+  04/30/2026
+
+  Treat your Mom on Mother’s Day. #mothersday #seafood #poblano #skillet #pineapplemojito
+
+  
+ @mexican_toto
+
+  Toto’s Mexican Restaurant@mexican\_toto
+
+  02/02/2026 [...] 10/15/2026
+
+  Forget pumpkin spice it’s SOUP SEASON #7mares #pozole #menudo
+
+  
+
+  Made with AI
+ @mexican_toto
+
+  Toto’s Mexican Restaurant@mexican\_toto
+
+  09/15/2026
+
+  Fajitas anyone?! Try our Supreme, steak, chicken, shrimp or veggie fajitas. Delicioso#SteakFajitas #chickenfajitas #shrimpfajitas #supremefajitas #veggielovers
+
+  
+ @mexican_toto
+
+  Toto’s Mexican Restaurant@mexican\_toto
+
+  04/30/2026 [...] 02/02/2026
+
+  Toto’s Mexican Restaurant invites you to a Valentines 4 course dinner. start with an Amore Margarita & house salad, followed by a prime steak-fundido and a lobster enchilada served with beans and green rice. Followed by a Caramel Apple empanada, strawberries and cream. 39.95 P/P",,,5,weak,Social Index (+5),social
+3724300,social_post,unknown_date,https://x.com/CNET/status/2028560763888042423,"CNET on X: ""At KBIS 2026, we got a first look at Toto's industry-first Aurora Washlet Plus, which aims to solve a frustrating cleanliness problem. https://t.co/Qq0fEd2AGb"" / X","Title: CNET on X: ""At KBIS 2026, we got a first look at Toto's industry-first Aurora Washlet Plus, which aims to solve a frustrating cleanliness problem. https://t.co/Qq0fEd2AGb"" / X
+## Post. # CNET on X: ""At KBIS 2026, we got a first look at Toto's industry-first Aurora Washlet Plus, which aims to solve a frustrating cleanliness problem. At KBIS 2026, we got a first look at Toto's industry-first Aurora Washlet Plus, which aims to solve a frustrating cleanliness problem. Toto Invented a Toilet That Washes Its Own Rim - CNETFrom cnet.com. 7:59 PM · Mar 2, 2026·3,286.",,,5,weak,Social Index (+5),social
+3724300,web_result,unknown_date,https://tavily.com/knowledge/company/WhqALBQP3wDk,Steam,"# Steam
+ID: WhqALBQP3wDk
+Website: www.steam.jobs
+Headquarters: Częstochowa, Śląskie, Poland
+LinkedIn: www.linkedin.com/company/steamgroup · 1,127 followers
+Industry: Outsourcing and Offshoring Consulting
+Company type: Partnership
+Founded: 2006
+Description: Steam is a company that provides recruitment services for job seekers. They offer a full range of recruitment services and use only those that are needed at a given time. [...] ## Web traffic
+- Monthly visits: 13,437 (25.8% change)
+- Pages per visit: 2.29
+- Average visit duration: 31 seconds
+- Bounce rate: 63%
+- Global rank: 1,753,928
+- Country rank: 37,932
+- Category rank: 267
+
+## Reputation
+- Open roles: 0 [...] ## Headcount
+- Now: 259 · +56 quarterly · +12 monthly
+  - Eastern Europe: 37
+  - Latin America: 0
+  - Southern Europe: 0
+  - Sub Saharan Africa: 0
+  - Central Asia: 0
+  - Northern America: 0
+  - Australia New Zealand: 0
+  - Northern Europe: 0
+  - South Eastern Asia: 0
+  - Polynesia: 0
+  - Southern Asia: 0
+  - Northern Africa: 0
+  - Melanesia: 0
+  - Western Europe: 0
+  - Western Asia: 0",,,0,weak,,general
+3724300,web_result,unknown_date,https://tavily.com/knowledge/company/9trYIBKp0Jyp,Steam,"# Steam
+ID: 9trYIBKp0Jyp
+Website: www.steam-group.net
+Legal name: Steam srl
+Headquarters: Pisa, Tuscany, Italy
+LinkedIn: www.linkedin.com/company/steam-geothermal · 3,141 followers
+Industry: Geothermal Electric Power Generation
+Industry codes: SIC 87, 871, NAICS 54, 541
+Company type: Privately Held
+Founded: 1987
+Social profiles: www.crunchbase.com/organization/steam-b3b4
+Email: info@steam-group.net
+Phone: +39 050 9711664, 050 3136505, 050 9711664 [...] Description: Steam is a company that provides energy solutions and services. They focus on geothermal energy development and offer world-wide professional advice and assistance. [...] ## Headcount
+- Now: 43 · +6 yearly (16.2%) · 0 quarterly · +1 monthly
+  - Southern Europe: 13
+  - Sub Saharan Africa: 1
+  - South Eastern Asia: 1
+  - Eastern Europe: 0
+  - Latin America: 0
+  - Central Asia: 0
+  - Northern America: 0
+  - Australia New Zealand: 0
+  - Northern Europe: 0
+  - Polynesia: 0
+  - Southern Asia: 0
+  - Northern Africa: 0
+  - Melanesia: 0
+  - Western Europe: 0
+  - Western Asia: 0
+
+## Technology
+- Detected: 2
+- amp · last seen 2024-06-03
+- medium · last seen 2024-06-03",,,0,weak,,general
+3724300,web_result,unknown_date,https://tavily.com/knowledge/company/sm9sWtOD10P7,Steam,"# Steam Solutions
+ID: sm9sWtOD10P7
+Website: www.steamsolutions.com
+Headquarters: New Orleans, Louisiana, United States
+LinkedIn: www.linkedin.com/company/steamsolutions · 3,258 followers
+Industry: Oil and Gas
+Industry codes: SIC 50, 507, NAICS 42, 423
+Company type: Privately Held
+Founded: 1928
+Social profiles: www.twitter.com/stmsltns, www.crunchbase.com/organization/stem-solutions
+Phone: 504.523.3627, +1-504.523.3627, (713) 464-9055 [...] ## Web traffic
+- Monthly visits: 1,172 (119.1% change)
+- Pages per visit: 2.27
+- Average visit duration: 54 seconds
+- Bounce rate: 38%
+- Global rank: 12,286,343
+- Country rank: 4,355,181
+- Category rank: 991
+
+## Reputation
+- Employee review score: 4 from 2 reviews
+- Open roles: 0
+
+## Similar companies
+- kaishan group
+- super radiator coils
+- baymak
+- alfa laval [...] ## Headcount
+- Now: 60 · -5 yearly (-7.7%) · 0 quarterly · 0 monthly
+  - Northern America: 27
+  - Eastern Europe: 0
+  - Latin America: 0
+  - Southern Europe: 0
+  - Sub Saharan Africa: 0
+  - Central Asia: 0
+  - Australia New Zealand: 0
+  - Northern Europe: 0
+  - South Eastern Asia: 0
+  - Polynesia: 0
+  - Southern Asia: 0
+  - Northern Africa: 0
+  - Melanesia: 0
+  - Western Europe: 0
+  - Western Asia: 0",,,0,weak,,general

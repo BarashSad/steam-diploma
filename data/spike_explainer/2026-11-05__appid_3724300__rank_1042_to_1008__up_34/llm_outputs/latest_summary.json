@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-05T19:53:30.367643+00:00",
+    "timestamp": "20261105_195330",
+    "input_file": "data/spike_explainer/2026-11-05__appid_3724300__rank_1042_to_1008__up_34/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-05__appid_3724300__rank_1042_to_1008__up_34/llm_outputs/gemini_20261105_195330.md",
+    "game_title": "Toto's Journey",
+    "appid": "3724300",
+    "duration_sec": 24.95,
+    "response_length": 6966,
+    "error": null
+}

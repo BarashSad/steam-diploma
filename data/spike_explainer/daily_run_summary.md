@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Pool of Radiance: Ruins of Myth Drannor
+Analyzed: Toto's Journey
 Tavily Budget Used: 15
 Errors: 0

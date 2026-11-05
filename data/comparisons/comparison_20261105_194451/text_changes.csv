@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+1531180,Lost Isle,Lost Isle,1111,1102,9,9,up,none,Unpriced (Coming Soon),Free,True,2026,Coming soon,True
+3035270,Backrooms,Backrooms,949,941,8,8,up,none,Free,Free,False,2026,2027,True
+4108680,Nightholme,Nightholme,644,641,3,3,up,none,Unpriced (Coming Soon),Free,True,To be announced,Q1 2027,True
+3647010,DRUG Schedule,DRUG Schedule,387,386,1,1,up,none,Free,Free,False,2026,2027,True
