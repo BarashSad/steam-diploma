@@ -1,0 +1,63 @@
+{
+    "appnews": {
+        "appid": 4834760,
+        "newsitems": [
+            {
+                "gid": "1847920302237667",
+                "title": "Demo, Patch #1 Notes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302237667",
+                "is_external_url": true,
+                "author": "Razarti",
+                "contents": "- General performance improvements across the demo.- Improved controller navigation and handling in the Inventory.- Fixed a font-related issue that could cause the game to crash unexpectedly.- Adjusting the text size in the settings now works correctly, making in-game text easier to read.",
+                "feedlabel": "Community Announcements",
+                "date": 1793349120,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4834760,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1846651706692954",
+                "title": "Pool of Radiance: Ruins of Myth Drannor releases on November 6th!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692954",
+                "is_external_url": true,
+                "author": "sneg_pawel",
+                "contents": "Dear Adventurers!We are happy to announce that Pool of Radiance: Ruins of Myth Drannor will be releasing on Steam on November 6th!You can try the game right now with the free demo, which includes the first location. Your demo progress will carry over to the full game.The re-release comes with a full suite of enhancements:Runs smoothly on modern hardwareFixed numerous original game bugsWidescreen support, including 4KSharper visualsImproved UI with the addition of the action bar and tooltipsAdjustable combat animation speedOptional \"Legacy\" mode that preserves original gameplay and visualsFull controller supportReworked camera controlCustomize the scope of the enhancements with the in-game settingsOther Quality of Life improvements We wish you good luck on your quest to stop the sorceress and the dracolich from ruining Faer\u00fbn! ",
+                "feedlabel": "Community Announcements",
+                "date": 1792449392,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4834760
+            },
+            {
+                "gid": "1837955055366878",
+                "title": "A forgotten dungeon crawler from the Baldur's Gate era is coming to Steam and GOG for the first time ever",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055366878",
+                "is_external_url": true,
+                "author": "Andy Chalk",
+                "contents": "Pool of Radiance: Ruins of Myth Drannor launched in 2001 amidst the isometric D&D resurgence powered by the success of the Baldur's Gate games. Alas, it did not fare quite as well, because\u2014bluntly\u2014it wasn't great. It faded into memory fairly quickly, recalled occasionally by die-hard fans of the genre and not many others, but never with enough affection to warrant a second chance... <a href=\"https://www.pcgamer.com/games/rpg/a-forgotten-dungeon-crawler-from-the-baldurs-gate-era-is-coming-to-steam-and-gog-for-the-first-time-ever/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+                "feedlabel": "PC Gamer",
+                "date": 1784053815,
+                "feedname": "PC Gamer",
+                "feed_type": 0,
+                "appid": 4834760
+            },
+            {
+                "gid": "1837955055364204",
+                "title": "Pool of Radiance: Ruins of Myth Drannor is coming back!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055364204",
+                "is_external_url": true,
+                "author": "sneg_pawel",
+                "contents": "Dear adventurers! We are happy to announce that Pool of Radiance: Ruins of Myth Drannor, a classic Dungeons & Dragons cRPG from 2001, will be re-released on Steam in Q4 2026. This will mark the first time the game is available digitally. Gather your party and set out for the elven ruins to stop a dracolich from unleashing unspeakable horrors upon Faer\u00fbn. The re-release will focus on making sure the game runs smoothly on modern systems. We'll share more details about the enhancements closer to game's release date - so be sure to wishlist and stay tuned for more news! More classics coming back Pool of Radiance: Ruins of Myth Drannor is one of the six games that we are bringing back in Q4 this year: Rediscover the pastRediscover the original Pool of Radiance through Forgotten Realms: The Archives \u2013 Collection Two.Like our other Dungeons & Dragons Classics, it's on sale now as part of the SNEG Publisher Sale!Follow SNEG on Steam",
+                "feedlabel": "Community Announcements",
+                "date": 1783968703,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4834760
+            }
+        ],
+        "count": 4
+    }
+}

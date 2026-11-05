@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4834760,Pool of Radiance: Ruins of Myth Drannor,Pool of Radiance: Ruins of Myth Drannor,1114,1088,26,26,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 6, 2026","Nov 6, 2026",False
+4776500,Carry On Together,Carry On Together,904,879,25,25,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 6, 2026","Nov 6, 2026",False
+5185750,Trafficity,Trafficity,745,725,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 16, 2026","Nov 16, 2026",False
+3724300,Toto's Journey,Toto's Journey,1062,1042,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 18, 2026","Nov 18, 2026",False

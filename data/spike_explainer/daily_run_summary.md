@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Worst Class Ever
+Analyzed: Pool of Radiance: Ruins of Myth Drannor
 Tavily Budget Used: 15
 Errors: 0

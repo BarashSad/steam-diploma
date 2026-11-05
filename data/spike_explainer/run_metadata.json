@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-11-04T19:45:55.602350+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261104_193551/rank_changes.csv",
-    "selected_appid": "5175310",
-    "selected_game_title": "Worst Class Ever",
+    "started_at": "2026-11-05T06:09:57.360119+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261105_055924/rank_changes.csv",
+    "selected_appid": "4834760",
+    "selected_game_title": "Pool of Radiance: Ruins of Myth Drannor",
     "top_n": 1,
-    "old_snapshot_date": "2026-11-01",
-    "new_snapshot_date": "2026-11-04",
+    "old_snapshot_date": "2026-11-02",
+    "new_snapshot_date": "2026-11-05",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-04T19:45:55.602363+00:00",
+    "finished_at": "2026-11-05T06:09:57.360133+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
