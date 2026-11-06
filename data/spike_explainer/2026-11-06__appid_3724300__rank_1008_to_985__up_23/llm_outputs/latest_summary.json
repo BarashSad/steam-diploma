@@ -1,0 +1,15 @@
+{
+    "status": "error_api_failure",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-06T06:06:32.125430+00:00",
+    "timestamp": "20261106_060632",
+    "input_file": "data/spike_explainer/2026-11-06__appid_3724300__rank_1008_to_985__up_23/llm_summary_input.md",
+    "output_path": "",
+    "game_title": "Toto's Journey",
+    "appid": "3724300",
+    "duration_sec": 0.0,
+    "response_length": 0,
+    "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+}

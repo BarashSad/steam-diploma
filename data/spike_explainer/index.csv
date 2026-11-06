@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-05T19:53:02.841595+00:00,3724300,Toto's Journey,data/spike_explainer/2026-11-05__appid_3724300__rank_1042_to_1008__up_34,34,70,data/spike_explainer/2026-11-05__appid_3724300__rank_1042_to_1008__up_34/llm_summary_input.md
+2026-11-06T06:05:54.517030+00:00,3724300,Toto's Journey,data/spike_explainer/2026-11-06__appid_3724300__rank_1008_to_985__up_23,23,70,data/spike_explainer/2026-11-06__appid_3724300__rank_1008_to_985__up_23/llm_summary_input.md
