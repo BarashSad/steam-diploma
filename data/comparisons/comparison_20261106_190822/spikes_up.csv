@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3724300,Toto's Journey,Toto's Journey,985,955,30,30,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 18, 2026","Nov 18, 2026",False
+5086460,PeeVPee,PeeVPee,882,859,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 9, 2026","Nov 9, 2026",False
+5200620,Dungeonbound,Dungeonbound,1019,996,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 15, 2026","Nov 15, 2026",False
+5175310,Worst Class Ever,Worst Class Ever,832,810,22,22,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 9, 2026","Nov 9, 2026",False
