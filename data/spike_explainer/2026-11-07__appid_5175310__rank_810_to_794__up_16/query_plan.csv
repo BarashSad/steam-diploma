@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5175310,Worst Class Ever,"""Worst Class Ever"" Steam",general,1,tavily,True,,5
+5175310,Worst Class Ever,"""Worst Class Ever"" trailer",general,1,tavily,True,,5
+5175310,Worst Class Ever,"""Worst Class Ever"" gameplay",general,1,tavily,True,,5
+5175310,Worst Class Ever,"""Worst Class Ever"" demo",general,1,tavily,True,,5
+5175310,Worst Class Ever,"""Worst Class Ever"" release date",general,1,tavily,True,,5
+5175310,Worst Class Ever,"""Worst Class Ever"" announcement",general,1,tavily,True,,5
+5175310,Worst Class Ever,"""Worst Class Ever"" preview",general,1,tavily,True,,5
+5175310,Worst Class Ever,"""Worst Class Ever"" review",general,1,tavily,True,,5
+5175310,Worst Class Ever,"""Worst Class Ever"" publisher",general,1,tavily,True,,5
+5175310,Worst Class Ever,"""Worst Class Ever"" developer",general,1,tavily,True,,5
+5175310,Worst Class Ever,"site:pcgamer.com ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0
+5175310,Worst Class Ever,"site:rockpapershotgun.com ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0
+5175310,Worst Class Ever,"site:ign.com ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0
+5175310,Worst Class Ever,"site:gamespot.com ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0
+5175310,Worst Class Ever,"site:game8.co ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0
+5175310,Worst Class Ever,"site:reddit.com ""Worst Class Ever""",social,3,tavily,True,,5
+5175310,Worst Class Ever,"site:tiktok.com ""Worst Class Ever""",social,4,tavily,True,,5
+5175310,Worst Class Ever,"site:instagram.com ""Worst Class Ever""",social,4,tavily,True,,5
+5175310,Worst Class Ever,"site:x.com ""Worst Class Ever""",social,4,tavily,True,,5
+5175310,Worst Class Ever,"site: ""Worst Class Ever""",social,4,tavily,True,,5
