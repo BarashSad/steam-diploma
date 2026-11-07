@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-11-07T05:36:55.887006+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261107_052749/rank_changes.csv",
+    "started_at": "2026-11-07T17:47:57.101556+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261107_173916/rank_changes.csv",
     "selected_appid": "5175310",
     "selected_game_title": "Worst Class Ever",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-07T05:36:55.887018+00:00",
+    "finished_at": "2026-11-07T17:47:57.101573+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

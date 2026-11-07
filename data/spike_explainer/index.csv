@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-07T05:36:31.194212+00:00,5175310,Worst Class Ever,data/spike_explainer/2026-11-07__appid_5175310__rank_810_to_794__up_16,16,85,data/spike_explainer/2026-11-07__appid_5175310__rank_810_to_794__up_16/llm_summary_input.md
+2026-11-07T17:47:30.234822+00:00,5175310,Worst Class Ever,data/spike_explainer/2026-11-07__appid_5175310__rank_794_to_759__up_35,35,85,data/spike_explainer/2026-11-07__appid_5175310__rank_794_to_759__up_35/llm_summary_input.md

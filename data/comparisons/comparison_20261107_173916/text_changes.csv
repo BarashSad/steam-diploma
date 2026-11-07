@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2872240,Lost in the Roots,Lost in the Roots,544,545,-1,1,down,none,Unpriced (Coming Soon),Free,True,Q4 2026,Coming soon,True
+3266110,Black Pine,Black Pine,870,871,-1,1,down,none,Free,Free,False,"Mar 31, 2027",Coming soon,True
+3340880,Silicone Heart,Silicone Heart,801,801,0,0,stable,none,Unpriced (Coming Soon),Free,True,"Dec 1, 2026",2027,True
