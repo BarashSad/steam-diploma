@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-08T05:37:32.962044+00:00,5189950,Winx Club - Moonlight Quest,data/spike_explainer/2026-11-08__appid_5189950__rank_1105_to_1056__up_49,49,45,data/spike_explainer/2026-11-08__appid_5189950__rank_1105_to_1056__up_49/llm_summary_input.md
+2026-11-08T17:57:33.041032+00:00,5086460,PeeVPee,data/spike_explainer/2026-11-08__appid_5086460__rank_782_to_713__up_69,69,85,data/spike_explainer/2026-11-08__appid_5086460__rank_782_to_713__up_69/llm_summary_input.md

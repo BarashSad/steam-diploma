@@ -1,0 +1,21 @@
+{
+    "appnews": {
+        "appid": 5086460,
+        "newsitems": [
+            {
+                "gid": "1847286114033179",
+                "title": "Big Demo Update: Toilet Wars, Global Leaderboard, Bug Fixes & More! \ud83d\udebd",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114033179",
+                "is_external_url": true,
+                "author": "Raul",
+                "contents": "Hey everyone!I've just released a pretty big update for the PeeVPee demo, bringing a brand-new gamemode, a new map, a global leaderboard, and a bunch of fixes and improvements!I've also been going through your feedback and trying to fix as many issues as possible. Here's everything that's changed!\ud83d\udebd NEW GAMEMODE: Toilet Wars!A brand-new team-based gamemode is here, along with a new construction-themed map!Each team has its own base and toilet. Your goal is simple: get into the enemy base and pee in their toilet while protecting yours!The team that fills the enemy toilet first wins!\ud83c\udfc6 Global LeaderboardThink you're the biggest pisser of them all? Now you can prove it!I've added a global leaderboard where you can compete against other players.Win at least one match to qualify for the leaderboard.Every match you win earns you 1 point, regardless of the gamemode.Climb the rankings and try to reach the top 10!\ud83c\udfaf New Challenges & ImprovementsAlong with Toilet Wars, I've made a bunch of other changes:Added new challenges related to Toilet Wars.Added descriptions for all gamemodes, including information about the prize pool.Added an Unstuck button in the main menu in case you get stuck somewhere.Increased power-up durations.Fixed most of the bugs and issues reported by players.Made a lot of performance optimizations to help the game run smoother.\u26a0\ufe0f Having Trouble Joining Sessions?Since the demo has received several updates, some players might still be hosting sessions on older versions of the game.If your game version doesn't match the host's version, you won't be able to join their session.If you're having connection issues:Make sure your game is updated to the latest version.Completely close and reopen Steam to check for updates.Make sure your friends are also running the latest version.\ud83d\udc9b Thank You!If you've already tried the demo, I'd really appreciate it if you gave it another shot!The new Toilet Wars mode is a lot of fun, especially with friends, and I'd love to hear what you think about it.I'm developing this game on my own, so every bug report, suggestion, and bit of feedback genuinely helps me improve it.There's still plenty more to come!Thank you all for playing and supporting PeeVPee! \ud83d\udc9b",
+                "feedlabel": "Community Announcements",
+                "date": 1792682651,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5086460
+            }
+        ],
+        "count": 1
+    }
+}
