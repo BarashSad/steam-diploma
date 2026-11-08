@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-11-07T17:47:57.101556+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261107_173916/rank_changes.csv",
-    "selected_appid": "5175310",
-    "selected_game_title": "Worst Class Ever",
+    "started_at": "2026-11-08T05:37:57.330763+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261108_052800/rank_changes.csv",
+    "selected_appid": "5189950",
+    "selected_game_title": "Winx Club - Moonlight Quest",
     "top_n": 1,
-    "old_snapshot_date": "2026-11-04",
-    "new_snapshot_date": "2026-11-07",
+    "old_snapshot_date": "2026-11-05",
+    "new_snapshot_date": "2026-11-08",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-07T17:47:57.101573+00:00",
+    "finished_at": "2026-11-08T05:37:57.330779+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

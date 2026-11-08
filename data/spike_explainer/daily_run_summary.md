@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Worst Class Ever
+Analyzed: Winx Club - Moonlight Quest
 Tavily Budget Used: 15
 Errors: 0

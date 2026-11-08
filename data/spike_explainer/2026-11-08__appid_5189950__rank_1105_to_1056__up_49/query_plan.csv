@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5189950,Winx Club - Moonlight Quest,"""Winx Club - Moonlight Quest"" Steam",general,1,tavily,True,,5
+5189950,Winx Club - Moonlight Quest,"""Winx Club - Moonlight Quest"" trailer",general,1,tavily,True,,5
+5189950,Winx Club - Moonlight Quest,"""Winx Club - Moonlight Quest"" gameplay",general,1,tavily,True,,5
+5189950,Winx Club - Moonlight Quest,"""Winx Club - Moonlight Quest"" demo",general,1,tavily,True,,5
+5189950,Winx Club - Moonlight Quest,"""Winx Club - Moonlight Quest"" release date",general,1,tavily,True,,5
+5189950,Winx Club - Moonlight Quest,"""Winx Club - Moonlight Quest"" announcement",general,1,tavily,True,,5
+5189950,Winx Club - Moonlight Quest,"""Winx Club - Moonlight Quest"" preview",general,1,tavily,True,,5
+5189950,Winx Club - Moonlight Quest,"""Winx Club - Moonlight Quest"" review",general,1,tavily,True,,5
+5189950,Winx Club - Moonlight Quest,"""Winx Club - Moonlight Quest"" publisher",general,1,tavily,True,,5
+5189950,Winx Club - Moonlight Quest,"""Winx Club - Moonlight Quest"" developer",general,1,tavily,True,,5
+5189950,Winx Club - Moonlight Quest,"site:pcgamer.com ""Winx Club - Moonlight Quest""",press,2,tavily,False,General budget exhausted,0
+5189950,Winx Club - Moonlight Quest,"site:rockpapershotgun.com ""Winx Club - Moonlight Quest""",press,2,tavily,False,General budget exhausted,0
+5189950,Winx Club - Moonlight Quest,"site:ign.com ""Winx Club - Moonlight Quest""",press,2,tavily,False,General budget exhausted,0
+5189950,Winx Club - Moonlight Quest,"site:gamespot.com ""Winx Club - Moonlight Quest""",press,2,tavily,False,General budget exhausted,0
+5189950,Winx Club - Moonlight Quest,"site:game8.co ""Winx Club - Moonlight Quest""",press,2,tavily,False,General budget exhausted,0
+5189950,Winx Club - Moonlight Quest,"site:reddit.com ""Winx Club - Moonlight Quest""",social,3,tavily,True,,5
+5189950,Winx Club - Moonlight Quest,"site:tiktok.com ""Winx Club - Moonlight Quest""",social,4,tavily,True,,5
+5189950,Winx Club - Moonlight Quest,"site:instagram.com ""Winx Club - Moonlight Quest""",social,4,tavily,True,,5
+5189950,Winx Club - Moonlight Quest,"site:x.com ""Winx Club - Moonlight Quest""",social,4,tavily,True,,5
+5189950,Winx Club - Moonlight Quest,"site: ""Winx Club - Moonlight Quest""",social,4,tavily,True,,5
