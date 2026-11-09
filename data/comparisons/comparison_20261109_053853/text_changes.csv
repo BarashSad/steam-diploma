@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+2630420,Elven Watcher,Elven Watcher,603,604,-1,1,down,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q4 2026,December 2026,True
+4532500,Atelier Karia: The Night Kingdom & the Guide of Memories,Atelier Karia: The Night Kingdom & the Guide of Memories,587,587,0,0,stable,none,Free,$69.99,True,"Feb 24, 2027","Feb 24, 2027",False
+4424120,Sugar-Mommied by a Fox Babe,Sugar-Mommied by a Fox Babe,798,798,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q4 2026,December 2026,True

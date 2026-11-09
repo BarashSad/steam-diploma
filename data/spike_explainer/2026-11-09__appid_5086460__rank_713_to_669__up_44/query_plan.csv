@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5086460,PeeVPee,"""PeeVPee"" Steam",general,1,tavily,True,,5
+5086460,PeeVPee,"""PeeVPee"" trailer",general,1,tavily,True,,5
+5086460,PeeVPee,"""PeeVPee"" gameplay",general,1,tavily,True,,5
+5086460,PeeVPee,"""PeeVPee"" demo",general,1,tavily,True,,5
+5086460,PeeVPee,"""PeeVPee"" release date",general,1,tavily,True,,5
+5086460,PeeVPee,"""PeeVPee"" announcement",general,1,tavily,True,,5
+5086460,PeeVPee,"""PeeVPee"" preview",general,1,tavily,True,,5
+5086460,PeeVPee,"""PeeVPee"" review",general,1,tavily,True,,5
+5086460,PeeVPee,"""PeeVPee"" publisher",general,1,tavily,True,,5
+5086460,PeeVPee,"""PeeVPee"" developer",general,1,tavily,True,,5
+5086460,PeeVPee,"site:pcgamer.com ""PeeVPee""",press,2,tavily,False,General budget exhausted,0
+5086460,PeeVPee,"site:rockpapershotgun.com ""PeeVPee""",press,2,tavily,False,General budget exhausted,0
+5086460,PeeVPee,"site:ign.com ""PeeVPee""",press,2,tavily,False,General budget exhausted,0
+5086460,PeeVPee,"site:gamespot.com ""PeeVPee""",press,2,tavily,False,General budget exhausted,0
+5086460,PeeVPee,"site:game8.co ""PeeVPee""",press,2,tavily,False,General budget exhausted,0
+5086460,PeeVPee,"site:reddit.com ""PeeVPee""",social,3,tavily,True,,5
+5086460,PeeVPee,"site:tiktok.com ""PeeVPee""",social,4,tavily,True,,5
+5086460,PeeVPee,"site:instagram.com ""PeeVPee""",social,4,tavily,True,,5
+5086460,PeeVPee,"site:x.com ""PeeVPee""",social,4,tavily,True,,5
+5086460,PeeVPee,"site: ""PeeVPee""",social,4,tavily,True,,5
