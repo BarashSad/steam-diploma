@@ -1,0 +1,2434 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+5175310,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=hePL5dLNgR4,Worst Class Ever trailer,,Worst Class Ever trailer.,trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5175310,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=BUco1JjBdRw,"Worst Class Ever – Steam Release Trailer (November 9, 2026)",,"Worst Class Ever launches on Steam on November 9, 2026. Official trailer by Funcore Games / Funcore Games, 2P Games, ...",trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5175310,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302247428,[School-Wide Announcement] Worst Class Ever Demo Is Coming to an End,,"Dear Teachers and Students,Ding-ding-ding! Class is over!The Demo for Worst Class Ever will soon conclude its run and be officially taken down on November 3.Since the Demo launched, we've received an incredible amount of support from players! During Steam Next Fest, the game ranked #1 in player coun","demo, announcement",75,strong,"Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo', 'announcement'] (+20)",
+5175310,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114047606,[School-Wide Announcement] Coming Nov 10! — #1 in Steam Next Fest Player Count!,,"Dear Teachers and Students,Worst Class Ever is officially launching on November 10!The Demo ranked #1 in player count during the Steam Next Fest, with over 600,000 players having played the game so far! A huge thank-you to all the students and teachers for your enthusiastic support! The full game is","demo, announcement",75,strong,"Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo', 'announcement'] (+20)",
+5175310,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035431,[School-Wide Announcement]300K Reached in 10 Days! Computer Lab out now!,,"Dear teachers and students,Hello everyone! We are thrilled to share some exciting news with you once again.It has been 10 days since the launch of Worst Class Ever Demo, and the player count has surpassed 300,000! We’ve also claimed the #1 spot for the most popular demo during the Steam Next Fest!Th","demo, announcement",75,strong,"Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo', 'announcement'] (+20)",
+5175310,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706689710,Worst Class Ever Demo 0.1.9 Update Announcement,,"Worst Class Ever Demo 0.1.9 Update AnnouncementDear Teachers and Students,Hello everyone! The new build has been released. This update focuses on improving online connection stability, balancing matches between teachers and students, and fixing various odd issues.Changelog as follows:1. Server & Onl","demo, announcement",75,strong,"Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo', 'announcement'] (+20)",
+5175310,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706684102,Worst Class Ever Demo 0.1.7 Update Announcement,,"Worst Class Ever Demo 0.1.7 Update AnnouncementDear Teachers and Students,Hello everyone! The new build has been released. This update focuses on improving online connection stability, balancing matches between teachers and students, and fixing various odd issues.Changelog as follows:1. Server & Onl","demo, announcement",75,strong,"Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo', 'announcement'] (+20)",
+5175310,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706680752,Demo 0.1.6 Update Announcement,,"Worst Class Ever – Demo Update AnnouncementDear Teachers and Students,Hello everyone!Thank you all for your support of the Worst Class Ever Demo! Over the past few days, we've received a lot of suggestions and bug reports, and our team has been working hard to fix issues and improve the game.We've j","demo, announcement",75,strong,"Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo', 'announcement'] (+20)",
+5175310,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=RGAfz67iQOE,Worst Class Ever trailer,,This is a fun 1-6 player asymmetric party game! Five player are mischievous troublemakers，hide among dozens of NPC students ...,trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5175310,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=qR_zAJ-ufFA,Worst Class Ever | Trailer | Lehrer vs. Schüler Partyspiel,,Worst Class Ever von Funcore Games. Publisher: Funcore Games & 2P Games. Release: Q4 2026 Mehr zum Spiel: ...,trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5175310,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=u5-0ecV7L9I,Worst Class Ever - Trailer,,"Hide among dozens of NPC students to sneak snacks, pass secret notes, and secretly use your phone. Or play the strict teacher ...",trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5175310,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=UVvn1WBflzY,😂 WE GOT TO BE THE WORST CLASS EVER! | Worst Class Ever Gameplay,,WE GOT TO BE THE WORST CLASS EVER! | Worst Class Ever Gameplay Nahhh WHY WAS THIS CLASS SO CHAOTIC?,gameplay,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+5175310,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=RGAfz67iQOE,Worst Class Ever trailer,,This is a fun 1-6 player asymmetric party game! Five player are mischievous troublemakers，hide among dozens of NPC students ...,trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5175310,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=va09Ff7g7qo,เรียนไปกินไป | Worst Class Ever (Demo),,สมัครเป็นสมาชิกช่อง (เข้าสู่ลัทธิหัวโล่น) https://www.youtube.com/channel/UCycKzia69PXRbk0N0I9n4Aw/join Game ...,demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+5175310,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=-8wS8jvrrCk,【＃Worst Class Ever Demo】今から俺の授業を始める,,見なくてもいいからチャンネル登録してください 後悔しませんよ.,demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+5175310,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=BNZM8cncp9A,📚 Worst Class Ever (demo) – PREMIER JOUR dans la pire classe ! ft. @AzarnnVOD,,"Cette vidéo est extraite du live Twitch du 20 Octobre 2026. , Vous pouvez me retrouver en live tous les jours (ou presque) sur ...",demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+5175310,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=cyyzUQrRTuc,Worst Class Ever demo | КТО ЭТО СКАЗАЛ?!,,"Worst Class Ever demo - играем онлайн с другом и рандомами (китайцы). Это демка данной игры, баги имеются, но всё ...",demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+5175310,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=va09Ff7g7qo,เรียนไปกินไป | Worst Class Ever (Demo),,สมัครเป็นสมาชิกช่อง (เข้าสู่ลัทธิหัวโล่น) https://www.youtube.com/channel/UCycKzia69PXRbk0N0I9n4Aw/join Game ...,demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+5175310,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114027262,[School-Wide Announcement]200K Reached in 7 Days! New Gameplay Update Complete,,"Dear teachers and students, hello everyone!We are excited to announce that, 7 days after the release of ""The Worst Class I Ever Had"" Demo, the number of players has exceeded 200,000!To thank everyone for their support, we have combined community feedback and launched a new round of gameplay upgrades","gameplay, demo, announcement",55,medium,"Inside extended window (+15); Official Steam News (+20); Keywords ['gameplay', 'demo', 'announcement'] (+20)",
+5175310,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673733,"[School-Wide Announcement] 10,000+ Players on Day 1! Emergency Repairs Completed",,"Dear Teachers and Students,Hello everyone!We honestly never expected this—just yesterday, on our very first day of the Demo launch, over 10,000+ players downloaded and hopped into the game!Seeing the dashboard stats blew our minds; the entire dev team was both thrilled and incredibly humbled. A huge","demo, announcement",55,medium,"Inside extended window (+15); Official Steam News (+20); Keywords ['demo', 'announcement'] (+20)",
+5175310,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=MucU9hbkHyA,We Giving the Teacher HELL 😭 | Worst Class Ever,,Featuring @ScraitStressin @SmootTV @Tom_Darippa @steviebee426 @kidcret1 Merch | https://www.ratchettlifestyle.com/ ...,,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+5175310,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=PKH7Jps0-CM,ESTOS PIBES ME TIENEN CANSADO -worst class ever,,"Duende logrará encontrar a los alumnos revoltoso de la clase? con joaco, nano.zeko,coker,goncho Seguime en las redes: ...",,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+5175310,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=AD3ajs2lyds,STUDENT VS TEACHER… WHO WON?  | Worst Class Ever,,"One teacher. A whole classroom full of students. And one impostor hiding among them. My job was to blend in, fool the teacher, ...",,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+5175310,social_post,unknown_date,https://www.instagram.com/reel/De45GBfsxF7,Instagram,"Worst Class Ever es un juego multijugador de comedia y sigilo para hasta 6 jugadores donde uno de tus amigos será el profesor y los demás tendrán que convertirse en los peores alumnos del colegio.  
+  
+Los estudiantes deben esconderse entre personajes controlados por el juego, hacer travesuras, comer a escondidas y usar el celular sin que el profesor los descubra. Mientras tanto, el profesor tendrá que identificar a los verdaderos jugadores entre todos los alumnos. [...] 🎮 ¡Ya tiene DEMO GRATIS disponible en Steam para PC!  
+  
+#worstclassever #multijugador #juegosconamigos #multiplayergames #partygames [...] Video by Los Cooperamigos on October 31, 2026. May be an image of poster, costume and text.
+
+Video by Los Cooperamigos on October 31, 2026. May be an image of costume and text.
+
+Video by Los Cooperamigos on October 30, 2026. May be an image of text.
+
+Video by Los Cooperamigos on October 30, 2026. May be an image of costume, helmet, poster and text.
+
+See more posts
+
+---",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+5175310,social_post,unknown_date,https://www.instagram.com/reel/De7uvnkgH4u,Instagram,"itsadl419
+
+Imagine trying to eat your lunch while the teacher plays detective.  
+That's Worst Class Ever Demo. Everyone's hiding among NPC classmates, accusations won't stop, and the students still manage to win.  
+  
+#WorstClassEver #FunnyGameplay #SteamNextFest #TeacherVsStudents #GamingWithFriends
+
+## No comments yet.
+
+Start the conversation.
+
+12
+
+Log in to like or comment.
+
+More posts from itsadl419
+
+Video by ItsADL on September 28, 2026. May be a meme of text. [...] Video by ItsADL on August 21, 2026. May be a video game screenshot.
+
+Video by ItsADL on August 06, 2026.
+
+Video by ItsADL on November 03, 2026. May be a video game screenshot of poster and text.
+
+Video by ItsADL on November 03, 2026. May be an image of text.
+
+Video by ItsADL on November 03, 2026. May be a video game screenshot of microphone and text.
+
+Video by ItsADL on November 03, 2026. May be a video game screenshot of microphone and text. [...] Video by ItsADL on November 03, 2026. May be a video game screenshot of microphone and text.
+
+Video by ItsADL on November 03, 2026. May be a video game screenshot of text.
+
+See more posts
+
+---",,"gameplay, demo",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",social
+5175310,social_post,unknown_date,https://www.instagram.com/p/De4uWFqj1MT,"@thedailygame.news on Instagram: ""Worst Class Ever tops Steam Next Fest demo chart with more than 300,000 players
+
+https://thedailygame.news/story/2026-10-24-worst-class-ever-tops-steam-next-fest-demo-chart-with-more-than-300-000--2666f09a
+
+#gaming #gamingnews #videogames""","Worst Class Ever tops Steam Next Fest demo chart with more than 300,000 players  
+  
+  
+  
+#gaming#gamingnews#videogames
+
+## No comments yet.
+
+Start the conversation.
+
+October 24
+
+Log in to like or comment.
+
+  
+
+More posts from thedailygame.news
+
+Image 5: Photo by @thedailygame.news on November 07, 2026. May be a video game screenshot of text.
+
+Image 6: Photo by @thedailygame.news on November 07, 2026. May be a meme of text. [...] Image 11: Photo by @thedailygame.news on November 06, 2026. May be an image of video games and text.
+
+Image 12: Photo by @thedailygame.news on November 06, 2026. May be an image of vulture, poster and text.
+
+Image 13: Photo by @thedailygame.news on November 06, 2026. May be a video game screenshot of text.
+
+See more posts
+
+  
+
+Meta
+
+About
+
+Blog
+
+Jobs
+
+Help
+
+API
+
+Privacy
+
+Terms
+
+Locations
+
+Popular
+
+Instagram Lite
+
+Meta AI
+
+Muse
+
+Threads
+
+Contact Uploading & Non-Users
+
+Meta Verified
+
+English [...] Image 7: Photo by @thedailygame.news on November 07, 2026. May be an image of video games, card, binder and text.
+
+Image 8: Photo by @thedailygame.news on November 07, 2026. May be an image of video games, videogame controller and text.
+
+Image 9: Photo by @thedailygame.news on November 07, 2026. May be a cartoon of text.
+
+Image 10: Photo by @thedailygame.news on November 07, 2026. May be an image of poster and text.",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+5175310,social_post,unknown_date,https://www.instagram.com/reel/DfUuo3NgS3p,Instagram,"🎥 Footage: Funcore Games / 2P Games — Worst Class Ever Trailer (store.steampowered.com/app/5175310/)  
+Follow @gaming.guru.here for 1 weird game a day 🎮  
+  
+#WorstClassEver #WeirdGames #PartyGames #IndieGames #SteamGames [...] Worst Class Ever: 1 teacher vs 5 students hiding among dozens of NPC classmates 🏫📱  
+  
+🙈 Students blend into the crowd and secretly snack, pass notes and text  
+👀 The teacher hunts for the real players with a sharp-eyed detection mode  
+🎉 Asymmetric party game for up to 6 players online  
+🗓️ Launches on Steam Nov 9  
+  
+Teacher or troublemaker? 👇  
+📤 Send this to the friend who never got caught in class",,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+5175310,social_post,unknown_date,https://www.instagram.com/reel/DfYA9btpgC7,Instagram,"armchair\_gamer
+
+I'm pretty sure teachers aren't allowed to do this?  
+  
+Worst Class Ever Demo is available now on Steam  
+  
+#steam #steamgames #game #games #gamer #gaming #gameplay #new #shorts #trending #trend #trends #teacher #student #school
+
+armchair_gamer's profile picture
+
+armchair\_gamer
+
+Seems Legit?....
+
+Reply
+
+31
+
+Log in to like or comment.
+
+More posts from armchair\_gamer
+
+Video by Arm Chair Gamer on November 06, 2026. May be a cartoon of text. [...] Video by Arm Chair Gamer on October 31, 2026. May be a cartoon of road and text.
+
+Video by Arm Chair Gamer on October 30, 2026. May be a cartoon of text.
+
+Video by Arm Chair Gamer on October 30, 2026. May be an image of poster and text.
+
+See more posts
+
+--- [...] Video by Arm Chair Gamer on November 05, 2026. May be an image of text.
+
+Video by Arm Chair Gamer on November 04, 2026. May be a cartoon of video games and text.
+
+Video by Arm Chair Gamer on November 03, 2026. May be a cartoon of text.
+
+Video by Arm Chair Gamer on November 01, 2026. May be a video game screenshot of text.
+
+Video by Arm Chair Gamer on October 31, 2026. May be a video game screenshot of gas mask and text.",,"gameplay, demo",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",social
+5175310,social_post,unknown_date,https://x.com/DanielOlimac/status/2113619541033156621,Daniel Camilo on X,"300,000+ people have downloaded the ""Worst Class Ever"" demo on Steam. 20,600+ peak concurrent players. Developed by Chinese Funcore Games",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+5175310,social_post,unknown_date,https://x.com/DanielOlimac/status/2113619541033156621/video/1,"300,000+ people have downloaded the ""Worst Class Ever"" demo ... - X","300000+ people have downloaded the ""Worst Class Ever"" demo on Steam. 20600+ peak concurrent players. Developed by Chinese Funcore Games,",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+5175310,social_post,unknown_date,https://x.com/Yomi_Funcore/status/2113596547338236095,"夜之黄泉 | 顽核社 on X: ""Our game Worst Class Ever Demo just hit ...","Our game Worst Class Ever Demo just hit 300,000+ players! Thank you everyone! Cause trouble in class with your friends, eat snacks,",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+5175310,social_post,unknown_date,https://steamcommunity.com/app/5175310?curator_clanid=4777282,Steam Community :: Worst Class Ever,"Store Page
+
+Worst Class Ever
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Worst Class Ever
+
+Store Page
+
+8 in Group Chat;)
+
+8 in Group Chat;)
+
+1 Teacher vs 5 Students. Hide. Prank. Survive. Up to 6-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom.
+
+Visit the Store Page [...] Most popular community and official content for the past week.  (?)
+
+[School-Wide Announcement] Worst Class Ever Demo Is Coming to an End
+
+2 Nov
+
+Dear Teachers and Students,
+
+Ding-ding-ding! Class is over!
+
+The Demo for Worst Class Ever will soon conclude its run and be officially taken down on November 3. [...] 62
+
+2
+
+[School-Wide Announcement]300K Reached in 10 Days! Computer Lab out now!
+
+23 Oct
+
+Dear teachers and students,
+
+Hello everyone!
+
+We are thrilled to share some exciting news with you once again.
+
+It has been 10 days since the launch of Worst Class Ever Demo, and the player count has surpassed 300,000! We’ve also claimed the #1 spot for the most popular demo during the Steam Next Fest!",,"demo, announcement",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['demo', 'announcement'] (+20)",social
+5175310,social_post,unknown_date,https://www.youtube.com/watch?v=vsRCH0GTJ5g,Worst Class Ever Is ABSOLUTELY HILARIOUS 😂 | RavenwoodGaming,"# Worst Class Ever Is ABSOLUTELY HILARIOUS 😂 | RavenwoodGaming
+## Channel: Ravenwood
+203 subscribers
+1 likes
+
+### Description
+67 views
+Posted: 2026-11-05
+Today we're checking out Worst Class Ever, and let me tell you… this game demo was an absolute blast! 😂 [...] 💬 Join the Discord:   / discord  
+
+👍 If you enjoyed the chaos, drop a like, leave a comment, and subscribe for more gaming videos, Heavy RP adventures, and hilarious moments!
+
+#gaming #worstclassever #gamedemo #funnygaming #heavyrp",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+5175310,web_result,unknown_date,https://www.steampagechecker.com/report/worst-class-ever,Worst Class Ever Steam Page Review: 76/100 | StoreCheck,"StoreCheckSteam page analysis
+Check a page
+
+76Strong
+
+# Worst Class EverSteam page analysis
+
+View on Steam ↗
+
+Funcore GamesComing soonOnline Co-OpCo-opMultiplayerTeam-Based
+
+Capsule 93Page copy 72Screenshots 82Setup 69checked 2026-10-30
+
+<50 work
+
+50 Average
+
+60 Solid
+
+70 Strong
+
+80 strong
+
+85 Standout
+
+90 Exceptional
+
+Unlock full report · $9Re-check
+
+Your game? Share the score card: [...] Share score on X%20on%20StoreCheck%2C%20with%206%20fixes%20to%20make.%20Check%20your%20own%20page%20free%3A&url=https%3A%2F%2Fwww.steampagechecker.com%2Freport%2Fworst-class-ever%3Futm_source%3Dx%26utm_medium%3Dshare%26utm_campaign%3Dreport_share)
+
+76/100
+
+STRONG
+
+Similar games: screenshots 86/255 · 2trailers · 13languages
+
+Worst Class Ever Steam header capsuleWorst Class EverFuncore Games · 20 tags · 14 screenshots
+
+## Section scores weights from methodology v1 [...] Measured at 231 × 87: brightness 103/255, contrast 77, colorfulness 46, 29% near-black pixels.
+
+## Store copy short 65 · long 82
+
+Short description · 280 / 300
+
+This is a fun 1-6 player asymmetric party game! Five player are mischievous troublemakers，hide among dozens of NPC students to sneak snacks, pass secret notes, and use phones secretly in class. One player acts as a strict teacher, track down all hidden troublemakers in the crowd.",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+5175310,web_result,unknown_date,https://steamcommunity.com/app/5175310?curator_clanid=4777282,Steam Community :: Worst Class Ever,"62
+
+2
+
+[School-Wide Announcement]300K Reached in 10 Days! Computer Lab out now!
+
+23 Oct
+
+Dear teachers and students,
+
+Hello everyone!
+
+We are thrilled to share some exciting news with you once again.
+
+It has been 10 days since the launch of Worst Class Ever Demo, and the player count has surpassed 300,000! We’ve also claimed the #1 spot for the most popular demo during the Steam Next Fest! [...] 1. A brand-new Female Homeroom Teacher character
+2. Up to 10 unique classroom themes
+3. An increased player limit of 8 players per match
+4. Customizable rooms, with up to 20 settings to tweak, including player count, number of teachers, and item spawn rates
+5. Even more prank items
+6. Smoother server performance and LAN mode support [...] 建议出一些关于老师的随机事件
+
+我建议出一些关于老师的随机事件，比如走廊有访客需要老师到走廊处理，互动时间长短随机。 老师如果不去走廊处理会有惩罚（比如体力惩罚），完成之后老师也会有对应奖励（比如一些增益BUFF之类，比如短时间不掉体力，或者回复大量体力之类的）而且只有老师才会听到互动提示声音 一来可以给学生救人的机会。 二来也可以作为一个博弈点（谁知道老师出去时间是多久，他是真...
+
+6
+
+[哦暗淡哦
+
+5 Nov @ 4:42pm](
+
+General Discussions
+
+更新后进入游戏黑屏
+
+进入游戏后会变成黑屏，可以通过好友功能加入游戏但是会卡在加载界面，底下的对话会显示为UI\_Campus\_Message+数字。朋友能听到我的声音但是看不到我的人。
+
+3
+
+[GenshinPro
+
+30 Oct @ 11:56pm](
+
+General Discussions
+
+2
+
+26 Oct @ 11:52pm
+
+General Discussions
+
+See More Content;)
+
+No more content. So sad.",,"demo, announcement",40,medium,"Exact title match (+20); Keywords ['demo', 'announcement'] (+20)",general
+5175310,web_result,unknown_date,https://www.youtube.com/shorts/Bkmko6KdzOo,Worst Class Ever – Steam Release Trailer (November 9 ...,"Worst Class Ever launches on Steam on November 9, 2026. Official trailer by Funcore Games / Funcore Games, 2P Games, Elegoose Games.",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+5175310,web_result,unknown_date,https://www.dailymotion.com/video/xbry5he,Worst Class Ever - Game Trailer,"Image 9 XboxViewTV  
+   Image 10 12:44  Neverness to Everness - Prologue Gameplay Trailer Image 11 GRYOnline.pl  
+   Image 12 1:34  EverSiege Untold Ages - Launch Trailer Image 13 GRYOnline.pl  
+   Image 14 2:27  The Perfect Game - Trailer Image 15 Movieplayer.it  
+   Image 16 1:37  Ebbtide - Gameplay Trailer Image 17 GRYOnline.pl  
+   0:42  Heavydelic - Gameplay Trailer Image 18 GRYOnline.pl  
+   0:30  Legacy of Valor - Playtest Trailer Image 19 GRYOnline.pl [...] Image 36 2:31  Um Klassen besser Trailer OV Image 37 FILMSTARTS  
+   5:34  Football Manager 27 - Gameplay Preview Image 38 GRYOnline.pl  
+   5:02  Fata Deum - Gameplay Explainer Trailer Image 39 GRYOnline.pl  
+   2:02  Shadow Dungeon - Gameplay Trailer Image 40 GRYOnline.pl  
+   2:31  Team Fortress 2 Meet the Pyro Image 41 GRYOnline.pl  
+   2:03  Everhood - Launch Trailer Image 42 GRYOnline.pl [...] 1:34  Crash Bandicoot 4 - Official 'It’s About Time' Announcement Trailer (2020) Image 20 XboxViewTV  
+   0:59  Better Than Dead - Launch Trailer Image 21 GRYOnline.pl  
+   1:20  Absolum - Launch Trailer Image 22 GRYOnline.pl  
+   1:30  Erosion - Gameplay Trailer Image 23 GRYOnline.pl",,"trailer, gameplay, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'announcement'] (+20)",general
+5175310,web_result,unknown_date,https://www.youtube.com/watch?v=UVvn1WBflzY,😂 WE GOT TO BE THE WORST CLASS EVER! | Worst Class Ever Gameplay,"# 😂 WE GOT TO BE THE WORST CLASS EVER! | Worst Class Ever Gameplay
+## Channel: DoughboykariYT
+15K subscribers
+1 likes
+
+### Description
+271 views
+Posted: 2026-10-27
+😂 WE GOT TO BE THE WORST CLASS EVER! | Worst Class Ever Gameplay
+
+Nahhh 😭💀 WHY WAS THIS CLASS SO CHAOTIC?! We might actually be the WORST class this teacher has EVER had 😂 From the crazy classroom moments to the ridiculous stuff happening around us, this gameplay was pure comedy!
+
+Y’all already know we had to bring the chaos 🤣🔥 [...] [2:48] Go play. Go play. Go play. Go play. Open this door. This room can't be open. What the hell?
+[2:57] What the [ __ ] B sees 30 seconds to coll. Okay. We all
+[3:05] Oh [ __ ] We all in class with it. Oh [ __ ] [ __ ] I'll sit right here.
+[3:14] Me. Sit. Damn. What's in the desk? Nothing in the desk. Cool. Got a little bug. Put that down.
+[3:22] Oh [ __ ] I can use my controller.
+[3:25] The map is crazy. There's a new thing you can escape from. [...] ### Transcript
+[0:00] We got this new game. Hold on. All right. Cool. It connected. It connected to my uh controller. Cool.
+[0:07] Smooth alert. Ruber.
+[0:11] Let's see what this hidden form. Create a room. Private room.
+[0:21] 3029 for me. What the hell?
+[0:24] Room list global. This is a demo. Does not Okay.
+[0:30] Okay, they Oh, they in a too. Smooth. That's smooth. We had to join somebody's room.
+[0:39] Refresh that. Join Let's join his room.
+[0:42] Uh, let's join his room right here.",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+5175310,web_result,unknown_date,https://www.youtube.com/watch?v=VGT3XiSkoSs,Worst Class Ever Demo Preview: Can You Spot the Cheater?,"Worst Class Ever is an asymmetrical multiplayer party game for up to 6 players. Students sneak snacks, peek at phones and throw flashbangs while the teacher's back is turned. The teacher has to catch them in the act, without wrongly accusing the NPCs. [...] [0:33] And I can't think of a close comparison to another game quite like it. Worst Class Ever is an asymmetrical multiplayer party game that places you and up to five of your friends in a
+[0:42] classroom where you either play as a mischievous student keen on fulfilling their no good tricks, or a surveilling teacher hardbent on keeping them in check and making sure they do their [...] [4:50] no career progression on either side, Worst Class Ever is a party game you play until the party feels like moving on. There's only so many times the group
+[4:57] can say, ""Okay, let's try the next floor."" before we're looking elsewhere.
+[5:01] I don't know what the developers have planned beyond the demo and the trailers, so whether anything will keep us in the lobby past that point is the question I'd put to them. Worst Class",,"trailer, demo",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+5175310,web_result,unknown_date,https://playtestboard.com/demos/5354030-worst-class-ever-demo,Worst Class Ever Demo — Free Steam demo | PlaytestBoard,"🎮 PlaytestBoard
+
+Home › Demos
+
+Worst Class Ever Demo
+
+# Worst Class Ever Demo
+
+Free demo
+
+This is a fun 1-6 player asymmetric party game! Five player are mischievous troublemakers，hide among dozens of NPC students to sneak snacks, pass secret notes, and use phones secretly in class. One player acts as a strict teacher, track down all hidden troublemakers in the crowd.
+
+Type
+:   Steam demo
+
+Status
+:   open
+
+For
+:   Worst Class Ever
+
+Developer
+:   Funcore Games [...] Genres
+:   Action, Casual, Indie, Simulation
+
+Platforms
+:   Windows
+
+Release
+:   Oct 11, 2026
+
+First seen
+:   2026-10-20
+
+## More demos
+
+### Etymancy Demo
+
+Free demoNew
+
+### Gacha Chaos Tidy Up Together Demo
+
+Free demoNew
+
+### Bryce Canyon Demo
+
+Free demoNew
+
+### Hysterical Strength Demo
+
+Free demoNew
+
+## 📬 Weekly playtest drop
+
+New playtests, demos, console betas & phone games — once a week, no spam.
+
+Subscribe free →
+
+Sponsor slot available, from $19 — advertise here.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5175310,web_result,unknown_date,https://steamcommunity.com/app/5175310?curator_clanid=4777282,Steam Community :: Worst Class Ever,"Most popular community and official content for the past week.  (?)
+
+[School-Wide Announcement] Worst Class Ever Demo Is Coming to an End
+
+2 Nov
+
+Dear Teachers and Students,
+
+Ding-ding-ding! Class is over!
+
+The Demo for Worst Class Ever will soon conclude its run and be officially taken down on November 3. [...] 62
+
+2
+
+[School-Wide Announcement]300K Reached in 10 Days! Computer Lab out now!
+
+23 Oct
+
+Dear teachers and students,
+
+Hello everyone!
+
+We are thrilled to share some exciting news with you once again.
+
+It has been 10 days since the launch of Worst Class Ever Demo, and the player count has surpassed 300,000! We’ve also claimed the #1 spot for the most popular demo during the Steam Next Fest! [...] the Demo classroom is about to close its doors, the real fun is only just beginning! The full release will bring even more classrooms, a brand-new female homeroom teacher, more prank items, support for up to 8 players, and plenty of other exciting content. Get ready for an even bigger battle of wits between teachers and students!
+
+Class officially starts on November 10! Haven't added the game to your wishlist yet? Be sure to do so! See you in class!
+
+Worst Class Ever
+
+36
+
+6
+
+版本过低",,"demo, announcement",40,medium,"Exact title match (+20); Keywords ['demo', 'announcement'] (+20)",general
+5175310,web_result,unknown_date,https://gamefaqs.gamespot.com/pc/707205-worst-class-ever/data,Worst Class Ever Release Information for PC - GameFAQs,"## Description
+
+1. This is a fun 1-6 player asymmetric party game! Five player are mischievous troublemakers，hide among dozens of NPC students to sneak snacks, pass secret notes, and use phones secretly in class. One player acts as a strict teacher, track down all hidden troublemakers in the crowd.
+
+## Know Something We Don't?
+
+You can submit or update game data or submit game credits to help us keep our data up-to-date.
+
+Company Logo
+
+## Privacy Preference Center [...] ## Release Data
+
+| Box | Title | | | | | |
+| Region | Publisher | Product ID | Distribution / Barcode | Release Date | Rating |
+|  | Worst Class Ever | | | | | |
+| US | Funcore Games | 5175310 | Steam | 11/09/26 |  |
+
+## Description [...] Home
+ Boards
+ News
+ Q&A
+ Community
+ Contribute
+ Games
+
+  
+
+ 3DS
+ Android
+ Board/Card
+ iOS
+ PC
+ PlayStation 3
+ PlayStation 4
+ PlayStation 5
+ Switch
+ Switch 2
+ Vita
+ Xbox 360
+ Xbox One
+ Xbox Series
+ More Systems
+
+Log In
+Sign Up
+
+## Title Data
+
+1. Genre: 
+   Miscellaneous > Party / Minigame
+2. Developer: 
+   Funcore Games
+
+## Release Data",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5175310,web_result,unknown_date,https://store.steampowered.com/app/5175310/Worst_Class_Ever,Worst Class Ever on Steam,"All Games > Casual Games > Worst Class Ever
+
+Community Hub
+
+Worst Class Ever
+
+Worst Class Ever
+
+Worst Class Ever
+
+Developer
+
+Funcore Games
+
+Publisher
+
+Funcore Games, 2P Games
+
+Release
+
+9 Nov, 2026
+
+1 Teacher vs 5 Students. Hide. Prank. Survive. Up to 6-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom. [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+9 Nov, 2026
+
+Developer:
+
+Funcore Games
+
+Publisher:
+
+Funcore Games, 2P Games
+
+Tags
+
+Popular user-defined tags for this product:
+
+Online Co-Op  Co-op  Multiplayer  Team-Based  Social Deduction  Party Game  Funny  Stealth  PvP  First-Person  Action  Comedy  Simulation  Physics  3D  Casual  Indie  Cartoony  Dark Humor  Colorful 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+) [...] Developer: Funcore Games
+
+Publisher: Funcore Games, 2P Games
+
+Release Date: 9 Nov, 2026
+
+QQ External   X External   TikTok External   YouTube External   Bilibili External   RedNote External   Douyin External   View update history   Read related news   View discussions   Visit the Workshop   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Planned Release Date: 9 Nov, 2026
+
+This game plans to unlock in approximately 3 days",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5175310,web_result,unknown_date,https://gamefaqs.gamespot.com/pc/707205-worst-class-ever/data,Worst Class Ever Release Information for PC - GameFAQs,"## Release Data
+
+| Box | Title | | | | | |
+| Region | Publisher | Product ID | Distribution / Barcode | Release Date | Rating |
+|  | Worst Class Ever | | | | | |
+| US | Funcore Games | 5175310 | Steam | 11/09/26 |  |
+
+## Description [...] Home
+ Boards
+ News
+ Q&A
+ Community
+ Contribute
+ Games
+
+  
+
+ 3DS
+ Android
+ Board/Card
+ iOS
+ PC
+ PlayStation 3
+ PlayStation 4
+ PlayStation 5
+ Switch
+ Switch 2
+ Vita
+ Xbox 360
+ Xbox One
+ Xbox Series
+ More Systems
+
+Log In
+Sign Up
+
+## Title Data
+
+1. Genre: 
+   Miscellaneous > Party / Minigame
+2. Developer: 
+   Funcore Games
+
+## Release Data [...] ## Description
+
+1. This is a fun 1-6 player asymmetric party game! Five player are mischievous troublemakers，hide among dozens of NPC students to sneak snacks, pass secret notes, and use phones secretly in class. One player acts as a strict teacher, track down all hidden troublemakers in the crowd.
+
+## Know Something We Don't?
+
+You can submit or update game data or submit game credits to help us keep our data up-to-date.
+
+Company Logo
+
+## Privacy Preference Center",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5175310,web_result,unknown_date,https://www.youtube.com/watch?v=BUco1JjBdRw,"Worst Class Ever – Steam Release Trailer (November 9, 2026)","### Description
+11 views
+Posted: 2026-11-08
+Worst Class Ever launches on Steam on November 9, 2026.
+Official trailer by Funcore Games / Funcore Games, 2P Games,  Elegoose Games. All rights belong to their respective owners.
+Wishlist it on Steam: 
+▶ Watch all of tomorrow's most anticipated Steam games:    • Top 10 Most Anticipated Steam Games Launch...  
+▶ Most anticipated Steam games of November 2026:    • Upcoming Steam Games November 2026: Top 10... [...] # Worst Class Ever – Steam Release Trailer (November 9, 2026)
+## Channel: Launching Tomorrow
+2.48K subscribers
+2 likes [...] 1 Teacher vs 5 Students. Hide. Prank. Survive. Up to 6-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom.
+
+Developer: Funcore Games
+Publisher: Funcore Games, 2P Games,  Elegoose Games
+Genres: Action, Adventure, Casual, Indie, Simulation",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+5175310,web_result,unknown_date,https://steamcommunity.com/app/5175310?curator_clanid=4777282,Steam Community :: Worst Class Ever,"Most popular community and official content for the past week.  (?)
+
+[School-Wide Announcement] Worst Class Ever Demo Is Coming to an End
+
+2 Nov
+
+Dear Teachers and Students,
+
+Ding-ding-ding! Class is over!
+
+The Demo for Worst Class Ever will soon conclude its run and be officially taken down on November 3. [...] 62
+
+2
+
+[School-Wide Announcement]300K Reached in 10 Days! Computer Lab out now!
+
+23 Oct
+
+Dear teachers and students,
+
+Hello everyone!
+
+We are thrilled to share some exciting news with you once again.
+
+It has been 10 days since the launch of Worst Class Ever Demo, and the player count has surpassed 300,000! We’ve also claimed the #1 spot for the most popular demo during the Steam Next Fest! [...] 36
+
+6
+
+版本过低
+
+想跟朋友一起玩但显示版本过低，能解决一下吗
+
+8
+
+[ChaseZ
+
+26 Oct @ 8:30am](
+
+General Discussions
+
+[School-Wide Announcement] Coming Nov 10! — #1 in Steam Next Fest Player Count!
+
+26 Oct
+
+Dear Teachers and Students,
+
+Worst Class Ever is officially launching on November 10!",,"demo, announcement",40,medium,"Exact title match (+20); Keywords ['demo', 'announcement'] (+20)",general
+5175310,web_result,unknown_date,https://store.steampowered.com/app/5175310/Worst_Class_Ever,Worst Class Ever on Steam,"All Games > Casual Games > Worst Class Ever
+
+Community Hub
+
+Worst Class Ever
+
+Worst Class Ever
+
+Worst Class Ever
+
+Developer
+
+Funcore Games
+
+Publisher
+
+Funcore Games, 2P Games
+
+Release
+
+9 Nov, 2026
+
+1 Teacher vs 5 Students. Hide. Prank. Survive. Up to 6-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom. [...] Worst Class Ever is an asymmetric party game set in a chaotic classroom, supporting up to 6 players! One player takes on the role of the strict teacher, while the other five play as mischievous students. The troublemakers must blend in among dozens of NPC classmates and secretly pull off pranks like gobbling snacks, passing notes, and playing on their phones... all without getting caught! The teacher, armed with sharp eyes and a no-nonsense attitude, has to spot every last wannabe delinquent [...] Developer: Funcore Games
+
+Publisher: Funcore Games, 2P Games
+
+Release Date: 9 Nov, 2026
+
+QQ External   X External   TikTok External   YouTube External   Bilibili External   RedNote External   Douyin External   View update history   Read related news   View discussions   Visit the Workshop   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Planned Release Date: 9 Nov, 2026
+
+This game plans to unlock in approximately 3 days",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5175310,web_result,unknown_date,https://gamefaqs.gamespot.com/pc/707205-worst-class-ever/data,Worst Class Ever Release Information for PC - GameFAQs,"## Release Data
+
+| Box | Title | | | | | |
+| Region | Publisher | Product ID | Distribution / Barcode | Release Date | Rating |
+|  | Worst Class Ever | | | | | |
+| US | Funcore Games | 5175310 | Steam | 11/09/26 |  |
+
+## Description [...] ## Description
+
+1. This is a fun 1-6 player asymmetric party game! Five player are mischievous troublemakers，hide among dozens of NPC students to sneak snacks, pass secret notes, and use phones secretly in class. One player acts as a strict teacher, track down all hidden troublemakers in the crowd.
+
+## Know Something We Don't?
+
+You can submit or update game data or submit game credits to help us keep our data up-to-date.
+
+Company Logo
+
+## Privacy Preference Center",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5175310,web_result,unknown_date,https://www.youtube.com/watch?v=vsRCH0GTJ5g,Worst Class Ever Is ABSOLUTELY HILARIOUS 😂 | RavenwoodGaming,"# Worst Class Ever Is ABSOLUTELY HILARIOUS 😂 | RavenwoodGaming
+## Channel: Ravenwood
+203 subscribers
+1 likes
+
+### Description
+67 views
+Posted: 2026-11-05
+Today we're checking out Worst Class Ever, and let me tell you… this game demo was an absolute blast! 😂 [...] [8:33] You're going to be up here for the for the class. [laughter] I'm sorry.
+[8:42] That's right, Stewie.
+[8:44] [laughter]
+[8:45] Yeah. Look at me in shame.
+[8:47] Hey. Hey. Who did that? I saw that. Who did that?
+[8:55] [snorts]
+[8:57] Don't be throwing [ __ ] in this class. God, these [ __ ] kids. Oh my god. Ah.
+[9:05] Oh my god. I can't see anything.
+[9:13] Who got a text message? I told you no phones in this classroom.
+[9:18] Hey, [laughter] is that you?
+[9:26] Oh my god, [snorts] [...] [9:33] [laughter]
+[9:36] it's [ __ ] game, dude. Oh, yeah. That's great.
+[9:45] Was that you? Ow. my eyes. I can't see.
+[9:52] Hey, I'm a good boy. I'm writing in the notebook.
+[9:55] No, I don't think you are. I think you're causing uh some chaos in this uh in this classroom. Oh, my eyes go. This game is ridiculous.
+[10:07] We need to go again. We got to go a few more times.
+[10:11] I want to be the teacher next round if that's okay. Okay. Yeah. Yeah, that's fine.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5175310,web_result,unknown_date,https://www.gamespress.com/en-GB/Worst-Class-Ever-Ranks-No-1-in-Player-Count-During-Steam-Next-Fest,"""'Worst Class Ever Ranks No. 1 in Player Count During Steam Next Fest!"" - Games Press","Developed by Funcore Games and published by 2P Games, Worst Class Ever invites you to relive the hilarious cat-and-mouse games of school days gone by. By the time the bell rings, will the students have turned the classroom upside down, or will the teacher have caught every last troublemaker? There’s only one way to find out!
+
+The Steam Next Fest demo is now available. Class is in session! [...] “The Great Classroom Snack-Off Begins Now!” The demo for the asymmetric party game Worst Class Ever has surpassed 600,000 players and is now scheduled to be released on Steam on November 10! To thank everyone for their support, the development team has rolled out a brand-new level: the Computer Lab! Can students sneak in some gaming during computer class without getting caught by the teacher? [...] A variety of maps bring fresh challenges, each with its own sightlines, blind spots, and opportunities for mischief. Even the teacher’s hunting tactics change from one setting to another! In the dimly lit evening study room, the teacher searches for students with a flashlight. In the computer lab packed with PCs, students try to sneak in a gaming session while keeping an eye on the teacher. New setting, new strategies—every match brings something different!",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5175310,web_result,unknown_date,https://www.dailymotion.com/video/xbry5he,Worst Class Ever - Game Trailer,"Image 36 2:31  Um Klassen besser Trailer OV Image 37 FILMSTARTS  
+   5:34  Football Manager 27 - Gameplay Preview Image 38 GRYOnline.pl  
+   5:02  Fata Deum - Gameplay Explainer Trailer Image 39 GRYOnline.pl  
+   2:02  Shadow Dungeon - Gameplay Trailer Image 40 GRYOnline.pl  
+   2:31  Team Fortress 2 Meet the Pyro Image 41 GRYOnline.pl  
+   2:03  Everhood - Launch Trailer Image 42 GRYOnline.pl [...] Image 9 XboxViewTV  
+   Image 10 12:44  Neverness to Everness - Prologue Gameplay Trailer Image 11 GRYOnline.pl  
+   Image 12 1:34  EverSiege Untold Ages - Launch Trailer Image 13 GRYOnline.pl  
+   Image 14 2:27  The Perfect Game - Trailer Image 15 Movieplayer.it  
+   Image 16 1:37  Ebbtide - Gameplay Trailer Image 17 GRYOnline.pl  
+   0:42  Heavydelic - Gameplay Trailer Image 18 GRYOnline.pl  
+   0:30  Legacy of Valor - Playtest Trailer Image 19 GRYOnline.pl [...] Skip to playerSkip to main content",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+5175310,web_result,unknown_date,https://store.steampowered.com/app/5175310/Worst_Class_Ever,Worst Class Ever on Steam,"All Games > Casual Games > Worst Class Ever
+
+Community Hub
+
+Worst Class Ever
+
+Worst Class Ever
+
+Worst Class Ever
+
+Developer
+
+Funcore Games
+
+Publisher
+
+Funcore Games, 2P Games
+
+Release
+
+9 Nov, 2026
+
+1 Teacher vs 5 Students. Hide. Prank. Survive. Up to 6-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom. [...] Developer: Funcore Games
+
+Publisher: Funcore Games, 2P Games
+
+Release Date: 9 Nov, 2026
+
+QQ External   X External   TikTok External   YouTube External   Bilibili External   RedNote External   Douyin External   View update history   Read related news   View discussions   Visit the Workshop   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Planned Release Date: 9 Nov, 2026
+
+This game plans to unlock in approximately 3 days [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+9 Nov, 2026
+
+Developer:
+
+Funcore Games
+
+Publisher:
+
+Funcore Games, 2P Games
+
+Tags
+
+Popular user-defined tags for this product:
+
+Online Co-Op  Co-op  Multiplayer  Team-Based  Social Deduction  Party Game  Funny  Stealth  PvP  First-Person  Action  Comedy  Simulation  Physics  3D  Casual  Indie  Cartoony  Dark Humor  Colorful 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5175310,web_result,unknown_date,https://gamefaqs.gamespot.com/pc/707205-worst-class-ever/data,Worst Class Ever Release Information for PC - GameFAQs,"## Release Data
+
+| Box | Title | | | | | |
+| Region | Publisher | Product ID | Distribution / Barcode | Release Date | Rating |
+|  | Worst Class Ever | | | | | |
+| US | Funcore Games | 5175310 | Steam | 11/09/26 |  |
+
+## Description [...] Home
+ Boards
+ News
+ Q&A
+ Community
+ Contribute
+ Games
+
+  
+
+ 3DS
+ Android
+ Board/Card
+ iOS
+ PC
+ PlayStation 3
+ PlayStation 4
+ PlayStation 5
+ Switch
+ Switch 2
+ Vita
+ Xbox 360
+ Xbox One
+ Xbox Series
+ More Systems
+
+Log In
+Sign Up
+
+## Title Data
+
+1. Genre: 
+   Miscellaneous > Party / Minigame
+2. Developer: 
+   Funcore Games
+
+## Release Data",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5175310,web_result,unknown_date,https://store.steampowered.com/app/5175310,Worst Class Ever on Steam,"English and 6 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Simplified Chinese | ✔ | ✔ | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+
+See all 7 supported languages
+
+Title: Worst Class Ever  
+ Genre: Action, Adventure, Casual, Indie, Simulation  
+
+Developer: Funcore Games
+
+Publisher: Funcore Games, 2P Games,  Elegoose Games
+
+Release Date: 9 Nov, 2026 [...] All Games > Casual Games > Worst Class Ever
+
+Community Hub
+
+Worst Class Ever
+
+Worst Class Ever
+
+Worst Class Ever
+
+Developer
+
+Funcore Games
+
+Publisher
+
+Funcore Games, 2P Games,  Elegoose Games
+
+Release
+
+9 Nov, 2026 [...] 9 Nov, 2026
+
+1 Teacher vs 5 Students. Hide. Prank. Survive. Up to 6-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+9 Nov, 2026
+
+Developer:
+
+Funcore Games
+
+Publisher:
+
+Funcore Games, 2P Games,  Elegoose Games
+
+Tags
+
+Popular user-defined tags for this product:",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5175310,web_result,unknown_date,https://store.steampowered.com/app/5175310/Worst_Class_Ever,Worst Class Ever on Steam,"All Games > Casual Games > Worst Class Ever
+
+Community Hub
+
+Worst Class Ever
+
+Worst Class Ever
+
+Worst Class Ever
+
+Developer
+
+Funcore Games
+
+Publisher
+
+Funcore Games, 2P Games
+
+Release
+
+9 Nov, 2026
+
+1 Teacher vs 5 Students. Hide. Prank. Survive. Up to 6-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom. [...] Developer: Funcore Games
+
+Publisher: Funcore Games, 2P Games
+
+Release Date: 9 Nov, 2026
+
+QQ External   X External   TikTok External   YouTube External   Bilibili External   RedNote External   Douyin External   View update history   Read related news   View discussions   Visit the Workshop   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Planned Release Date: 9 Nov, 2026
+
+This game plans to unlock in approximately 3 days [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+9 Nov, 2026
+
+Developer:
+
+Funcore Games
+
+Publisher:
+
+Funcore Games, 2P Games
+
+Tags
+
+Popular user-defined tags for this product:
+
+Online Co-Op  Co-op  Multiplayer  Team-Based  Social Deduction  Party Game  Funny  Stealth  PvP  First-Person  Action  Comedy  Simulation  Physics  3D  Casual  Indie  Cartoony  Dark Humor  Colorful 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5175310,web_result,unknown_date,https://www.youtube.com/watch?v=vsRCH0GTJ5g,Worst Class Ever Is ABSOLUTELY HILARIOUS 😂 | RavenwoodGaming,"# Worst Class Ever Is ABSOLUTELY HILARIOUS 😂 | RavenwoodGaming
+## Channel: Ravenwood
+203 subscribers
+1 likes
+
+### Description
+67 views
+Posted: 2026-11-05
+Today we're checking out Worst Class Ever, and let me tell you… this game demo was an absolute blast! 😂 [...] I teamed up with Talon and some others from the Heavy RP community for a hilarious gaming session filled with ridiculous moments, unexpected chaos, and plenty of laughs. This is one of those games where you just have to experience the madness for yourself!
+
+Huge shoutout to Talon and everyone who jumped in and made this session so much fun. Definitely a demo worth checking out if you're looking for something ridiculous to play with friends!
+
+🔗 Find me everywhere: [...] 💬 Join the Discord:   / discord  
+
+👍 If you enjoyed the chaos, drop a like, leave a comment, and subscribe for more gaming videos, Heavy RP adventures, and hilarious moments!
+
+#gaming #worstclassever #gamedemo #funnygaming #heavyrp",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5175310,web_result,unknown_date,https://gamefaqs.gamespot.com/pc/707205-worst-class-ever/data,Worst Class Ever Release Information for PC - GameFAQs,"Home
+ Boards
+ News
+ Q&A
+ Community
+ Contribute
+ Games
+
+  
+
+ 3DS
+ Android
+ Board/Card
+ iOS
+ PC
+ PlayStation 3
+ PlayStation 4
+ PlayStation 5
+ Switch
+ Switch 2
+ Vita
+ Xbox 360
+ Xbox One
+ Xbox Series
+ More Systems
+
+Log In
+Sign Up
+
+## Title Data
+
+1. Genre: 
+   Miscellaneous > Party / Minigame
+2. Developer: 
+   Funcore Games
+
+## Release Data [...] ## Release Data
+
+| Box | Title | | | | | |
+| Region | Publisher | Product ID | Distribution / Barcode | Release Date | Rating |
+|  | Worst Class Ever | | | | | |
+| US | Funcore Games | 5175310 | Steam | 11/09/26 |  |
+
+## Description",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5175310,reddit_discussion,unknown_date,https://www.reddit.com/r/SubstituteTeachers/comments/1gglspo/worst_class_ever,Worst class ever? : r/SubstituteTeachers - Reddit,"My worst class ever was second grade, in the town I lived in over a decade ago. The teacher had a very disorganized classroom and left me with",,,30,weak,Reddit (+10); Exact title match (+20),social
+5175310,web_result,unknown_date,https://www.roblox.com/games/76639608658148,Worst class ever | Play on Roblox,"🏫 Welcome to Worst Class Ever! One teacher. A classroom full of trouble. How much can you get away with? 🍫 Be a sneaky student Eat snacks to earn points, raid empty desks, and throw school supplies to stun the teacher. Just don’t get caught chewing! 👀 Take charge as the teacher Catch students breaking the rules and take them to detention. Write on the board for extra points—but watch what happens behind your back! 🛍️ Build your collection Turn your points into coins and unlock new throwable [...] Charts
+ Marketplace
+ Create
+
+ Charts
+ Marketplace
+ Create
+
+Purchase Completed
+
+Error occurred
+
+Worst class ever
+
+# Worst class ever
+
+By @REgelly150
+
+ Favorite
+
+ About
+ Store
+ Servers
+
+## Description [...] new throwable items and premium snacks. More expensive supplies stun longer, and premium snacks earn more points! 🏆 Reach the top Score as much as you can before the bell rings. Will you be the class troublemaker or the teacher nobody messes with? 📱 Play on mobile or PC.",,,25,weak,Social Index (+5); Exact title match (+20),general
+5175310,web_result,unknown_date,https://www.roblox.com/games/76639608658148,Worst class ever | Play on Roblox,"🏫 Welcome to Worst Class Ever! One teacher. A classroom full of trouble. How much can you get away with? 🍫 Be a sneaky student Eat snacks to earn points, raid empty desks, and throw school supplies to stun the teacher. Just don’t get caught chewing! 👀 Take charge as the teacher Catch students breaking the rules and take them to detention. Write on the board for extra points—but watch what happens behind your back! 🛍️ Build your collection Turn your points into coins and unlock new throwable",,,25,weak,Social Index (+5); Exact title match (+20),general
+5175310,web_result,unknown_date,https://www.xbox.com/en-US/games/store/worst-class-never-ever/9ntw30zh9cts,Buy Worst Class Never Ever! | XBOX,"### Published by
+
+Sweety Games
+
+### Release date
+
+11/4/2026
+
+## Play with
+
+ XBOX One
+ XBOX Series X|S
+ PC
+
+## Capabilities
+
+ Single player
+ Xbox presence
+ Xbox clubs
+
+XBOX consoles XBOX games XBOX Game Pass XBOX accessories   XBOX News XBOX Support Feedback Community Standards Photosensitive Seizure Warning User Research at XBOX    Microsoft account Microsoft Store Support Returns Orders tracking Store locations
+
+Rewards   Games Designed for XBOX
+
+ English (United States)
+
+Your Privacy Choices [...] Worst Class Never Ever!
+
+Worst Class Never Ever!
+
+# Worst Class Never Ever!
+
+Sweety Games•Action & adventure•Simulation
+
+$4.99
+
+New
+
+New
+
+For all ages
+
+EVERYONE
+
+Mild Violence
+
+Publishers of games you launch receive access to your XBOX profile information and associated data while you play. Learn more
+
+## Description",,release date,25,weak,Social Index (+5); Keywords ['release date'] (+20),general
+5175310,web_result,unknown_date,https://www.roblox.com/games/76639608658148/Worst-class-ever,Worst class ever | Play on Roblox,"🏫 Welcome to Worst Class Ever! One teacher. A classroom full of trouble. How much can you get away with? 🍫 Be a sneaky student Eat snacks to earn points, raid empty desks, and throw school supplies to stun the teacher. Just don’t get caught chewing! 👀 Take charge as the teacher Catch students breaking the rules and take them to detention. Write on the board for extra points—but watch what happens behind your back! 🛍️ Build your collection Turn your points into coins and unlock new throwable [...] Charts
+ Marketplace
+ Create
+
+ Charts
+ Marketplace
+ Create
+
+Purchase Completed
+
+Error occurred
+
+Worst class ever
+
+# Worst class ever
+
+By @REgelly150
+
+ Favorite
+
+ About
+ Store
+ Servers
+
+## Description [...] new throwable items and premium snacks. More expensive supplies stun longer, and premium snacks earn more points! 🏆 Reach the top Score as much as you can before the bell rings. Will you be the class troublemaker or the teacher nobody messes with? 📱 Play on mobile or PC.",,,25,weak,Social Index (+5); Exact title match (+20),general
+5175310,web_result,unknown_date,https://www.xbox.com/en-US/games/store/worst-class-never-ever/9ntw30zh9cts,Buy Worst Class Never Ever! | XBOX,"Worst Class Never Ever!
+
+Worst Class Never Ever!
+
+# Worst Class Never Ever!
+
+Sweety Games•Action & adventure•Simulation
+
+$4.99
+
+New
+
+New
+
+For all ages
+
+EVERYONE
+
+Mild Violence
+
+Publishers of games you launch receive access to your XBOX profile information and associated data while you play. Learn more
+
+## Description [...] ### Published by
+
+Sweety Games
+
+### Release date
+
+11/4/2026
+
+## Play with
+
+ XBOX One
+ XBOX Series X|S
+ PC
+
+## Capabilities
+
+ Single player
+ Xbox presence
+ Xbox clubs
+
+XBOX consoles XBOX games XBOX Game Pass XBOX accessories   XBOX News XBOX Support Feedback Community Standards Photosensitive Seizure Warning User Research at XBOX    Microsoft account Microsoft Store Support Returns Orders tracking Store locations
+
+Rewards   Games Designed for XBOX
+
+ English (United States)
+
+Your Privacy Choices [...] Microsoft   Xbox     Join Game Pass Browse Games Deals with Game Pass XBOX Cloud Gaming   Games home Shop all console games Shop all PC games Cloud games XBOX Play Anywhere Free-to-Play games Optimized for XBOX Series X|S Optimized for handhelds Backward compatible games Sales & Specials Redeem Code   Explore all devices  Meet XBOX Series X|S XBOX Series X XBOX Series S Shop all consoles Compare consoles Help me choose a console Where to buy   Shop all accessories Controllers Design your",,release date,25,weak,Social Index (+5); Keywords ['release date'] (+20),general
+5175310,social_post,unknown_date,https://www.tiktok.com/@gracie10294/video/7682659190254439710,Worst Class Ever? How to Survive a Bad School Class,"video-cover
+
+# #CapCut no cuz why do I have to get the worst class ever #fyp #schoollife #school #backtoschool
+
+original sound
+
+author
+music",,,25,weak,Social Index (+5); Exact title match (+20),social
+5175310,social_post,unknown_date,https://x.com/ozemerson/status/2115519616193561088,zEmerson on X,Worst Class Ever: 5 alunos bagunceiros contra 1 professor 2º mais jogado do Steam Next Fest e 1º na lista da Valve dos primeiros dias.,,,25,weak,Social Index (+5); Exact title match (+20),social
+5175310,social_post,unknown_date,https://x.com/2Pcom/status/2114697807680700781,"2P Games on X: ""#1 on Steam Next Fest charts!!! Worst Class Ever ...","#1 on Steam Next Fest charts!!! Worst Class Ever by @Yomi_Funcore · 12:37 PM · Oct 26, 2026·. 168. Views. Log in or sign up for X.",,,25,weak,Social Index (+5); Exact title match (+20),social
+5175310,social_post,unknown_date,https://store.steampowered.com/app/5175310/Worst_Class_Ever,Worst Class Ever on Steam,"Worst Class Ever is an asymmetric party game set in a chaotic classroom, supporting up to 6 players! One player takes on the role of the strict teacher, while the other five play as mischievous students. The troublemakers must blend in among dozens of NPC classmates and secretly pull off pranks like gobbling snacks, passing notes, and playing on their phones... all without getting caught! The teacher, armed with sharp eyes and a no-nonsense attitude, has to spot every last wannabe delinquent [...] )
+
+Features
+
+Online PvP
+
+LAN PvP
+
+Online Co-op
+
+LAN Co-op
+
+Steam Achievements
+
+Steam Workshop
+
+Steam Cloud
+
+Family Sharing
+
+Languages:
+
+English and 6 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Simplified Chinese | ✔ | ✔ | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+
+See all 7 supported languages
+
+Title: Worst Class Ever  
+ Genre: Action, Adventure, Casual, Indie, Simulation [...] All Games > Casual Games > Worst Class Ever
+
+Community Hub
+
+Worst Class Ever
+
+Worst Class Ever
+
+Worst Class Ever
+
+Developer
+
+Funcore Games
+
+Publisher
+
+Funcore Games, 2P Games
+
+Release
+
+9 Nov, 2026
+
+1 Teacher vs 5 Students. Hide. Prank. Survive. Up to 6-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom.",,,25,weak,Social Index (+5); Exact title match (+20),social
+5175310,social_post,unknown_date,https://worstclassever.org,Worst Class Ever,"We are creating this WorstClassEver.org website in hopes of fostering a community of classmates concerned about issues facing humanity, who want to learn more about the issues, and who want to connect with each other.  We hope to draw on the expertise of our classmates and others to add references, ideas, and stories, eventually creating a valuable resource. We, an ad hoc group of HR ’ 71 classmates and affiliates (e.g. Nancy Beall, Sue Donaldson, Jon Gorham, Paul Harris, Ira Helfand, and Doug [...] While serving as Harvard’s 24th President, Nathan Pusey remarked that the class of 1971 was “the worst class in the history of Harvard.” Yes. Radical transformation did occur in the years 1967-1971. Changes for which the Old Guard was woefully ill-prepared – University Hall occupied. ROTC kicked off campus. Co-educational dorms. Optional final exams in two of the eight semesters. SDS teaching Soc Rel courses for credit. Harvard governance structures re-examined. Revival of a lottery draft [...] About
+ Vision
+  + Political Actions
+ Nuclear Risk
+  + Videos
+  + Articles
+  + Books
+  + Organizations
+ Climate Change
+  + Videos
+  + Articles
+  + Books
+  + Organizations
+ Interest Groups
+ Encore Careers
+ Join/Contact
+
+# About
+
+# 1971: The Worst Class Ever",,,25,weak,Social Index (+5); Exact title match (+20),social
+5175310,social_post,unknown_date,https://www.roblox.com/games/76639608658148/Worst-class-ever,Worst class ever | Play on Roblox,"🏫 Welcome to Worst Class Ever! One teacher. A classroom full of trouble. How much can you get away with? 🍫 Be a sneaky student Eat snacks to earn points, raid empty desks, and throw school supplies to stun the teacher. Just don’t get caught chewing! 👀 Take charge as the teacher Catch students breaking the rules and take them to detention. Write on the board for extra points—but watch what happens behind your back! 🛍️ Build your collection Turn your points into coins and unlock new throwable [...] Charts
+ Marketplace
+ Create
+
+ Charts
+ Marketplace
+ Create
+
+Purchase Completed
+
+Error occurred
+
+Worst class ever
+
+# Worst class ever
+
+By @REgelly150
+
+ Favorite
+
+ About
+ Store
+ Servers
+
+## Description",,,25,weak,Social Index (+5); Exact title match (+20),social
+5175310,web_result,unknown_date,https://store.steampowered.com/app/5175310/Worst_Class_Ever,Worst Class Ever on Steam,"Worst Class Ever is an asymmetric party game set in a chaotic classroom, supporting up to 6 players! One player takes on the role of the strict teacher, while the other five play as mischievous students. The troublemakers must blend in among dozens of NPC classmates and secretly pull off pranks like gobbling snacks, passing notes, and playing on their phones... all without getting caught! The teacher, armed with sharp eyes and a no-nonsense attitude, has to spot every last wannabe delinquent [...] All Games > Casual Games > Worst Class Ever
+
+Community Hub
+
+Worst Class Ever
+
+Worst Class Ever
+
+Worst Class Ever
+
+Developer
+
+Funcore Games
+
+Publisher
+
+Funcore Games, 2P Games
+
+Release
+
+9 Nov, 2026
+
+1 Teacher vs 5 Students. Hide. Prank. Survive. Up to 6-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom. [...] )
+
+Features
+
+Online PvP
+
+LAN PvP
+
+Online Co-op
+
+LAN Co-op
+
+Steam Achievements
+
+Steam Workshop
+
+Steam Cloud
+
+Family Sharing
+
+Languages:
+
+English and 6 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Simplified Chinese | ✔ | ✔ | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+
+See all 7 supported languages
+
+Title: Worst Class Ever  
+ Genre: Action, Adventure, Casual, Indie, Simulation",,,20,weak,Exact title match (+20),general
+5175310,web_result,unknown_date,https://store.steampowered.com/app/5175310/Worst_Class_Ever,Worst Class Ever on Steam,"Worst Class Ever is an asymmetric party game set in a chaotic classroom, supporting up to 6 players! One player takes on the role of the strict teacher, while the other five play as mischievous students. The troublemakers must blend in among dozens of NPC classmates and secretly pull off pranks like gobbling snacks, passing notes, and playing on their phones... all without getting caught! The teacher, armed with sharp eyes and a no-nonsense attitude, has to spot every last wannabe delinquent [...] All Games > Casual Games > Worst Class Ever
+
+Community Hub
+
+Worst Class Ever
+
+Worst Class Ever
+
+Worst Class Ever
+
+Developer
+
+Funcore Games
+
+Publisher
+
+Funcore Games, 2P Games
+
+Release
+
+9 Nov, 2026
+
+1 Teacher vs 5 Students. Hide. Prank. Survive. Up to 6-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom. [...] wannabe delinquent hiding in the crowd and restore perfect order to the classroom.",,,20,weak,Exact title match (+20),general
+5175310,web_result,unknown_date,https://store.steampowered.com/app/5175310/Worst_Class_Ever,Worst Class Ever on Steam,"Worst Class Ever is an asymmetric party game set in a chaotic classroom, supporting up to 6 players! One player takes on the role of the strict teacher, while the other five play as mischievous students. The troublemakers must blend in among dozens of NPC classmates and secretly pull off pranks like gobbling snacks, passing notes, and playing on their phones... all without getting caught! The teacher, armed with sharp eyes and a no-nonsense attitude, has to spot every last wannabe delinquent [...] All Games > Casual Games > Worst Class Ever
+
+Community Hub
+
+Worst Class Ever
+
+Worst Class Ever
+
+Worst Class Ever
+
+Developer
+
+Funcore Games
+
+Publisher
+
+Funcore Games, 2P Games
+
+Release
+
+9 Nov, 2026
+
+1 Teacher vs 5 Students. Hide. Prank. Survive. Up to 6-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom. [...] What if everyday school life turned into pure classroom chaos? Play as a mischievous student, gobbling snacks in secret and pulling pranks right under the teacher's watchful nose. Or take on the role of the strict teacher, activate sharp-eyed detection mode, and hunt down every last troublemaker hiding in the crowd. Every match is a ridiculous, high-energy showdown between teacher and students.",,,20,weak,Exact title match (+20),general
+5175310,web_result,unknown_date,https://gamefaqs.gamespot.com/pc/707205-worst-class-ever/data,Worst Class Ever Release Information for PC - GameFAQs,"## Description
+
+1. This is a fun 1-6 player asymmetric party game! Five player are mischievous troublemakers，hide among dozens of NPC students to sneak snacks, pass secret notes, and use phones secretly in class. One player acts as a strict teacher, track down all hidden troublemakers in the crowd.
+
+## Know Something We Don't?
+
+You can submit or update game data or submit game credits to help us keep our data up-to-date.
+
+Company Logo
+
+## Privacy Preference Center",,,20,weak,Exact title match (+20),general
+5175310,web_result,unknown_date,https://store.steampowered.com/app/5175310/Worst_Class_Ever,Worst Class Ever on Steam,"Worst Class Ever is an asymmetric party game set in a chaotic classroom, supporting up to 6 players! One player takes on the role of the strict teacher, while the other five play as mischievous students. The troublemakers must blend in among dozens of NPC classmates and secretly pull off pranks like gobbling snacks, passing notes, and playing on their phones... all without getting caught! The teacher, armed with sharp eyes and a no-nonsense attitude, has to spot every last wannabe delinquent [...] All Games > Casual Games > Worst Class Ever
+
+Community Hub
+
+Worst Class Ever
+
+Worst Class Ever
+
+Worst Class Ever
+
+Developer
+
+Funcore Games
+
+Publisher
+
+Funcore Games, 2P Games
+
+Release
+
+9 Nov, 2026
+
+1 Teacher vs 5 Students. Hide. Prank. Survive. Up to 6-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom. [...] )
+
+Features
+
+Online PvP
+
+LAN PvP
+
+Online Co-op
+
+LAN Co-op
+
+Steam Achievements
+
+Steam Workshop
+
+Steam Cloud
+
+Family Sharing
+
+Languages:
+
+English and 6 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  | ✔ |
+| Simplified Chinese | ✔ | ✔ | ✔ |
+| Traditional Chinese | ✔ |  | ✔ |
+| French | ✔ |  | ✔ |
+| German | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Korean | ✔ |  | ✔ |
+
+See all 7 supported languages
+
+Title: Worst Class Ever  
+ Genre: Action, Adventure, Casual, Indie, Simulation",,,20,weak,Exact title match (+20),general
+5175310,web_result,unknown_date,https://medium.com/educreation/the-worst-class-ever-8daeec2a96b7,THE WORST CLASS EVER,"Sitemap
+
+Open in app
+
+Sign up
+
+Sign in
+
+[](
+
+Get app
+
+Write
+
+Search
+
+Sign up
+
+Sign in
+
+Image 1: Unknown user
+
+## EduCreate
+
+·
+
+Image 2: EduCreate
+A place where educators use their expertise to become creators
+
+Teaching
+
+Teachers
+
+Education
+
+Memoir
+
+Schools
+
+# THE WORST CLASS EVER
+
+## What went wrong?
+
+Image 3: Donna Gerard
+
+Donna Gerard
+
+5 min read
+
+·
+
+May 19, 2025
+
+[](
+
+--
+
+1
+
+[](
+
+--
+
+[](
+
+Listen
+
+Share
+
+Press enter or click to view image in full size
+
+Image 4 [...] and I can’t point to anything I accomplished beyond making it to the end of June. [...] In the beginning of October, the vice-principal called me down to his office to utter the lie every teacher dreads.",,,20,weak,Exact title match (+20),general
+5175310,web_result,unknown_date,https://medium.com/educreation/the-worst-class-ever-8daeec2a96b7,THE WORST CLASS EVER,"Sitemap
+
+Open in app
+
+Sign up
+
+Sign in
+
+[](
+
+Get app
+
+Write
+
+Search
+
+Sign up
+
+Sign in
+
+Image 1: Unknown user
+
+## EduCreate
+
+·
+
+Image 2: EduCreate
+A place where educators use their expertise to become creators
+
+Teaching
+
+Teachers
+
+Education
+
+Memoir
+
+Schools
+
+# THE WORST CLASS EVER
+
+## What went wrong?
+
+Image 3: Donna Gerard
+
+Donna Gerard
+
+5 min read
+
+·
+
+May 19, 2025
+
+[](
+
+--
+
+1
+
+[](
+
+--
+
+[](
+
+Listen
+
+Share
+
+Press enter or click to view image in full size
+
+Image 4 [...] “Ms. Gerard, there’s a student who I think will be good with you.” Brad was a twelve-year-old fifth grader. He had been retained. He had been retained once before. He was extremely hyperactive and was a very poor reader. They put him with one teacher, but that didn’t work out. They tried him with another teacher, thinking he needed a strong male role model. That didn’t work out either. The new solution was to promote him to sixth grade and give him to me. Brad almost made me forget about Aaron [...] In the beginning of October, the vice-principal called me down to his office to utter the lie every teacher dreads.",,,20,weak,Exact title match (+20),general
+5175310,web_result,unknown_date,https://store.steampowered.com/app/5175310/Worst_Class_Ever,Worst Class Ever on Steam,"Worst Class Ever is an asymmetric party game set in a chaotic classroom, supporting up to 6 players! One player takes on the role of the strict teacher, while the other five play as mischievous students. The troublemakers must blend in among dozens of NPC classmates and secretly pull off pranks like gobbling snacks, passing notes, and playing on their phones... all without getting caught! The teacher, armed with sharp eyes and a no-nonsense attitude, has to spot every last wannabe delinquent [...] All Games > Casual Games > Worst Class Ever
+
+Community Hub
+
+Worst Class Ever
+
+Worst Class Ever
+
+Worst Class Ever
+
+Developer
+
+Funcore Games
+
+Publisher
+
+Funcore Games, 2P Games
+
+Release
+
+9 Nov, 2026
+
+1 Teacher vs 5 Students. Hide. Prank. Survive. Up to 6-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom. [...] ""You're the worst class I've ever taught!"" Step into the role of the strict teacher. Use your sharp observation skills to catch every tiny slip: forced movements, panicked glances, or anything that feels off. Nothing escapes your eagle eyes. Identify the mischief makers, shut down their pranks, and restore absolute order. There's nothing quite like the feeling of singling the little troublemakers out.",,,20,weak,Exact title match (+20),general
+5175310,web_result,unknown_date,https://store.steampowered.com/app/5175310/Worst_Class_Ever,Worst Class Ever on Steam,"Worst Class Ever is an asymmetric party game set in a chaotic classroom, supporting up to 6 players! One player takes on the role of the strict teacher, while the other five play as mischievous students. The troublemakers must blend in among dozens of NPC classmates and secretly pull off pranks like gobbling snacks, passing notes, and playing on their phones... all without getting caught! The teacher, armed with sharp eyes and a no-nonsense attitude, has to spot every last wannabe delinquent [...] All Games > Casual Games > Worst Class Ever
+
+Community Hub
+
+Worst Class Ever
+
+Worst Class Ever
+
+Worst Class Ever
+
+Developer
+
+Funcore Games
+
+Publisher
+
+Funcore Games, 2P Games
+
+Release
+
+9 Nov, 2026
+
+1 Teacher vs 5 Students. Hide. Prank. Survive. Up to 6-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom. [...] ""You're the worst class I've ever taught!"" Step into the role of the strict teacher. Use your sharp observation skills to catch every tiny slip: forced movements, panicked glances, or anything that feels off. Nothing escapes your eagle eyes. Identify the mischief makers, shut down their pranks, and restore absolute order. There's nothing quite like the feeling of singling the little troublemakers out.",,,20,weak,Exact title match (+20),general
+5175310,web_result,unknown_date,https://medium.com/educreation/the-worst-class-ever-8daeec2a96b7,THE WORST CLASS EVER,"It was a long, arduous year. I was with this group all day, every day. I continually revised my tactics. I put them in rows. I arranged them in groups. I rearranged the groups again and again. I tried teaching the class as a whole, then followed with an assignment of independent work. When that didn’t work, I assigned group projects. I paired them up. I tried cooperation and competition, energetic and low-key, hands-on and paper-and-pencil. I never hit a decent stride all year and I can’t point [...] I was worried about David finding someone else to bully, but he ended up being a small fish among the piranhas. While he always looked ready for a fight, and always gave off the vibe that he was just waiting for a confrontation, David was pretty smart and, as long as I kept him busy, his behavior and academic achievement were okay.
+
+Then there was smart, quiet Rhonda. She loved learning. Her family moved out of town before Christmas. [...] With my two standout students gone, I was left with the rest. I never saw a group of students get along so poorly. Ronkey’s initial crime was his name. I forbade the class from continuing to call him Donkey, but he did have to live with hearing kids “heehaw” at him on the playground and occasionally in the classroom, always from the opposite direction on my sightline, and always by a student who was surrounded by other students. I confronted a small group one day after hearing the dreaded",,,20,weak,Exact title match (+20),general
+5175310,web_result,unknown_date,https://medium.com/educreation/the-worst-class-ever-8daeec2a96b7,THE WORST CLASS EVER,"Sitemap
+
+Open in app
+
+Sign up
+
+Sign in
+
+[](
+
+Get app
+
+Write
+
+Search
+
+Sign up
+
+Sign in
+
+Image 1: Unknown user
+
+## EduCreate
+
+·
+
+Image 2: EduCreate
+A place where educators use their expertise to become creators
+
+Teaching
+
+Teachers
+
+Education
+
+Memoir
+
+Schools
+
+# THE WORST CLASS EVER
+
+## What went wrong?
+
+Image 3: Donna Gerard
+
+Donna Gerard
+
+5 min read
+
+·
+
+May 19, 2025
+
+[](
+
+--
+
+1
+
+[](
+
+--
+
+[](
+
+Listen
+
+Share
+
+Press enter or click to view image in full size
+
+Image 4 [...] It was a long, arduous year. I was with this group all day, every day. I continually revised my tactics. I put them in rows. I arranged them in groups. I rearranged the groups again and again. I tried teaching the class as a whole, then followed with an assignment of independent work. When that didn’t work, I assigned group projects. I paired them up. I tried cooperation and competition, energetic and low-key, hands-on and paper-and-pencil. I never hit a decent stride all year and I can’t point",,,20,weak,Exact title match (+20),general
+5175310,reddit_discussion,unknown_date,https://www.reddit.com/r/college/comments/18tpbhz/worst_class_youve_ever_taken,Worst class you've ever taken? : r/college - Reddit,Worst class due to an extremely harsh professor: World Literature. This instructor was incredibly harsh and was super strict with the papers we,,,10,weak,Reddit (+10),social
+5175310,reddit_discussion,unknown_date,https://www.reddit.com/r/CasualConversation/comments/1i17z9j/what_was_the_worst_class_you_ever_took,What was the worst class you ever took? : r/CasualConversation,"Of the classes I finished, the worst was Probability and Statistics. I was good at math but for some reason, probability breaks my brain. I just",,,10,weak,Reddit (+10),social
+5175310,reddit_discussion,unknown_date,https://www.reddit.com/r/Teachers/comments/1ggkco0/tell_me_about_your_worst_class,Tell me about your worst class : r/Teachers - Reddit,"I teach avid and 2 years ago I had a 7th grade avid class that has been my worst ever. There was one student in there who was smart, a bit",,,10,weak,Reddit (+10),social
+5175310,reddit_discussion,unknown_date,https://www.reddit.com/r/Teachers/comments/1wvi85x/worst_class_ever,Worst. Class. Ever. : r/Teachers - Reddit,I cannot teach in this class! At all! Every single sentence I utter is interrupted. EVERY TIME! Someone yells a question. Someone is talking to,,,10,weak,Reddit (+10),social
+5175310,web_result,unknown_date,https://www.xbox.com/en-US/games/store/worst-class-never-ever/9ntw30zh9cts,Buy Worst Class Never Ever! | XBOX,"The school day is about to get chaotic. Play an offline single-player classroom comedy from either side of the desk. As a student, join four bot classmates in creating chaos while a bot teacher watches for trouble. As the teacher, observe the class and try to find five pranksters among innocent students before the bell. Choose a daytime classroom, night study, or computer lab, each connected to a corridor and bathroom. Take on 12 School Term challenges, try four tools for each role, and choose [...] Worst Class Never Ever!
+
+Worst Class Never Ever!
+
+# Worst Class Never Ever!
+
+Sweety Games•Action & adventure•Simulation
+
+$4.99
+
+New
+
+New
+
+For all ages
+
+EVERYONE
+
+Mild Violence
+
+Publishers of games you launch receive access to your XBOX profile information and associated data while you play. Learn more
+
+## Description [...] role, and choose a standard or random two-tool loadout.",,,5,weak,Social Index (+5),general
+5175310,web_result,unknown_date,https://www.xbox.com/en-US/games/store/worst-class-never-ever/9ntw30zh9cts,Buy Worst Class Never Ever! | XBOX,"The school day is about to get chaotic. Play an offline single-player classroom comedy from either side of the desk. As a student, join four bot classmates in creating chaos while a bot teacher watches for trouble. As the teacher, observe the class and try to find five pranksters among innocent students before the bell. Choose a daytime classroom, night study, or computer lab, each connected to a corridor and bathroom. Take on 12 School Term challenges, try four tools for each role, and choose",,,5,weak,Social Index (+5),general
+5175310,web_result,unknown_date,https://www.xbox.com/en-US/games/store/worst-class-never-ever/9ntw30zh9cts,Buy Worst Class Never Ever! | XBOX,"The school day is about to get chaotic. Play an offline single-player classroom comedy from either side of the desk. As a student, join four bot classmates in creating chaos while a bot teacher watches for trouble. As the teacher, observe the class and try to find five pranksters among innocent students before the bell. Choose a daytime classroom, night study, or computer lab, each connected to a corridor and bathroom. Take on 12 School Term challenges, try four tools for each role, and choose [...] Worst Class Never Ever!
+
+Worst Class Never Ever!
+
+# Worst Class Never Ever!
+
+Sweety Games•Action & adventure•Simulation
+
+$4.99
+
+New
+
+New
+
+For all ages
+
+EVERYONE
+
+Mild Violence
+
+Publishers of games you launch receive access to your XBOX profile information and associated data while you play. Learn more
+
+## Description",,,5,weak,Social Index (+5),general
+5175310,social_post,unknown_date,https://www.tiktok.com/@memezar/video/7543688668200865046,TikTok - Make Your Day,"Every class I was in was always described as “the worst class they ever taught” it didn’t take me long to figure they told every class the same 🤣  
+  
+Like this content? Follow us for more @memezar ❤️ 
+
+more
+
+00:00 / 00:06
+
+Image 2: memezar
+
+23.1K
+
+83
+
+1541
+
+1370
+
+[](
+
+Comments
+
+You may like
+
+Log in [...] TikTok
+
+Log in
+
+TikTok
+
+Search
+
+For You
+
+Explore
+
+Following
+
+LIVE
+
+Upload
+
+Profile
+
+More
+
+Log in
+
+© 2026 TikTok
+
+Get Coins
+
+Get App
+
+Image 1: Every class I was in was always described as “the worst class they ever taught” it didn’t take me long to figure they told every class the same 🤣 Like this content? Follow us for more @memezar ❤️ 
+
+Video 1
+
+Memezar · 2025-8-28",,,5,weak,Social Index (+5),social
+5175310,social_post,unknown_date,https://www.tiktok.com/@demeek50/video/7653232229912415506,DMK on TikTok,"You may like
+
+Image 5: cooked
+
+cooked
+
+DMK
+
+28
+
+·4d ago 
+
+Image 6: alkoba oshiii
+
+alkoba oshiii
+
+DMK
+
+19
+
+·4d ago 
+
+Image 7: omo guide oooo
+
+omo guide oooo
+
+DMK
+
+15
+
+·4d ago 
+
+Image 8: eas waiting on the kiss again
+
+eas waiting on the kiss again
+
+DMK
+
+30
+
+·4d ago 
+
+Image 9: Have a blessed week ahead 🍃
+
+Have a blessed week ahead 🍃
+
+DMK
+
+34
+
+·5d ago 
+
+Image 10: I'm sorry love
+
+I'm sorry love
+
+DMK
+
+20
+
+·5d ago 
+
+Image 11: this was actually golden
+
+this was actually golden
+
+DMK
+
+20
+
+·5d ago [...] DMK
+
+20
+
+·5d ago 
+
+Image 12: things i love seing
+
+things i love seing
+
+DMK
+
+26
+
+·10-28
+
+Image 13: i'm i the only one tired lol
+
+Sometimes I just look at myself and wonder, 'What happened to me?'
+
+DMK
+
+52
+
+·10-19
+
+Image 14: i'm i the only one tired lol
+
+I keep asking myself HOW???
+
+DMK
+
+44
+
+·10-19
+
+Image 15: i'm i the only one tired lol
+
+Base on my observation tho
+
+DMK
+
+34
+
+·10-19
+
+Image 16: i'm i the only one tired lol
+
+fr fr
+
+DMK
+
+5
+
+·10-17
+
+Image 17: i'm i the only one tired lol [...] island are going through it lol
+
+DMK
+
+23
+
+·10-17
+
+Image 18: i'm i the only one tired lol
+
+chat gpt is now girls besties
+
+DMK
+
+3
+
+·10-17
+
+Image 19: i'm i the only one tired lol
+
+i as confused at first o
+
+DMK
+
+4
+
+·10-17
+
+Image 20: i'm i the only one tired lol
+
+i'm i the only one tired lol
+
+DMK
+
+13
+
+·10-17
+
+Log in
+
+Log in
+
+Scroll, use the ↑ ↓ keys, or click the arrows on the right to browse your feed.
+
+Got it",,,5,weak,Social Index (+5),social
+5175310,social_post,unknown_date,https://www.tiktok.com/@natsukinpringle/video/7660201663038229780,𝙋𝙧𝙞𝙣𝙜𝙡𝙚 𑣲🎃⋆ on TikTok,"TikTok
+
+Log in
+
+TikTok
+
+Search
+
+For You
+
+Explore
+
+Following
+
+LIVE
+
+Upload
+
+Profile
+
+More
+
+Log in
+
+© 2026 TikTok
+
+Get Coins
+
+Get App
+
+Image 1: NO?! #asmr #xyzbca #relateable #viral #rant 
+
+Video 1
+
+𝙋𝙧𝙞𝙣𝙜𝙡𝙚 𑣲🎃⋆ · 7-8
+
+NO?! #asmr#xyzbca#relateable#viral#rant
+
+more
+
+00:01 / 00:19
+
+Image 2: notpringlee
+
+215
+
+30
+
+36
+
+15
+
+[](
+
+Comments
+
+You may like
+
+Log in
+
+Scroll, use the ↑ ↓ keys, or click the arrows on the right to browse your feed.
+
+Got it",,,5,weak,Social Index (+5),social
+5175310,social_post,unknown_date,https://www.tiktok.com/discover/the-worst-class-ever,TikTok - Make Your Day,"Skip to content feed
+
+TikTok
+
+Log in
+
+TikTok
+
+Search
+
+## For You
+
+## Explore
+
+## Following
+
+## LIVE
+
+Upload
+
+## Profile
+
+More
+
+Log in
+
+### Company
+
+### Program
+
+### Terms & Policies
+
+© 2026 TikTok
+
+Get Coins
+
+Get App
+
+Image 1: Game 1 mạng | Oppa Huy #oppahuy #huyseoul
+
+Video 1
+
+Image 2: Có 💵 Là Được Hết🤣 #xh #amthucbanghuu 
+
+Video 2
+
+4.8M
+
+31K
+
+297.7K
+
+171.9K
+
+CapCut · Editing made easy
+
+Image 3: huyseoul_idol
+
+Oppa Huy IDol
+
+Follow
+
+Game 1 mạng | Oppa Huy #oppahuy#huyseoul
+
+See translation [...] See translation
+
+00:04 / 00:11
+
+00:04 / 00:11
+
+1.0x
+
+Log in
+
+Scroll, use the ↑ ↓ keys, or click the arrows on the right to browse your feed.
+
+Got it",,,5,weak,Social Index (+5),social
+5175310,web_result,unknown_date,https://www.youtube.com/watch?v=O5nAxNZkPzc,【The Worst Class I've Ever Taught】 STEAM 1v6 Classroom Battle Royale! Teacher vs. Troublemaking S...,"# 【The Worst Class I've Ever Taught】 STEAM 1v6 Classroom Battle Royale! Teacher vs. Troublemaking S...
+## Channel: oliver hardson
+462 subscribers
+5 likes
+
+### Description
+692 views
+Posted: 2026-10-13",,,0,weak,,general
+5175310,web_result,unknown_date,https://tavily.com/knowledge/company/sm9sWtOD10P7,Steam,"# Steam Solutions
+ID: sm9sWtOD10P7
+Website: www.steamsolutions.com
+Headquarters: New Orleans, Louisiana, United States
+LinkedIn: www.linkedin.com/company/steamsolutions · 3,258 followers
+Industry: Oil and Gas
+Industry codes: SIC 50, 507, NAICS 42, 423
+Company type: Privately Held
+Founded: 1928
+Social profiles: www.twitter.com/stmsltns, www.crunchbase.com/organization/stem-solutions
+Phone: 504.523.3627, +1-504.523.3627, (713) 464-9055 [...] ## Web traffic
+- Monthly visits: 1,172 (119.1% change)
+- Pages per visit: 2.27
+- Average visit duration: 54 seconds
+- Bounce rate: 38%
+- Global rank: 12,286,343
+- Country rank: 4,355,181
+- Category rank: 991
+
+## Reputation
+- Employee review score: 4 from 2 reviews
+- Open roles: 0
+
+## Similar companies
+- kaishan group
+- super radiator coils
+- baymak
+- alfa laval [...] ## Technology
+- Detected: 12
+- acumatica · last seen 2026-05-04
+- hubspot crm · last seen 2026-05-04
+- hubspot · last seen 2026-05-04
+- netsuite · last seen 2026-05-04
+- power bi · last seen 2026-05-04
+- i2c · last seen 2026-02-02
+- microsoft · last seen 2025-09-15
+- microsoft word · last seen 2025-09-15",,,0,weak,,general
+5175310,web_result,unknown_date,https://www.commonsensemedia.org/book-reviews/the-worst-class-trip-ever,The Worst Class Trip Ever - Parents' Guide & Book Review | Common Sense Media,"Parents need to know that The Worst Class Trip Ever is a funny, suspenseful story from humor writer Dave Barry (Peter and the Starcatchers). He strikes just the right tone for this age group: There's plenty of action and excitement but no menacing edge. A ""hot girl"" turns out to be a bold, resourceful adventurer, and the accidental hero finds he's capable of incredible feats when left with few other options. The two teacher chaperones are comically clueless. The only sour note is some [...] ## Is It Any Good?
+
+Our review:
+
+Parents say : Not yet rated
+
+Kids say (  1 Kid Reviews  ):
+
+Dave Barry's goofy humor is spot-on in this fast-paced novel of a hapless eighth-grader caught up in an international plot -- it's 24 tamed for the middle school set, punctuated with fart jokes. THE WORST CLASS TRIP EVER is told in the self-deprecating voice of Wyatt, who's trying to impress out-of-his-league Suzana but instead finds himself in awe of her boldness. [...] ### Podcasts with Diverse Characters and Stories
+ Donate
+ Sign Out
+
+# Parents' Guide to The Worst Class Trip Ever
+
+Book   Dave Barry   Adventure   2015
+
+The Worst Class Trip Ever Poster Image
+
+ Common Sense Says
+ Parents Say  0 Reviews
+ Kids Say  1 Review
+
+### Common Sense Media Review
+
+Darienne Stewart  By  Darienne Stewart , based on child development research. How do we rate?
+
+Prefer us on Google
+
+age 9+
+
+Wry humor, international drama make for fun page-turner.",,,0,weak,,general
+5175310,web_result,unknown_date,https://thestrawberrypost.wordpress.com/2022/09/12/audiobook-review-the-worst-class-in-the-world-gets-worse-by-joanna-nadin,AudioBook Review: The Worst Class in the World Gets Worse by Joanna Nadin – The Strawberry Post,"\Free copy provided by publisher for review…
+
+Review: This is a brilliant and funny children’s audiobook.  The class of 4B is the worst class in the world.  The class always get in trouble at break time, but when the head teacher says that class 4B get to be playground monitors for the next week, can the class behave enough to actually do a good job? [...] Description: According to head teacher Mrs Bottomley-Blunt, 4B is the WORST CLASS IN THE WORLD. She says school is not about footling or fiddle-faddling or FUN. It is about LEARNING and it is high time 4B tried harder to EXCEL at it. [...] I have never read or listened to any of The Worst Class in the World books before but I have enjoyed listening to this audio book so much!  The story begins with a brief introduction to some of the characters and class of 4B are and why they are apparently, the worst class in the world.  The story is narrated by one of the children in the class, Stanley, and we soon find out just how terrible the class is, with a group of characters who end up being very funny and silly when put in various",,,0,weak,,general
+5175310,web_result,unknown_date,https://www.booktrust.org.uk/book-recommendations/bookfinder/the-worst-class-in-the-world,The Worst Class in the World | BookTrust,"## About this book
+
+This fabulous book for independent junior readers contains two side-splitting stories about the escapades of the colourful characters of Class 4B, dubbed ‘literally the worst class in the world’ by headteacher Mrs Bottomley-Blunt. Every day brings another riotous calamity, usually caused by best friends Stanley Bradshaw and Manjit Morris, whose foolproof plans frequently go awry.",,,0,weak,,general
+5175310,web_result,unknown_date,https://www.simonandschuster.com/books/Worst-Class-Trip-Ever/Sandy-Beech/Castaways/9780689875960,Worst Class Trip Ever,"## About the Author
+
+Sandy Beech
+
+Sandy Beech is the author of Worst Class Trip Ever, a Simon & Schuster book.
+
+## Series with Books by the Author
+
+   Castaways
+
+## About the Illustrator
+
+Jimmy Holder
+
+## Product Details
+
+   Publisher: Aladdin (June 1, 2005)
+   Length: 176 pages
+   ISBN13: 9780689875960
+   Grades: 3 - 7
+   Ages: 8 - 12
+
+Browse Related Books [...] - [x]  Mystery  - [x]  Poetry  - [x]  Politics  - [x]  Romance  - [x]  Romantasy/Dark Romance/Urban Romance  - [x]  Science Fiction  - [x]  Self-help  - [x]  Sports  - [x]  Teen  - [x]  Thriller & Suspense  - [x]  Your Lifestyle Digest  - [x]  Spanish Language Books/Libros en Español  
+
+See More Categories
+
+Your First Name 
+
+Birth Month 
+
+Zip Code 
+
+State 
+
+Thank you!
+
+Your registration is complete.
+
+Close
+
+###### About Simon & Schuster [...] 3rd Grade
+   4th Grade
+   5th Grade
+   6th Grade
+   7th Grade
+   Age 4 - 8
+   Age 9 - 11
+   Age 12 and Up
+   Children's Fiction > Action & Adventure
+   Children's Fiction > Social Situations > Friendship
+   Children's Fiction > Humorous Stories
+
+## Resources and Downloads
+
+### High Resolution Images
+
+   Book Cover Image (jpg): Worst Class Trip EverTrade Paperback 9780689875960 
+
+# Worst Class Trip Ever
+
+Book #1 of Castaways
+
+By Sandy Beech
+
+Illustrated by Jimmy Holder",,,0,weak,,general
+5175310,web_result,unknown_date,https://thestrawberrypost.wordpress.com/2022/09/12/audiobook-review-the-worst-class-in-the-world-gets-worse-by-joanna-nadin,AudioBook Review: The Worst Class in the World Gets Worse by Joanna Nadin – The Strawberry Post,"\Free copy provided by publisher for review…
+
+Review: This is a brilliant and funny children’s audiobook.  The class of 4B is the worst class in the world.  The class always get in trouble at break time, but when the head teacher says that class 4B get to be playground monitors for the next week, can the class behave enough to actually do a good job? [...] Title: The Worst Class in the World: Gets Worse  
+ Author: Joanna Nadin  
+ Cover illustrator: Rikin Parekh  
+ Narrator: Sam Newton  
+ Publisher: Bloomsbury  
+ Genre: Children’s fiction, Humour  
+ Book format: Audiobook  
+ Sweet Strawberries: Sweet StrawberrySweet StrawberrySweet StrawberrySweet StrawberrySweet Strawberry [...] Description: According to head teacher Mrs Bottomley-Blunt, 4B is the WORST CLASS IN THE WORLD. She says school is not about footling or fiddle-faddling or FUN. It is about LEARNING and it is high time 4B tried harder to EXCEL at it.",,,0,weak,,general

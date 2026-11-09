@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-5086460,PeeVPee,"site:pcgamer.com ""PeeVPee""",press,2,tavily,False,General budget exhausted,0
-5086460,PeeVPee,"site:rockpapershotgun.com ""PeeVPee""",press,2,tavily,False,General budget exhausted,0
-5086460,PeeVPee,"site:ign.com ""PeeVPee""",press,2,tavily,False,General budget exhausted,0
-5086460,PeeVPee,"site:gamespot.com ""PeeVPee""",press,2,tavily,False,General budget exhausted,0
-5086460,PeeVPee,"site:game8.co ""PeeVPee""",press,2,tavily,False,General budget exhausted,0
+5175310,Worst Class Ever,"site:pcgamer.com ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0
+5175310,Worst Class Ever,"site:rockpapershotgun.com ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0
+5175310,Worst Class Ever,"site:ign.com ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0
+5175310,Worst Class Ever,"site:gamespot.com ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0
+5175310,Worst Class Ever,"site:game8.co ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0

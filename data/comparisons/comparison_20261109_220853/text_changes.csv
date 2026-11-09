@@ -1,0 +1,11 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5086460,PeeVPee,PeeVPee,669,644,25,25,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 9, 2026",November 2026,True
+4459590,Slotbound,Slotbound,448,441,7,7,up,none,Unpriced (Coming Soon),Free,True,"Nov 9, 2026",Coming soon,True
+4424120,Sugar-Mommied by a Fox Babe,Sugar-Mommied by a Fox Babe,798,793,5,5,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,December 2026,"Dec 10, 2026",True
+2262630,Wish Upon A Llama,Wish Upon A Llama,622,618,4,4,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Dec 9, 2026",True
+2861730,Food Devils,Food Devils,1046,1042,4,4,up,none,Free,Unpriced (Coming Soon),True,Coming soon,November 2026,True
+5159870,Needle In A Haystack Simulator,Needle In A Haystack Simulator,247,245,2,2,up,none,Free,Free,False,Q1 2027,Coming soon,True
+1154960,Ardenfall,Ardenfall,508,506,2,2,up,none,Unpriced (Coming Soon),Free,True,2026,"Jan 25, 2027",True
+3015820,To Kill a God,To Kill a God,555,553,2,2,up,none,Unpriced (Coming Soon),Free,True,To be announced,Coming soon,True
+2468200,DDoD,DDoD,359,358,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,To be announced,True
+3710600,"Warhammer 40,000: Dark Heresy","Warhammer 40,000: Dark Heresy",22,22,0,0,stable,none,Free,Free,False,Coming soon,"Jan 28, 2027",True
