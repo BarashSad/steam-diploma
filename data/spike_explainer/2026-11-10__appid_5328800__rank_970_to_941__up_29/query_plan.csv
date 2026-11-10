@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5328800,GHOSTPUNCH,"""GHOSTPUNCH"" Steam",general,1,tavily,True,,5
+5328800,GHOSTPUNCH,"""GHOSTPUNCH"" trailer",general,1,tavily,True,,5
+5328800,GHOSTPUNCH,"""GHOSTPUNCH"" gameplay",general,1,tavily,True,,5
+5328800,GHOSTPUNCH,"""GHOSTPUNCH"" demo",general,1,tavily,True,,5
+5328800,GHOSTPUNCH,"""GHOSTPUNCH"" release date",general,1,tavily,True,,5
+5328800,GHOSTPUNCH,"""GHOSTPUNCH"" announcement",general,1,tavily,True,,5
+5328800,GHOSTPUNCH,"""GHOSTPUNCH"" preview",general,1,tavily,True,,5
+5328800,GHOSTPUNCH,"""GHOSTPUNCH"" review",general,1,tavily,True,,5
+5328800,GHOSTPUNCH,"""GHOSTPUNCH"" publisher",general,1,tavily,True,,5
+5328800,GHOSTPUNCH,"""GHOSTPUNCH"" developer",general,1,tavily,True,,5
+5328800,GHOSTPUNCH,"site:pcgamer.com ""GHOSTPUNCH""",press,2,tavily,False,General budget exhausted,0
+5328800,GHOSTPUNCH,"site:rockpapershotgun.com ""GHOSTPUNCH""",press,2,tavily,False,General budget exhausted,0
+5328800,GHOSTPUNCH,"site:ign.com ""GHOSTPUNCH""",press,2,tavily,False,General budget exhausted,0
+5328800,GHOSTPUNCH,"site:gamespot.com ""GHOSTPUNCH""",press,2,tavily,False,General budget exhausted,0
+5328800,GHOSTPUNCH,"site:game8.co ""GHOSTPUNCH""",press,2,tavily,False,General budget exhausted,0
+5328800,GHOSTPUNCH,"site:reddit.com ""GHOSTPUNCH""",social,3,tavily,True,,5
+5328800,GHOSTPUNCH,"site:tiktok.com ""GHOSTPUNCH""",social,4,tavily,True,,5
+5328800,GHOSTPUNCH,"site:instagram.com ""GHOSTPUNCH""",social,4,tavily,True,,5
+5328800,GHOSTPUNCH,"site:x.com ""GHOSTPUNCH""",social,4,tavily,True,,5
+5328800,GHOSTPUNCH,"site: ""GHOSTPUNCH""",social,4,tavily,True,,5

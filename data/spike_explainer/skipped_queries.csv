@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-5175310,Worst Class Ever,"site:pcgamer.com ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0
-5175310,Worst Class Ever,"site:rockpapershotgun.com ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0
-5175310,Worst Class Ever,"site:ign.com ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0
-5175310,Worst Class Ever,"site:gamespot.com ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0
-5175310,Worst Class Ever,"site:game8.co ""Worst Class Ever""",press,2,tavily,False,General budget exhausted,0
+5328800,GHOSTPUNCH,"site:pcgamer.com ""GHOSTPUNCH""",press,2,tavily,False,General budget exhausted,0
+5328800,GHOSTPUNCH,"site:rockpapershotgun.com ""GHOSTPUNCH""",press,2,tavily,False,General budget exhausted,0
+5328800,GHOSTPUNCH,"site:ign.com ""GHOSTPUNCH""",press,2,tavily,False,General budget exhausted,0
+5328800,GHOSTPUNCH,"site:gamespot.com ""GHOSTPUNCH""",press,2,tavily,False,General budget exhausted,0
+5328800,GHOSTPUNCH,"site:game8.co ""GHOSTPUNCH""",press,2,tavily,False,General budget exhausted,0
