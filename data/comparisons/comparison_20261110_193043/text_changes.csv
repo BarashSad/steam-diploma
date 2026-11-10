@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5096600,Highways & Co.,Highways & Co.,903,891,12,12,up,none,Unpriced (Coming Soon),Free,True,2026,2027,True
+1445880,ROCKBEASTS,ROCKBEASTS,721,712,9,9,up,none,Free,Free,False,January 2027,"Jan 29, 2027",True
+4299480,Vampire Mistress,Vampire Mistress,810,801,9,9,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,Q4 2026,"Dec 31, 2026",True
+4213030,Deadhikers,Deadhikers,338,331,7,7,up,none,Unpriced (Coming Soon),Free,True,To be announced,Coming soon,True
+1752080,HUNGER,HUNGER,47,47,0,0,stable,none,Free,Unpriced (Coming Soon),True,Coming soon,"Dec 3, 2026",True

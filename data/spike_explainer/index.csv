@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-10T06:57:07.824363+00:00,5328800,GHOSTPUNCH,data/spike_explainer/2026-11-10__appid_5328800__rank_970_to_941__up_29,29,70,data/spike_explainer/2026-11-10__appid_5328800__rank_970_to_941__up_29/llm_summary_input.md
+2026-11-10T19:40:12.126868+00:00,4521650,Farm & Feast,data/spike_explainer/2026-11-10__appid_4521650__rank_1029_to_973__up_56,56,85,data/spike_explainer/2026-11-10__appid_4521650__rank_1029_to_973__up_56/llm_summary_input.md

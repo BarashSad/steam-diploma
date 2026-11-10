@@ -1,0 +1,127 @@
+{
+    "appnews": {
+        "appid": 4521650,
+        "newsitems": [
+            {
+                "gid": "1847920302248228",
+                "title": "Farm & Feast is Coming to Early Access on November 11! \ud83c\udf89",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302248228",
+                "is_external_url": true,
+                "author": "Cylar",
+                "contents": "Hi everyone! \ud83d\udc4bWe are incredibly excited to share that Farm & Feast will be launching in Early Access on November 11!We are really happy with where the game is today, but we realize there is still so much more we want to add to it. We ultimately decided on Early Access because it gives us the chance to make Farm & Feast a much deeper and richer experience. Ever since our playtests, staying in touch with the community and shaping the game based on your feedback has been an absolutely amazing and effective way to build this game together. \ud83e\udd1dWe know a roadmap is usually expected for Early Access. However, game development is a complex and unpredictable journey. Instead of making early promises that could lead to disappointment, we prefer to share new features only when we are certain we can deliver them. This doesn\u2019t mean we don't have a plan; we just want to avoid revealing things before they are truly ready.During the demo phase, over 20,000 people played the game and we received hundreds of pieces of feedback. We are evaluating all of it, and your input is actively shaping our path forward. By going into Early Access, we get to continue this incredible collaborative journey right alongside you before we officially reach version 1.0.We are also happy to confirm that the game will launch with full support for Windows, Mac, and Steam Deck.Thank you so much for being such a vital part of this adventure. We cannot wait to take this next big step together! \ud83d\udc96",
+                "feedlabel": "Community Announcements",
+                "date": 1793627713,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4521650
+            },
+            {
+                "gid": "1846651706689478",
+                "title": "\ud83c\udf3e Farm & Feast is in Steam Next Fest! Play the Demo! \ud83c\udf73",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706689478",
+                "is_external_url": true,
+                "author": "burakakar",
+                "contents": "Hello everyone!We are incredibly excited to announce that Farm & Feast is officially part of the Steam Next Fest! As a two-person indie team, we have been pouring our hearts into creating a truly cozy farming and restaurant management experience, and we can't wait for you to try it.In this demo, you will get a taste of running your very own culinary business. You can:Grow your ingredients: Plant seeds, harvest crops, and turn wheat into fresh flour at the Windmill.Cook delicious meals: Use your fresh produce to bake bread, pasta, and pizzas.Delight your guests: Keep your customers happy with a warm cup of coffee, or sweeten their day with a treat from the new Dessert Station!Since our release is just around the corner on November 11, your feedback right now is more important to us than ever. Please dive into the demo, let us know what you think in the community discussions or on our Discord, and share your beautiful restaurant layouts!If you enjoy your time in the kitchen, adding Farm & Feast to your wishlist is the best way to support our little studio.Happy farming and cooking! The Farm & Feast Team",
+                "feedlabel": "Community Announcements",
+                "date": 1792403184,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4521650
+            },
+            {
+                "gid": "1846018067941516",
+                "title": "Farm & Feast is part of the Steam Cooking Fest! \ud83c\udf73\ud83c\udf3e",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067941516",
+                "is_external_url": true,
+                "author": "burakakar",
+                "contents": "Hi everyone! We are super excited to announce that Farm & Feast is participating in the Steam Cooking Fest! Whether you are discovering our cozy farm and restaurant world for the first time through the festival, or you have already played an earlier version, now is a great time to jump into the demo! Thanks to your amazing feedback and suggestions, we have been hard at work adding lots of new features and improvements to the game, including: \u2615 Coffee Machine: Brew coffee to calm down customers whose patience bars are running low!\ud83c\udf70 Dessert Shelf: Offer sweet treats to win back the hearts of customers after a service mistake.\ud83d\udc68\u200d\ud83c\udf73 Smarter Chefs: Multiple chefs can now work on the same type of dish at the same time.\ud83c\udf19 Day-Night Cycle: Experience a more dynamic atmosphere as time passes throughout the day.\ud83e\uddfa New Farming Tools: New tools to make tending to your crops much easier.\ud83c\udfa3 Fishing & Wheat Production: Brand-new ways to gather ingredients and expand your menu.\u2728 Quality of Life Improvements: Decor previews before buying, a walk/run toggle option, and various balancing fixes requested by our community.Even if you have tried the demo before, there is plenty of new content waiting for you to explore. Put on your apron, harvest your crops, and start serving your customers! We always love hearing your thoughts, so feel free to share your feedback and favorite dishes right here in the Community Hub or on our Discord. Happy cooking! \ud83d\udc9a ",
+                "feedlabel": "Community Announcements",
+                "date": 1791822160,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4521650
+            },
+            {
+                "gid": "1846018067930549",
+                "title": "Farm & FeastDemo Patch Notes v0.1.6",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067930549",
+                "is_external_url": true,
+                "author": "burakakar",
+                "contents": "\ud83c\udfa3 NEW: FISHING Fishing is here! Unlock the Fishing Rod at 800 Hype, buy it from the Workshop, head to the new dock and catch fresh fish for your kitchen.New hold-to-reel system: hold to charge and cast, watch the bobber until a fish bites, then hold to reel it in. Ease off when the fish fights back, or the line snaps. \ud83c\udf3e NEW: WHEAT \u2192 FLOUR \u2192 BREAD Full production chain: plant wheat in the field by the windmill, harvest it into a bale, drop the bale at the Windmill and pick up fresh flour sacks.Makers: carry flour to the Bread Maker, Pizza Maker or Pasta Maker and collect the finished bread, pizza dough and pasta later.The Windmill area got a full makeover, with a new environment, a drop-off area and a water tank.Farm decorations and machines (fence, gate, makers, small storage) now unlock with Hype instead of being locked behind the full game.\u2615 GAMEPLAY & GUIDANCECustomers now show a coffee drinking animation, and coffee appears on the table.Customers who leave without paying now walk out of the restaurant instead of vanishing.Table capacity labels in Decoration Mode, plus free chairs for your tables during the tutorial. Extra chairs over a table's limit go back to your inventory automatically.The objective list now shows each objective's state.Trees now shake when you interact with them.Balance changes to carrying, storage and pantry production, and a new wheat growth time.\ud83c\udfa8 VISUALS & AUDIO New sea shader with shoreline contact, and better water visuals and performance.New lighting angle, light colors and a longer evening.New icons for staff, decoration mode, wheat machines, fishing rod, bait, fish and more.Navigation arrow, menu card and HUD polish.\ud83d\udc1e BUG FIXES The order ticket no longer disappears from the HUD while a dish for the wrong table is being re-cooked.Fixed an FPS drop when onboarding screens open.Fixed a missing ingredient on Day 4 and an objective issue on Day 5.Fixed dessert prep time.Fixed the second cooking station's animation.Fixed the chef's idle position.Fixed tool carrying issues.Fixed the market courier's drop location.Fixed achievement reveals interrupting farming.Fixed an end-of-day Golden Chef Road reward display issue.Performance optimizations for world objects and the hose.Thanks for playing and reporting bugs! \ud83d\udc9a ",
+                "feedlabel": "Community Announcements",
+                "date": 1791478467,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4521650,
+                "tags": [
+                    "patchnotes",
+                    "mod_reviewed",
+                    "ModAct_1787316731_1791488492_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1845383656390087",
+                "title": "Farm & Feast Demo Patch Notes v0.1.5",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656390087",
+                "is_external_url": true,
+                "author": "burakakar",
+                "contents": "\u2615 Coffee Stand Are guests losing patience while the kitchen is busy? Bring them a hot coffee and their Patience Bar freezes for a while. Coffee costs a few coins to brew and earns no profit, so pour it only when you need to. When the pot runs out, the chefs brew a fresh one on their own. It unlocks on Day 5 with a short tutorial. \ud83c\udf70 Dessert Stand Served a dish late or made a mistake? Give your guests a dessert while they're eating, before they ask for the bill, to raise their rating. Desserts earn no profit either, so save them for orders that went wrong. The chefs restock the shelf when it's empty. Changed your mind? Just put the dessert back on the shelf. It unlocks on Day 6. \ud83e\uddfa Harvest Basket Daisy now carries a basket on her back. Crops and foraged items fly into it as you harvest, and you can see what's inside. When you take out a tool, the basket drops to the ground and follows you around. In the restaurant, it waits in its own spot. \ud83d\ude9a Market Delivery Van Market orders now come by van. The van drives up and drops your box outside, and you carry the box into storage. If the game closes before you pick the box up, your order is still saved and arrives when you come back. \ud83c\udfac Station Reveal New stations now appear with a camera reveal animation. \ud83d\udc1b BUG FIXESTables no longer show the interact icon for a drink they don't need.Going back to the main menu no longer ends the day early.Fixed a gamepad D-pad navigation issue.Thanks for playing and reporting bugs! \ud83d\udc9a ",
+                "feedlabel": "Community Announcements",
+                "date": 1791066221,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4521650,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1844751498228283",
+                "title": "\ud83c\udf31 Farm & Feast Demo Patch Notes v0.1.41",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498228283",
+                "is_external_url": true,
+                "author": "burakakar",
+                "contents": "DECORATION MODE IMPROVEMENTSStyle preview: Hover or select a style/color to see it on the object before you buy.Sell decorations: Press C (keyboard) or X (gamepad) to sell items for 90% of their price. Works from the scene or from your storage in the catalog. Style purchases are not refunded. Free items and starting tables can't be sold.Buy/sell feedback: A floating \"-$X\" / \"+$X\" appears with a purchase sound.Reworked gamepad controls: The catalog stays open while you walk around. D-pad browses items, LT/RT rotates, LB/RB switches tabs, Y customizes, R3 stores.Control hints: The hints bar now shows every control at all times.Visual polish: Stronger item highlight, new overlay opacity, updated input panel and animations, wall brightness fix. ADDEDLeftover drinks reminder: Appears when you carry drinks no table needs. It disappears once you deliver or return them. DRINK FIXESFixed drinks being deducted from fridge stock twice.Tables only highlight if you carry a drink they actually ordered.The fridge tray now shows a \"Tray Capacity\" label. TUTORIAL FIXESDay 2: Fixed a softlock when drink stock ran out (especially on saves from 0.1.31).Day 3 & 4: Tutorial ingredients and seeds are now free in the Market and show \"Free\". Before, the game gave you coins for them. OTHER FIXESCleaning spots: Mop is now E + Left Click (was Left + Right Click, which didn't work on trackpads).Wild grass: Rewrote how grass cutting works. Fixes grass that looked cut but still blocked farming, and invisible grass blocking fields.ESC while holding a farming tool now puts the tool away instead of opening the pause menu.",
+                "feedlabel": "Community Announcements",
+                "date": 1790467362,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4521650,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1843481262696165",
+                "title": "\ud83c\udf3f The Farm & Feast Demo is Officially LIVE! Welcome to Your Cozy Restaurant!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262696165",
+                "is_external_url": true,
+                "author": "burakakar",
+                "contents": "Hey everyone! zbeedev and arttec here! After months of hard work, we are beyond thrilled to announce that the Farm & Feast demo is now officially live on Steam! As a two-person core indie team, we wanted to create a low-stakes, relaxing world where you can escape the daily stress. In this demo, you will get a taste of what it is like to grow your own fresh ingredients, manage a bustling little restaurant, and serve happy customers. What\u2019s in the Demo? Stress-Free Management: No harsh penalties, no rushing! Enjoy satisfying interactions like tossing drinks to trays and welcoming your guests at your own pace. Smooth Farming Mechanics: Experience a rewarding and relaxing farming system where planting and harvesting feel fluid and satisfying. A Relaxing Atmosphere: Take a moment to enjoy the cozy scenery. Plan your day at a calm pace and savor every moment of it. We Need Your Honest Feedback! We are constantly working to improve the game ahead of our full release, and we would love to hear your thoughts. If you play the demo, please consider leaving an honest review on the demo store page! Your genuine feedback helps us immensely with the Steam algorithm and allows us to make the final game even better. Did you find a bug? Have a suggestion? Or just want to hang out with us? https://discord.gg/UMFdVr26sh Have fun, and happy farming! \u2014 zbeedev & arttec",
+                "feedlabel": "Community Announcements",
+                "date": 1789152166,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4521650
+            },
+            {
+                "gid": "1842846814449925",
+                "title": "\ud83c\udf3e Farm & Feast Playtest Patch Notes v0.1.2",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814449925",
+                "is_external_url": true,
+                "author": "burakakar",
+                "contents": "Hey farmers! Thank you for all the reports and feedback. This update brings a big content drop plus a round of fixes. \ud83c\udfe1 Decorate your restaurant\u2022 New Decoration Mode: place plants, lamps and wall pieces\u2022 New style variants for floors, walls, wood, kitchen, tables and chairs\u2022 Decorations unlock as your hype grows, with a notification when a new one opens up\u2022 The restaurant is wider now, with more room to decorate \ud83d\udd27 Workshop\u2022 New upgrades: bigger drink tray, carry several plates at once, faster mopping and Take Order upgrades\u2022 Workshop prices rebalanced\u2022 New onboarding screen explains how upgrades work \ud83c\udf3e Farm\u2022 Ripe crops can now be harvested with the sickle \ud83c\udfaf New objectives\u2022 New objectives after the tutorial, so there is always something to aim for \u26a1 Smoother to play\u2022 Check Please minigame: type the amount on your keyboard\u2022 Seed bag drops automatically when you run out of seeds\u2022 Mopping progress now matches the mop animation\u2022 Onboarding pages pause the game\u2022 Waiter only patrols the dining floor \ud83d\udc1b Bug fixes\u2022 Fixed gamepad selection getting lost in Take Order after an onboarding page\u2022 Fixed the upper HUD jumping on some resolutions\u2022 Fixed tutorial counters counting actions before the step was shown\u2022 Fixed Decoration Mode getting stuck during tutorial transitions\u2022 Fixed cookbook highlight, plate carry indicator, hand icon and UI sizing issuesKeep the reports coming, they help a lot. And show us your restaurants! We can't wait to see how you decorate them, share your screenshots in the community hub or on Discord. See you on the farm!",
+                "feedlabel": "Community Announcements",
+                "date": 1788650781,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4521650,
+                "tags": [
+                    "patchnotes"
+                ]
+            }
+        ],
+        "count": 8
+    }
+}

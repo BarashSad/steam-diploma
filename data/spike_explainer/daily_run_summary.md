@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: GHOSTPUNCH
+Analyzed: Farm & Feast
 Tavily Budget Used: 15
 Errors: 0

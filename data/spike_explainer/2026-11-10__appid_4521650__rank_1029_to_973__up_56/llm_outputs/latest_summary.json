@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-10T19:40:44.227185+00:00",
+    "timestamp": "20261110_194044",
+    "input_file": "data/spike_explainer/2026-11-10__appid_4521650__rank_1029_to_973__up_56/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-10__appid_4521650__rank_1029_to_973__up_56/llm_outputs/gemini_20261110_194044.md",
+    "game_title": "Farm & Feast",
+    "appid": "4521650",
+    "duration_sec": 18.03,
+    "response_length": 6504,
+    "error": null
+}

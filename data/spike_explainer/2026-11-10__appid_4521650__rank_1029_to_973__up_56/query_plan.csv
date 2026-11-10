@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4521650,Farm & Feast,"""Farm & Feast"" Steam",general,1,tavily,True,,5
+4521650,Farm & Feast,"""Farm & Feast"" trailer",general,1,tavily,True,,5
+4521650,Farm & Feast,"""Farm & Feast"" gameplay",general,1,tavily,True,,5
+4521650,Farm & Feast,"""Farm & Feast"" demo",general,1,tavily,True,,5
+4521650,Farm & Feast,"""Farm & Feast"" release date",general,1,tavily,True,,5
+4521650,Farm & Feast,"""Farm & Feast"" announcement",general,1,tavily,True,,5
+4521650,Farm & Feast,"""Farm & Feast"" preview",general,1,tavily,True,,5
+4521650,Farm & Feast,"""Farm & Feast"" review",general,1,tavily,True,,5
+4521650,Farm & Feast,"""Farm & Feast"" publisher",general,1,tavily,True,,5
+4521650,Farm & Feast,"""Farm & Feast"" developer",general,1,tavily,True,,5
+4521650,Farm & Feast,"site:pcgamer.com ""Farm & Feast""",press,2,tavily,False,General budget exhausted,0
+4521650,Farm & Feast,"site:rockpapershotgun.com ""Farm & Feast""",press,2,tavily,False,General budget exhausted,0
+4521650,Farm & Feast,"site:ign.com ""Farm & Feast""",press,2,tavily,False,General budget exhausted,0
+4521650,Farm & Feast,"site:gamespot.com ""Farm & Feast""",press,2,tavily,False,General budget exhausted,0
+4521650,Farm & Feast,"site:game8.co ""Farm & Feast""",press,2,tavily,False,General budget exhausted,0
+4521650,Farm & Feast,"site:reddit.com ""Farm & Feast""",social,3,tavily,True,,5
+4521650,Farm & Feast,"site:tiktok.com ""Farm & Feast""",social,4,tavily,True,,5
+4521650,Farm & Feast,"site:instagram.com ""Farm & Feast""",social,4,tavily,True,,5
+4521650,Farm & Feast,"site:x.com ""Farm & Feast""",social,4,tavily,True,,5
+4521650,Farm & Feast,"site: ""Farm & Feast""",social,4,tavily,True,,5
