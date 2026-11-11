@@ -1,0 +1,15 @@
+{
+    "status": "error_api_failure",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-11T05:45:32.640177+00:00",
+    "timestamp": "20261111_054532",
+    "input_file": "data/spike_explainer/2026-11-11__appid_5378110__rank_1043_to_982__up_61/llm_summary_input.md",
+    "output_path": "",
+    "game_title": "One More Lawn",
+    "appid": "5378110",
+    "duration_sec": 0.0,
+    "response_length": 0,
+    "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+}

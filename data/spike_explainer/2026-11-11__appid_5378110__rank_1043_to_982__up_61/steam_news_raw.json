@@ -1,0 +1,100 @@
+{
+    "appnews": {
+        "appid": 5378110,
+        "newsitems": [
+            {
+                "gid": "1847920302235975",
+                "title": "Demo update 0.9.22: Family Friendly Mode and more",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235975",
+                "is_external_url": true,
+                "author": "dioxido de litio",
+                "contents": "A dad wrote to us: his 6 year old son loves the game, but the old man is always smoking and drinking beer. Fair point. So the demo has a new option for the little ones. Family Friendly ModeTurn it on in Options > General. The cigarette becomes a lollipop. Same hand, same gesture, he just licks it instead. The beer becomes a bottle of water. Very healthy. No smoke, no coughing, no wobbly driving. You can switch it on or off at any time, even in the middle of a game, and everything changes on the spot. In online co-op, each player sees it with their own setting. Also in this updateNo more stutter on the first bite at the barbecue. Two grass bags at once, one in each hand. Hide the HUD with a new option, for clean screenshots and videos. Thanks for all the comments and bug reports, we read every single one. Keep them coming! Play the free demo \u00b7 Wishlist the full game (out November 12) Found a bug?Use the \"Found a bug?\" button on the title screen or in the pause menu, or post it in the discussion forum.",
+                "feedlabel": "Community Announcements",
+                "date": 1793298833,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5378110,
+                "tags": [
+                    "patchnotes",
+                    "mod_reviewed",
+                    "ModAct_1827889981_1793299717_0"
+                ]
+            },
+            {
+                "gid": "1847920302231968",
+                "title": "Demo Update 0.9.20: Multiplayer Timelapse, New Leaderboards and Lots of Fixes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231968",
+                "is_external_url": true,
+                "author": "dioxido de litio",
+                "contents": "More fixes thanks to your reports. Thank you for all the feedback! What's newMultiplayer timelapse: watch the replay of the whole yard, including what your friends mowed. New leaderboards: juggling and can throwing now have their own Steam leaderboards. Move the gnome: you can now pick up the gnome and put it somewhere else to mow the grass underneath. Six-pack in the carts: you can now use the six-pack while sitting in the carts, just like on the mower. Grass bags stay on top of things: throw them onto the grill, the patio table or the roofs and they stay there. FixesJoining a friend's game is much faster: players move smoothly from the start and the yard loads in seconds. In multiplayer, kicking the gnome (or its pieces) now shows it flying for everyone instead of teleporting. Fixed the radio sometimes not moving on to the next song by itself. If your cassette has no songs, turning on the radio now plays the in-game stations instead of silence. Fixed sounds cutting out or stopping. Fixed a possible video driver crash when eating a sausage on some AMD cards. The trimmer no longer shakes when touching things or drifts to the left near walls. A hard hit with the trimmer now knocks the gnome over, and a gnome dropped from very high breaks. The mower now picks up all the loose grass it drives over. Your head no longer clips through fences, trees or walls when looking down. The paper ball for the grill no longer gets stuck in your hand, and you can place it even without charcoal. Replaced a decorative item in the shed that looked like the gas can. Wheel calibration reworked: wheelbase, pedals and handbrake can be separate devices (MOZA, Fanatec and others), and you can redo or skip any step. The wheel and pedals no longer move your character on foot. New Resolution option in Options, plus window mode and window size. The trimmer now stops against walls, fences and trees instead of going through them. The decorations around the shed no longer block you. If a save ever freezes the game, it now loads in safe mode next time and keeps your progress. Keep sending your reports. See you in the yard!",
+                "feedlabel": "Community Announcements",
+                "date": 1793207111,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5378110,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1847286114047561",
+                "title": "Demo Update 0.9.19: Streamer Mode, Shared Music and More Fixes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114047561",
+                "is_external_url": true,
+                "author": "dioxido de litio",
+                "contents": "Another round of fixes thanks to all your reports! Here's what's new in this update. NewStreamer mode: hide your lobby code everywhere. You can still copy it without showing it on screen. Find it in Options or in the Play with Friends sheet. Shared music is easier to accept: when a friend plays their own music, a notice lets you listen with one key. If you miss it, you can still accept from the Play with Friends sheet. In Options you can choose Ask, Always or Never. Selling grass bags is simpler: toss the bag into the back of the truck and you get paid instantly. The gate can be opened and closed by hand. \"Use controller\" option: turn the controller off completely in Options > Controls. ChangesThe mower's fuel now lasts 15% longer. You can spray paint a lot more before old paint starts to fade. The grill paper now lights from farther away. FixesFixed a loud static noise that could suddenly cover all the game audio. Fixed the camera spinning or looking up on its own, and the mouse not being able to look around, when certain controllers or devices were plugged in. The game now uses your dedicated graphics card, and warns you if your PC is running on software graphics. Improved controller support on Steam Deck. The lighter no longer gets stuck in your hand. The beer can no longer stays stuck in your hand after getting on and off the mower. The gas can hint no longer says it's at the back door when it's right next to you. Grass sticking through the fence no longer shows up as uncuttable. The string trimmer no longer goes through the fountain and the gnome. Keep the reports coming, they really help. See you in the yard!",
+                "feedlabel": "Community Announcements",
+                "date": 1793071417,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5378110,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1847286114046636",
+                "title": "Demo Update 0.9.18: Rebindable Controls and Bug Fixes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114046636",
+                "is_external_url": true,
+                "author": "dioxido de litio",
+                "contents": "Thanks to everyone who jumped into the demo and sent feedback! This update fixes the most reported issues and adds a few things you asked for. NewRebindable controls: you can now remap keyboard, mouse buttons and controller buttons in Options > Controls > Keys and Buttons. Wheel buttons can be set in Wheel and Pedals. Smoke while walking: you can now light up and smoke on foot, not only on the mower. Auto light: if you try to smoke without a cigarette in hand, a new one is lit automatically. Your rank on the leaderboard: if you're not in the Top 10, you now show up at the bottom with your position. FixesFixed grass bags sometimes being dropped right after picking them up and then getting stuck on the ground. Clicking to interact with something (like the grill lid) no longer throws a punch at the same time. The six-pack counter at the top of the screen now hides after a while when you are not using it. Improved controller support on Steam Deck and with non-standard controllers (triggers, d-pad and menu navigation). The grill prompt now says \"cutting board\" instead of \"board\". The string trimmer no longer flips around to point behind you while using it. The beer can no longer spins in your hand when you drink while turning. The radio volume control is now much easier to see. You can no longer walk through the air conditioner on the house. The beer can no longer gets stuck in your hand if you get off the mower while drinking. You can now refuel from any side of the mower (no more getting stuck against the fence). The string trimmer is much easier to pick up, from any part of it. The \"Found a bug?\" button now opens a form to make reporting easier. Elvira no longer mentions her gnome if you didn't touch it. Keep the feedback coming, it really helps. See you in the yard!",
+                "feedlabel": "Community Announcements",
+                "date": 1793045989,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5378110,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1847286114045256",
+                "title": "The free demo is out now",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045256",
+                "is_external_url": true,
+                "author": "dioxido de litio",
+                "contents": "The free demo of One More Lawn is out. Grab your mower, grab your friends, and go make Elvira happy. Or at least try. Download the free demo Bring friends. Up to 5 of them. Online co-op for up to 6 players, each on their own mower, all in the same yard. Join with a Steam invite or a code. Proximity voice chat, everyone's radio playing from their own mower, and plenty of ways to get nothing done: wave, dance, throw fruit at each other, or punch a friend in the face (no damage, just dizziness). In the demo you play with other demo players. {STEAM_CLAN_IMAGE}/46542581/9950470e8157116e44d8970bd4fd90cfd14a2778.gif Meet Chiquito A street vendor in an old green pickup. Call him on the phone and he shows up at the gate, honking. Toss him your bags of grass and he pays you in cash. Then spend it on things you don't need: Spray paint for the mower, the fence, the trees, his truck... Party speakers with a microphone and a knob full of silly voice effects: chipmunk, monster, robot, phone, megaphone. Little red wagons you can hook into a train. Also: charcoal and meat for the barbecue, an ice-cold six-pack, gas, fertilizer to make the grass grow back, and a brand-new garden gnome (just like the old one). Money in One More Lawn is for fun, not for upgrades. Nothing you buy makes you mow faster. {STEAM_CLAN_IMAGE}/46542581/68b98c340375badb89c07ce586d1d5a2f1aa3b08.gif {STEAM_CLAN_IMAGE}/46542581/1c9d0d17b13a9f796a24a676f13b825986a2ddb7.gif Elvira's backyard, the whole thing A big, overgrown backyard scored on perfection: everything cut, at 5 cm, nothing broken. Hold the key until the engine coughs to life, flip the blades on, and drop the deck. The dashboard is real: look at the key, the blade switch or the deck lever on the mower and click it. The grass goes into a bag behind you (keep an eye on the gauge on the dash), and Chiquito buys your bags. Get off to use the trimmer along the fence, and around that one gnome. When you're done, Elvira writes you a receipt. With comments. And everything in that yard that isn't mowing: a barbecue on the drum grill, a six-pack to toss into the bin, juggling the fruit, the radio, dances, and G\u00f3mez the gnome. No garden gnomes were harmed. Well, one. Coming November 12 in the full game Rub\u00e9n's golf course: mow the greens and fairways, each at its own height, rake the bunkers, play real golf with a driver and a putter, fish lost balls out of the pond, and pull the handbrake on the wet parking lot. Yes, a riding mower can drift. Marcela's island: load the mower onto a ferry, cross the lake and mow the whole island for a wedding. Also a boat, fishing, swimming and a lighthouse. Your maps: a map editor and the Steam Workshop to share yours and play everyone else's. You can peek at all of them on the demo's title screen. {STEAM_CLAN_IMAGE}/46542581/433c04cb97eaab99f0d46f3defb641c7029daede.png If you like the demo, add the full game to your wishlist. The old man won't care, but we will. One More Lawn on Steam Short videos and what's coming next, on Instagram: @onemorelawn Found a bug? The demo is a work in progress, so there will be some. Use the \"Found a bug?\" button on the title screen or in the pause menu (it gets the email ready for you), or post it in the discussion forum. We read everything and we fix it.",
+                "feedlabel": "Community Announcements",
+                "date": 1793027313,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5378110
+            },
+            {
+                "gid": "1847286114040807",
+                "title": "Free demo this Monday, October 26",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114040807",
+                "is_external_url": true,
+                "author": "dioxido de litio",
+                "contents": "{STEAM_CLAN_IMAGE}/46542581/9b5d7f110e041fbef02a218aaa3352fc4db600b6.gif A grumpy old man, a beat-up riding mower that starts when it feels like it, and a neighbor who wants her grass at exactly 5 centimeters. The free demo of One More Lawn comes out on Monday, October 26. What's in the demo Elvira's entire backyard, scored on perfection: everything cut, at the right height, nothing broken. Especially not her gnome. Plus the front yard to learn the ropes. Online co-op for up to 6 players, each on their own mower, all in the same yard, with proximity voice chat. Chiquito, the street vendor in the old green pickup. He buys your bags of grass and sells you toys: a leaf blower, spray paint for the mower (and everything else), a camera drone, an RC mower, party speakers with a mic and silly voice effects, and little red wagons you can hook into a train. A mechanical dashboard you actually use: look at the key, the blade switch or the deck lever on the mower and click it. A barbecue, a six-pack, juggling the fruit, the radio, dances and G\u00f3mez the gnome. {STEAM_CLAN_IMAGE}/46542581/b81df75d8604e89a87e3861778e5aa4aa36fb9cc.gif {STEAM_CLAN_IMAGE}/46542581/bf0786cf102c48fc4afb44714a1c788c7164a2d7.gif {STEAM_CLAN_IMAGE}/46542581/dc5392c3827f8bd3fa1594367a1fe04daf5d05fd.gif The rest comes on November 12 The full game adds Rub\u00e9n's golf course, Marcela's island and a map editor with Steam Workshop. You'll already see them, locked, on the demo's title screen. {STEAM_CLAN_IMAGE}/46542581/a1acd94c8c0e7a6e318959b47b065d22f0d58501.png Follow One More Lawn and add it to your wishlist so you don't miss it: One More Lawn on Steam Short videos and what's coming next, on Instagram: @onemorelawn See you Monday. Bring a beer. The old man already has one.",
+                "feedlabel": "Community Announcements",
+                "date": 1792880316,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5378110
+            }
+        ],
+        "count": 6
+    }
+}

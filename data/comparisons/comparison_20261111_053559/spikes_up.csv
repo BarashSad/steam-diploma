@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5378110,One More Lawn,One More Lawn,1043,982,61,61,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 12, 2026","Nov 12, 2026",False
+4521650,Farm & Feast,Farm & Feast,973,942,31,31,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 11, 2026","Nov 11, 2026",False
+5328800,GHOSTPUNCH,GHOSTPUNCH,903,877,26,26,up,upward_spike,Free,Free,False,Q2 2027,Q2 2027,False
+5200620,Dungeonbound,Dungeonbound,823,800,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 15, 2026","Nov 15, 2026",False
+4697880,Rock Band Simulator,Rock Band Simulator,1062,1039,23,23,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 20, 2026","Nov 20, 2026",False

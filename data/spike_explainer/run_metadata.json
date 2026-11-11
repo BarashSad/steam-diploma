@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-11-10T19:40:44.136074+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261110_193043/rank_changes.csv",
-    "selected_appid": "4521650",
-    "selected_game_title": "Farm & Feast",
+    "started_at": "2026-11-11T05:45:32.554982+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261111_053559/rank_changes.csv",
+    "selected_appid": "5378110",
+    "selected_game_title": "One More Lawn",
     "top_n": 1,
-    "old_snapshot_date": "2026-11-07",
-    "new_snapshot_date": "2026-11-10",
+    "old_snapshot_date": "2026-11-08",
+    "new_snapshot_date": "2026-11-11",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-10T19:40:44.136089+00:00",
+    "finished_at": "2026-11-11T05:45:32.554995+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
