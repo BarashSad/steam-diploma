@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5096600,Highways & Co.,Highways & Co.,892,893,-1,1,down,none,Free,Free,False,2027,Q1 2027,True
+2411280,The Bornless,The Bornless,234,234,0,0,stable,none,Unpriced (Coming Soon),Free,True,2026,2027,True
+2287430,Metropolis 1998,Metropolis 1998,360,360,0,0,stable,none,Unpriced (Coming Soon),Free,True,2026,Q1 2027,True
+4554250,Hellforged,Hellforged,373,373,0,0,stable,none,Free,Free,False,Coming soon,"Jan 18, 2027",True
