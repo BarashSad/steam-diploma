@@ -1,0 +1,835 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+5081550,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=iTzxSY669K0,CHRONO PUNK | Trailer,,Indie Game Radar: https://indiegameradar.online/ --------------------------------------------------------------------------------- CHRONO PUNK is ...,trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5081550,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=Kzgk9LfvK74,CHRONO PUNK - steam reveal trailer,,WISHLIST ON STEAM NOW!!! https://store.steampowered.com/app/5081550/CHRONO_PUNK/ CHRONO PUNK is a ...,trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5081550,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=RToTdYcDBhY,CHRONO PUNK - Official Announcement Trailer,,Wishlist on Steam: https://store.steampowered.com/app/5081550/CHRONO_PUNK/ CHRONO PUNK is a Third-Person Action ...,"trailer, announcement",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+5081550,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=Lb5B8lFgI64,CHRONO PUNK - Official Announcement Trailer,,"Don't forget to subscribe to my channel and like the video. For more news and reviews, visit my website: www.elitegamers.net ...","trailer, announcement",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+5081550,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=Kzgk9LfvK74,CHRONO PUNK - steam reveal trailer,,WISHLIST ON STEAM NOW!!! https://store.steampowered.com/app/5081550/CHRONO_PUNK/ CHRONO PUNK is a ...,trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5081550,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=RToTdYcDBhY,CHRONO PUNK - Official Announcement Trailer,,Wishlist on Steam: https://store.steampowered.com/app/5081550/CHRONO_PUNK/ CHRONO PUNK is a Third-Person Action ...,"trailer, announcement",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+5081550,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=RToTdYcDBhY,CHRONO PUNK - Official Announcement Trailer,,Wishlist on Steam: https://store.steampowered.com/app/5081550/CHRONO_PUNK/ CHRONO PUNK is a Third-Person Action ...,"trailer, announcement",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+5081550,youtube_video,outside_window,https://www.youtube.com/watch?v=_ENmsWI8GC8,Chrono Punk Dev Movement Showcase,,"Here is some early movement showcased, still WIP and lots of updates and improvements to make. enjoy.",showcase,55,medium,YouTube (+15); Exact title match (+20); Keywords ['showcase'] (+20),
+5081550,reddit_discussion,unknown_date,https://www.reddit.com/r/CharacterActionGames/comments/1xoz6qd/chrono_punk_looks_promising,CHRONO PUNK looks promising : r/CharacterActionGames,Reveal trailer dropped today.,,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+5081550,reddit_discussion,unknown_date,https://www.reddit.com/r/TwoBestFriendsPlay/comments/1xoi5p7/chrono_punk_steam_reveal_trailer_thirdperson,CHRONO PUNK - Steam reveal trailer [Third-person action ...,"CHRONO PUNK - Steam reveal trailer. Fight your way through a neon-lit city in our Sekiro-inspired cyberpunk action game, demo out now! creating",,"trailer, demo",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",social
+5081550,web_result,unknown_date,https://www.instagram.com/reel/DcB7XBIzwvO,@chrono.punk SCYTHE WEAPON GAMEPLAY,"CHRONO PUNK is a third person action roguelite with 10 weapons, from a scythe to a grimoire, plus wallrunning and grappling across a ruined city ...Read more",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),general
+5081550,web_result,unknown_date,https://www.instagram.com/reel/DcB7XBIzwvO,@chrono.punk SCYTHE WEAPON GAMEPLAY,"CHRONO PUNK is a third person action roguelite with 10 weapons, from a scythe to a grimoire, plus wallrunning and grappling across a ruined city ...Read more",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),general
+5081550,web_result,unknown_date,https://www.instagram.com/reel/DcB7XBIzwvO,@chrono.punk SCYTHE WEAPON GAMEPLAY,"CHRONO PUNK is a Third-Person Action Rogue-lite, Our 2nd longform video of the day, still getting through demos from #steamnextfest. https://",,"gameplay, demo",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+5081550,web_result,unknown_date,https://www.instagram.com/reel/DcB7XBIzwvO,@chrono.punk SCYTHE WEAPON GAMEPLAY,"CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high ... Release: To be announced. 4 days ago · punkgamedevs's profile picture.Read more",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),general
+5081550,web_result,unknown_date,https://www.instagram.com/reel/DcB7XBIzwvO,@chrono.punk SCYTHE WEAPON GAMEPLAY,"CHRONO PUNK is a third person action roguelite with 10 weapons, from a scythe to a grimoire, plus wallrunning and grappling across a ruined city",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),general
+5081550,web_result,unknown_date,https://www.instagram.com/reel/DcB7XBIzwvO,@chrono.punk SCYTHE WEAPON GAMEPLAY,"new gameplay, updated movement is feeling super nice + cool UI + better combat! CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),general
+5081550,web_result,unknown_date,https://www.instagram.com/reel/DcB7XBIzwvO,@chrono.punk SCYTHE WEAPON GAMEPLAY,"CHRONO PUNK Developer/Publisher: SoulGear Studios Platform: PC (Steam, Windows & SteamOS/Linux)",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),general
+5081550,web_result,unknown_date,https://www.instagram.com/reel/Dc6d95dKxqP,@chrono.punk FIST WEAPON SHOWCASE ! lotta updates to ...,"CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed ... Publisher: SoulGear Studios Genre: Indie ,Third-Person Action",,showcase,45,medium,Social Index (+5); Exact title match (+20); Keywords ['showcase'] (+20),general
+5081550,web_result,unknown_date,https://www.instagram.com/reel/DcB7XBIzwvO,@chrono.punk SCYTHE WEAPON GAMEPLAY,"CHRONO PUNK Developer/Publisher: SoulGear Studios Platform: PC (Steam, Windows & SteamOS/Linux)",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),general
+5081550,web_result,unknown_date,https://www.instagram.com/reel/DfkhYdNMiSZ,chrono.punk DAGGER GAMEPLAY! WISHLIST NOW ON STEAM,"CHRONO PUNK Developer/Publisher: SoulGear Studios Platform: PC (Steam, Windows & SteamOS/Linux) Release: To be announced 3 days ago",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),general
+5081550,social_post,unknown_date,https://www.tiktok.com/discover/chrono-punk,Chrono Punk,"Explore the world of Chrono Punk, a stylish game inspired by Soul Eater featuring engaging gameplay and immersive mechanics.See more videos about Chrono",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+5081550,social_post,unknown_date,https://www.tiktok.com/@toasted.sushii/video/7702927607456714017,Chrono Punk Steampage: New Longer Trailer & Release Info,"The highly anticipated game, Chrono Punk Steampage, is officially dropping tomorrow. To build the excitement, a new, longer trailer has been ...Read more",,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+5081550,social_post,unknown_date,https://www.instagram.com/reel/DcB7XBIzwvO,@chrono.punk SCYTHE WEAPON GAMEPLAY,"CHRONO PUNK is a third person action roguelite with 10 weapons, from a scythe to a grimoire, plus wallrunning and grappling across a ruined city",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+5081550,social_post,unknown_date,https://x.com/poulpebulle/status/2118362178902282561,Post,CHRONO PUNK - Official Announcement Trailer https://t.co/9lgNc4GgEH via @YouTube.,,"trailer, announcement",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",social
+5081550,social_post,unknown_date,https://www.youtube.com/@SoulGearStudios,Chrono Punk,Official account for CHRONO PUNK the video game! Follow to stay up to date. Reshape the tides of time. Punk Dev Combat Showcase,,showcase,45,medium,Social Index (+5); Exact title match (+20); Keywords ['showcase'] (+20),social
+5081550,social_post,unknown_date,https://www.instagram.com/reel/DcB7XBIzwvO,@chrono.punk SCYTHE WEAPON GAMEPLAY,"CHRONO PUNK is a third person action roguelite with 10 weapons, from a scythe to a grimoire, plus wallrunning and grappling across a ruined city",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=Kzgk9LfvK74,CHRONO PUNK - steam reveal trailer,"# CHRONO PUNK - steam reveal trailer
+## Channel: Chrono Punk
+6.91K subscribers
+9.9K likes
+
+### Description
+189,951 views
+Posted: 2026-11-04
+WISHLIST ON STEAM NOW!!!
+
+CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. [...] Create your Stitch, Choose your role, and enter the Clockwork, a once sprawling metropolis reduced to ruins. ""The Consortium"" a mega corporation who has manipulated TIME itself, controlling the city and it's citizens. Your goal is to reach the clock-tower overlooking the city, and topple the Consortium's plans. A spectator, named the Director, offers you strange power... Discover your potential.
+
+CHRONO PUNK is still in early development! expect a lot of stuff to improve. [...] follow our socials: 
+  / discord  
+  / chrono.punk  
+
+Thanks to our contributors!
+julien mendras - Background assets 
+
+song: SHINNAKU - DOWNFALL",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=RToTdYcDBhY,CHRONO PUNK - Official Announcement Trailer,"Create your Stitch, Choose your role, and enter the Clockwork, a once sprawling metropolis reduced to ruins. ""The Consortium"" a mega corporation who has manipulated TIME itself, controlling the city and it's citizens. Your goal is to reach the clock-tower overlooking the city, and topple the Consortium's plans. A spectator, named the Director, offers you strange power... Discover your potential.
+
+Developer: SoulGear Studios [...] # CHRONO PUNK - Official Announcement Trailer
+## Channel: Indie Games Hub (verified)
+278K subscribers
+374 likes
+
+### Description
+15,323 views
+Posted: 2026-11-05
+Wishlist on Steam: 
+
+CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium.",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=Kzgk9LfvK74,CHRONO PUNK - steam reveal trailer,"Create your Stitch, Choose your role, and enter the Clockwork, a once sprawling metropolis reduced to ruins. ""The Consortium"" a mega corporation who has manipulated TIME itself, controlling the city and it's citizens. Your goal is to reach the clock-tower overlooking the city, and topple the Consortium's plans. A spectator, named the Director, offers you strange power... Discover your potential.
+
+CHRONO PUNK is still in early development! expect a lot of stuff to improve. [...] # CHRONO PUNK - steam reveal trailer
+## Channel: Chrono Punk
+6.91K subscribers
+9.9K likes
+
+### Description
+189,951 views
+Posted: 2026-11-04
+WISHLIST ON STEAM NOW!!!
+
+CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. [...] follow our socials: 
+  / discord  
+  / chrono.punk  
+
+Thanks to our contributors!
+julien mendras - Background assets 
+
+song: SHINNAKU - DOWNFALL",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/@SoulGearStudios,Chrono Punk,Official account for CHRONO PUNK the video game! Follow to stay up to ... CHRONO PUNK - steam reveal trailer. 471K views. 7 days ago · 12:24. CHRONO PUNK ...Read more,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/@SoulGearStudios,Chrono Punk,Official account for CHRONO PUNK the video game! Follow to stay up to date. Reshape the tides of time. steam reveal trailer 471K views 7 days ago,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=Kzgk9LfvK74,CHRONO PUNK - steam reveal trailer,"Create your Stitch, Choose your role, and enter the Clockwork, a once sprawling metropolis reduced to ruins. ""The Consortium"" a mega corporation who has manipulated TIME itself, controlling the city and it's citizens. Your goal is to reach the clock-tower overlooking the city, and topple the Consortium's plans. A spectator, named the Director, offers you strange power... Discover your potential.
+
+CHRONO PUNK is still in early development! expect a lot of stuff to improve. [...] # CHRONO PUNK - steam reveal trailer
+## Channel: Chrono Punk
+6.91K subscribers
+9.9K likes
+
+### Description
+189,951 views
+Posted: 2026-11-04
+WISHLIST ON STEAM NOW!!!
+
+CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. [...] follow our socials: 
+  / discord  
+  / chrono.punk  
+
+Thanks to our contributors!
+julien mendras - Background assets 
+
+song: SHINNAKU - DOWNFALL",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+5081550,web_result,unknown_date,https://store.steampowered.com/app/5081550/CHRONO_PUNK,CHRONO PUNK on Steam,"Publisher: SoulGear Studios
+
+Release Date: To be announced
+
+Discord External   YouTube External   Instagram External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Planned Release Date: To be announced
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer:
+
+SoulGear Studios
+
+Publisher:
+
+SoulGear Studios
+
+Tags
+
+Popular user-defined tags for this product:
+
+Action  Action Roguelike  Hack and Slash  3D  Stylized  Third Person  Atmospheric  Dark Fantasy  Dystopian  Fantasy  Parkour  Time Travel  Indie  Character Customization  Combat  PvE  Time Manipulation  Multiplayer  Online Co-Op  Singleplayer 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews [...] All Games > Action Games > CHRONO PUNK
+
+Community Hub
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+Developer
+
+SoulGear Studios
+
+Publisher
+
+SoulGear Studios
+
+Released
+
+To be announced
+
+CHRONO PUNK is a Third-Person Action Roguelite, Combining high speed movement, intricate combat systems, and endless build potential. Customize your Stitch, Choose your Weapon, and Riot. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. Time to go, PUNK!
+
+All Reviews:",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=RToTdYcDBhY,CHRONO PUNK - Official Announcement Trailer,"# CHRONO PUNK - Official Announcement Trailer
+## Channel: Indie Games Hub (verified)
+278K subscribers
+374 likes
+
+### Description
+15,323 views
+Posted: 2026-11-05
+Wishlist on Steam: 
+
+CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. [...] Create your Stitch, Choose your role, and enter the Clockwork, a once sprawling metropolis reduced to ruins. ""The Consortium"" a mega corporation who has manipulated TIME itself, controlling the city and it's citizens. Your goal is to reach the clock-tower overlooking the city, and topple the Consortium's plans. A spectator, named the Director, offers you strange power... Discover your potential.
+
+Developer: SoulGear Studios",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+5081550,web_result,unknown_date,https://store.steampowered.com/app/5081550/CHRONO_PUNK,CHRONO PUNK on Steam,"All Games > Action Games > CHRONO PUNK
+
+Community Hub
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+Developer
+
+SoulGear Studios
+
+Publisher
+
+SoulGear Studios
+
+Released
+
+To be announced
+
+CHRONO PUNK is a Third-Person Action Roguelite, Combining high speed movement, intricate combat systems, and endless build potential. Customize your Stitch, Choose your Weapon, and Riot. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. Time to go, PUNK!
+
+All Reviews: [...] Publisher: SoulGear Studios
+
+Release Date: To be announced
+
+Discord External   YouTube External   Instagram External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Planned Release Date: To be announced
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer:
+
+SoulGear Studios
+
+Publisher:
+
+SoulGear Studios
+
+Tags
+
+Popular user-defined tags for this product:
+
+Action  Action Roguelike  Hack and Slash  3D  Stylized  Third Person  Atmospheric  Dark Fantasy  Dystopian  Fantasy  Parkour  Time Travel  Indie  Character Customization  Combat  PvE  Time Manipulation  Multiplayer  Online Co-Op  Singleplayer 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=Kzgk9LfvK74,CHRONO PUNK - steam reveal trailer,"# CHRONO PUNK - steam reveal trailer
+## Channel: Chrono Punk
+6.91K subscribers
+9.9K likes
+
+### Description
+189,951 views
+Posted: 2026-11-04
+WISHLIST ON STEAM NOW!!!
+
+CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. [...] Create your Stitch, Choose your role, and enter the Clockwork, a once sprawling metropolis reduced to ruins. ""The Consortium"" a mega corporation who has manipulated TIME itself, controlling the city and it's citizens. Your goal is to reach the clock-tower overlooking the city, and topple the Consortium's plans. A spectator, named the Director, offers you strange power... Discover your potential.
+
+CHRONO PUNK is still in early development! expect a lot of stuff to improve. [...] follow our socials: 
+  / discord  
+  / chrono.punk  
+
+Thanks to our contributors!
+julien mendras - Background assets 
+
+song: SHINNAKU - DOWNFALL",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=Kzgk9LfvK74,CHRONO PUNK - steam reveal trailer,"Create your Stitch, Choose your role, and enter the Clockwork, a once sprawling metropolis reduced to ruins. ""The Consortium"" a mega corporation who has manipulated TIME itself, controlling the city and it's citizens. Your goal is to reach the clock-tower overlooking the city, and topple the Consortium's plans. A spectator, named the Director, offers you strange power... Discover your potential.
+
+CHRONO PUNK is still in early development! expect a lot of stuff to improve. [...] # CHRONO PUNK - steam reveal trailer
+## Channel: Chrono Punk
+6.91K subscribers
+9.9K likes
+
+### Description
+189,951 views
+Posted: 2026-11-04
+WISHLIST ON STEAM NOW!!!
+
+CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. [...] follow our socials: 
+  / discord  
+  / chrono.punk  
+
+Thanks to our contributors!
+julien mendras - Background assets 
+
+song: SHINNAKU - DOWNFALL",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/@SoulGearStudios,Chrono Punk,Official account for CHRONO PUNK the video game! Follow to stay up to date ... CHRONO PUNK - steam reveal trailer. 471K views. 7 days ago · 12:24. CHRONO,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=RToTdYcDBhY,CHRONO PUNK - Official Announcement Trailer,"# CHRONO PUNK - Official Announcement Trailer
+## Channel: Indie Games Hub (verified)
+278K subscribers
+374 likes
+
+### Description
+15,323 views
+Posted: 2026-11-05
+Wishlist on Steam: 
+
+CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. [...] Create your Stitch, Choose your role, and enter the Clockwork, a once sprawling metropolis reduced to ruins. ""The Consortium"" a mega corporation who has manipulated TIME itself, controlling the city and it's citizens. Your goal is to reach the clock-tower overlooking the city, and topple the Consortium's plans. A spectator, named the Director, offers you strange power... Discover your potential.
+
+Developer: SoulGear Studios",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+5081550,web_result,unknown_date,https://store.steampowered.com/app/5081550/CHRONO_PUNK,CHRONO PUNK on Steam,"No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player
+
+Online Co-op
+
+Steam Achievements
+
+Family Sharing
+
+Profile Features Limited   
+
+Languages:
+
+English and 4 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+| French | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Portuguese - Portugal | ✔ |  | ✔ |
+
+Title: CHRONO PUNK  
+ Genre: Action, Indie  
+
+Developer: SoulGear Studios [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer:
+
+SoulGear Studios
+
+Publisher:
+
+SoulGear Studios
+
+Tags
+
+Popular user-defined tags for this product:
+
+Action  Action Roguelike  Hack and Slash  3D  Stylized  Third Person  Atmospheric  Dark Fantasy  Dystopian  Fantasy  Parkour  Time Travel  Indie  Character Customization  Combat  PvE  Time Manipulation  Multiplayer  Online Co-Op  Singleplayer 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews [...] All Games > Action Games > CHRONO PUNK
+
+Community Hub
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+Developer
+
+SoulGear Studios
+
+Publisher
+
+SoulGear Studios
+
+Released
+
+To be announced
+
+CHRONO PUNK is a Third-Person Action Roguelite, Combining high speed movement, intricate combat systems, and endless build potential. Customize your Stitch, Choose your Weapon, and Riot. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. Time to go, PUNK!
+
+All Reviews:",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5081550,web_result,unknown_date,https://store.steampowered.com/app/5081550/CHRONO_PUNK,CHRONO PUNK on Steam,"Publisher: SoulGear Studios
+
+Release Date: To be announced
+
+Discord External   YouTube External   Instagram External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+This game is not yet available on Steam
+
+# Planned Release Date: To be announced
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub
+
+## About This Game [...] All Games > Action Games > CHRONO PUNK
+
+Community Hub
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+Developer
+
+SoulGear Studios
+
+Publisher
+
+SoulGear Studios
+
+Released
+
+To be announced
+
+CHRONO PUNK is a Third-Person Action Roguelite, Combining high speed movement, intricate combat systems, and endless build potential. Customize your Stitch, Choose your Weapon, and Riot. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. Time to go, PUNK!
+
+All Reviews: [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer:
+
+SoulGear Studios
+
+Publisher:
+
+SoulGear Studios
+
+Tags
+
+Popular user-defined tags for this product:
+
+Action  Action Roguelike  Hack and Slash  3D  Stylized  Third Person  Atmospheric  Dark Fantasy  Dystopian  Fantasy  Parkour  Time Travel  Indie  Character Customization  Combat  PvE  Time Manipulation  Multiplayer  Online Co-Op  Singleplayer 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=RToTdYcDBhY,CHRONO PUNK - Official Announcement Trailer,"Create your Stitch, Choose your role, and enter the Clockwork, a once sprawling metropolis reduced to ruins. ""The Consortium"" a mega corporation who has manipulated TIME itself, controlling the city and it's citizens. Your goal is to reach the clock-tower overlooking the city, and topple the Consortium's plans. A spectator, named the Director, offers you strange power... Discover your potential.
+
+Developer: SoulGear Studios [...] # CHRONO PUNK - Official Announcement Trailer
+## Channel: Indie Games Hub (verified)
+278K subscribers
+374 likes
+
+### Description
+15,323 views
+Posted: 2026-11-05
+Wishlist on Steam: 
+
+CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium.",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+5081550,web_result,unknown_date,https://store.steampowered.com/app/5081550/CHRONO_PUNK,CHRONO PUNK on Steam,"All Games > Action Games > CHRONO PUNK
+
+Community Hub
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+Developer
+
+SoulGear Studios
+
+Publisher
+
+SoulGear Studios
+
+Released
+
+To be announced
+
+CHRONO PUNK is a Third-Person Action Roguelite, Combining high speed movement, intricate combat systems, and endless build potential. Customize your Stitch, Choose your Weapon, and Riot. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. Time to go, PUNK!
+
+All Reviews: [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+To be announced
+
+Developer:
+
+SoulGear Studios
+
+Publisher:
+
+SoulGear Studios
+
+Tags
+
+Popular user-defined tags for this product:
+
+Action  Action Roguelike  Hack and Slash  3D  Stylized  Third Person  Atmospheric  Dark Fantasy  Dystopian  Fantasy  Parkour  Time Travel  Indie  Character Customization  Combat  PvE  Time Manipulation  Multiplayer  Online Co-Op  Singleplayer 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews [...] No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player
+
+Online Co-op
+
+Steam Achievements
+
+Family Sharing
+
+Profile Features Limited   
+
+Languages:
+
+English and 4 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+| French | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Portuguese - Portugal | ✔ |  | ✔ |
+
+Title: CHRONO PUNK  
+ Genre: Action, Indie  
+
+Developer: SoulGear Studios",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=3nMAhxA6r_4,Chrono Punk Dev Combat Showcase,"Heres some combat footage to get a better grasp of the weapons and combat, This is all still heavy WIP and subject to change.",,showcase,40,medium,Exact title match (+20); Keywords ['showcase'] (+20),general
+5081550,youtube_video,outside_window,https://www.youtube.com/watch?v=iri7EWQFXxQ,CHRONO PUNK - EARLY DEVLOG 1/3,,"Hello! Hope you Enjoy the first devlog, sorry if my editing is bad or chopped up, I'm still learning the process and getting ...",,35,medium,YouTube (+15); Exact title match (+20),
+5081550,youtube_video,outside_window,https://www.youtube.com/watch?v=iri7EWQFXxQ,CHRONO PUNK - EARLY DEVLOG 1/3,,"Hello! Hope you Enjoy the first devlog, sorry if my editing is bad or chopped up, I'm still learning the process and getting ...",,35,medium,YouTube (+15); Exact title match (+20),
+5081550,youtube_video,outside_window,https://www.youtube.com/watch?v=lH0gG1xCWaQ,CHRONO PUNK - EARLY DEVLOG 3/3,,"Hello! hope you enjoyed the third early devlog. gone over some new updates this week, and the future of devlog/content like this.",,35,medium,YouTube (+15); Exact title match (+20),
+5081550,youtube_video,outside_window,https://www.youtube.com/watch?v=iri7EWQFXxQ,CHRONO PUNK - EARLY DEVLOG 1/3,,"Hello! Hope you Enjoy the first devlog, sorry if my editing is bad or chopped up, I'm still learning the process and getting ...",,35,medium,YouTube (+15); Exact title match (+20),
+5081550,youtube_video,outside_window,https://www.youtube.com/watch?v=V_y0dJhZlLM,I made a hack and slash fantasy game - Demo Game DEVLOG on Unity,,"I made a short demo for my fantasy adventure hack-and-slash game on Unity, this is just a gameplay trailer of the demo. It took 3 ...","trailer, gameplay, demo",35,medium,"YouTube (+15); Keywords ['trailer', 'gameplay', 'demo'] (+20)",
+5081550,reddit_discussion,unknown_date,https://www.reddit.com/r/CharacterActionGames/comments/1xoz6qd/chrono_punk_looks_promising,CHRONO PUNK looks promising : r/CharacterActionGames,"Despite them only playing for 10 minutes. a few more good reviews surfaced, with over 12 hours playtime and positive within less than a week",,,30,weak,Reddit (+10); Exact title match (+20),general
+5081550,reddit_discussion,unknown_date,https://www.reddit.com/r/CharacterActionGames/comments/1xoz6qd/chrono_punk_looks_promising,CHRONO PUNK looks promising : r/CharacterActionGames,"CHRONO PUNK looks promising Play. Would anyone be interested in a native PS5 port of Chrono Trigger (4K/60 FPS)? Chronoverse, a fast-paced",,,30,weak,Reddit (+10); Exact title match (+20),general
+5081550,reddit_discussion,unknown_date,https://www.reddit.com/r/CharacterActionGames/comments/1xoz6qd/chrono_punk_looks_promising,CHRONO PUNK looks promising : r/CharacterActionGames,"Despite them only playing for 10 minutes. a few more good reviews surfaced, with over 12 hours playtime and positive within less than a week",,,30,weak,Reddit (+10); Exact title match (+20),social
+5081550,reddit_discussion,unknown_date,https://www.reddit.com/r/CharacterActionGames/new?after=dDNfMXhwMWR1cQ%3D%3D&sort=new&t=DAY&feedViewType=compactView,r/CharacterActionGames - JustActionGames,"CHRONO PUNK looks promising ""Bayonetta"" are now available in ""Stellar Blade"".",,,30,weak,Reddit (+10); Exact title match (+20),social
+5081550,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=bdpzqmDEXhs,You Should Pay Attention to These Upcoming Games,,This video took way too long to render. I don't think I've ever had a problem with Davinci Resolve like this and I'm praying I never ...,,30,weak,Inside extended window (+15); YouTube (+15),
+5081550,web_result,unknown_date,https://www.instagram.com/reel/DfK9dkCuu8o,GET READY TO WISHLIST... @chrono.punk STEAMPAGE ...,"@chrono.punk STEAMPAGE DROPPING TOMORROW ALONG WITH A NEW TRAILER! small teaser to hype yall up >:] HOPE U ENJOY<3 UPGRADED LOOK, MOVEMENT ...Read more",,trailer,25,weak,Social Index (+5); Keywords ['trailer'] (+20),general
+5081550,web_result,unknown_date,https://www.instagram.com/chrono.punk,(@chrono.punk) • Instagram photos and videos,"Chrono Punk is a Action Rogue lite, with a in-depth combat systems and a heavy focus on movement/traversal. You can run solo or with friends, and attempt to",,,25,weak,Social Index (+5); Exact title match (+20),general
+5081550,web_result,unknown_date,https://www.instagram.com/reel/DfK9dkCuu8o,GET READY TO WISHLIST... @chrono.punk STEAMPAGE ...,"CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone",,,25,weak,Social Index (+5); Exact title match (+20),general
+5081550,web_result,unknown_date,https://www.instagram.com/reel/DcB7XBIzwvO,@chrono.punk SCYTHE WEAPON GAMEPLAY,"No release date yet but it's on Steam. Platform: PC (Steam, Windows & SteamOS/Linux) coming to Steam (date TBA)",,"gameplay, release date",25,weak,"Social Index (+5); Keywords ['gameplay', 'release date'] (+20)",general
+5081550,web_result,unknown_date,https://www.instagram.com/chrono.punk,(@chrono.punk) • Instagram photos and videos,"@chrono.punk SCYTHE WEAPON GAMEPLAY - new gameplay, updated movement is feeling super nice + cool UI + better combat! follow us to stay notified of updates!",,gameplay,25,weak,Social Index (+5); Keywords ['gameplay'] (+20),general
+5081550,web_result,unknown_date,https://www.instagram.com/chrono.punk,(@chrono.punk) • Instagram photos and videos,39K followers · 2 following · 11 posts · @chrono.punk: “Official Account for Chrono Punk Created by SoulGear Studios Contact : SoulGearStudios@gmail.com,,,25,weak,Social Index (+5); Exact title match (+20),general
+5081550,social_post,unknown_date,https://www.tiktok.com/@toasted.sushii/video/7704387795304877345,CHRONO PUNK on Steam: Wishlist the New Action Rogue ...,"LINK IN BIO :]] CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build ...Read more",,,25,weak,Social Index (+5); Exact title match (+20),social
+5081550,social_post,unknown_date,https://www.tiktok.com/@toasted.sushii/video/7670238772461620512,CHRONO PUNK ! name reveal for the game we're creating ...,WELCOME TO: CHRONO PUNK ! name reveal for the game we're creating under studio SOUL GEAR! follow our official insta pag: chrono.punk to stay ...Read more,,,25,weak,Social Index (+5); Exact title match (+20),social
+5081550,social_post,unknown_date,https://www.tiktok.com/@00wasabii00/video/7706292734264495373,New Soul Eater‑Like Hack 'n' Slash (Wishlist on Steam),Lead: Chrono Punk is an indie anime‑style hack‑and‑slash action game being compared to Soul Eater by fans. The short clip highlights fast ...Read more,,,25,weak,Social Index (+5); Exact title match (+20),social
+5081550,social_post,unknown_date,https://www.instagram.com/reel/DfnPDn8Bzic,@chrono.punk X @b0_nesaw TEMPEST MECHANICA,"CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone",,,25,weak,Social Index (+5); Exact title match (+20),social
+5081550,social_post,unknown_date,https://www.instagram.com/reel/DbtUy-pBVU2,@chrono.punk GREATSWORD FOOTAGE WIP! hope yall ...,"CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone",,,25,weak,Social Index (+5); Exact title match (+20),social
+5081550,social_post,unknown_date,https://www.instagram.com/reel/DfK9dkCuu8o,GET READY TO WISHLIST... @chrono.punk STEAMPAGE ...,"CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone",,,25,weak,Social Index (+5); Exact title match (+20),social
+5081550,social_post,unknown_date,https://www.instagram.com/chrono.punk,(@chrono.punk) • Instagram photos and videos,"Chrono Punk is a Action Rogue lite, with a in-depth combat systems and a heavy focus on movement/traversal. Obtain powerful upgrades throughout runs",,,25,weak,Social Index (+5); Exact title match (+20),social
+5081550,social_post,unknown_date,https://x.com/VGTimes/status/2119738135630197154,"VGTimes on X: ""💥 ""DMC + Kingdom Hearts with Spider ...",CHRONO PUNK It's a fast-paced roguelike slasher set in a city where corporations have even taken over time. Deep build variety with 10 weapon,,,25,weak,Social Index (+5); Exact title match (+20),social
+5081550,social_post,unknown_date,https://x.com/nexindie/status/2118200861365330068,Next Indie,Third-person parkour and hack & slash roguelite game 'Chrono Punk' officially announced. CHRONO PUNK on Steam From store.steampowered.com. Your,,,25,weak,Social Index (+5); Exact title match (+20),social
+5081550,social_post,unknown_date,https://x.com/8bitGrrl/status/2118544932025893219,8bitGrrl,Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK (from #RockPaperShotgun by,,,25,weak,Social Index (+5); Exact title match (+20),social
+5081550,social_post,unknown_date,https://x.com/rockpapershot/status/2118477542487158934,Rock Paper Shotgun,Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK.,,,25,weak,Social Index (+5); Exact title match (+20),social
+5081550,social_post,unknown_date,https://store.steampowered.com/app/5081550/CHRONO_PUNK,CHRONO PUNK on Steam,"All Games > Action Games > CHRONO PUNK
+
+Community Hub
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+Developer
+
+SoulGear Studios
+
+Publisher
+
+SoulGear Studios
+
+Released
+
+To be announced
+
+CHRONO PUNK is a Third-Person Action Roguelite, Combining high speed movement, intricate combat systems, and endless build potential. Customize your Stitch, Choose your Weapon, and Riot. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. Time to go, PUNK!
+
+All Reviews: [...] No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player
+
+Online Co-op
+
+Steam Achievements
+
+Family Sharing
+
+Profile Features Limited   
+
+Languages:
+
+English and 4 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+| French | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Portuguese - Portugal | ✔ |  | ✔ |
+
+Title: CHRONO PUNK  
+ Genre: Action, Indie  
+
+Developer: SoulGear Studios [...] ## About This Game
+
+CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium.",,,25,weak,Social Index (+5); Exact title match (+20),social
+5081550,social_post,unknown_date,https://www.instagram.com/reel/DfK9dkCuu8o,GET READY TO WISHLIST... @chrono.punk STEAMPAGE ...,"CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone",,,25,weak,Social Index (+5); Exact title match (+20),social
+5081550,social_post,unknown_date,https://www.youtube.com/watch?v=iri7EWQFXxQ,CHRONO PUNK - EARLY DEVLOG 1/3,"Hello! Hope you Enjoy the first devlog, sorry if my editing is bad or chopped up, I'm still learning the process and getting comfortable",,,25,weak,Social Index (+5); Exact title match (+20),social
+5081550,web_result,unknown_date,https://store.steampowered.com/app/5081550/CHRONO_PUNK,CHRONO PUNK on Steam,"## Mature Content Description
+
+The developers describe the content like this:
+
+This game includes themes of rebelling, and overthrowing an evil corporation. Player's will be fighting, destroying, killing robots, and other fantastical enemies. This game includes blood in some areas.
+
+## System Requirements
+
+Windows
+
+SteamOS + Linux
+
+Minimum:  
+
++ OS: TBD
++ Processor: TBD
++ Graphics: TBD
+
+Recommended:  
+
++ OS: TBD
++ Processor: TBD
++ Graphics: TBD
+
+Minimum: [...] No user reviews
+
+Sign in to add this item to your wishlist, follow it, or mark it as ignored
+
+)
+
+Features
+
+Single-player
+
+Online Co-op
+
+Steam Achievements
+
+Family Sharing
+
+Profile Features Limited   
+
+Languages:
+
+English and 4 more
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ | ✔ |
+| French | ✔ |  | ✔ |
+| Spanish - Spain | ✔ |  | ✔ |
+| Japanese | ✔ |  | ✔ |
+| Portuguese - Portugal | ✔ |  | ✔ |
+
+Title: CHRONO PUNK  
+ Genre: Action, Indie  
+
+Developer: SoulGear Studios [...] ## About This Game
+
+CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium.",,,20,weak,Exact title match (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=iri7EWQFXxQ,CHRONO PUNK - EARLY DEVLOG 1/3,"Hello! Hope you Enjoy the first devlog, sorry if my editing is bad or chopped up, I'm still learning the process and getting comfortable",,,20,weak,Exact title match (+20),general
+5081550,web_result,unknown_date,https://store.steampowered.com/app/5081550/CHRONO_PUNK,CHRONO PUNK on Steam,"All Games > Action Games > CHRONO PUNK
+
+Community Hub
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+Developer
+
+SoulGear Studios
+
+Publisher
+
+SoulGear Studios
+
+Released
+
+To be announced
+
+CHRONO PUNK is a Third-Person Action Roguelite, Combining high speed movement, intricate combat systems, and endless build potential. Customize your Stitch, Choose your Weapon, and Riot. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. Time to go, PUNK!
+
+All Reviews: [...] ## About This Game
+
+CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. [...] REBEL.Enter the ""Tempus Requiem Mechanica"" (TRM), The elevator transporting you to different timelines within the Clockwork. The Consortium has each of its companies patrolling and seizing the city. Riot against them in each district, making your way towards the tower. Despite the state of the city, the Punks have hope to save this place.    
+  
+  
+   
+MYSTERY.",,,20,weak,Exact title match (+20),general
+5081550,web_result,unknown_date,https://store.steampowered.com/app/5081550/CHRONO_PUNK,CHRONO PUNK on Steam,"FIGHT.  
+  
+Choose your role, out of 10 weapons, find what best suits you. All weapons have their own mechanics, movesets, variants, and upgrades for you to master. The 10 Weapons you'll be able to use are : Scythe, Sword & Shield, Greatsword, Daggers, Gauntlets, Sniper, Pistols, Bow, Shuriken, and Grimoire. 5 melee, 5 ranged.
+
+MOVE. [...] Create your Stitch, Choose your role, and enter the Clockwork, a once sprawling metropolis reduced to ruins. ""The Consortium"" a mega corporation who has manipulated TIME itself, controlling the city and it's citizens. Your goal is to reach the clock-tower overlooking the city, and topple the Consortium's plans. A spectator, named the Director, offers you strange power... Discover your potential. [...] ## About This Game
+
+CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium.",,,20,weak,Exact title match (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=iri7EWQFXxQ,CHRONO PUNK - EARLY DEVLOG 1/3,"movement and combat closer together in feel. decently fast and fluent movement and pairing that with much heavier combat, incorporating your",,,20,weak,Exact title match (+20),general
+5081550,web_result,unknown_date,https://store.steampowered.com/app/5081550/CHRONO_PUNK,CHRONO PUNK on Steam,"Create your Stitch, Choose your role, and enter the Clockwork, a once sprawling metropolis reduced to ruins. ""The Consortium"" a mega corporation who has manipulated TIME itself, controlling the city and it's citizens. Your goal is to reach the clock-tower overlooking the city, and topple the Consortium's plans. A spectator, named the Director, offers you strange power... Discover your potential. [...] FIGHT.  
+  
+Choose your role, out of 10 weapons, find what best suits you. All weapons have their own mechanics, movesets, variants, and upgrades for you to master. The 10 Weapons you'll be able to use are : Scythe, Sword & Shield, Greatsword, Daggers, Gauntlets, Sniper, Pistols, Bow, Shuriken, and Grimoire. 5 melee, 5 ranged.
+
+MOVE. [...] MOVE.
+
+Traverse the Clockwork in a variety of ways. Parkour throughout the city, wallrunning, sliding, grappling, and much more. Master movement, and learn how to move through the city effectively. Be careful of The Consortium's traps and hazards laid out across The Clockwork.
+
+STITCH.",,,20,weak,Exact title match (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=iri7EWQFXxQ,CHRONO PUNK - EARLY DEVLOG 1/3,"Hello! Hope you Enjoy the first devlog, sorry if my editing is bad or chopped up, I'm still learning the process and getting comfortable",,,20,weak,Exact title match (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=iri7EWQFXxQ,CHRONO PUNK - EARLY DEVLOG 1/3,"Hello! Hope you Enjoy the first devlog, sorry if my editing is bad or chopped up, I'm still learning the process and getting comfortable",,,20,weak,Exact title match (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/@SoulGearStudios,Chrono Punk,Official account for CHRONO PUNK the video game! Follow to stay up to date.,,,20,weak,Exact title match (+20),general
+5081550,web_result,unknown_date,https://store.steampowered.com/app/5081550/CHRONO_PUNK,CHRONO PUNK on Steam,"All Games > Action Games > CHRONO PUNK
+
+Community Hub
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+CHRONO PUNK
+
+Developer
+
+SoulGear Studios
+
+Publisher
+
+SoulGear Studios
+
+Released
+
+To be announced
+
+CHRONO PUNK is a Third-Person Action Roguelite, Combining high speed movement, intricate combat systems, and endless build potential. Customize your Stitch, Choose your Weapon, and Riot. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. Time to go, PUNK!
+
+All Reviews: [...] ## About This Game
+
+CHRONO PUNK is a Third-Person Action Rogue-lite, Combining high speed movement, intricate combat systems, and endless build potential. Go Alone or Team up. Discover what awaits in the Clockwork and rebel against the Consortium. [...] ## Mature Content Description
+
+The developers describe the content like this:
+
+This game includes themes of rebelling, and overthrowing an evil corporation. Player's will be fighting, destroying, killing robots, and other fantastical enemies. This game includes blood in some areas.
+
+## System Requirements
+
+Windows
+
+SteamOS + Linux
+
+Minimum:  
+
++ OS: TBD
++ Processor: TBD
++ Graphics: TBD
+
+Recommended:  
+
++ OS: TBD
++ Processor: TBD
++ Graphics: TBD
+
+Minimum:",,,20,weak,Exact title match (+20),general
+5081550,web_result,unknown_date,https://www.youtube.com/watch?v=iri7EWQFXxQ,CHRONO PUNK - EARLY DEVLOG 1/3,If there was one thing I would suggest it would be to tie the movement and combat closer together in feel. Take this with an incredibly big,,,20,weak,Exact title match (+20),general
+5081550,youtube_video,outside_window,https://www.youtube.com/watch?v=8I7Ldu9OlnU,I Made An Arena Shooter Game | SUMBR Devlog #2,,"SUMBR is a 2D sci-fi shooter platformer with build crafting, fast-paced combat, and multiplayer. In this devlog, I'm showing off the ...",,15,weak,YouTube (+15),
+5081550,reddit_discussion,unknown_date,https://www.reddit.com/r/transgamers/comments/10jlo99/chrono_trigger_was_early_solar_punk_and_lucca,"Chrono Trigger was early Solar Punk, and Lucca Ashtear is ...",Lucca shows a willingness to challenge a prison-state when she busts Crono out of jail. The overarching needs of the future of humanity mean,,,10,weak,Reddit (+10),social
+5081550,reddit_discussion,unknown_date,https://www.reddit.com/r/worldbuilding/comments/wxf85m/chronorogue_a_timepunk_adventure,Chrono-Rogue a Timepunk adventure : r/worldbuilding,Chrono-Rogue is a game where humanity used time travel as a means of stealing resources from the past and bringing it to the future to stave off,,,10,weak,Reddit (+10),social
+5081550,web_result,unknown_date,https://www.instagram.com/chrono.punk,(@chrono.punk) • Instagram photos and videos,OCTOBER 30th I will be,,,5,weak,Social Index (+5),general
+5081550,web_result,unknown_date,https://store.steampowered.com/app/4749910/Kronopunk_GP,Kronopunk GP on Steam,Kronopunk GP is a VR motorcycle racing experience blending cyberpunk atmosphere with sim-inspired riding mechanics. Control your bike through a unique ...Read more,,,0,weak,,general
