@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-12T06:51:25.459017+00:00",
+    "timestamp": "20261112_065125",
+    "input_file": "data/spike_explainer/2026-11-12__appid_5378110__rank_879_to_808__up_71/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-12__appid_5378110__rank_879_to_808__up_71/llm_outputs/gemini_20261112_065125.md",
+    "game_title": "One More Lawn",
+    "appid": "5378110",
+    "duration_sec": 22.91,
+    "response_length": 6236,
+    "error": null
+}

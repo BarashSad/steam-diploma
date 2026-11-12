@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5378110,One More Lawn,One More Lawn,879,808,71,71,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 12, 2026","Nov 12, 2026",False
+5081550,CHRONO PUNK,CHRONO PUNK,1058,1015,43,43,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4304060,SONIC PICO PARK,SONIC PICO PARK,904,876,28,28,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 12, 2026","Nov 12, 2026",False
+4528040,Sol One,Sol One,970,948,22,22,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 13, 2026","Nov 13, 2026",False

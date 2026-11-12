@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5378110,One More Lawn,"""One More Lawn"" Steam",general,1,tavily,True,,5
+5378110,One More Lawn,"""One More Lawn"" trailer",general,1,tavily,True,,5
+5378110,One More Lawn,"""One More Lawn"" gameplay",general,1,tavily,True,,5
+5378110,One More Lawn,"""One More Lawn"" demo",general,1,tavily,True,,5
+5378110,One More Lawn,"""One More Lawn"" release date",general,1,tavily,True,,5
+5378110,One More Lawn,"""One More Lawn"" announcement",general,1,tavily,True,,5
+5378110,One More Lawn,"""One More Lawn"" preview",general,1,tavily,True,,5
+5378110,One More Lawn,"""One More Lawn"" review",general,1,tavily,True,,5
+5378110,One More Lawn,"""One More Lawn"" publisher",general,1,tavily,True,,5
+5378110,One More Lawn,"""One More Lawn"" developer",general,1,tavily,True,,5
+5378110,One More Lawn,"site:pcgamer.com ""One More Lawn""",press,2,tavily,False,General budget exhausted,0
+5378110,One More Lawn,"site:rockpapershotgun.com ""One More Lawn""",press,2,tavily,False,General budget exhausted,0
+5378110,One More Lawn,"site:ign.com ""One More Lawn""",press,2,tavily,False,General budget exhausted,0
+5378110,One More Lawn,"site:gamespot.com ""One More Lawn""",press,2,tavily,False,General budget exhausted,0
+5378110,One More Lawn,"site:game8.co ""One More Lawn""",press,2,tavily,False,General budget exhausted,0
+5378110,One More Lawn,"site:reddit.com ""One More Lawn""",social,3,tavily,True,,5
+5378110,One More Lawn,"site:tiktok.com ""One More Lawn""",social,4,tavily,True,,5
+5378110,One More Lawn,"site:instagram.com ""One More Lawn""",social,4,tavily,True,,5
+5378110,One More Lawn,"site:x.com ""One More Lawn""",social,4,tavily,True,,5
+5378110,One More Lawn,"site: ""One More Lawn""",social,4,tavily,True,,5

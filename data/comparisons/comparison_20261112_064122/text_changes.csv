@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3895110,The Road of Dust and Sorrow,The Road of Dust and Sorrow,275,272,3,3,up,none,Unpriced (Coming Soon),Free,True,"Dec 3, 2026","Feb 19, 2027",True
+2895410,Monsterest,Monsterest,773,775,-2,2,down,none,Unpriced (Coming Soon),Free,True,To be announced,Q1 2027,True
+4504970,AetherCycle,AetherCycle,691,691,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,December 2026,"Dec 4, 2026",True

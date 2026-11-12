@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-11T19:36:01.387903+00:00,5378110,One More Lawn,data/spike_explainer/2026-11-11__appid_5378110__rank_982_to_879__up_103,103,75,data/spike_explainer/2026-11-11__appid_5378110__rank_982_to_879__up_103/llm_summary_input.md
+2026-11-12T06:50:59.495389+00:00,5378110,One More Lawn,data/spike_explainer/2026-11-12__appid_5378110__rank_879_to_808__up_71,71,85,data/spike_explainer/2026-11-12__appid_5378110__rank_879_to_808__up_71/llm_summary_input.md
