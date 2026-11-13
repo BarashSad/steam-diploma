@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-11-12T19:54:21.575680+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261112_194351/rank_changes.csv",
+    "started_at": "2026-11-13T06:06:35.179871+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261113_055758/rank_changes.csv",
     "selected_appid": "5081550",
     "selected_game_title": "CHRONO PUNK",
     "top_n": 1,
-    "old_snapshot_date": "2026-11-09",
-    "new_snapshot_date": "2026-11-12",
+    "old_snapshot_date": "2026-11-10",
+    "new_snapshot_date": "2026-11-13",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-12T19:54:21.575699+00:00",
+    "finished_at": "2026-11-13T06:06:35.179885+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

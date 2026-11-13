@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5081550,CHRONO PUNK,"""CHRONO PUNK"" Steam",general,1,tavily,True,,5
+5081550,CHRONO PUNK,"""CHRONO PUNK"" trailer",general,1,tavily,True,,5
+5081550,CHRONO PUNK,"""CHRONO PUNK"" gameplay",general,1,tavily,True,,5
+5081550,CHRONO PUNK,"""CHRONO PUNK"" demo",general,1,tavily,True,,5
+5081550,CHRONO PUNK,"""CHRONO PUNK"" release date",general,1,tavily,True,,5
+5081550,CHRONO PUNK,"""CHRONO PUNK"" announcement",general,1,tavily,True,,5
+5081550,CHRONO PUNK,"""CHRONO PUNK"" preview",general,1,tavily,True,,5
+5081550,CHRONO PUNK,"""CHRONO PUNK"" review",general,1,tavily,True,,5
+5081550,CHRONO PUNK,"""CHRONO PUNK"" publisher",general,1,tavily,True,,5
+5081550,CHRONO PUNK,"""CHRONO PUNK"" developer",general,1,tavily,True,,5
+5081550,CHRONO PUNK,"site:pcgamer.com ""CHRONO PUNK""",press,2,tavily,False,General budget exhausted,0
+5081550,CHRONO PUNK,"site:rockpapershotgun.com ""CHRONO PUNK""",press,2,tavily,False,General budget exhausted,0
+5081550,CHRONO PUNK,"site:ign.com ""CHRONO PUNK""",press,2,tavily,False,General budget exhausted,0
+5081550,CHRONO PUNK,"site:gamespot.com ""CHRONO PUNK""",press,2,tavily,False,General budget exhausted,0
+5081550,CHRONO PUNK,"site:game8.co ""CHRONO PUNK""",press,2,tavily,False,General budget exhausted,0
+5081550,CHRONO PUNK,"site:reddit.com ""CHRONO PUNK""",social,3,tavily,True,,5
+5081550,CHRONO PUNK,"site:tiktok.com ""CHRONO PUNK""",social,4,tavily,True,,5
+5081550,CHRONO PUNK,"site:instagram.com ""CHRONO PUNK""",social,4,tavily,True,,5
+5081550,CHRONO PUNK,"site:x.com ""CHRONO PUNK""",social,4,tavily,True,,5
+5081550,CHRONO PUNK,"site: ""CHRONO PUNK""",social,4,tavily,True,,5

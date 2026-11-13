@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5081550,CHRONO PUNK,CHRONO PUNK,983,949,34,34,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4691270,Company of Heroes - Definitive Edition,Company of Heroes - Definitive Edition,807,781,26,26,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4528040,Sol One,Sol One,918,892,26,26,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 13, 2026","Nov 13, 2026",False
+5200620,Dungeonbound,Dungeonbound,718,694,24,24,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 15, 2026","Nov 15, 2026",False
+4139890,TROLLHEIM: GNOMES,TROLLHEIM: GNOMES,787,767,20,20,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
