@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-13T19:35:39.785812+00:00",
+    "timestamp": "20261113_193539",
+    "input_file": "data/spike_explainer/2026-11-13__appid_4528040__rank_892_to_853__up_39/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-13__appid_4528040__rank_892_to_853__up_39/llm_outputs/gemini_20261113_193539.md",
+    "game_title": "Sol One",
+    "appid": "4528040",
+    "duration_sec": 16.85,
+    "response_length": 5213,
+    "error": null
+}

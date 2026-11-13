@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-13T06:06:11.422209+00:00,5081550,CHRONO PUNK,data/spike_explainer/2026-11-13__appid_5081550__rank_983_to_949__up_34,34,70,data/spike_explainer/2026-11-13__appid_5081550__rank_983_to_949__up_34/llm_summary_input.md
+2026-11-13T19:35:06.762362+00:00,4528040,Sol One,data/spike_explainer/2026-11-13__appid_4528040__rank_892_to_853__up_39,39,85,data/spike_explainer/2026-11-13__appid_4528040__rank_892_to_853__up_39/llm_summary_input.md

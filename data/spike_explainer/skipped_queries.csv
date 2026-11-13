@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-5081550,CHRONO PUNK,"site:pcgamer.com ""CHRONO PUNK""",press,2,tavily,False,General budget exhausted,0
-5081550,CHRONO PUNK,"site:rockpapershotgun.com ""CHRONO PUNK""",press,2,tavily,False,General budget exhausted,0
-5081550,CHRONO PUNK,"site:ign.com ""CHRONO PUNK""",press,2,tavily,False,General budget exhausted,0
-5081550,CHRONO PUNK,"site:gamespot.com ""CHRONO PUNK""",press,2,tavily,False,General budget exhausted,0
-5081550,CHRONO PUNK,"site:game8.co ""CHRONO PUNK""",press,2,tavily,False,General budget exhausted,0
+4528040,Sol One,"site:pcgamer.com ""Sol One""",press,2,tavily,False,General budget exhausted,0
+4528040,Sol One,"site:rockpapershotgun.com ""Sol One""",press,2,tavily,False,General budget exhausted,0
+4528040,Sol One,"site:ign.com ""Sol One""",press,2,tavily,False,General budget exhausted,0
+4528040,Sol One,"site:gamespot.com ""Sol One""",press,2,tavily,False,General budget exhausted,0
+4528040,Sol One,"site:game8.co ""Sol One""",press,2,tavily,False,General budget exhausted,0

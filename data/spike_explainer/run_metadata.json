@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-11-13T06:06:35.179871+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261113_055758/rank_changes.csv",
-    "selected_appid": "5081550",
-    "selected_game_title": "CHRONO PUNK",
+    "started_at": "2026-11-13T19:35:39.690377+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261113_192614/rank_changes.csv",
+    "selected_appid": "4528040",
+    "selected_game_title": "Sol One",
     "top_n": 1,
     "old_snapshot_date": "2026-11-10",
     "new_snapshot_date": "2026-11-13",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-13T06:06:35.179885+00:00",
+    "finished_at": "2026-11-13T19:35:39.690394+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

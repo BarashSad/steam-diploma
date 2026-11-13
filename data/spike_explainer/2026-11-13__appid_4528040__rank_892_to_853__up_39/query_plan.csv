@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4528040,Sol One,"""Sol One"" Steam",general,1,tavily,True,,5
+4528040,Sol One,"""Sol One"" trailer",general,1,tavily,True,,5
+4528040,Sol One,"""Sol One"" gameplay",general,1,tavily,True,,5
+4528040,Sol One,"""Sol One"" demo",general,1,tavily,True,,5
+4528040,Sol One,"""Sol One"" release date",general,1,tavily,True,,5
+4528040,Sol One,"""Sol One"" announcement",general,1,tavily,True,,5
+4528040,Sol One,"""Sol One"" preview",general,1,tavily,True,,5
+4528040,Sol One,"""Sol One"" review",general,1,tavily,True,,5
+4528040,Sol One,"""Sol One"" publisher",general,1,tavily,True,,5
+4528040,Sol One,"""Sol One"" developer",general,1,tavily,True,,5
+4528040,Sol One,"site:pcgamer.com ""Sol One""",press,2,tavily,False,General budget exhausted,0
+4528040,Sol One,"site:rockpapershotgun.com ""Sol One""",press,2,tavily,False,General budget exhausted,0
+4528040,Sol One,"site:ign.com ""Sol One""",press,2,tavily,False,General budget exhausted,0
+4528040,Sol One,"site:gamespot.com ""Sol One""",press,2,tavily,False,General budget exhausted,0
+4528040,Sol One,"site:game8.co ""Sol One""",press,2,tavily,False,General budget exhausted,0
+4528040,Sol One,"site:reddit.com ""Sol One""",social,3,tavily,True,,5
+4528040,Sol One,"site:tiktok.com ""Sol One""",social,4,tavily,True,,5
+4528040,Sol One,"site:instagram.com ""Sol One""",social,4,tavily,True,,5
+4528040,Sol One,"site:x.com ""Sol One""",social,4,tavily,True,,5
+4528040,Sol One,"site: ""Sol One""",social,4,tavily,True,,5

@@ -1,0 +1,1214 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+4528040,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932250,Update,,"Hi everyone,First, an apology. Sol One missed its August release date because the game wasn't ready, and I didn't make a proper announcement. The date stayed up, then quietly moved, and you were left without an explanation. That was my mistake, and I'm sorry.After Next Fest, Sol One went from around","announcement, release date",85,strong,"Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['announcement', 'release date'] (+20); Mentions changed Store field (+10)",
+4528040,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=B3LqzkhMGWA,Sol One - Announcement Trailer | Open World Survival 2026,,"Stranded alone on Mars, explore for resources and build a pressurized base while managing oxygen, power, and food. Construct ...","trailer, announcement",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4528040,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=B3LqzkhMGWA,Sol One - Announcement Trailer | Open World Survival 2026,,"Stranded alone on Mars, explore for resources and build a pressurized base while managing oxygen, power, and food. Construct ...","trailer, announcement",85,strong,"Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4528040,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358673,"50,000 Wishlists!",,"50,000 Wishlists!Sol One has just passed 50,000 wishlists, right before release. Thank you to everyone who added the game. It means a lot to see so many people interested in Mars.I'm working hard to make the launch version as good as it can be. Most of the features promised in the 5,000 wishlist mil",,80,strong,Inside spike window (+30); Official Steam News (+20); Exact title match (+20); Mentions changed Store field (+10),
+4528040,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=DbP7rtP28HI,"Sol One - Official Announcement Trailer | Coming Nov 13, 2026",,Sol One — Announcement trailer. A grounded open-world survival crafting game where you're stranded alone on Mars. Explore ...,"trailer, announcement",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4528040,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=DbP7rtP28HI,"Sol One - Official Announcement Trailer | Coming Nov 13, 2026",,Sol One — Announcement trailer. A grounded open-world survival crafting game where you're stranded alone on Mars. Explore ...,"trailer, announcement",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4528040,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313402,5000 Wishlists!,,"Next FestSol One closed out Steam Next Fest at 5,000 wishlists. For a solo project, that's a milestone that tells me there's a real audience for what I'm building and I'm grateful to everyone who played, wishlisted, and sent feedback.The DemoThe Next Fest demo was an early build, and I want to be st",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+4528040,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783571143,The Demo for Sol One is Live!,,"Hello everyone, I just set the first version of the demo of Sol One live for Steam Next Fest. The current version is quite raw at the moment but still gives a good idea of what the game is like. I will be updating it in the following days to make it a better experience. You can still check out the d",demo,60,medium,Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+4528040,reddit_discussion,unknown_date,https://www.reddit.com/r/SurvivalGaming/comments/1ujmybs/upcoming_game_sol_one_scifi_survival_is_scheduled,Upcoming Game: Sol One: Sci-Fi Survival is Scheduled to ...,"Sol One: Sci-Fi Survival is Scheduled to Drop July 30 News … survival crafting game alone on Mars. the Release Date now says, ""Coming soon"".",,release date,60,medium,Reddit (+10); Exact title match (+20); Keywords ['release date'] (+20); Mentions changed Store field (+10),general
+4528040,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144188775,Last Minute Issues,,"Hi everyone,I’ve spent the last few days getting Sol One ready to launch today. Everything was set to go, but in final testing I ran into crashes and problems with saving and loading that I couldn’t fix in time.I don’t want anyone’s first hours with Sol One to end in a crash or a lost save, so I’m m",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4528040,youtube_video,outside_window,https://www.youtube.com/watch?v=rF4n2vJGtDs,Sol One Announcement Trailer,,He gazed upon the red wastes... Alone! Sol One - A martian open world survival experience coming to steam summer of 2026.,"trailer, announcement",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4528040,youtube_video,outside_window,https://www.youtube.com/watch?v=jIAyGMgjYnw,Audiophile Trailer 2025,,"Sol One Arts Inc. is proud to present Audiophile, the premiere screening of a new short film by Andrew Brannen. In searching for ...",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4528040,youtube_video,outside_window,https://www.youtube.com/watch?v=OboZE31GNUY,Sol One - Steam Next Fest June 2026 - Demo VOD,,"I played the Sol One demo during the June 2026 Steam Next Fest, and enjoyed it. This is the VOD of my follow-up playthrough.",demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4528040,youtube_video,outside_window,https://www.youtube.com/watch?v=yw06qXkGuJM,Disappointed - Sol One Demo,,"Disappointed - Sol One Demo Honestly, this one is so bad I just have no words to really describe how bad I think it is. Hope the ...",demo,55,medium,YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4528040,youtube_video,outside_window,https://www.youtube.com/watch?v=rF4n2vJGtDs,Sol One Announcement Trailer,,He gazed upon the red wastes... Alone! Sol One - A martian open world survival experience coming to steam summer of 2026.,"trailer, announcement",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4528040,web_result,unknown_date,https://store.steampowered.com/app/4528040/Sol_One,Sol One on Steam,"All Games > Action Games > Sol One
+
+Community Hub
+
+Sol One
+
+Sol One
+
+Sol One
+
+Developer
+
+yeetgench
+
+Publisher
+
+yeetgench
+
+Release
+
+13 Nov, 2026
+
+A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+13 Nov, 2026
+
+Developer:
+
+yeetgench
+
+Publisher:
+
+yeetgench
+
+Tags [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ |  |
+
+Title: Sol One  
+ Genre: Action, Adventure, Indie, Simulation, Early Access  
+
+Developer: yeetgench
+
+Publisher: yeetgench
+
+Release Date: 13 Nov, 2026
+
+View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+## Coming Soon To Early Access [...] Sol One is a first-person open-world survival game that tries to get the science right. It's for people who like grounded, science-driven survival where the problem-solving is the point. Your oxygen, power, and food all come from machines you set up and maintain, and keeping them running is a must for survival.
+
+## Build it up from the dirt",,release date,50,medium,Exact title match (+20); Keywords ['release date'] (+20); Mentions changed Store field (+10),general
+4528040,reddit_discussion,unknown_date,https://www.reddit.com/r/SurvivalGaming/comments/1ujmybs/upcoming_game_sol_one_scifi_survival_is_scheduled,Upcoming Game: Sol One: Sci-Fi Survival is Scheduled to ...,"I checked to see if a demo was available to play, and sadly it was not available at the time of this writing.",,demo,50,medium,Reddit (+10); Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://store.steampowered.com/app/4528040/Sol_One,Sol One on Steam,"All Games > Action Games > Sol One
+
+Community Hub
+
+Sol One
+
+Sol One
+
+Sol One
+
+Developer
+
+yeetgench
+
+Publisher
+
+yeetgench
+
+Release
+
+13 Nov, 2026
+
+A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+13 Nov, 2026
+
+Developer:
+
+yeetgench
+
+Publisher:
+
+yeetgench
+
+Tags [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ |  |
+
+Title: Sol One  
+ Genre: Action, Adventure, Indie, Simulation, Early Access  
+
+Developer: yeetgench
+
+Publisher: yeetgench
+
+Release Date: 13 Nov, 2026
+
+View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+## Coming Soon To Early Access [...] “Working solo, player feedback is one of the most useful things I've got. I'll be reading the Steam discussions and the community hub, using what comes in to decide what to fix and what to build next, and posting updates as the game changes. People who play a lot of these survival games tend to know exactly what makes them work and what falls flat, and I want that steering where Sol One goes.”
+
+Read more
+
+This game is not yet available on Steam
+
+# Planned Release Date: 13 Nov, 2026",,release date,50,medium,Exact title match (+20); Keywords ['release date'] (+20); Mentions changed Store field (+10),general
+4528040,web_result,unknown_date,https://store.steampowered.com/app/4528040/Sol_One,Sol One on Steam,"All Games > Action Games > Sol One
+
+Community Hub
+
+Sol One
+
+Sol One
+
+Sol One
+
+Developer
+
+yeetgench
+
+Publisher
+
+yeetgench
+
+Release
+
+13 Nov, 2026
+
+A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+13 Nov, 2026
+
+Developer:
+
+yeetgench
+
+Publisher:
+
+yeetgench
+
+Tags [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ |  |
+
+Title: Sol One  
+ Genre: Action, Adventure, Indie, Simulation, Early Access  
+
+Developer: yeetgench
+
+Publisher: yeetgench
+
+Release Date: 13 Nov, 2026
+
+View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+## Coming Soon To Early Access [...] “Working solo, player feedback is one of the most useful things I've got. I'll be reading the Steam discussions and the community hub, using what comes in to decide what to fix and what to build next, and posting updates as the game changes. People who play a lot of these survival games tend to know exactly what makes them work and what falls flat, and I want that steering where Sol One goes.”
+
+Read more
+
+This game is not yet available on Steam
+
+# Planned Release Date: 13 Nov, 2026",,release date,50,medium,Exact title match (+20); Keywords ['release date'] (+20); Mentions changed Store field (+10),general
+4528040,web_result,unknown_date,https://store.steampowered.com/app/4528040/Sol_One,Sol One on Steam,"All Games > Action Games > Sol One
+
+Community Hub
+
+Sol One
+
+Sol One
+
+Sol One
+
+Developer
+
+yeetgench
+
+Publisher
+
+yeetgench
+
+Release
+
+13 Nov, 2026
+
+A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+13 Nov, 2026
+
+Developer:
+
+yeetgench
+
+Publisher:
+
+yeetgench
+
+Tags [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ |  |
+
+Title: Sol One  
+ Genre: Action, Adventure, Indie, Simulation, Early Access  
+
+Developer: yeetgench
+
+Publisher: yeetgench
+
+Release Date: 13 Nov, 2026
+
+View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+## Coming Soon To Early Access [...] I'm building Sol One on my own, and I want to get it right with the people who play it. That's why I'm launching into Early Access instead of holding everything back until it's done. The community's feedback matters a lot to me here — what players run into, what they like, what feels off, and what they want more of is going to steer where the game goes and what I build next. The demo covers the early survival loop, and the full game grows out from there: more systems, a more accurate planet,",,"demo, release date",50,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20); Mentions changed Store field (+10)",general
+4528040,web_result,unknown_date,https://store.steampowered.com/app/4528040/Sol_One,Sol One on Steam,"All Games > Action Games > Sol One
+
+Community Hub
+
+Sol One
+
+Sol One
+
+Sol One
+
+Developer
+
+yeetgench
+
+Publisher
+
+yeetgench
+
+Release
+
+13 Nov, 2026
+
+A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+13 Nov, 2026
+
+Developer:
+
+yeetgench
+
+Publisher:
+
+yeetgench
+
+Tags [...] Family Sharing
+
+Steam is learning about this game   
+
+Languages:
+
+English
+
+| Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ | ✔ |  |
+
+Title: Sol One  
+ Genre: Action, Adventure, Indie, Simulation, Early Access  
+
+Developer: yeetgench
+
+Publisher: yeetgench
+
+Release Date: 13 Nov, 2026
+
+View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+## Coming Soon To Early Access [...] I'm building Sol One on my own, and I want to get it right with the people who play it. That's why I'm launching into Early Access instead of holding everything back until it's done. The community's feedback matters a lot to me here — what players run into, what they like, what feels off, and what they want more of is going to steer where the game goes and what I build next. The demo covers the early survival loop, and the full game grows out from there: more systems, a more accurate planet,",,"demo, release date",50,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20); Mentions changed Store field (+10)",general
+4528040,web_result,unknown_date,https://everythingedinburgh.com/games/news/sol-one-mars-survival-game-steam-early-access,Sol One: Mars Survival Game Hits Steam Early Access 30 July,"Working solo means community feedback carries real weight. yeetgench says player input will directly shape what gets built next — which systems get deepened, which get rebuilt, where the planet expands. For players who enjoy watching an indie project develop in real time, the early access window here looks like a genuine development partnership rather than a monetised beta.
+
+Sol One launches on Steam on 30 July 2026. The price is set to increase after early access ends.
+
+🎮 [...] That’s the premise of Sol One, a first-person open-world survival crafting game from solo developer yeetgench. It launches in Steam Early Access on 30 July 2026, and it arrives with unusually direct developer communication about exactly what’s finished and what isn’t — which, in the current landscape of early access survival games, is worth noticing.
+
+## Survive, Mine, Build, Escape [...] The procedural Mars map is full-scale, with a proper day/night cycle. Early preview footage has been generally positive about the atmosphere and the sense of scale. One YouTuber playing the Steam Next Fest demo summarised it neatly: the grounded science approach “helps Sol One stand out from a lot of other space survival games.”
+
+## Early Access, Honestly Described",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=BCylsmpbITU,Stranded Alone on Mars in This New Survival Game! - Sol One,"### Description
+38,028 views
+Posted: 2026-06-21
+Sol One is a grounded hard sci-fi survival crafting game that drops you alone on Mars and tasks you with doing whatever it takes to survive. Managing oxygen, power, food and resources while building a pressurised base, the game immediately brought films and books like The Martian, Interstellar and Project Hail Mary to mind. In this Steam Next Fest demo we're getting a first look at what life on the Red Planet has in store. [...] ### Transcript
+[0:00] Welcome back guys, Ben here and today we are checking out a game called Sol 1, a grounded open world survival crafting game where
+[0:08] you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power and food and construct
+[0:16] the rocket that's your only way home. So this is meant to be coming out on the 31st of July.
+[0:23] It is a demo that we're playing right now during the Steam Next Fest. We've got loads [...] First impressions are very positive. The grounded approach to science and survival helps Sol One stand out from a lot of other space survival games and there are already plenty of promising systems and mechanics on display. Even at this early stage, it's easy to see the potential here and I'm genuinely excited to see how the project develops over time, especially considering this is the work of a solo developer.
+
+Check out Sol One on Steam here:",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://steamcommunity.com/app/4528040?curator_clanid=4777282,Steam Community :: Sol One,"The demo had no vitals. Now you manage health, hunger, thirst and rest, and you put on your suit, helmet and oxygen tanks yourself. The whole interface has also been reworked. It shows the technical details you need to survive, and adds shortcuts for getting around menus quickly.
+
+\[Updated suit and fabricator interfaces]
+
+Getting around
+
+And you'll need a ride to explore further. The first terrain vehicle is here, built on a new foundation for proper driving physics. [...] Store Page
+
+Sol One
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Sol One
+
+Store Page
+
+0 in Group Chat;)
+
+0 in Group Chat;)
+
+A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.
+
+Visit the Store Page
+
+Early Access Game [...] A science system. Tools for collecting samples and data points across the world to unlock new tech.
+ Points of interest to discover, starting with crashed spacecraft you can salvage for resources and science.
+ A proper main menu and options menu.
+ Plenty of quality-of-life improvements alongside all of it.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=5FmoY6BQyz0&vl=en,Sol One - This Playtest Shouldn't Be on Steam,"# Sol One - This Playtest Shouldn't Be on Steam
+## Channel: Pubcrawler644
+1.65K subscribers
+7 likes
+
+### Description
+404 views
+Posted: 2026-06-21
+Sol One joins the ever growing list of survival games set on Mars. It follows the Planet Crafter model, of placing you on a desolate planet, but this felt more liike a playtest than an actual demo. [...] Check out Sol One here - 
+A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.
+
+Join this channel to get access to perks:
+   / @pubcrawler644  
+
+Subscribe for more great content like this:  - [...] [11:32] Yeah. Okay. So, this is soul one. For me, it's just clearly not finished, but he's put that on the description.
+[11:37] Anyway, it's supposed to be a taste of what's to come, but I think there's a lot missing. Now, uh the dev has said that they want to build it with players
+[11:45] a few feedback. So, if it's something that you're interested in, links in the description to wish list it to wishlist it. For now, for me, it's just there's",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://www.dailymotion.com/video/xbu5ik2,Sol One - Announcement Trailer - video Dailymotion,"Nov 5, 2026 — Watch Sol One - Announcement Trailer - GRYOnline.pl on Dailymotion.",,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=5FmoY6BQyz0&vl=en,Sol One - This Playtest Shouldn't Be on Steam,"# Sol One - This Playtest Shouldn't Be on Steam
+## Channel: Pubcrawler644
+1.65K subscribers
+7 likes
+
+### Description
+404 views
+Posted: 2026-06-21
+Sol One joins the ever growing list of survival games set on Mars. It follows the Planet Crafter model, of placing you on a desolate planet, but this felt more liike a playtest than an actual demo. [...] [11:53] not much going on in it. It's just uh very timeconuming just to mine the rocks. You got to pick them up manually. You can only move things one at a time.
+[12:01] Battle four. So, and then there's no real threat at the minute. There's no oxygen. There's no food. And there's no water stats or health stats. So, um let
+[12:10] me know something that you you guys will try. Yep. And then on the screen now will be another video probably from the Steam Next Fest. So check it out. [...] Check out Sol One here - 
+A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.
+
+Join this channel to get access to perks:
+   / @pubcrawler644  
+
+Subscribe for more great content like this:  -",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=BCylsmpbITU,Stranded Alone on Mars in This New Survival Game! - Sol One,"A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.
+
+Timestamps ⏱️
+00:00 - Intro
+00:58 - Sol One Demo Gameplay
+30:22 - Outro - Thanks for Watching!
+
+System Specs: RTX 4090, i9 12900K, Corsair Vengeance 64GB DDR5 RAM and Seagate FireCuda M.2 NvME storage. [...] ### Description
+38,028 views
+Posted: 2026-06-21
+Sol One is a grounded hard sci-fi survival crafting game that drops you alone on Mars and tasks you with doing whatever it takes to survive. Managing oxygen, power, food and resources while building a pressurised base, the game immediately brought films and books like The Martian, Interstellar and Project Hail Mary to mind. In this Steam Next Fest demo we're getting a first look at what life on the Red Planet has in store. [...] ### Transcript
+[0:00] Welcome back guys, Ben here and today we are checking out a game called Sol 1, a grounded open world survival crafting game where
+[0:08] you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power and food and construct
+[0:16] the rocket that's your only way home. So this is meant to be coming out on the 31st of July.
+[0:23] It is a demo that we're playing right now during the Steam Next Fest. We've got loads",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=5FmoY6BQyz0&vl=en,Sol One - This Playtest Shouldn't Be on Steam,"Check out Sol One here - 
+A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.
+
+Join this channel to get access to perks:
+   / @pubcrawler644  
+
+Subscribe for more great content like this:  - [...] [11:53] not much going on in it. It's just uh very timeconuming just to mine the rocks. You got to pick them up manually. You can only move things one at a time.
+[12:01] Battle four. So, and then there's no real threat at the minute. There's no oxygen. There's no food. And there's no water stats or health stats. So, um let
+[12:10] me know something that you you guys will try. Yep. And then on the screen now will be another video probably from the Steam Next Fest. So check it out. [...] [8:05] So, if I'm the first, then surely I should have goals. Like, okay, get to a place, contact landing path. But does
+[8:12] look good, right? Am I dirty? Like, look at the edge of the helmet. Does that mean I'm getting cold? I mean, there's not even an oxygen bar. It's not survival in any sense at the minute.
+[8:23] Grand a jump. Yeah, I mean it's just a it's more like a play test this in the demo",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=BCylsmpbITU,Stranded Alone on Mars in This New Survival Game! - Sol One,"### Transcript
+[0:00] Welcome back guys, Ben here and today we are checking out a game called Sol 1, a grounded open world survival crafting game where
+[0:08] you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power and food and construct
+[0:16] the rocket that's your only way home. So this is meant to be coming out on the 31st of July.
+[0:23] It is a demo that we're playing right now during the Steam Next Fest. We've got loads [...] ### Description
+38,028 views
+Posted: 2026-06-21
+Sol One is a grounded hard sci-fi survival crafting game that drops you alone on Mars and tasks you with doing whatever it takes to survive. Managing oxygen, power, food and resources while building a pressurised base, the game immediately brought films and books like The Martian, Interstellar and Project Hail Mary to mind. In this Steam Next Fest demo we're getting a first look at what life on the Red Planet has in store. [...] A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.
+
+Timestamps ⏱️
+00:00 - Intro
+00:58 - Sol One Demo Gameplay
+30:22 - Outro - Thanks for Watching!
+
+System Specs: RTX 4090, i9 12900K, Corsair Vengeance 64GB DDR5 RAM and Seagate FireCuda M.2 NvME storage.",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=5FmoY6BQyz0&vl=en,Sol One - This Playtest Shouldn't Be on Steam,"[7:19] Let's go over here. We'll just go explore. See what else the game offers.
+[7:22] I mean, at this stage, I've been playing for 30 minutes. I just don't feel like I've done anything.
+[7:28] I mean, scan doing that, but what's what's it actually showing me? Have we got a map? No.
+[7:35] I mean, obviously, right, it's his first. It's the first demo. You know, they put the description up and stuff, but I'm just not sure where they intend to go with the game. At the minute, it's [...] [9:08] Maybe you you ice. Nope. You're just a shiny ice. So this is soul one. Demo still off if you want to check it out. I
+[9:15] think maybe wish list this is so you can keep an eye on what he wants to do rather than I wouldn't commit to this at
+[9:23] the minute cuz I have no idea what what the purpose of the game is really no survival elements there there's no driving goal and I know like sandbox [...] [2:50] Sometimes you get those games where you hold down the button and it just picks up everything around you. That would be sweet. This is just annoying. Maybe I'm
+[2:57] just a lazy player. Maybe it is controls camera. No, I mean it's very basic the demo. Fair enough. I think it's an indie
+[3:05] developer. Don't be a soloist. So just take a while. Can I take on the ground?",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://store.steampowered.com/app/4528040/Sol_One,Sol One on Steam,"I'm building Sol One on my own, and I want to get it right with the people who play it. That's why I'm launching into Early Access instead of holding everything back until it's done. The community's feedback matters a lot to me here — what players run into, what they like, what feels off, and what they want more of is going to steer where the game goes and what I build next. The demo covers the early survival loop, and the full game grows out from there: more systems, a more accurate planet, [...] Vehicles and exploration — Drive the surface yourself or send an autonomous rover ahead, and search crashed ships, landing sites, and old mission bases for what they left behind
+ Dust storms — Storms roll in and take your power and visibility with them, so you're forced to plan around them or get caught out
+ A full-scale Mars with a physically-based sky and an accurate Martian day/night cycle [...] Drive out across the surface to find what's worth finding, or send your autonomous rover ahead to scout and haul while you handle things back in your base. The planet is dotted with crashed spacecraft, earlier landing sites, and abandoned mission bases, and picking through them turns up materials, parts, and pieces of what happened here before you arrived. Getting somewhere far out and getting back alive is its own kind of problem when your oxygen and power are still ticking down the whole way.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=BCylsmpbITU,Stranded Alone on Mars in This New Survival Game! - Sol One,"### Transcript
+[0:00] Welcome back guys, Ben here and today we are checking out a game called Sol 1, a grounded open world survival crafting game where
+[0:08] you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power and food and construct
+[0:16] the rocket that's your only way home. So this is meant to be coming out on the 31st of July.
+[0:23] It is a demo that we're playing right now during the Steam Next Fest. We've got loads [...] [19:01] There will be vehicles. You'll be able to send an autonomous rover and search crash ships, landing sites and old mission bases.
+[19:08] There'll be dust storms that take out your power.
+[19:12] And it's a full scale Mars with physically based sky and an accurate Martian day night cycle. Solo dev project as well.
+[19:20] Launching into early access.
+[19:23] I think we definitely check out this early access when it comes at the end of July. [...] ### Description
+38,028 views
+Posted: 2026-06-21
+Sol One is a grounded hard sci-fi survival crafting game that drops you alone on Mars and tasks you with doing whatever it takes to survive. Managing oxygen, power, food and resources while building a pressurised base, the game immediately brought films and books like The Martian, Interstellar and Project Hail Mary to mind. In this Steam Next Fest demo we're getting a first look at what life on the Red Planet has in store.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=5FmoY6BQyz0&vl=en,Sol One - This Playtest Shouldn't Be on Steam,"# Sol One - This Playtest Shouldn't Be on Steam
+## Channel: Pubcrawler644
+1.65K subscribers
+7 likes
+
+### Description
+404 views
+Posted: 2026-06-21
+Sol One joins the ever growing list of survival games set on Mars. It follows the Planet Crafter model, of placing you on a desolate planet, but this felt more liike a playtest than an actual demo. [...] [11:32] Yeah. Okay. So, this is soul one. For me, it's just clearly not finished, but he's put that on the description.
+[11:37] Anyway, it's supposed to be a taste of what's to come, but I think there's a lot missing. Now, uh the dev has said that they want to build it with players
+[11:45] a few feedback. So, if it's something that you're interested in, links in the description to wish list it to wishlist it. For now, for me, it's just there's [...] Check out Sol One here - 
+A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.
+
+Join this channel to get access to perks:
+   / @pubcrawler644  
+
+Subscribe for more great content like this:  -",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=BCylsmpbITU,Stranded Alone on Mars in This New Survival Game! - Sol One,"First impressions are very positive. The grounded approach to science and survival helps Sol One stand out from a lot of other space survival games and there are already plenty of promising systems and mechanics on display. Even at this early stage, it's easy to see the potential here and I'm genuinely excited to see how the project develops over time, especially considering this is the work of a solo developer.
+
+Check out Sol One on Steam here: [...] ### Description
+38,028 views
+Posted: 2026-06-21
+Sol One is a grounded hard sci-fi survival crafting game that drops you alone on Mars and tasks you with doing whatever it takes to survive. Managing oxygen, power, food and resources while building a pressurised base, the game immediately brought films and books like The Martian, Interstellar and Project Hail Mary to mind. In this Steam Next Fest demo we're getting a first look at what life on the Red Planet has in store. [...] ### Transcript
+[0:00] Welcome back guys, Ben here and today we are checking out a game called Sol 1, a grounded open world survival crafting game where
+[0:08] you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power and food and construct
+[0:16] the rocket that's your only way home. So this is meant to be coming out on the 31st of July.
+[0:23] It is a demo that we're playing right now during the Steam Next Fest. We've got loads",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://store.steampowered.com/app/4528040/Sol_One,Sol One on Steam,"“It's a playable, stable survival game with its main systems working: life support to manage, three crafting tiers from raw materials to finished parts, base building, farming, mining, vehicles, points of interest to explore out on the surface, a full-scale procedural Mars with a real-feeling sky and day/night cycle, and dust storms that change how you play. It's not finished — some systems are still shallow, and the end of the game, getting off Mars, isn't in yet.” [...] “Early Access gives you the core survival game: oxygen, power and food to keep on top of, resources to mine and refine, a base to build and run, farming, vehicles, exploring crashed ships and old mission sites, and a planet that's actively trying to kill you. The full version fills in the rest — deeper and refined survival systems, more of the planet to explore, more vehicles and buildings, new resources and tech tree nodes and the full rocket build and launch that ends the game. Some of where [...] I'm building Sol One on my own, and I want to get it right with the people who play it. That's why I'm launching into Early Access instead of holding everything back until it's done. The community's feedback matters a lot to me here — what players run into, what they like, what feels off, and what they want more of is going to steer where the game goes and what I build next. The demo covers the early survival loop, and the full game grows out from there: more systems, a more accurate planet,",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=5FmoY6BQyz0&vl=en,Sol One - This Playtest Shouldn't Be on Steam,"# Sol One - This Playtest Shouldn't Be on Steam
+## Channel: Pubcrawler644
+1.65K subscribers
+7 likes
+
+### Description
+404 views
+Posted: 2026-06-21
+Sol One joins the ever growing list of survival games set on Mars. It follows the Planet Crafter model, of placing you on a desolate planet, but this felt more liike a playtest than an actual demo. [...] [7:19] Let's go over here. We'll just go explore. See what else the game offers.
+[7:22] I mean, at this stage, I've been playing for 30 minutes. I just don't feel like I've done anything.
+[7:28] I mean, scan doing that, but what's what's it actually showing me? Have we got a map? No.
+[7:35] I mean, obviously, right, it's his first. It's the first demo. You know, they put the description up and stuff, but I'm just not sure where they intend to go with the game. At the minute, it's [...] Check out Sol One here - 
+A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.
+
+Join this channel to get access to perks:
+   / @pubcrawler644  
+
+Subscribe for more great content like this:  -",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=5FmoY6BQyz0&vl=en,Sol One - This Playtest Shouldn't Be on Steam,"# Sol One - This Playtest Shouldn't Be on Steam
+## Channel: Pubcrawler644
+1.65K subscribers
+7 likes
+
+### Description
+404 views
+Posted: 2026-06-21
+Sol One joins the ever growing list of survival games set on Mars. It follows the Planet Crafter model, of placing you on a desolate planet, but this felt more liike a playtest than an actual demo. [...] Check out Sol One here - 
+A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.
+
+Join this channel to get access to perks:
+   / @pubcrawler644  
+
+Subscribe for more great content like this:  - [...] 🔹 Collab / Stream Clips
+➡️ “It’s Every Repo For Themselves!!”
+   • It's Every Repo For Themselves!!   YouTube
+
+Social Media:
+Instagram: - Pubcrawler644
+Discord: -   / discord  
+Twitter: -   / pubcrawler644",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=BCylsmpbITU,Stranded Alone on Mars in This New Survival Game! - Sol One,"First impressions are very positive. The grounded approach to science and survival helps Sol One stand out from a lot of other space survival games and there are already plenty of promising systems and mechanics on display. Even at this early stage, it's easy to see the potential here and I'm genuinely excited to see how the project develops over time, especially considering this is the work of a solo developer.
+
+Check out Sol One on Steam here: [...] [19:01] There will be vehicles. You'll be able to send an autonomous rover and search crash ships, landing sites and old mission bases.
+[19:08] There'll be dust storms that take out your power.
+[19:12] And it's a full scale Mars with physically based sky and an accurate Martian day night cycle. Solo dev project as well.
+[19:20] Launching into early access.
+[19:23] I think we definitely check out this early access when it comes at the end of July. [...] ### Description
+38,028 views
+Posted: 2026-06-21
+Sol One is a grounded hard sci-fi survival crafting game that drops you alone on Mars and tasks you with doing whatever it takes to survive. Managing oxygen, power, food and resources while building a pressurised base, the game immediately brought films and books like The Martian, Interstellar and Project Hail Mary to mind. In this Steam Next Fest demo we're getting a first look at what life on the Red Planet has in store.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=5FmoY6BQyz0&vl=en,Sol One - This Playtest Shouldn't Be on Steam,"[2:50] Sometimes you get those games where you hold down the button and it just picks up everything around you. That would be sweet. This is just annoying. Maybe I'm
+[2:57] just a lazy player. Maybe it is controls camera. No, I mean it's very basic the demo. Fair enough. I think it's an indie
+[3:05] developer. Don't be a soloist. So just take a while. Can I take on the ground? [...] [11:32] Yeah. Okay. So, this is soul one. For me, it's just clearly not finished, but he's put that on the description.
+[11:37] Anyway, it's supposed to be a taste of what's to come, but I think there's a lot missing. Now, uh the dev has said that they want to build it with players
+[11:45] a few feedback. So, if it's something that you're interested in, links in the description to wish list it to wishlist it. For now, for me, it's just there's",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4528040,youtube_video,outside_window,https://www.youtube.com/watch?v=BCylsmpbITU,Stranded Alone on Mars in This New Survival Game! - Sol One,,Sol One is a grounded hard sci-fi survival crafting game that drops you alone on Mars and tasks you with doing whatever it takes ...,,35,medium,YouTube (+15); Exact title match (+20),
+4528040,youtube_video,outside_window,https://www.youtube.com/watch?v=BCylsmpbITU,Stranded Alone on Mars in This New Survival Game! - Sol One,,Sol One is a grounded hard sci-fi survival crafting game that drops you alone on Mars and tasks you with doing whatever it takes ...,,35,medium,YouTube (+15); Exact title match (+20),
+4528040,youtube_video,outside_window,https://www.youtube.com/watch?v=mmJtKn4caZw,Sol One - Survival Crafting - I need to science everything,,Today I will be taking a look at the upcoming game Sol One. A grounded open-world survival crafting game where you're stranded ...,,35,medium,YouTube (+15); Exact title match (+20),
+4528040,youtube_video,outside_window,https://www.youtube.com/watch?v=4jcKbAp6X3o,I need to build an entire space program just to get home! | Sol One,,This is a First Impression from Mon EvenStar. Stranded alone on Mars with nothing but a survival pod and a dream of getting ...,,35,medium,YouTube (+15); Exact title match (+20),
+4528040,youtube_video,outside_window,https://www.youtube.com/watch?v=BCylsmpbITU,Stranded Alone on Mars in This New Survival Game! - Sol One,,Sol One is a grounded hard sci-fi survival crafting game that drops you alone on Mars and tasks you with doing whatever it takes ...,,35,medium,YouTube (+15); Exact title match (+20),
+4528040,youtube_video,outside_window,https://www.youtube.com/watch?v=DgLk0zNvs_M,Sol One: 1 Dev Built a Full Mars Survival Game,,"Sol One launches on Steam Early Access July 30th — a solo-developed Mars survival game where you're stranded, shipwrecked, ...",,35,medium,YouTube (+15); Exact title match (+20),
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=pDcCTxHHQ2E,Sol Protocol - Official Early Access Release Window Trailer | VR Games Showcase Summer 2026,"### Description
+3,118 views
+Posted: 2026-06-23 [...] Sol Protocol gets a new trailer and Early Access release window announcements for Meta Quest and SteamVR. Watch the latest Sol Protocol trailer for this upcoming VR co-op roguelike where you team up and physically pilot a spaceship through dangerous, procedurally generated stellar systems. Manage your spaceship, man the turrets, explore abandoned stations on foot, and make strategic decisions as you push deeper into the deep space. Sol Protocol will be available in Early Access on Meta Quest in [...] ### Transcript
+[0:00] Right. I want this to be a clean mission. We go in, we grab the loot, and we get out. Are we clear,
+[0:09] weapons ready, systems powered, warp ready, [music] and here we go.
+[0:22] [music]
+[0:32] [music]
+[0:37] Heat up here.
+[0:55] [music]
+[1:03] Heat.",,"trailer, announcement, showcase",30,weak,"Keywords ['trailer', 'announcement', 'showcase'] (+20); Mentions changed Store field (+10)",general
+4528040,web_result,unknown_date,https://yrn-studio.itch.io/sol-game-demo,Sol Game Demo by YRN STUDIO,"## Download
+
+Download;)
+
+sol-game-demo-win64-release.zip 2.6 GB
+
+Version 1.1.0  Dec 17, 2025
+
+## Install instructions
+
+This demo is solely available for x64 Windows 10/11 systems.
+
+(1) Download the above .zip-folder.
+
+(2) Unzip the contents and run the executable file SolGameDemo.exe
+
+(3) Sit back, relax and have fun!
+
+Note: If you get a pop up by Windows Smart Screen when starting, press ""More Info"" then ""Run Anyway"". [...] Follow YRN STUDIOFollowFollowing YRN STUDIOFollowing
+ Add To CollectionCollection
+ Comments
+ Devlog
+ Related gamesRelated
+
+Sol Game Demo
+
+# Sol Game Demo
+
+A downloadable game for Windows
+
+## Welcome to the Sol Game Demo!
+
+This is a vibrant high quality 3D adventure game demo where you smoothly control a young character wandering through a choose-your-own-adventure.
+
+You enjoy relaxing games with simple mechanics? [...] ## Features
+
+ Various traversal methods (Jumping, Crouching, Climbing)
+ Boosts and PowerUps
+ Hand crafted & diverse environments
+ Cinematic & seamless cutscenes
+ Original soundtrack
+ In-game tutorial
+ Full gamepad support
+ Made without generative AI
+ Language: English
+ A playthrough takes ~30-40 mins.
+
+## User Study",,demo,30,weak,Keywords ['demo'] (+20); Mentions changed Store field (+10),general
+4528040,reddit_discussion,unknown_date,https://www.reddit.com/r/SurvivalGaming/comments/1ujmybs/upcoming_game_sol_one_scifi_survival_is_scheduled,Upcoming Game: Sol One: Sci-Fi Survival is Scheduled to ...,Upcoming Game: Sol One: Sci-Fi Survival is Scheduled to Drop July 30 ... A grounded open-world survival crafting game where you're stranded alone,,,30,weak,Reddit (+10); Exact title match (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=pDcCTxHHQ2E,Sol Protocol - Official Early Access Release Window Trailer | VR Games Showcase Summer 2026,"### Description
+3,118 views
+Posted: 2026-06-23 [...] # Sol Protocol - Official Early Access Release Window Trailer | VR Games Showcase Summer 2026
+## Channel: GameTrailers (verified)
+1.34M subscribers
+74 likes [...] Sol Protocol gets a new trailer and Early Access release window announcements for Meta Quest and SteamVR. Watch the latest Sol Protocol trailer for this upcoming VR co-op roguelike where you team up and physically pilot a spaceship through dangerous, procedurally generated stellar systems. Manage your spaceship, man the turrets, explore abandoned stations on foot, and make strategic decisions as you push deeper into the deep space. Sol Protocol will be available in Early Access on Meta Quest in",,"trailer, announcement, showcase",30,weak,"Keywords ['trailer', 'announcement', 'showcase'] (+20); Mentions changed Store field (+10)",general
+4528040,reddit_discussion,unknown_date,https://www.reddit.com/r/SurvivalGaming/comments/1ujmybs/upcoming_game_sol_one_scifi_survival_is_scheduled,Upcoming Game: Sol One: Sci-Fi Survival is Scheduled to ...,"A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized",,,30,weak,Reddit (+10); Exact title match (+20),social
+4528040,reddit_discussion,unknown_date,https://www.reddit.com/r/nagcoza/comments/1v9okor/sol_one_lands_in_steam_early_access_on_the_30th,Sol One lands in Steam Early Access on the 30th July,"Sol One lands in Steam Early Access on the 30th July, challenging players to survive alone on Mars, grow potatoes, automate rovers,",,,30,weak,Reddit (+10); Exact title match (+20),social
+4528040,reddit_discussion,unknown_date,https://www.reddit.com/r/boardgames/comments/1rg447g/such_little_coverage_of_sol_last_days_of_a_star,"Such little coverage of ""Sol: Last Days of a Star"", tell me ...",An amazing and underrated game. an 60-90min game with a real depth of strategy. Plays well as any number of players even solo. Sol One: Sci-Fi,,,30,weak,Reddit (+10); Exact title match (+20),social
+4528040,social_post,unknown_date,https://shop.tiktok.com/us/pdp/1732491722655568231,Dea Sol One-Piece in Hebrew - TikTok Shop,"The Dea Sol One-Piece is the one-piece that does everything — a deep plunge neckline, a wrap-around waist detail that sculpts and flatters, and a crossover",,,25,weak,Social Index (+5); Exact title match (+20),social
+4528040,social_post,unknown_date,https://tavily.com/knowledge/company/aXbTKxqMkAA4,PT. Sol One Indonesia,"# PT. Sol One Indonesia
+ID: aXbTKxqMkAA4
+Website: www.solone.co.id
+Headquarters: Batam, Kepulauan Riau, Indonesia
+LinkedIn: www.linkedin.com/company/ptsoloneindonesia · 8 followers
+Industry: IT Services and IT Consulting
+Company type: Self-Employed
+Founded: 2014
+Business model: B2B
+SaaS: no
+Social profiles: www.facebook.com/profile.php?id=100076938592388, www.crunchbase.com/organization/sol-one, www.instagram.com/solone_indonesia
+Email: admin@solone.co.id [...] ## Products and services
+Business areas: Digital Transformation Consulting, System Development Services, Business Process Transformation
+Products: Digital Transformation Consulting, System Development Services, Business Process Optimization, Multi-Channel Engagement Solutions
+
+## Headcount
+- Now: 1 · -1 yearly (-50%) · 0 quarterly · 0 monthly
+
+## Web traffic
+- Monthly visits: 1,030
+- Pages per visit: 1.01
+- Average visit duration: 0 seconds
+- Bounce rate: 37%
+- Global rank: 16,235,780 [...] Phone: +62 778-600-0076, +62) 778-6000076
+Description: PT. SOL ONE INDONESIA is a consulting services company that brings the proper people along to challenge breakthrough of thinking, development, and transformation.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4528040,web_result,unknown_date,https://store.steampowered.com/app/4528040/Sol_One,Sol One on Steam,"“Early Access gives you the core survival game: oxygen, power and food to keep on top of, resources to mine and refine, a base to build and run, farming, vehicles, exploring crashed ships and old mission sites, and a planet that's actively trying to kill you. The full version fills in the rest — deeper and refined survival systems, more of the planet to explore, more vehicles and buildings, new resources and tech tree nodes and the full rocket build and launch that ends the game. Some of where [...] “It's a playable, stable survival game with its main systems working: life support to manage, three crafting tiers from raw materials to finished parts, base building, farming, mining, vehicles, points of interest to explore out on the surface, a full-scale procedural Mars with a real-feeling sky and day/night cycle, and dust storms that change how you play. It's not finished — some systems are still shallow, and the end of the game, getting off Mars, isn't in yet.” [...] Sol One is a first-person open-world survival game that tries to get the science right. It's for people who like grounded, science-driven survival where the problem-solving is the point. Your oxygen, power, and food all come from machines you set up and maintain, and keeping them running is a must for survival.
+
+## Build it up from the dirt",,,20,weak,Exact title match (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=a6x9Nr7VAng,I Just Landed on Mars... | SOL ONE First Look,"Welcome to my first look at SOL ONE, a brand-new space survival adventure that drops us onto a harsh alien world where every resource matters!",,,20,weak,Exact title match (+20),general
+4528040,web_result,unknown_date,https://store.steampowered.com/app/4528040/Sol_One,Sol One on Steam,"“It's a playable, stable survival game with its main systems working: life support to manage, three crafting tiers from raw materials to finished parts, base building, farming, mining, vehicles, points of interest to explore out on the surface, a full-scale procedural Mars with a real-feeling sky and day/night cycle, and dust storms that change how you play. It's not finished — some systems are still shallow, and the end of the game, getting off Mars, isn't in yet.” [...] “Early Access gives you the core survival game: oxygen, power and food to keep on top of, resources to mine and refine, a base to build and run, farming, vehicles, exploring crashed ships and old mission sites, and a planet that's actively trying to kill you. The full version fills in the rest — deeper and refined survival systems, more of the planet to explore, more vehicles and buildings, new resources and tech tree nodes and the full rocket build and launch that ends the game. Some of where [...] Vehicles and exploration — Drive the surface yourself or send an autonomous rover ahead, and search crashed ships, landing sites, and old mission bases for what they left behind
+ Dust storms — Storms roll in and take your power and visibility with them, so you're forced to plan around them or get caught out
+ A full-scale Mars with a physically-based sky and an accurate Martian day/night cycle",,,20,weak,Exact title match (+20),general
+4528040,web_result,unknown_date,https://games.mxdwn.com/news/sol-one-a-mars-survival-game-coming-to-early-access,Sol One: A Mars Survival Game Coming to Early Access - mxdwn Games,"Players will be able to drive out an explore Mars or use a rover to scout for material. The planet will include old mission bases, landing sites, and the ruins of crashed ships. These can be scavenged for useful material while unraveling what happened on the planet before the players arrived on their mission. However, players should be wary of venturing too far as they still need to manage their own power and oxygen levels, ensuring they have enough to return home safely. [...] Players who have ever wanted to experience what it was like to be Mark Watney in The Martian want to keep an eye on this open-world survival game, Sol One.It is a single-player game, where the player is left behind by their crew and now it is up to them to build a rocket to return home. Sol One is being created by one developer, yeetgench, whose goal is to incorporate realistic science in the game’s mechanics. [...] The base itself runs on a power grid that players design and must keep functional. In the Early Access version, one feature will include an interior pressure system. It will allow players to manage their oxygen generator supply, keeping it in mind when creating the layout of their shelter. There is also a tech tree, which can improve the player’s base to the point of being close to self-sufficient.",,,20,weak,Exact title match (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=4jcKbAp6X3o,I need to build an entire space program just to get home! | Sol One,"Today we're diving into Sol One, an open-world survival crafting game where every resource matters. We'll explore the Martian wilderness, build a pressurized base, manage oxygen and power, grow food, and slowly work toward the ultimate goal: constructing a rocket powerful enough to leave Mars behind.
+
+Can we survive long enough to escape the Red Planet?
+
+Let's find out.
+
+#SolOne #MarsSurvival #SurvivalGames #SpaceGames #Gaming
+
+Twitch:
+🟣   / monevenstar [...] [17:11] That would be great. And with that being said, I wonder if there's an end of a map, though.
+[17:22] I mean, the character moves really smoothly. Like, there has really good bones to this game.
+[17:28] But as a gamer, if you're not going to give me research, let me know. I was hoping to find some research stuff. Any button to work.
+[17:36] Putting resources in so we can actually get it to work. Maybe I need to go in exploration.
+[17:46] It's much like the rest of the rock, I reckon. [...] ### Transcript
+[0:00] I I am completely alone. No cities, no roads, no rescue mission. Just me and
+[0:08] the entire planet trying to kill me. If I want to survive Mars, I'll need oxygen, food, power, shelter, and
+[0:15] eventually a rocket capable of getting me home.
+[0:23] All right.
+[0:28] All right. Okay. And we're in. Oh, helmet.
+[0:33] That's just a rock. Good to know. So,
+[0:40] oh, helmet.
+[0:54] Faceuit. Oxygen.
+[0:58] Minor Boulder.
+[1:02] So minor first scanner.
+[1:18] Okay.",,,20,weak,Exact title match (+20),general
+4528040,web_result,unknown_date,https://games.mxdwn.com/news/sol-one-a-mars-survival-game-coming-to-early-access,Sol One: A Mars Survival Game Coming to Early Access - mxdwn Games,"It is a science-driven game, where the player must learn to survive on a planet that threatens to take them. Machines provide players with oxygen, food, and water. The only way to keep living is to keep them running, but are players up to the challenge? If so, Sol One will be available for Early Access on July 30th, 2026 via Steam.
+
+Chelsey Quezada
+
+(
+
+© mxdwn.com 2001 - 2026. All rights reserved. Privacy Policy [...] Menu
+
+# Sol One: A Mars Survival Game Coming to Early Access
+
+Home
+
+News
+
+ Chelsey Quezada July 27th, 2026 - 5:54 PM [...] Players who have ever wanted to experience what it was like to be Mark Watney in The Martian want to keep an eye on this open-world survival game, Sol One.It is a single-player game, where the player is left behind by their crew and now it is up to them to build a rocket to return home. Sol One is being created by one developer, yeetgench, whose goal is to incorporate realistic science in the game’s mechanics.",,,20,weak,Exact title match (+20),general
+4528040,web_result,unknown_date,https://www.igdb.com/games/sol-one,Sol One,"A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources,",,,20,weak,Exact title match (+20),general
+4528040,web_result,unknown_date,https://tavily.com/knowledge/company/aXbTKxqMkAA4,PT. Sol One Indonesia,"# PT. Sol One Indonesia
+ID: aXbTKxqMkAA4
+Website: www.solone.co.id
+Headquarters: Batam, Kepulauan Riau, Indonesia
+LinkedIn: www.linkedin.com/company/ptsoloneindonesia · 8 followers
+Industry: IT Services and IT Consulting
+Company type: Self-Employed
+Founded: 2014
+Business model: B2B
+SaaS: no
+Social profiles: www.facebook.com/profile.php?id=100076938592388, www.crunchbase.com/organization/sol-one, www.instagram.com/solone_indonesia
+Email: admin@solone.co.id [...] ## Products and services
+Business areas: Digital Transformation Consulting, System Development Services, Business Process Transformation
+Products: Digital Transformation Consulting, System Development Services, Business Process Optimization, Multi-Channel Engagement Solutions
+
+## Headcount
+- Now: 1 · -1 yearly (-50%) · 0 quarterly · 0 monthly
+
+## Web traffic
+- Monthly visits: 1,030
+- Pages per visit: 1.01
+- Average visit duration: 0 seconds
+- Bounce rate: 37%
+- Global rank: 16,235,780 [...] Phone: +62 778-600-0076, +62) 778-6000076
+Description: PT. SOL ONE INDONESIA is a consulting services company that brings the proper people along to challenge breakthrough of thinking, development, and transformation.",,,20,weak,Exact title match (+20),general
+4528040,web_result,unknown_date,https://www.youtube.com/watch?v=a6x9Nr7VAng,I Just Landed on Mars... | SOL ONE First Look,"Welcome to my first look at SOL ONE, a brand-new space survival adventure that drops us onto a harsh alien world where every resource ...Read more",,,20,weak,Exact title match (+20),general
+4528040,web_result,unknown_date,https://tavily.com/knowledge/company/aXbTKxqMkAA4,PT. Sol One Indonesia,"# PT. Sol One Indonesia
+ID: aXbTKxqMkAA4
+Website: www.solone.co.id
+Headquarters: Batam, Kepulauan Riau, Indonesia
+LinkedIn: www.linkedin.com/company/ptsoloneindonesia · 8 followers
+Industry: IT Services and IT Consulting
+Company type: Self-Employed
+Founded: 2014
+Business model: B2B
+SaaS: no
+Social profiles: www.facebook.com/profile.php?id=100076938592388, www.crunchbase.com/organization/sol-one, www.instagram.com/solone_indonesia
+Email: admin@solone.co.id [...] ## Products and services
+Business areas: Digital Transformation Consulting, System Development Services, Business Process Transformation
+Products: Digital Transformation Consulting, System Development Services, Business Process Optimization, Multi-Channel Engagement Solutions
+
+## Headcount
+- Now: 1 · -1 yearly (-50%) · 0 quarterly · 0 monthly
+
+## Web traffic
+- Monthly visits: 1,030
+- Pages per visit: 1.01
+- Average visit duration: 0 seconds
+- Bounce rate: 37%
+- Global rank: 16,235,780 [...] ## Reputation
+- Open roles: 0",,,20,weak,Exact title match (+20),general
+4528040,web_result,unknown_date,https://games.mxdwn.com/news/sol-one-a-mars-survival-game-coming-to-early-access,Sol One: A Mars Survival Game Coming to Early Access - mxdwn Games,"Players who have ever wanted to experience what it was like to be Mark Watney in The Martian want to keep an eye on this open-world survival game, Sol One.It is a single-player game, where the player is left behind by their crew and now it is up to them to build a rocket to return home. Sol One is being created by one developer, yeetgench, whose goal is to incorporate realistic science in the game’s mechanics. [...] It is a science-driven game, where the player must learn to survive on a planet that threatens to take them. Machines provide players with oxygen, food, and water. The only way to keep living is to keep them running, but are players up to the challenge? If so, Sol One will be available for Early Access on July 30th, 2026 via Steam.
+
+Chelsey Quezada
+
+(
+
+© mxdwn.com 2001 - 2026. All rights reserved. Privacy Policy [...] Some features include base building, farming, dust storms, and a full-scale Mars. Players will be able to mine material from the planet, which will enable them to expand the size of their base. The raw materials available are iron, copper, silica, ice, and uranium. All of which can either be put into a smelter or fabricator.",,,20,weak,Exact title match (+20),general
+4528040,web_result,unknown_date,https://tavily.com/knowledge/company/aXbTKxqMkAA4,PT. Sol One Indonesia,"# PT. Sol One Indonesia
+ID: aXbTKxqMkAA4
+Website: www.solone.co.id
+Headquarters: Batam, Kepulauan Riau, Indonesia
+LinkedIn: www.linkedin.com/company/ptsoloneindonesia · 8 followers
+Industry: IT Services and IT Consulting
+Company type: Self-Employed
+Founded: 2014
+Business model: B2B
+SaaS: no
+Social profiles: www.facebook.com/profile.php?id=100076938592388, www.crunchbase.com/organization/sol-one, www.instagram.com/solone_indonesia
+Email: admin@solone.co.id [...] ## Products and services
+Business areas: Digital Transformation Consulting, System Development Services, Business Process Transformation
+Products: Digital Transformation Consulting, System Development Services, Business Process Optimization, Multi-Channel Engagement Solutions
+
+## Headcount
+- Now: 1 · -1 yearly (-50%) · 0 quarterly · 0 monthly
+
+## Web traffic
+- Monthly visits: 1,030
+- Pages per visit: 1.01
+- Average visit duration: 0 seconds
+- Bounce rate: 37%
+- Global rank: 16,235,780 [...] Phone: +62 778-600-0076, +62) 778-6000076
+Description: PT. SOL ONE INDONESIA is a consulting services company that brings the proper people along to challenge breakthrough of thinking, development, and transformation.",,,20,weak,Exact title match (+20),general
+4528040,web_result,unknown_date,https://en.wikipedia.org/wiki/Sol_Press,Sol Press - Wikipedia,"Sol Press was an American publishing company that focused on localizing Japanese visual novels, light novels, and manga. Located in Orange County, California, it was formed in 2017. In October 2021, it was prohibited from doing business in the state of California for non-payment of taxes.
+
+The company had licensed ten visual novels, nine light novels, and six manga for release on the Steam ""Steam (service)"") and Kadokawa's BookWalker platforms.
+
+## History
+
+[edit] [...] Sol Press
+
+| Status | Defunct |
+| Founded | February 2017; 9 years ago (February 2017) |
+| Founder | Michael Valdez |
+| Defunct | October 2021; 5 years ago (2021-10) |
+| Country of origin | United States |
+| Headquarters location | Orange County, California |
+| Publication types | Visual novels Light novels Manga |
+| Owner | Michael Valdez |
+| Official website |  | [...] ## External links
+
+[edit]
+
+ Official website
+ Sol Press at The Visual Novel Database
+
+Retrieved from """"
+
+Categories:
+
+ Companies based in Los Angeles
+ Defunct comics and manga publishing companies
+ Defunct video game companies of the United States
+ Video game publishers
+ 2017 establishments in California
+ 2021 disestablishments in California
+
+Hidden categories:",,,10,weak,Mentions changed Store field (+10),general
+4528040,reddit_discussion,unknown_date,https://www.reddit.com/r/SurvivingMars/comments/iaqcux/what_actually_is_a_sol_in_this_game,What actually is a SOL in this game? : r/SurvivingMars,I assumed from The name that a sol would be a day and there are numerous references to it being each day. But the build times and colonist life cycles,,,10,weak,Reddit (+10),social
+4528040,reddit_discussion,unknown_date,https://www.reddit.com/r/Aurelion_Sol_mains/comments/1k3iwn7/aurelion_sol_worth_one_tricking,Aurelion Sol worth one tricking? : r/Aurelion_Sol_mains,"Hi guys, ex aurelion otp here (prerework) and i still want to main the star dragon, but don’t have much experience with his current kit. Is spending",,,10,weak,Reddit (+10),social
+4528040,social_post,unknown_date,https://www.tiktok.com/@tasteofnutrition/video/7205685688157703430,One Sol Preworkout Review (By a Dietitian): Is It Worth It? | TikTok,One Sol creatine is praised not only for its effectiveness but also for its clean ingredients—free from preservatives—making it an appealing,,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://www.tiktok.com/@onesol_,One Sol (@onesol_) - TikTok,"One Sol (@onesol_) on TikTok | 347.7K Likes. 63K Followers. Vegan Supplements 100% Vegan, Soy/Dairy Free, Non GMO No Artificial Flavors.Watch One Sol's",,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://www.tiktok.com/@toriaranae/video/7690331222383332639,Prioritizing yourself is nourishing your body @One Sol code toria,Pregnancy = higher hydration needs One Sol Hydration helps: ✨ Replace electrolytes ✨ Support hydration beyond plain water ✨ Help,,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://www.tiktok.com/@oneplaygroundaus/video/7656349473588727060,NEW at One Playground Introducing Sol Studio to Urban ... - TikTok,"NEW at One Playground Introducing Sol Studio to Urban Oasis Surry Hills: A private ritual space for reformer, Pilates and yoga when it suits",,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://www.instagram.com/onesol,One Sol Supplements (@onesol) • Instagram photos and videos,"One Sol™ women's wellness, always in motion plant-based protein + creatine don't know where to start? take our quiz. onesol. Follow. Message",,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://www.instagram.com/soltogether,SOL (@soltogether) • Instagram photos and videos,18K followers · 49 following · 459 posts · @soltogether: “SOL at @harrietsbk | 1 Hotel Brooklyn Bridge The summer experience : See You Soon☀️”,,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://www.instagram.com/solzilla,Sol (@solzilla) • Instagram photos and videos,"Photo by Sol on September 21, 2026.
+Photo by Sol on September 18, 2026.
+Video by Sol on September 11, 2026. May be an image of text.
+Video by Sol on September 02, 2026. May be an image of one or more people, beard and text. [...] Video by Seattle Music Commission on November 06, 2026. May be a graphic of clarinet, violin, cello, poster and text.
+Photo by Sol on October 16, 2026.
+Video by Sol on October 13, 2026. May be a selfie of one or more people and text.
+Video by Sol on October 07, 2026. May be an image of microphone, crowd and text.
+Photo by Sol on September 30, 2026. May be a graphic of poster and text.
+Photo by Sol on September 28, 2026.
+Video by Sol on September 25, 2026. May be an image of signboard and text. [...] solzilla's highlight story picture
+solzilla's highlight story picture
+solzilla's highlight story picture
+solzilla's highlight story picture
+solzilla's highlight story picture
+solzilla's highlight story picture
+solzilla's highlight story picture
+solzilla's highlight story picture
+solzilla's highlight story picture
+Video by Sol on November 08, 2026. May be an image of television, newsroom and text.",,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://www.instagram.com/gyallikeclee,Cleo Sol (@gyallikeclee) • Instagram photos and videos,"Log In
+
+Sign Up
+
+## gyallikeclee
+
+ 657K followers
+ 423 following
+
+Cleo Sol
+
+😎
+
+cleo-sol.com
+
+Photo by Cleo Sol on October 22, 2026. May be an image of grass, park and text.
+
+Photo by Cleo Sol on October 20, 2026. May be an image of text.
+
+Photo by Cleo Sol on September 25, 2026.
+
+Video by Cleo Sol on August 25, 2026. May be an image of piano.
+
+Photo by Cleo Sol on August 20, 2026.
+
+Photo by Cleo Sol on August 17, 2026. May be a selfie of one or more people, sarong, sundress and halter top. [...] Video by Cleo Sol on August 10, 2026. May be an image of poster and magazine.
+
+Photo by Cleo Sol on August 07, 2026.
+
+Photo by Cleo Sol on July 14, 2026.
+
+Photo by Cleo Sol on March 09, 2026.
+
+Video by Cleo Sol on January 19, 2026.
+
+Photo by Cleo Sol on January 12, 2026.
+
+Show more posts from gyallikeclee",,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://www.instagram.com/rufusdusol,RÜFÜS DU SOL (@rufusdusol) • Instagram photos and videos,"Log In
+
+Sign Up
+
+## rufusdusol
+
+ 2.4M followers
+ 1,092 following
+
+RÜFÜS DU SOL
+
+rufusdusol
+
+rufusdusol.com
+
+Photo by RÜFÜS DU SOL on October 14, 2026. May be an image of text.
+
+Photo by RÜFÜS DU SOL on October 07, 2026. May be an image of text.
+
+Photo by RÜFÜS DU SOL on September 25, 2026. May be an image of poster and text.
+
+Photo by RÜFÜS DU SOL on September 07, 2026. May be an image of text.
+
+Photo by RÜFÜS DU SOL on September 04, 2026. [...] Video by RÜFÜS DU SOL on August 31, 2026. May be an image of night.
+
+Photo by RÜFÜS DU SOL on August 28, 2026.
+
+Video by RÜFÜS DU SOL on August 24, 2026. May be an image of crowd and concert.
+
+Video by RÜFÜS DU SOL on August 22, 2026.
+
+Photo by RÜFÜS DU SOL on August 18, 2026.
+
+Video by RÜFÜS DU SOL on August 15, 2026.
+
+Photo by RÜFÜS DU SOL on August 13, 2026.
+
+Show more posts from rufusdusol",,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://x.com/sol_staker,Sol Staker ☄️ (@sol_staker) / X,"Title: Sol Staker ☄️ (@sol_staker) / X
+# Sol Staker ☄️. Get 56% to 610% ROI in 7 to 21 days by staking your $SOL in our evolutive staker on #Solana • TG : t.me/SolStaker • Docs : docs.solstaker.xyz. Stake your Solana and earn up to 10% daily profit! Website: solstaker.xyz Telegram: t.me/SolStaker #Solana #Sol #ETF $SOL. Sol staker will offer you up to 10% in daily rewards in $SOL Are you ready to stake in the best solana staker ?",,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://x.com/Sol_Systems,Sol Systems (@Sol_Systems) / X,"Mar 27, 2025
+
+  We recently broke ground on a 2.5 MW solar project at the Urbana and Champaign Sanitary District (UCSD) in Illinois. Developed by Sol Systems and @OnyxRenewables , the project will generate over 4M kWh in its first year, helping reduce energy costs. We’re also proud to partner with @ParklandCobras to establish a future scholarship, reflecting our commitment to community investment. solsystems.com/news/onyx-rene…
+
+  
+ @Sol_Systems
+
+  Sol Systems@Sol\_Systems
+
+  Mar 25, 2025 [...] Apr 30, 2025
+
+  It’s here! Introducing The Sol SOURCE, Spring 2025 Edition. This edition features our latest white paper, Charting Your Path Toward Clean Energy Procurement Whitepaper: A Strategic Roadmap for Corporate Energy Buyers. You’ll also find current trends, expert observations, project
+
+  
+
+  Sol Source Spring 2025 - Sol SystemsFrom solsystems.com
+
+  2
+ @Sol_Systems
+
+  Sol Systems@Sol\_Systems
+
+  Apr 22, 2025 [...] Mar 25, 2025
+
+  We’re excited to welcome Derek Porter as Sol Systems’ new COO! With 30+ years of experience in renewable energy, Derek’s expertise and leadership will drive our mission to scale clean energy solutions and benefit local communities. Welcome aboard, Derek! solsystems.com/news/sol-syste…",,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://x.com/sol_solfi/status/1786307660360667145,"Solfi on X: ""Presale address：Send SOL to 38LmyWtg9EPdDETN7LfWmkKUxKt3LaJK6ZRT6Jr7rfJy Staking address：Sent SOL to HbUzADkpVna46dyAqSCSHw4tfhqUUNtxMGzfvcdWzL8C"" / X","Title: Solfi on X: ""Presale address：Send SOL to 38LmyWtg9EPdDETN7LfWmkKUxKt3LaJK6ZRT6Jr7rfJy Staking address：Sent SOL to HbUzADkpVna46dyAqSCSHw4tfhqUUNtxMGzfvcdWzL8C"" / X
+## Post. # Solfi on X: ""Presale address：Send SOL to 38LmyWtg9EPdDETN7LfWmkKUxKt3LaJK6ZRT6Jr7rfJy Staking address：Sent SOL to HbUzADkpVna46dyAqSCSHw4tfhqUUNtxMGzfvcdWzL8C"". Presale address：Send SOL to 38LmyWtg9EPdDETN7LfWmkKUxKt3LaJK6ZRT6Jr7rfJy Staking address：Sent SOL to HbUzADkpVna46dyAqSCSHw4tfhqUUNtxMGzfvcdWzL8C. 08:11:48 AM · 05/03/2024·3,890. @sol\_solfi can I be part of this beautiful project. I used a Trust Wallet Solana address yesterday. But today my friends say that a Trust Wallet address is not acceptable. Am I eligible for airdrop? When to send pre-sale tokens？.",,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://x.com/sol_disti?lang=ar,Sol Distribution (@sol_disti) / X,"Title: Sol Distribution (@sol_disti) / X
+شعار الملف الشخصيّ لـ Sol Distribution. # Sol Distribution. Sol Distribution is a UK-based value-added distributor of IT hardware, specialising in networking products and their associated services. 223 متابَع379 المتابِعون. الردودالردودالمنشورات المُعاد نشرهاالمنشورات المُعاد نشرهاالوسائطالوسائط. Cubro - Your Perfect Solutions Partner - mailchi.mp/sol-distributi…. We are gearing up for our 3rd annual charity golf day, held at the renowned Oswestry Golf Course. So, if you're up for a day of fun & friendly competition, awesome prizes, & opportunities for industry networking, keep an eye out for your chance to register in the coming weeks! Our partner @lantronix are showcasing their most advanced out-of-band management solutions at Cisco Live Amsterdam! Learn more and advance book your @lantronix meetings here: ow.ly/3jrt50My0YI #ciscoliveemea #ciscolive #datacenters #enterprisesolutions. @sol\_disti Sales Kick Off features a presentation from @ALUEnterprise's Chris Derham, who's focus on public sector, key wins & new technology will provide delegates with fantastic insight for 2023. Sol-Distribution Sales Kick Off 2023من sol-distribution.co.uk. @sol\_disti are excited to announce our Sales Kick Off event on February 16th in Birmingham with our most prominent vendors. If you'd like to attend, please contact your account manager at Sol or fill out the registration form: ow.ly/uMXy50MtOWo #sales #event #kickoff2023.",,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://x.com/sol_glassworks,SoL-Glassworks (@SoL_Glassworks) / X,"Title: SoL-Glassworks (@SoL_Glassworks) / X
+# SoL-Glassworks. Made in California Chris VanGoethem @cvangoe1 artist/owner/admin😎 🔥Custom list open 21+🔥 Best function in the game!💦 #LacePerc #LaceDisc #LaceSphere. It's a pleasure and an honor to get another one in with the Legend and Marster of his craft, @saltglass 🔥💙🔥 This piece 'Salt-45 #2' (as its been call in the shop) came together better than I could've imagined! This beauty is laced up with Glopal🩵, Shooting Star🌌 #sold #Salt. Full Crushed Opal encased clear, Fire Polished Sacred-G, SoL Straight beaker accented in Amber Purple over Jet Black. Seamless Full Flower-of-Life Etched and Polished pattern on the tube, bowl and down-stem. #SoL x @karmaglass420 collab #1 🌈👽🫧 Fully worked SoL-45 x DC set! This peace has been a long time coming! I'm super grateful for the homies trust and patience. Hit the DMs for the deets! #SoL #karmaglass #hettibois #solglassworks #lacesphere. I have a handful of worked bowls up on the website. Running a 25% off sale until Monday! These are fire!🔥🌌🔥 #SoL #SoLglassworks #SoLfam.",,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://solpetroleum.com/cool_timeline/sol-launched-first-branded-site-haiti,Sol launched its first branded site in Haiti - Welcome to The Sol Group,"Title: Sol launched its first branded site in Haiti - Welcome to The Sol Group
+Welcome to The Sol GroupWelcome to The Sol GroupWelcome to The Sol Group. # Sol launched its first branded site in Haiti. 3. Sol launched its first branded site in Haiti. ### Sol launched its first branded site in Haiti. In summer of 2009, Sol launched its first Sol branded site in Haiti. The Sol brand since its first introduction has been installed across several retail, aviation and commercial sites across the Caribbean.",,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://www.sol.it/en/products-and-services/our-products-and-services-for-industry/supply-methods/on-site-plant,On-site systems — SOL,"Title: On-site systems — SOL
+Albania GTS Gazra Teknike Shqiptare Sh.P.K. Austria SOL Technische Gase GmbH. Bosnia TGT Tehnogas Fabrika Tehnickih Gasova Trn a.d. Croatia SOL Croatia d.o.o. Germany SOL Deutschland SOL Kohlensäure. Greece SOL Hellas A.E. Holland SOL Nederland B.V. Italy BEHRINGER Srl DIATHEVA Srl ICOA Srl SG LAB SOL SPA Tesi Srl. Republic of Macedonia TGS Tehnicki Gasovi Skopje a.d. Serbia SOL Srbija d.o.o. Slovenia SPG - SOL PLIN GORENJSKA d.o.o. TPJ, d.o.o., Jesenice. SOL  SOL Group - a breath of life. * Products and services for industry. # On-site systems. ### On-site systems. On-site systems make it possible to produce gas directly on customers’ premises, offering maximum flexibility and a reduction in costs, in addition to greater supply reliability. On-site systems, in association with backup systems, make it possible to fully guarantee supplies regardless of the type of consumption. On-site systems, which have been widely used for more than 20 years, are subject to continuous technological updating to further improve their performance, in particular with regard to their strong points: the reduction in sound and atmospheric pollution, energy consumption and the production of scrap and waste.",,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://cryptoadventure.com/tags/sol-gambling-site,SOL Gambling Site Archives - Crypto Adventure,"Title: SOL Gambling Site Archives - Crypto Adventure
+A list of the world's most prominent people in the Bitcoin and crypto space. | Rank | Cryptocurrency | Price | 7 days change | 24 hours trading volume | Marketcap |. Dogecoin Is Showing Life Again Dogecoin is trading near $0.10 after another firm session, with the token gaining ground alongside the broader risk-on move in crypto. Most crypto charts show where price moved and how much traded. Best Solana Casino     Crypto Casino     Crypto Gambling     iGaming     SOL Gambling Site. Best Solana Casino     Crypto Casino     Crypto Gambling     iGaming     SOL Gambling Site. 10 Best Solana Casinos 2026: Fastest Crypto Gambling Sites That Accept SOL. Binance Coin     BNB     BNB Forecast     BNB price Prediction     Crypto Market. Binance Coin     BNB     BNB Forecast     BNB price Prediction     Crypto Market. BNB is trading near $630 after another steady 24-hour session, keeping Binance Coin in the stronger part of the large-cap altcoin pack even if it has not posted the kind of explosive move seen in Solana or XRP on their best days this week. Altcoins     Bitcoin     Crypto Market Snapshot     Ethereum. Altcoins     Bitcoin     Crypto Market Snapshot     Ethereum. Crypto Market Snapshot: Bitcoin Holds $75,000 as Solana Leads Majors. Crypto traded with a firmer but selective tone over the past 24 hours. Crypto Derivatives     Funding Rates     Perpetual Premium Index     Perpetual Swaps. Crypto Derivatives     Funding Rates     Perpetual Premium Index     Perpetual Swaps. Bitcoin     Bitcoin Forecast     BTC Forecast     BTC Price Prediction     Crypto Market. Bitcoin     Bitcoin Forecast     BTC Forecast     BTC Price Prediction     Crypto Market. Bitcoin is trading near $75,000 after another steady 24-hour session, with the market continuing to reward the most liquid names as global risk appetite improves. Crypto Market     SOL Forecast     SOL Price Prediction     Solana     Solana Forecast. Crypto Market     SOL Forecast     SOL Price Prediction     Solana     Solana Forecast. Solana Price Prediction: Can SOL Reach $100 By The End Of April? Bitunix is a derivatives-first crypto exchange built around perpetual futures, copy trading, and a fast trading interface, with proof of reserves, a care fund, and a more visible security stack than many mid-tier rivals. Best Solana Casino     Crypto Casino     Crypto Gambling     iGaming     SOL Gambling Site. Best Solana Casino     Crypto Casino     Crypto Gambling     iGaming     SOL Gambling Site. 10 Best Solana Casinos 2026: Fastest Crypto Gambling Sites That Accept SOL.",,,5,weak,Social Index (+5),social
+4528040,social_post,unknown_date,https://www.linkedin.com/company/site-do-sol-nascente,Site do Sol Nascente,"# Site do Sol Nascente
+
+LinkedIn:  · 0 followers
+Industry: Individual and Family Services
+Headquarters: Ribeirão, Brazil
+
+## Employees
+- Now: 0",,,5,weak,Social Index (+5),social
+4528040,web_result,unknown_date,https://www.sol.one/blog/newsroom-7,Newsroom | Sol.One,"Integrations
+       Safety of Life
+       Contact
+
+[](
+
+Sol.One secures EUR 5.5 million to launch Project SOLFORGE
+
+Oct 29, 2026
+
+[](
+
+Sol.One enters India with DG Sol.One
+
+Oct 20, 2026
+
+[](
+
+Sol.One completes €2.5 million reciprocal investment with Drone Volt; first shipments arrive in Sol.One production plant
+
+Sep 30, 2026
+
+[](
+
+Sol.One establishes five-year European propulsion supply programme for Saboteur serial production
+
+Sep 2, 2026
+
+[]( [...] Sep 2, 2026
+
+[](
+
+Sol.One raises €2 million at a €750 million valuation and begins fit-out of new 8,000 m² drone factory in Ghent
+
+Aug 5, 2026
+
+   Image 3Image 4
+
+##### Copyright© Sol1 BVPrivacyDisclaimer VAT BE 0789.765.783
+
+##### Copyright© Sol1 BV  
+  
+PrivacyDisclaimerVAT BE 0789.765.783
+
+##### Company
+
+Route to HQ
+
+Linkedin
+
+Newsroom
+
+##### Reach out
+
+   Careers  
+
+Students
+
+Contact [...] Skip to Content
+
+Image 1: Sol.One
+   Operations
+       All mission aircraft
+       Reporter & Surveillant
+       Saboteur
+       Lifeline
+
+   Air defence
+       All C-UAS
+       BuzzKill
+       Hitchhiker
+
+   Integrations
+   Safety of Life
+   Contact
+
+   0
+
+Image 2: Sol.One
+
+   0
+
+          
+Operations
+
+           All mission aircraft
+           Reporter & Surveillant
+           Saboteur
+           Lifeline
+
+       
+Air defence
+
+           All C-UAS
+           BuzzKill
+           Hitchhiker",,,0,weak,,general
+4528040,web_result,unknown_date,https://ftp.richmondbizsense.com/journal/mL7G61603807/Biology_Sol_Review-Packet,biology sol review packet,"## What Is a Biology SOL Review Packet?
+
+### Definition and Purpose
+
+A biology SOL review packet is a curated collection of study guides, practice questions, diagrams, and summaries designed specifically to prepare students for the Virginia Standards of Learning (SOL) biology exam. Its primary purpose is to reinforce core concepts, clarify difficult topics, and provide ample opportunities for practice.
+
+### Features of an Effective Review Packet
+
+An effective review packet should include: [...] The Biology SOL Review Packet is designed as a comprehensive, structured resource that consolidates essential content, practice questions, and test-taking strategies. Its purpose is twofold: to reinforce key concepts and to familiarize students with the format and expectations of the actual SOL exam.
+
+## Structure and Components of the Biology SOL Review Packet
+
+A well-designed review packet typically includes several core components aimed at maximizing student understanding and retention: [...] Comprehensive Coverage: Addresses all major topics required by the SOL, minimizing gaps in knowledge.
+   User-Friendly Format: Organized sections, clear headings, and visual aids facilitate quick navigation.
+   Practice-Oriented Approach: Emphasizes application of knowledge through varied question formats.
+   Immediate Feedback: Answer keys and explanations help students understand mistakes.
+   Alignment with Standards: Ensures that reviewed content matches the scope and depth of the SOL.",,,0,weak,,general
+4528040,web_result,unknown_date,https://ftp.richmondbizsense.com/archive/mL7G61603807/Biology_Sol_Review_Packet,biology sol review packet,"Title: biology sol review packet
+# biology sol review packet. Image 1: biology sol review packet. **Biology SOL Review Packet**: Your Ultimate Guide to Excelling in Biology. Preparing for the Biology Standards of Learning (SOL) exam can be a daunting task, but with the right review materials, success becomes much more attainable. A comprehensive **biology SOL review packet** is an invaluable resource that consolidates key concepts, vocabulary, and skills necessary for mastery. Whether you're a student seeking to reinforce your understanding or a teacher aiming to provide effective review sessions, this guide offers a detailed overview of what a top-tier review packet should include to help you excel in your biology SOL assessments. A **biology SOL review packet** is a curated collection of study guides, practice questions, diagrams, and summaries designed specifically to prepare students for the Virginia Standards of Learning (SOL) biology exam. Its primary purpose is to reinforce core concepts, clarify difficult topics, and provide ample opportunities for practice. ### Features of an Effective Review Packet. An effective review packet should include:. 1.   Clear summaries of key concepts. 4.   Practice questions with answer keys. ## Core Content Areas Covered in a Biology SOL Review Packet. ## Designing an Effective Biology SOL Review Packet. ## Tips for Using a Biology SOL Review Packet Effectively. Use this guide to create or select a review packet tailored to your needs, and approach your biology SOL exam with confidence and preparedness. In the rapidly evolving landscape of science education, the Biology SOL Review Packet has emerged as a pivotal resource for students preparing for the Standards of Learning (SOL) assessments. This investigative analysis explores the structure, content, pedagogical strategies, and overall effectiveness of the Biology SOL Review Packet, providing educators, students, and curriculum developers with a detailed understanding of its role in biology education. The Biology SOL Review Packet is designed as a comprehensive, structured resource that consolidates essential content, practice questions, and test-taking strategies. Its purpose is twofold: to reinforce key concepts and to familiarize students with the format and expectations of the actual SOL exam. ## Structure and Components of the Biology SOL Review Packet. ## Strengths of the Biology SOL Review Packet.",,,0,weak,,general
+4528040,web_result,unknown_date,https://scharmerscience.weebly.com/biology-sol-review.html,Biology SOL Review - Science,"|  |  |
+ --- |
+| Science |  Home  + Class List >  - Biology >   Science MCA        Biology SOL Review     - Geosystems     - Chemistry     - Physics     - Environmental Studies >   Google Earth Biome Tour        Critical Response Videos  About  Contact |
+
+## Biology
+
+Click on the designated link to review for Biology SOL's
+
+## Science Investigation
+
+|  |  |  |  |
+ ---  --- |
+| |  |  |  --- | |  |  | | SOL Review 1 SI: Notes |
+
+|  |  |
+ --- |
+|  |  | [...] ## Cells﻿
+
+|  |  |  |  |
+ ---  --- |
+| |  |  |  --- | |  |  | | SOL Review 3 Cells: Notes |
+
+|  |  |  |  |
+ ---  --- |
+| Review Games: Cells Match the Cell Parts  Hangman  Rags to Riches: Cells! | Quizzes: Cells |  |  |  --- | | JLab SOL Quiz | Cell Parts | |
+
+## Evolution, Ecology, & Classification
+
+|  |  |  |  |
+ ---  --- |
+| |  |  |  --- | |  |  | | Review 5 Evolution, Ecology, Classification: Notes | [...] |  |  |  |  |
+ ---  --- |
+| Review Games: Science Investigation Rags 2 Riches: Sci. Investigation | |  |  |  --- | |  | Quizzes: Science Investigation JLab SOL Quiz  VDOE SOL Practice Items | |
+
+## Genetics
+
+|  |  |  |  |
+ ---  --- |
+| |  |  |  --- | |  |  | | SOL Review 2 Genetics: Notes |
+
+|  |  |
+ --- |
+| Review Games: Genetics DNA Game  DNA structure and function  Heredity Partner Game | Quizzes: Genetics JLab SOL Quiz |
+
+## Cells﻿",,,0,weak,,general
+4528040,web_result,unknown_date,https://sciencewithmcphillips.weebly.com/sol-review.html,SOL Review,"Title: SOL Review
+## SOL Review. 1st 9 weeks Vocab Review. Powered by  Create your own unique website with customizable templates.",,,0,weak,,general
+4528040,web_result,unknown_date,https://sites.google.com/salem.k12.va.us/biology/sol-review,Biology - SOL Review,"Title: Biology - SOL Review
+# SOL Review. ## SOL Review Resources. Biology General Topic Review Videos. * BIO SOL Review 1 Research, Scientific Cooperation, Microscopes. * BIO SOL Review 2 Experiments. * BIO SOL Review 3 Data, Graphs. * BIO SOL Review 4 Data Tables & Diagrams. * BIO SOL Review 5 Cells. * BIO SOL Review 6 Classification. * BIO SOL Review 7 Energy-Photosynthesis and Respiration. * BIO SOL Review 8 Energy-Food Webs. * BIO SOL Review 9 Homeostasis-Water properties. * BIO SOL Review 10 Macromolecules- Enzymes. * BIO SOL Review 11 Environments- Biomes, Ecosystems, Human impact. * BIO SOL Review 12 Disease-Viruses-Antibiotics. * BIO SOL Review 13 Reproduction-Mitosis, Meiosis. * BIO SOL Review 14 Adaptations. * BIO SOL Review 15 Genetics & Evolution. * BIO SOL Review 16 DNA-RNA. * BIO SOL Review 17 Fossils. * BIO SOL Review 18 Human Body.",,,0,weak,,general
+4528040,web_result,unknown_date,https://www.sol.one,Home | Sol.One,"Our proven Sol language solution provides a high-level specification method for safety-critical avionics systems, up to DAL A. Used and certified in large UAVs that have flown for years.
+
+Feel free to contact us.  Start the conversation about your UAV programme
+
+INQUIRE 
+
+## Sol.One [...] ### Subsystems
+
+The key to any drone is its compute systems. Sol.One provides certifiable building blocks to other drone manufacturers. Together with SolAero computer, we provide GCS, FCC, FTS, DMS and TLSS. Many abbreviations, one shared idea: a robust network of integrated systems working together to create reliable avionics
+
+###### 
+
+### Certification Automation [...] ## Sol.One
+
+The Safety of Life principle is the strictest certification class in aviation and fully embedded in the way we work, live and operate. By delivering reliable information, continuous awareness and the clarity to act quickly when it matters most, our drones are able to protect the people we care about.
+
+DISCOVER 
+
+## Newsroom
+
+Find the latest news below.
+
+DISCOVER",,,0,weak,,general

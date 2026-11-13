@@ -1,0 +1,85 @@
+{
+    "appnews": {
+        "appid": 4528040,
+        "newsitems": [
+            {
+                "gid": "1849192144188775",
+                "title": "Last Minute Issues",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144188775",
+                "is_external_url": true,
+                "author": "yeetgench",
+                "contents": "Hi everyone,I\u2019ve spent the last few days getting Sol One ready to launch today. Everything was set to go, but in final testing I ran into crashes and problems with saving and loading that I couldn\u2019t fix in time.I don\u2019t want anyone\u2019s first hours with Sol One to end in a crash or a lost save, so I\u2019m moving Early Access to Monday, November 16.I\u2019m really sorry, especially if you\u2019d planned to play this weekend. I know this isn\u2019t the first delay, and I know it\u2019s frustrating. I\u2019ll be spending the weekend fixing these.If Sol One is on your wishlist, Steam will let you know as soon as it\u2019s out.Thanks for your patience, and for sticking with the game.",
+                "feedlabel": "Community Announcements",
+                "date": 1794596810,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4528040
+            },
+            {
+                "gid": "1848664643358673",
+                "title": "50,000 Wishlists!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358673",
+                "is_external_url": true,
+                "author": "yeetgench",
+                "contents": "50,000 Wishlists!Sol One has just passed 50,000 wishlists, right before release. Thank you to everyone who added the game. It means a lot to see so many people interested in Mars.I'm working hard to make the launch version as good as it can be. Most of the features promised in the 5,000 wishlist milestone post are in place and working. There may still be some rough edges at release. I'll keep updating the game after release and all these rough edges will be smoothed out over time.Also, many of you have been asking for localization, unfortunately, I can't afford it yet. I don't want to use AI translation, so the first money Sol One makes will go to professional German, Russian and French localizations, with more languages to follow.Thank you all for your support. See you on Mars.",
+                "feedlabel": "Community Announcements",
+                "date": 1794303384,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4528040
+            },
+            {
+                "gid": "1846018067932250",
+                "title": "Update",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932250",
+                "is_external_url": true,
+                "author": "yeetgench",
+                "contents": "Hi everyone,First, an apology. Sol One missed its August release date because the game wasn't ready, and I didn't make a proper announcement. The date stayed up, then quietly moved, and you were left without an explanation. That was my mistake, and I'm sorry.After Next Fest, Sol One went from around 5,000 wishlists to over 25,000. I'm incredibly grateful for that, but it also made me feel the game had to be much better than what I had. With this new pressure and some personal problems on top, I got buried in reworking it and let communication slide. That's on me.The game isn\u2019t dead, and I haven\u2019t abandoned it. I have been working hard on improving all systems. I want to finally share with you what these past months went into. A more convincing MarsThe terrain has been rebuilt from the ground up and is the biggest visual change since the demo. I reworked the entire terrain generation algorithm, allowing for many different regional structures from large canyons to small dune fields all procedurally generated on an infinite world.I also updated the terrain material. The terrain now looks richer and closer to actual Mars reference images while staying as performant as possible.There is also a proper day / night cycle now. (With a blue sunset, of course)\\ \\ From rock to circuit boardWe also have a bunch of new items for crafting and science. Raw minerals can be refined into components for more advanced purposes. Samples you collect can be studied to unlock new research.\\ Building with your own handsSome of you said the builder felt like a magic tool. Now it only plans large structures such as habitats: you place a blueprint, then haul in and deposit the materials to complete it. Smaller equipment like smelters, solar panels and power poles comes out of the Fabricator as physical crates you carry and place yourself. \\ Vitals and an updated interfaceThe demo had no vitals. Now you manage health, hunger, thirst and rest, and you put on your suit, helmet and oxygen tanks yourself. The whole interface has also been reworked. It shows the technical details you need to survive, and adds shortcuts for getting around menus quickly.\\ Getting aroundAnd you'll need a ride to explore further. The first terrain vehicle is here, built on a new foundation for proper driving physics. \\The Crawler, the first terrain vehicle] What's nextI'm now confidently targeting Early Access in November 13th. Before that, I will be updating the store visuals, screenshots and will be posting a new trailer.If you have any suggestions, you can leave a comment under this post or open a new discussion on the discussions page. Thank you for sticking around. If you'd like to follow along, you can add Sol One to your wishlist",
+                "feedlabel": "Community Announcements",
+                "date": 1791525966,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4528040,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1911576989_1791527277_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1835871199313402",
+                "title": "5000 Wishlists!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313402",
+                "is_external_url": true,
+                "author": "yeetgench",
+                "contents": "Next FestSol One closed out Steam Next Fest at 5,000 wishlists. For a solo project, that's a milestone that tells me there's a real audience for what I'm building and I'm grateful to everyone who played, wishlisted, and sent feedback.The DemoThe Next Fest demo was an early build, and I want to be straight about that. Most of Sol One's core systems are already in the game, but during the festival many of them still had bugs or lacked the explanation needed to make sense on a first playthrough. Rather than ship a confusing experience, I disabled them and patched what was left as fast as I could during the fest.Even with that limited slice, the signal was clear: players who love games like Satisfactory, Subnautica, and The Planet Crafter saw the potential here. The feedback (both quick fixes and longer-term requests) was exactly what I needed. I'm cataloguing all of it and working through it systematically.Early Access PlansNow the next step is the early access release! Here are the feature that will be available:A full survival loop. Oxygen, food, water, stamina, and health, all properly implemented.A working water production system, which finally lets plants grow. Intermediary crafting items in the fabricator, giving building and crafting real depth (No more turning raw materials straight into a smelter)A fully unlocked interior pressure system. Manage oxygen generator supply and design your base around pressure.The first version of the research table tech tree.A science system. Tools for collecting samples and data points across the world to unlock new tech.Points of interest to discover, starting with crashed spacecraft you can salvage for resources and science.A proper main menu and options menu.Plenty of quality-of-life improvements alongside all of it.Most of this is already built. The work ahead is polishing, fixing, and tying it together pushing it towards early access.Thank you!None of this happens without the people who showed up early. Five thousand of you wishlisted a game from a developer you'd never heard of, working alone, on the strength of a rough demo and an idea. Thank you for taking a chance on Sol One this early, and for sticking around while I get it right.If you know someone who'd be into a hard surface Mars survival game, send them our way and if you haven't wishlisted yet, that's the best way to follow the road to Early Access. I'll see you on Mars.",
+                "feedlabel": "Community Announcements",
+                "date": 1782144408,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4528040
+            },
+            {
+                "gid": "1835236783571143",
+                "title": "The Demo for Sol One is Live!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783571143",
+                "is_external_url": true,
+                "author": "yeetgench",
+                "contents": "Hello everyone, I just set the first version of the demo of Sol One live for Steam Next Fest. The current version is quite raw at the moment but still gives a good idea of what the game is like. I will be updating it in the following days to make it a better experience. You can still check out the demo on the steam page. You can report bugs or give any feedback you want on the discussions page. Thank you for supporting this project!",
+                "feedlabel": "Community Announcements",
+                "date": 1781541708,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4528040,
+                "tags": [
+                    "ModAct_871423085_1781544040_2_31",
+                    "mod_reviewed",
+                    "ModAct_871423085_1781544043_0",
+                    "hide_store",
+                    "mod_require_rereview"
+                ]
+            }
+        ],
+        "count": 5
+    }
+}
