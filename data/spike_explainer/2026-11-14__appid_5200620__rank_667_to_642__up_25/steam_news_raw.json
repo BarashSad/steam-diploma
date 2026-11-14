@@ -1,0 +1,144 @@
+{
+    "appnews": {
+        "appid": 5200620,
+        "newsitems": [
+            {
+                "gid": "1848664643352146",
+                "title": "Dungeonbound v0.1.51 + 55k wishlists!! + 7 days until we launch",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643352146",
+                "is_external_url": true,
+                "author": "the (team) flash",
+                "contents": "Thank you everyone so much again for wishlisting, supporting the game, feedback, bug reports and much more, everyone who also told their friends to play my game, a huge thank you! Pricing still isn't confirmed but at this stage I'm thinking from $10-12USD New Lock items so they can't be sold and a SELL ALL button for the bagNew inventory search box: find pieces by name, type or statusClick a type tag to highlight every piece of that typeTwo new item shrines: the Sanctifying Altar and the Gemcutter BenchThe fusion forge lets you choose between two variants and shows stats before and after and the mega forge lists what you'd loseThe upgrade altar keeps the piece on it so you can upgrade againPotions work like any other piece: they can be upgraded, take gems and be forgedDamage breakdown, build codes, and a list of the player builds you've beatenRivals show their level next to their nameAUTO RUN in the pause menu (not in co-op)PATCH NOTES button on the main menuCo-op: QUICK JOIN and a ping displayTooltips explain keywords and show hero affinity and restrictionsLoaded Dice: 3 free rerolls per shop and a 25% chance of an extra boosted wareAoE swings spread item statuses to every foe hit (incremental mode)Blessings grow with the floorJeiku joins the demo (unlocked by the First Cut quest) Changes Quitting a climb early costs the floor 1 relic pick of your next climbLuck no longer boosts curse drawbacks Emberbreaker toned downClass-bound gear only drops for heroes who can use it (no daggers for the Archer)No relics for item types you've turned offBattle performance improvements Fixes Thorns on a killing blow no longer deal 20k+ damageHuge numbers past T now display properly (Qa, Qi\u2026)Identical potions fuse; gems no longer stack up through mergesFixed bag items greyed out by old battle timersFixed invisible monsters and keepers with Safe Graphics onFixed co-op disconnects and doubled screensGamble wheel, Mirror of Echoes, Hub gold and daily countdown fixesFrench and Traditional Chinese text fixes ",
+                "feedlabel": "Community Announcements",
+                "date": 1794137292,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5200620,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1847920302250790",
+                "title": "Dungeonbound v0.1.50: Potions, Runes & Late Game + 40k WISHLISTS!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302250790",
+                "is_external_url": true,
+                "author": "the (team) flash",
+                "contents": "Dungeonbound v0.1.50: Potions, Runes & Late GameNew- New roguelike hero: Jeiku, a lucky gambler with six katanas and twelve items found only by him.- Runes are reworked: 2\u00d72 squares that power the item covering most of them, with 36 new runes. The Codex has new Runes and Gems tabs.- Potions never break. They refill every battle, and rarer potions are bigger and stronger (Rare 1\u00d73, Epic 2\u00d72, Legendary and Alchemist-only 2\u00d73).- Fuse a potion into any item at the forge. The item keeps everything it does and gains the potion's effect, with Ammo that refills every battle.- The Gambler's forge now takes potions, and the upgrade altar and Gambler's forge can be reused for Gold.- Six new shields- New options: Graphics Quality,- Your Steam friends list shows your mode, floor and hero.Changes- Gems have no limit in the campaign- Forged items grow every stat as they level, keep both parents' curses, and a bow always keeps its arrows.- Mirror of Echoes nerf.- Multicast now counts from every source and is shown on item pills.- The Alchemist throws her flask, and her cauldron only appears when you hold at least two real potions.- Big tooltip and HP numbers are shortened. The battle log puts the enemy's lines on a red band.- Co-op keeps a saved climb for each team, and a player who quits can be replaced by a bot.Balance- Fatigue starts at 60 seconds. - Relic, shield, necklace and hero pass. - Terror now hits the bearer every attack, and Freeze lowers Dodge.- Lodestone Heart gives +5% Block per Earth item. - Speed now follows a curve: it keeps helping deep into a run but can never reach an instant attack.Fixes- Curse styling is kept on forged items. Cursing an item again no longer multiplies its stats.- Fixed a hang on boards with huge Speed, and status effects are lighter on performance.- Many co-op fixes: rejoining, guest Mana and damage totals, and teams stuck at gates.- Plus many more fixes from your bug reports. Thank you! ",
+                "feedlabel": "Community Announcements",
+                "date": 1793686829,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5200620
+            },
+            {
+                "gid": "1847286114041663",
+                "title": "Halloween Update",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114041663",
+                "is_external_url": true,
+                "author": "the (team) flash",
+                "contents": "Dungeonbound 0.1.46: Halloween Update Halloween New hero: Pumpkin Head, with his own dungeon, The Hollow Patch, and the Butcher as a second Halloween hero. A new Haunted item type with over 50 haunted items built around Terror, plus Halloween quests and a relic. Haunted items drop for every hero in the roguelike modes until November 9. New Co-op for strangers: set your lobby to Open, browse open lobbies with Find Lobby, chat with your team (Show Chat), and kick players from your lobby as host. 30 new items, most of them timer-based, including counters to Burn and Poison builds, two small bows for the Windrunner and Common claws for unarmed heroes. Fletcher's Garnet: a new Archer-only gem that adds ammo to a bow. Affinity Forge: a new shrine that changes one of an item's types to one of your hero's. Mythic relics: a new relic tier above Legendary. Ancient Codex (now 5 levels), Prism of Kinship and Champion's Laurel are Mythic. PvE Only climbs, with a boss every second floor, and a Rival Fights on/off option. Climb loot sometimes offers a choice of two. Item tooltips now compare against what you're wearing. Text Size option, and a Monitor refresh rate frame limit. Steam achievements for quests. Tomes are twice as strong, plus three new ones. Changes Climbs are won at floor 6. From floor 4 on, rivals replace monsters. Floor 1 of a climb is now two monsters, an elite and a Jerry before the shrine and the rivals. After losing a heart, the retried floor gives you a shrine right after the shop. Level-ups and blessings now give a percent of your Dmg, Block and Max HP, and never less than before. Every item upgrade now improves the item. Small numbers like 1 Freeze grow each level. Two claws can always be worn together. The Mega Forge and Dismantle shrines show up more often. Campaign: Block Chance and Magic Resist cap at 90%, up from 75%. Gamble wheel: the crown lands more often and Rot less often. Unhealing is stronger (15% a stack), and casters start with 15 mana. Roguelike: Block Chance and Magic Resist are gone. The items that relied on them got Block and new effects instead. Stun: stunned items run at half speed and hurt their owner when they fire. Burn ticks every 1.5s and Poison every 3s. Terror: terrified fighters take extra damage. Many items now use timers instead of on-trigger effects. Luck now shows in trigger chances and also raises status chances. Bows: arrow damage now counts toward the shot's Dmg. Campaign runs now survive quitting. HP and Block bars animate on every change, sword and dagger hits have impact sounds, Thorns damage has its own look, and the stats panel shows base Dmg plus battle bonus. Balance Flame Knight, Ashigaru, Grand Necro and Dark Arts Professor buffed. Monk toned down. Thorns, Freeze and several relics buffed. Blightheart, Poison Catalyst and Dragonfang Blade toned down. Quarry Maul buffed. Stun knives gain Multicast on a stunned foe instead of free hits. Burn ward items now block 50%. Climb monsters are tougher, and Jerrys a little stronger from floor 4. Mirror of Echoes breaks after 5 copies. Fixes Fixed the grey band and thin line flashing across the battle view. Fixed several co-op hangs and stuck lobbies. Fixed a thief stealing huge amounts of gold in the Void Realm. Fixed Arcane Dagger losing its growth. Fixed Mirror of Echoes copying the wrong piece. Fixed the Gambler's forge getting stuck. Fixed the Chaos Orb sometimes doing only one of its two effects. Fixed percent stats rounding in the stats panel, and stat rewards not showing until the next battle. Fixed the hero tooltip hiding the status and stat tooltips on your avatar. Fixed leftover text after switching language, and untranslated item names. Fixed the window opening bigger than the screen. Fixed critical counters not showing as crits. Plus many smaller fixes from your bug reports. Thank you! ",
+                "feedlabel": "Community Announcements",
+                "date": 1792925448,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5200620
+            },
+            {
+                "gid": "1847286114038891",
+                "title": "We Hit 20,000 Wishlists! I cant believe it!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114038891",
+                "is_external_url": true,
+                "author": "the (team) flash",
+                "contents": "I can't believe we have just hit 20k wishlists, thank you so much for everyone who has played and given me feedback so far, lots more to come, some balance fixes and updates tomorrow for bugs + A new Halloween update with some new content (characters and items)Full release in November 16th! ",
+                "feedlabel": "Community Announcements",
+                "date": 1792822355,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5200620
+            },
+            {
+                "gid": "1847286114031192",
+                "title": "We Hit 15,000 Wishlists! Thank You SO SO SO MUCH!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031192",
+                "is_external_url": true,
+                "author": "the (team) flash",
+                "contents": "I'm making this solo, so seeing that number is kind of mind-blowing. Thank you to everyone who's wishlisted it, it really does make a huge difference.The demo is in Steam Next Fest, which runs today through October 26. Come give it a go! Full release in November 16th! ",
+                "feedlabel": "Community Announcements",
+                "date": 1792644214,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5200620
+            },
+            {
+                "gid": "1846651706693577",
+                "title": "Dungeonbound v0.1.40 Update + Mac Build for demo!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706693577",
+                "is_external_url": true,
+                "author": "the (team) flash",
+                "contents": "NewThe Grave: your run ends at a headstone showing your final board, run totals, and the builds of your killer and your strongest beaten rival.Music: Bonfire by Alexander Nakarada on the menus. Three dark dungeon synth tracks by Deuslower in the dungeon.BalanceAttacks are slower: 10 Speed now attacks every 5 seconds.Level ups: +15 Max HP and +4% Block Chance. Speed is no longer offered past\u00a020.Luck adds to every item trigger chance. Gambler's Coin gives +10% Luck.Makken heals for 10% of the damageWheel: boons give 6 stacks, and Gold pays 4x the spin.Items:Riposte Ring is Legendary.Stormglass Charm has a 50% Chain Lightning chance.Thunderhead Greaves gain 1 Charge every 4s.Ironflex Charm gives +3 Dmg every 5s.Pilfering Glove steals a buff every 4s.Winning a climb now means beating floor 8, not reaching it.Quality of lifeAttack is now called Dmg.Tooltips: item types have their owe and show their stacks.Level ups: the XP bar fills before each pick, and level up cards show decimals.Thorns shows beside your portrait.Gems light up the pieces they can go into.Shop: bigger price tags, the lucky shop shows the normal price struck through, and no lucky shop on your first one.Sound: keepers' voices are deeper, drinking a potion has a new sound, and the music is quieter.FixesDying or abandoning a daily no longer crashes the game.Fusing no longer crashes.Gems:Gems of the same status merge into one line and aren't refused early.Gemmed pieces merge with loot prDaily, climbs and co-op no longer mention skill points.A daily's build card shows the hero's level bonuses.A full board can leave the forge, altar and curse rooms.Replayed campaign dungeons roll item shrines again.Pieces from the altar and curse shrine follow the mouse.",
+                "feedlabel": "Community Announcements",
+                "date": 1792467693,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5200620,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1846651706689395",
+                "title": "Dungeonbound is a unique dungeon crawler blending in auto-battlers, incrementals and inventory management",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1846651706689395",
+                "is_external_url": true,
+                "author": "",
+                "contents": "Dungeonbound is an upcoming first-person auto-battler dungeon crawler with some fun ideas and a mixture of modes that change how you play. Read the full article here: https://www.gamingonlinux.com/2026/10/dungeonbound-is-a-unique-dungeon-crawler-blending-in-auto-battlers-incrementals-and-inventory-management/ ",
+                "feedlabel": "GamingOnLinux",
+                "date": 1792400522,
+                "feedname": "GamingOnLinux",
+                "feed_type": 0,
+                "appid": 5200620
+            },
+            {
+                "gid": "1846651706688614",
+                "title": "We Hit 10,000 Wishlists! Thank You So Much!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706688614",
+                "is_external_url": true,
+                "author": "the (team) flash",
+                "contents": "I'm making this solo, so seeing that number is kind of mind-blowing. Thank you to everyone who's wishlisted it, it really does make a huge difference.The demo is in Steam Next Fest, which runs today through October 26. Come give it a go! Full release in November! ",
+                "feedlabel": "Community Announcements",
+                "date": 1792377871,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5200620
+            },
+            {
+                "gid": "1846651706679567",
+                "title": "Bug Fix Update 0.1.22: Item Crash Fixed",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706679567",
+                "is_external_url": true,
+                "author": "the (team) flash",
+                "contents": "Crash fixFixed the game crashing when you dropped an item onto another item, to swap it, move it or merge it into a higher level. Thank you to everyone who sent a bug report. Other fixesSkipping a fusion forge, upgrade altar or curse shrine no longer leaves CONTINUE greyed out for the rest of the run. The gamble wheel no longer leaves a dead SPIN button behind in a later shop. HP no longer stays above Max HP after a battle that granted Max HP. ChangesTimed items now also speed up with your Speed stat. Speed 10 is the normal pace. Item pills only show trigger effects now: one per item, two on items 3 or more cells wide. The item you are dragging hides its pills. Item backgrounds are brighter, most of all on common, uncommon, rare and epic items. Set bonus tooltips are shorter: the bonus with one stat per line, then your progress. Item tooltips have more room before they start to scroll. The rival viewer on the Deadliest Rivals board shows the hero they played. Found a bug? Use REPORT BUG in the pause menu, it sends us your save so we can fix it fast.",
+                "feedlabel": "Community Announcements",
+                "date": 1792106634,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5200620
+            },
+            {
+                "gid": "1846651706677634",
+                "title": "Dungeonbound Item Update v0.1.18",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677634",
+                "is_external_url": true,
+                "author": "the (team) flash",
+                "contents": "Dungeonbound v0.1.18 Patch notes:Items- New item look- Value pills with icons on every piece. A piece with no trigger shows its strongest stats. Ammo, charges, mana and durability now sit as dots on the piece.- New mechanic: timed items. They fire on their own clock (every few seconds) instead of the trigger sweep. Charge speeds them up, Slow and Stun hold them back. A green line rises through the piece as it charges.- Six timed items: Metronome Pendant, Hourglass Band, Pendulum Mace, Tidewatch Helm, Stormglass Charm, Ember Clock- Status icons are now clean cutouts everywhere (pills, avatar, HUD).- Related-piece and tag highlights only light up on your own loadout, after a short hover. Both pills and highlights can be turned off in Options > Display.- Fusion foil effect toned down.- Fusion forge closes itself shortly after the hybrid lands.Campaign- Loadout space unlocks a whole row at a time.- Veteran's Notch now gives +2 Attack per level.- Winning a fight with no loot moves on by itself.Roguelite and leaderboards- Click a name on the Deadliest Rivals board to inspect that player's hero, stats, relics and full board.- Leaderboards share one carved frame and format big numbers.- The wheel of fortune drops in like the forge.- Rival boards load far faster (smaller payloads, server-side caching).Interface- Speed shows the seconds between attacks, like \"15 (2.3s)\".- Rival kill counts use short number formatting.Performance and fixes- Battle frame cost cut by about a third. Hub draw calls down to a quarter.- Forge history no longer bloats saves (saves about 4x smaller).- Fixed the bag scrolling back to the top after a drop.- Fixed a one-frame stacked grid flicker when swapping gear.",
+                "feedlabel": "Community Announcements",
+                "date": 1792069362,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5200620
+            }
+        ],
+        "count": 10
+    }
+}

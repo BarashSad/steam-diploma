@@ -1,0 +1,1826 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+5200620,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=ereKTcOOHWI,Dungeonbound DEMO,,Se Gentil.,demo,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+5200620,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706693577,Dungeonbound v0.1.40 Update + Mac Build for demo!,,"NewThe Grave: your run ends at a headstone showing your final board, run totals, and the builds of your killer and your strongest beaten rival.Music: Bonfire by Alexander Nakarada on the menus. Three dark dungeon synth tracks by Deuslower in the dungeon.BalanceAttacks are slower: 10 Speed now attack",demo,75,strong,Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+5200620,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=P2bt5QxNSQE,Dungeonbound - Official Release Date Trailer,,Dungeonbound will be released on 16 November 2026 for PC. Wishlist on Steam: ...,"trailer, release date",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",
+5200620,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=tADMwRIkOpw,Dungeonbound - Official Gameplay Trailer,,"Send a Warrior, Mage or Rogue into monster-packed depths and watch turn-by-turn battles unfold. Death sends you home with ...","trailer, gameplay",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+5200620,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=gGWRC4vwXLs,Dungeonbound - Official Gameplay Trailer,,Coming on the 16th of November! Wishlist now: https://store.steampowered.com/app/5200620/Dungeonbound/ discord: ...,"trailer, gameplay",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+5200620,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=pNWUXA7_0aM,Dungeonbound Gameplay Trailer,,PCGaming #Gaming #Linux #SteamOS https://store.steampowered.com/app/5200620/Dungeonbound/ Read News: ...,"trailer, gameplay",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+5200620,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=Rbsoz1J_pI4,Dungeonbound - Official Release Date Trailer,,"Don't forget to subscribe to my channel and like the video. For more news and reviews, visit my website: www.elitegamers.net ...","trailer, release date",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",
+5200620,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=enzzvyfmgIo,Dungeonbound: DON&#39;T BUY Until You Know THIS!,,Play Dungeonbound - https://store.steampowered.com/app/5200620/Dungeonbound/ Dungeonbound pre-release gameplay and ...,gameplay,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+5200620,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=m7RZewMgVTk,Retro First-Person Auto-Battler Dungeon Crawler | Dungeonbound (Demo),,It has INVENTORY MANAGEMENT!!!!!! This game has everything I love wrapped up in one beautiful package. I hope you enjoy ...,demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+5200620,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=Za9mFuqKe74,My Latest Gaming Addiction | Dungeonbound Demo,,"Demo for Dungeonbound, a roguelite-merge dungeon crawler! This game is planned to be released on November 15th, so give ...",demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+5200620,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=64qpkp_R4l4,A Hand Drawn Roguelite OR Incremental Dungeon Crawler - Dungeonbound - Gameplay Demo,,"Dungeonbound is a retro first-person auto-battler dungeon crawler. Send your Warrior, Mage or Rogue into monster-packed ...","gameplay, demo",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+5200620,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=MZm4YtUE6xs,【Dungeonbound】 Retro First-Person Auto-Battler Dungeon Crawler Gameplay! (Demo),,"Dungeonbound is a retro first-person auto-battler dungeon crawler. Send your Warrior, Mage or Rogue into monster-packed ...","gameplay, demo",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+5200620,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643352146,Dungeonbound v0.1.51 + 55k wishlists!! + 7 days until we launch,,"Thank you everyone so much again for wishlisting, supporting the game, feedback, bug reports and much more, everyone who also told their friends to play my game, a huge thank you! Pricing still isn't confirmed but at this stage I'm thinking from $10-12USD New Lock items so they can't be sold and a S",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+5200620,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302250790,"Dungeonbound v0.1.50: Potions, Runes & Late Game + 40k WISHLISTS!",,"Dungeonbound v0.1.50: Potions, Runes & Late GameNew- New roguelike hero: Jeiku, a lucky gambler with six katanas and twelve items found only by him.- Runes are reworked: 2×2 squares that power the item covering most of them, with 36 new runes. The Codex has new Runes and Gems tabs.- Potions never br",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+5200620,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114041663,Halloween Update,,"Dungeonbound 0.1.46: Halloween Update Halloween New hero: Pumpkin Head, with his own dungeon, The Hollow Patch, and the Butcher as a second Halloween hero. A new Haunted item type with over 50 haunted items built around Terror, plus Halloween quests and a relic. Haunted items drop for every hero in ",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+5200620,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031192,"We Hit 15,000 Wishlists! Thank You SO SO SO MUCH!",,"I'm making this solo, so seeing that number is kind of mind-blowing. Thank you to everyone who's wishlisted it, it really does make a huge difference.The demo is in Steam Next Fest, which runs today through October 26. Come give it a go! Full release in November 16th! ",demo,55,medium,Inside extended window (+15); Official Steam News (+20); Keywords ['demo'] (+20),
+5200620,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1846651706689395,"Dungeonbound is a unique dungeon crawler blending in auto-battlers, incrementals and inventory management",,Dungeonbound is an upcoming first-person auto-battler dungeon crawler with some fun ideas and a mixture of modes that change how you play. Read the full article here: https://www.gamingonlinux.com/2026/10/dungeonbound-is-a-unique-dungeon-crawler-blending-in-auto-battlers-incrementals-and-inventory-m,,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+5200620,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706688614,"We Hit 10,000 Wishlists! Thank You So Much!",,"I'm making this solo, so seeing that number is kind of mind-blowing. Thank you to everyone who's wishlisted it, it really does make a huge difference.The demo is in Steam Next Fest, which runs today through October 26. Come give it a go! Full release in November! ",demo,55,medium,Inside extended window (+15); Official Steam News (+20); Keywords ['demo'] (+20),
+5200620,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677634,Dungeonbound Item Update v0.1.18,,"Dungeonbound v0.1.18 Patch notes:Items- New item look- Value pills with icons on every piece. A piece with no trigger shows its strongest stats. Ammo, charges, mana and durability now sit as dots on the piece.- New mechanic: timed items. They fire on their own clock (every few seconds) instead of th",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+5200620,reddit_discussion,unknown_date,https://www.reddit.com/r/roguelites/comments/1xlz9h1/demo_review_dungeonbound,Demo Review - Dungeonbound : r/roguelites - Reddit,Dungeonbound is an autobattler dungeon crawler that combines strategic inventory management with dungeon-crawling progression.,,demo,50,medium,Reddit (+10); Exact title match (+20); Keywords ['demo'] (+20),social
+5200620,reddit_discussion,unknown_date,https://www.reddit.com/r/AutoBattler/comments/1xlz9bo/demo_review_dungeonbound,Demo Review - Dungeonbound : r/AutoBattler - Reddit,Dungeonbound is an autobattler dungeon crawler that combines strategic inventory management with dungeon-crawling progression.,,demo,50,medium,Reddit (+10); Exact title match (+20); Keywords ['demo'] (+20),social
+5200620,reddit_discussion,unknown_date,https://www.reddit.com/r/incremental_games/comments/1w8xp63/ive_just_released_a_demo_to_my_second_commercial,"I've just released a demo to my second commercial game, its called ...","I've just released a demo to my second commercial game, its called Dungeonbound (feedback pls) ... This video cannot be played. ... A turn-based",,demo,50,medium,Reddit (+10); Exact title match (+20); Keywords ['demo'] (+20),social
+5200620,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=xLWwbUWc0qY,001 Dungeonbound is WILD!!,,https://store.steampowered.com/app/5200620/Dungeonbound/,,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+5200620,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=26VNB3Ejfqg,Dungeonbound CBT  Ep 1 - First-person Auto-battler Dungeon crawler - BlueFire - MMOs Coverage,,BlueFire Gaming DISCORD LIVE SERVER 24/7 ☾ https://discord.gg/3swyQMy ✈️ BlueFire Gaming INSTAGRAM ...,,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+5200620,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=jjtJMHyU7SU,"I&#39;m Not Good At RPGs, But I Can Organize A Backpack | Dungeonbound",,"Imma bound your dungeon Dungeonbound is a retro first-person auto-battler dungeon crawler. Send your Warrior, Mage or ...",,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+5200620,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=3PG6Hmoymkk,Dungeonbound  – Is It Worth the Money? An Honest Opinion!,,DO NOT BUY Dungeonbound Before Watching This Video! Be a member of this channel and receive benefits: ...,,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+5200620,web_result,unknown_date,https://www.gamingonlinux.com/2026/10/dungeonbound-is-a-unique-dungeon-crawler-blending-in-auto-battlers-incrementals-and-inventory-management,"Dungeonbound is a unique dungeon crawler blending in auto-battlers, incrementals and inventory management | GamingOnLinux","Right onto the wishlist it goes! The demo should work great on SteamOS / Linux with Proton 11.
+
+Dungeonbound
+
+Platform: ⚛ Proton / Wine (Windows)
+
+Devs:louidev
+
+Official links:Steam
+
+Article taken from GamingOnLinux.com.
+
+Tags: Proton, Autobattler, Demo, Dungeon Crawler, Godot Engine, Indie Game, Steam | Apps: Dungeonbound
+
+4 Likes
+
+Share
+
+Bluesky
+
+Mastodon
+
+Reddit
+
+Facebook
+
+Telegram
+
+About the author - Liam Squires-Hand
+
+author picture",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),general
+5200620,web_result,unknown_date,https://www.gamingonlinux.com/2026/10/dungeonbound-is-a-unique-dungeon-crawler-blending-in-auto-battlers-incrementals-and-inventory-management,"Dungeonbound is a unique dungeon crawler blending in auto-battlers, incrementals and inventory management | GamingOnLinux","0 comments
+
+Dungeonbound is an upcoming first-person auto-battler dungeon crawler with some fun ideas and a mixture of modes that change how you play. Made with Godot Engine too - always nice to see more developers use it!
+
+Here your run will somewhat play itself. You pick a hero, pack your board with gear, and start the descent. Attacks, dodges, critical hits, counters and status ticks all resolve on their own in speed-driven turns, watched through a PS1-era CRT. [...] Right onto the wishlist it goes! The demo should work great on SteamOS / Linux with Proton 11.
+
+Dungeonbound
+
+Platform: ⚛ Proton / Wine (Windows)
+
+Devs:louidev
+
+Official links:Steam
+
+Article taken from GamingOnLinux.com.
+
+Tags: Proton, Autobattler, Demo, Dungeon Crawler, Godot Engine, Indie Game, Steam | Apps: Dungeonbound
+
+4 Likes
+
+Share
+
+Bluesky
+
+Mastodon
+
+Reddit
+
+Facebook
+
+Telegram
+
+About the author - Liam Squires-Hand
+
+author picture [...] What's especially interesting is the different game modes you get to play that make it feel quite different, and how your equipment works together, blending in some inventory management tetris too. And with multiple hundreds of items - you're sure to find some fun builds. The loot goblin inside of me is excited by this one.
+
+See the trailer below:
+
+YouTube video preview
+
+Load this video from YouTube?
+
+YouTube will connect and may use cookies when you accept.",,"trailer, demo",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'demo'] (+20)",general
+5200620,web_result,unknown_date,https://www.gamingonlinux.com/2026/10/dungeonbound-is-a-unique-dungeon-crawler-blending-in-auto-battlers-incrementals-and-inventory-management,"Dungeonbound is a unique dungeon crawler blending in auto-battlers, incrementals and inventory management | GamingOnLinux","Right onto the wishlist it goes! The demo should work great on SteamOS / Linux with Proton 11.
+
+Dungeonbound
+
+Platform: ⚛ Proton / Wine (Windows)
+
+Devs:louidev
+
+Official links:Steam
+
+Article taken from GamingOnLinux.com.
+
+Tags: Proton, Autobattler, Demo, Dungeon Crawler, Godot Engine, Indie Game, Steam | Apps: Dungeonbound
+
+4 Likes
+
+Share
+
+Bluesky
+
+Mastodon
+
+Reddit
+
+Facebook
+
+Telegram
+
+About the author - Liam Squires-Hand
+
+author picture [...] 0 comments
+
+Dungeonbound is an upcoming first-person auto-battler dungeon crawler with some fun ideas and a mixture of modes that change how you play. Made with Godot Engine too - always nice to see more developers use it!
+
+Here your run will somewhat play itself. You pick a hero, pack your board with gear, and start the descent. Attacks, dodges, critical hits, counters and status ticks all resolve on their own in speed-driven turns, watched through a PS1-era CRT. [...] Death-friendly loop. Every defeat banks progress for the next run.
+ Full controller support.",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),general
+5200620,social_post,unknown_date,https://www.instagram.com/reel/DehUB9QgfZz,Instagram,"Dungeonbound is a retro first-person auto-battler dungeon crawler. Send a Warrior, Mage, or Rogue into monster-packed floors and watch turn-based fights resolve on their own as you descend.  
+  
+Death just sends you home with the loot. Merge gear, buy upgrades, rework your loadout, then head back down stronger, solo, against other players builds, or in online co-op with up to three friends.  
+  
+🎮 Game: Dungeonbound  
+🎯 Genre: Auto Battler, Dungeon Crawler  
+👥 Players: Co-op  
+💻 Platform: PC [...] 💻 Platform: PC  
+🔧 Developer: louidev  
+📅 Demo available now  
+  
+Try the demo on Playtester  
+  
+#indiegame #gaming  
+  
+louidev [...] ## No comments yet.
+
+Start the conversation.
+
+34
+
+Log in to like or comment.
+
+More posts from playtesterhq
+
+Video by Playtester on August 24, 2026. May be a doodle of poster.
+
+Video by Playtester on June 29, 2026.
+
+Video by Playtester on June 25, 2026.
+
+Video by Playtester on November 10, 2026. May be a video game screenshot of map and text.
+
+Video by Playtester on November 10, 2026. May be an image of poster and text.",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+5200620,social_post,unknown_date,https://louidev.itch.io/dungeonbound,Dungeonbound (In Development) by louidev,"More information)
+
+|  |  |
+ --- |
+| Updated | 2 days ago |
+| Status | In development |
+| Platforms | HTML5, Windows |
+| Rating | Rated 4.5 out of 5 stars (40 total ratings) |
+| Author | louidev |
+| Genre | Adventure, Role Playing |
+| Made with | Godot |
+| Tags | Dungeon Crawler, Endless, Hand-drawn, Idle, Incremental, JRPG, Loot, No AI, Roguelite |
+| Links | Steam |
+| Content | No generative AI was used |
+
+## Purchase
+
+Buy Now$12.00 USD or more [...] In order to download this game you must purchase it at or above the minimum price of $12 USD. You will get access to the following files:
+
+dungeonbound-windows.zip 225 MB
+
+Version 43
+
+## Download demo
+
+Download;)
+
+dungeonbound-windows-demo.zip 225 MB
+
+Version 31
+
+## Comments
+
+Log in with itch.io to leave a comment.
+
+SirBastian212 days ago (1 edit) [...] View all by louidevlouidev
+ Follow louidevFollowFollowing louidevFollowing
+ Add To CollectionCollection
+ Comments
+ Related gamesRelated
+
+Dungeonbound (In Development)
+
+# Dungeonbound (In Development)
+
+Download Now
+
+The web browser version is the demo and the download version is the in development early access build.   
+All purchases will receive a steam key on release.",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+5200620,social_post,unknown_date,https://www.youtube.com/watch?v=enzzvyfmgIo,Dungeonbound: DON'T BUY Until You Know THIS!,"Would you buy Dungeonbound, wait for updates, or skip it? Let me know in the comments!
+
+Read the latest full patch notes here:
+
+Dungeonbound - 1.0 Launches on November 15, 2026!
+Platform: PC (Steam)
+
+Dungeonbound is a retro first-person auto-battler dungeon crawler. Send your Warrior, Mage or Rogue into monster-packed depths, watch battles play out turn by turn, and grow stronger every run. Death just sends you home with the loot. Merge gear, buy upgrades, descend again. [...] Unlike traditional dungeon crawlers, Dungeonbound focuses on strategy rather than reflexes. You'll arrange equipment, combine powerful items, experiment with different builds, and watch your decisions play out through automatic battles.
+
+Dungeonbound has some interesting ideas, but does the gameplay deliver enough variety to justify buying the full release?
+
+Watch before you buy and find out whether this auto-battler roguelite deserves a place in your Steam library. [...] # Dungeonbound: DON'T BUY Until You Know THIS!
+## Channel: Gaming Plus TV
+4.96K subscribers
+N/A likes
+
+### Description
+1,344 views
+Posted: 2026-10-20
+Play Dungeonbound - 
+
+Dungeonbound pre-release gameplay and review! Is this retro auto-battler dungeon crawler worth buying? Discover equipment fusion, roguelite PvP, character builds, and progression before the Steam release.",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+5200620,social_post,unknown_date,https://store.steampowered.com/app/5200620/Dungeonbound,Dungeonbound on Steam,"View Community Hub
+
+## About This Game
+
+A roguelite Autobattler with PvP/PvE gameplay and inventory management
+
+Dungeonbound is a first-person dungeon crawler where the fighting runs itself. Pick a hero, pack your board with gear, and start the descent. Attacks, dodges, crits, counters and status ticks all resolve on their own in speed-driven turns, watched through a PS1-era CRT. [...] ## A dungeon from another era
+
+Dungeonbound wears its retro heart on its sleeve: a first-person corridor view, chunky pixel-filtered art, and a full PS1-style CRT presentation with scanlines, dither and chromatic flicker. Adjustable battle speed keeps it legible while it cooks, and the whole game plays on a controller.
+
+## Features [...] | Interface | Full Audio | Subtitles |
+ --- 
+| English | ✔ |  |  |
+| French | ✔ |  |  |
+| Italian | ✔ |  |  |
+| German | ✔ |  |  |
+| Spanish - Spain | ✔ |  |  |
+| Japanese | ✔ |  |  |
+| Korean | ✔ |  |  |
+| Portuguese - Brazil | ✔ |  |  |
+| Russian | ✔ |  |  |
+| Simplified Chinese | ✔ |  |  |
+| Spanish - Latin America | ✔ |  |  |
+| Turkish | ✔ |  |  |
+| Traditional Chinese | ✔ |  |  |
+
+See all 13 supported languages
+
+Title: Dungeonbound  
+ Genre: Adventure, Indie, RPG, Strategy",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=enzzvyfmgIo,Dungeonbound: DON'T BUY Until You Know THIS!,"Would you buy Dungeonbound, wait for updates, or skip it? Let me know in the comments!
+
+Read the latest full patch notes here:
+
+Dungeonbound - 1.0 Launches on November 15, 2026!
+Platform: PC (Steam)
+
+Dungeonbound is a retro first-person auto-battler dungeon crawler. Send your Warrior, Mage or Rogue into monster-packed depths, watch battles play out turn by turn, and grow stronger every run. Death just sends you home with the loot. Merge gear, buy upgrades, descend again. [...] Unlike traditional dungeon crawlers, Dungeonbound focuses on strategy rather than reflexes. You'll arrange equipment, combine powerful items, experiment with different builds, and watch your decisions play out through automatic battles.
+
+Dungeonbound has some interesting ideas, but does the gameplay deliver enough variety to justify buying the full release?
+
+Watch before you buy and find out whether this auto-battler roguelite deserves a place in your Steam library. [...] Before you buy Dungeonbound, there's a lot you should know about this unique first-person dungeon crawler where your BUILD determines whether you survive!
+
+In this Dungeonbound pre-release review, I take a closer look at the gameplay, automatic combat, equipment management, item fusion, progression systems, and overall experience to help you decide whether it's worth buying when the full version arrives on Steam.",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+5200620,web_result,unknown_date,https://louidev.itch.io/dungeonbound,Dungeonbound (In Development) by louidev,"More information)
+
+|  |  |
+ --- |
+| Updated | 2 days ago |
+| Status | In development |
+| Platforms | HTML5, Windows |
+| Rating | Rated 4.5 out of 5 stars (40 total ratings) |
+| Author | louidev |
+| Genre | Adventure, Role Playing |
+| Made with | Godot |
+| Tags | Dungeon Crawler, Endless, Hand-drawn, Idle, Incremental, JRPG, Loot, No AI, Roguelite |
+| Links | Steam |
+| Content | No generative AI was used |
+
+## Purchase
+
+Buy Now$12.00 USD or more [...] View all by louidevlouidev
+ Follow louidevFollowFollowing louidevFollowing
+ Add To CollectionCollection
+ Comments
+ Related gamesRelated
+
+Dungeonbound (In Development)
+
+# Dungeonbound (In Development)
+
+Download Now
+
+The web browser version is the demo and the download version is the in development early access build.   
+All purchases will receive a steam key on release. [...] I enjoyed this. Definitely has potential, needs a bit of tuning. I was able to break the game (on accident) with the +gold item and almost no damage.   
+  
+I look forward to the Steam version.
+
+Reply
+
+Brokenpuzzlegamesstudios2 days ago
+
+cool game played for some time and loved it the 3d style and enemies are awesome very creative!
+
+Reply
+
+IchoSick3 days ago
+
+Thanks, guys. But the balance of the incremental mode needs some work; the game feels too easy.
+
+Reply
+
+syned3 days ago",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5200620,web_result,unknown_date,https://steamcommunity.com/app/5200620,Steam Community :: Dungeonbound,"Mythic relics: a new relic tier above Legendary. Ancient Codex (now 5 levels), Prism of Kinship and Champion's Laurel are Mythic.
+ PvE Only climbs, with a boss every second floor, and a Rival Fights on/off option.
+ Climb loot sometimes offers a choice of two.
+ Item tooltips now compare against what you're wearing.
+ Text Size option, and a Monitor refresh rate frame limit.
+ Steam achievements for quests.
+ Tomes are twice as strong, plus three new ones. [...] Potions work like any other piece: they can be upgraded, take gems and be forged
+ Damage breakdown, build codes, and a list of the player builds you've beaten
+ Rivals show their level next to their name
+ AUTO RUN in the pause menu (not in co-op)
+ PATCH NOTES button on the main menu
+ Co-op: QUICK JOIN and a ping display
+ Tooltips explain keywords and show hero affinity and restrictions
+ Loaded Dice: 3 free rerolls per shop and a 25% chance of an extra boosted ware [...] Store Page
+
+All Discussions Screenshots Artwork Broadcasts Videos News Guides Reviews
+
+### Dungeonbound
+
+Store Page
+
+0 in Group Chat;)
+
+0 in Group Chat;)
+
+Roguelite Inventory Management Autobattler with PvP/PvE gameplay, craft and build powerful builds to defeat your foes!
+
+Visit the Store Page
+
+Most popular community and official content for the past week.  (?)
+
+Dungeonbound v0.1.51 + 55k wishlists!! + 7 days until we launch
+
+8 Nov",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=P2bt5QxNSQE,Dungeonbound - Official Release Date Trailer,"Play it as a long incremental campaign, as a roguelike climb against other players' builds, or as a co-op climb with up to three friends. Every trip home is a chance to spend your gold, buy upgrades, rework your gear and walk back in meaner than you left.
+
+Developer: louidev
+X: [...] Dungeonbound is a first-person dungeon crawler where the fighting runs itself. Pick a hero, pack your board with gear, and start the descent. Attacks, dodges, crits, counters and status ticks all resolve on their own in speed-driven turns, watched through a PS1-era CRT. [...] # Dungeonbound - Official Release Date Trailer
+## Channel: Indie Games Hub (verified)
+281K subscribers
+330 likes
+
+### Description
+28,541 views
+Posted: 2026-10-21
+Dungeonbound will be released on 16 November 2026 for PC.
+
+Wishlist on Steam:",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=8lBiPWG1pfY,Dungeonbound gameplay,"# Dungeonbound gameplay
+## Channel: DaOpa (verified)
+8.03K subscribers
+1 likes
+
+### Description
+458 views
+Posted: 2026-10-20
+First look at Gravhounds gameplay demo which you can find on Steam. [...] [48:47] interesting again the game's called dungeon bound this is a demo which you can find on interesting again the game's called dungeon bound this is a demo which you can find on Steam [...] ### Transcript
+[0:01] all right all right this all right this could all right this could be all right this could be a all right all right this all right this could all right this could be all right this could be a all right this could be a first all right this could be a first look all right this could be a first look at",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+5200620,web_result,unknown_date,https://store.steampowered.com/app/5200620/Dungeonbound,Dungeonbound on Steam,"View Community Hub
+
+## About This Game
+
+A roguelite Autobattler with PvP/PvE gameplay and inventory management
+
+Dungeonbound is a first-person dungeon crawler where the fighting runs itself. Pick a hero, pack your board with gear, and start the descent. Attacks, dodges, crits, counters and status ticks all resolve on their own in speed-driven turns, watched through a PS1-era CRT. [...] ## A dungeon from another era
+
+Dungeonbound wears its retro heart on its sleeve: a first-person corridor view, chunky pixel-filtered art, and a full PS1-style CRT presentation with scanlines, dither and chromatic flicker. Adjustable battle speed keeps it legible while it cooks, and the whole game plays on a controller.
+
+## Features [...] Auto-resolving, speed-driven combat. Set up the build, watch it cook
+ 7 heroes in the incremental campaign, each with separate gold, levels and upgrades
+ 3 Mage subclasses (Lightning / Frost / Fire), each keeping its own progression
+ A roguelike climb with 32 heroes, hearts, relics, ranks and asynchronous PvP against real players' builds
+ Co-op climbs for 2 to 4 players with shared hearts, loot rolls, gifting and team leaderboards
+ A daily climb on a shared seed with three fresh modifiers",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+5200620,web_result,unknown_date,https://louidev.itch.io/dungeonbound,Dungeonbound (In Development) by louidev,"force any build you want to come through when money is no longer a limiting factor. Like I said, a very fun demo, and I can't wait to see what comes next [...] More information)
+
+|  |  |
+ --- |
+| Updated | 2 days ago |
+| Status | In development |
+| Platforms | HTML5, Windows |
+| Rating | Rated 4.5 out of 5 stars (40 total ratings) |
+| Author | louidev |
+| Genre | Adventure, Role Playing |
+| Made with | Godot |
+| Tags | Dungeon Crawler, Endless, Hand-drawn, Idle, Incremental, JRPG, Loot, No AI, Roguelite |
+| Links | Steam |
+| Content | No generative AI was used |
+
+## Purchase
+
+Buy Now$12.00 USD or more [...] View all by louidevlouidev
+ Follow louidevFollowFollowing louidevFollowing
+ Add To CollectionCollection
+ Comments
+ Related gamesRelated
+
+Dungeonbound (In Development)
+
+# Dungeonbound (In Development)
+
+Download Now
+
+The web browser version is the demo and the download version is the in development early access build.   
+All purchases will receive a steam key on release.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=64qpkp_R4l4,A Hand Drawn Roguelite OR Incremental Dungeon Crawler - Dungeonbound - Gameplay Demo,"# A Hand Drawn Roguelite OR Incremental Dungeon Crawler - Dungeonbound - Gameplay Demo
+## Channel: Chrisp44s
+2.77K subscribers
+27 likes
+
+### Description
+2,470 views
+Posted: 2026-10-18
+Dungeonbound is a retro first-person auto-battler dungeon crawler. Send your Warrior, Mage or Rogue into monster-packed depths, watch battles play out turn by turn, and grow stronger every run. Death just sends you home with the loot. Merge gear, buy upgrades, descend again. [...] [1:53] incremental play because the incremental play is like completely single player campaign. It's just you and yourself. Um
+[2:01] I'll [snorts] just show you this real quick. I'm not going to play incremental mode, but in incremental mode, you can pick um from right now in the demo,
+[2:10] there's two or three characters. Uh I was playing with the paladin, but basically you go down and complete dungeons. If you die in the dungeon, you [...] [2:19] don't lose anything. Uh, everything that's in your equipment inventory or in your stash inventory gets saved and
+[2:26] comes back with you. All your levels carry through. You have these incremental upgrades that are really nicely organized into uh these defense,
+[2:35] damage, sustained, etc. folders if you're looking for things to upgrade between runs. Um, the what it looks like. So, we started with the paladin",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+5200620,web_result,unknown_date,https://store.steampowered.com/app/5200620/Dungeonbound,Dungeonbound on Steam,"View Community Hub
+
+## About This Game
+
+A roguelite Autobattler with PvP/PvE gameplay and inventory management
+
+Dungeonbound is a first-person dungeon crawler where the fighting runs itself. Pick a hero, pack your board with gear, and start the descent. Attacks, dodges, crits, counters and status ticks all resolve on their own in speed-driven turns, watched through a PS1-era CRT. [...] Host a lobby, pick your heroes and climb together. Each player keeps a separate purse, shop shelf and relics, so no two boards on the team look alike. When a foe drops loot, everyone picks what they want and the dice settle any argument. Drop a piece on a teammate's board to hand it over, and look out for co-op only items that reward you for giving them away. Team rivals are whole parties built from other players' climbs, and co-op has leaderboards of its own for teams of two, three and four. [...] Turn order runs on speed: act first, act more often, and outpace slow enemies for extra swings. Every attack sweeps a lap around your board and fires each item it passes, so where a piece sits matters as much as what it is. Fights layer dodge, crit, block, overkill damage that spills into the next enemy in the rank, and a full status game of poison, burn, bleed, freeze, stun and more, each stacking and ticking on its own clock.",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=enzzvyfmgIo,Dungeonbound: DON'T BUY Until You Know THIS!,"Unlike traditional dungeon crawlers, Dungeonbound focuses on strategy rather than reflexes. You'll arrange equipment, combine powerful items, experiment with different builds, and watch your decisions play out through automatic battles.
+
+Dungeonbound has some interesting ideas, but does the gameplay deliver enough variety to justify buying the full release?
+
+Watch before you buy and find out whether this auto-battler roguelite deserves a place in your Steam library. [...] Would you buy Dungeonbound, wait for updates, or skip it? Let me know in the comments!
+
+Read the latest full patch notes here:
+
+Dungeonbound - 1.0 Launches on November 15, 2026!
+Platform: PC (Steam)
+
+Dungeonbound is a retro first-person auto-battler dungeon crawler. Send your Warrior, Mage or Rogue into monster-packed depths, watch battles play out turn by turn, and grow stronger every run. Death just sends you home with the loot. Merge gear, buy upgrades, descend again. [...] [3:45] The long haul is built around permanent progression. You head into the dungeon, gather equipment and resources, and try
+[3:52] to get farther than before. Eventually, something defeats you, but you return home with progress to spend on your character before the next descent.
+[4:02] Warrior, Mage, and Rogue provide familiar starting points with more heroes expanding the options. Each character maintains separate gold levels",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+5200620,web_result,unknown_date,https://medal.tv/games/dungeonbound,"Watch, Record, Clip, and Share Dungeonbound Gameplay | Medal.tv","Medal
+
+Release Countdown
+
+0
+
+8
+
+:
+
+1
+
+1
+
+:
+
+3
+
+9
+
+:
+
+0
+
+8
+
+Release date: November 16, 2026
+
+Dungeonbound is a retro first-person auto-battler dungeon crawler. Send your Warrior, Mage or Rogue into monster-packed depths, watch battles play out turn by turn, and grow stronger every run. Death just sends you home with the loot. Merge gear, buy upgrades, descend again.
+
+Adventure
+
+Role-playing (RPG)
+
+Strategy
+
+Co-op
+
+Indie
+
+Watch Trailer
+
+13 screenshots
+
+Buy on Steam
+
+Single Player
+
+Multiplayer",,"trailer, gameplay, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'release date'] (+20)",general
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=64qpkp_R4l4,A Hand Drawn Roguelite OR Incremental Dungeon Crawler - Dungeonbound - Gameplay Demo,"# A Hand Drawn Roguelite OR Incremental Dungeon Crawler - Dungeonbound - Gameplay Demo
+## Channel: Chrisp44s
+2.77K subscribers
+27 likes
+
+### Description
+2,470 views
+Posted: 2026-10-18
+Dungeonbound is a retro first-person auto-battler dungeon crawler. Send your Warrior, Mage or Rogue into monster-packed depths, watch battles play out turn by turn, and grow stronger every run. Death just sends you home with the loot. Merge gear, buy upgrades, descend again. [...] [34:38] a lot of games like this with the backpack inventory management. I think it's good. I think it's doing like what it wants. I think like this game is
+[34:46] doing what it wants to do and I think it's doing it pretty well. I think there's a lot of ways to play this game if you're interested in it. Uh, the game
+[34:54] does come out on November 15th later this month. The demo just came live on October 15th. [music] I would love to [...] [1:53] incremental play because the incremental play is like completely single player campaign. It's just you and yourself. Um
+[2:01] I'll [snorts] just show you this real quick. I'm not going to play incremental mode, but in incremental mode, you can pick um from right now in the demo,
+[2:10] there's two or three characters. Uh I was playing with the paladin, but basically you go down and complete dungeons. If you die in the dungeon, you",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=Hj6eVVLaKts,Dungeonbound (PC) Demo | Steam Next Fest | 10-21-2026,"# Dungeonbound (PC) Demo | Steam Next Fest | 10-21-2026
+## Channel: Matt Caulder
+680 subscribers
+0 likes
+
+### Description
+12 views
+Posted: 2026-11-02
+This was originally streamed live on Twitch! 
+Check out my stream at   / mattcaulder  
+
+Socials: 
+Whatcha Doing podcast: 
+
+Dungeonbound! [...] [0:10] good got me back and playing silk song hell yeah hell yeah all right our first demo good got me back and playing silk song hell yeah hell yeah all right our first demo today good got me back and playing silk song hell yeah hell yeah all right our first good got me back and playing silk song hell yeah hell yeah all right our good got me back and playing silk song hell yeah hell yeah all right our first demo [...] [0:43] our first demo today is going to be dungeon bound oh my God there's so many options our first demo today is going to be dungeon bound oh my God there's so many options here be dungeon bound oh my God there's so many options here what be dungeon bound oh my God there's so many options here what do you be dungeon bound oh my God there's so many options here what do you mean",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5200620,web_result,unknown_date,https://louidev.itch.io/dungeonbound,Dungeonbound (In Development) by louidev,"In order to download this game you must purchase it at or above the minimum price of $12 USD. You will get access to the following files:
+
+dungeonbound-windows.zip 225 MB
+
+Version 43
+
+## Download demo
+
+Download;)
+
+dungeonbound-windows-demo.zip 225 MB
+
+Version 31
+
+## Comments
+
+Log in with itch.io to leave a comment.
+
+SirBastian212 days ago (1 edit) [...] View all by louidevlouidev
+ Follow louidevFollowFollowing louidevFollowing
+ Add To CollectionCollection
+ Comments
+ Related gamesRelated
+
+Dungeonbound (In Development)
+
+# Dungeonbound (In Development)
+
+Download Now
+
+The web browser version is the demo and the download version is the in development early access build.   
+All purchases will receive a steam key on release. [...] force any build you want to come through when money is no longer a limiting factor. Like I said, a very fun demo, and I can't wait to see what comes next",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=enzzvyfmgIo,Dungeonbound: DON'T BUY Until You Know THIS!,"[8:25] smaller demos and earlier builds, so I'm not going to pretend I've personally tested every advertised feature. The Steam launch price hasn't been confirmed, and there's a free demo.
+[8:36] That's where I'd start. Don't judge the value by item count alone. Ask whether a new drop makes you curious to experiment, or whether you're just
+[8:45] waiting for another upgrade to make the same routine faster. If you love arranging gear, discovering synergies, [...] [9:22] gives those decisions another dimension when you're working with friends. But the final price, technical stability,
+[9:28] and long-term variety still matter. My recommendation is to try the free demo, then see how the finished release holds
+[9:36] up before spending money. If you enjoy rearranging equipment and figuring out why certain combinations work, there's a [...] [5:50] dungeon gives you direction through different environments and enemies, including opponents that heal, apply status effects, [music] reflect damage, or become more dangerous
+[6:00] as a fight goes on. Ideally, a new area makes you rethink your build, not just fight something with a larger health
+[6:07] bar. Visually, the dark corridors, illustrated enemies, chunky textures, and CRT inspired effects lean into an",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5200620,web_result,unknown_date,https://store.steampowered.com/app/5200620/Dungeonbound,Dungeonbound on Steam,"Developer: louidev
+
+Publisher: louidev
+
+Release Date: 15 Nov, 2026
+
+Discord External   X External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+# Download Dungeonbound Demo
+
+Download
+
+This game is not yet available on Steam
+
+# Planned Release Date: 15 Nov, 2026
+
+This game plans to unlock in approximately 2 days
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub [...] Auto-resolving, speed-driven combat. Set up the build, watch it cook
+ 7 heroes in the incremental campaign, each with separate gold, levels and upgrades
+ 3 Mage subclasses (Lightning / Frost / Fire), each keeping its own progression
+ A roguelike climb with 32 heroes, hearts, relics, ranks and asynchronous PvP against real players' builds
+ Co-op climbs for 2 to 4 players with shared hearts, loot rolls, gifting and team leaderboards
+ A daily climb on a shared seed with three fresh modifiers [...] ## A dungeon from another era
+
+Dungeonbound wears its retro heart on its sleeve: a first-person corridor view, chunky pixel-filtered art, and a full PS1-style CRT presentation with scanlines, dither and chromatic flicker. Adjustable battle speed keeps it legible while it cooks, and the whole game plays on a controller.
+
+## Features",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=P2bt5QxNSQE,Dungeonbound - Official Release Date Trailer,"# Dungeonbound - Official Release Date Trailer
+## Channel: Indie Games Hub (verified)
+281K subscribers
+330 likes
+
+### Description
+28,541 views
+Posted: 2026-10-21
+Dungeonbound will be released on 16 November 2026 for PC.
+
+Wishlist on Steam: [...] Play it as a long incremental campaign, as a roguelike climb against other players' builds, or as a co-op climb with up to three friends. Every trip home is a chance to spend your gold, buy upgrades, rework your gear and walk back in meaner than you left.
+
+Developer: louidev
+X: [...] Dungeonbound is a first-person dungeon crawler where the fighting runs itself. Pick a hero, pack your board with gear, and start the descent. Attacks, dodges, crits, counters and status ticks all resolve on their own in speed-driven turns, watched through a PS1-era CRT.",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+5200620,web_result,unknown_date,https://store.steampowered.com/app/5200620/Dungeonbound,Dungeonbound on Steam,"Developer: louidev
+
+Publisher: louidev
+
+Release Date: 15 Nov, 2026
+
+Discord External   X External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+# Download Dungeonbound Demo
+
+Download
+
+This game is not yet available on Steam
+
+# Planned Release Date: 15 Nov, 2026
+
+This game plans to unlock in approximately 2 days
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub [...] All Games > RPG Games > Dungeonbound
+
+Community Hub
+
+Dungeonbound
+
+Dungeonbound
+
+Dungeonbound
+
+Developer
+
+louidev
+
+Publisher
+
+louidev
+
+Release
+
+15 Nov, 2026
+
+Roguelite Inventory Management Autobattler with PvP/PvE gameplay, craft and build powerful builds to defeat your foes!
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+15 Nov, 2026
+
+Developer:
+
+louidev
+
+Publisher:
+
+louidev
+
+Tags
+
+Popular user-defined tags for this product: [...] View Community Hub
+
+## About This Game
+
+A roguelite Autobattler with PvP/PvE gameplay and inventory management
+
+Dungeonbound is a first-person dungeon crawler where the fighting runs itself. Pick a hero, pack your board with gear, and start the descent. Attacks, dodges, crits, counters and status ticks all resolve on their own in speed-driven turns, watched through a PS1-era CRT.",,"gameplay, demo, release date",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo', 'release date'] (+20)",general
+5200620,web_result,unknown_date,https://louidev.itch.io/dungeonbound,Dungeonbound (In Development) by louidev,"More information)
+
+|  |  |
+ --- |
+| Updated | 2 days ago |
+| Status | In development |
+| Platforms | HTML5, Windows |
+| Rating | Rated 4.5 out of 5 stars (40 total ratings) |
+| Author | louidev |
+| Genre | Adventure, Role Playing |
+| Made with | Godot |
+| Tags | Dungeon Crawler, Endless, Hand-drawn, Idle, Incremental, JRPG, Loot, No AI, Roguelite |
+| Links | Steam |
+| Content | No generative AI was used |
+
+## Purchase
+
+Buy Now$12.00 USD or more [...] NOTE: the full release price may differ  
+WARNING: since the game is still in active development, there might be a chance of save corruption but I will try my hardest to prevent this from happening.
+
+  
+WISHLIST: 
+
+Join our discord
+
+Mac builds coming soon.  
+  
+[incrementaldb\_verification: louidev]
+
+More information) [...] bountyh4 days ago
+
+Hi, i bought the itch.io version waiting for steam release, i alwasy find hella lot of gems but no items with socks seems appear on the market (roguelite-unranked game), it's beacuse i was never able to reach pasrt 7floor?
+
+Reply
+
+X Games6 days ago
+
+oyun çok güzel bence oyunu geliştirdikçe geridende gelse demoyuda geliştir
+
+Reply
+
+Tategami Ookami7 days ago
+
+Hi there!
+
+I LOVE dungeon crawlers!",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=enzzvyfmgIo,Dungeonbound: DON'T BUY Until You Know THIS!,"Would you buy Dungeonbound, wait for updates, or skip it? Let me know in the comments!
+
+Read the latest full patch notes here:
+
+Dungeonbound - 1.0 Launches on November 15, 2026!
+Platform: PC (Steam)
+
+Dungeonbound is a retro first-person auto-battler dungeon crawler. Send your Warrior, Mage or Rogue into monster-packed depths, watch battles play out turn by turn, and grow stronger every run. Death just sends you home with the loot. Merge gear, buy upgrades, descend again. [...] # Dungeonbound: DON'T BUY Until You Know THIS!
+## Channel: Gaming Plus TV
+4.96K subscribers
+N/A likes
+
+### Description
+1,344 views
+Posted: 2026-10-20
+Play Dungeonbound - 
+
+Dungeonbound pre-release gameplay and review! Is this retro auto-battler dungeon crawler worth buying? Discover equipment fusion, roguelite PvP, character builds, and progression before the Steam release. [...] [8:25] smaller demos and earlier builds, so I'm not going to pretend I've personally tested every advertised feature. The Steam launch price hasn't been confirmed, and there's a free demo.
+[8:36] That's where I'd start. Don't judge the value by item count alone. Ask whether a new drop makes you curious to experiment, or whether you're just
+[8:45] waiting for another upgrade to make the same routine faster. If you love arranging gear, discovering synergies,",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+5200620,web_result,unknown_date,https://store.steampowered.com/app/5200620/Dungeonbound,Dungeonbound on Steam,"Developer: louidev
+
+Publisher: louidev
+
+Release Date: 15 Nov, 2026
+
+Discord External   X External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+# Download Dungeonbound Demo
+
+Download
+
+This game is not yet available on Steam
+
+# Planned Release Date: 15 Nov, 2026
+
+This game plans to unlock in approximately 2 days
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub [...] All Games > RPG Games > Dungeonbound
+
+Community Hub
+
+Dungeonbound
+
+Dungeonbound
+
+Dungeonbound
+
+Developer
+
+louidev
+
+Publisher
+
+louidev
+
+Release
+
+15 Nov, 2026
+
+Roguelite Inventory Management Autobattler with PvP/PvE gameplay, craft and build powerful builds to defeat your foes!
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+15 Nov, 2026
+
+Developer:
+
+louidev
+
+Publisher:
+
+louidev
+
+Tags
+
+Popular user-defined tags for this product: [...] Over 240 hand-painted enemies, including 49 elites and 17 bosses
+ Over 540 items in 5 rarities on a backpack-style grid. Merge duplicates to level 10, fuse any two into a hybrid
+ 90 relics and an Item Workshop for designing and sharing your own gear
+ Over 400 permanent upgrades across Damage, Defense, Sustain, Economy and Unlocks
+ Deep status system: poison, burn, bleed, freeze, stun, thorns and more
+ Death-friendly loop. Every defeat banks progress for the next run
+ Full controller support",,"gameplay, demo, release date",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo', 'release date'] (+20)",general
+5200620,web_result,unknown_date,https://louidev.itch.io/dungeonbound,Dungeonbound (In Development) by louidev,"More information)
+
+|  |  |
+ --- |
+| Updated | 2 days ago |
+| Status | In development |
+| Platforms | HTML5, Windows |
+| Rating | Rated 4.5 out of 5 stars (40 total ratings) |
+| Author | louidev |
+| Genre | Adventure, Role Playing |
+| Made with | Godot |
+| Tags | Dungeon Crawler, Endless, Hand-drawn, Idle, Incremental, JRPG, Loot, No AI, Roguelite |
+| Links | Steam |
+| Content | No generative AI was used |
+
+## Purchase
+
+Buy Now$12.00 USD or more [...] NOTE: the full release price may differ  
+WARNING: since the game is still in active development, there might be a chance of save corruption but I will try my hardest to prevent this from happening.
+
+  
+WISHLIST: 
+
+Join our discord
+
+Mac builds coming soon.  
+  
+[incrementaldb\_verification: louidev]
+
+More information) [...] View all by louidevlouidev
+ Follow louidevFollowFollowing louidevFollowing
+ Add To CollectionCollection
+ Comments
+ Related gamesRelated
+
+Dungeonbound (In Development)
+
+# Dungeonbound (In Development)
+
+Download Now
+
+The web browser version is the demo and the download version is the in development early access build.   
+All purchases will receive a steam key on release.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=enzzvyfmgIo,Dungeonbound: DON'T BUY Until You Know THIS!,"Before you buy Dungeonbound, there's a lot you should know about this unique first-person dungeon crawler where your BUILD determines whether you survive!
+
+In this Dungeonbound pre-release review, I take a closer look at the gameplay, automatic combat, equipment management, item fusion, progression systems, and overall experience to help you decide whether it's worth buying when the full version arrives on Steam. [...] # Dungeonbound: DON'T BUY Until You Know THIS!
+## Channel: Gaming Plus TV
+4.96K subscribers
+N/A likes
+
+### Description
+1,344 views
+Posted: 2026-10-20
+Play Dungeonbound - 
+
+Dungeonbound pre-release gameplay and review! Is this retro auto-battler dungeon crawler worth buying? Discover equipment fusion, roguelite PvP, character builds, and progression before the Steam release. [...] Unlike traditional dungeon crawlers, Dungeonbound focuses on strategy rather than reflexes. You'll arrange equipment, combine powerful items, experiment with different builds, and watch your decisions play out through automatic battles.
+
+Dungeonbound has some interesting ideas, but does the gameplay deliver enough variety to justify buying the full release?
+
+Watch before you buy and find out whether this auto-battler roguelite deserves a place in your Steam library.",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+5200620,web_result,unknown_date,https://louidev.itch.io/dungeonbound,Dungeonbound (In Development) by louidev,"More information)
+
+|  |  |
+ --- |
+| Updated | 2 days ago |
+| Status | In development |
+| Platforms | HTML5, Windows |
+| Rating | Rated 4.5 out of 5 stars (40 total ratings) |
+| Author | louidev |
+| Genre | Adventure, Role Playing |
+| Made with | Godot |
+| Tags | Dungeon Crawler, Endless, Hand-drawn, Idle, Incremental, JRPG, Loot, No AI, Roguelite |
+| Links | Steam |
+| Content | No generative AI was used |
+
+## Purchase
+
+Buy Now$12.00 USD or more [...] View all by louidevlouidev
+ Follow louidevFollowFollowing louidevFollowing
+ Add To CollectionCollection
+ Comments
+ Related gamesRelated
+
+Dungeonbound (In Development)
+
+# Dungeonbound (In Development)
+
+Download Now
+
+The web browser version is the demo and the download version is the in development early access build.   
+All purchases will receive a steam key on release. [...] force any build you want to come through when money is no longer a limiting factor. Like I said, a very fun demo, and I can't wait to see what comes next",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=enzzvyfmgIo,Dungeonbound: DON'T BUY Until You Know THIS!,"Before you buy Dungeonbound, there's a lot you should know about this unique first-person dungeon crawler where your BUILD determines whether you survive!
+
+In this Dungeonbound pre-release review, I take a closer look at the gameplay, automatic combat, equipment management, item fusion, progression systems, and overall experience to help you decide whether it's worth buying when the full version arrives on Steam. [...] Unlike traditional dungeon crawlers, Dungeonbound focuses on strategy rather than reflexes. You'll arrange equipment, combine powerful items, experiment with different builds, and watch your decisions play out through automatic battles.
+
+Dungeonbound has some interesting ideas, but does the gameplay deliver enough variety to justify buying the full release?
+
+Watch before you buy and find out whether this auto-battler roguelite deserves a place in your Steam library. [...] [8:52] and watching a build finally come together, Dungeon Bound has a clear audience. If you want direct sword play,
+[8:59] deep exploration, or a big narrative adventure, it probably isn't for you. I wouldn't recommend buying Dungeon Bound
+[9:06] blindly on release day, but I wouldn't dismiss it either. The equipment grid gives you meaningful decisions. Fusion
+[9:14] encourages experimentation, and the incremental and rogike modes offer very different reasons to keep playing. Co-op",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+5200620,web_result,unknown_date,https://store.steampowered.com/app/5200620/Dungeonbound,Dungeonbound on Steam,"All Games > RPG Games > Dungeonbound
+
+Community Hub
+
+Dungeonbound
+
+Dungeonbound
+
+Dungeonbound
+
+Developer
+
+louidev
+
+Publisher
+
+louidev
+
+Release
+
+15 Nov, 2026
+
+Roguelite Inventory Management Autobattler with PvP/PvE gameplay, craft and build powerful builds to defeat your foes!
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+15 Nov, 2026
+
+Developer:
+
+louidev
+
+Publisher:
+
+louidev
+
+Tags
+
+Popular user-defined tags for this product: [...] Developer: louidev
+
+Publisher: louidev
+
+Release Date: 15 Nov, 2026
+
+Discord External   X External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+# Download Dungeonbound Demo
+
+Download
+
+This game is not yet available on Steam
+
+# Planned Release Date: 15 Nov, 2026
+
+This game plans to unlock in approximately 2 days
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub [...] View Community Hub
+
+## About This Game
+
+A roguelite Autobattler with PvP/PvE gameplay and inventory management
+
+Dungeonbound is a first-person dungeon crawler where the fighting runs itself. Pick a hero, pack your board with gear, and start the descent. Attacks, dodges, crits, counters and status ticks all resolve on their own in speed-driven turns, watched through a PS1-era CRT.",,"gameplay, demo, release date",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo', 'release date'] (+20)",general
+5200620,web_result,unknown_date,https://store.steampowered.com/app/5200620/Dungeonbound,Dungeonbound on Steam,"All Games > RPG Games > Dungeonbound
+
+Community Hub
+
+Dungeonbound
+
+Dungeonbound
+
+Dungeonbound
+
+Developer
+
+louidev
+
+Publisher
+
+louidev
+
+Release
+
+15 Nov, 2026
+
+Roguelite Inventory Management Autobattler with PvP/PvE gameplay, craft and build powerful builds to defeat your foes!
+
+All Reviews:
+
+No user reviews
+
+Release Date:
+
+15 Nov, 2026
+
+Developer:
+
+louidev
+
+Publisher:
+
+louidev
+
+Tags
+
+Popular user-defined tags for this product: [...] Developer: louidev
+
+Publisher: louidev
+
+Release Date: 15 Nov, 2026
+
+Discord External   X External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+# Download Dungeonbound Demo
+
+Download
+
+This game is not yet available on Steam
+
+# Planned Release Date: 15 Nov, 2026
+
+This game plans to unlock in approximately 2 days
+
+Interested?  
+Add to your wishlist and get notified when it becomes available.
+
+View Community Hub [...] View Community Hub
+
+## About This Game
+
+A roguelite Autobattler with PvP/PvE gameplay and inventory management
+
+Dungeonbound is a first-person dungeon crawler where the fighting runs itself. Pick a hero, pack your board with gear, and start the descent. Attacks, dodges, crits, counters and status ticks all resolve on their own in speed-driven turns, watched through a PS1-era CRT.",,"gameplay, demo, release date",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo', 'release date'] (+20)",general
+5200620,web_result,unknown_date,https://louidev.itch.io/dungeonbound,Dungeonbound (In Development) by louidev,"More information)
+
+|  |  |
+ --- |
+| Updated | 2 days ago |
+| Status | In development |
+| Platforms | HTML5, Windows |
+| Rating | Rated 4.5 out of 5 stars (40 total ratings) |
+| Author | louidev |
+| Genre | Adventure, Role Playing |
+| Made with | Godot |
+| Tags | Dungeon Crawler, Endless, Hand-drawn, Idle, Incremental, JRPG, Loot, No AI, Roguelite |
+| Links | Steam |
+| Content | No generative AI was used |
+
+## Purchase
+
+Buy Now$12.00 USD or more [...] NOTE: the full release price may differ  
+WARNING: since the game is still in active development, there might be a chance of save corruption but I will try my hardest to prevent this from happening.
+
+  
+WISHLIST: 
+
+Join our discord
+
+Mac builds coming soon.  
+  
+[incrementaldb\_verification: louidev]
+
+More information) [...] I usually charge $10 per track, or $25 for 3 tracks. I’m also pretty flexible depending on the project.
+
+If you’re interested, I’d love to hear a little about your game and what kind of sound you have in mind.
+
+Discord: pabloalegria\_\_\_\_
+
+Portfolio: 
+
+Reply
+
+Shedacq12 days ago(+1)
+
+bought the game but i'm unable to play coop, while the demo does work?
+
+Reply
+
+CritNCoin13 days ago(+2)(-2)
+
+Aren't you using assets from the game Dragon Ruins II?   
+  
+  
+
+Reply
+
+ninja\_giy11 days ago(+1)",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=P2bt5QxNSQE,Dungeonbound - Official Release Date Trailer,"Play it as a long incremental campaign, as a roguelike climb against other players' builds, or as a co-op climb with up to three friends. Every trip home is a chance to spend your gold, buy upgrades, rework your gear and walk back in meaner than you left.
+
+Developer: louidev
+X: [...] # Dungeonbound - Official Release Date Trailer
+## Channel: Indie Games Hub (verified)
+281K subscribers
+330 likes
+
+### Description
+28,541 views
+Posted: 2026-10-21
+Dungeonbound will be released on 16 November 2026 for PC.
+
+Wishlist on Steam: [...] Dungeonbound is a first-person dungeon crawler where the fighting runs itself. Pick a hero, pack your board with gear, and start the descent. Attacks, dodges, crits, counters and status ticks all resolve on their own in speed-driven turns, watched through a PS1-era CRT.",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+5200620,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114038891,"We Hit 20,000 Wishlists! I cant believe it!",,"I can't believe we have just hit 20k wishlists, thank you so much for everyone who has played and given me feedback so far, lots more to come, some balance fixes and updates tomorrow for bugs + A new Halloween update with some new content (characters and items)Full release in November 16th! ",,35,medium,Inside extended window (+15); Official Steam News (+20),
+5200620,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706679567,Bug Fix Update 0.1.22: Item Crash Fixed,,"Crash fixFixed the game crashing when you dropped an item onto another item, to swap it, move it or merge it into a higher level. Thank you to everyone who sent a bug report. Other fixesSkipping a fusion forge, upgrade altar or curse shrine no longer leaves CONTINUE greyed out for the rest of the ru",,35,medium,Inside extended window (+15); Official Steam News (+20),
+5200620,reddit_discussion,unknown_date,https://www.reddit.com/r/Dungeonbound,r/Dungeonbound - Reddit,Dungeonbound is an autobattler dungeon crawler that combines strategic inventory management with dungeon-crawling progression.,,,30,weak,Reddit (+10); Exact title match (+20),social
+5200620,reddit_discussion,unknown_date,https://www.reddit.com/r/IndieGameWishlist/comments/1x73e3m/my_game_dungeonbound_after_about_a_month_and_half,My game Dungeonbound after about a month and half live - Reddit,"[WP] The Endless Dungeon, that is what they call this place. It is a dungeon of endless floors, caverns, and rooms that are mostly haphazard.",,,30,weak,Reddit (+10); Exact title match (+20),social
+5200620,social_post,unknown_date,https://www.tiktok.com/@quietquests8/video/7478170511143406856?refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7478170511143406856%3Fcontrols%3D1%26description%3D0%26rel%3D0%26autoplay%3D0%26loop%3D0&referer_video_id=7478170511143406856,DungeonBound Update! Been fleshing out the battle system ... - TikTok,DungeonBound Update! Been fleshing out the battle system and I think the idea is pretty solid! What do you guys think !,,,25,weak,Social Index (+5); Exact title match (+20),social
+5200620,social_post,unknown_date,https://www.tiktok.com/@cysentinel.gaming/video/7703224674976664846,Dungeonbound has consumed too much of my time in the best way ...,The description mentions news about Gundam Battle Operation 2 and the possibility that GBO3 may be coming soon. The information is presented,,,25,weak,Social Index (+5); Exact title match (+20),social
+5200620,social_post,unknown_date,https://www.tiktok.com/@solitarysixty/video/7694661120740674838,Take on DUNGEONBOUND and you take on the risk of being locked ...,"29 Likes, TikTok video from Solitary Sixty (@solitarysixty): “Take on DUNGEONBOUND and you take on the risk of being locked in our dungeon",,,25,weak,Social Index (+5); Exact title match (+20),social
+5200620,social_post,unknown_date,https://www.tiktok.com/@louiiigeorge/video/7701138924810390805,I can't believe how many people played my game in a week ... - TikTok,... dungeonbound game. You're telling me over 26000 people played my game….original sound - Harrison.,,,25,weak,Social Index (+5); Exact title match (+20),social
+5200620,social_post,unknown_date,https://www.instagram.com/p/Dfc00pDJGnD,cool new game an old friend made - Instagram,"Dungeonbound is a retro first-person auto-battler dungeon crawler. Send a Warrior, Mage, or Rogue into monster-packed floors and watch turn",,,25,weak,Social Index (+5); Exact title match (+20),social
+5200620,social_post,unknown_date,https://www.instagram.com/p/DOlf-GMDVe_?hl=ar,Where do you rank The Dig amongst the classics adventure game ...,"Dungeonbound is a retro first-person auto-battler dungeon crawler. Send a Warrior, Mage, or Rogue into monster-packed floors and watch turn",,,25,weak,Social Index (+5); Exact title match (+20),social
+5200620,social_post,unknown_date,https://x.com/Lootbound_,Lootbound (@Lootbound_) / X,"Oct 18
+
+  If Lootbound is not enough bloody for you, come check out this demo🩸🩸🩸
+
+  @handsover_game
+
+  HANDS OVER | DEMO IS OUT@handsover\_game
+
+  Oct 15
+
+  THE DEMO IS OUT!!! I REPEAT- THE DEMO IS OUT!!! We just finished and couldn’t make you wait any longer! Grab your friends and jump into true horror rn: store.steampowered.com/app/4661070/HA… #nextfest #demo #steam [...] 00:00
+
+  @megurtdev
+
+  megurt@megurtdev
+
+  Oct 26
+
+  
+
+  00:23
+
+  You were chosen by the algorithm! Now take a look at my indie game ✨🐇
+
+  1
+ @Lootbound_
+
+  Lootbound@Lootbound\_
+
+  Nov 2
+
+  One of the big bosses you can take down with the mighty sword and we’ll-managed party🗡️⚔️🛡️
+
+  
+
+  00:00
+ @Lootbound_
+
+  Lootbound@Lootbound\_
+
+  Oct 20
+
+  It’s the pre-release week for Pao Pao! Try your luck and guessing skills!
+
+  @PaoPao_game
+
+  Pao Pao | Out now ♡@PaoPao\_game
+
+  Oct 20 [...] Log inSign up
+
+Log inSign up
+
+150 posts
+
+Lootbound profile banner
+
+@Lootbound_
+
+# Lootbound
+
+@Lootbound\_
+
+Developer behind Lootbound🎮 Check out our other games: @PaoPao\_game @handsover\_game @sosops\_artdock 📨 (/cdn-cgi/l/email-protection)
+
+Joined April 2025
+
+49 Following950 Followers
+
+RepliesRepliesRepostsRepostsMediaMedia
+
+## Lootbound’s posts
+
+ @Lootbound_
+
+  Lootbound@Lootbound\_
+
+  Nov 3
+
+  You were chosen by the algorithm! Now take a look at our indie game⚔️⚔️⚔️
+
+  
+
+  00:00",,demo,25,weak,Social Index (+5); Keywords ['demo'] (+20),social
+5200620,social_post,unknown_date,https://www.andreaparsneau.com/copy-of-incubus-inc,Dungeon Bound | Andrea Parsneau,"​
+
+Disclaimer: Dungeon Bound contains casual nudity, explicit sex, sexy monster girls, a growing harem, a fantasy world with magic, game mechanics, violence, revenge, crude humor, profanity, dungeon cores, dungeon masters, magic, home invaders, an exhibitionist, ritual sacrifice, and a dungeon.
+
+​
+
+©2020 Bastian Knight (P)2021 Podium Audio
+
+DungeonBound3.jpg
+
+#### Dungeon Bound 3
+
+On Pre-order NOW! [...] ​
+
+Gabriel still grieves for his fallen bonded, but with the other three at his side, he is determined to protect his Core and build the power base needed to crush the Swarm infesting the lowest floors. If they wind up rejuvenating the city of Lostbarrow in the process, he can live with that.
+
+​
+
+©2023 Bastian Knight (P)2024 Podium Audio
+
+DungeonBound2.jpg
+
+#### Dungeon Bound 2 [...] top of page
+
+2020 Podium Audio
+
+DungeonBound4.jpg
+
+#### Dungeon Bound 4
+
+With the return of the Domain Crystal, Merideva is secure for the moment despite the terrifying darkness hidden in the dungeon's depths.
+
+​",,,25,weak,Social Index (+5); Exact title match (+20),social
+5200620,web_result,unknown_date,https://store.steampowered.com/app/5200620/Dungeonbound,Dungeonbound on Steam,"Over 240 hand-painted enemies, including 49 elites and 17 bosses
+ Over 540 items in 5 rarities on a backpack-style grid. Merge duplicates to level 10, fuse any two into a hybrid
+ 90 relics and an Item Workshop for designing and sharing your own gear
+ Over 400 permanent upgrades across Damage, Defense, Sustain, Economy and Unlocks
+ Deep status system: poison, burn, bleed, freeze, stun, thorns and more
+ Death-friendly loop. Every defeat banks progress for the next run
+ Full controller support [...] ## A dungeon from another era
+
+Dungeonbound wears its retro heart on its sleeve: a first-person corridor view, chunky pixel-filtered art, and a full PS1-style CRT presentation with scanlines, dither and chromatic flicker. Adjustable battle speed keeps it legible while it cooks, and the whole game plays on a controller.
+
+## Features [...] Host a lobby, pick your heroes and climb together. Each player keeps a separate purse, shop shelf and relics, so no two boards on the team look alike. When a foe drops loot, everyone picks what they want and the dice settle any argument. Drop a piece on a teammate's board to hand it over, and look out for co-op only items that reward you for giving them away. Team rivals are whole parties built from other players' climbs, and co-op has leaderboards of its own for teams of two, three and four.",,,20,weak,Exact title match (+20),general
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=bUcWR1_4AvM,"Dead by Daylight | Bloodbound Reveal Trailer | Darkest Dungeon, Attack On Titan, Alien","# Dead by Daylight | Bloodbound Reveal Trailer | Darkest Dungeon, Attack On Titan, Alien
+## Channel: Dead by Daylight (verified)
+1.34M subscribers
+16K likes
+
+### Description
+377,053 views
+Posted: 2026-04-21
+Every bloodline tells a story.  
+
+Three iconic franchises are coming to The Fog on April 28th [...] Like and follow us on our official Social Media Channels:     
+Facebook:    / deadbydaylight  
+Twitter:    / deadbydaylight  
+Instagram:    / deadbydaylight  
+TikTok:   / deadbydaylight   
+
+#DbD #RuinRift #2v8gamemode #DbDCollections [...] Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits. Pick a side and step into a world of tension and terror with horror gaming's best asymmetrical multiplayer.      
+
+PLAY DEAD BY DAYLIGHT:    
+Join the official forum:",,trailer,20,weak,Keywords ['trailer'] (+20),general
+5200620,web_result,unknown_date,https://louidev.itch.io/dungeonbound,Dungeonbound (In Development) by louidev,"Hey, really enjoyed playing. I just thought I'd mention that fusion stacking feels a little OP. Considering that buying things is the agent of progression, you can fuse ""Plunderers Hoard"" into every item you own (especially daggers which retain their small pattern) meaning you can end up with 4/5k% increase in gold from monsters, and be racking up 70k from a pvp kill. That gold is then used to reroll and buy more ""Plunderers Hoard"" and repeat the process. You essentially can force any build you [...] We all know who is the strongest in this game - Mr Jerry :D  I reached the void, I don't know if it's beatable.   
+  
+Vampiric items + a few heal, merging, then also having some block + ocassional freeze =  bassically makes you unbeatable because if the enemy can't one shot you, you get healed right after. I almost reached the void almost without the golden items. It was vulnerable a few times if there are several enemies, but once you upgrade that's it for them. [...] More information)
+
+|  |  |
+ --- |
+| Updated | 2 days ago |
+| Status | In development |
+| Platforms | HTML5, Windows |
+| Rating | Rated 4.5 out of 5 stars (40 total ratings) |
+| Author | louidev |
+| Genre | Adventure, Role Playing |
+| Made with | Godot |
+| Tags | Dungeon Crawler, Endless, Hand-drawn, Idle, Incremental, JRPG, Loot, No AI, Roguelite |
+| Links | Steam |
+| Content | No generative AI was used |
+
+## Purchase
+
+Buy Now$12.00 USD or more",,,20,weak,Exact title match (+20),general
+5200620,web_result,unknown_date,https://www.andreaparsneau.com/copy-of-incubus-inc,Dungeon Bound | Andrea Parsneau,"​
+
+Disclaimer: Dungeon Bound contains casual nudity, explicit sex, sexy monster girls, a growing harem, a fantasy world with magic, game mechanics, violence, revenge, crude humor, profanity, dungeon cores, dungeon masters, magic, home invaders, an exhibitionist, ritual sacrifice, and a dungeon.
+
+​
+
+©2020 Bastian Knight (P)2021 Podium Audio
+
+DungeonBound3.jpg
+
+#### Dungeon Bound 3
+
+On Pre-order NOW! [...] top of page
+
+2020 Podium Audio
+
+DungeonBound4.jpg
+
+#### Dungeon Bound 4
+
+With the return of the Domain Crystal, Merideva is secure for the moment despite the terrifying darkness hidden in the dungeon's depths.
+
+​ [...] ​
+
+Gabriel still grieves for his fallen bonded, but with the other three at his side, he is determined to protect his Core and build the power base needed to crush the Swarm infesting the lowest floors. If they wind up rejuvenating the city of Lostbarrow in the process, he can live with that.
+
+​
+
+©2023 Bastian Knight (P)2024 Podium Audio
+
+DungeonBound2.jpg
+
+#### Dungeon Bound 2",,,20,weak,Exact title match (+20),general
+5200620,web_result,unknown_date,https://www.andreaparsneau.com/copy-of-incubus-inc,Dungeon Bound | Andrea Parsneau,"On Pre-order NOW!
+
+A week ago, Gabriel Grimm would never have imagined that being expelled from the Academy of Magic and turned into a virgin sacrifice would be an experience he was grateful for.
+
+​
+
+Now, bonded to three incredible monster girls and a charming young Dungeon Core, he can’t even imagine going back to his old life.
+
+​ [...] ​
+
+Disclaimer: Dungeon Bound contains casual nudity, explicit sex, sexy monster girls, a growing harem, a fantasy world with magic, game mechanics, violence, revenge, crude humor, profanity, dungeon cores, dungeon masters, magic, home invaders, an exhibitionist, ritual sacrifice, and a dungeon.
+
+​
+
+©2020 Bastian Knight (P)2021 Podium Audio
+
+DungeonBound3.jpg
+
+#### Dungeon Bound 3
+
+On Pre-order NOW! [...] ​
+
+Gabriel and his bonded have spent three weeks working to stabilize the Dungeon Core's much enlarged Domain. But increasing undead incursions have them scurrying to keep the monsters that lurk beneath their territory from drawing the ire of the planet-spanning Adventurer's Guild. Along with defense, they must find new allies to strengthen Merideva and improve their chances of survival.
+
+​",,,20,weak,Exact title match (+20),general
+5200620,web_result,unknown_date,https://store.steampowered.com/app/5200620/Dungeonbound,Dungeonbound on Steam,"## A dungeon from another era
+
+Dungeonbound wears its retro heart on its sleeve: a first-person corridor view, chunky pixel-filtered art, and a full PS1-style CRT presentation with scanlines, dither and chromatic flicker. Adjustable battle speed keeps it legible while it cooks, and the whole game plays on a controller.
+
+## Features [...] Over 240 hand-painted enemies, including 49 elites and 17 bosses
+ Over 540 items in 5 rarities on a backpack-style grid. Merge duplicates to level 10, fuse any two into a hybrid
+ 90 relics and an Item Workshop for designing and sharing your own gear
+ Over 400 permanent upgrades across Damage, Defense, Sustain, Economy and Unlocks
+ Deep status system: poison, burn, bleed, freeze, stun, thorns and more
+ Death-friendly loop. Every defeat banks progress for the next run
+ Full controller support [...] Auto-resolving, speed-driven combat. Set up the build, watch it cook
+ 7 heroes in the incremental campaign, each with separate gold, levels and upgrades
+ 3 Mage subclasses (Lightning / Frost / Fire), each keeping its own progression
+ A roguelike climb with 32 heroes, hearts, relics, ranks and asynchronous PvP against real players' builds
+ Co-op climbs for 2 to 4 players with shared hearts, loot rolls, gifting and team leaderboards
+ A daily climb on a shared seed with three fresh modifiers",,,20,weak,Exact title match (+20),general
+5200620,web_result,unknown_date,https://www.andreaparsneau.com/copy-of-incubus-inc,Dungeon Bound | Andrea Parsneau,"​
+
+Disclaimer: Dungeon Bound contains casual nudity, explicit sex, sexy monster girls, a growing harem, a fantasy world with magic, game mechanics, violence, revenge, crude humor, profanity, dungeon cores, dungeon masters, magic, home invaders, an exhibitionist, ritual sacrifice, and a dungeon.
+
+​
+
+©2020 Bastian Knight (P)2021 Podium Audio
+
+DungeonBound3.jpg
+
+#### Dungeon Bound 3
+
+On Pre-order NOW! [...] top of page
+
+2020 Podium Audio
+
+DungeonBound4.jpg
+
+#### Dungeon Bound 4
+
+With the return of the Domain Crystal, Merideva is secure for the moment despite the terrifying darkness hidden in the dungeon's depths.
+
+​ [...] ​
+
+Gabriel still grieves for his fallen bonded, but with the other three at his side, he is determined to protect his Core and build the power base needed to crush the Swarm infesting the lowest floors. If they wind up rejuvenating the city of Lostbarrow in the process, he can live with that.
+
+​
+
+©2023 Bastian Knight (P)2024 Podium Audio
+
+DungeonBound2.jpg
+
+#### Dungeon Bound 2",,,20,weak,Exact title match (+20),general
+5200620,web_result,unknown_date,https://store.steampowered.com/app/5200620/Dungeonbound,Dungeonbound on Steam,"## A dungeon from another era
+
+Dungeonbound wears its retro heart on its sleeve: a first-person corridor view, chunky pixel-filtered art, and a full PS1-style CRT presentation with scanlines, dither and chromatic flicker. Adjustable battle speed keeps it legible while it cooks, and the whole game plays on a controller.
+
+## Features [...] Over 240 hand-painted enemies, including 49 elites and 17 bosses
+ Over 540 items in 5 rarities on a backpack-style grid. Merge duplicates to level 10, fuse any two into a hybrid
+ 90 relics and an Item Workshop for designing and sharing your own gear
+ Over 400 permanent upgrades across Damage, Defense, Sustain, Economy and Unlocks
+ Deep status system: poison, burn, bleed, freeze, stun, thorns and more
+ Death-friendly loop. Every defeat banks progress for the next run
+ Full controller support [...] Over 240 hand-painted enemies wait across the descent, and they don't all fight fair: thorns that punish every hit you land, berserkers that grow stronger the longer you take, bloodthirsty things that heal off your wounds, thieves that flee with your gold. 49 elites guard the deeper floors and 17 bosses hold the bottom.
+
+## Loot worth dying for",,,20,weak,Exact title match (+20),general
+5200620,web_result,unknown_date,https://www.andreaparsneau.com/copy-of-incubus-inc,Dungeon Bound | Andrea Parsneau,"​
+
+Disclaimer: Dungeon Bound contains casual nudity, explicit sex, sexy monster girls, a growing harem, a fantasy world with magic, game mechanics, violence, revenge, crude humor, profanity, dungeon cores, dungeon masters, magic, home invaders, an exhibitionist, ritual sacrifice, and a dungeon.
+
+​
+
+©2020 Bastian Knight (P)2021 Podium Audio
+
+DungeonBound3.jpg
+
+#### Dungeon Bound 3
+
+On Pre-order NOW! [...] On Pre-order NOW!
+
+A week ago, Gabriel Grimm would never have imagined that being expelled from the Academy of Magic and turned into a virgin sacrifice would be an experience he was grateful for.
+
+​
+
+Now, bonded to three incredible monster girls and a charming young Dungeon Core, he can’t even imagine going back to his old life.
+
+​ [...] A week ago, all Gabriel wanted was to graduate and settle into a boring but safe job. Last night he tore a man's soul out to save a gorgon.
+
+​
+
+He's never felt more alive. But their victory over his longtime bully provides only a short reprieve. There are darker threats than greedy adventurers hidden deep beneath Lostbarrow, and more enemies await in the city above.
+
+​",,,20,weak,Exact title match (+20),general
+5200620,web_result,unknown_date,https://www.andreaparsneau.com/copy-of-incubus-inc,Dungeon Bound | Andrea Parsneau,"​
+
+Disclaimer: Dungeon Bound contains casual nudity, explicit sex, sexy monster girls, a growing harem, a fantasy world with magic, game mechanics, violence, revenge, crude humor, profanity, dungeon cores, dungeon masters, magic, home invaders, an exhibitionist, ritual sacrifice, and a dungeon.
+
+​
+
+©2020 Bastian Knight (P)2021 Podium Audio
+
+DungeonBound3.jpg
+
+#### Dungeon Bound 3
+
+On Pre-order NOW! [...] On Pre-order NOW!
+
+A week ago, Gabriel Grimm would never have imagined that being expelled from the Academy of Magic and turned into a virgin sacrifice would be an experience he was grateful for.
+
+​
+
+Now, bonded to three incredible monster girls and a charming young Dungeon Core, he can’t even imagine going back to his old life.
+
+​ [...] ​
+
+Gabriel still grieves for his fallen bonded, but with the other three at his side, he is determined to protect his Core and build the power base needed to crush the Swarm infesting the lowest floors. If they wind up rejuvenating the city of Lostbarrow in the process, he can live with that.
+
+​
+
+©2023 Bastian Knight (P)2024 Podium Audio
+
+DungeonBound2.jpg
+
+#### Dungeon Bound 2",,,20,weak,Exact title match (+20),general
+5200620,web_result,unknown_date,https://www.youtube.com/watch?v=enzzvyfmgIo,Dungeonbound: DON'T BUY Until You Know THIS!,"[6:38] input is supported, but navigating menus and moving items around needs to feel reliable in a game this focused on inventory management.
+[6:47] There have been issues during development involving status effects, item calculations, controller navigation, and crashes. Some have been
+[6:56] addressed, but that doesn't guarantee everything is resolved. I also wouldn't promise perfect Steam Deck performance or trouble-free multiplayer without [...] Executive Assistant & Business Development Professional supporting leaders across operations, client growth, recruiting, and legal administration.
+
+🎮 DEVELOPERS & PUBLISHERS: Want your game featured on Gaming Plus TV? Sponsored game coverage starts at $100 USD.
+
+📩 Business inquiries: [ igentgaming@gmail.com ] [...] Would you buy Dungeonbound, wait for updates, or skip it? Let me know in the comments!
+
+Read the latest full patch notes here:
+
+Dungeonbound - 1.0 Launches on November 15, 2026!
+Platform: PC (Steam)
+
+Dungeonbound is a retro first-person auto-battler dungeon crawler. Send your Warrior, Mage or Rogue into monster-packed depths, watch battles play out turn by turn, and grow stronger every run. Death just sends you home with the loot. Merge gear, buy upgrades, descend again.",,,20,weak,Exact title match (+20),general
+5200620,reddit_discussion,unknown_date,https://www.reddit.com/r/haremfantasynovels/comments/1mi386e/dungeon_bound_by_bastion_knight,Dungeon Bound by Bastion Knight : r/haremfantasynovels,"Preorder alert for Dungeon Farm 3, releasing 18/06! r/haremfantasynovels. • 5mo ago",,,10,weak,Reddit (+10),general
+5200620,social_post,unknown_date,https://www.tiktok.com/@louiiigeorge/video/7703709873019587861,Dungeon Bound: Best Roguelike Players Battle - TikTok,"TikTok video from Loui Game Dev (@louiiigeorge): “Watch the ultimate clash between two top players in Dungeon Bound, the exciting roguelike",,,5,weak,Social Index (+5),social
+5200620,social_post,unknown_date,https://www.instagram.com/reel/DbizEDijKT5,Instagram,"christiantg92
+
+A first-person dungeon crawler built in the tradition of King's Field  
+  
+Kasur Games partnered with me to make this video.  
+  
+#VerhoCurseofFaces #RPG #soulslike #DungeonCrawler #Gaming
+
+fo4_aint_bad's profile picture
+
+fo4\_aint\_bad
+
+Thank you Tucker Carlson
+
+1 like
+
+Reply
+
+divineplusplusplus's profile picture
+
+divineplusplusplus
+
+your voice is absolutely horrible but thanks for the recommendation, wont be watching again
+
+4 likes
+
+Reply
+
+symonglorian's profile picture [...] Video by Chris West on November 10, 2026. May be an image of poster and text.
+
+Video by Chris West on November 06, 2026. May be an image of poster, radar, screen, microphone and text.
+
+Video by Chris West on November 11, 2026. May be a meme of text.
+
+Video by Chris West on November 11, 2026. May be an illustration of one or more people, beard, poster, radar and text.
+
+Video by Chris West on November 11, 2026. May be a video game screenshot of one or more people, beard and text.
+
+See more posts [...] Log In
+
+Sign Up
+
+christiantg92's profile picture
+
+Never miss a post from christiantg92
+
+Sign up for Instagram to stay in the loop.
+
+By continuing, you agree to Instagram's Terms of Use and Privacy Policy.
+
+Sign up
+
+Log in
+
+Video by Chris West on August 02, 2026.
+
+christiantg92's profile picture
+
+christiantg92
+
+•
+
+Follow
+
+Original audio
+
+christiantg92's profile picture
+
+christiantg92",,,5,weak,Social Index (+5),social
+5200620,social_post,unknown_date,https://www.instagram.com/reel/DehNMHJkv7L,Instagram,"Log In
+
+Sign Up
+
+rawfury's profile picture
+
+Never miss a post from rawfury
+
+Sign up for Instagram to stay in the loop.
+
+By continuing, you agree to Instagram's Terms of Use and Privacy Policy.
+
+Sign up
+
+Log in
+
+Video by Raw Fury on October 15, 2026. May be a cartoon of text.
+
+rawfury's profile picture
+
+rawfury
+
+•
+
+Follow
+
+Original audio
+
+rawfury's profile picture
+
+rawfury
+
+a dungeon crawler where you plan your moves ahead of time! #dungeoncrawler #jrpg #autobattler #pixelart #indiegame [...] Video by Rivage Game Official💫 on November 10, 2026. May be an image of stethoscope and text.
+
+Video by Raw Fury on November 09, 2026. May be an image of poster and text.
+
+Video by Raw Fury on November 09, 2026. May be an image of poster and text.
+
+Video by 👑Kingdom games official page👑 on November 09, 2026. May be an image of text.
+
+See more posts
+
+--- [...] ## No comments yet.
+
+Start the conversation.
+
+65
+
+Log in to like or comment.
+
+More posts from rawfury
+
+Video by Raw Fury on November 10, 2026. May be an image of poster and text.
+
+Video by Raw Fury on October 27, 2026. May be an image of poster and text.
+
+Video by Raw Fury on October 13, 2026. May be an image of poster and text.
+
+Video by Raw Fury on November 11, 2026. May be a meme of text.
+
+Video by Raw Fury on November 10, 2026. May be an image of poster and text.",,,5,weak,Social Index (+5),social
+5200620,social_post,unknown_date,https://x.com/AUTOMATON_ENG/status/2105934035050791318,"AUTOMATON WEST on X: ""LitGirls: Bookbound Dungeons is a ...",LitGirls: Bookbound Dungeons is a dungeon crawling RPG where girls based on classic literature lose their clothing upon taking damage,,,5,weak,Social Index (+5),social
+5200620,social_post,unknown_date,https://x.com/DungeonDeliver/status/2048085939491148275,"Dungeon Delivery on X: ""A new traveller (along with their many abs ...",A new traveller (along with their many abs) joins Acorn Express this week! Sunharbour's premier delivery service.,,,5,weak,Social Index (+5),social
+5200620,social_post,unknown_date,https://x.com/storyindungeon,"Once Upon a Dungeon || Leftovers June 27, 12pm EST - X","Once Upon a Dungeon, a Fairytale & Folklore-inspired Dungeon Meshi fan anthology ❧ Previous projects: Fódlan's Fables, Story of Heroes.",,,5,weak,Social Index (+5),social
+5200620,social_post,unknown_date,https://x.com/NeverwinterGame/status/2070145447088283928,Neverwinter (@NeverwinterGame) on X,Dungeon Merchant cuts store prices in half ✨ Less Cosmic Dust needed for ring upgrades More Coldstone Amulets and Brooches ⛓️ Account-,,,5,weak,Social Index (+5),social
+5200620,social_post,unknown_date,https://www.amazon.com/Dungeon-Bound/dp/B08FHVWW4Q,Dungeon Bound (7 book series) Kindle Edition,"Memberships
+
+Recently Visited
+
+Featured
+
+Best Sellers
+
+Acclaimed
+
+From Our Editors
+
+Memberships
+
+Tools
+
+Ways to Read and Listen
+
+Other
+
+Recently Visited
+
+Featured
+
+Tools
+
+Ways to Read and Listen
+
+Other
+
+Your Books
+
+# Follow the author
+
+Bastian Knight
+
+OK
+
+Audible Logo
+
+## Books in this series (7 books)
+
+Dungeon Bound
+
+### Dungeon Bound
+
+#### See product details for:
+
+Audible Logo
+
+You will be charged USD 3.99 [...] Can Gabriel and his bonded defend the Core and track down the sorceress who betrayed him?
+
+Disclaimer: Dungeon Bound contains casual nudity, crude humor, explicit sex, sexy monster girls, a growing harem, a fantasy world with magic, game mechanics, violence, revenge, profanity, Dungeon Cores, Dungeon Masters, magic, home invaders, an exhibitionist, and a dungeon.
+
+#### See product details for:
+
+Audible Logo
+
+You will be charged USD 3.99 [...] It’s a lot to handle for a mage who spent his whole life cloistered away in the Academy, but Gabriel is willing to do anything to protect his new life.
+
+#### See product details for:
+
+Audible Logo
+
+You will be charged USD 4.99
+
+By placing your order, you're purchasing a license to the content and you agree to the Kindle Store Terms of Use.
+
+Sold by: Amazon.com Services LLC
+
+##### Or
+
+Dungeon Bound 4
+
+### Dungeon Bound 4",,,5,weak,Social Index (+5),social
+5200620,web_result,unknown_date,https://www.amazon.com/Dungeon-Bound/dp/B08FHVWW4Q,Dungeon Bound (7 book series) Kindle Edition,"Can Gabriel and his bonded defend the Core and track down the sorceress who betrayed him?
+
+Disclaimer: Dungeon Bound contains casual nudity, crude humor, explicit sex, sexy monster girls, a growing harem, a fantasy world with magic, game mechanics, violence, revenge, profanity, Dungeon Cores, Dungeon Masters, magic, home invaders, an exhibitionist, and a dungeon.
+
+#### See product details for:
+
+Audible Logo
+
+You will be charged USD 3.99 [...] But their victory over his longtime bully provides only a short reprieve. There are darker threats than greedy adventurers hidden deep beneath Lostbarrow, and more enemies await in the city above.
+
+Gabriel's new life as a Dungeon Master has been filled with violence. But after bonding two incredible monster girls, he wouldn't dare change a thing.  
+With their help, he might be able to last long enough to settle into his role, if he can recover the stolen crystal before it's too late. [...] Gabriel has five powerful women at his side, rapidly growing magical might, vast wealth, and the incredible power of a Dungeon Core at his command, but is that enough to triumph against the extradimensional Swarm threatening to conquer the world?
+
+You will be charged USD 4.99
+
+By placing your order, you're purchasing a license to the content and you agree to the Kindle Store Terms of Use.
+
+Sold by: Amazon.com Services LLC
+
+##### Or
+
+## Explore more in similar genres",,,0,weak,,general
+5200620,web_result,unknown_date,https://www.amazon.com/Dungeon-Bound/dp/B08FHVWW4Q,Dungeon Bound (7 book series) Kindle Edition,"But their victory over his longtime bully provides only a short reprieve. There are darker threats than greedy adventurers hidden deep beneath Lostbarrow, and more enemies await in the city above.
+
+Gabriel's new life as a Dungeon Master has been filled with violence. But after bonding two incredible monster girls, he wouldn't dare change a thing.  
+With their help, he might be able to last long enough to settle into his role, if he can recover the stolen crystal before it's too late. [...] Now, bonded to three incredible monster girls and a charming young Dungeon Core, he can’t even imagine going back to his old life.
+
+He’s killed dozens of guards and brought down the baron, trapping the man’s soul in a crystal. Mated with a hellhound, then avenged her old Pack by cutting down a monstrous arachne.
+
+When that battle almost cost Gabriel his life, he bonded with a feisty werebadger.
+
+But while his allies grow, time is running out for his Dungeon Core. [...] It’s a lot to handle for a mage who spent his whole life cloistered away in the Academy, but Gabriel is willing to do anything to protect his new life.
+
+#### See product details for:
+
+Audible Logo
+
+You will be charged USD 4.99
+
+By placing your order, you're purchasing a license to the content and you agree to the Kindle Store Terms of Use.
+
+Sold by: Amazon.com Services LLC
+
+##### Or
+
+Dungeon Bound 4
+
+### Dungeon Bound 4",,,0,weak,,general
+5200620,web_result,unknown_date,https://fanfiaddict.com/review-the-dungeon-book-by-gareth-hanrahan,Review: The Dungeon Book by Gareth Hanrahan | FanFiAddict,"Skip to primary sidebar
+
+FanFiAddict
+
+A gaggle of nerds talking about Fantasy, Science Fiction, and everything in-between. They also occasionally write reviews about said books. 2x Stabby Award-Nominated and home to the Stabby Award-Winning TBRCon.
+
+# Review: The Dungeon Book by Gareth Hanrahan
+
+by Will Swardstrom Leave a Comment
+
+Rating: 8.75/10 [...] I very much enjoyed Gareth Hanrahan’s The Dungeon Book, and recommend it, particularly if you enjoy cozy, fairy tale-like fantasy stories, especially if the young girl’s friends just happen to be goblins and minotaurs.
+
+Thank you to Orbit Books for providing this book for review consideration via NetGalley. All opinions are my own.
+
+#### About Will Swardstrom [...] I read this book very quickly, but even as I was about two-thirds of the way through I asked myself how and why? The more I thought about it, I came up with a description for this novel — Propulsive Lethargy. I felt the book puhing me along, taking me from one aspect of the dungeon to the next or one aspect of Bait’s life to the next, but as we went and traveled the dungeon’s levels, Hanrahan was more than content to let the moments marinate a little along the way. It has elements of cozy",,,0,weak,,general
+5200620,web_result,unknown_date,https://www.facebook.com/AuthorBastianKnight/posts/hey-folks-im-back-just-pressed-publish-on-dungeon-bound-7-and-now-its-in-the-han/1811233536615610,Dungeon Bound 7 by Bastian Knight,"Just pressed publish on Dungeon Bound 7, and now it's in the hands of almighty Amazon. Podium will be publishing the first audiobook soon.",,,0,weak,,general
+5200620,web_result,unknown_date,https://www.amazon.com/Dungeon-Bound-Book/dp/B0FL3PBYLR,"Dungeon Bound, Book 6 (Audible Audio Edition)","Length 22 hours and 31 minutes Author Bastian Knight Narrator Andrea Parsneau Publication date September 9, 2025 Language English Publisher Podium Audio",,,0,weak,,general
+5200620,web_result,unknown_date,https://www.audible.com/series/Dungeon-Bound-Audiobooks/B08GLFTGXH,Dungeon Bound Audiobooks,"Dungeon Bound Publisher's summary ... Gabriel was a successful magic student until a classmate framed him, forcing him to join the Adventurer's Guild to survive.",,,0,weak,,general

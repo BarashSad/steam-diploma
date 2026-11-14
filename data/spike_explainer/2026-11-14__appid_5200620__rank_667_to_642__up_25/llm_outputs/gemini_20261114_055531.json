@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-14T05:55:31.781732+00:00",
+    "timestamp": "20261114_055531",
+    "input_file": "data/spike_explainer/2026-11-14__appid_5200620__rank_667_to_642__up_25/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-14__appid_5200620__rank_667_to_642__up_25/llm_outputs/gemini_20261114_055531.md",
+    "game_title": "Dungeonbound",
+    "appid": "5200620",
+    "duration_sec": 22.88,
+    "response_length": 5965,
+    "error": null
+}

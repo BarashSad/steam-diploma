@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5200620,Dungeonbound,"""Dungeonbound"" Steam",general,1,tavily,True,,5
+5200620,Dungeonbound,"""Dungeonbound"" trailer",general,1,tavily,True,,5
+5200620,Dungeonbound,"""Dungeonbound"" gameplay",general,1,tavily,True,,5
+5200620,Dungeonbound,"""Dungeonbound"" demo",general,1,tavily,True,,5
+5200620,Dungeonbound,"""Dungeonbound"" release date",general,1,tavily,True,,5
+5200620,Dungeonbound,"""Dungeonbound"" announcement",general,1,tavily,True,,5
+5200620,Dungeonbound,"""Dungeonbound"" preview",general,1,tavily,True,,5
+5200620,Dungeonbound,"""Dungeonbound"" review",general,1,tavily,True,,5
+5200620,Dungeonbound,"""Dungeonbound"" publisher",general,1,tavily,True,,5
+5200620,Dungeonbound,"""Dungeonbound"" developer",general,1,tavily,True,,5
+5200620,Dungeonbound,"site:pcgamer.com ""Dungeonbound""",press,2,tavily,False,General budget exhausted,0
+5200620,Dungeonbound,"site:rockpapershotgun.com ""Dungeonbound""",press,2,tavily,False,General budget exhausted,0
+5200620,Dungeonbound,"site:ign.com ""Dungeonbound""",press,2,tavily,False,General budget exhausted,0
+5200620,Dungeonbound,"site:gamespot.com ""Dungeonbound""",press,2,tavily,False,General budget exhausted,0
+5200620,Dungeonbound,"site:game8.co ""Dungeonbound""",press,2,tavily,False,General budget exhausted,0
+5200620,Dungeonbound,"site:reddit.com ""Dungeonbound""",social,3,tavily,True,,5
+5200620,Dungeonbound,"site:tiktok.com ""Dungeonbound""",social,4,tavily,True,,5
+5200620,Dungeonbound,"site:instagram.com ""Dungeonbound""",social,4,tavily,True,,5
+5200620,Dungeonbound,"site:x.com ""Dungeonbound""",social,4,tavily,True,,5
+5200620,Dungeonbound,"site: ""Dungeonbound""",social,4,tavily,True,,5

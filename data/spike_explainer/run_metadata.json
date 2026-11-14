@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-11-13T19:35:39.690377+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261113_192614/rank_changes.csv",
-    "selected_appid": "4528040",
-    "selected_game_title": "Sol One",
+    "started_at": "2026-11-14T05:55:31.685280+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261114_054649/rank_changes.csv",
+    "selected_appid": "5200620",
+    "selected_game_title": "Dungeonbound",
     "top_n": 1,
-    "old_snapshot_date": "2026-11-10",
-    "new_snapshot_date": "2026-11-13",
+    "old_snapshot_date": "2026-11-11",
+    "new_snapshot_date": "2026-11-14",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-13T19:35:39.690394+00:00",
+    "finished_at": "2026-11-14T05:55:31.685297+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
