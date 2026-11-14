@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3680170,Mortuus,Mortuus,313,311,2,2,up,none,Free,Free,False,"Jan 11, 2027",2027,True
+4814120,ANANTA,ANANTA,88,88,0,0,stable,none,Free,Free,False,"Jan 15, 2027","Jan 14, 2027",True
+3725190,There Are No Ghosts at the Grand,There Are No Ghosts at the Grand,302,302,0,0,stable,none,Unpriced (Coming Soon),Free,True,December 2026,Coming soon,True
+3018390,PSYCHO DEAD,PSYCHO DEAD,881,881,0,0,stable,none,Unpriced (Coming Soon),Free,True,Q4 2026,Coming soon,True

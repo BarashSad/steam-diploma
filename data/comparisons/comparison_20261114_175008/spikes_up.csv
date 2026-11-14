@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4139890,TROLLHEIM: GNOMES,TROLLHEIM: GNOMES,712,683,29,29,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+5200620,Dungeonbound,Dungeonbound,642,614,28,28,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 15, 2026","Nov 15, 2026",False
+5185750,Trafficity,Trafficity,459,439,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 16, 2026","Nov 16, 2026",False
+3724300,Toto's Journey,Toto's Journey,670,650,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 18, 2026","Nov 18, 2026",False

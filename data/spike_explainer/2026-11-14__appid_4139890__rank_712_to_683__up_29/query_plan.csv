@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4139890,TROLLHEIM: GNOMES,"""TROLLHEIM: GNOMES"" Steam",general,1,tavily,True,,5
+4139890,TROLLHEIM: GNOMES,"""TROLLHEIM: GNOMES"" trailer",general,1,tavily,True,,5
+4139890,TROLLHEIM: GNOMES,"""TROLLHEIM: GNOMES"" gameplay",general,1,tavily,True,,5
+4139890,TROLLHEIM: GNOMES,"""TROLLHEIM: GNOMES"" demo",general,1,tavily,True,,5
+4139890,TROLLHEIM: GNOMES,"""TROLLHEIM: GNOMES"" release date",general,1,tavily,True,,5
+4139890,TROLLHEIM: GNOMES,"""TROLLHEIM: GNOMES"" announcement",general,1,tavily,True,,5
+4139890,TROLLHEIM: GNOMES,"""TROLLHEIM: GNOMES"" preview",general,1,tavily,True,,5
+4139890,TROLLHEIM: GNOMES,"""TROLLHEIM: GNOMES"" review",general,1,tavily,True,,5
+4139890,TROLLHEIM: GNOMES,"""TROLLHEIM: GNOMES"" publisher",general,1,tavily,True,,5
+4139890,TROLLHEIM: GNOMES,"""TROLLHEIM: GNOMES"" developer",general,1,tavily,True,,5
+4139890,TROLLHEIM: GNOMES,"site:pcgamer.com ""TROLLHEIM: GNOMES""",press,2,tavily,False,General budget exhausted,0
+4139890,TROLLHEIM: GNOMES,"site:rockpapershotgun.com ""TROLLHEIM: GNOMES""",press,2,tavily,False,General budget exhausted,0
+4139890,TROLLHEIM: GNOMES,"site:ign.com ""TROLLHEIM: GNOMES""",press,2,tavily,False,General budget exhausted,0
+4139890,TROLLHEIM: GNOMES,"site:gamespot.com ""TROLLHEIM: GNOMES""",press,2,tavily,False,General budget exhausted,0
+4139890,TROLLHEIM: GNOMES,"site:game8.co ""TROLLHEIM: GNOMES""",press,2,tavily,False,General budget exhausted,0
+4139890,TROLLHEIM: GNOMES,"site:reddit.com ""TROLLHEIM: GNOMES""",social,3,tavily,True,,5
+4139890,TROLLHEIM: GNOMES,"site:tiktok.com ""TROLLHEIM: GNOMES""",social,4,tavily,True,,5
+4139890,TROLLHEIM: GNOMES,"site:instagram.com ""TROLLHEIM: GNOMES""",social,4,tavily,True,,5
+4139890,TROLLHEIM: GNOMES,"site:x.com ""TROLLHEIM: GNOMES""",social,4,tavily,True,,5
+4139890,TROLLHEIM: GNOMES,"site: ""TROLLHEIM: GNOMES""",social,4,tavily,True,,5

@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-14T18:00:24.638584+00:00",
+    "timestamp": "20261114_180024",
+    "input_file": "data/spike_explainer/2026-11-14__appid_4139890__rank_712_to_683__up_29/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-14__appid_4139890__rank_712_to_683__up_29/llm_outputs/gemini_20261114_180024.md",
+    "game_title": "TROLLHEIM: GNOMES",
+    "appid": "4139890",
+    "duration_sec": 30.51,
+    "response_length": 6560,
+    "error": null
+}

@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-11-14T05:55:31.685280+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261114_054649/rank_changes.csv",
-    "selected_appid": "5200620",
-    "selected_game_title": "Dungeonbound",
+    "started_at": "2026-11-14T18:00:24.552693+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261114_175008/rank_changes.csv",
+    "selected_appid": "4139890",
+    "selected_game_title": "TROLLHEIM: GNOMES",
     "top_n": 1,
     "old_snapshot_date": "2026-11-11",
     "new_snapshot_date": "2026-11-14",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-14T05:55:31.685297+00:00",
+    "finished_at": "2026-11-14T18:00:24.552708+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
