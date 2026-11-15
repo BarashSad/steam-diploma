@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Dungeonbound
+Analyzed: Toto's Journey
 Tavily Budget Used: 15
 Errors: 0

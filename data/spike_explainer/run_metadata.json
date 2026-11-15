@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-11-15T05:56:31.893371+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261115_054711/rank_changes.csv",
-    "selected_appid": "5200620",
-    "selected_game_title": "Dungeonbound",
+    "started_at": "2026-11-15T18:50:56.253200+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261115_184041/rank_changes.csv",
+    "selected_appid": "3724300",
+    "selected_game_title": "Toto's Journey",
     "top_n": 1,
     "old_snapshot_date": "2026-11-12",
     "new_snapshot_date": "2026-11-15",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-15T05:56:31.893387+00:00",
+    "finished_at": "2026-11-15T18:50:56.253220+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3724300,Toto's Journey,"""Toto's Journey"" Steam",general,1,tavily,True,,5
+3724300,Toto's Journey,"""Toto's Journey"" trailer",general,1,tavily,True,,5
+3724300,Toto's Journey,"""Toto's Journey"" gameplay",general,1,tavily,True,,5
+3724300,Toto's Journey,"""Toto's Journey"" demo",general,1,tavily,True,,5
+3724300,Toto's Journey,"""Toto's Journey"" release date",general,1,tavily,True,,5
+3724300,Toto's Journey,"""Toto's Journey"" announcement",general,1,tavily,True,,5
+3724300,Toto's Journey,"""Toto's Journey"" preview",general,1,tavily,True,,5
+3724300,Toto's Journey,"""Toto's Journey"" review",general,1,tavily,True,,5
+3724300,Toto's Journey,"""Toto's Journey"" publisher",general,1,tavily,True,,5
+3724300,Toto's Journey,"""Toto's Journey"" developer",general,1,tavily,True,,5
+3724300,Toto's Journey,"site:pcgamer.com ""Toto's Journey""",press,2,tavily,False,General budget exhausted,0
+3724300,Toto's Journey,"site:rockpapershotgun.com ""Toto's Journey""",press,2,tavily,False,General budget exhausted,0
+3724300,Toto's Journey,"site:ign.com ""Toto's Journey""",press,2,tavily,False,General budget exhausted,0
+3724300,Toto's Journey,"site:gamespot.com ""Toto's Journey""",press,2,tavily,False,General budget exhausted,0
+3724300,Toto's Journey,"site:game8.co ""Toto's Journey""",press,2,tavily,False,General budget exhausted,0
+3724300,Toto's Journey,"site:reddit.com ""Toto's Journey""",social,3,tavily,True,,5
+3724300,Toto's Journey,"site:tiktok.com ""Toto's Journey""",social,4,tavily,True,,5
+3724300,Toto's Journey,"site:instagram.com ""Toto's Journey""",social,4,tavily,True,,5
+3724300,Toto's Journey,"site:x.com ""Toto's Journey""",social,4,tavily,True,,5
+3724300,Toto's Journey,"site: ""Toto's Journey""",social,4,tavily,True,,5
