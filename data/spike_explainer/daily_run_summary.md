@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: TROLLHEIM: GNOMES
+Analyzed: Dungeonbound
 Tavily Budget Used: 15
 Errors: 0
