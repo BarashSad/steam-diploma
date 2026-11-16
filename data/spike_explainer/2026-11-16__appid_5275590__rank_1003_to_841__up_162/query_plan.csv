@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5275590,Dirt Town,"""Dirt Town"" Steam",general,1,tavily,True,,5
+5275590,Dirt Town,"""Dirt Town"" trailer",general,1,tavily,True,,5
+5275590,Dirt Town,"""Dirt Town"" gameplay",general,1,tavily,True,,5
+5275590,Dirt Town,"""Dirt Town"" demo",general,1,tavily,True,,5
+5275590,Dirt Town,"""Dirt Town"" release date",general,1,tavily,True,,5
+5275590,Dirt Town,"""Dirt Town"" announcement",general,1,tavily,True,,5
+5275590,Dirt Town,"""Dirt Town"" preview",general,1,tavily,True,,5
+5275590,Dirt Town,"""Dirt Town"" review",general,1,tavily,True,,5
+5275590,Dirt Town,"""Dirt Town"" publisher",general,1,tavily,True,,5
+5275590,Dirt Town,"""Dirt Town"" developer",general,1,tavily,True,,5
+5275590,Dirt Town,"site:pcgamer.com ""Dirt Town""",press,2,tavily,False,General budget exhausted,0
+5275590,Dirt Town,"site:rockpapershotgun.com ""Dirt Town""",press,2,tavily,False,General budget exhausted,0
+5275590,Dirt Town,"site:ign.com ""Dirt Town""",press,2,tavily,False,General budget exhausted,0
+5275590,Dirt Town,"site:gamespot.com ""Dirt Town""",press,2,tavily,False,General budget exhausted,0
+5275590,Dirt Town,"site:game8.co ""Dirt Town""",press,2,tavily,False,General budget exhausted,0
+5275590,Dirt Town,"site:reddit.com ""Dirt Town""",social,3,tavily,True,,5
+5275590,Dirt Town,"site:tiktok.com ""Dirt Town""",social,4,tavily,True,,5
+5275590,Dirt Town,"site:instagram.com ""Dirt Town""",social,4,tavily,True,,5
+5275590,Dirt Town,"site:x.com ""Dirt Town""",social,4,tavily,True,,5
+5275590,Dirt Town,"site: ""Dirt Town""",social,4,tavily,True,,5
