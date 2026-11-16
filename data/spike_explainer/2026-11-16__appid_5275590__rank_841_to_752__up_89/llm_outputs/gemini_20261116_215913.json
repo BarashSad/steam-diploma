@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-16T21:59:13.881228+00:00",
+    "timestamp": "20261116_215913",
+    "input_file": "data/spike_explainer/2026-11-16__appid_5275590__rank_841_to_752__up_89/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-16__appid_5275590__rank_841_to_752__up_89/llm_outputs/gemini_20261116_215913.md",
+    "game_title": "Dirt Town",
+    "appid": "5275590",
+    "duration_sec": 21.38,
+    "response_length": 5206,
+    "error": null
+}

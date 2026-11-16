@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-11-16T05:55:38.835140+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261116_054645/rank_changes.csv",
+    "started_at": "2026-11-16T21:59:13.786903+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261116_215028/rank_changes.csv",
     "selected_appid": "5275590",
     "selected_game_title": "Dirt Town",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-16T05:55:38.835157+00:00",
+    "finished_at": "2026-11-16T21:59:13.786929+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
