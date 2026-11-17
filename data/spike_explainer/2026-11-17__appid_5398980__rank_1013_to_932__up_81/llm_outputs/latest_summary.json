@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-17T20:50:00.909618+00:00",
+    "timestamp": "20261117_205000",
+    "input_file": "data/spike_explainer/2026-11-17__appid_5398980__rank_1013_to_932__up_81/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-17__appid_5398980__rank_1013_to_932__up_81/llm_outputs/gemini_20261117_205000.md",
+    "game_title": "Hitch Happens",
+    "appid": "5398980",
+    "duration_sec": 18.27,
+    "response_length": 6404,
+    "error": null
+}

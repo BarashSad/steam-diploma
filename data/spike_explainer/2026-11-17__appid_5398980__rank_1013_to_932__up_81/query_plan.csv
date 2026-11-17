@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5398980,Hitch Happens,"""Hitch Happens"" Steam",general,1,tavily,True,,5
+5398980,Hitch Happens,"""Hitch Happens"" trailer",general,1,tavily,True,,5
+5398980,Hitch Happens,"""Hitch Happens"" gameplay",general,1,tavily,True,,5
+5398980,Hitch Happens,"""Hitch Happens"" demo",general,1,tavily,True,,5
+5398980,Hitch Happens,"""Hitch Happens"" release date",general,1,tavily,True,,5
+5398980,Hitch Happens,"""Hitch Happens"" announcement",general,1,tavily,True,,5
+5398980,Hitch Happens,"""Hitch Happens"" preview",general,1,tavily,True,,5
+5398980,Hitch Happens,"""Hitch Happens"" review",general,1,tavily,True,,5
+5398980,Hitch Happens,"""Hitch Happens"" publisher",general,1,tavily,True,,5
+5398980,Hitch Happens,"""Hitch Happens"" developer",general,1,tavily,True,,5
+5398980,Hitch Happens,"site:pcgamer.com ""Hitch Happens""",press,2,tavily,False,General budget exhausted,0
+5398980,Hitch Happens,"site:rockpapershotgun.com ""Hitch Happens""",press,2,tavily,False,General budget exhausted,0
+5398980,Hitch Happens,"site:ign.com ""Hitch Happens""",press,2,tavily,False,General budget exhausted,0
+5398980,Hitch Happens,"site:gamespot.com ""Hitch Happens""",press,2,tavily,False,General budget exhausted,0
+5398980,Hitch Happens,"site:game8.co ""Hitch Happens""",press,2,tavily,False,General budget exhausted,0
+5398980,Hitch Happens,"site:reddit.com ""Hitch Happens""",social,3,tavily,True,,5
+5398980,Hitch Happens,"site:tiktok.com ""Hitch Happens""",social,4,tavily,True,,5
+5398980,Hitch Happens,"site:instagram.com ""Hitch Happens""",social,4,tavily,True,,5
+5398980,Hitch Happens,"site:x.com ""Hitch Happens""",social,4,tavily,True,,5
+5398980,Hitch Happens,"site: ""Hitch Happens""",social,4,tavily,True,,5
