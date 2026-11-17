@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-16T21:58:50.783722+00:00,5275590,Dirt Town,data/spike_explainer/2026-11-16__appid_5275590__rank_841_to_752__up_89,89,85,data/spike_explainer/2026-11-16__appid_5275590__rank_841_to_752__up_89/llm_summary_input.md
+2026-11-17T07:33:22.299443+00:00,5275590,Dirt Town,data/spike_explainer/2026-11-17__appid_5275590__rank_752_to_723__up_29,29,85,data/spike_explainer/2026-11-17__appid_5275590__rank_752_to_723__up_29/llm_summary_input.md
