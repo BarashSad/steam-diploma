@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3724300,Toto's Journey,Toto's Journey,454,434,20,20,up,upward_spike,Unpriced (Coming Soon),Free,True,"Nov 18, 2026",Coming soon,True
+1872970,Food Truck Empire,Food Truck Empire,653,654,-1,1,down,none,Unpriced (Coming Soon),Free,True,2026,Coming soon,True
+2322260,Don't Kill Them All,Don't Kill Them All,855,856,-1,1,down,none,Unpriced (Coming Soon),Free,True,Q4 2026,2027,True
+2571410,500 CALIBER CONTRACTZ,500 CALIBER CONTRACTZ,975,974,1,1,up,none,Unpriced (Coming Soon),Free,True,2026,Coming soon,True
+2828020,Citystate Metropolis,Citystate Metropolis,163,163,0,0,stable,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,2026,"Dec 10, 2026",True

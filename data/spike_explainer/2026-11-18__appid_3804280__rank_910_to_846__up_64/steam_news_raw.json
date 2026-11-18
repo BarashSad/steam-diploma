@@ -1,0 +1,91 @@
+{
+    "appnews": {
+        "appid": 3804280,
+        "newsitems": [
+            {
+                "gid": "1849192144184053",
+                "title": "Cartoon-styled \"lite-vania\" Lola's Familiars: Prison of Argnoh will have you springing yourself, and your summoned pals, from magic jail",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1849192144184053",
+                "is_external_url": true,
+                "author": "",
+                "contents": "sharing trailers from non-Geoff awards shows , here's another: a first in-motion look at Lola's Familiars: Prison of Argnoh, a 2D side-scroller and \"lite-vania\" that sees its shy witch-in-training making her first summonable friends. Then, borrowing their powers to bust out of a dark fantasy oubliette. <a href=\"https://www.rockpapershotgun.com/cartoon-styled-lite-vania-lolas-familiars-prison-of-argnoh-will-have-you-springing-yourself-and-your-summoned-pals-from-magic-jail\">Read more</a> ",
+                "feedlabel": "Rock, Paper, Shotgun",
+                "date": 1794503280,
+                "feedname": "Rock, Paper, Shotgun",
+                "feed_type": 0,
+                "appid": 3804280
+            },
+            {
+                "gid": "1849192144179958",
+                "title": "Lola's Familiars at the Golden Joystick Awards!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144179958",
+                "is_external_url": true,
+                "author": "[GH] Pinco",
+                "contents": "We finally got to share the first proper look at Lola's Familiars, during this year's Golden Joystick Awards, featuring our very first animated trailer alongside a gameplay reveal!A first proper look at Lola's Familiars.We're everyday closer to bringing Lola's adventure to life and we can't wait to let you live this epic fable! Lola\u2019s universe is filled with magic, dark fantasy atmospheres and plenty of secrets that you\u2019ll want to discover. This trailer was just a first proper look at Lola\u2019s Familiars. There's so much more to show than what we've shown so far, and we can't wait to give you a deeper look at everything we've been creating! A journey made together. A huge thank you to every fan who's been following and supporting Lola over the years, and to everyone who's recently joined us on this journey. Your enthusiasm means a lot to us and is a big part of what keeps this project growing!This trailer was developed in collaboration with the talented artists at Underdogz Animation Studio, who helped us bringing to life this cute and mysterious new trailer, so thank you to them too.This is just the beginning for Lola's Familiars, there's still plenty more to come. We're making this dark fantasy lite-vania adventure with love and passion, and we can't wait to share everything we planned.Wishlist Now!",
+                "feedlabel": "Community Announcements",
+                "date": 1794423052,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3804280,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_487176015_1794424633_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1847920302252288",
+                "title": "[DEV-BLOG #2] From Concept to Game: Building Lola\u2019s Familiars",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302252288",
+                "is_external_url": true,
+                "author": "[GH] Pinco",
+                "contents": "Hello everyone!In our first Dev Blog, we talked about how Lola\u2019s Familiars came to life and how Hongga spent years developing its characters and visual identity. This time, we're taking a closer look at what happened when Caracal Games joined the project, what we kept from the original concept, and how we turned it into the game we're building today! Before Caracal: A World Already Taking ShapeWhen we joined the project, Hongga had already spent years working on character designs and animations. He had even created an entire first demo on his own, backgrounds included. The original pitch, the foundations of the world, and the identities of the main characters were already in place.Before moving into full production, we realized a second demo. We did so in order to start working closely with Hongga on revising animations and testing our first production pipelines. It was an important step in figuring out how to bring our different skills together and to better understand the optimal workflow. Keeping the Heart of Lola\u2019s FamiliarsOne thing was never in question: Lola and all the other characters Hongga created are at the heart of the game.Their designs had already gone through many iterations, so there was no need for a complete visual overhaul. The only exception is the Cleric, whose current appearance combines elements from several earlier versions.Instead of redesigning the cast, we built many of our own creative decisions around it. From the camera to the environments, we wanted everything to complement the characters and give their personalities room to shine. Building the Game from the Ground UpOnce full production began, our focus shifted to building the game itself. We established the overall game design, programmed the systems from scratch, and created new environments.Many of Lola's animations were also reworked with Hongga, to better adapt them to the actual game, while the animations for the Familiars and enemies were left untouched. So, while we essentially rebuilt the game's underlying structure from the ground up, that doesn't mean every existing asset or animation was replaced.It's been a process of combining what was already working with everything needed to turn the original concept into a complete game. An \u201980s-Inspired Visual IdentitySince the visual style was already inspired by the \u201980s and \u201990s, we thought it would be fun to experiment with VHS and CRT effects. Once we tried them out, we really liked how they looked and felt they were a perfect fit for the game.While the original concept already established the general themes of the environments, their specific visual designs were developed by Caracal Games. The same goes for the narrative: the original worldbuilding provided a foundation, but the more specific story we're developing today is our own contribution.We can't reveal too much about the story just yet, but we can't wait to share more as development progresses! And We're Just Getting Started!Looking back, Lola\u2019s Familiars has come a long way, from Hongga's original character designs and early demos to the game we're developing together today.Our goal has always been to preserve what made the project special while building an experience that feels cohesive, distinctive, and fun to play.There's still plenty of work ahead, and we're excited to show you more of what we're cooking up. Thanks for keeping following the journey, and see you in the next Dev Blog!",
+                "feedlabel": "Community Announcements",
+                "date": 1793717301,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3804280
+            },
+            {
+                "gid": "1842212951303205",
+                "title": "[DEV-BLOG #1] Let\u2019s talk about Lola\u2019s Familiars!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951303205",
+                "is_external_url": true,
+                "author": "[GH] Pinco",
+                "contents": "Hello everyone! Curious to know how Lola\u2019s Familiars came to life? In this first Dev Blog, we\u2019re taking you behind the scenes to discover the origins of the project and how it evolved from its original vision into the game we\u2019re developing today. Lola\u2019s Familiars had already been growing for several years thanks to its original creator and artist, Hongga. For around five years, he developed its visual identity, characters, illustrations, animations, and many of the ideas that became the foundation of the project, so let's let him speak! From lockdown sketches to a bigger vision Hongga: The idea started during COVID, when I was stuck at home with almost nothing to do and felt like I was going a little crazy. Around that time, a friend recommended that I start sharing my artwork on social media. Fortunately, many people liked it, and I often received questions asking whether I was making a game. To be honest, I didn\u2019t have any serious plans at first. I simply began drawing and posting small game concepts every week. One day, I watched some gameplay from Skullgirls and was amazed by how expressive and interesting the characters and animations were. That was the moment I seriously thought, \u201cMaybe I should actually make a game.\u201d That\u2019s how the idea began.Why Lola and the Familiars?Hongga: Ever since I was young, I\u2019ve loved the idea of summoning creatures and fighting alongside them. I also really liked the contrast of a small, cute character being protected by much larger and more dangerous characters. There wasn\u2019t one specific inspiration behind Lola and the Familiars. I simply wanted to draw a small, cute character protected by four dangerous monsters, each with a different specialized strength. From there, I gradually matched each role with a monster concept and explored the ideas through many small sketches. Those concepts and sketches eventually developed into the current designs of Lola and her Familiars. Down below you can find a pic of me at work! Growing together with the communityHongga: In the beginning, I wasn\u2019t sure how to communicate with the audience, so I rarely replied publicly and mostly responded only to direct messages. However, as I continued sharing my work, many people kindly offered their own ideas and feedback. Some of those suggestions helped me discover ideas with a lot of potential. I still remember revising and reposting one of my drawings based on someone\u2019s comment. They were incredibly happy to see their idea reflected in the artwork, and seeing their reaction made me even happier. Of course, now that the game is further into production, I can\u2019t change its concepts and ideas as freely or as often as I could back then. Still, I remember that early interaction with the community as one of the most enjoyable and rewarding parts of creating the game.From an idea to a gameAnd this is where our story begins to overlap with Hongga's! After years of developing the characters and visual identity of Lola's Familiars, the project eventually reached a point where it could become something bigger. That's when Caracal Games entered the picture. We were immediately fascinated by Hongga's creative vision and this naturally led to our partnership. Over the past year we\u2019ve been working together to bring Lola\u2019s Familiars to life as a game, and we\u2019re really excited about what we\u2019ve achieved so far! But how did that collaboration come about, what has changed since we joined the project and on what we\u2019re working right now? That's maybe a story for the next Dev Blog. See you next time!",
+                "feedlabel": "Community Announcements",
+                "date": 1787923167,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3804280
+            },
+            {
+                "gid": "1839041357037986",
+                "title": "Join our first developer AMA",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037986",
+                "is_external_url": true,
+                "author": "Caracal Games",
+                "contents": "Hey everyone!We're hosting our very first AMA (Ask Me Anything) for Lola's Familiars!Whether you're curious about the game's development, the art direction, inspirations, or just want to chat with Hongga and the rest of the team, this is your chance!Join the discussion on Reddit!We've already opened the AMA thread, so you can start leaving your questions right now, we'll answer them live during the event.Join the AMA here: Ask anything to the dev team! We can't wait to chat with all of you. See you there!When?August 7th at 14:00 UTC\ud83c\udf0d Time zonesRome / Paris: 16:00 CESTLondon: 15:00 BSTAthens: 17:00 EESTNew York: 10:00 EDTSan Francisco: 07:00 PDTS\u00e3o Paulo: 11:00 BRTHong Kong: 22:00 HKTTokyo: 23:00 JSTSydney: 00:00 AEST (next day)",
+                "feedlabel": "Community Announcements",
+                "date": 1785236761,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3804280
+            },
+            {
+                "gid": "1835236783556673",
+                "title": "Announcing Lola's Familiars: Prison of Argnoh",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783556673",
+                "is_external_url": true,
+                "author": "Caracal Games",
+                "contents": "Hello everyone!We\u2019re excited to finally reveal what we\u2019ve been working on: Lola\u2019s Familiars: Prison of Argnoh, thanks for the incredible response to the announcement on all social: you guys are the best! Lola's Familiars is an anime-inspired lite-vania adventure where you'll guide Lola through a mysterious demonic underworld prison.Check out the full Steam page:The game announcement is on Instagram, take a look if you missed it!Watch the Instagram video: https://www.instagram.com/p/DZPuHYeyd8W/We\u2019ll have plenty more to share in the coming months, but for now if Lola\u2019s Familiars has caught your attention, adding it to your Steam wishlist, following our socials and spreading the word are the biggest ways you can help us right now.Finally, a huge thank you to everyone who watched the announcement, shared it, left a comment, or sent us kind messages after the reveal.\u00a0Thank you for being part of this journey,Caracal Games ",
+                "feedlabel": "Community Announcements",
+                "date": 1781074355,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 3804280
+            }
+        ],
+        "count": 6
+    }
+}
