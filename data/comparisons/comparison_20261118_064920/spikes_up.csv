@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3804280,Lola's Familiars: Prison of Argnoh,Lola's Familiars: Prison of Argnoh,975,910,65,65,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+5398980,Hitch Happens,Hitch Happens,932,879,53,53,up,upward_spike,Free,Free,False,Q2 2027,Q2 2027,False
+5275590,Dirt Town,Dirt Town,676,646,30,30,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Dec 4, 2026","Dec 4, 2026",False
+5189950,Winx Club - Moonlight Quest,Winx Club - Moonlight Quest,608,588,20,20,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 29, 2026","Nov 29, 2026",False

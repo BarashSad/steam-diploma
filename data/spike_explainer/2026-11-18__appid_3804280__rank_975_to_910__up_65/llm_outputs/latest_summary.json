@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-18T06:58:11.330823+00:00",
+    "timestamp": "20261118_065811",
+    "input_file": "data/spike_explainer/2026-11-18__appid_3804280__rank_975_to_910__up_65/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-18__appid_3804280__rank_975_to_910__up_65/llm_outputs/gemini_20261118_065811.md",
+    "game_title": "Lola's Familiars: Prison of Argnoh",
+    "appid": "3804280",
+    "duration_sec": 20.29,
+    "response_length": 6310,
+    "error": null
+}

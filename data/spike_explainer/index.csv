@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-17T20:49:40.404925+00:00,5398980,Hitch Happens,data/spike_explainer/2026-11-17__appid_5398980__rank_1013_to_932__up_81,81,70,data/spike_explainer/2026-11-17__appid_5398980__rank_1013_to_932__up_81/llm_summary_input.md
+2026-11-18T06:57:49.357615+00:00,3804280,Lola's Familiars: Prison of Argnoh,data/spike_explainer/2026-11-18__appid_3804280__rank_975_to_910__up_65,65,85,data/spike_explainer/2026-11-18__appid_3804280__rank_975_to_910__up_65/llm_summary_input.md
