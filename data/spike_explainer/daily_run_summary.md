@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: Lola's Familiars: Prison of Argnoh
+Analyzed: No Asteroids
 Tavily Budget Used: 15
 Errors: 0

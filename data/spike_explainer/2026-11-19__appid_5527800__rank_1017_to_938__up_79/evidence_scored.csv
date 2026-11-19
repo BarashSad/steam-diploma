@@ -1,0 +1,1869 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+5527800,steam_news,inside_spike_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110425185,"50,000 wishlists! Join us on Discord",,"Hi everyone! No Asteroids has reached 50,000 wishlists on Steam. Thank you! Whether you’ve played the demo, shared the game with a friend, or sent us feedback — thank you for helping the game get here. We’ve also set up a Discord server for No Asteroids. Come chat about the game, share screenshots, ",demo,90,very_strong,Inside spike window (+30); Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+5527800,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=6WgE1vireNA,No Asteroids Game trailer,,No Asteroids Game trailer.,trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5527800,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=-FTqNWg6FSY,No Asteroids - Story Trailer | Incremental Mining,,"Dig through 5000000 m³ of an asteroid threatening Earth, sell the ore, and buy guns for your ship. Your ship fires while you keep ...",trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5527800,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=W2DjakVEs_w,I Spent 32 DAYS Destroying a 10 MILLION m³ ASTEROID! | No Asteroids,,"This is No Asteroids Gameplay by OutbackBiff. An asteroid will hit Earth in 90 days. The government held a tender, and one miner ...",gameplay,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+5527800,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=uBuWZkZPiZ0,Asteroid is going to hit earth! // No Asteroids Demo // EP 1,,We need to destroy the asteroid before it hits! Let's start digging! An asteroid will hit Earth in 90 days. The government held a ...,demo,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+5527800,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702682958,"25,000 wishlists! Thank you so much for your support!",,"Hi everyone, No Asteroids has reached 25,000 wishlists. Thank you for adding the game and sharing it with your friends! Thank you also to everyone playing the demo and sending feedback. Your bug reports help us get the game ready for release. https://clan.fastly.steamstatic.com/images/46669689/3cebf",demo,75,strong,Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+5527800,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144183924,The No Asteroids demo now supports controllers,,"Grab a controller and take a shift on the asteroid. You can swing your pickaxe with the right trigger, then head back to the ship and use the right stick to sell your haul at the trade terminal. Open the gamepad settings to adjust stick sensitivity, invert the vertical look axis, or toggle rumble. W",demo,75,strong,Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+5527800,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360661,The No Asteroids demo is out now,,"The free No Asteroids demo is available now! Five million cubic metres of asteroid are heading for Earth. You have a pickaxe, a spaceship, and a job to do. Play the first 15 days: mine the asteroid, sell what you bring back, upgrade your equipment, and explore your ship between shifts. Your save car",demo,75,strong,Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+5527800,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=DOtBMxA7U-g,No Asteroids | Announcement Trailer,,Dig away a 5000000 m³ asteroid in first person before it hits Earth. It comes out on Steam on November 24. Add it to your wishlist: ...,"trailer, announcement",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+5527800,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=1CkSMLnPCbw,No Asteroids | Gameplay Trailer,,Dig away a 5000000 m³ asteroid in first person before it hits Earth. It comes out on Steam on November 24. Add it to your wishlist: ...,"trailer, gameplay",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",
+5527800,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=I3FN9UxIcfY,No Asteroids | Co-op Trailer,,The full game of No Asteroids has online co-op for up to 8 players. An asteroid of five million cubic meters is flying to Earth.,trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5527800,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=qgReC5DUCKg,I Have 90 DAYS to Destroy an ASTEROID Before It Hits Earth! | No Asteroids [First Look],,"This is No Asteroids gameplay by OutbackBiff. An asteroid will hit Earth in 90 days. The government held a tender, and one miner ...",gameplay,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+5527800,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=NN3XbOa_iT0,"I Bought a $600,000 ROCKET LAUNCHER to BLOW UP an ASTEROID! | No Asteroids [02]",,"This is No Asteroids gameplay by OutbackBiff. An asteroid will hit Earth in 90 days. The government held a tender, and one miner ...",gameplay,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+5527800,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=oj2soZkqejs,Mining An ASTEROID To Save The Planet! No Asteroids Demo,,"An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no ...",demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+5527800,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=oj2soZkqejs,Mining An ASTEROID To Save The Planet! No Asteroids Demo,,"An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no ...",demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+5527800,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=qgReC5DUCKg,I Have 90 DAYS to Destroy an ASTEROID Before It Hits Earth! | No Asteroids [First Look],,"This is No Asteroids gameplay by OutbackBiff. An asteroid will hit Earth in 90 days. The government held a tender, and one miner ...",gameplay,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+5527800,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=f5jIcxJVymM,90 DAYS to Save Earth With a PICKAXE?! | No Asteroids Demo Impressions,,"I have checked out the No Asteroids demo, and it was a lot more fun than I expected. You've got 90 days to stop an asteroid hitting ...",demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+5527800,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=6pnhES93OcY,I Destroyed 99.9% of an ASTEROID... But ONE ROCK Hit Earth! | No Asteroids [04],,"This is No Asteroids gameplay by OutbackBiff. An asteroid will hit Earth in 90 days. The government held a tender, and one miner ...",gameplay,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+5527800,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=Bgif52fGvps,Mining To Destroy An Asteroid Before It Hits Earth ~ No Asteroids,,"An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no ...",,65,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20),
+5527800,reddit_discussion,unknown_date,https://www.reddit.com/r/indiegames/comments/1xkne4v/no_asteroids_announcement_trailer,No Asteroids - Announcement Trailer : r/indiegames - Reddit,"No Asteroids - Announcement Trailer ... This video cannot be played. ... Players mine asteroids in space with futuristic tools, facing an impending",,"trailer, announcement",50,medium,"Reddit (+10); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+5527800,social_post,unknown_date,https://www.tiktok.com/@unruledgames/video/7706605311905303840,Free Demo Out on Steam! Dig an Asteroid in 90 Days - TikTok,"In the game ""No Asteroids,"" you are a lone pilot with a monumental task. See that dot? That's you. And that massive object is an asteroid",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+5527800,social_post,unknown_date,https://noasteroids.org,"No Asteroids: Demo, Price, Co-op and Release","NONO ASTEROIDS
+
+Official Steam screenshot: an astronaut on a cratered asteroid with Earth in the sky
+
+5,000,000 M³ · 90 DAYS
+
+# No Asteroids
+
+Mine 5,000,000 m³ before impact.
+
+Release 24 Nov 2026
+
+Official site price $7.99
+
+Co-op 1–8 players
+
+Platforms Windows / Mac
+
+Play the free demoWatch trailerDownload on Steam
+
+This is Unruled Games’ 2026 first-person mining game, Steam app 5527800 — not the Space Engineers “no asteroids” setting, and not Atari’s 1979 Asteroids. Which game is which. [...] See the full table
+
+| Game | Release | Price | Players | Demo | Evidence |
+ ---  ---  --- |
+| No Asteroids | 24 Nov 2026 | $7.99 | 1–8 | Yes | 1 publisher · official site |
+| Astronomics | 10 Feb 2025 | $19.99 | 1 | No store demo listed | 1 publisher · Steam store |
+| Asteroid Mining Empire | 6 Apr 2026 | $3.99 | 1 | No store demo listed | 1 publisher · Steam store |
+
+## Trailer
+
+Official Steam screenshot of first-person mining on the asteroid
+
+Steam store screenshot. Checked 2026-11-15. [...] Free demo is out now (app 5541510). Full game . Official site lists $7.99. Online co-op up to 8. Windows and Apple Silicon Mac. Developer estimate: 6–9 hours for the solo contract. Release date · Price · Co-op.
+
+Guide90 days, ore, and when to buy guns.ToolsSix mining tools, in Workshop order.Ship gunsNine guns, including Collapsar.
+
+## Best asteroid mining games 2026
+
+See the full table",,"trailer, demo, release date",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'demo', 'release date'] (+20)",social
+5527800,social_post,unknown_date,https://store.steampowered.com/app/5527800/No_Asteroids,No Asteroids on Steam,"See all 28 supported languages
+
+Title: No Asteroids  
+ Genre: Casual, Indie, Simulation  
+
+Developer: Unruled Games
+
+Publisher: Unruled Games
+
+Release Date: 24 Nov, 2026
+
+Visit the website External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+# Download No Asteroids Demo
+
+Download
+
+This game is not yet available on Steam
+
+# Planned Release Date: 24 Nov, 2026
+
+This game plans to unlock in approximately 10 days [...] All Games > Casual Games > No Asteroids
+
+Community Hub
+
+No Asteroids
+
+No Asteroids
+
+No Asteroids
+
+Developer
+
+Unruled Games
+
+Publisher
+
+Unruled Games
+
+Release
+
+24 Nov, 2026
+
+An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, solo or in online co-op for up to 8. Sell the ore and buy ship guns that fire as you dig.
+
+All Reviews: [...] The contract is for one miner, but the government does not check how many came. Up to 8 players can dig the same asteroid in online co-op. The pay is still zero. The ore money goes into one wallet, and the host decides who can spend it. Anyone who sits in the lander can start a 10-second count, or kick a friend out of the hatch. If you are not in the lander when it leaves the asteroid, you black out and lose your cargo. The campaign is the host's save, and guests keep their own game.",,"demo, release date",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['demo', 'release date'] (+20)",social
+5527800,social_post,unknown_date,https://www.youtube.com/watch?v=oj2soZkqejs,Mining An ASTEROID To Save The Planet! No Asteroids Demo,"### Transcript
+[0:00] Oh, what's going on every here? Welcome to our first look, a free demo, a game that is actually about to come out, it looks like, uh, in a few days here. This
+[0:09] is called No Asteroids. So, we're going to go ahead. We're going to hop into this. Hopefully, you all are having a wonderful day. I'm having a fantastic day. Basically, the premise of the game, [...] # Mining An ASTEROID To Save The Planet! No Asteroids Demo
+## Channel: Z1 Gaming (verified)
+657K subscribers
+1.4K likes
+
+### Description
+87,751 views
+Posted: 2026-11-15
+An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, solo or in online co-op for up to 8. Sell the ore and buy ship guns that fire as you dig.
+
+No Asteroids on Steam: [...] [0:17] there's an asteroid that is going to hit Earth in 90 days, and we have 90 days to take it out. So, anyways, um, yeah, let's go ahead. Let's get into this. So, looks like we have our lander here.
+[0:28] Okay, so we have we're on day one. I'm My gosh. So, you are here impact in 89 days. Okay. Ship control. Um I'm guessing that's the asteroid. Oh, yeah.
+[0:37] Look at that. And there's the um there's the Earth and there's the asteroid. Okay. All right. So, how do we do this?",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+5527800,web_result,unknown_date,https://noasteroids.org,"No Asteroids: Demo, Price, Co-op and Release","NONO ASTEROIDS
+
+Official Steam screenshot: an astronaut on a cratered asteroid with Earth in the sky
+
+5,000,000 M³ · 90 DAYS
+
+# No Asteroids
+
+Mine 5,000,000 m³ before impact.
+
+Release 24 Nov 2026
+
+Official site price $7.99
+
+Co-op 1–8 players
+
+Platforms Windows / Mac
+
+Play the free demoWatch trailerDownload on Steam
+
+This is Unruled Games’ 2026 first-person mining game, Steam app 5527800 — not the Space Engineers “no asteroids” setting, and not Atari’s 1979 Asteroids. Which game is which. [...] See the full table
+
+| Game | Release | Price | Players | Demo | Evidence |
+ ---  ---  --- |
+| No Asteroids | 24 Nov 2026 | $7.99 | 1–8 | Yes | 1 publisher · official site |
+| Astronomics | 10 Feb 2025 | $19.99 | 1 | No store demo listed | 1 publisher · Steam store |
+| Asteroid Mining Empire | 6 Apr 2026 | $3.99 | 1 | No store demo listed | 1 publisher · Steam store |
+
+## Trailer
+
+Official Steam screenshot of first-person mining on the asteroid
+
+Steam store screenshot. Checked 2026-11-15. [...] ## Sources
+
+ Steam store page, app 5527800 — checked 2026-11-16
+ Official game page — checked 2026-11-16
+ Steam demo, app 5541510 — checked 2026-11-16
+ Steam: Astronomics — checked 2026-11-16
+ Steam: Asteroid Mining Empire — checked 2026-11-16
+ Unruled Games: announcement trailer — title checked 2026-11-16; publication date from 2026-11-15 research",,"trailer, demo, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'announcement'] (+20)",general
+5527800,web_result,unknown_date,https://store.steampowered.com/news/app/5527800/view/698780869084578873,No Asteroids - The No Asteroids demo is out now - Steam News,"The free No Asteroids demo is available now!  
+  
+Five million cubic metres of asteroid are heading for Earth. You have a pickaxe, a spaceship, and a job to do.  
+  
+Play the first 15 days: mine the asteroid, sell what you bring back, upgrade your equipment, and explore your ship between shifts. Your save carries over to the full game on the same computer.  
+  
+The demo is available for Windows and Apple Silicon Macs. Download it from the Steam store page:  
+  
+
+Image 6: No Asteroids [...] News Bring up to seven friends into the free demo. Dig the same asteroid, share the ore money and make it back to the lander with your haul. Image 11 The No Asteroids demo now has online co-op for up to eight players News Fri, November 13, 2026 Bring up to seven friends into the free demo. Dig the same asteroid, share the ore money and make it back to the lander with your haul.
+
+About This Game:
+
+Image 12: No Asteroids
+
+Add to wishlist
+
+No Asteroids [...] Add to wishlist
+
+No Asteroids
+
+IncrementalMiningCo-opDestructionSpaceOnline Co-OpJob SimulatorSimulationPhysicsVoxel
+
+Nov 24, 2026
+
+An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, solo or in online co-op for up to 8. Sell the ore and buy ship guns that fire as you dig.
+
+Available: Nov 24, 2026
+
+Image 7: No Asteroids",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5527800,web_result,unknown_date,https://store.steampowered.com/app/5527800/No_Asteroids,No Asteroids on Steam,"The contract is for one miner, but the government does not check how many came. Up to 8 players can dig the same asteroid in online co-op. The pay is still zero. The ore money goes into one wallet, and the host decides who can spend it. Anyone who sits in the lander can start a 10-second count, or kick a friend out of the hatch. If you are not in the lander when it leaves the asteroid, you black out and lose your cargo. The campaign is the host's save, and guests keep their own game. [...] See all 28 supported languages
+
+Title: No Asteroids  
+ Genre: Casual, Indie, Simulation  
+
+Developer: Unruled Games
+
+Publisher: Unruled Games
+
+Release Date: 24 Nov, 2026
+
+Visit the website External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+# Download No Asteroids Demo
+
+Download
+
+This game is not yet available on Steam
+
+# Planned Release Date: 24 Nov, 2026
+
+This game plans to unlock in approximately 10 days [...] Recommended:  
+
++ Requires a 64-bit processor and operating system
++ OS: Windows 10 / 11 64-bit
++ Processor: Intel Core i5-10400 / AMD Ryzen 5 3600
++ Memory: 16 GB RAM
++ Graphics: GeForce GTX 1660 / Radeon RX 5600 XT, 4 GB VRAM
++ DirectX: Version 11
++ Storage: 1 GB available space
++ Additional Notes: Mouse and keyboard or a controller. Online co-op needs an internet connection.
+
+Minimum:",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+5527800,web_result,unknown_date,https://www.youtube.com/watch?v=oj2soZkqejs,Mining An ASTEROID To Save The Planet! No Asteroids Demo,"# Mining An ASTEROID To Save The Planet! No Asteroids Demo
+## Channel: Z1 Gaming (verified)
+657K subscribers
+1.4K likes
+
+### Description
+87,751 views
+Posted: 2026-11-15
+An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, solo or in online co-op for up to 8. Sell the ore and buy ship guns that fire as you dig.
+
+No Asteroids on Steam: [...] ### Transcript
+[0:00] Oh, what's going on every here? Welcome to our first look, a free demo, a game that is actually about to come out, it looks like, uh, in a few days here. This
+[0:09] is called No Asteroids. So, we're going to go ahead. We're going to hop into this. Hopefully, you all are having a wonderful day. I'm having a fantastic day. Basically, the premise of the game, [...] [35:39] whole bunch of fun stuff here. But I guess that's going to end it. Hopefully you guys enjoyed. If you did, make sure you leave a like if you're new here.
+[35:43] Don't forget to subscribe as well for some more once the game is out. Uh, we will be playing it because my gosh, I want to play it so bad. This looks so much fun. So yeah, enjoy yourselves.
+[35:54] Have a wonderful day and I'll see you Oh, there's our collections in the next one. Bye everybody.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5527800,web_result,unknown_date,https://www.youtube.com/watch?v=OFes5u0FWno,No Asteroids - Gameplay Trailer | First-Person Mining 2026,"# No Asteroids - Gameplay Trailer | First-Person Mining 2026
+## Channel: 👾Ready To Wishlist👾 - Game Trailer
+67 subscribers
+1 likes
+
+### Description
+1 view
+Posted: 2026-11-12
+Dig through 5,000,000 m³ of an asteroid headed for Earth, sell the ore, and buy guns for your ship that fire while you mine. You have 90 days before impact. [...] Wishlist on Steam: 
+Genre / Gameplay: Casual, Indie, Simulation
+Release date: 24 Nov, 2026
+Demo available: Yes
+Play the demo: 
+Developer: Unruled Games
+Publisher: Unruled Games
+
+#NoAsteroids #Incremental #Mining #Casual #IndieGame",,"trailer, gameplay, demo, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo', 'release date'] (+20)",general
+5527800,web_result,unknown_date,https://kotaku.com/games/no-asteroids,No Asteroids - Kotaku,"An asteroid of 5,000,000 m³ will hit Earth in 90 days. The government already spent 90 days arguing about who pays. Then one miner came to the tender with his own pickaxe. He asked for no money and said the asteroid would pay for itself. The vote was unanimous, for the first time in history. Every day the miner flies down to the rock and digs while his air lasts. Back on the ship he sells the ore and buys bigger tools and guns. From the observation dome he can see Earth through a telescope. [...] Skip to content 
+
+No Asteroids
+
+# No Asteroids
+
+## Game Details
+
+### Available on:
+
+ PC
+ Mac
+
+### Genres
+
+Simulator, Indie
+
+### Developer
+
+Unruled Games
+
+### Release Date
+
+November 23, 2026 (1 week from now)
+
+### Publisher
+
+N/A
+
+### Content Rating
+
+N/A
+
+## Discover games
+
+## Summary [...] My Arcade's Atari retro gaming handheld is available for pre-orders over at Amazon.
+
+  By  Joe Tilleli    Published September 15, 2025
+ 
+
+ Latest
+ Entertainment
+ Reviews
+ News
+ Tips & Guides
+ Games
+ Downloads
+ Deals
+
+ Send us a Tip!
+ About Kotaku
+
+ + Deals
+  + Ausgabe DE
+  + Edición ES
+  + Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+Cookies settings;)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5527800,web_result,unknown_date,https://www.youtube.com/watch?v=Iq9zD9pol3Y,Mining an Asteroid Before My Oxygen Runs Out | No Asteroids Ep. 1,"We're checking out the No Asteroids Steam demo, where saving the planet starts with tiny mining runs and a very questionable business plan.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5527800,web_result,unknown_date,https://store.steampowered.com/app/5527800/No_Asteroids,No Asteroids on Steam,"See all 28 supported languages
+
+Title: No Asteroids  
+ Genre: Casual, Indie, Simulation  
+
+Developer: Unruled Games
+
+Publisher: Unruled Games
+
+Release Date: 24 Nov, 2026
+
+Visit the website External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+# Download No Asteroids Demo
+
+Download
+
+This game is not yet available on Steam
+
+# Planned Release Date: 24 Nov, 2026
+
+This game plans to unlock in approximately 10 days [...] ## From a pickaxe to a missile swarm
+
+  
+You start with the pickaxe you brought. The last tool is a swarm of small homing missiles. Big pieces break off and float away, and you can ride them.
+
+## The ship shoots too
+
+  
+Earth has rockets that are already paid for, but they are aimed at the neighbors. So your ship starts with no guns, and you buy them with the ore money. They fire at the asteroid on their own. The most expensive one shoots a black hole into the rock.
+
+## Bring a crew [...] The contract is for one miner, but the government does not check how many came. Up to 8 players can dig the same asteroid in online co-op. The pay is still zero. The ore money goes into one wallet, and the host decides who can spend it. Anyone who sits in the lander can start a 10-second count, or kick a friend out of the hatch. If you are not in the lander when it leaves the asteroid, you black out and lose your cargo. The campaign is the host's save, and guests keep their own game.",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+5527800,web_result,unknown_date,https://m.youtube.com/playlist?list=PLfpjsBakubBw,No Asteroids Demo,No Asteroids Demo. Learn more No Asteroids Demo. Play all 1:10:13 Mining an Asteroid Before My Oxygen Runs Out | No Asteroids Ep. 1,,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5527800,web_result,unknown_date,https://store.steampowered.com/app/5527800/No_Asteroids,No Asteroids on Steam,"See all 28 supported languages
+
+Title: No Asteroids  
+ Genre: Casual, Indie, Simulation  
+
+Developer: Unruled Games
+
+Publisher: Unruled Games
+
+Release Date: 24 Nov, 2026
+
+Visit the website External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+# Download No Asteroids Demo
+
+Download
+
+This game is not yet available on Steam
+
+# Planned Release Date: 24 Nov, 2026
+
+This game plans to unlock in approximately 10 days [...] All Games > Casual Games > No Asteroids
+
+Community Hub
+
+No Asteroids
+
+No Asteroids
+
+No Asteroids
+
+Developer
+
+Unruled Games
+
+Publisher
+
+Unruled Games
+
+Release
+
+24 Nov, 2026
+
+An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, solo or in online co-op for up to 8. Sell the ore and buy ship guns that fire as you dig.
+
+All Reviews: [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+24 Nov, 2026
+
+Developer:
+
+Unruled Games
+
+Publisher:
+
+Unruled Games
+
+Tags
+
+Popular user-defined tags for this product:
+
+Incremental  Mining  Destruction  First-Person  Space  Online Co-Op  Co-op  Simulation  Physics  Voxel  Economy  Resource Management  Time Management  Dark Humor  Satire  Multiple Endings  Casual  Collectathon  Funny  Singleplayer 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+5527800,web_result,unknown_date,https://kotaku.com/games/no-asteroids,No Asteroids - Kotaku,"Skip to content 
+
+No Asteroids
+
+# No Asteroids
+
+## Game Details
+
+### Available on:
+
+ PC
+ Mac
+
+### Genres
+
+Simulator, Indie
+
+### Developer
+
+Unruled Games
+
+### Release Date
+
+November 23, 2026 (1 week from now)
+
+### Publisher
+
+N/A
+
+### Content Rating
+
+N/A
+
+## Discover games
+
+## Summary [...] My Arcade's Atari retro gaming handheld is available for pre-orders over at Amazon.
+
+  By  Joe Tilleli    Published September 15, 2025
+ 
+
+ Latest
+ Entertainment
+ Reviews
+ News
+ Tips & Guides
+ Games
+ Downloads
+ Deals
+
+ Send us a Tip!
+ About Kotaku
+
+ + Deals
+  + Ausgabe DE
+  + Edición ES
+  + Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+Cookies settings;) [...] Deals
+
+  ## My Arcade’s Atari Gamestation Go Hits All-Time Low, Now Much Cheaper Than Nintendo Switch With Over 200 Retro Games
+
+  Save yourself 17% when picking up the Atari Gamestation Go retro handheld gaming console over at Amazon.
+
+  By  Joe Tilleli    Published March 24, 2026
+ Myarcadeatari 
+
+  Deals
+
+  ## Forget Nintendo, My Arcade Atari Gamestation Go With 200+ Retro Video Games Including Pac-Man Is Now Up for Preorder on Amazon",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5527800,web_result,unknown_date,https://gamefaqs.gamespot.com/pc/740436-no-asteroids/data,No Asteroids Release Information for PC - GameFAQs,"## Title Data
+
+1. Genre: 
+   Simulation > General
+2. Developer: 
+   Unruled Games
+
+## Release Data
+
+| Box | Title | | | | | |
+| Region | Publisher | Product ID | Distribution / Barcode | Release Date | Rating |
+|  | No Asteroids | | | | | |
+| US | Unruled Games | 5527800 | Steam | 11/24/26 |  |
+
+## Title Data
+
+1. Genre: 
+   Simulation > General
+2. Developer: 
+   Unruled Games
+
+## Release Data [...] ## Release Data
+
+| Box | Title | | | | | |
+| Region | Publisher | Product ID | Distribution / Barcode | Release Date | Rating |
+|  | No Asteroids | | | | | |
+| US | Unruled Games | 5527800 | Steam | 11/24/26 |  |
+
+## Description [...] Home
+ Boards
+ News
+ Q&A
+ Community
+ Contribute
+ Games
+
+  
+
+ 3DS
+ Android
+ Board/Card
+ iOS
+ PC
+ PlayStation 3
+ PlayStation 4
+ PlayStation 5
+ Switch
+ Switch 2
+ Vita
+ Xbox 360
+ Xbox One
+ Xbox Series
+ More Systems
+
+Log In
+Sign Up
+
+# No Asteroids – Release Details
+
+### PC Macintosh
+
+Log in to add games to your lists
+
+Notify me about new:
+
+Guides
+
+Cheats
+
+Reviews
+
+Questions
+
+News
+
+Board Topics
+
+Board Messages
+
+Add this game to my:
+
+Favorite Games
+
+Favorite Boards
+
+Product Filter:
+
+## Title Data",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5527800,web_result,unknown_date,https://store.steampowered.com/news/app/5527800/view/698780869084578873,No Asteroids - The No Asteroids demo is out now - Steam News,"News Thank you for 25,000 wishlists and for all your feedback on the demo. No Asteroids comes out on November 24. Image 10 25,000 wishlists! Thank you so much for your support! News Sat, November 14, 2026 Thank you for 25,000 wishlists and for all your feedback on the demo. No Asteroids comes out on November 24. [...] The free No Asteroids demo is available now!  
+  
+Five million cubic metres of asteroid are heading for Earth. You have a pickaxe, a spaceship, and a job to do.  
+  
+Play the first 15 days: mine the asteroid, sell what you bring back, upgrade your equipment, and explore your ship between shifts. Your save carries over to the full game on the same computer.  
+  
+The demo is available for Windows and Apple Silicon Macs. Download it from the Steam store page:  
+  
+
+Image 6: No Asteroids [...] News Bring up to seven friends into the free demo. Dig the same asteroid, share the ore money and make it back to the lander with your haul. Image 11 The No Asteroids demo now has online co-op for up to eight players News Fri, November 13, 2026 Bring up to seven friends into the free demo. Dig the same asteroid, share the ore money and make it back to the lander with your haul.
+
+About This Game:
+
+Image 12: No Asteroids
+
+Add to wishlist
+
+No Asteroids",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5527800,web_result,unknown_date,https://www.youtube.com/watch?v=kitQWuyMw3s,You have to dig an asteroid away in this game | No Asteroids,"# You have to dig an asteroid away in this game | No Asteroids
+## Channel: Hitbox Lab
+3 subscribers
+13 likes
+
+### Description
+1,139 views
+Posted: 2026-11-13
+An asteroid hits Earth in 90 days, and in No Asteroids you dig it away in first person, then buy ship guns that fire while you mine. Coming November 24, 2026 to Windows and Mac.
+
+Footage: official trailer from the game's Steam store page - No Asteroids (Unruled Games) - Gameplay Trailer, Story Trailer
+
+Steam: [...] Steam: 
+
+All game footage belongs to its publishers; Hitbox Lab uses short excerpts of the official trailers to talk about the games.
+
+#NoAsteroids #indiegames #gaming #simulation #newgames [...] [0:21] shoots a black hole into it. It's no asteroids. Coming [music] November 24th to Windows and Mac. Follow for more games with a job this absurd.",,"trailer, gameplay",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",general
+5527800,web_result,unknown_date,https://www.youtube.com/watch?v=OFes5u0FWno,No Asteroids - Gameplay Trailer | First-Person Mining 2026,"# No Asteroids - Gameplay Trailer | First-Person Mining 2026
+## Channel: 👾Ready To Wishlist👾 - Game Trailer
+67 subscribers
+1 likes
+
+### Description
+1 view
+Posted: 2026-11-12
+Dig through 5,000,000 m³ of an asteroid headed for Earth, sell the ore, and buy guns for your ship that fire while you mine. You have 90 days before impact. [...] Wishlist on Steam: 
+Genre / Gameplay: Casual, Indie, Simulation
+Release date: 24 Nov, 2026
+Demo available: Yes
+Play the demo: 
+Developer: Unruled Games
+Publisher: Unruled Games
+
+#NoAsteroids #Incremental #Mining #Casual #IndieGame",,"trailer, gameplay, demo, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo', 'release date'] (+20)",general
+5527800,web_result,unknown_date,https://www.youtube.com/watch?v=oj2soZkqejs,Mining An ASTEROID To Save The Planet! No Asteroids Demo,"### Transcript
+[0:00] Oh, what's going on every here? Welcome to our first look, a free demo, a game that is actually about to come out, it looks like, uh, in a few days here. This
+[0:09] is called No Asteroids. So, we're going to go ahead. We're going to hop into this. Hopefully, you all are having a wonderful day. I'm having a fantastic day. Basically, the premise of the game, [...] # Mining An ASTEROID To Save The Planet! No Asteroids Demo
+## Channel: Z1 Gaming (verified)
+657K subscribers
+1.4K likes
+
+### Description
+87,751 views
+Posted: 2026-11-15
+An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, solo or in online co-op for up to 8. Sell the ore and buy ship guns that fire as you dig.
+
+No Asteroids on Steam: [...] [0:17] there's an asteroid that is going to hit Earth in 90 days, and we have 90 days to take it out. So, anyways, um, yeah, let's go ahead. Let's get into this. So, looks like we have our lander here.
+[0:28] Okay, so we have we're on day one. I'm My gosh. So, you are here impact in 89 days. Okay. Ship control. Um I'm guessing that's the asteroid. Oh, yeah.
+[0:37] Look at that. And there's the um there's the Earth and there's the asteroid. Okay. All right. So, how do we do this?",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5527800,web_result,unknown_date,https://store.steampowered.com/app/5527800/No_Asteroids,No Asteroids on Steam,"See all 28 supported languages
+
+Title: No Asteroids  
+ Genre: Casual, Indie, Simulation  
+
+Developer: Unruled Games
+
+Publisher: Unruled Games
+
+Release Date: 24 Nov, 2026
+
+Visit the website External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+# Download No Asteroids Demo
+
+Download
+
+This game is not yet available on Steam
+
+# Planned Release Date: 24 Nov, 2026
+
+This game plans to unlock in approximately 10 days [...] All Games > Casual Games > No Asteroids
+
+Community Hub
+
+No Asteroids
+
+No Asteroids
+
+No Asteroids
+
+Developer
+
+Unruled Games
+
+Publisher
+
+Unruled Games
+
+Release
+
+24 Nov, 2026
+
+An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, solo or in online co-op for up to 8. Sell the ore and buy ship guns that fire as you dig.
+
+All Reviews: [...] ## From a pickaxe to a missile swarm
+
+  
+You start with the pickaxe you brought. The last tool is a swarm of small homing missiles. Big pieces break off and float away, and you can ride them.
+
+## The ship shoots too
+
+  
+Earth has rockets that are already paid for, but they are aimed at the neighbors. So your ship starts with no guns, and you buy them with the ore money. They fire at the asteroid on their own. The most expensive one shoots a black hole into the rock.
+
+## Bring a crew",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+5527800,web_result,unknown_date,https://store.steampowered.com/app/5527800/No_Asteroids,No Asteroids on Steam,"All Reviews:
+
+No user reviews
+
+Release Date:
+
+24 Nov, 2026
+
+Developer:
+
+Unruled Games
+
+Publisher:
+
+Unruled Games
+
+Tags
+
+Popular user-defined tags for this product:
+
+Incremental  Mining  Destruction  First-Person  Space  Online Co-Op  Co-op  Simulation  Physics  Voxel  Economy  Resource Management  Time Management  Dark Humor  Satire  Multiple Endings  Casual  Collectathon  Funny  Singleplayer 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews [...] All Games > Casual Games > No Asteroids
+
+Community Hub
+
+No Asteroids
+
+No Asteroids
+
+No Asteroids
+
+Developer
+
+Unruled Games
+
+Publisher
+
+Unruled Games
+
+Release
+
+24 Nov, 2026
+
+An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, solo or in online co-op for up to 8. Sell the ore and buy ship guns that fire as you dig.
+
+All Reviews: [...] ## From a pickaxe to a missile swarm
+
+  
+You start with the pickaxe you brought. The last tool is a swarm of small homing missiles. Big pieces break off and float away, and you can ride them.
+
+## The ship shoots too
+
+  
+Earth has rockets that are already paid for, but they are aimed at the neighbors. So your ship starts with no guns, and you buy them with the ore money. They fire at the asteroid on their own. The most expensive one shoots a black hole into the rock.
+
+## Bring a crew",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5527800,web_result,unknown_date,https://kotaku.com/games/no-asteroids,No Asteroids - Kotaku,"Skip to content 
+
+No Asteroids
+
+# No Asteroids
+
+## Game Details
+
+### Available on:
+
+ PC
+ Mac
+
+### Genres
+
+Simulator, Indie
+
+### Developer
+
+Unruled Games
+
+### Release Date
+
+November 23, 2026 (1 week from now)
+
+### Publisher
+
+N/A
+
+### Content Rating
+
+N/A
+
+## Discover games
+
+## Summary [...] An asteroid of 5,000,000 m³ will hit Earth in 90 days. The government already spent 90 days arguing about who pays. Then one miner came to the tender with his own pickaxe. He asked for no money and said the asteroid would pay for itself. The vote was unanimous, for the first time in history. Every day the miner flies down to the rock and digs while his air lasts. Back on the ship he sells the ore and buys bigger tools and guns. From the observation dome he can see Earth through a telescope. [...] My Arcade's Atari retro gaming handheld is available for pre-orders over at Amazon.
+
+  By  Joe Tilleli    Published September 15, 2025
+ 
+
+ Latest
+ Entertainment
+ Reviews
+ News
+ Tips & Guides
+ Games
+ Downloads
+ Deals
+
+ Send us a Tip!
+ About Kotaku
+
+ + Deals
+  + Ausgabe DE
+  + Edición ES
+  + Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+Cookies settings;)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5527800,web_result,unknown_date,https://store.steampowered.com/app/5527800/No_Asteroids,No Asteroids on Steam,"See all 28 supported languages
+
+Title: No Asteroids  
+ Genre: Casual, Indie, Simulation  
+
+Developer: Unruled Games
+
+Publisher: Unruled Games
+
+Release Date: 24 Nov, 2026
+
+Visit the website External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+# Download No Asteroids Demo
+
+Download
+
+This game is not yet available on Steam
+
+# Planned Release Date: 24 Nov, 2026
+
+This game plans to unlock in approximately 10 days [...] All Games > Casual Games > No Asteroids
+
+Community Hub
+
+No Asteroids
+
+No Asteroids
+
+No Asteroids
+
+Developer
+
+Unruled Games
+
+Publisher
+
+Unruled Games
+
+Release
+
+24 Nov, 2026
+
+An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, solo or in online co-op for up to 8. Sell the ore and buy ship guns that fire as you dig.
+
+All Reviews: [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+24 Nov, 2026
+
+Developer:
+
+Unruled Games
+
+Publisher:
+
+Unruled Games
+
+Tags
+
+Popular user-defined tags for this product:
+
+Incremental  Mining  Destruction  First-Person  Space  Online Co-Op  Co-op  Simulation  Physics  Voxel  Economy  Resource Management  Time Management  Dark Humor  Satire  Multiple Endings  Casual  Collectathon  Funny  Singleplayer 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+5527800,web_result,unknown_date,https://gamefaqs.gamespot.com/pc/740436-no-asteroids/data,No Asteroids Release Information for PC - GameFAQs,"## Title Data
+
+1. Genre: 
+   Simulation > General
+2. Developer: 
+   Unruled Games
+
+## Release Data
+
+| Box | Title | | | | | |
+| Region | Publisher | Product ID | Distribution / Barcode | Release Date | Rating |
+|  | No Asteroids | | | | | |
+| US | Unruled Games | 5527800 | Steam | 11/24/26 |  |
+
+## Title Data
+
+1. Genre: 
+   Simulation > General
+2. Developer: 
+   Unruled Games
+
+## Release Data [...] ## Release Data
+
+| Box | Title | | | | | |
+| Region | Publisher | Product ID | Distribution / Barcode | Release Date | Rating |
+|  | No Asteroids | | | | | |
+| US | Unruled Games | 5527800 | Steam | 11/24/26 |  |
+
+## Description [...] Home
+ Boards
+ News
+ Q&A
+ Community
+ Contribute
+ Games
+
+  
+
+ 3DS
+ Android
+ Board/Card
+ iOS
+ PC
+ PlayStation 3
+ PlayStation 4
+ PlayStation 5
+ Switch
+ Switch 2
+ Vita
+ Xbox 360
+ Xbox One
+ Xbox Series
+ More Systems
+
+Log In
+Sign Up
+
+# No Asteroids – Release Details
+
+### PC Macintosh
+
+Log in to add games to your lists
+
+Notify me about new:
+
+Guides
+
+Cheats
+
+Reviews
+
+Questions
+
+News
+
+Board Topics
+
+Board Messages
+
+Add this game to my:
+
+Favorite Games
+
+Favorite Boards
+
+Product Filter:
+
+## Title Data",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5527800,web_result,unknown_date,https://noasteroids.org,"No Asteroids: Demo, Price, Co-op and Release","See the full table
+
+| Game | Release | Price | Players | Demo | Evidence |
+ ---  ---  --- |
+| No Asteroids | 24 Nov 2026 | $7.99 | 1–8 | Yes | 1 publisher · official site |
+| Astronomics | 10 Feb 2025 | $19.99 | 1 | No store demo listed | 1 publisher · Steam store |
+| Asteroid Mining Empire | 6 Apr 2026 | $3.99 | 1 | No store demo listed | 1 publisher · Steam store |
+
+## Trailer
+
+Official Steam screenshot of first-person mining on the asteroid
+
+Steam store screenshot. Checked 2026-11-15. [...] NONO ASTEROIDS
+
+Official Steam screenshot: an astronaut on a cratered asteroid with Earth in the sky
+
+5,000,000 M³ · 90 DAYS
+
+# No Asteroids
+
+Mine 5,000,000 m³ before impact.
+
+Release 24 Nov 2026
+
+Official site price $7.99
+
+Co-op 1–8 players
+
+Platforms Windows / Mac
+
+Play the free demoWatch trailerDownload on Steam
+
+This is Unruled Games’ 2026 first-person mining game, Steam app 5527800 — not the Space Engineers “no asteroids” setting, and not Atari’s 1979 Asteroids. Which game is which. [...] ## Sources
+
+ Steam store page, app 5527800 — checked 2026-11-16
+ Official game page — checked 2026-11-16
+ Steam demo, app 5541510 — checked 2026-11-16
+ Steam: Astronomics — checked 2026-11-16
+ Steam: Asteroid Mining Empire — checked 2026-11-16
+ Unruled Games: announcement trailer — title checked 2026-11-16; publication date from 2026-11-15 research",,"trailer, demo, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'demo', 'announcement'] (+20)",general
+5527800,web_result,unknown_date,https://store.steampowered.com/app/5527800/No_Asteroids,No Asteroids on Steam,"See all 28 supported languages
+
+Title: No Asteroids  
+ Genre: Casual, Indie, Simulation  
+
+Developer: Unruled Games
+
+Publisher: Unruled Games
+
+Release Date: 24 Nov, 2026
+
+Visit the website External   View update history   Read related news   View discussions   Find Community Groups
+
+Embed
+
+Report this Product)
+
+Links & info
+
+# Download No Asteroids Demo
+
+Download
+
+This game is not yet available on Steam
+
+# Planned Release Date: 24 Nov, 2026
+
+This game plans to unlock in approximately 10 days [...] All Games > Casual Games > No Asteroids
+
+Community Hub
+
+No Asteroids
+
+No Asteroids
+
+No Asteroids
+
+Developer
+
+Unruled Games
+
+Publisher
+
+Unruled Games
+
+Release
+
+24 Nov, 2026
+
+An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, solo or in online co-op for up to 8. Sell the ore and buy ship guns that fire as you dig.
+
+All Reviews: [...] All Reviews:
+
+No user reviews
+
+Release Date:
+
+24 Nov, 2026
+
+Developer:
+
+Unruled Games
+
+Publisher:
+
+Unruled Games
+
+Tags
+
+Popular user-defined tags for this product:
+
+Incremental  Mining  Destruction  First-Person  Space  Online Co-Op  Co-op  Simulation  Physics  Voxel  Economy  Resource Management  Time Management  Dark Humor  Satire  Multiple Endings  Casual  Collectathon  Funny  Singleplayer 
+
++
+
+Reviews
+
+All Reviews:
+
+No user reviews",,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+5527800,web_result,unknown_date,https://kotaku.com/games/no-asteroids,No Asteroids - Kotaku,"Skip to content 
+
+No Asteroids
+
+# No Asteroids
+
+## Game Details
+
+### Available on:
+
+ PC
+ Mac
+
+### Genres
+
+Simulator, Indie
+
+### Developer
+
+Unruled Games
+
+### Release Date
+
+November 23, 2026 (1 week from now)
+
+### Publisher
+
+N/A
+
+### Content Rating
+
+N/A
+
+## Discover games
+
+## Summary [...] ## More From Unruled Games
+
+ Star Fighters 
+
+  ### Star Fighters
+ Eon 
+
+  ### Eon
+ Claria’s Great Maze 
+
+  ### Claria’s Great Maze
+ Starcraft 
+
+  ### Starcraft
+ PilotXross 
+
+  ### PilotXross
+ Shadowless 
+
+  ### Shadowless
+ Doge Simulator 
+
+  ### Doge Simulator
+ Slimes & Dusters TO 
+
+  ### Slimes & Dusters TO
+ NeptuneGL 
+
+  ### NeptuneGL
+ Loop Craft 
+
+  ### Loop Craft
+
+Games metadata is powered by IGDB.com
+
+## No Asteroids News
+
+ Myarcadeatarigamestationgo 
+
+  Deals [...] My Arcade's Atari retro gaming handheld is available for pre-orders over at Amazon.
+
+  By  Joe Tilleli    Published September 15, 2025
+ 
+
+ Latest
+ Entertainment
+ Reviews
+ News
+ Tips & Guides
+ Games
+ Downloads
+ Deals
+
+ Send us a Tip!
+ About Kotaku
+
+ + Deals
+  + Ausgabe DE
+  + Edición ES
+  + Édition FR
+
+Mode
+
+Follow us
+
+ 𝕏"")
+
+Cookies settings;)",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5527800,web_result,unknown_date,https://www.youtube.com/watch?v=OFes5u0FWno,No Asteroids - Gameplay Trailer | First-Person Mining 2026,"Wishlist on Steam: 
+Genre / Gameplay: Casual, Indie, Simulation
+Release date: 24 Nov, 2026
+Demo available: Yes
+Play the demo: 
+Developer: Unruled Games
+Publisher: Unruled Games
+
+#NoAsteroids #Incremental #Mining #Casual #IndieGame [...] # No Asteroids - Gameplay Trailer | First-Person Mining 2026
+## Channel: 👾Ready To Wishlist👾 - Game Trailer
+67 subscribers
+1 likes
+
+### Description
+1 view
+Posted: 2026-11-12
+Dig through 5,000,000 m³ of an asteroid headed for Earth, sell the ore, and buy guns for your ship that fire while you mine. You have 90 days before impact.",,"trailer, gameplay, demo, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'gameplay', 'demo', 'release date'] (+20)",general
+5527800,reddit_discussion,unknown_date,https://www.reddit.com/r/spaceengineers/comments/1fk6jia/no_asteroids_on_server_what_am_i_missing,"No asteroids on server, what am I missing? : r/spaceengineers - Reddit",UPDATE: Resolved - something caused the config file (which I had never actually manually changed) to reset to zero asteroids.,,,30,weak,Reddit (+10); Exact title match (+20),general
+5527800,reddit_discussion,unknown_date,https://www.reddit.com/r/NoMansSkyTheGame/comments/w5iq9d/no_asteroids,No asteroids : r/NoMansSkyTheGame,Not a bug. You can locate the asteroid clusters by using your ship scanner which will mark the location for you.,,,30,weak,Reddit (+10); Exact title match (+20),social
+5527800,reddit_discussion,unknown_date,https://www.reddit.com/r/spaceengineers/comments/1fk6jia/no_asteroids_on_server_what_am_i_missing,"No asteroids on server, what am I missing? : r/spaceengineers",UPDATE: Resolved - something caused the config file (which I had never actually manually changed) to reset to zero asteroids. I'm running a local dedicated,,,30,weak,Reddit (+10); Exact title match (+20),social
+5527800,reddit_discussion,unknown_date,https://www.reddit.com/r/spaceengineers/comments/13imvzv/no_asteroids_nitrado,No asteroids (nitrado) : r/spaceengineers,"You will need to manually change the ProceduralDensity setting within the save files, with 0.35 being the current default (medium density).",,,30,weak,Reddit (+10); Exact title match (+20),social
+5527800,reddit_discussion,unknown_date,https://www.reddit.com/r/spaceengineers/comments/1f2z22g/im_doing_a_no_asteroids_playthrough_and_boy_oh,"I'm doing a no asteroids playthrough, and boy oh boy is it difficult.","So I'd say what you need is an orbital delivery ship. Launch from an ice lake. Build it absolutely threadbare, light as possible. Lightest form",,,30,weak,Reddit (+10); Exact title match (+20),social
+5527800,reddit_discussion,unknown_date,https://www.reddit.com/r/spaceengineers/comments/s5vcdq/no_asteroids_or_ships,No asteroids or ships : r/spaceengineers,"Hi, After finally leaving earth there are zero asteroids and no other ships around as far as i know. Googled and found out that ""Procedural",,,30,weak,Reddit (+10); Exact title match (+20),social
+5527800,web_result,unknown_date,https://www.instagram.com/reel/DV1ZaH4Cnjt?hl=en,Instagram,"The sheer scale of an asteroid impact in Los Angeles sets the stage for a gripping and emotional chapter in the ongoing 9-1-1 saga. From the jaw-dropping visual effects to the intense character moments shown in the teaser, everything points to a must-watch television event. For a show that has survived earthquakes, tsunamis, and blimp crashes, this cosmic threat is the ultimate test for our favorite first responders. [...] 😅  
+  
+The viral 9-1-1 asteroid promo has completely taken over social media, delivering a level of high-stakes disaster that only this show can pull off. Known for its over-the-top emergencies and cinematic production value, the series appears to be heading toward its most ambitious crisis yet. Seeing the 118 face a literal extinction-level event is a massive shift that has fans of the procedural drama absolutely buzzing. [...] julian.flores6480
+
+Imagine ""Omg"" 🥺😢 being your close up for the trailer tf is this for?
+
+Reply
+
+unstopable.mf
+
+You may need to allow third party cookies to view this GIF. Allow
+
+Reply
+
+gok.ufromdragonball
+
+9-1-1 nga PLEASE CALL NASA
+
+Reply
+
+hotsince02\_\_
+
+the entire world in cooked what are they gonna do😂😂
+
+Reply
+
+evanooo.18
+
+You may need to allow third party cookies to view this GIF. Allow
+
+Reply
+
+calarsko
+
+You may need to allow third party cookies to view this GIF. Allow
+
+Reply",,trailer,25,weak,Social Index (+5); Keywords ['trailer'] (+20),general
+5527800,social_post,unknown_date,https://www.tiktok.com/@isabelevelyn64/video/7707489194720922902,An Asteroid is Heading Toward Earth in 90 Days - TikTok,"This is the premise of the sixth installment in the popular ""No Asteroids"" series, a game that tests your strategic thinking and quick reflexes.",,,25,weak,Social Index (+5); Exact title match (+20),social
+5527800,social_post,unknown_date,https://www.tiktok.com/@unruledgames/video/7706107798735572256,No Asteroids: Can You Stop the Asteroid in 90 Days? - TikTok,"No Asteroids sets up a countdown challenge: an asteroid is heading toward Earth, and there are 90 days to dig it apart.",,,25,weak,Social Index (+5); Exact title match (+20),social
+5527800,social_post,unknown_date,https://www.tiktok.com/@jjenkins427/video/7707656622268550430,No Asteroids: What Happens After You Save Earth? - TikTok,"No Asteroids turns saving Earth into a funny gaming loop. The premise asks what happens after you save the planet, then delivers a simple",,,25,weak,Social Index (+5); Exact title match (+20),social
+5527800,social_post,unknown_date,https://www.tiktok.com/@isabelevelyn64/video/7707489152756993302,An Asteroid is Heading Toward Earth in 90 Days - TikTok,"Will you build defenses, find a safe haven, or attempt a daring mission to deflect the asteroid? This episode continues the thrilling gameplay",,gameplay,25,weak,Social Index (+5); Keywords ['gameplay'] (+20),social
+5527800,social_post,unknown_date,https://www.instagram.com/_b/reel/DfQyWnbRihG,a game about mining an asteroid before it hits Earth in 90 days ...,a game about mining an asteroid before it hits Earth in 90 days ☄️ Game: No Asteroids Wishlist on Steam (out on November 24),,,25,weak,Social Index (+5); Exact title match (+20),social
+5527800,social_post,unknown_date,https://www.instagram.com/reel/Df3YMtOSe5c,Saving the earth from an asteroid is a big ask… - Instagram,a game about mining an asteroid before it hits Earth in 90 days ☄️ Game: No Asteroids Wishlist on Steam (out on November 24),,,25,weak,Social Index (+5); Exact title match (+20),social
+5527800,social_post,unknown_date,https://steamcommunity.com/sharedfiles/filedetails?id=2895267769,Steam Workshop::No Asteroids,"STEAM
+Link to the Steam Homepage
+
+### Cosmoteer: Starship Architect & Commander
+
+|  |  |
+ --- |
+| 1,606 | Unique Visitors |
+| 325 | Current Subscribers |
+| 30 | Current Favorites |
+
+# Subscribe to download No Asteroids
+
+Close
+
+Close
+
+## Edit links
+
+Enter the full URL of your item or group's Facebook page
+
+Enter the full URL of your item or group's Twitter page
+
+If you have a related Youtube channel, enter the URL.
+
+Enter the full URL of your item or group's Polycount page [...] Enter the full URL of your item or group's reddit page
+
+Enter the full URL to your item or group's Sketchfab page
+
+Close",,,25,weak,Social Index (+5); Exact title match (+20),social
+5527800,social_post,unknown_date,https://www.jpl.nasa.gov/news/nasa-there-is-no-asteroid-threatening-earth,NASA: There is No Asteroid Threatening Earth | NASA Jet Propulsion Laboratory (JPL),"In fact, NASA's Near-Earth Object Observations Program says there have been no asteroids or comets observed that would impact Earth anytime in the foreseeable future. All known Potentially Hazardous Asteroids have less than a 0.01% chance of impacting Earth in the next 100 years. [...] ""There is no scientific basis -- not one shred of evidence -- that an asteroid or any other celestial object will impact Earth on those dates,"" said Paul Chodas, manager of NASA's Near-Earth Object office at the Jet Propulsion Laboratory in Pasadena, California. [...] ""Again, there is no existing evidence that an asteroid or any other celestial object is on a trajectory that will impact Earth,"" said Chodas. ""In fact, not a single one of the known objects has any credible chance of hitting our planet over the next century.""",,,25,weak,Social Index (+5); Exact title match (+20),social
+5527800,web_result,unknown_date,https://steamcommunity.com/sharedfiles/filedetails?id=2895267769,Steam Workshop::No Asteroids,"STEAM
+Link to the Steam Homepage
+
+### Cosmoteer: Starship Architect & Commander
+
+|  |  |
+ --- |
+| 1,606 | Unique Visitors |
+| 325 | Current Subscribers |
+| 30 | Current Favorites |
+
+# Subscribe to download No Asteroids
+
+Close
+
+Close
+
+## Edit links
+
+Enter the full URL of your item or group's Facebook page
+
+Enter the full URL of your item or group's Twitter page
+
+If you have a related Youtube channel, enter the URL.
+
+Enter the full URL of your item or group's Polycount page [...] Enter the full URL of your item or group's reddit page
+
+Enter the full URL to your item or group's Sketchfab page
+
+Close",,,20,weak,Exact title match (+20),general
+5527800,web_result,unknown_date,https://www.movieinsider.com/m6176/asteroids,Everything You Need to Know About Asteroids Movie (Development),"### Companies
+
+Universal Pictures distributor logo   Universal Pictures
+
+### Production Company
+
+di Bonaventura Pictures
+
+## Watch Trailers & Videos
+
+### No trailers available yet
+
+Check back closer to the release date.
+
+## Production: What we know about Asteroids?
+
+### Key Facts
+
+1. Based on the classic Atari video game.
+
+### Filming Timeline [...] # Asteroids Movie
+
+Share
+
+Editor Amy Renner photo  By Amy Renner   Feb. 8, 2015
+
+Asteroids Movie Poster
+
+Asteroids — trailer coming soon
+
+Asteroids movie production status is currently  Development
+
+February 8, 2015 • Story selection and rights acquired; idea being crafted into usable script; financing and casting attachments sought; aiming for 'greenlight'. F. Scott Frazier hired for rewrite. Previous drafts were written by Matt Lopez, Evan Spiliotopoulos and Jez Butterworth.
+
+Who's Involved: [...] ### Street Fighter
+
+Official Trailer
+
+Advertisement
+
+### Looking for more information on Asteroids?
+
+When you buy through links on our site, we may earn an commission. As an Amazon Associate, we earn from qualifying purchases.
+
+#### Across the Web
+
+ Watch on Apple TV
+ Get Digital Copy
+ Shop on Amazon
+ More Info on IMDb",,"trailer, release date",20,weak,"Keywords ['trailer', 'release date'] (+20)",general
+5527800,web_result,unknown_date,https://store.steampowered.com/app/5527800/No_Asteroids,No Asteroids on Steam,"## Earth is watching
+
+  
+What you find in the rock goes to the ship's museum, like an empty safe labeled ""Asteroid defense budget"". From the observation dome you can see Earth through a telescope. A crowd holds KEEP WORKING signs. Bookmakers take bets on you. The government meets on a beach. The plot at the impact point is already sold, and the owners rave about the sky view.
+
+## Other clients [...] ## From a pickaxe to a missile swarm
+
+  
+You start with the pickaxe you brought. The last tool is a swarm of small homing missiles. Big pieces break off and float away, and you can ride them.
+
+## The ship shoots too
+
+  
+Earth has rockets that are already paid for, but they are aimed at the neighbors. So your ship starts with no guns, and you buy them with the ore money. They fire at the asteroid on their own. The most expensive one shoots a black hole into the rock.
+
+## Bring a crew [...] All Games > Casual Games > No Asteroids
+
+Community Hub
+
+No Asteroids
+
+No Asteroids
+
+No Asteroids
+
+Developer
+
+Unruled Games
+
+Publisher
+
+Unruled Games
+
+Release
+
+24 Nov, 2026
+
+An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, solo or in online co-op for up to 8. Sell the ore and buy ship guns that fire as you dig.
+
+All Reviews:",,,20,weak,Exact title match (+20),general
+5527800,web_result,unknown_date,https://www.youtube.com/watch?v=kHBHjETWCew,9-1-1 Season 9 Trailer (HD),"### Description
+416,430 views
+Posted: 2025-10-02 [...] [1:06] Look at this. What am I looking at? The beginnings of a geomagnetic storm. We should scrub the launch.
+[1:13] We are not scrubbing this launch. Punch it.
+[1:24] All contact with the spacecraft was lost due to a sudden geomagnetic storm.
+[1:31] In the middle of all that chaos are Hen and Athena.
+[1:34] What do you guys think is going on out there? The end of the world.
+[1:43] Everybody in the engine.
+[1:45] You knew about this and you sent those people up there anyway. [...] # 9-1-1 Season 9 Trailer (HD)
+## Channel: TV Promos (verified)
+2.77M subscribers
+4.2K likes",,trailer,20,weak,Keywords ['trailer'] (+20),general
+5527800,web_result,unknown_date,https://store.steampowered.com/app/5527800/No_Asteroids,No Asteroids on Steam,"The contract is for one miner, but the government does not check how many came. Up to 8 players can dig the same asteroid in online co-op. The pay is still zero. The ore money goes into one wallet, and the host decides who can spend it. Anyone who sits in the lander can start a 10-second count, or kick a friend out of the hatch. If you are not in the lander when it leaves the asteroid, you black out and lose your cargo. The campaign is the host's save, and guests keep their own game. [...] ## From a pickaxe to a missile swarm
+
+  
+You start with the pickaxe you brought. The last tool is a swarm of small homing missiles. Big pieces break off and float away, and you can ride them.
+
+## The ship shoots too
+
+  
+Earth has rockets that are already paid for, but they are aimed at the neighbors. So your ship starts with no guns, and you buy them with the ore money. They fire at the asteroid on their own. The most expensive one shoots a black hole into the rock.
+
+## Bring a crew [...] You are that miner. Every day you fly down and dig while your air lasts. Back on the ship you sell the ore and buy bigger tools and guns. A big counter shows how many m³ are left. On the first day it hardly moves. Later your ship fires at the rock while you dig, and the number goes down much faster.",,,20,weak,Exact title match (+20),general
+5527800,web_result,unknown_date,https://en.wikipedia.org/wiki/Asteroids_(video_game),Asteroids (video game) - Wikipedia,"Many critics felt that the new gameplay additions and graphics added little to the existing gameplay. PC Gamer's Joel Durham Jr. felt it was ""little more than a cosmetic update of the arcade game."" IGN's Doug Peppery found the new levels to be ""fun and engaging."" Critics agreed that the gameplay was true to the original. Games Domain said ""If you want more of the same old Asteroids, the new game will not disappoint you. [...] However, if you want something different or have greater [...] Asteroids is a 1979 multidirectional shooter video game developed and published by Atari, Inc. for arcades. It was released by Taito and Sega in Japan. The player controls a spaceship in an asteroid field which is periodically traversed by flying saucers. The object of the game is to shoot and destroy the asteroids and saucers while avoiding colliding with either or being hit by the saucers' counterfire. The game becomes more difficult as the number of asteroids increases. [...] the small saucer appears. As the player's score increases, the angle range of the shots from the small saucer diminishes until the saucer fires extremely accurately. Once the screen has been cleared of all asteroids and flying saucers, a new set of large asteroids appears, thus starting the next level. The game gets harder as the number of asteroids increases until after the score reaches a range between 40,000 and 60,000. The player starts with 3–5 lives upon game start and gains an extra life",,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+5527800,web_result,unknown_date,https://dev.to/joestrout/demo-highlight-asteroids-250d,Demo Highlight: Asteroids - DEV Community,"DEV Community
+
+## DEV Community
+
+Cover image for Demo Highlight: Asteroids
+JoeStrout
+
+Posted on Jan 31, 2024
+
+# Demo Highlight: Asteroids
+
+This week I'd like to point out another demo that comes with Mini Micro: a loving tribute to the classic Atari arcade game, Asteroids.
+
+Animated GIF of the Asteroids demo in play
+
+Animated GIF of the Asteroids demo in play
+
+## Try it now! [...] First, let's make it clear what you're looking at when you play! It looks like a vector display, but it's not. Most of the action is actually on a SpriteDisplay. The sprites are created from one of the built-in images, /sys/pics/Asteroids-2X.png:
+
+/sys/pics/Asteroids-2X.png
+
+/sys/pics/Asteroids-2X.png [...] At the top of the code are some setup steps. Lines 15-28 load that Asteroids-2X.png sprite sheet, and carve it up into individual sprite images (stored on a map called `images`). Then lines 30-44 prepare the sounds.
+
+`images`",,demo,20,weak,Keywords ['demo'] (+20),general
+5527800,web_result,unknown_date,https://www.youtube.com/watch?v=6SM7YiFEdpw,"CLICK, FEED, GROW! A Game About Feeding A Black Hole Demo","[2:57] I think maybe definitely more asteroids would help so we can have more that are close to each other.
+[3:04] [Music]
+[3:06] Lot of time. 14. Let's go. More asteroids.
+[3:14] 105 asteroids. And we might as well grab this. 325%. That's a big increase.
+[3:20] Ooh, breaker speed. I like that as well.
+[3:24] Oh yeah, look at all these. Oh, this is great. We're already moving now.
+[3:33] [Music]
+[3:40] How much did we get? 28 total. 24 in that one. [...] [10:09] But we can get this again. Oh, breaker damage. There we go. Breaker speed. Looking for that as well.
+[10:20] How fast are we breaking the big orange ones? Still takes a while.
+[10:32] Oh, that was a lot of asteroids. That was nice.
+[10:43] Let's go. Breaker Speed. Even more speed coming up.
+[10:50] Man, so far this game this game is great. It feels very addictive. Like you could just sit here for hours mindlessly breaking asteroids.
+[11:04] and upgrading. I love the idea here. [...] ### Description
+634 views
+Posted: 2025-10-19
+Feed asteroids to your pet black hole in this upcoming minimalist clicker and active incremental. Destroy the asteroids circling your tiny black hole to make it grow and earn you money. Spend on a variety of upgrades, from ones that increase your destructive capabilities and others that add asteroids with special powers. Can you grow your black hole to its maximum size? #incremental #clicker #space #agameaboutfeedingablackhole",,demo,20,weak,Keywords ['demo'] (+20),general
+5527800,web_result,unknown_date,https://www.jpl.nasa.gov/news/nasa-there-is-no-asteroid-threatening-earth,NASA: There is No Asteroid Threatening Earth | NASA Jet Propulsion Laboratory (JPL),"In fact, NASA's Near-Earth Object Observations Program says there have been no asteroids or comets observed that would impact Earth anytime in the foreseeable future. All known Potentially Hazardous Asteroids have less than a 0.01% chance of impacting Earth in the next 100 years. [...] ""There is no scientific basis -- not one shred of evidence -- that an asteroid or any other celestial object will impact Earth on those dates,"" said Paul Chodas, manager of NASA's Near-Earth Object office at the Jet Propulsion Laboratory in Pasadena, California. [...] ""Again, there is no existing evidence that an asteroid or any other celestial object is on a trajectory that will impact Earth,"" said Chodas. ""In fact, not a single one of the known objects has any credible chance of hitting our planet over the next century.""",,,20,weak,Exact title match (+20),general
+5527800,web_result,unknown_date,https://steamcommunity.com/sharedfiles/filedetails?id=2895267769,Steam Workshop::No Asteroids,"STEAM
+Link to the Steam Homepage
+
+### Cosmoteer: Starship Architect & Commander
+
+|  |  |
+ --- |
+| 1,606 | Unique Visitors |
+| 325 | Current Subscribers |
+| 30 | Current Favorites |
+
+# Subscribe to download No Asteroids
+
+Close
+
+Close
+
+## Edit links
+
+Enter the full URL of your item or group's Facebook page
+
+Enter the full URL of your item or group's Twitter page
+
+If you have a related Youtube channel, enter the URL.
+
+Enter the full URL of your item or group's Polycount page [...] Enter the full URL of your item or group's reddit page
+
+Enter the full URL to your item or group's Sketchfab page
+
+Close",,,20,weak,Exact title match (+20),general
+5527800,web_result,unknown_date,https://www.youtube.com/watch?v=Bgif52fGvps,Mining To Destroy An Asteroid Before It Hits Earth ~ No Asteroids,"### Transcript
+[0:00] What's happening everybody? Roster.
+[0:01] Welcome to No Asteroids, a game where we have to destroy an asteroid before it hits the Earth. I think the game the developers intend finish before impact.
+[0:10] No, the asteroid will miss. Oh, no.
+[0:13] We're doing this one. So, there's like a limited amount of time, I believe, before it Yeah, we have 180 days.
+[0:22] You've reached the UN. Leave a message. Asteroid is coming. 5 million meters. What? What? [...] # Mining To Destroy An Asteroid Before It Hits Earth ~ No Asteroids
+## Channel: Grillmastah (verified)
+126K subscribers
+372 likes
+
+### Description
+28,944 views
+Posted: 2026-11-17
+An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, solo or in online co-op for up to 8. Sell the ore and buy ship guns that fire as you dig. [...] [1:05:47] Right.
+[1:05:50] Like I'd love to increase the damage even more, but I I really do think it's just saving up for the crystal or the laser may be the best thing. Let me know if you guys want to see more of this. I think this is pretty fun. I enjoy this game. I am having a I'm having a blast.
+[1:06:00] So yeah, I hope you guys do, too. Thank you so much for watching and I'll see you in the next one. Bye-bye for now.",,,20,weak,Exact title match (+20),general
+5527800,web_result,unknown_date,https://gamefaqs.gamespot.com/arcade/583763-asteroids/reviews/178810,Asteroids Review for Arcade Games: I wish I didn't suck at this classic - GameFAQs,"is timeless, in a sense. Even if it has been surpassed by far superior experiences, Asteroids still has enough magic to it that I feel any new player ought to at least give it a chance. If nothing else, it would give an insight as to what gaming was in its infancy. Plus, it is gameplay and challenge in its simplest, most refined formed. When it is good, it is really good. [...] It is difficult to say whether these old classics should be universally recommended because being so far removed from the modern gaming scene, a lot of people will find them simply too archaic and primitive to be an enjoyable experience. However, respect must be given for the purity and polish that the better games of the older eras had. Games like Asteroids were influential on later titles for a reason, and pure gameplay like this is not something that ages away with time. It is timeless, in a [...] Asteroids is incredibly simplistic but also incredibly engaging. The black and white design along with the vector graphics that it utilizes really help to give it that “space game” type of feel. Whether that was the intention or it was simply a design decision based on limited technology, it works. The gameplay is smooth, fluid, and challenging yet fun. The tune that plays during the stage is eerily reminiscent of the Jaws theme, and the way it slowly picks up tempo as you can closer and closer",,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+5527800,social_post,unknown_date,https://www.instagram.com/reel/Db8pEgACa-T,Instagram,"Cada día, descubrimos que nuestro Sistema Solar es un poco más concurrido de lo que pensábamos ☄️  
+  
+La mayoría de los asteroides no representan ninguna amenaza, pero para identificar aquellos que podrían requerir más atención, primero debemos saber que existen.  
+  
+¡Ahí es donde entra en acción el Observatorio Rubin de NSF–DOE! [...] Every day, our Solar System is a little more crowded than we we knew ☄️  
+  
+Most asteroids pose no threat, but tracking the ones that could matter starts with knowing they exist at all.  
+  
+That's where NSF–DOE Rubin Observatory comes in!  
+  
+Over just 6 weeks of pre-survey observations in 2025, Rubin revealed more than 11,000 previously unseen asteroids — about half the amount the entire world finds in a year! [...] En 2025, en apenas seis semanas de observaciones previas a la investigación, Rubin descubrió más de 11.000 asteroides nunca antes vistos, casi la mitad de todos los asteroides que se descubren en el mundo durante un año.",,,5,weak,Social Index (+5),social
+5527800,social_post,unknown_date,https://www.instagram.com/reel/DaNzbEdsq0M,What's your gut feeling about asteroids? ☄️ Asteroids aren't just ...,"In 2022, humankind shaped one back. @NASA's DART mission slammed into the asteroid Dimorphos and nudged its orbit around its companion Didymos,",,,5,weak,Social Index (+5),social
+5527800,social_post,unknown_date,https://www.instagram.com/theasteroidno4,The Asteroid No.4 (@theasteroidno4) • Instagram photos and videos,"Log In
+
+Sign Up
+
+## theasteroidno4
+
+ 6,756 followers
+ 808 following
+
+The Asteroid No.4
+
+theasteroidno4
+
+Psychgazers 🧠👟👀   
+Philly ➡️ NorCal  
+“IN PRAISE OF SHADOWS” LP 05/08/26  
+EU/UK Booking: Annibale
+
+...
+
+more
+
+Video by The Asteroid No.4 on October 31, 2026. May be an illustration of text.
+
+Photo by The Asteroid No.4 on October 19, 2026. May be an image of text.
+
+Photo by PAMera Obscura on October 17, 2026. [...] Video by Carsten Krause on October 04, 2026. May be an image of guitar, concert and text.
+
+Video by Positive Transmitter on October 03, 2026. May be a black-and-white image of guitar, microphone and text.
+
+Video by MS Stubnitz on October 02, 2026. May be an image of poster, magazine and text.
+
+Show more posts from theasteroidno4 [...] Video by Davide de Polo on October 15, 2026. May be an image of poster, magazine and text.
+
+Photo by weirdsound on October 15, 2026. May be an image of text.
+
+Photo by Davide de Polo on October 14, 2026. May be an image of poster and text.
+
+Photo by Le Port Franc on October 13, 2026. May be an image of poster and text.
+
+Video by RIP IT UP on October 12, 2026. May be an image of poster and text.
+
+Photo by La Maison on October 09, 2026.",,,5,weak,Social Index (+5),social
+5527800,social_post,unknown_date,https://x.com/NASA/status/1803876386098040836,"NASA on X: ""@mrkoc61 There are no known significant asteroid impact ...","There are no known significant asteroid impact threats for the foreseeable future. This tabletop exercise is held about every two years,",,,5,weak,Social Index (+5),social
+5527800,social_post,unknown_date,https://x.com/NASA/status/1939702298487271930,Post,"Asteroids are pretty cool: they orbit the Sun, no two are exactly alike, and they're so old, we can study them to learn about the origins of",,,5,weak,Social Index (+5),social
+5527800,social_post,unknown_date,http://x.com/NASA/status/1674169617936429057,"NASA on X: ""Is NASA mining asteroids? No, but we love studying them. ...","Is NASA mining asteroids? No, but we love studying them. The science gained from asteroid missions—like our upcoming #PsycheMission to a",,,5,weak,Social Index (+5),social
+5527800,social_post,unknown_date,https://x.com/theasteroids,The Asteroids Galaxy Tour (@theasteroids) / X,"Nov 26, 2025
+
+  From our Myspace (2009) 🩷 - who was there? //AGT
+
+  
+
+  1
+ @theasteroids
+
+  The Asteroids Galaxy Tour@theasteroids
+
+  Nov 25, 2025
+
+  Another Fruit-era flashback! We caught this session right after SXSW in LA, when my voice was half-gone from singing it out a bit too loud and simultaneously dealing with food poisoning 🖖🏾.
+
+  
+
+  00:00
+
+  1
+ @theasteroids
+
+  The Asteroids Galaxy Tour@theasteroids
+
+  Nov 24, 2025 [...] Nov 24, 2025
+
+  A Time capsule on its way from the year 2009 + Extra 🍉🍏🍍 Estimated time of arrival næxt FRiDAY❤️ //AGT
+
+  
+
+  00:00 [...] Nov 28, 2025
+
+  More than 16 years ago, we released our debut album Fruit - The beginning of everything for us, a cosmic spark that changed our lives and set this whole adventure in motion. To celebrate, we’ve created a 24-bit Re-Mastered DELUXE Edition of Fruit. asteroids.lnk.to/Fruit
+
+  
+
+  00:00
+
+  5
+ @theasteroids
+
+  The Asteroids Galaxy Tour@theasteroids
+
+  Nov 27, 2025
+
+  Tomorrow - FRUIT DELUXE ❤️
+
+  
+
+  00:00
+
+  1
+ @theasteroids
+
+  The Asteroids Galaxy Tour@theasteroids",,,5,weak,Social Index (+5),social
+5527800,social_post,unknown_date,https://x.com/IndieGameJoe/status/2112327169074704668,Indie Game Joe,"Every run gives you new randomly generated asteroids with no instructions or hand holding, plus local split screen co-op.",,,5,weak,Social Index (+5),social
+5527800,web_result,unknown_date,https://games.aarp.org/games/atari-asteroids,Atari® Asteroids - A Classic Online Game From AARP,"|  |
+|  |
+
+Asteroids® is a video game published by Atari in 1979.
+
+Control a spaceship in an asteroid field and destroy all the asteroids. The game was very popular and inspired many subsequent games.
+
+Asteroids® was one of the first games to use vector graphics, which made it possible to create the illusion of three-dimensional space.
+
+## You May Also Like
+
+5 Roll
+
+8 Ball Pool
+
+Have Questions? 
+Privacy Policy
+
+       Red AARP Membership Card [...] Atari, Centipede, Pong, Breakout, Missile Command Asteroids
+
+Atari® Video Games
+
+  Throwback Thursday Crossword and AARP Rewards
+
+Throwback Thursday Crossword
+
+Back
+
+Travel
+
+Close Menu
+
+Travel Tips
+
+Vacation Ideas
+
+Destinations
+
+Travel Benefits
+
+  
+
+Outdoor Fun
+
+Camping and RV Destinations
+
+  beach houses on the ocean in fort lauderdale florida
+
+Summer Travel
+
+Affordable Beach Towns
+
+  
+
+Destinations
+
+Easily Accessible Locations
+
+  
+
+MEMBERS ONLY
+
+Insider Secrets
+
+Tips for Traveling by Train [...] Close up of a hospice nurse holding the hands of one of her patients
+
+End of Life
+
+How to Cope With Grief, Loss
+
+Back
+
+Games
+
+Close Menu
+
+All
+
+Recently Played
+
+Word & Trivia
+
+Rewards
+
+Atari® & Retro
+
+Mahjongg
+
+Members Only
+
+Staying Sharp
+
+Solitaire
+
+New Games
+
+Strategy
+
+Arcade
+
+Puzzles
+
+Card
+
+Juegos
+
+Daily
+
+Game Shows
+
+Multiplayer
+
+More About Games
+
+  AARP Right Again Trivia and AARP Rewards
+
+Right Again! Trivia
+
+  AARP Right Again Trivia Sports and AARP Rewards
+
+Right Again! Trivia – Sports",,,0,weak,,general
+5527800,web_result,unknown_date,https://freeasteroids.org,Free Asteroids - Play Game Instantly!,"Pacman Game Logo
+Frogger Game Logo
+Pong Game Logo
+Asteroids Game Logo
+Jetpac Game Logo
+Donkey Kong Game Logo
+Flappy Bird Game Logo
+Fishy Game Logo
+
+\ Requires keyboard - this can be an iPad / Bluetooth keyboard.
+
+Privacy
+
+Copyright
+
+Full Screen Game Button",,,0,weak,,general
+5527800,web_result,unknown_date,https://en.wikipedia.org/wiki/Asteroids_(video_game),Asteroids (video game) - Wikipedia,"| Platforms | Arcade, Atari 2600, Atari 8-bit, Atari 7800, Game Boy |
+| Release | November 1979    Arcade + NA: November 1979   + EU: 1979[better source needed]   + JP: January 1980 Atari 2600 + August 1981 Atari 8-bit + 1981 Atari 7800 + May 1986 Game Boy + NA: September 1992   + EU: 1992 Game Boy Color + NA: September 21, 1999 |
+| Genre | Multidirectional shooter |
+| Modes | Single-player, multiplayer | [...] Asteroids was released for the Atari VCS (later renamed Atari 2600) and Atari 8-bit computers in 1981. Programmers Brad Stewart and Bob Smith were unable to fit the Atari VCS port into a 4 KB cartridge. It became the first game for the console to use bank switching, a technique that increases ROM size from 4 KB to 8 KB. A port for the Atari 5200, identical to the Atari 8-bit version, was in development in 1982, but was not published. [...] An Atari 7800 version was published in 1986 with the official launch of the console, with cooperative play. A Game Boy port developed by The Code Monkeys was released in September 1992 by Accolade, and in 1995 by Nintendo as part of their Arcade Classic series alongside Missile Command.
+
+## Reception
+
+[edit&action=edit&section=8 ""Edit section: Reception"")]",,,0,weak,,general
+5527800,web_result,unknown_date,https://360info.org/as-arcade-games-died-out-asteroids-lived-on,"As arcade games died out, Asteroids lived on - 360","Asteroids had simple, monochrome vector graphics (made up of lines) and a simple premise, but simplicity does not mean a game cannot be difficult – or fun – and Asteroids was both. In 1981, a sequel, Asteroids Deluxe, was released in arcades. The vector graphics were tinted blue, the asteroids spun, and new ‘killer satellites’ aimed for the player’s spaceship, breaking into smaller satellites when fired upon. Atari’s Space Duel (1982) and Blasteroids (1987) added further innovations and more [...] But Asteroids lived on; Atari ported the game to its home console systems, to the Atari VCS 2600 in 1981, and to the Atari 7800 in 1986. As these versions had raster graphics, the asteroids were solid colours. Instead of just being line drawings, the asteroids of the 7800 version even had texture. Later, gaming company Activision would port the game to other consoles and platforms, including the PlayStation and Microsoft Windows in 1998, the Nintendo 64 and Game Boy Color in 1999, and the Apple [...] The game is still available, and whatever version you may play, Asteroids, like its contemporaries Pac-Man (1980) and Battlezone (1980), remains a classic video game that will always be around in one form or another, making it available for new generations of players to try – and for older generations to play as they remember and reminisce.",,,0,weak,,general
+5527800,web_result,unknown_date,https://www.retrogamedeconstructionzone.com/2019/10/asteroids-review.html,Asteroids Review: An Inconsistent Classic,"Asteroids is definitely worth a try, especially considering that it presents a challenge of a kind that is hard to come by in modern games.  What's more, I do think the game is increasingly immersive as you build skill in navigating the asteroid field, even if there is a lot of randomness in the final outcome.  It will push your boundaries in more ways than most, testing hand-eye coordination, reflexes, situational awareness, and spatial skills.  It might even be a good training exercise for [...] []( spending some time both playing and analyzing the mechanics of Atari's 1979 arcade hit, Asteroids, I've gotta say, it's intense.  You have to keep track of large, rapidly multiplying fields of moving objects with a vehicle that accelerates too slowly to make easy escapes, asteroids that break up in unpredictable directions, and alien ships that can pop out of nowhere and blast you before you have time to react.  Forget casual gamers, I've seen serious gamers balk at the idea of playing it. [...] exercise for people looking to develop general action game skills, but as a standalone game, it falls short of my top tiers.",,,0,weak,,general
+5527800,web_result,unknown_date,https://www.freezenet.ca/review-asteroids-game-boy-color,Review: Asteroids (Game Boy Color),"Overall, this is one of the better examples of old classics returning to a newer audience. This game adds a lot of interesting features that just didn’t exist previously. While I have a beef with the inventory reset between levels, there isn’t a whole lot to complain about in the game. The graphics are OK, but the menu selection can be difficult to read and the briefings are pretty stark. The audio is OK. Passable, but nothing special. An pretty decent game. [...] The audio is OK. The gradually changing music is a nice touch. Unfortunately, there isn’t a whole lot about it that’s memorable still. The sound effects are alright, but nothing huge. A passable experience as far as I’m concerned. [...] The difficulty curve is pretty decent. The addition of the new asteroids could have been more evenly pushed onto the player instead of having a large portion of them put on the player right away, but the way it is now isn’t all that bad either. The earlier levels are fairly straight forward while the later levels prove to be quite challenging. The only time things are a problem is with zone 2 which seems to be much more difficult than zone 3 in my view. Still, things seem to balance out later",,,0,weak,,general
+5527800,web_result,unknown_date,https://bookpal.com/asteroids-9781682775974,Asteroids | Bulk Pricing from 25 Copies - BookPal,"Details ; Publisher: The Creative Company ; Author: Matt Lilley ; Format: Paperback ; Published: Jan 14, 2025 ; ISBN-13: 9781682775974",,,0,weak,,general
+5527800,web_result,unknown_date,https://www.amazon.com/Asteroids-Escape-Arcadians-McCoy-Mike/dp/1733630724,"Asteroids: Bridge to Nowhere: 9781733630726: Mike, McCoy S","Asteroids: Bridge to Nowhere ; Language. English ; Publisher. Blaster Tech ; Publication date. February 25, 2019 ; Grade level. 2 - 7 ; Reading age. 13 - 18 years.",,,0,weak,,general
+5527800,web_result,unknown_date,https://en.wikipedia.org/wiki/Asteroids_(video_game),Asteroids (video game) - Wikipedia,"| An arcade cabinet over a background of asteroids in rings around a planet. The Asteroids logo and details about the game are seen at the bottom of the flyer. North American arcade flyer |
+| Developer | Atari, Inc. |
+| Publishers | Atari, Inc.    Arcade + NA: Atari, Inc.   + JP: Taito/Sega 7800 Atari Corporation Game Boy Accolade, Inc. Nintendo |
+| Designers | Lyle Rains Ed Logg |
+| Programmer | Ed Logg |
+| Series | Asteroids | [...] |  v  t  e  Atari's Asteroids |
+
+| Games |  Asteroids)  Asteroids Deluxe  Space Duel  Blasteroids  Super Asteroids |
+| Related |  Spacewar!  Lunar Lander ""Lunar Lander (1979 video game)"") |
+| Developers |  Lyle Rains  Ed Logg |
+
+|  v  t  e  1970s Atari arcade games | [...] Asteroids was conceived by Lyle Rains and programmed by Ed Logg with collaborations from other Atari staff. Logg was impressed with the Atari Video Computer System (later called the Atari 2600), and he joined Atari's coin-op division to work on Dirt Bike, which was never released due to an unsuccessful field test. Paul Mancuso joined the development team as Asteroids' technician and engineer Wendi Allen contributed to the hardware. During a meeting in April 1979, Rains discussed Planet Grab, a",,,0,weak,,general
+5527800,web_result,unknown_date,https://prologue.blogs.archives.gov/2022/02/10/asteroids-and-meteors-and-lawyers-how-i-learned-to-stop-worrying-and-love-copyright-law,Asteroids and Meteors and Lawyers: How I Learned to Stop Worrying and Love Copyright Law – Pieces of History,"One of the most successful of these experiments was Asteroids, a title conceived by Atari staffers Lyle Rains and Ed Logg. Released in 1979, Asteroids proved to be another hit for Atari, which earned hundreds of millions in profit and cemented Atari as one of the go-to developer for arcade owners eager to keep quarters flowing. [...] As the trial proceeded, Holniker himself was called to testify. During questioning, he admitted that he was nominally aware of the game Asteroids and its general mechanics but repeatedly denied any direct inspiration, even when faced with specific, itemized points of likeness. [...] Holniker testified under questioning that Amusement World, Inc., aside from a few physical alterations to the PCB to address overheating and other operational issues, had no direct input in the main content of the game received from Venture Line as a completed (and presumably legally produced) product. Additions such as a starfield background, assignment of color characteristics to certain game elements (i.e. the player ship, alien craft, etc.), improved audio reproduction, and the game’s",,,0,weak,,general
