@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-11-19T07:00:08.051481+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261119_065021/rank_changes.csv",
+    "started_at": "2026-11-19T20:27:44.372260+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261119_201825/rank_changes.csv",
     "selected_appid": "5527800",
     "selected_game_title": "No Asteroids",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-19T07:00:08.051496+00:00",
+    "finished_at": "2026-11-19T20:27:44.372276+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

@@ -1,0 +1,94 @@
+{
+    "appnews": {
+        "appid": 5527800,
+        "newsitems": [
+            {
+                "gid": "1849827110429803",
+                "title": "Fixes and Improvements \u2014 November 19",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110429803",
+                "is_external_url": true,
+                "author": "Unruled Games",
+                "contents": "Thanks for your bug reports! This update includes: \u2022 Co-op guests now have their own mining drones, and joining a session causes much shorter freezes. \u2022 Fixed invited players being unable to rejoin after being kicked, and the title menu appearing over an active co-op game. \u2022 Addressed missing telescope controls after reopening the telescope. \u2022 Fixed furniture pushing players through the ship\u2019s walls, and added recovery if a player falls outside the lower deck. \u2022 Fixed jumping through the upper deck\u2019s glass dome and getting stuck behind the engine room railing. \u2022 Improved tether return paths from deep shafts and pits. \u2022 Restored a movable, resizable window when leaving borderless fullscreen. \u2022 Fixed movement keys getting stuck after Command shortcuts on Mac and made trackpad scrolling easier to control. \u2022 Improved lighting on loose objects when they are turned over. \u2022 Improved wording across 27 languages and fixed text clipping in several menus and ship displays. Unruled Games Team",
+                "feedlabel": "Community Announcements",
+                "date": 1795119527,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5527800,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1849827110427640",
+                "title": "Keyboard Rebinding & Co-op Fixes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110427640",
+                "is_external_url": true,
+                "author": "Unruled Games",
+                "contents": "Thanks for all your feedback and bug reports! This update includes: Keyboard rebinding: customize your keyboard controls in Settings. On-screen key prompts follow your chosen bindings. Co-op: fixed an issue when hosting after another session ended that could make teammates invisible, prevent them from mining, and stop the new host\u2019s progress from saving. Workshop: removed an invisible obstacle in front of the workbench and fixed clipping into workshop furniture when jumping. Unruled Games Team",
+                "feedlabel": "Community Announcements",
+                "date": 1795079581,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5527800
+            },
+            {
+                "gid": "1849827110425185",
+                "title": "50,000 wishlists! Join us on Discord",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110425185",
+                "is_external_url": true,
+                "author": "Unruled Games",
+                "contents": "Hi everyone! No Asteroids has reached 50,000 wishlists on Steam. Thank you! Whether you\u2019ve played the demo, shared the game with a friend, or sent us feedback \u2014 thank you for helping the game get here. We\u2019ve also set up a Discord server for No Asteroids. Come chat about the game, share screenshots, report bugs, or tell us what you think. We\u2019re there too, and we\u2019d love to hear from you. \ud83d\udc49 Join the No Asteroids Discord Thanks again for being here! Unruled Games Team",
+                "feedlabel": "Community Announcements",
+                "date": 1795021917,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5527800,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_1847323374_1795022619_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "1849458702682958",
+                "title": "25,000 wishlists! Thank you so much for your support!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702682958",
+                "is_external_url": true,
+                "author": "Unruled Games",
+                "contents": "Hi everyone, No Asteroids has reached 25,000 wishlists. Thank you for adding the game and sharing it with your friends! Thank you also to everyone playing the demo and sending feedback. Your bug reports help us get the game ready for release. https://clan.fastly.steamstatic.com/images/46669689/3cebfe913315cfac6981f3296e9bdceef2ed9f49.gif The full game comes out on November 24. If you want to try it before then, the free demo is available now on Steam.",
+                "feedlabel": "Community Announcements",
+                "date": 1794651646,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5527800
+            },
+            {
+                "gid": "1849192144183924",
+                "title": "The No Asteroids demo now supports controllers",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144183924",
+                "is_external_url": true,
+                "author": "Unruled Games",
+                "contents": "Grab a controller and take a shift on the asteroid. You can swing your pickaxe with the right trigger, then head back to the ship and use the right stick to sell your haul at the trade terminal. Open the gamepad settings to adjust stick sensitivity, invert the vertical look axis, or toggle rumble. We\u2019d love to hear how your first shift feels. Which controller did you use? If a button prompt was confusing or you reached for the mouse, tell us where it happened.",
+                "feedlabel": "Community Announcements",
+                "date": 1794505359,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5527800
+            },
+            {
+                "gid": "1848664643360661",
+                "title": "The No Asteroids demo is out now",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360661",
+                "is_external_url": true,
+                "author": "Unruled Games",
+                "contents": "The free No Asteroids demo is available now! Five million cubic metres of asteroid are heading for Earth. You have a pickaxe, a spaceship, and a job to do. Play the first 15 days: mine the asteroid, sell what you bring back, upgrade your equipment, and explore your ship between shifts. Your save carries over to the full game on the same computer. The demo is available for Windows and Apple Silicon Macs. Download it from the Steam store page: https://store.steampowered.com/app/5527800/No_Asteroids/ The full game launches November 24. Add No Asteroids to your wishlist if you would like to keep going. I would love to hear how your first shifts go. Leave your feedback or report a bug in the Steam discussions \u2014 thank you for playing!",
+                "feedlabel": "Community Announcements",
+                "date": 1794333722,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5527800
+            }
+        ],
+        "count": 6
+    }
+}

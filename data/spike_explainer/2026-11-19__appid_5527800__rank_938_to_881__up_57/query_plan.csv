@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5527800,No Asteroids,"""No Asteroids"" Steam",general,1,tavily,True,,5
+5527800,No Asteroids,"""No Asteroids"" trailer",general,1,tavily,True,,5
+5527800,No Asteroids,"""No Asteroids"" gameplay",general,1,tavily,True,,5
+5527800,No Asteroids,"""No Asteroids"" demo",general,1,tavily,True,,5
+5527800,No Asteroids,"""No Asteroids"" release date",general,1,tavily,True,,5
+5527800,No Asteroids,"""No Asteroids"" announcement",general,1,tavily,True,,5
+5527800,No Asteroids,"""No Asteroids"" preview",general,1,tavily,True,,5
+5527800,No Asteroids,"""No Asteroids"" review",general,1,tavily,True,,5
+5527800,No Asteroids,"""No Asteroids"" publisher",general,1,tavily,True,,5
+5527800,No Asteroids,"""No Asteroids"" developer",general,1,tavily,True,,5
+5527800,No Asteroids,"site:pcgamer.com ""No Asteroids""",press,2,tavily,False,General budget exhausted,0
+5527800,No Asteroids,"site:rockpapershotgun.com ""No Asteroids""",press,2,tavily,False,General budget exhausted,0
+5527800,No Asteroids,"site:ign.com ""No Asteroids""",press,2,tavily,False,General budget exhausted,0
+5527800,No Asteroids,"site:gamespot.com ""No Asteroids""",press,2,tavily,False,General budget exhausted,0
+5527800,No Asteroids,"site:game8.co ""No Asteroids""",press,2,tavily,False,General budget exhausted,0
+5527800,No Asteroids,"site:reddit.com ""No Asteroids""",social,3,tavily,True,,5
+5527800,No Asteroids,"site:tiktok.com ""No Asteroids""",social,4,tavily,True,,5
+5527800,No Asteroids,"site:instagram.com ""No Asteroids""",social,4,tavily,True,,5
+5527800,No Asteroids,"site:x.com ""No Asteroids""",social,4,tavily,True,,5
+5527800,No Asteroids,"site: ""No Asteroids""",social,4,tavily,True,,5
