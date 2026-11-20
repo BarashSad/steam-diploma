@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3780430,Mondrayn,"""Mondrayn"" Steam",general,1,tavily,True,,5
+3780430,Mondrayn,"""Mondrayn"" trailer",general,1,tavily,True,,5
+3780430,Mondrayn,"""Mondrayn"" gameplay",general,1,tavily,True,,5
+3780430,Mondrayn,"""Mondrayn"" demo",general,1,tavily,True,,5
+3780430,Mondrayn,"""Mondrayn"" release date",general,1,tavily,True,,5
+3780430,Mondrayn,"""Mondrayn"" announcement",general,1,tavily,True,,5
+3780430,Mondrayn,"""Mondrayn"" preview",general,1,tavily,True,,5
+3780430,Mondrayn,"""Mondrayn"" review",general,1,tavily,True,,5
+3780430,Mondrayn,"""Mondrayn"" publisher",general,1,tavily,True,,5
+3780430,Mondrayn,"""Mondrayn"" developer",general,1,tavily,True,,5
+3780430,Mondrayn,"site:pcgamer.com ""Mondrayn""",press,2,tavily,False,General budget exhausted,0
+3780430,Mondrayn,"site:rockpapershotgun.com ""Mondrayn""",press,2,tavily,False,General budget exhausted,0
+3780430,Mondrayn,"site:ign.com ""Mondrayn""",press,2,tavily,False,General budget exhausted,0
+3780430,Mondrayn,"site:gamespot.com ""Mondrayn""",press,2,tavily,False,General budget exhausted,0
+3780430,Mondrayn,"site:game8.co ""Mondrayn""",press,2,tavily,False,General budget exhausted,0
+3780430,Mondrayn,"site:reddit.com ""Mondrayn""",social,3,tavily,True,,5
+3780430,Mondrayn,"site:tiktok.com ""Mondrayn""",social,4,tavily,True,,5
+3780430,Mondrayn,"site:instagram.com ""Mondrayn""",social,4,tavily,True,,0
+3780430,Mondrayn,"site:x.com ""Mondrayn""",social,4,tavily,True,,5
+3780430,Mondrayn,"site: ""Mondrayn""",social,4,tavily,True,,5
