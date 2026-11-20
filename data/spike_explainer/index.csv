@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-19T20:27:24.739914+00:00,5527800,No Asteroids,data/spike_explainer/2026-11-19__appid_5527800__rank_938_to_881__up_57,57,90,data/spike_explainer/2026-11-19__appid_5527800__rank_938_to_881__up_57/llm_summary_input.md
+2026-11-20T06:48:23.037829+00:00,3780430,Mondrayn,data/spike_explainer/2026-11-20__appid_3780430__rank_1025_to_975__up_50,50,70,data/spike_explainer/2026-11-20__appid_3780430__rank_1025_to_975__up_50/llm_summary_input.md

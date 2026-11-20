@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-20T06:48:40.411918+00:00",
+    "timestamp": "20261120_064840",
+    "input_file": "data/spike_explainer/2026-11-20__appid_3780430__rank_1025_to_975__up_50/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-20__appid_3780430__rank_1025_to_975__up_50/llm_outputs/gemini_20261120_064840.md",
+    "game_title": "Mondrayn",
+    "appid": "3780430",
+    "duration_sec": 17.2,
+    "response_length": 5338,
+    "error": null
+}
