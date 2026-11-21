@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-21T06:40:43.765715+00:00",
+    "timestamp": "20261121_064043",
+    "input_file": "data/spike_explainer/2026-11-21__appid_5527800__rank_783_to_742__up_41/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-21__appid_5527800__rank_783_to_742__up_41/llm_outputs/gemini_20261121_064043.md",
+    "game_title": "No Asteroids",
+    "appid": "5527800",
+    "duration_sec": 24.75,
+    "response_length": 6288,
+    "error": null
+}

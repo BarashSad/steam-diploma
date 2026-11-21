@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-11-20T20:00:37.601972+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261120_195020/rank_changes.csv",
-    "selected_appid": "3780430",
-    "selected_game_title": "Mondrayn",
+    "started_at": "2026-11-21T06:40:43.663677+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261121_063141/rank_changes.csv",
+    "selected_appid": "5527800",
+    "selected_game_title": "No Asteroids",
     "top_n": 1,
-    "old_snapshot_date": "2026-11-17",
-    "new_snapshot_date": "2026-11-20",
+    "old_snapshot_date": "2026-11-18",
+    "new_snapshot_date": "2026-11-21",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-20T20:00:37.601992+00:00",
+    "finished_at": "2026-11-21T06:40:43.663693+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
