@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-21T06:40:29.449020+00:00,5527800,No Asteroids,data/spike_explainer/2026-11-21__appid_5527800__rank_783_to_742__up_41,41,90,data/spike_explainer/2026-11-21__appid_5527800__rank_783_to_742__up_41/llm_summary_input.md
+2026-11-21T19:06:09.195844+00:00,5527800,No Asteroids,data/spike_explainer/2026-11-21__appid_5527800__rank_742_to_696__up_46,46,90,data/spike_explainer/2026-11-21__appid_5527800__rank_742_to_696__up_46/llm_summary_input.md
