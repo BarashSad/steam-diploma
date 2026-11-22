@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-22T06:10:10.255714+00:00",
+    "timestamp": "20261122_061010",
+    "input_file": "data/spike_explainer/2026-11-22__appid_3602260__rank_824_to_770__up_54/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-22__appid_3602260__rank_824_to_770__up_54/llm_outputs/gemini_20261122_061010.md",
+    "game_title": "The Escapists 3",
+    "appid": "3602260",
+    "duration_sec": 22.82,
+    "response_length": 7158,
+    "error": null
+}

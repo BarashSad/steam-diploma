@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-21T19:06:09.195844+00:00,5527800,No Asteroids,data/spike_explainer/2026-11-21__appid_5527800__rank_742_to_696__up_46,46,90,data/spike_explainer/2026-11-21__appid_5527800__rank_742_to_696__up_46/llm_summary_input.md
+2026-11-22T06:09:52.041678+00:00,3602260,The Escapists 3,data/spike_explainer/2026-11-22__appid_3602260__rank_824_to_770__up_54,54,70,data/spike_explainer/2026-11-22__appid_3602260__rank_824_to_770__up_54/llm_summary_input.md

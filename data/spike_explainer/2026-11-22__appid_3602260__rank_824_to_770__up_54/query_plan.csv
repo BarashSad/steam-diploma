@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+3602260,The Escapists 3,"""The Escapists 3"" Steam",general,1,tavily,True,,5
+3602260,The Escapists 3,"""The Escapists 3"" trailer",general,1,tavily,True,,5
+3602260,The Escapists 3,"""The Escapists 3"" gameplay",general,1,tavily,True,,5
+3602260,The Escapists 3,"""The Escapists 3"" demo",general,1,tavily,True,,5
+3602260,The Escapists 3,"""The Escapists 3"" release date",general,1,tavily,True,,5
+3602260,The Escapists 3,"""The Escapists 3"" announcement",general,1,tavily,True,,5
+3602260,The Escapists 3,"""The Escapists 3"" preview",general,1,tavily,True,,5
+3602260,The Escapists 3,"""The Escapists 3"" review",general,1,tavily,True,,5
+3602260,The Escapists 3,"""The Escapists 3"" publisher",general,1,tavily,True,,5
+3602260,The Escapists 3,"""The Escapists 3"" developer",general,1,tavily,True,,5
+3602260,The Escapists 3,"site:pcgamer.com ""The Escapists 3""",press,2,tavily,False,General budget exhausted,0
+3602260,The Escapists 3,"site:rockpapershotgun.com ""The Escapists 3""",press,2,tavily,False,General budget exhausted,0
+3602260,The Escapists 3,"site:ign.com ""The Escapists 3""",press,2,tavily,False,General budget exhausted,0
+3602260,The Escapists 3,"site:gamespot.com ""The Escapists 3""",press,2,tavily,False,General budget exhausted,0
+3602260,The Escapists 3,"site:game8.co ""The Escapists 3""",press,2,tavily,False,General budget exhausted,0
+3602260,The Escapists 3,"site:reddit.com ""The Escapists 3""",social,3,tavily,True,,5
+3602260,The Escapists 3,"site:tiktok.com ""The Escapists 3""",social,4,tavily,True,,5
+3602260,The Escapists 3,"site:instagram.com ""The Escapists 3""",social,4,tavily,True,,5
+3602260,The Escapists 3,"site:x.com ""The Escapists 3""",social,4,tavily,True,,5
+3602260,The Escapists 3,"site: ""The Escapists 3""",social,4,tavily,True,,5

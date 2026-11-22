@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+3602260,The Escapists 3,The Escapists 3,824,770,54,54,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,To be announced,To be announced,False
+4653750,The Brave Few,The Brave Few,1068,1016,52,52,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 30, 2026","Nov 30, 2026",False
+5527800,No Asteroids,No Asteroids,696,652,44,44,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 24, 2026","Nov 24, 2026",False
+3780430,Mondrayn,Mondrayn,857,837,20,20,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
