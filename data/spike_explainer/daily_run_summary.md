@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: The Escapists 3
+Analyzed: No Asteroids
 Tavily Budget Used: 15
 Errors: 0
