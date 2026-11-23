@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4877420,Rec Room: A New Semester,"""Rec Room: A New Semester"" Steam",general,1,tavily,True,,5
+4877420,Rec Room: A New Semester,"""Rec Room: A New Semester"" trailer",general,1,tavily,True,,5
+4877420,Rec Room: A New Semester,"""Rec Room: A New Semester"" gameplay",general,1,tavily,True,,5
+4877420,Rec Room: A New Semester,"""Rec Room: A New Semester"" demo",general,1,tavily,True,,5
+4877420,Rec Room: A New Semester,"""Rec Room: A New Semester"" release date",general,1,tavily,True,,5
+4877420,Rec Room: A New Semester,"""Rec Room: A New Semester"" announcement",general,1,tavily,True,,5
+4877420,Rec Room: A New Semester,"""Rec Room: A New Semester"" preview",general,1,tavily,True,,5
+4877420,Rec Room: A New Semester,"""Rec Room: A New Semester"" review",general,1,tavily,True,,5
+4877420,Rec Room: A New Semester,"""Rec Room: A New Semester"" publisher",general,1,tavily,True,,5
+4877420,Rec Room: A New Semester,"""Rec Room: A New Semester"" developer",general,1,tavily,True,,5
+4877420,Rec Room: A New Semester,"site:pcgamer.com ""Rec Room: A New Semester""",press,2,tavily,False,General budget exhausted,0
+4877420,Rec Room: A New Semester,"site:rockpapershotgun.com ""Rec Room: A New Semester""",press,2,tavily,False,General budget exhausted,0
+4877420,Rec Room: A New Semester,"site:ign.com ""Rec Room: A New Semester""",press,2,tavily,False,General budget exhausted,0
+4877420,Rec Room: A New Semester,"site:gamespot.com ""Rec Room: A New Semester""",press,2,tavily,False,General budget exhausted,0
+4877420,Rec Room: A New Semester,"site:game8.co ""Rec Room: A New Semester""",press,2,tavily,False,General budget exhausted,0
+4877420,Rec Room: A New Semester,"site:reddit.com ""Rec Room: A New Semester""",social,3,tavily,True,,5
+4877420,Rec Room: A New Semester,"site:tiktok.com ""Rec Room: A New Semester""",social,4,tavily,True,,5
+4877420,Rec Room: A New Semester,"site:instagram.com ""Rec Room: A New Semester""",social,4,tavily,True,,5
+4877420,Rec Room: A New Semester,"site:x.com ""Rec Room: A New Semester""",social,4,tavily,True,,5
+4877420,Rec Room: A New Semester,"site: ""Rec Room: A New Semester""",social,4,tavily,True,,5

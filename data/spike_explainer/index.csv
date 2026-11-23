@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-22T19:26:10.530826+00:00,5527800,No Asteroids,data/spike_explainer/2026-11-22__appid_5527800__rank_652_to_581__up_71,71,85,data/spike_explainer/2026-11-22__appid_5527800__rank_652_to_581__up_71/llm_summary_input.md
+2026-11-23T07:01:33.437146+00:00,4877420,Rec Room: A New Semester,data/spike_explainer/2026-11-23__appid_4877420__rank_991_to_911__up_80,80,55,data/spike_explainer/2026-11-23__appid_4877420__rank_991_to_911__up_80/llm_summary_input.md
