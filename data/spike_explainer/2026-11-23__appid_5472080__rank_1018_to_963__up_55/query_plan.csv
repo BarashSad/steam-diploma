@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5472080,SHRED A BILLION,"""SHRED A BILLION"" Steam",general,1,tavily,True,,5
+5472080,SHRED A BILLION,"""SHRED A BILLION"" trailer",general,1,tavily,True,,5
+5472080,SHRED A BILLION,"""SHRED A BILLION"" gameplay",general,1,tavily,True,,5
+5472080,SHRED A BILLION,"""SHRED A BILLION"" demo",general,1,tavily,True,,5
+5472080,SHRED A BILLION,"""SHRED A BILLION"" release date",general,1,tavily,True,,5
+5472080,SHRED A BILLION,"""SHRED A BILLION"" announcement",general,1,tavily,True,,5
+5472080,SHRED A BILLION,"""SHRED A BILLION"" preview",general,1,tavily,True,,5
+5472080,SHRED A BILLION,"""SHRED A BILLION"" review",general,1,tavily,True,,5
+5472080,SHRED A BILLION,"""SHRED A BILLION"" publisher",general,1,tavily,True,,5
+5472080,SHRED A BILLION,"""SHRED A BILLION"" developer",general,1,tavily,True,,5
+5472080,SHRED A BILLION,"site:pcgamer.com ""SHRED A BILLION""",press,2,tavily,False,General budget exhausted,0
+5472080,SHRED A BILLION,"site:rockpapershotgun.com ""SHRED A BILLION""",press,2,tavily,False,General budget exhausted,0
+5472080,SHRED A BILLION,"site:ign.com ""SHRED A BILLION""",press,2,tavily,False,General budget exhausted,0
+5472080,SHRED A BILLION,"site:gamespot.com ""SHRED A BILLION""",press,2,tavily,False,General budget exhausted,0
+5472080,SHRED A BILLION,"site:game8.co ""SHRED A BILLION""",press,2,tavily,False,General budget exhausted,0
+5472080,SHRED A BILLION,"site:reddit.com ""SHRED A BILLION""",social,3,tavily,True,,5
+5472080,SHRED A BILLION,"site:tiktok.com ""SHRED A BILLION""",social,4,tavily,True,,5
+5472080,SHRED A BILLION,"site:instagram.com ""SHRED A BILLION""",social,4,tavily,True,,5
+5472080,SHRED A BILLION,"site:x.com ""SHRED A BILLION""",social,4,tavily,True,,5
+5472080,SHRED A BILLION,"site: ""SHRED A BILLION""",social,4,tavily,True,,5

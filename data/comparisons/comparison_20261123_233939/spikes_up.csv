@@ -1,0 +1,9 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5472080,SHRED A BILLION,SHRED A BILLION,1018,963,55,55,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 24, 2026","Nov 24, 2026",False
+4877420,Rec Room: A New Semester,Rec Room: A New Semester,911,857,54,54,up,upward_spike,Free,Free,False,"Nov 24, 2026","Nov 24, 2026",False
+4653750,The Brave Few,The Brave Few,905,852,53,53,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 30, 2026","Nov 30, 2026",False
+5527800,No Asteroids,No Asteroids,539,490,49,49,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 24, 2026","Nov 24, 2026",False
+4085430,Cozy Campfire Club,Cozy Campfire Club,1048,1020,28,28,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+4037370,Laica,Laica,736,713,23,23,up,upward_spike,Free,Free,False,2027,2027,False
+3780430,Mondrayn,Mondrayn,797,775,22,22,up,upward_spike,Free,Free,False,Coming soon,Coming soon,False
+5427110,Lost Bitcoin,Lost Bitcoin,829,808,21,21,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Dec 4, 2026","Dec 4, 2026",False
