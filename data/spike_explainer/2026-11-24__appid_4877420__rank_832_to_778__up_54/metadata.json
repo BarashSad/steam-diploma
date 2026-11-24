@@ -1,0 +1,40 @@
+{
+    "appid": "4877420",
+    "game_title": "Rec Room: A New Semester",
+    "safe_slug": "rec_room_a_new_semester",
+    "analysis_date_utc": "2026-11-24T22:20:07.455687+00:00",
+    "spike_window_start": "2026-11-21T00:00:00+00:00",
+    "spike_window_end": "2026-11-24T00:00:00+00:00",
+    "extended_window_start": "2026-10-07T00:00:00+00:00",
+    "extended_window_end": "2026-11-27T00:00:00+00:00",
+    "dt_start": "2026-11-21 00:00:00+00:00",
+    "dt_end": "2026-11-24 00:00:00+00:00",
+    "ext_start": "2026-10-07 00:00:00+00:00",
+    "ext_end": "2026-11-27 00:00:00+00:00",
+    "window_inferred_fallback": false,
+    "prev_rank": 832,
+    "curr_rank": 778,
+    "rank_delta": 54,
+    "movement_score": 0,
+    "is_new_entry": false,
+    "changed_fields_detected": [
+        "release_date"
+    ],
+    "input_diff_row": {
+        "appid": 4877420,
+        "title_old": "Rec Room: A New Semester",
+        "curr_title": "Rec Room: A New Semester",
+        "prev_rank": 832,
+        "curr_rank": 778,
+        "rank_delta": 54,
+        "abs_rank_delta": 54,
+        "movement_type": "up",
+        "spike_type": "upward_spike",
+        "price_text_old": "Free",
+        "price_text_new": "Free",
+        "price_changed": false,
+        "release_text_old": "Nov 24, 2026",
+        "release_text_new": "Coming soon",
+        "release_changed": true
+    }
+}

@@ -1,0 +1,5 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4877420,Rec Room: A New Semester,Rec Room: A New Semester,832,778,54,54,up,upward_spike,Free,Free,False,"Nov 24, 2026",Coming soon,True
+3015820,To Kill a God,To Kill a God,549,547,2,2,up,none,Free,Free,False,Coming soon,"Jan 12, 2027",True
+4189120,Debauchery & Magic,Debauchery & Magic,286,285,1,1,up,none,Unpriced (Coming Soon),Unpriced (Coming Soon),False,December 2026,"Dec 3, 2026",True
+4894750,Paper Shredder,Paper Shredder,228,228,0,0,stable,none,Free,Free,False,Coming soon,"Jan 12, 2027",True

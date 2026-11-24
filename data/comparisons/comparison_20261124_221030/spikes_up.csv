@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4877420,Rec Room: A New Semester,Rec Room: A New Semester,832,778,54,54,up,upward_spike,Free,Free,False,"Nov 24, 2026",Coming soon,True
+4653750,The Brave Few,The Brave Few,835,802,33,33,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 30, 2026","Nov 30, 2026",False
+2547010,Mik,Mik,1078,1046,32,32,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Dec 7, 2026","Dec 7, 2026",False
+5518060,Flarefall,Flarefall,1069,1043,26,26,up,upward_spike,Free,Free,False,2027,2027,False
+4264000,Orion Blue,Orion Blue,831,810,21,21,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 29, 2026","Nov 29, 2026",False
