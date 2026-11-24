@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-23T23:48:42.192349+00:00,5472080,SHRED A BILLION,data/spike_explainer/2026-11-23__appid_5472080__rank_1018_to_963__up_55,55,85,data/spike_explainer/2026-11-23__appid_5472080__rank_1018_to_963__up_55/llm_summary_input.md
+2026-11-24T09:26:31.447411+00:00,5472080,SHRED A BILLION,data/spike_explainer/2026-11-24__appid_5472080__rank_963_to_936__up_27,27,85,data/spike_explainer/2026-11-24__appid_5472080__rank_963_to_936__up_27/llm_summary_input.md

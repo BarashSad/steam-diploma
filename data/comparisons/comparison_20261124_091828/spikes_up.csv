@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5472080,SHRED A BILLION,SHRED A BILLION,963,936,27,27,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 24, 2026","Nov 24, 2026",False
+4877420,Rec Room: A New Semester,Rec Room: A New Semester,857,832,25,25,up,upward_spike,Free,Free,False,"Nov 24, 2026","Nov 24, 2026",False
+5527800,No Asteroids,No Asteroids,490,466,24,24,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 24, 2026","Nov 24, 2026",False
