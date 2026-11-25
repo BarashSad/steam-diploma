@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-25T21:35:16.114146+00:00",
+    "timestamp": "20261125_213516",
+    "input_file": "data/spike_explainer/2026-11-25__appid_4264000__rank_796_to_769__up_27/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-25__appid_4264000__rank_796_to_769__up_27/llm_outputs/gemini_20261125_213516.md",
+    "game_title": "Orion Blue",
+    "appid": "4264000",
+    "duration_sec": 17.63,
+    "response_length": 5575,
+    "error": null
+}

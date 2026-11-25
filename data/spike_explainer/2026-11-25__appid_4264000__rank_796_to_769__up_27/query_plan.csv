@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4264000,Orion Blue,"""Orion Blue"" Steam",general,1,tavily,True,,5
+4264000,Orion Blue,"""Orion Blue"" trailer",general,1,tavily,True,,5
+4264000,Orion Blue,"""Orion Blue"" gameplay",general,1,tavily,True,,5
+4264000,Orion Blue,"""Orion Blue"" demo",general,1,tavily,True,,5
+4264000,Orion Blue,"""Orion Blue"" release date",general,1,tavily,True,,5
+4264000,Orion Blue,"""Orion Blue"" announcement",general,1,tavily,True,,5
+4264000,Orion Blue,"""Orion Blue"" preview",general,1,tavily,True,,5
+4264000,Orion Blue,"""Orion Blue"" review",general,1,tavily,True,,5
+4264000,Orion Blue,"""Orion Blue"" publisher",general,1,tavily,True,,5
+4264000,Orion Blue,"""Orion Blue"" developer",general,1,tavily,True,,5
+4264000,Orion Blue,"site:pcgamer.com ""Orion Blue""",press,2,tavily,False,General budget exhausted,0
+4264000,Orion Blue,"site:rockpapershotgun.com ""Orion Blue""",press,2,tavily,False,General budget exhausted,0
+4264000,Orion Blue,"site:ign.com ""Orion Blue""",press,2,tavily,False,General budget exhausted,0
+4264000,Orion Blue,"site:gamespot.com ""Orion Blue""",press,2,tavily,False,General budget exhausted,0
+4264000,Orion Blue,"site:game8.co ""Orion Blue""",press,2,tavily,False,General budget exhausted,0
+4264000,Orion Blue,"site:reddit.com ""Orion Blue""",social,3,tavily,True,,5
+4264000,Orion Blue,"site:tiktok.com ""Orion Blue""",social,4,tavily,True,,5
+4264000,Orion Blue,"site:instagram.com ""Orion Blue""",social,4,tavily,True,,5
+4264000,Orion Blue,"site:x.com ""Orion Blue""",social,4,tavily,True,,5
+4264000,Orion Blue,"site: ""Orion Blue""",social,4,tavily,True,,5

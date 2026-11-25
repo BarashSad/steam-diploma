@@ -1,0 +1,140 @@
+{
+    "appnews": {
+        "appid": 4264000,
+        "newsitems": [
+            {
+                "gid": "1848664643344859",
+                "title": "Update 1.1.15 \u2013 Own Multiple Boats, Ella\u2019s Salon & Fishing Improvements",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344859",
+                "is_external_url": true,
+                "author": "exlix.game",
+                "contents": "Hello, this is EXLIX. Here\u2019s what\u2019s new in update 1.1.15.FishingFor players who find rapid clicking tiring, we\u2019ve added a \u201cHold to Repeat Input\u201d option in Settings. With it on, just hold the button down to keep the tug-of-war going.Press any button during the catch animation to skip it.Added a sell/dismantle toggle for fish caught in idle mode.If a fish is tired and you don\u2019t do anything for a while, it will escape.Adjusted how fast quick fish thrash and jump.Polished the overall feel and animations of fishing.Raised fish prices. Prices are up about 1.3x on average, and up to 2x.BoatsInstead of upgrading your boat, you now buy new ones, so you can own several boats.Each boat\u2019s cabin (furniture layout) and exterior can be decorated separately.You can switch to your other boats from the boat decoration screen.Adjusted how many fish each type of fish tank can hold. Overall, tanks now hold more fish.Adjusted the crafting materials and prices for each type of fish tank.VillageElla\u2019s salon has opened in the village. You can change your skin color, eye color, hair color, and hairstyle there. (Gender and outfits can\u2019t be changed at the salon.)Jaron\u2019s blueprint shop now sells 8 blueprints, up from 5.SoundAdded a repeat-one button and a playlist switch feature to the playlist.Added many new sound effects.Bug FixesFixed an issue where a fish pulled in by the bait would jump out of the water.Fixed an issue where a fishing line caught on a rock moved strangely.Fixed an issue where the fish-caught notification covered menus and other windows.Fixed an issue where traps caught fish from other sea areas.Fixed an issue where traps occasionally used up bait without catching anything.If you have any feedback on bugs or improvements, please let us know on Discord.",
+                "feedlabel": "Community Announcements",
+                "date": 1793958434,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4264000,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1846651706691771",
+                "title": "Update 1.0.57 \u2013 New Fishing System",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706691771",
+                "is_external_url": true,
+                "author": "exlix.game",
+                "contents": "Hello, this is EXLIX. Here\u2019s what\u2019s new in update 1.0.57. The fishing system rework we mentioned in our last update is now in the game. New Fishing System {STEAM_CLAN_IMAGE}/45950146/db1f6a8fe04fd182fc91126e3e55fab571969c96.png When a fish bites, left-click to hook it. Once the tug-of-war starts, click the left mouse button rapidly to tire the fish out. When the fish starts swimming the other way, stop reeling. If the line turns red, it may snap. If you liked the old, simpler fishing, you can turn on \u201cSimple Fishing\u201d in Settings. Bug Fixes Fixed an issue where an event could be saved half-applied if you quit the game, autosaved, or returned to the lobby during a conversation or event, causing lost or duplicated rewards. Fixed an issue where loading a save made on an event-only map (such as Lyra\u2019s spaceship) left you stuck there. You\u2019ll now start in the village. Text Fixes Fixed English mistranslations. Cleaned up punctuation and gendered references in dialogue in all languages. Revised some dialogue choices (French, Italian, Korean, Polish). If you find a bug or have anything to tell us, please use our Discord.",
+                "feedlabel": "Community Announcements",
+                "date": 1792430713,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4264000,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1846651706681221",
+                "title": "Update 1.0.47 \u2013 1,168 New Villager Dialogues & 87 New Quests",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681221",
+                "is_external_url": true,
+                "author": "exlix.game",
+                "contents": "Hello, this is EXLIX. Here\u2019s what\u2019s new in update 1.0.47. This update focuses on giving you a lot more to share with the villagers. 1,168 New Villager Dialogues Villagers now have 1,168 more lines of dialogue. What they say changes with your friendship level, so the closer you get, the more new stories you\u2019ll hear. Judy 106 / Ella 104 / Cardo 100 / Hiro 100 / Lyra 98 / Ilyan 94 / Lexi 88 Leon 87 / Jaron 86 / Poppy 86 / Nava 64 / Aria 63 / Brick 49 / Cairo 43 87 New Quests Hiro 11 / Jaron 10 / Judy 8 Ella, Poppy, Ilyan, Cardo: 7 each Lyra, Leon: 6 each / Aria, Lexi: 5 each / Cairo, Brick: 4 each Gift Preferences Updated Each villager now has an updated list of gifts they love and gifts they don\u2019t. You won\u2019t see the answer right away, but talking with villagers will give you hints about what they like. Friendship Events Added 11 villagers now have friendship events. Raise your friendship with them to unlock special events and stories unique to each villager. {STEAM_CLAN_IMAGE}/45950146/708b52e32dd27b02570cdfc1f4e3b29384faf4fc.gif {STEAM_CLAN_IMAGE}/45950146/a646a4a5ac64b9a1e43e863a054446e4cbd0d6e0.gif Other Improvements The Pass Time UI is now a bar, so you can see the current time. You can now play up to 10 in-game days in the demo, up from 7. Improved the early quests and tutorial. Fishing is now easier. After the tug-of-war with a fish, it comes up more easily. Villagers who want to give you a quest now show an exclamation mark above their heads. Coming Next Our next update will rework the fishing system. Stay tuned! If you find a bug or have anything to tell us, please use our Discord.",
+                "feedlabel": "Community Announcements",
+                "date": 1792152496,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4264000,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1846651706681016",
+                "title": "Orion Blue Next Fest Livestream",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681016",
+                "is_external_url": true,
+                "author": "exlix.game",
+                "contents": "We\u2019re livestreaming Orion Blue throughout Steam Next Fest. Orion Blue is a game about catching fish and building a home. Turn your catch into materials, craft furniture, decorate your house, and get to know the villagers. The stream shows demo gameplay around the clock, and on October 20 at 12:00 UTC, the developers will play live and answer questions in chat. Free demo: playable now from the store page (10 in-game days, about 4 hours) Full release: November 30, 2026 Add Orion Blue to your wishlist to get notified at launch.",
+                "feedlabel": "Community Announcements",
+                "date": 1792149014,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4264000
+            },
+            {
+                "gid": "1846651706676437",
+                "title": "Update 0.1.39 \u2013 Controller Support",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706676437",
+                "is_external_url": true,
+                "author": "exlix.game",
+                "contents": "Controller (Gamepad) Support You can now play Orion Blue with a controller. Button labels below are based on the Xbox controller.Basic ControlsLeft Stick: Move character / boatRight Stick: Move cursorA: SelectB: BackY: Open bagStart: Open menu (same as Esc)View (Select): Show/hide quickbarD-Pad Up/Down: Switch to previous/next 10 quickbar slotsLB/RB: Select previous/next quickbar slotLT/RT: Switch UI tabsBoat & FishingA: Interact with stalls, village entrances, traps, and fish farmsB: Ready / cancel fishingA (while ready to fish): Cast baitWhile fishing: A to reel in, B to let out lineButton-mash minigame: When using a controller, a flashing controller button is shown instead of the mouse.Moving ItemsA: Pick up / placeX: Pick up half (while holding items, place one at a time)Hold X: DiscardLB + A: Quick moveB: Return to original slotPlacing Furniture, Tiles & ObjectsA: Place (for tiles, hold to keep painting)B: CancelD-Pad Left/Right: Flip furnitureBug FixesFixed an issue where the character would move after opening and closing the menu during a conversation.Fixed an issue where the boat could not enter the village when reaching the village entrance at the far left of the Shallow Sea and Jungle Sea.Fixed an issue in the village where the outlined object could differ from the object you actually interacted with.If you run into any bugs or issues, please let us know in the Steam discussions or on our Discord.",
+                "feedlabel": "Community Announcements",
+                "date": 1792043147,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4264000,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "1846018067936187",
+                "title": "Orion Blue Free Demo Out Now",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067936187",
+                "is_external_url": true,
+                "author": "exlix.game",
+                "contents": "The free demo for Orion Blue is out now. Click \"Download Demo\" on the store page to start playing right away. What is Orion Blue? A game where you catch fish, turn your catch into furniture and tools, and get to know the villagers. {STEAM_CLAN_IMAGE}/45950146/8f75e02c0adc7c9845319c4c0832f8ecf4853d65.png Like in Stardew Valley or Animal Crossing, you can talk with villagers and build relationships with them, {STEAM_CLAN_IMAGE}/45950146/8b92916e93f8d745da90e56d86f7fc911276ac6b.png and there's plenty of interior decorating to do in your home. {STEAM_CLAN_IMAGE}/45950146/4df769479c2c6af346ec816000fb6988da524ef4.png There's also an idle mode, so you can leave it running while you do other things. {STEAM_CLAN_IMAGE}/45950146/520a4a3f1aa24b0441af413f69a920dc9bc9af97.jpg What you can do in the demo Fish in 3 different areas Get to know the villagers (Romance is possible, but you probably won't have enough time in the demo to get there. Save it for the full game!) Decorate your house and boat with hundreds of furniture items and wallpapers The demo takes about 3\u20134 hours to play. Coming in the full game More furniture and decorating options Longer, more varied interactions with villagers More quests More fish Demo progress does not carry over to the full game. Joining Steam Next Fest We're taking part in Steam Next Fest, running October 19\u201326. The demo will stay available after Next Fest ends. Playtest ending With the demo now out, the playtest has ended. Thank you to everyone who took part. Tell us what you think If you find a bug or have anything to say, leave it in the Steam discussions or on our Discord. We read every message. If you enjoyed the demo, please add Orion Blue to your wishlist! You'll get a notification from Steam when it launches on November 30. \u02d0steamthumbsup\u02d0 \u02d0steamthumbsup\u02d0 \u02d0steamthumbsup\u02d0",
+                "feedlabel": "Community Announcements",
+                "date": 1791635799,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4264000,
+                "tags": [
+                    "workshop"
+                ]
+            },
+            {
+                "gid": "1844751498218933",
+                "title": "Please Be Careful: Fake Orion Blue is Still Appearing",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498218933",
+                "is_external_url": true,
+                "author": "exlix.game",
+                "contents": "We need to warn everyone again. The scammers impersonating Orion Blue are still active, and we\u2019re now seeing the same pattern repeatedly. They usually approach people through Discord, often using compromised accounts. They may say something like: \u201cWe\u2019re trying to play Orion Blue, but we need one more player.\u201d They then send you a fake Orion Blue website and ask you to download the game. DO NOT DOWNLOAD IT. Orion Blue is currently distributed ONLY through Steam. We do not distribute playable builds through random websites, Discord DMs, GitHub links, shared Google Drive links, or other direct download links. The image below is an example of one of the fake Orion Blue websites. It is NOT official. FAKE WEBSITE IMAGE They have also been sending GitHub links and shared-drive links, so please be extremely careful even if the link looks legitimate. Most of these scammers seem to approach victims through Discord. The only official Orion Blue Discord server is the one linked directly from our Steam Store page. If someone sends you another Discord server claiming to be official, please do not trust it. We have been reporting these sites and accounts to GitHub, Google Safe Browsing, domain registrars, Discord, and every other service we can. But every time one site gets reported or shut down, they simply create another one under a different address. To be completely candid, we are absolutely furious. Discord and our company email are supposed to be places where we talk with you about Orion Blue. Instead, lately we spend an unbelievable amount of time dealing with scammers using our game to hurt people. Our team has worked incredibly hard on this game, and seeing someone use it as bait to steal accounts and infect people\u2019s computers makes us furious beyond words. But more importantly, we really don\u2019t want anyone else to become a victim. Please remember: Download Orion Blue ONLY through Steam Do not trust Orion Blue download links sent through Discord DMs Be careful with GitHub and shared-drive links The only official Discord server is the one linked on our Steam Store page If you see a fake site or suspicious account, please report it and let us know We\u2019ll keep reporting them and doing everything we realistically can to stop this. Please stay safe, everyone.",
+                "feedlabel": "Community Announcements",
+                "date": 1790179758,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4264000
+            },
+            {
+                "gid": "1843481262704537",
+                "title": "Orion Blue Beta Test is Now Live! \ud83c\udfa3\ud83c\udf0a",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704537",
+                "is_external_url": true,
+                "author": "exlix.game",
+                "contents": "Orion Blue Beta Test is Now Live! \ud83c\udfa3\ud83c\udf0aHello everyone!The Orion Blue Beta Test has officially started!You can request access to the beta directly from the Orion Blue store page, and once you request access, you can start playing right away!The beta includes the same amount of content as our upcoming demo. Explore Orion Blue, go fishing, meet the residents, and enjoy some peaceful time on the planet. \ud83c\udf0a\u26f5Orion Blue is still in development, so your playtime and feedback will be a huge help in making the game better.If you encounter any bugs or have suggestions while playing, please feel free to share them with us on our Discord!We hope many of you will give Orion Blue a try.Thank you for your support, and we hope you enjoy your time on Orion Blue! \ud83d\udc99\ud83c\udfa3",
+                "feedlabel": "Community Announcements",
+                "date": 1789477622,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4264000
+            },
+            {
+                "gid": "1842846814446024",
+                "title": "Important Security Notice",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446024",
+                "is_external_url": true,
+                "author": "exlix.game",
+                "contents": "\u26a0\ufe0f Important Security Notice Hello everyone, We\u2019d like to share a quick security reminder with our community. We have recently received reports of unofficial accounts contacting players and offering access to Orion Blue test builds. To stay safe, please only trust Orion Blue information and test invitations shared through our official channels: \u2022 Steam \u2013 the official Orion Blue Steam page \u2022 Discord \u2013 https://discord.gg/y42HgC4NKR \u2022 X \u2013 https://x.com/ExlixStudi64894 Official Orion Blue game builds and playtests will only be distributed through Steam. Please avoid downloading or running Orion Blue files shared through unofficial websites, GitHub repositories, Discord DMs, or other external sources. If you receive a suspicious invitation or download link, please feel free to let us know through one of our official channels. Thank you, and please stay safe! \u2013 EXLIX Studio",
+                "feedlabel": "Community Announcements",
+                "date": 1788518076,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 4264000
+            }
+        ],
+        "count": 9
+    }
+}

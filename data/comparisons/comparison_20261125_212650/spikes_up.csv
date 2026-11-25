@@ -1,0 +1,4 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+4264000,Orion Blue,Orion Blue,796,769,27,27,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Nov 29, 2026","Nov 29, 2026",False
+2547010,Mik,Mik,1027,1003,24,24,up,upward_spike,Unpriced (Coming Soon),Unpriced (Coming Soon),False,"Dec 7, 2026","Dec 7, 2026",False
+4037370,Laica,Laica,678,658,20,20,up,upward_spike,Free,Free,False,2027,2027,False

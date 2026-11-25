@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-11-25T08:01:32.135398+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261125_075237/rank_changes.csv",
-    "selected_appid": "4653750",
-    "selected_game_title": "The Brave Few",
+    "started_at": "2026-11-25T21:35:16.003008+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261125_212650/rank_changes.csv",
+    "selected_appid": "4264000",
+    "selected_game_title": "Orion Blue",
     "top_n": 1,
     "old_snapshot_date": "2026-11-22",
     "new_snapshot_date": "2026-11-25",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-25T08:01:32.135448+00:00",
+    "finished_at": "2026-11-25T21:35:16.003027+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

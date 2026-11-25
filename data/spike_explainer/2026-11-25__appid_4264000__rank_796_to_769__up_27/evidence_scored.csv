@@ -1,0 +1,1042 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+4264000,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=WEMJKQnAbtI,"Orion Blue - Official Trailer | Coming Nov 29, 2026",,"Orion Blue — official trailer. Orion Blue is a cozy fishing adventure set on a beautiful alien planet. Catch fish, gather resources, ...",trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4264000,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681016,Orion Blue Next Fest Livestream,,"We’re livestreaming Orion Blue throughout Steam Next Fest. Orion Blue is a game about catching fish and building a home. Turn your catch into materials, craft furniture, decorate your house, and get to know the villagers. The stream shows demo gameplay around the clock, and on October 20 at 12:00 UT","gameplay, demo",75,strong,"Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+4264000,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067936187,Orion Blue Free Demo Out Now,,"The free demo for Orion Blue is out now. Click ""Download Demo"" on the store page to start playing right away. What is Orion Blue? A game where you catch fish, turn your catch into furniture and tools, and get to know the villagers. {STEAM_CLAN_IMAGE}/45950146/8f75e02c0adc7c9845319c4c0832f8ecf4853d65",demo,75,strong,Inside extended window (+15); Official Steam News (+20); Exact title match (+20); Keywords ['demo'] (+20),
+4264000,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=oxvH84s71_M,Let&#39;s Play Orion Blue | Serene Fishing On A Colorful Alien Planet. Next Fest Demo First Impressions,,"Orion Blue is a cozy fishing adventure set on a beautiful alien planet. Catch fish, gather resources, and build relationships with the ...",demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4264000,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=lYMoAMaYzEg,Orion Blue Demo Gameplay No Commentary,,Game link: https://store.steampowered.com/app/4264000/Orion_Blue/ Orion Blue is a cozy fishing adventure set on a beautiful ...,"gameplay, demo",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+4264000,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=lYMoAMaYzEg,Orion Blue Demo Gameplay No Commentary,,Game link: https://store.steampowered.com/app/4264000/Orion_Blue/ Orion Blue is a cozy fishing adventure set on a beautiful ...,"gameplay, demo",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+4264000,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=oxvH84s71_M,Let&#39;s Play Orion Blue | Serene Fishing On A Colorful Alien Planet. Next Fest Demo First Impressions,,"Orion Blue is a cozy fishing adventure set on a beautiful alien planet. Catch fish, gather resources, and build relationships with the ...",demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4264000,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=B2yA33k1Oh0,Orion Blue - Demo - Fishing. In Space,,We experienced life as a new arrival on an aquatic world. It was chill but my verdict is in the video. My proper debut is fast ...,demo,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['demo'] (+20),
+4264000,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=x0NuoS0H4gE,Orion Blue Demo | Demo Gameplay | No Commentary,,Welcome to Orion Blue! Escape to a peaceful alien planet in this cozy pixel-art fishing and life simulation adventure! Explore ...,"gameplay, demo",70,strong,"Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",
+4264000,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706676437,Update 0.1.39 – Controller Support,,Controller (Gamepad) Support You can now play Orion Blue with a controller. Button labels below are based on the Xbox controller.Basic ControlsLeft Stick: Move character / boatRight Stick: Move cursorA: SelectB: BackY: Open bagStart: Open menu (same as Esc)View (Select): Show/hide quickbarD-Pad Up/D,,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+4264000,youtube_video,outside_window,https://www.youtube.com/watch?v=Z2B8Z9ZTABw,Orion Blue - Official Announcement Trailer,,"Orion Blue is a cozy fishing adventure set on a beautiful alien planet. Catch fish, gather resources, and build relationships with the ...","trailer, announcement",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4264000,youtube_video,outside_window,https://www.youtube.com/watch?v=MRU-WYOJegQ,Orion Blue - Official Trailer,,"Cast a line on a blue alien horizon, make friends, and kit out your ship. Orion Blue blends relaxed fishing with light life-sim ...",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4264000,youtube_video,outside_window,https://www.youtube.com/watch?v=KSk6bFH3wtc,Orion Blue - Announce Trailer,,A new trailer revealing Orion Blue! Info here: https://nichegamer.com/orion-blue-announced/ FOLLOW NICHE GAMER: Site ...,trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+4264000,youtube_video,outside_window,https://www.youtube.com/watch?v=B_Nn2GY9BhI,Orion Blue - Official Announcement Trailer,,Wishlist on Steam: https://store.steampowered.com/app/4264000/Orion_Blue/ Orion Blue is a cozy fishing adventure set on a ...,"trailer, announcement",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4264000,youtube_video,outside_window,https://www.youtube.com/watch?v=Z2B8Z9ZTABw,Orion Blue - Official Announcement Trailer,,"Orion Blue is a cozy fishing adventure set on a beautiful alien planet. Catch fish, gather resources, and build relationships with the ...","trailer, announcement",55,medium,"YouTube (+15); Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",
+4264000,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=HcWpAb_IA-M,This fishing game will fish for you - Orion Blue,,This fishing game will fish for you Game: Orion Blue #orionblue #fishinggames #cozygames #indiegames #gaming #shorts.,,50,medium,Inside extended window (+15); YouTube (+15); Exact title match (+20),
+4264000,social_post,unknown_date,https://www.tiktok.com/@cozybeagaming/video/7703294349961956638,Orion Blue: A New Cozy Fishing Game Like Stardew Valley? | TikTok,"In Orion Blue, players are invited to explore a unique world. The core gameplay revolves around catching fish and gathering resources from the",,gameplay,45,medium,Social Index (+5); Exact title match (+20); Keywords ['gameplay'] (+20),social
+4264000,social_post,unknown_date,https://x.com/ExlixStudi64894/status/2108888625090089363,"OrionBlue   Wishlist on Steam! on X: ""The Orion Blue demo is finally ...","The Orion Blue demo is finally OUT!! It&#39;s free to play, so please give it a try!! Wishlist on Steam! store.steampowered.com/app/4264000/",,demo,45,medium,Social Index (+5); Exact title match (+20); Keywords ['demo'] (+20),social
+4264000,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498218933,Please Be Careful: Fake Orion Blue is Still Appearing,,"We need to warn everyone again. The scammers impersonating Orion Blue are still active, and we’re now seeing the same pattern repeatedly. They usually approach people through Discord, often using compromised accounts. They may say something like: “We’re trying to play Orion Blue, but we need one mor",,40,medium,Official Steam News (+20); Exact title match (+20),
+4264000,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704537,Orion Blue Beta Test is Now Live! 🎣🌊,,"Orion Blue Beta Test is Now Live! 🎣🌊Hello everyone!The Orion Blue Beta Test has officially started!You can request access to the beta directly from the Orion Blue store page, and once you request access, you can start playing right away!The beta includes the same amount of content as our upcoming de",,40,medium,Official Steam News (+20); Exact title match (+20),
+4264000,steam_news,outside_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446024,Important Security Notice,,"⚠️ Important Security Notice Hello everyone, We’d like to share a quick security reminder with our community. We have recently received reports of unofficial accounts contacting players and offering access to Orion Blue test builds. To stay safe, please only trust Orion Blue information and test inv",,40,medium,Official Steam News (+20); Exact title match (+20),
+4264000,web_result,unknown_date,https://store.steampowered.com/app/4264000?l=french&ref=gamehypes,Orion Blue sur Steam,"Title: Orion Blue sur Steam
+Accueil   Liste de découvertes   Liste de souhaits   Boutique des points   Actualités   Classements. Télécharger l'application mobile Steam. Toutes les marques commerciales sont la propriété de leurs titulaires aux États-Unis et dans d'autres pays. Lien vers la page d'accueil Steam. Tous les jeux > Occasionnel > Orion Blue. Orion Blue est une aventure de pêche chaleureuse se déroulant sur une magnifique planète extraterrestre. Pêchez des poissons, récoltez des ressources et tissez des liens avec les habitants. Tags populaires de la communauté pour ce produit :. Connectez-vous pour ajouter cet article à votre liste de souhaits, le suivre ou l'ignorer. Steam essaye d'en apprendre plus sur ce jeu. X Externe   Discord Externe   Voir l'historique des mises à jour   Lire les actualités liées   Consulter les discussions   Trouver des groupes de la communauté. # Télécharger Orion Blue Demo. Ce jeu n'est pas encore disponible sur Steam. Ce jeu prévoit d'être disponible dans 6 semaines. Ajoutez-le à votre liste de. ## À propos de ce jeu. **Orion Blue** est une aventure de pêche relaxante située sur une superbe planète extraterrestre. Jouez activement ou profitez de la pêche à votre rythme grce à une progression en mode Idle. Découvrez un monde paisible et construisez votre propre vie sur Orion Blue. ## **Explorez la magnifique planète Orion Blue.**. Découvrez une grande variété d’espèces de poissons et de formes de vie mystérieuses. ## **Profitez de la pêche dans des régions variées.**. Pêchez à votre rythme dans des environnements splendides et complétez votre collection. ## **Faites la connaissance des habitants de la planète.**. ## **De l’amitié à la romance.**. ## **Personnalisez votre vaisseau et votre espace de vie.**. Fabriquez des meubles à partir de différents matériaux, appliquez des papiers peints et personnalisez librement votre vaisseau et votre intérieur. Et en mode fenêtré, vous pouvez redimensionner la fenêtre librement pour garder Orion Blue dans un coin de votre écran pendant que vous faites autre chose. Vous pouvez utiliser ce générateur de widget pour créer un bout de code HTML qui peut être intégré à votre site Web afin de permettre à la clientèle d'acheter facilement ce jeu sur Steam. Connectez-vous pour ajouter vos tags à ce produit.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4264000,web_result,unknown_date,https://www.youtube.com/watch?v=MRU-WYOJegQ,Orion Blue - Official Trailer - YouTube,"Cast a line on a blue alien horizon, make friends, and kit out your ship. Orion Blue blends relaxed fishing with light life-sim systems.",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4264000,web_result,unknown_date,https://www.youtube.com/watch?v=KSk6bFH3wtc,Orion Blue - Announce Trailer - YouTube,A new trailer revealing Orion Blue! Info here: https://nichegamer.com/orion-blue-announced/ FOLLOW NICHE GAMER: Site,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4264000,web_result,unknown_date,https://indiebunny.com/games/orion-blue,"Orion Blue - News, Trailers, Release Date & Requirements","Orion Blue is a cozy fishing adventure set on a beautiful alien planet. Catch fish, gather resources, and build relationships with the locals.",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+4264000,web_result,unknown_date,https://www.youtube.com/watch?v=VUOrurXjGXQ,Orion Blue - OrionBlue Trailer - YouTube,Orion Blue - OrionBlue Trailer · Comments.,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4264000,web_result,unknown_date,https://store.steampowered.com/app/4264000/Orion_Blue,Orion Blue on Steam,"We're streaming Orion Blue demo gameplay throughout Steam Next Fest. On October 20 at 12:00 UTC, the developers will go live to play and answer your questions.",,"gameplay, demo",40,medium,"Exact title match (+20); Keywords ['gameplay', 'demo'] (+20)",general
+4264000,web_result,unknown_date,https://steamdb.info/app/5372930/config,Orion Blue Demo Configuration (App 5372930) - SteamDB,Orion Blue Demo. Demo Developer EXLIX Publisher EXLIX Supported Systems Windows. Release Date 10 October 2026. Custom Volume Controls Playable without Timed,,"demo, release date",40,medium,"Exact title match (+20); Keywords ['demo', 'release date'] (+20)",general
+4264000,web_result,unknown_date,https://www.youtube.com/watch?v=JAkMtP_2_Is,Orion Blue Demo COMPLETE - A Worm A Day Makes My Heart Go ...,"Orion Blue is a cozy fishing adventure set on a beautiful alien planet. Catch fish, gather resources, and build relationships with the",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4264000,web_result,unknown_date,https://www.youtube.com/watch?v=TLGIEVndFY4,ORION BLUE DEMO | TRYING TO CATCH FISH + COMMENTARY,ORION BLUE DEMO | TRYING TO CATCH FISH + COMMENTARY · Comments.,,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+4264000,web_result,unknown_date,https://indiebunny.com/games/orion-blue,"Orion Blue - News, Trailers, Release Date & Requirements","Orion Blue is scheduled to release 29 Nov, 2026 on Steam. Orion Blue is available on PC via Steam.",,"trailer, release date",40,medium,"Exact title match (+20); Keywords ['trailer', 'release date'] (+20)",general
+4264000,web_result,unknown_date,https://store.steampowered.com/app/4264000/Orion_Blue,Orion Blue on Steam,"Planned Release Date: Nov 29, 2026 · Explore the beautiful planet Orion Blue · Enjoy fishing across diverse regions. · Meet the residents of the planet · From",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4264000,web_result,unknown_date,https://nichegamer.com/orion-blue-announced,Cozy sci-fi fishing game Orion Blue announced - Niche Gamer,"Indie developer EXLIX has announced Orion Blue, a cozy fishing adventure set on a beautiful alien planet.
+
+Orion Blue is in development for Windows PC (via Steam), with a release set for later this year.
+
+Here’s a rundown on the game, plus its reveal trailer: [...] > Orion Blue is a relaxing fishing adventure set on a beautiful alien planet. Play actively, or enjoy fishing at your own pace with idle progression. Discover a peaceful world and build your own life on Orion Blue.
+> 
+> Features
+> [...] > Explore the beautiful planet Orion Blue – Discover diverse fish species and mysterious lifeforms. Catch fish to earn money, or process them into valuable resources.Enjoy fishing across diverse regions – Each area offers its own unique atmosphere and discoveries. Fish at your own pace in stunning environments and work toward completing your collection.Meet the residents of the planet – Orion Blue is home to many residents. Many of them are around your age. Talk with them and slowly build",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4264000,web_result,unknown_date,https://www.youtube.com/watch?v=B_Nn2GY9BhI&vl=en,Orion Blue - Official Announcement Trailer - YouTube,Wishlist on Steam: https://store.steampow... Orion Blue is a cozy fishing adventure set on a beautiful alien planet.,,"trailer, announcement",40,medium,"Exact title match (+20); Keywords ['trailer', 'announcement'] (+20)",general
+4264000,web_result,unknown_date,https://www.youtube.com/watch?v=KSk6bFH3wtc,Orion Blue - Announce Trailer - YouTube,A new trailer revealing Orion Blue! Info here: https://nichegamer.com/orion-blue-announced/ FOLLOW NICHE GAMER: Site,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4264000,web_result,unknown_date,https://nichegamer.com/orion-blue-announced,Cozy sci-fi fishing game Orion Blue announced - Niche Gamer,"Indie developer EXLIX has announced Orion Blue, a cozy fishing adventure set on a beautiful alien planet.
+
+Orion Blue is in development for Windows PC (via Steam), with a release set for later this year.
+
+Here’s a rundown on the game, plus its reveal trailer: [...] > Orion Blue is a relaxing fishing adventure set on a beautiful alien planet. Play actively, or enjoy fishing at your own pace with idle progression. Discover a peaceful world and build your own life on Orion Blue.
+> 
+> Features
+> [...] > Explore the beautiful planet Orion Blue – Discover diverse fish species and mysterious lifeforms. Catch fish to earn money, or process them into valuable resources.Enjoy fishing across diverse regions – Each area offers its own unique atmosphere and discoveries. Fish at your own pace in stunning environments and work toward completing your collection.Meet the residents of the planet – Orion Blue is home to many residents. Many of them are around your age. Talk with them and slowly build",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4264000,web_result,unknown_date,https://store.steampowered.com/app/4264000/Orion_Blue,Orion Blue on Steam,"Title: Orion Blue ; Genre: Adventure, Casual, Indie, RPG, Simulation, Sports. Developer: EXLIX. Publisher: EXLIX ; Release Date: Nov 29, 2026.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+4264000,web_result,unknown_date,https://nichegamer.com/orion-blue-announced,Cozy sci-fi fishing game Orion Blue announced - Niche Gamer,"Indie developer EXLIX has announced Orion Blue, a cozy fishing adventure set on a beautiful alien planet.
+
+Orion Blue is in development for Windows PC (via Steam), with a release set for later this year.
+
+Here’s a rundown on the game, plus its reveal trailer: [...] > Orion Blue is a relaxing fishing adventure set on a beautiful alien planet. Play actively, or enjoy fishing at your own pace with idle progression. Discover a peaceful world and build your own life on Orion Blue.
+> 
+> Features
+> [...] > Explore the beautiful planet Orion Blue – Discover diverse fish species and mysterious lifeforms. Catch fish to earn money, or process them into valuable resources.Enjoy fishing across diverse regions – Each area offers its own unique atmosphere and discoveries. Fish at your own pace in stunning environments and work toward completing your collection.Meet the residents of the planet – Orion Blue is home to many residents. Many of them are around your age. Talk with them and slowly build",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+4264000,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344859,"Update 1.1.15 – Own Multiple Boats, Ella’s Salon & Fishing Improvements",,"Hello, this is EXLIX. Here’s what’s new in update 1.1.15.FishingFor players who find rapid clicking tiring, we’ve added a “Hold to Repeat Input” option in Settings. With it on, just hold the button down to keep the tug-of-war going.Press any button during the catch animation to skip it.Added a sell/",,35,medium,Inside extended window (+15); Official Steam News (+20),
+4264000,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706691771,Update 1.0.57 – New Fishing System,,"Hello, this is EXLIX. Here’s what’s new in update 1.0.57. The fishing system rework we mentioned in our last update is now in the game. New Fishing System {STEAM_CLAN_IMAGE}/45950146/db1f6a8fe04fd182fc91126e3e55fab571969c96.png When a fish bites, left-click to hook it. Once the tug-of-war starts, cl",,35,medium,Inside extended window (+15); Official Steam News (+20),
+4264000,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681221,"Update 1.0.47 – 1,168 New Villager Dialogues & 87 New Quests",,"Hello, this is EXLIX. Here’s what’s new in update 1.0.47. This update focuses on giving you a lot more to share with the villagers. 1,168 New Villager Dialogues Villagers now have 1,168 more lines of dialogue. What they say changes with your friendship level, so the closer you get, the more new stor",,35,medium,Inside extended window (+15); Official Steam News (+20),
+4264000,youtube_video,outside_window,https://www.youtube.com/watch?v=-n4ijFkdnTE,Orion Blue (Playtest),,,,35,medium,YouTube (+15); Exact title match (+20),
+4264000,youtube_video,outside_window,https://www.youtube.com/watch?v=-n4ijFkdnTE,Orion Blue (Playtest),,,,35,medium,YouTube (+15); Exact title match (+20),
+4264000,web_result,unknown_date,https://www.tiktok.com/discover/how-to-get-the-blue-and-purple-colour-in-orion-drift,How to Get The Blue and Purple Colour in Orion Drift | TikTok,"Drift customization guide, how to complete Orion Drift challenges, quick tips for Orion Drift gameplay, Orion Drift color options, customizing drifter in Orion Drift, virtual reality gaming tips, enhancing gaming experience in Orion Drift, step-by-step Orion Drift guide, Oculus Quest 2 customization [...] how to get extra colors in orion drift (if you haven't completed rookie quests) #oriondrift #orion #virtualreality #vr #oriondriftvr #oriondriftgameplay #oriondrifttutorial #oculus #meta #oculusquest2 #oculusquest3 Get Extra Colors in Orion Drift: Quick Tutorial. Learn how to unlock extra colors in Orion Drift quickly with this easy tutorial. Enhance your gameplay experience today! #oriondrift #vr #oculusquest2 #tutorial. unlock extra colors in Orion Drift tutorial, Orion Drift customization [...] How to Get Team Excelsior and Predator in Orion Drift VR #vr #fyp #gtag #oriondriftvr #oriondrift Guide to Unlock Team Excelsior and Predator in Orion Drift VR. Learn how to unlock Team Excelsior and Team Predator in Orion Drift VR with simple gameplay tips. Join the action now! #vr #oriondriftvr. how to unlock Team Excelsior Orion Drift VR, get Team Predator Orion Drift VR, Team Excelsior team membership guide, Orion Drift gameplay tips, winning strategy in Orion Drift VR, play matches in",,gameplay,25,weak,Social Index (+5); Keywords ['gameplay'] (+20),general
+4264000,social_post,unknown_date,https://www.tiktok.com/discover/orion-blue-how-to-fish,Orion Blue How to Fish - TikTok,"Orion Blue is a cozy fishing adventure set on a beautiful alien planet. Catch fish, gather resources, and build relationships with the locals",,,25,weak,Social Index (+5); Exact title match (+20),social
+4264000,social_post,unknown_date,https://shop.tiktok.com/us/pdp/orion-blue-vegan-leather-wrap-skirt-asymmetric-midi-length-two-snap-buttons-high-shine-finish/1732233534003646701,Women's High-Shine Orion Blue Vegan Synthetic Leather ...,This blue hits different. High-shine vegan leather that wraps asymmetrically across your body with two snap buttons keeping secrets — the midi length that works,,,25,weak,Social Index (+5); Exact title match (+20),social
+4264000,social_post,unknown_date,https://shop.tiktok.com/us/pdp/tee-shirt-sullen-clothing-ever-orion-blue-premium-100-cotton-jersey/1729666907564118370,SULLEN CLOTHING Ever Orion Blue Premium T-Shirt with Skull ...,"Buy SULLEN CLOTHING Ever Orion Blue Premium T-Shirt with Skull and Cross Design, Classic Style, Soft Cotton Material, Front and Back Design on TikTok Shop.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4264000,social_post,unknown_date,https://www.instagram.com/p/Cu0FIo_Kgar,ORION BLUE This colour can be described as a medium to dark ...,This colour can be described as a medium to dark shade of blue with a touch of charcoal grey undertones. often associated with feelings of,,,25,weak,Social Index (+5); Exact title match (+20),social
+4264000,social_post,unknown_date,https://www.instagram.com/reel/DfNisA6JarZ,Immediately needed to share this game! Orion Blue is a cozy fishing ...,"Immediately needed to share this game! Orion Blue is a cozy fishing adventure set on a beautitul alien planet. Catch fish, gather resources,",,,25,weak,Social Index (+5); Exact title match (+20),social
+4264000,social_post,unknown_date,https://www.instagram.com/orionblueofficial,ORION BLUE official instagram (@orionblueofficial),VOCAL/DANCE UNIT DEBUT COVER NOW IS AVAILABLE ↓” ORION BLUE official instagram 29 posts 20 followers. Debut cover is now available ! (Link in bio),,,25,weak,Social Index (+5); Exact title match (+20),social
+4264000,social_post,unknown_date,https://x.com/nexindie/status/2023810757528543536,"Next Indie on X: ""New 2D fishing game 'Orion Blue' announced ...","New 2D fishing game 'Orion Blue' announced. Steam page: store.steampowered.com/app/4264000. 00:00. 9:24 AM · Feb 17, 2026·.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4264000,social_post,unknown_date,https://x.com/ExlixStudi64894/status/2099821314622029824,OrionBlue   Wishlist on Steam! (@ExlixStudi64894) on X,The Orion Blue Beta Test is now LIVE! Just sign up on Steam and you can start playing right away! The beta includes the same content as,,,25,weak,Social Index (+5); Exact title match (+20),social
+4264000,social_post,unknown_date,https://store.steampowered.com/app/4264000/Orion_Blue,Orion Blue on Steam,"Orion Blue is a cozy fishing adventure set on a beautiful alien planet. Catch fish, gather resources, and build relationships with the locals.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4264000,social_post,unknown_date,https://www.orionbluegroup.com,Orion Blue Group,"Whether you have a business or technology challenge, we are here to help. We possess subject matter expertise across multiple disciplines to include management, engineering, information technology, finance, supply chain, human resources, communications, supply chain and operations, and transformation.
+
+Orion Blue Group is certified by the Virginia Department of Small Business & Supplier Diversity as a Small, Micro, Women-Owned, and Minority-Owned business. [...] Orion Blue Group is a Small, Micro, Women, and Minority-Owned, Northern Virginia based management consulting and professional services firm, enabling our clients to turn the impossible into probable and desirable outcomes. [...] Transformations can be buzzword bingo and fail right out of the gate. We leverage our experience and lessons learned managing complex business transformations to help you set achievable objectives and install a regimented change management approach so that you can improve the trajectory of your business for the future.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4264000,social_post,unknown_date,https://steamcommunity.com/app/4264000,Steam Community :: Orion Blue,"Press any button during the catch animation to skip it.
+
+Added a sell/dismantle toggle for fish caught in idle mode.
+
+If a fish is tired and you don’t do anything for a while, it will escape.
+
+Adjusted how fast quick fish thrash and jump.
+
+Polished the overall feel and animations of fishing.
+
+Raised fish prices. Prices are up about 1.3x on average, and up to 2x.
+
+Boats
+
+Instead of upgrading your boat, you now buy new ones, so you can own several boats. [...] Jaron’s blueprint shop now sells 8 blueprints, up from 5.
+
+Sound
+
+Added a repeat-one button and a playlist switch feature to the playlist.
+
+Added many new sound effects.
+
+Bug Fixes
+
+Fixed an issue where a fish pulled in by the bait would jump out of the water.
+
+Fixed an issue where a fishing line caught on a rock moved strangely.
+
+Fixed an issue where the fish-caught notification covered menus and other windows.
+
+Fixed an issue where traps caught fish from other sea areas. [...] © Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries. Privacy Policy | Legal | Accessibility | Steam Subscriber Agreement | Refunds | Cookies
+
+Hello, this is EXLIX.  
+Here’s what’s new in update 1.1.15.
+
+Fishing
+
+For players who find rapid clicking tiring, we’ve added a “Hold to Repeat Input” option in Settings. With it on, just hold the button down to keep the tug-of-war going.",,,25,weak,Social Index (+5); Exact title match (+20),social
+4264000,web_result,unknown_date,https://store.steampowered.com/app/4264000,Orion Blue on Steam,"Title: Orion Blue on Steam
+Home   Discovery Queue   Wishlist   Points Shop   News   Charts. Link to the Steam Homepage. Home   Discovery Queue   Wishlist   Points Shop   News   Charts. Install Steam sign in  |  language. All Games > Casual Games > Orion Blue. Orion Blue is a cozy fishing adventure set on a beautiful alien planet. Catch fish, gather resources, and build relationships with the locals. Play actively, or relax and let the game progress with Idle Mode. Popular user-defined tags for this product:. Pixel Graphics  Simulation  Relaxing  Fishing  Life Sim  Crafting  Exploration  Underwater  Creature Collector  Management  Immersive Sim  Farming Sim  Sandbox  Base Building  Collectathon  Character Customization  Nature  Cute  2D  Atmospheric. Sign in to add this item to your wishlist, follow it, or mark it as ignored. Steam is learning about this game. This game is not yet available on Steam. Add to your wishlist and get notified when it becomes available. ## About This Game. **Orion Blue** is a relaxing fishing adventure set on a beautiful alien planet. Play actively, or enjoy fishing at your own pace with idle progression. Discover a peaceful world and build your own life on Orion Blue. ## **Explore the beautiful planet Orion Blue**. Discover diverse fish species and mysterious lifeforms. Catch fish to earn money, or process them into valuable resources. ## **Enjoy fishing across diverse regions.**. Fish at your own pace in stunning environments and work toward completing your collection. Orion Blue is home to many residents. ## **Customize your ship and living space**. Craft furniture using various materials, apply wallpapers, and freely customize your ship and personal living space. There are no reviews for this product. You can write your own review for this product to share your experience with the community. Use the area above the purchase buttons on this page to write your review. You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam. Enter up to 375 characters to add a description to your widget:. ## Popular user-defined tags for this product:(?). ## Sign In. Sign in to add your own tags to this product.",,,20,weak,Exact title match (+20),general
+4264000,web_result,unknown_date,https://store.steampowered.com/app/4264000/Orion_Blue,Orion Blue on Steam,"Title: Orion Blue on Steam
+All trademarks are property of their respective owners in the US and other countries. Privacy Policy | Legal | Accessibility | Steam Subscriber Agreement | Refunds | Cookies. Sign in to add this item to your wishlist, follow it, or mark it as ignored. This game plans to unlock in approximately 12 days. **Orion Blue** is a relaxing fishing adventure set on a beautiful alien planet. Play actively, or enjoy fishing at your own pace with idle progression. Discover a peaceful world and build your own life on Orion Blue. Discover diverse fish species and mysterious lifeforms. Catch fish to earn money, or process them into valuable resources. Each area offers its own unique atmosphere and discoveries. Fish at your own pace in stunning environments and work toward completing your collection. Orion Blue is home to many residents. Many of them are around your age. Talk with them and slowly build meaningful relationships. Each resident has their own daily life, events, and personal stories. As you grow closer, they may open up to you—and some relationships may even turn into romance. Craft furniture using various materials, apply wallpapers, and freely customize your ship and personal living space. You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam. Enter up to 375 characters to add a description to your widget:. Copy and paste the HTML below into your website to make the above widget appear.",,,20,weak,Exact title match (+20),general
+4264000,web_result,unknown_date,https://steamcommunity.com/app/4264000,Steam Community :: Orion Blue,"Press any button during the catch animation to skip it.
+
+Added a sell/dismantle toggle for fish caught in idle mode.
+
+If a fish is tired and you don’t do anything for a while, it will escape.
+
+Adjusted how fast quick fish thrash and jump.
+
+Polished the overall feel and animations of fishing.
+
+Raised fish prices. Prices are up about 1.3x on average, and up to 2x.
+
+Boats
+
+Instead of upgrading your boat, you now buy new ones, so you can own several boats. [...] Jaron’s blueprint shop now sells 8 blueprints, up from 5.
+
+Sound
+
+Added a repeat-one button and a playlist switch feature to the playlist.
+
+Added many new sound effects.
+
+Bug Fixes
+
+Fixed an issue where a fish pulled in by the bait would jump out of the water.
+
+Fixed an issue where a fishing line caught on a rock moved strangely.
+
+Fixed an issue where the fish-caught notification covered menus and other windows.
+
+Fixed an issue where traps caught fish from other sea areas. [...] Fixed an issue where traps occasionally used up bait without catching anything.
+
+If you have any feedback on bugs or improvements, please let us know on Discord.",,,20,weak,Exact title match (+20),general
+4264000,web_result,unknown_date,https://www.firstshowing.net/2026/andrew-mccarthy-in-spaceship-sci-fi-mystery-orion-official-trailer,Andrew McCarthy in Spaceship Sci-Fi Mystery 'Orion' Official Trailer | FirstShowing.net,"""You don't have a choice!"" ""Enter the chamber."" 🧑‍🚀 Blue Harbor Entertainment has revealed the first official trailer for an indie sci-fi thriller titled Orion, made by filmmaker Jaco Bouwer. This premiered at a festival last year and will be out in US theaters starting in October coming up this fall. Yet another psychological thriller mystery mashed into a sci-fi story about a spaceship coming back to Earth. What exactly is going on? Are they even actually on Earth or somewhere else? Or is he [...] / filmmaker Jaco Bouwer, director of the films Gaia and Breathing In, plus episodes of ""Spinners"" and ""Niggies"" series previously. The screenplay is written by Anne Vithayathil. Produced by Sunil Perkash, Drew Van Acker, Elle Army and Scott Army. This initially premiered at the 2025 FilmQuest Film Festival last year. Blue Harbor Entertainment debuts Jaco Bouwer's Orion sci-fi film in select US theaters starting October 2nd, 2026 this fall. Who wants to watch? [...] Here's the first official trailer (+ poster) for Jaco Bouwer's sci-fi thriller Orion, direct from YouTube:
+
+Orion Sci-Fi Trailer
+
+Orion Sci-Fi Trailer
+
+Orion Sci-Fi Poster",,trailer,20,weak,Keywords ['trailer'] (+20),general
+4264000,web_result,unknown_date,https://nichegamer.com/orion-blue-announced,Cozy sci-fi fishing game Orion Blue announced - Niche Gamer,"> Orion Blue is a relaxing fishing adventure set on a beautiful alien planet. Play actively, or enjoy fishing at your own pace with idle progression. Discover a peaceful world and build your own life on Orion Blue.
+> 
+> Features
+> [...] > Explore the beautiful planet Orion Blue – Discover diverse fish species and mysterious lifeforms. Catch fish to earn money, or process them into valuable resources.Enjoy fishing across diverse regions – Each area offers its own unique atmosphere and discoveries. Fish at your own pace in stunning environments and work toward completing your collection.Meet the residents of the planet – Orion Blue is home to many residents. Many of them are around your age. Talk with them and slowly build [...] and slowly build meaningful relationships.From friendship to romance – Each resident has their own daily life, events, and personal stories. As you grow closer, they may open up to you—and some relationships may even turn into romance.Customize your ship and living space – Craft furniture using various materials, apply wallpapers, and freely customize your ship and personal living space.",,,20,weak,Exact title match (+20),general
+4264000,web_result,unknown_date,https://steamcommunity.com/app/4264000,Steam Community :: Orion Blue,"Press any button during the catch animation to skip it.
+
+Added a sell/dismantle toggle for fish caught in idle mode.
+
+If a fish is tired and you don’t do anything for a while, it will escape.
+
+Adjusted how fast quick fish thrash and jump.
+
+Polished the overall feel and animations of fishing.
+
+Raised fish prices. Prices are up about 1.3x on average, and up to 2x.
+
+Boats
+
+Instead of upgrading your boat, you now buy new ones, so you can own several boats. [...] Each boat’s cabin (furniture layout) and exterior can be decorated separately.
+
+You can switch to your other boats from the boat decoration screen.
+
+Adjusted how many fish each type of fish tank can hold. Overall, tanks now hold more fish.
+
+Adjusted the crafting materials and prices for each type of fish tank.
+
+Village
+
+Ella’s salon has opened in the village. You can change your skin color, eye color, hair color, and hairstyle there. (Gender and outfits can’t be changed at the salon.) [...] © Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries. Privacy Policy | Legal | Accessibility | Steam Subscriber Agreement | Refunds | Cookies
+
+Hello, this is EXLIX.  
+Here’s what’s new in update 1.1.15.
+
+Fishing
+
+For players who find rapid clicking tiring, we’ve added a “Hold to Repeat Input” option in Settings. With it on, just hold the button down to keep the tug-of-war going.",,,20,weak,Exact title match (+20),general
+4264000,web_result,unknown_date,https://www.youtube.com/watch?v=HaAFo-1BLtk,"The NEW Master of Orion -Ep. 1- ""Civilization In Space"" -Let's Play Master of Orion Gameplay-(S1)","• All 10 original Master of Orion races, brought to life through compelling AI and award-winning voice acting talent
+• Over 75 researchable technological advancements 
+• Vast galaxies featuring up to a 100 different solar systems, each composed of myriad planets and stars
+• Customizable ships with diverse styles for each race
+• Multiple ways to win – including conquest, technological, diplomatic, and more 
+• Enthralling gameplay that will have you saying “just one more turn” again and again [...] There are tons of great websites out there to help with tutorials, guides, resources and general gameplay tips. Check these sites out here:
+
+The The NEW Master of Orion subreddit: 
+
+The The NEW Master of Orion wiki: 
+
+You can download The NEW Master of Orion from one of the following official websites.
+
+Download The NEW Master of Orion from the Steam store here: 
+
+Download The NEW Master of Orion from the official website here: [...] Discover Master of Orion as it was always meant to be: A fully orchestrated score, interstellar warfare and exploration against the backdrop of beautifully animated far flung galaxies. Confront hostile civilizations, negotiate with mysterious aliens, share knowledge with allies and uncover this newly imagined universe.
+
+The NEW Master of Orion Gameplay Features:",,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+4264000,web_result,unknown_date,https://strategywiki.org/wiki/Master_of_Orion/Colony_Types,Master of Orion/Colony Types — StrategyWiki | Strategy guide and game reference wiki,"Second best. These are either just short of their prime or just past it. They are close to optimal, but just not quite optimal. If the game had taken place in a different millenia these might have been yellows.
+
+## Red[edit | edit source]
+
+One of the worst. These are well beyond their prime and are very often on the bad side of the spectrum in terms of habitability. Don't hope for too much when scouting these systems early or at all.
+
+## Blue[edit | edit source] [...] # Master of Orion/Colony Types
+
+From StrategyWiki, the video game walkthrough and strategy guide wiki
+
+< Master of Orion
+
+Jump to navigation
+Jump to search
+
+ Master of Orion
+ Table of Contents
+ Gameplay
+ Walkthrough
+
+Table of Contents
+
+Gameplay
+
+ Controls
+ Backstory
+ Victory conditions
+ Colony Types
+
+Walkthrough
+
+Interstellar combat
+
+ Tactical initiative and movement
+ Attack range
+ Attack roll
+ Damage
+ Shields
+ Planetary attacks and defenses
+ Miscellaneous factors
+
+Managing your economy [...] The idea is to fight over almost every single world you can get, but some concerns do override this, those can be discussed later. At the beginning, you just want to scout everything you can scout and colonize everything you can colonize as fast as you can safely colonize it.
+
+## Contents
+
+ 1 Yellow
+ 2 Green
+ 3 Red
+ 4 Blue
+ 5 White
+ 6 Purple
+
+## Yellow[edit | edit source]",,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+4264000,web_result,unknown_date,https://steamcommunity.com/app/4264000,Steam Community :: Orion Blue,"Press any button during the catch animation to skip it.
+
+Added a sell/dismantle toggle for fish caught in idle mode.
+
+If a fish is tired and you don’t do anything for a while, it will escape.
+
+Adjusted how fast quick fish thrash and jump.
+
+Polished the overall feel and animations of fishing.
+
+Raised fish prices. Prices are up about 1.3x on average, and up to 2x.
+
+Boats
+
+Instead of upgrading your boat, you now buy new ones, so you can own several boats. [...] Each boat’s cabin (furniture layout) and exterior can be decorated separately.
+
+You can switch to your other boats from the boat decoration screen.
+
+Adjusted how many fish each type of fish tank can hold. Overall, tanks now hold more fish.
+
+Adjusted the crafting materials and prices for each type of fish tank.
+
+Village
+
+Ella’s salon has opened in the village. You can change your skin color, eye color, hair color, and hairstyle there. (Gender and outfits can’t be changed at the salon.) [...] Jaron’s blueprint shop now sells 8 blueprints, up from 5.
+
+Sound
+
+Added a repeat-one button and a playlist switch feature to the playlist.
+
+Added many new sound effects.
+
+Bug Fixes
+
+Fixed an issue where a fish pulled in by the bait would jump out of the water.
+
+Fixed an issue where a fishing line caught on a rock moved strangely.
+
+Fixed an issue where the fish-caught notification covered menus and other windows.
+
+Fixed an issue where traps caught fish from other sea areas.",,,20,weak,Exact title match (+20),general
+4264000,web_result,unknown_date,https://steamcommunity.com/app/4264000,Steam Community :: Orion Blue,"Jaron’s blueprint shop now sells 8 blueprints, up from 5.
+
+Sound
+
+Added a repeat-one button and a playlist switch feature to the playlist.
+
+Added many new sound effects.
+
+Bug Fixes
+
+Fixed an issue where a fish pulled in by the bait would jump out of the water.
+
+Fixed an issue where a fishing line caught on a rock moved strangely.
+
+Fixed an issue where the fish-caught notification covered menus and other windows.
+
+Fixed an issue where traps caught fish from other sea areas. [...] Press any button during the catch animation to skip it.
+
+Added a sell/dismantle toggle for fish caught in idle mode.
+
+If a fish is tired and you don’t do anything for a while, it will escape.
+
+Adjusted how fast quick fish thrash and jump.
+
+Polished the overall feel and animations of fishing.
+
+Raised fish prices. Prices are up about 1.3x on average, and up to 2x.
+
+Boats
+
+Instead of upgrading your boat, you now buy new ones, so you can own several boats. [...] © Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries. Privacy Policy | Legal | Accessibility | Steam Subscriber Agreement | Refunds | Cookies
+
+Hello, this is EXLIX.  
+Here’s what’s new in update 1.1.15.
+
+Fishing
+
+For players who find rapid clicking tiring, we’ve added a “Hold to Repeat Input” option in Settings. With it on, just hold the button down to keep the tug-of-war going.",,,20,weak,Exact title match (+20),general
+4264000,web_result,unknown_date,https://mockupverse.fandom.com/wiki/Windows_Orion,Windows Orion | The Mockupverse Wiki | Fandom,"The Mockupverse Wiki
+
+Hey. It would be cool if you joined our Discord server. Also, we have rebranded, that's why you might not be familiar with our new theme!
+
+READ MORE
+
+The Mockupverse Wiki
+The Mockupverse Wiki
+
+# Windows Orion
+
+(NOTE THAT THIS ARTICLE IS BEING REVAMPED!)
+
+## Windows Orion
+
+Windows Infinity444444
+
+Bootscreen as of Global Release Version 1.1
+
+### Release date
+
+January 16, 2024
+
+### Created by
+
+Microsoft
+
+### Developer
+
+Windows Operations Collective
+
+### OS family [...] Windows 12
+
+## Windows Orion
+
+Windows Infinity444444
+
+### Release date
+
+### Created by
+
+### Developer
+
+### OS family
+
+### Source model
+
+### Update method
+
+### Kernel type
+
+### Latest version
+
+### Latest version (to date)
+
+### State
+
+### Support ends
+
+Extended Support: March 21, 2040
+
+### Codename
+
+### Final name
+
+### Preceded by
+
+### Succeeded by [...] Alpha 000.18 November 1, 2023
+
+Beta 000.51 November 7, 2023
+
+Beta 000.59 November 12, 2023
+
+Beta 000.91 November 15, 2023
+
+Beta 00.5 November 29, 2023
+
+Beta 00.30 December 6, 2023
+
+Beta 00.98 December 7, 2023
+
+Beta 00.99 December 9, 2023
+
+### Pre-Release Full Release[]
+
+Pre-Release 0.1 December 10, 2023
+
+## Fandom logo
+
+Fandom logo
+
+### Explore properties
+
+### Follow Us
+
+### Overview
+
+### Community
+
+### Advertise
+
+### Fandom Apps
+
+Fandom App logo
+
+ Store icon
+ Store icon
+
+Store icon
+Store icon",,release date,20,weak,Keywords ['release date'] (+20),general
+4264000,web_result,unknown_date,https://thegameextras.com/game/orion-trail,"Orion Trail (2015) — Release Date, Cheats, Price & Requirements | TheGameExtras","All media
+
+Orion Trail gameplay screenshot   Orion Trail gameplay screenshot   Orion Trail gameplay screenshot   Orion Trail gameplay screenshot   Orion Trail gameplay screenshot   Orion Trail gameplay screenshot
+
+Quick answers
+
+## Orion Trail — frequently asked questions
+
+When did Orion Trail come out? 
+
+Orion Trail was released on 12 October 2015 for Linux, Mac and PC (Microsoft Windows).
+
+If you like this
+
+## Games like Orion Trail
+
+ See all
+
+Pikuniku cover art 75
+
+### Pikuniku [...] Verified  Sources: IGDB , Steam
+
+## What Orion Trail is
+
+Orion Trail was released in 2015. It was published by Schell Games. It is available on Linux, Mac and PC (Microsoft Windows). It runs on Unity.
+
+## The premise, in the publisher's words [...] Skip to content
+
+TheGameExtras
+
+TheGameExtras
+
+Orion Trail cover art
+
+# Orion Trail
+
+Dare to travel the absurd and dangerous Orion Trail, where only the luckiest, bravest, and most stubborn captains will make it all the way to the end. Become famously incredible or incredibly dead in this…
+
+12 October 2015
+
+Adventure Indie Role-playing (RPG) Action Comedy Science fiction
+
+Orion Trail is an adventure, released 12 October 2015 on Linux, Mac and PC (Microsoft Windows).",,"gameplay, release date",20,weak,"Keywords ['gameplay', 'release date'] (+20)",general
+4264000,web_result,unknown_date,https://steamcommunity.com/app/4264000,Steam Community :: Orion Blue,"Press any button during the catch animation to skip it.
+
+Added a sell/dismantle toggle for fish caught in idle mode.
+
+If a fish is tired and you don’t do anything for a while, it will escape.
+
+Adjusted how fast quick fish thrash and jump.
+
+Polished the overall feel and animations of fishing.
+
+Raised fish prices. Prices are up about 1.3x on average, and up to 2x.
+
+Boats
+
+Instead of upgrading your boat, you now buy new ones, so you can own several boats. [...] Jaron’s blueprint shop now sells 8 blueprints, up from 5.
+
+Sound
+
+Added a repeat-one button and a playlist switch feature to the playlist.
+
+Added many new sound effects.
+
+Bug Fixes
+
+Fixed an issue where a fish pulled in by the bait would jump out of the water.
+
+Fixed an issue where a fishing line caught on a rock moved strangely.
+
+Fixed an issue where the fish-caught notification covered menus and other windows.
+
+Fixed an issue where traps caught fish from other sea areas. [...] Each boat’s cabin (furniture layout) and exterior can be decorated separately.
+
+You can switch to your other boats from the boat decoration screen.
+
+Adjusted how many fish each type of fish tank can hold. Overall, tanks now hold more fish.
+
+Adjusted the crafting materials and prices for each type of fish tank.
+
+Village
+
+Ella’s salon has opened in the village. You can change your skin color, eye color, hair color, and hairstyle there. (Gender and outfits can’t be changed at the salon.)",,,20,weak,Exact title match (+20),general
+4264000,web_result,unknown_date,https://www.firstshowing.net/2026/andrew-mccarthy-in-spaceship-sci-fi-mystery-orion-official-trailer,Andrew McCarthy in Spaceship Sci-Fi Mystery 'Orion' Official Trailer | FirstShowing.net,"""You don't have a choice!"" ""Enter the chamber."" 🧑‍🚀 Blue Harbor Entertainment has revealed the first official trailer for an indie sci-fi thriller titled Orion, made by filmmaker Jaco Bouwer. This premiered at a festival last year and will be out in US theaters starting in October coming up this fall. Yet another psychological thriller mystery mashed into a sci-fi story about a spaceship coming back to Earth. What exactly is going on? Are they even actually on Earth or somewhere else? Or is he [...] / filmmaker Jaco Bouwer, director of the films Gaia and Breathing In, plus episodes of ""Spinners"" and ""Niggies"" series previously. The screenplay is written by Anne Vithayathil. Produced by Sunil Perkash, Drew Van Acker, Elle Army and Scott Army. This initially premiered at the 2025 FilmQuest Film Festival last year. Blue Harbor Entertainment debuts Jaco Bouwer's Orion sci-fi film in select US theaters starting October 2nd, 2026 this fall. Who wants to watch?",,trailer,20,weak,Keywords ['trailer'] (+20),general
+4264000,web_result,unknown_date,https://steamcommunity.com/app/4264000,Steam Community :: Orion Blue,"Press any button during the catch animation to skip it.
+
+Added a sell/dismantle toggle for fish caught in idle mode.
+
+If a fish is tired and you don’t do anything for a while, it will escape.
+
+Adjusted how fast quick fish thrash and jump.
+
+Polished the overall feel and animations of fishing.
+
+Raised fish prices. Prices are up about 1.3x on average, and up to 2x.
+
+Boats
+
+Instead of upgrading your boat, you now buy new ones, so you can own several boats. [...] Jaron’s blueprint shop now sells 8 blueprints, up from 5.
+
+Sound
+
+Added a repeat-one button and a playlist switch feature to the playlist.
+
+Added many new sound effects.
+
+Bug Fixes
+
+Fixed an issue where a fish pulled in by the bait would jump out of the water.
+
+Fixed an issue where a fishing line caught on a rock moved strangely.
+
+Fixed an issue where the fish-caught notification covered menus and other windows.
+
+Fixed an issue where traps caught fish from other sea areas. [...] Fixed an issue where traps occasionally used up bait without catching anything.
+
+If you have any feedback on bugs or improvements, please let us know on Discord.",,,20,weak,Exact title match (+20),general
+4264000,web_result,unknown_date,https://store.steampowered.com/app/4264000/%E7%8C%8E%E6%88%B7%E5%BA%A7%E4%B9%8B%E8%93%9D?l=english&curator_clanid=33856034,Orion Blue,"Publisher EXLIX Release Nov 29, 2026 Orion Blue is a cozy fishing adventure set on a beautiful alien planet.",,,20,weak,Exact title match (+20),general
+4264000,web_result,unknown_date,https://www.pr.com/company-profile/overview/6106,Orion Blue Books Company Profile - PR.com,"Orion Blue Books- doing valuation blue books for 33 years. We have data on Guitars, Audio, Pro Sound, Tools, Camera, Video, Vintage Guitars, Car Stereo's, and Computers.....  
+Visit our web site: orionbluebook or if you would like to just try a couple of look-up email us for a speical link: roger@orionbluebook.com [...] ## About
+
+www.orionbluebook.com [...] Status
+
+Private Company
+
+Founded
+
+1973",,,20,weak,Exact title match (+20),general
+4264000,web_result,unknown_date,https://www.orionbluegroup.com,Orion Blue Group,"Orion Blue Group is a Small, Micro, Women, and Minority-Owned, Northern Virginia based management consulting and professional services firm, enabling our clients to turn the impossible into probable and desirable outcomes. [...] Whether you have a business or technology challenge, we are here to help. We possess subject matter expertise across multiple disciplines to include management, engineering, information technology, finance, supply chain, human resources, communications, supply chain and operations, and transformation.
+
+Orion Blue Group is certified by the Virginia Department of Small Business & Supplier Diversity as a Small, Micro, Women-Owned, and Minority-Owned business. [...] Transformations can be buzzword bingo and fail right out of the gate. We leverage our experience and lessons learned managing complex business transformations to help you set achievable objectives and install a regimented change management approach so that you can improve the trajectory of your business for the future.",,,20,weak,Exact title match (+20),general
+4264000,web_result,unknown_date,https://steamcommunity.com/app/4264000,Steam Community :: Orion Blue,"© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries. Privacy Policy | Legal | Accessibility | Steam Subscriber Agreement | Refunds | Cookies
+
+Hello, this is EXLIX.  
+Here’s what’s new in update 1.1.15.
+
+Fishing
+
+For players who find rapid clicking tiring, we’ve added a “Hold to Repeat Input” option in Settings. With it on, just hold the button down to keep the tug-of-war going. [...] Jaron’s blueprint shop now sells 8 blueprints, up from 5.
+
+Sound
+
+Added a repeat-one button and a playlist switch feature to the playlist.
+
+Added many new sound effects.
+
+Bug Fixes
+
+Fixed an issue where a fish pulled in by the bait would jump out of the water.
+
+Fixed an issue where a fishing line caught on a rock moved strangely.
+
+Fixed an issue where the fish-caught notification covered menus and other windows.
+
+Fixed an issue where traps caught fish from other sea areas. [...] Fixed an issue where traps occasionally used up bait without catching anything.
+
+If you have any feedback on bugs or improvements, please let us know on Discord.",,,20,weak,Exact title match (+20),general
+4264000,reddit_discussion,unknown_date,https://www.reddit.com/r/ArtemisProgram/comments/1u74mpm/can_a_blue_origin_cislunar_transporter_take_orion,Can a Blue Origin cislunar Transporter take Orion to LLO so the Blue Origin and SpaceX mission architectures will be similar? : r/ArtemisProgram,"Title: Can a Blue Origin cislunar Transporter take Orion to LLO so the Blue Origin and SpaceX mission architectures will be similar? : r/ArtemisProgram
+# Can a Blue Origin cislunar Transporter take Orion to LLO so the Blue Origin and SpaceX mission architectures will be similar? Skip to main contentCan a Blue Origin cislunar Transporter take Orion to LLO so the Blue Origin and SpaceX mission architectures will be similar? The Transporter is to be able to take 100 tons to lunar orbit, per John Couluris of Blue Origin. I read that as it will be able to reach NRHO with 100t of propellant remaining in its tanks. Whether it can propel the 27t Orion to TLI and enter LLO with it on the usual 4 day trajectory? If so, the ESM will have enough dV to leave LLO for TEI, same as the proposed HLS ride along mission architecture. The Transporter is a lot smaller than HLS but has a much lower dry mass. With no landing it devotes all of its prop to TLI and orbital insertion, so this seems like it may be possible. Nicely, LLO would significantly reduce the work Mk2 has to do, its propellant requirements, since Mk2 won't be going back and forth from NRHO. Per the January OIG report, the transporter needs to be filled in LEO and then a second time in a high eccentricity MEO. Perhaps this would work with 9x4, some thermal management upgrades, and a crew rating, but I’d doubt this a lot more than the proposed Starship architecture for a while yet. In short, I’m guessing 100 tons is a low energy transfer, and that 9X4 is not going to be ready for this sort of mission for a long time. Starship won't be compatible with the fuel, nor will there be enough of it, on Transporter to make it fully fueled. (Mk2 needs a lot of prop to go NRHO-lunar surface-NRHO in the stated mission architecture, thus the need for the Transporter to carry a lot of prop to offload. Once that Transporter delivers Orion to LLO it's done.* Orion and Mk 2 will perform their mission just like the original plan, just with a shorter trip to the surface.",,,10,weak,Reddit (+10),social
+4264000,reddit_discussion,unknown_date,https://www.reddit.com/r/BlueOrigin/comments/1u74n8a/can_a_blue_origin_cislunar_transporter_take_orion,Can a Blue Origin cislunar Transporter take Orion to LLO so the Blue Origin and SpaceX mission architectures will be similar? : r/BlueOrigin,"Title: Can a Blue Origin cislunar Transporter take Orion to LLO so the Blue Origin and SpaceX mission architectures will be similar? : r/BlueOrigin
+Skip to main contentCan a Blue Origin cislunar Transporter take Orion to LLO so the Blue Origin and SpaceX mission architectures will be similar? Image 1 Go to BlueOrigin. # Can a Blue Origin cislunar Transporter take Orion to LLO so the Blue Origin and SpaceX mission architectures will be similar? Can a Blue Origin cislunar Transporter take Orion to LLO so the Blue Origin and SpaceX mission architectures will be similar? The Transporter is to be able to take 100 tons to lunar orbit, per John Couluris of Blue Origin. I read that as it will be able to reach NRHO with 100t of propellant remaining in its tanks. Whether it can propel the 27t Orion to TLI and enter LLO with it on the usual 4 day trajectory? If so, the ESM will have enough dV to leave LLO for TEI, same as the proposed HLS ride along mission architecture. With no landing it devotes all of its prop to TLI and orbital insertion, so this seems like it may be possible. Nicely, LLO would significantly reduce the work Mk2 has to do, its propellant requirements, since Mk2 won't be going back and forth from NRHO. Was Transporter designed to take Mk2 back and forth to a lower orbit from NRHO or to simply meet Mk2 in LLO and refuel it? ""The transporter will be launched into low Earth orbit on a New Glenn rocket and then fueled using excess propellant from New Glenn upper stages, ..."". Someone is gonna win and at current pace it is unlikely to be anyone besides SpaceX that will determine the architecture. The bottom line is, if NASA wants both missions to go to LLO to simplify operations and planning for future missions, and the physics works out for Mk2 and Transporter, then they'll ask Blue Origin to do that. I don’t know how you can conclude this when the interim Blue lander is expected to have ECLSS and starship HLS is going to be just a V3 with a docking port slapped on it. Image 9 r/KerbalSpaceProgram•3mo ago    ### Is it possible to make the Space Shuttle able to preform interplanetary missions, or at least reach Kerbin's moons?",,,10,weak,Reddit (+10),social
+4264000,reddit_discussion,unknown_date,https://www.reddit.com/r/Astronomy/comments/1850cmj/why_does_rigel_the_brightest_star_in_orion_has_a,Why does Rigel (the brightest star in Orion) has a bayer designation as β inspite being the brightest star in Orion Constellation? : r/Astronomy,"Title: Why does Rigel (the brightest star in Orion) has a bayer designation as β inspite being the brightest star in Orion Constellation? : r/Astronomy
+Skip to main contentWhy does Rigel (the brightest star in Orion) has a bayer designation as β inspite being the brightest star in Orion Constellation? Image 1 Go to Astronomy. # Why does Rigel (the brightest star in Orion) has a bayer designation as β inspite being the brightest star in Orion Constellation? What is the reason behind this anomaly? Kaler_has speculated that Rigel was designated by_Bayer_during a rare period when it was outshone by the variable star Betelgeuse, resulting in the latter star being designated ""alpha"" and Rigel designated ""beta""._. Rigel and Betelgeuse were both considered to be of the first magnitude class, and in Orion the stars of each class are thought to have been ordered north to south._. Stars in the Orion constellation. *   Rigel is a blue supergiant star located in the constellation Orion roughly 864 light-years from Earth. This is Rigel compared to the Sun..Image 16 r/ThatsInsane•2y ago    ### Rigel is a blue supergiant star located in the constellation Orion roughly 864 light-years from Earth. This is Rigel compared to the Sun.. Image 17: r/ThatsInsane - Rigel is a blue supergiant star located in the constellation Orion roughly 864 light-years from Earth. *   Sirius, the brightest star, is 8.6 light years from Earth and this is one of the best photos taken by the Astronomitaly groupImage 20 r/space•4y ago    ### Sirius, the brightest star, is 8.6 light years from Earth and this is one of the best photos taken by the Astronomitaly group  Image 21: r/space - Sirius, the brightest star, is 8.6 light years from Earth and this is one of the best photos taken by the Astronomitaly group   18K upvotes ·357 comments. *   Size of the Sun compared to the other stars in spaceImage 31 r/interestingasfuck•2y ago    ### Size of the Sun compared to the other stars in space  Image 32: r/interestingasfuck - Size of the Sun compared to the other stars in space   1.5K upvotes ·79 comments. 1 Image.Image 54 r/space•8y ago    ### Betelgeuse to Rigel in Orion - 2,496 Light frames.",,,10,weak,Reddit (+10),social
+4264000,reddit_discussion,unknown_date,https://www.reddit.com/r/transformers/comments/1sejn4e/why_is_this_blokee_called_orion_pax,Why is this blokee called Orion Pax? : r/transformers,"Title: Why is this blokee called Orion Pax? : r/transformers
+# Why is this blokee called Orion Pax? Skip to main contentWhy is this blokee called Orion Pax? Image 1 Go to transformers. Image 2: r/transformers - Why is this blokee called Orion Pax? My understanding is that Orion Pax is Optimus Prime when he was younger with out his cog. So why is the pictured Blokee called Orion Pax? ChatGPT helps keep teens safe by default. Power your adventure with the new Nissan Pathfinder and Wards most-awarded V6 engine over the last 30 years. If you would possibly be open, its largely my main hobby to reach out to new fans ask them if they would be open to chatting about the deeper intracacies of the franchise, its quite the rabbit hole and its easy to get lost, so I like to offer to helping hand. it's an origin story for optimus and megatron in that universe and was a source of inspiration for the movie 😁 also it's cool. Because this is based on the IDW Orion Pax design, which looked a lot more like ordinary Optimus than most Orion Pax designs. This one is also a bit weird tbf, the one that's Orion in regular colors is Optimus Prime. The blue one is based off a specific panel of orion in the comics and the normal is based of idw optimus prime. This Blokees is based off of the IDW Comics version of Orion Pax, where Cybertron’s government is still corrupt, but instead of cogless bots, the Cybertronians that are discriminated against is based off of their altmode. Idw comics version of Orion pax. Transformers one is a standalone story and it takes a lot of creative liberties, in all other transformers media before the war the overworked lower class can transform. I only read a little of the IDW but I remember, I think, he is from there originally before he appeared in the 86 movie? This version of Orion Pax is a coloured blue variant of the IDW comic book version of Orion Pax, where he was a police officer that worked for the corrupt senate. IDW comics portrayal of Orion Pax. Optimus Prime's origin story in Transformers.",,,10,weak,Reddit (+10),social
+4264000,reddit_discussion,unknown_date,https://www.reddit.com/r/astrophotography/comments/1puo2k8/the_great_orion_nebula_in_natural_color,The Great Orion Nebula in natural color : r/astrophotography,"Title: The Great Orion Nebula in natural color : r/astrophotography
+# The Great Orion Nebula in natural color : r/astrophotography. Skip to main contentThe Great Orion Nebula in natural color : r/astrophotography. Sign UpSign up for RedditLog InLog in to Reddit. Image 1 Go to astrophotography. # The Great Orion Nebula in natural color. Image 2: r/astrophotography - The Great Orion Nebula in natural colorImage 3: r/astrophotography - The Great Orion Nebula in natural color. Image 4: r/astrophotography - The Great Orion Nebula in natural color. Don't miss Disney and Pixar's Hoppers, a wild new adventure, now streaming on Disney+. Image 6: Thumbnail image: Don't miss Disney and Pixar's Hoppers, a wild new adventure, now streaming on Disney+. The Great Orion Nebula, Messier 42, shows beautiful colors. The green/teal in the center (Trapezium area) is due to oxygen emission. The pink is from hydrogen emission and the blue is reflection from the many blue stars in the area. The brighter region surrounding the Trapezium included 16 6.2 second exposures and the rest of the area was 72 1-minute exposures. This image was obtained from the slopes of Mauna Kea, Hawaii (9,000 feet) on a bright airglow night (Bortle 3, borderline 4), and during high winds, gusting to about 30 miles per hour. Photoshop included a lens profile so the raw converted images are highly calibrated with a flat field (in the lens profile), bias corrected, and the sensor blocked dark current. Photoshop included the application of the color correction matrix that is typically skipped in the traditional astro workflow. No darks, no flats, no bias frames measured (bias is in the camera EXIF data and a flat field is in the raw converter lens profile and corrected during raw conversion). This is a highly calibrated image with color managed workflow. This might be a stupid question, but are these ""natural colors"" close to what I would see in space myself? I've seen the teal Trapezium and pink hydrogen emission and blue reflection nebula in 8-inch and larger telescopes in M42. This is ~90% of what drives the CCM to be different than the identity matrix, with the other 10% being small adjustments that are dependent on the light type.",,,10,weak,Reddit (+10),social
+4264000,social_post,unknown_date,https://www.tiktok.com/@studio.minc/video/7671117334806859028,"ORION, a new silhouette emerges - in Navy Blue it resembles a ...","1397 Likes, TikTok video from STUDIO MINC (@studio.minc): “ORION, a new silhouette emerges - in Navy Blue it resembles a starry night now",,,5,weak,Social Index (+5),social
+4264000,social_post,unknown_date,https://www.instagram.com/blueorionband,Blue Orion (@blueorionband) • Instagram photos and videos,Blue Orion 23 posts 505 followers 100 following Musician/band 🌟 5 Piece Rock Band 🌟 North Cornwall Message us for enquiries! Catch us from 7-7:45 and again,,,5,weak,Social Index (+5),social
+4264000,social_post,unknown_date,https://www.instagram.com/p/DX94FM1D7IK,"NASA's Kennedy Space Center on Instagram: ""From sea to shining sea – NASA’s Artemis II Orion spacecraft is back at NASA Kennedy. You may rememb…""","Image 5 description: A convoy transporting an oversize load travels on a highway past a blue “Welcome to Mississippi,” sign with forested roadside greenery stretching along both sides of the road. Photo credit: NASA/Robert Hirner
+
+Image 6 description: The Orion crew module sits secured on a transport platform, with a crane positioned behind it, in an outdoor lot at sunrise. Photo credit: NASA/Robert Hirner [...] Following a cross-country trek across the U.S., engineers will gather post-flight data to better understand how Orion performed - key insights that will shape future Artemis missions. 
+
+Image 1 description: A white SUV and a large oversize‑load truck are on a two‑lane highway stretching through an open desert landscape, with distant mountains under a sky filled with streaked, textured clouds. Photo credit: NASA/Robert Hirner [...] Image 7 description: Technicians and engineers work around the Orion crew module inside a clean room, using ladders, lights, and equipment to inspect and document the spacecraft. Photo credit: NASA/Kim Shiflett
+
+[Image: Photo by NASA's Kennedy Space Center on May 05, 2026.]
+
+[Image: Photo by NASA's Kennedy Space Center on May 05, 2026.]
+
+[Image: Photo by NASA's Kennedy Space Center on May 05, 2026.]
+
+[Image: Photo by NASA's Kennedy Space Center on May 05, 2026.]",,,5,weak,Social Index (+5),social
+4264000,social_post,unknown_date,https://x.com/FelixSchlang/status/2114027904170446958,Orion docks with Blue Moon and stays about two days. The crew ... - X,Orion docks with Blue Moon and stays about two days. The whole mission is 14 days in Earth orbit.,,,5,weak,Social Index (+5),social
+4264000,social_post,unknown_date,https://x.com/NASAArtemis/status/2113764591951831073,NASA Artemis on X,"Blue Origin will use three transfer stages that operate like a multistage rocket to launch into low Earth orbit, and then enter lunar orbit.",,,5,weak,Social Index (+5),social
+4264000,social_post,unknown_date,https://www.cbinsights.com/company/blue-orion,"Blue Orion - Products, Competitors, Financials, Employees, Headquarters Locations","Technology Vendors
+ Recent Research
+ Newsletter
+ Media Support
+ Login
+
+CB Insights
+
+Blue Orion company logo
+
+# Blue Orion
+
+blueorion.us
+
+## Founded Year
+
+2022
+
+## About Blue Orion [...] Blue Orion is a solutions firm focused on building and managing teams within the Technology and Finance & Accounting sectors. The company offers services including business consulting, IT integration, project management, and staff augmentation, primarily serving Fortune 500 clients with a talent database. Blue Orion specializes in sourcing and delivering service-based solutions for technology, accounting, and engineering professionals. It was founded in 2022 and is based in Orlando, Florida. [...] ## Headquarters Location
+
+9631 Turtle Landing Ct
+
+Orlando, Florida, 32832,
+
+United States
+
+Loading...
+
+Loading...
+
+### Blue OrionFrequently Asked Questions (FAQ)
+
+ When was Blue Orion founded?
+
+  Blue Orion was founded in 2022.
+ Where is Blue Orion's headquarters?
+
+  Blue Orion's headquarters is located at 9631 Turtle Landing Ct, Orlando.
+
+Loading...
+
+Loading...",,,5,weak,Social Index (+5),social
+4264000,social_post,unknown_date,https://www.seasky.org/constellations/constellation-orion.html,Constellation Orion - The Constellations on Sea and Sky,"Blue Giant Star
+
+Yellow-White Dwarf Star
+
+Multiple star System
+
+Blue-White Giant Star
+
+Binary Star System
+
+Multiple Star System
+
+Blue-White Giant Star
+
+Orange Giant Star
+
+Multiple star System
+
+White Dwarf Star
+
+Binary Star System
+
+Triple Star System
+
+Blue-White Dwarf Star
+
+Blue Subgiant Star
+
+Blue-White Supergiant Star
+
+White Dwarf Star
+
+Orange Giant Star
+
+Red Giant Star
+
+9.00
+
+8.30
+
+0.50
+
+0.13
+
+1.64
+
+1.69
+
+1.77
+
+2.09
+
+2.23
+
+2.77
+
+3.16
+
+3.42
+
+3.54
+
+3.67
+
+3.80
+
+3.90
+
+4.09
+
+4.30
+
+4.35
+
+4.39 [...] Orion contains a number of bright stars, including two of the ten brightest stars in the sky. Rigel is the brightest with a visual magnitude of 0.13. It is also the sixth brightest star in the sky. Rigel is a triple star system whose primary member is a blue supergiant. This massive star is 85,000 times brighter than the Sun and is located 863 light years away. Betelgeuse is the second brightest star in Orion and the tenth brightest star in the sky. It is a red supergiant star with a magnitude [...] Messier objects, Orion contains a number of other notable deep-sky objects. The Horsehead Nebula is a region of dark dust against a bright nebula. It gets its name from its shape that resembles that of a horse head. Barnard’s Loop is an emission nebula that forms a large arc nearly 300 light years in diameter. The Flame Nebula (NGC 2024) is an emission nebula illuminated by the blue supergiant star Alnitak located in Orion’s Belt. The Monkey Head Nebula (NGC 2174) is an emission nebula that",,,5,weak,Social Index (+5),social
+4264000,web_result,unknown_date,https://www.indotrading.com/showcase/alat-steam-orion,Jual Alat Steam Orion harga termurah untuk bisnis Mei 2026,"Title: Jual Alat Steam Orion harga termurah untuk bisnis Mei 2026
+# Alat Steam Orion. Jual Beli Alat Steam Orion terbaik untuk bisnis anda. Bandingkan Penawaran harga termurah dari berbagai penjual terbaik di marketplace dan direktori bisnis Indotrading. Alat steam cuci motor & mobil Jet Cleaner - Orion SUPERJET100. Deskripsi Alat steam cuci motor & mobil Jet Cleaner - Orion SUPERJET100. ## Dapatkan Penawaran Harga Alat Steam orion Tanpa Ribet!! Permintaan Anda akan dikirim ke beberapa penjual terkait sekaligus, sehingga menghemat waktu Anda dalam mendapatkan penawaran terbaik. Bandingkan semua penawaran dari berbagai penjual satu sistem, sehingga Anda bisa mendapatkan pilihan terbaik dengan mudah. Riwayat penawaran dari penjual tersimpan selamanya di dalam sistem, sehingga Anda dapat dengan mudah mengaksesnya kapan saja tanpa perlu mencari di kotak masuk email. Tim kami siap membantu Anda mencari dan memenuhi kebutuhan Anda dengan layanan yang cepat dan responsif. Alat steam cuci motor & mobil Jet Cleaner Baterai Orion Superjet100CW. Alat steam cuci motor & mobil Jet Cleaner Baterai Orion Superjet100-Q1. Alat steam cuci motor & mobil Jet Cleaner - Orion SUPERJET100SR Silent - Water Blue. Alat steam cuci motor & mobil Jet Cleaner - Orion SUPERJET100SR Silent - Onyx Black. Alat steam cuci motor & mobil Jet Cleaner - Orion SUPERJET100SR Silent - Dark Orange. Alat steam cuci motor & mobil Jet Cleaner - Orion SUPERJET100SR Silent - Aureolin Yellow. Alat steam cuci motor & mobil Jet Cleaner - Orion SUPERJET100SQ Silent. Alat steam cuci motor & mobil Jet Cleaner - Orion SUPERJET100SR Silent - Sky Blue. Alat steam cuci motor & mobil Jet Cleaner - Orion SUPERJET100 - Aureolin Yellow. | Harga Alat steam cuci motor & mobil Jet Cleaner - Orion SUPERJET100SR Silent - Water Blue | Rp 607.200 |. | Harga Alat steam cuci motor & mobil Jet Cleaner - Orion SUPERJET100SR Silent - Onyx Black | Rp 607.200 |. | Harga Alat steam cuci motor & mobil Jet Cleaner - Orion SUPERJET100SR Silent - Dark Orange | Rp 607.200 |. | Harga Alat steam cuci motor & mobil Jet Cleaner - Orion SUPERJET100SR Silent - Aureolin Yellow | Rp 607.200 |. IndoTrading.com adalah B2B Marketplace, Situs Jual Beli, Toko Daring dan Direktori Bisnis Supplier Terbesar di Indonesia.",,,0,weak,,general
+4264000,web_result,unknown_date,https://www.space.com/stargazing/astrophotographer-spends-nearly-70-hours-capturing-a-delicate-blue-nebula-in-orion-photo,Astrophotographer spends nearly 70 hours capturing a delicate blue nebula in Orion (photo) | Space,"1. Stargazing
+
+# Astrophotographer spends nearly 70 hours capturing a delicate blue nebula in Orion (photo)
+
+News 
+
+By Anthony Wood 
+
+Published
+
+The nebula glows as it scatters the light from nearby stars.
+
+ Facebook
+ X
+ Reddit
+ Pinterest
+ Flipboard
+ Email
+
+Share this article
+
+    0  
+
+Join the conversation
+
+Follow us  
+
+Add us as a preferred source on Google
+
+   
+
+Subscribe to our newsletter
+
+a bright red cloud of dust on a starry background [...] Reflection nebulas are vast clouds of interstellar dust, that shine by scattering the blue light of nearby stars, according to NASA. Emission nebulas, meanwhile, glow with their own light, having been altered by the radiation of nearby stars.
+
+""Ced 51 is a target that I wanted to capture for a very long time, but most of the time the conditions weren't that great and every time I ended up shooting something else,"" Andronic told Space.com in an email. [...] Andronic captured the nebula using a pair of 8-inch (200 mm) telescopes fitted with a series of specialized red, green blue and H-alpha filters and cooled astronomy cameras. The data was captured from Hertfordshire in the U.K. as the constellation Orion climbed higher into the autumn sky.
+
+a bright red cloud of dust on a starry background
+
+The Cederblad 51 nebula in the constellation Orion. (Image credit: Emil Andronic)
+
+ZWO ASI533MC Pro
+
+A product photo of the ZWO ASI1533MC Pro Camera",,,0,weak,,general
+4264000,web_result,unknown_date,https://www.orionpharma.com/newsroom,Newsroom,"In its communications, Orion Corporation complies with valid legislation, the rules and insider guidelines of Nasdaq Helsinki Ltd, the regulations and guidelines of the Financial Supervisory Authority and the instructions and principles defined internally in the company.
+
+Read moremikrobit_harmaa_7.jpg [...] # News and stories
+
+Follow the latest releases and stories from Orion and find links to media contacts, image bank and more.
+
+Orion_Pharma_Header_1920x1080.jpg
+
+## Subscribe to releases
+
+Subscribe Orion Corporation's stock exchange and press releases to your e-mail.
+
+Subscribe
+
+Orion_Pharma_Graphic_Element_Mockup.jpg
+
+## Orion Pharma content bank
+
+You can find and download Orion Pharma brand images and assets such as logos in the public content bank.
+
+Visit content bank [...] Visit content bank
+
+## Corporate Communications contacts
+
+- orion_orionees_homeoffice-desk_2022_0743.jpg
+- Christina Weber-Villumsen LOW-RES.jpg
+  
+  ### Christina Weber-Villumsen
+  
+  Vice President, Corporate Communications, Brand and Public Affairs
+
+## Disclosure policy",,,0,weak,,general
+4264000,web_result,unknown_date,https://companieshouse.my/blue-orion-540858-K,BLUE ORION,"## User Contributed Information
+
+Information about BLUE ORION provided by the Companies House users
+
+Companies House cannot confirm that user-submitted information is fully accurate. Please submit corrections if you find any inaccuracies.
+
+## Buy Company Report
+
+Official company report of BLUE ORION as provided by the Companies Commission of Malaysia.
+
+Delivered in 1 working day
+
+Latest information from the Malaysia government
+
+Company report preview
+
+#### Download sample report [...] Company Profile
+ Certificate of Registration
+ Directors & Officers
+ Shareholders
+ Amendment Compilation
+ Labuan Company
+
+6 reports available
+
+## Buy Company Report
+
+Official company report of BLUE ORION as provided by the Companies Commission of Malaysia.
+
+Delivered in 1 working day
+
+Latest information from the Malaysia government
+
+Company report preview
+
+#### Download sample report [...] # BLUE ORION
+
+BLUE ORION is a local company, registered in Malaysia under registration number 200101005102. Established in 2001, the company is classified as a company.
+
+## General Information
+
+General information about BLUE ORION
+
+Registered Name
+:   BLUE ORION
+
+Registration Number
+:   200101005102
+
+Old Registration Number
+:   540858-K
+
+Registered Year
+:   2001
+
+Company Type
+:   Company
+
+Legal Entity Type
+:   LOCAL COMPANY
+
+Legal Entity Type Postfix
+:   SDN. BHD.
+
+Jurisdiction
+:   Malaysia",,,0,weak,,general
+4264000,web_result,unknown_date,https://www.redbubble.com/shop/orion+art-prints,Orion Art Prints for Sale | Redbubble,"From $25.59
+
+Item preview, Orion constellation on blue background photo designed and sold by lorelei-stars.
+
+Orion constellation on blue background photo Art Print
+
+lorelei-stars
+
+From $21.66
+
+Item preview, Artemis 1 Orion Spacecraft Moon Exploration Mission 1 2022 Gift designed and sold by Maljonic.
+
+Artemis 1 Orion Spacecraft Moon Exploration Mission 1 2022 Gift Art Print
+
+Maljonic
+
+From $25.59
+
+Item preview, Orion Personalized Name – Custom Gift for Men & Boys designed and sold by Oussinc. [...] From $23.38
+
+Item preview, Chickens at twilight under Orion designed and sold by Spikeabell.
+
+Chickens at twilight under Orion Art Print
+
+Spikeabell
+
+From $25.59
+
+Item preview, Orion Beer designed and sold by kanban.
+
+Orion Beer Art Print
+
+kanban
+
+From $26.58
+
+Item preview, Orion Nebula Galaxy Stars NASA Color Art designed and sold by SandyMDesigns.
+
+Orion Nebula Galaxy Stars NASA Color Art Art Print
+
+SandyMDesigns
+
+From $23.62
+
+Item preview, ORION designed and sold by yalinsolomon. [...] Orion constellation Art Print
+
+ElisabethGreen
+
+From $23.62
+
+Item preview, Orion constellation designed and sold by JC Art Creations.
+
+Orion constellation Art Print
+
+JC Art Creations
+
+From $21.66
+
+Item preview, Orion designed and sold by DroodlePrints.
+
+Orion Art Print
+
+DroodlePrints
+
+From $23.62
+
+Item preview, The Rise and Fall of Sanctuary Moon designed and sold by CrownAndThistle.
+
+The Rise and Fall of Sanctuary Moon Art Print
+
+CrownAndThistle
+
+From $23.62",,,0,weak,,general
+4264000,web_result,unknown_date,https://www.sirktv.com/irbhereviews/ir-he-review-orion-blue-harbor,IR HE Review: ORION [Blue Harbor] - Sirk TV,"""Orion"" is a taut and fun ride with some good performances despite some intermittent plot holes that prevent it from fully closing the loop.",,,0,weak,,general
+4264000,web_result,unknown_date,https://12and60.com/watches-nick-orion-1-watch-review,Watches By Nick Orion 1 Project Blue Automatic - Review - 12&60,"A great, reliable, workhorse with hacking and handwinding, 24 jewels and the ability to be serviced by pretty much all watchmakers. A solid",,,0,weak,,general
+4264000,web_result,unknown_date,https://www.youtube.com/watch?v=PABDNWskEBY&vl=en-US,Affordable & Quality? Weatherby Orion 12 Gauge O/U Shotgun Review,standard wood grade high gloss finish the receiver is just this black black receiver blued receiver i do like the prince of wales stock that makes it look a little fancy but otherwise just a very basic gun and at the price point that's sort of what you're paying for so if you're looking for a sub 1000 over under shotgun that is still quality this might fit the bill we're going to put it to the test here looking at the build quality i think it's fairly well put together i don't see anything that [...] smooth i mean this gun just pops right open has a nice nice smooth action the barrel has one bead just a brass bead on front vented top rib vented barrels it does have a recoil pad on the back pretty decent looking recoil pad actually i'm real curious to see how this handles how it recoils mounting this gun up it mounts pretty natural for me but just kind of looking at this gun honestly it doesn't excite me when i buy an over under i like to be a little excited like oh this is this is fancy [...] overall i think it's a really nice quality gun for the money you know right around that thousand dollar price point i found it to shoot really nice i've had a lot of fun shooting it swings nice on the targets a little bit heavy for my liking out in the field but you know what that's also why it has a little bit lighter feeling recoil i've certainly shot lighter guns that are over under 12 gauges but then you deal with some heavier recoil that's just a matter of fact most of the time i like the,,,0,weak,,general
+4264000,web_result,unknown_date,https://www.youtube.com/watch?v=FjboKXNGv8g,Orion Duel Review with Tom Vasel - YouTube,"A Dice Tower Review! Check out the Full Video at https://www.youtube.com/watch?v=fEDtdJv6-Bg Check out Great Tables, Games,",,,0,weak,,general
+4264000,web_result,unknown_date,https://grokipedia.com/page/Orion_Publishing_Group,Orion Publishing Group — Grokipedia,"The Orion Publishing Group was established in 1991 as a UK-based publisher, founded by Anthony Cheetham following his departure as chief executive of Random House UK, with backing from venture capital to focus on commercial fiction and non-fiction titles.(#ref-4)](#ref-4)(#ref-5)](#ref-5) The company aimed to build a dynamic portfolio emphasizing accessible, market-driven books, drawing on Cheetham's experience from previous ventures like Century Publishing. Early operations were centered in [...] in its publishing activities.(#ref-15)](#ref-15) Within Hachette UK's organizational hierarchy, Orion functions as an adult trade publisher under the Adult Trade division, one of three primary publishing strands established in a 2024 restructuring that grouped the company's 11 autonomous divisions accordingly.(#ref-16)](#ref-16)(#ref-17)](#ref-17) This division encompasses nine publishing groups focused on adult trade content, allowing Orion to collaborate on shared central services such as IT, [...] Orion Publishing Group Ltd is a London-based British book publisher founded in 1991, specializing in adult and children's literature across genres including commercial and literary fiction, non-fiction, science fiction, fantasy, health, wellness, lifestyle, and current affairs.(#ref-1)](#ref-1)(#ref-2)](#ref-2) It operates as a division of Hachette UK, following its acquisition by Hachette Livre in 1998, and is headquartered at Carmelite House on London's Victoria Embankment.(#ref-2)](#ref-2)",,,0,weak,,general
+4264000,web_result,unknown_date,https://www.hachette.com/en/publisher/orion-publishing-group,The Orion Publishing Group | Hachette.com,"Games
+
+Distribution
+
+ remove
+
+  Our distribution business and distribution centres
+
+# The Orion Publishing Group
+
+Orionwas founded in 1991 and soon after acquired Weidenfeld & Nicolson as the nucleus of the new publishing group. Today the Orion Publishing Group publishes under six main imprints: Orion Fiction, Orion Dash, Weidenfeld & Nicolson, White Rabbit, Gollancz, Trapeze, Seven Dials and Orion Spring.
+
+## Related brand(s)
+
+ White Rabbit [...] Orion Audiopublishes audio editions and audio downloads of titles from within the Group and those acquired from other publishers. Recent huge hits include The Witcher series by Andrzej Sapkowski, Nomad by Alan Partridge, Home Work: A Memoir of My Hollywood Yearsby Julie Andrews, The Night Fire by Michael Connelly and Starsight by Brandon Sanderson.
+
+## Address
+
+The Orion Publishing Group
+
+50 Victoria embankment Carmelite house  
+ London EC4Y 0DZ  
+ United Kingdom
+
+Telephone [...] Orion Dash is a commercial digital-first imprint from Orion Fiction. It is a fresh and dynamic list encompassing all genres from psychological suspense to romance and historical fiction to comedy, with a global publishing outlook.
+ Orion Fiction",,,0,weak,,general
+4264000,web_result,unknown_date,https://alfawiki.org/Orion_Publishing_Group,Orion Publishing Group - Alfawiki,"In recognition of exceptional financial results in 2020, Hachette's Orion division was honored with the 2021 British Book Awards"") ""Publisher of The Year."" Every category under Orion experienced considerable sales increases, with eight titles exceeding £1 million in revenue individually. Notable bestsellers included fiction from Ian Rankin"") and Michael Connelly""), alongside non-fiction works by Noel Fitzpatrick"") and Arsène Wenger""). Orion's accomplishments were supported by strategic digital [...] ## Imprints
+
+The company's imprints consist of:
+
+ Gollancz"")
+ Laurence King Publishing"")
+ Orion Business
+ Orion Fiction
+ Orion Spring
+ Phoenix Books
+ Seven Dials
+ Trapeze
+ Weidenfeld & Nicolson"")
+
+Orion Children's Books functions as an imprint within the Hachette Children's Group.
+
+Additionally, the group manages distribution for independent publisher Halban Publishers"").
+
+## Distribution
+
+The distribution of books is handled via Littlehampton Book Services.
+
+## See also [...] From Alfawiki
+
+British publishing companyTemplate:SHORTDESC:British publishing company"")
+
+Orion Publishing Group Ltd.
+
+| Company type | Subsidiary |
+| Industry | Publishing |
+| Founded | 1991 |
+| Headquarters | United Kingdom |
+| Products | Books |
+| Parent"") | Hachette Livre |",,,0,weak,,general
+4264000,web_result,unknown_date,https://www.linkedin.com/company/blue-orion-technologies,BlueOrion Technologies - LinkedIn,"intelligence, and custom solution development in data analytics, automation, machine learning, and artificial intelligence. Additionally, we provide BOT (Build-Operate-Transfer) models and a robust operational support suite, along with resource augmentation services tailored to specific client needs. Get in Touch: 📍 Head Quarter Locations: Phoenix, AZ 📍 Other Locations in US: Dallas, TX | Chicago, IL 📍 Offshore Locations: New Delhi, India. 📞 Phone:+1 609-721-2243 💌 Email: info@blueoriontech.com [...] Description: At Blue Orion Technologies, we empower businesses to innovate, transform, and scale through next-generation technologies. Specializing in Generative AI, Automation, Data Analytics, Cloud, and DevOps, we provide end-to-end consulting and implementation services that are tailored to each client’s unique goals. Our team brings together deep domain expertise and a passion for problem-solving to deliver practical, scalable, and future-ready solutions. Whether you're looking to prototype [...] - 2026-02-20: #Hiring Azure Data Engineer Location: Charlotte, NC and Jersey City, NJ (Total 10 Positions) Duration: 6 months Tax Term: W2 Only Legal Status:H4EAD/GCEAD/GC/USC Role Description Qualifications and Skills • Proven experience as a Data Engineer with experience in Azure cloud. • Experience implementing solutions using - ...",,,0,weak,,general

@@ -1,0 +1,6 @@
+appid,title_old,title_new,rank_old,rank_new,rank_delta,abs_rank_delta,movement_type,spike_type,price_text_old,price_text_new,price_changed,release_text_old,release_text_new,release_changed
+5398980,Hitch Happens,Hitch Happens,782,779,3,3,up,none,Free,Free,False,Q2 2027,Q4 2027,True
+1687540,Showa American Story,Showa American Story,34,35,-1,1,down,none,Free,Free,False,2027,"Oct 27, 2027",True
+3031890,Acts of Blood,Acts of Blood,198,198,0,0,stable,none,Unpriced (Coming Soon),Free,True,December 2026,Coming soon,True
+771800,Deadstick - Bush Pilot Simulator,Deadstick - Bush Pilot Simulator,315,315,0,0,stable,none,Unpriced (Coming Soon),Free,True,2026,2027,True
+2987350,Catly,Catly,633,633,0,0,stable,none,Unpriced (Coming Soon),Free,True,To be announced,Coming soon,True

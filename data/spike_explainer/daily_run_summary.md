@@ -1,4 +1,4 @@
 # Daily Spike Run
-Analyzed: The Brave Few
+Analyzed: Orion Blue
 Tavily Budget Used: 15
 Errors: 0
