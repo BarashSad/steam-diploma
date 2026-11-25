@@ -1,11 +1,11 @@
 {
-    "started_at": "2026-11-24T22:20:23.673155+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261124_221030/rank_changes.csv",
-    "selected_appid": "4877420",
-    "selected_game_title": "Rec Room: A New Semester",
+    "started_at": "2026-11-25T08:01:32.135398+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261125_075237/rank_changes.csv",
+    "selected_appid": "4653750",
+    "selected_game_title": "The Brave Few",
     "top_n": 1,
-    "old_snapshot_date": "2026-11-21",
-    "new_snapshot_date": "2026-11-24",
+    "old_snapshot_date": "2026-11-22",
+    "new_snapshot_date": "2026-11-25",
     "tavily_enabled": true,
     "tavily_queries_budget": 15,
     "tavily_queries_used": 15,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-24T22:20:23.673170+00:00",
+    "finished_at": "2026-11-25T08:01:32.135448+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
