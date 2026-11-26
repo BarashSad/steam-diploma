@@ -1,0 +1,765 @@
+appid,evidence_type,date_classification,url,title,snippet,contents_preview,matched_keywords,evidence_score,confidence_label,reason_for_score,query_group
+5268810,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=8tL4uYkfXgo,"Flak Simulator – Steam Release Trailer (November 26, 2026)",,"Flak Simulator launches on Steam on November 26, 2026. Official trailer by Horseman Interactive. All rights belong to their ...",trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5268810,youtube_video,inside_spike_window,https://www.youtube.com/watch?v=HGI7WfXoUK4,"Flak Simulator – Steam Release Trailer (November 26, 2026)",,"Flak Simulator launches on Steam on November 26, 2026. Official trailer by Horseman Interactive. All rights belong to their ...",trailer,85,strong,Inside spike window (+30); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5268810,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=iai5m1tvV2s,FLAK Simulator - Teaser Trailer,,"Crew a WWII anti aircraft gun with your friends. Spot incoming bombers, call out ranges, set fuses and load each round by hand.",trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5268810,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=mhvXUjh5w8Y,"Flak Simulator – Official Trailer | Indie Combat Sim on Steam (Nov 26, 2026)",,"Crew a WWII anti-aircraft gun with your friends. Spot incoming bombers, call out ranges, set fuses and load each round by hand.",trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5268810,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=vp8K8kYNe7E,Flak 88 Battery Gameplay — Realistic WWII Artillery. FIRST GAMEPLAY FLAK SIMULATOR,,Can a completely untrained crew survive waves of bombers and armored assaults? We jump into Flak Simulator to figure out ...,gameplay,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['gameplay'] (+20),
+5268810,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=iai5m1tvV2s,FLAK Simulator - Teaser Trailer,,"Crew a WWII anti aircraft gun with your friends. Spot incoming bombers, call out ranges, set fuses and load each round by hand.",trailer,70,strong,Inside extended window (+15); YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5268810,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110426256,Flak Simulator Devlog | What’s Playable at Early Access Launch,,"Flak Simulator launches in Steam Early Access on November 26, 2026. When a bomber formation appears, someone has to spot it, someone has to get ammunition to the gun, and the crew has to get a shot off before the formation passes. Sharing that work is what Flak Simulator is built around. What you’ll",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+5268810,steam_news,inside_extended_window,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643350172,Join the official Flak Discord!,,"We are working hard on Flak Simulator, and we’d love to hear from you along the way!Our official Discord is a place to follow the games progress, meet fellow future players, and talk directly with the team.Join us to:Get development updates and the latest news.Share your ideas and tell us what you’d",,55,medium,Inside extended window (+15); Official Steam News (+20); Exact title match (+20),
+5268810,youtube_video,outside_window,https://www.youtube.com/watch?v=6B4fxvc-30k,FLAK Simulator  | Teaser Trailer,,"Work together to operate a shared gun in Simulator mode, or control your own gun with an automated crew in Arcade mode.",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5268810,youtube_video,outside_window,https://www.youtube.com/watch?v=6B4fxvc-30k,FLAK Simulator  | Teaser Trailer,,"Work together to operate a shared gun in Simulator mode, or control your own gun with an automated crew in Arcade mode.",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5268810,youtube_video,outside_window,https://www.youtube.com/watch?v=6B4fxvc-30k,FLAK Simulator  | Teaser Trailer,,"Work together to operate a shared gun in Simulator mode, or control your own gun with an automated crew in Arcade mode.",trailer,55,medium,YouTube (+15); Exact title match (+20); Keywords ['trailer'] (+20),
+5268810,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1x1zkzx/flak_simulator_teaser_trailer,FLAK Simulator | Teaser Trailer : r/Games - Reddit,"I'd be playing this for the weapon, no matter the nation. Manning a simulated flak gun, or any AA system, sounds incredibly cool, and is very",,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+5268810,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1x1zkzx/flak_simulator_teaser_trailer,FLAK Simulator | Teaser Trailer : r/Games - Reddit,"I'd be playing this for the weapon, no matter the nation. Manning a simulated flak gun, or any AA system, sounds incredibly cool, and is very",,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+5268810,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1x1zkzx/flak_simulator_teaser_trailer,FLAK Simulator | Teaser Trailer : r/Games - Reddit,"I'd be playing this for the weapon, no matter the nation. Manning a simulated flak gun, or any AA system, sounds incredibly cool, and is very",,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+5268810,reddit_discussion,unknown_date,https://www.reddit.com/r/Games/comments/1x1zkzx/flak_simulator_teaser_trailer,FLAK Simulator | Teaser Trailer : r/Games - Reddit,"I'd be playing this for the weapon, no matter the nation. Manning a simulated flak gun, or any AA system, sounds incredibly cool, and is very",,trailer,50,medium,Reddit (+10); Exact title match (+20); Keywords ['trailer'] (+20),general
+5268810,web_result,unknown_date,https://x.com/Ninjago9101/status/2123504782644269478,"Ninjago on X: ""Flak Simulator – Official Trailer A WWII anti-aircraft ...",Flak Simulator – Official Trailer A WWII anti-aircraft simulation where you and up to 4 friends operate a German 88mm Flak gun to take down,,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),general
+5268810,social_post,unknown_date,https://www.tiktok.com/@horsemaninteractive/video/7693617924904357153,FLAK Simulator Official Trailer — WW2 Co-op Simulator (Steam),"FLAK Simulator presents a cooperative World War II anti-aircraft experience focused on realistic flak batteries, teamwork, and period detail.",,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+5268810,social_post,unknown_date,https://www.tiktok.com/@horsemaninteractive/video/7703256286363798806,FLAK Simulator North Africa Teaser Trailer - WW2 Co-op Air Defense,"FLAK Simulator North Africa showcases a World War II–era anti-aircraft simulator designed for cooperative play. multiplayer co-op mechanics,",,"trailer, showcase",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'showcase'] (+20)",social
+5268810,social_post,unknown_date,https://www.instagram.com/reel/DeKaDCvswnU,FLAK Simulator | Gameplay Trailer A WWII anti-aircraft ... - Instagram,"A WWII anti-aircraft gun simulator with coop for up to 5 players, Simulator and Arcade modes. Operate a shared gun as a crew, or control your",,"trailer, gameplay",45,medium,"Social Index (+5); Exact title match (+20); Keywords ['trailer', 'gameplay'] (+20)",social
+5268810,social_post,unknown_date,https://www.instagram.com/reel/Df8Szw4ATEj,"World War Two, from behind the gun. Flak Simulator just ... - Instagram","Flak Simulator just dropped its official trailer, and it puts you and up to four friends on a German 88mm flak gun, the famous Acht Acht.",,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+5268810,social_post,unknown_date,https://www.instagram.com/reel/Dfh-2vuPkC6,Will you try to play Flak Simulator!? ww2 flaksimulator wishlist it on ...,"World War Two, from behind the gun. Flak Simulator just dropped its official trailer, and it puts you and up to four friends on a German",,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+5268810,social_post,unknown_date,https://x.com/Ninjago9101/status/2123504782644269478,"Ninjago on X: ""Flak Simulator – Official Trailer A WWII anti-aircraft ...","A WWII anti-aircraft simulation where you and up to 4 friends operate a German 88mm Flak gun to take down enemy bombers. launches Nov 27, on PC",,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+5268810,social_post,unknown_date,https://x.com/Ninjago9101/status/2123504974491697657,"Ninjago on X: ""https://t.co/iYlCFYi0Pk"" / X",Flak Simulator – Official Trailer A WWII anti-aircraft simulation where you and up to 4 friends operate a German 88mm Flak gun to take down,,trailer,45,medium,Social Index (+5); Exact title match (+20); Keywords ['trailer'] (+20),social
+5268810,web_result,unknown_date,https://www.containsmoderateperil.com/blog/2026/10/8/flak-simulator,Flak Simulator — Contains Moderate Peril,"artillery is also available in Wardogs. I therefore spent a while looking online to see if there was a dedicated artillery simulator available or at least a game where it was a key feature. There nearest thing I found was Iron Nest, a dieselpunk heavy artillery game which looks interesting but isn’t quite what I seek. So I parked this idea and moved. Tonight, while perusing YouTube, I stumble across a teaser trailer for a game called Flak Simulator, currently under development by Horseman [...] artillery is also available in Wardogs. I therefore spent a while looking online to see if there was a dedicated artillery simulator available or at least a game where it was a key feature. There nearest thing I found was Iron Nest, a dieselpunk heavy artillery game which looks interesting but isn’t quite what I seek. So I parked this idea and moved. Tonight, while perusing YouTube, I stumble across a teaser trailer for a game called Flak Simulator, currently under development by Horseman [...] I find the concept of in-game radio stations fascinating. They’re an enjoyable aspect of open world video games and I have discovered several artists this way. They’re certainly a big deal as far as Rockstar Games are concerned, because the music selected for GTA VI is another important facet of the overall marketing campaign. So far, between two trailers and the sprawling extended look on Netflix, it has been determined that Tom Petty, the Pointer Sisters, Sexyy Red, Depeche Mode, Phil",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+5268810,web_result,unknown_date,https://www.youtube.com/watch?v=vp8K8kYNe7E,Realistic WWII Artillery. FIRST GAMEPLAY FLAK SIMULATOR,"Can a completely untrained crew survive waves of bombers and armored assaults? We jump into Flak Simulator to figure out rangefinders,",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+5268810,web_result,unknown_date,https://www.youtube.com/watch?v=vp8K8kYNe7E,Realistic WWII Artillery. FIRST GAMEPLAY FLAK SIMULATOR,"Can a completely untrained crew survive waves of bombers and armored assaults? We jump into Flak Simulator to figure out rangefinders,",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+5268810,web_result,unknown_date,https://steamdb.info/app/5268810,Flak Simulator - SteamDB,"Release Date 26 November 2026 – 19:00:00 UTC ( in 5 days ) Crew a WWII anti aircraft gun with your friends. Spot incoming bombers, call out ranges, set fuses.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5268810,web_result,unknown_date,https://store.steampowered.com/app/5268810/Flak_Simulator,Flak Simulator on Steam,"Planned Release Date: Nov 26, 2026 · Five players. One gun. · Find your place in the crew. Divide the jobs or move between stations when someone needs a hand.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5268810,web_result,unknown_date,https://www.thestrategyinformer.com/radar/games/flak-simulator-5268810,Flak Simulator - Radar - The Strategy Informer,"Flak Simulator by Horseman Interactive. Nov 26, 2026. Release, demo, DLC, Early Access and sale status on Strategy Radar.",,demo,40,medium,Exact title match (+20); Keywords ['demo'] (+20),general
+5268810,web_result,unknown_date,https://store.steampowered.com/app/5268810/Flak_Simulator,Flak Simulator on Steam,"Planned Release Date: Nov 26, 2026 · Five players. One gun. · Find your place in the crew. Divide the jobs or move between stations when someone needs a hand.",,release date,40,medium,Exact title match (+20); Keywords ['release date'] (+20),general
+5268810,web_result,unknown_date,https://www.containsmoderateperil.com/blog/2026/10/8/flak-simulator,Flak Simulator — Contains Moderate Peril,"The next expansion for the MMORG, The Lord of the Rings Online, was announced on the 1st August, via the gaming website MMORPG.The Wolves of Mordor, which will launch later in the year, appears ambitious in scope as it will include two new game systems as well as the obligatory story update. This expansion takes place in Draugardh located in the North East of Mordor, beyond the Plateau of Gorgoroth. It includes the new zones of Heledhris, Parth Rhavas and Nan Ogol. These vary environmentally [...] World of Warcraft: Forever becomes available today at 23:00 GMT in the UK. Having participated in multiple MMORPG launches over the years, I expect server queues, lag and difficulty securing character names, if you haven’t done so already. I’m sure once people finally log into the game it will be very atmospheric and affable. Due to the volume of players in the starter areas, I suspect not much will get done but I find that game launches are more about the experience and creating memories, [...] being developed by members of the original studio. The third announcement was regarding Guild Wars 3. A new MMORPG in active development by a major studio is no small feat and is certainly good news for fans of this franchise and the genre per se. However, once you look beyond this news this announcement raises several questions and has certainly given me pause for thought. Let us take a few moments to consider them.",,announcement,40,medium,Exact title match (+20); Keywords ['announcement'] (+20),general
+5268810,web_result,unknown_date,https://www.youtube.com/watch?v=vp8K8kYNe7E,Realistic WWII Artillery. FIRST GAMEPLAY FLAK SIMULATOR,... Flak Barrage 14:40 - Battery Stats & 78 Rounds Fired About the Game Flak Simulator is currently in beta and planned for early access release,,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+5268810,web_result,unknown_date,https://www.youtube.com/watch?v=vp8K8kYNe7E,Realistic WWII Artillery. FIRST GAMEPLAY FLAK SIMULATOR,"Can a completely untrained crew survive waves of bombers and armored assaults? We jump into Flak Simulator to figure out rangefinders,",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+5268810,web_result,unknown_date,https://pixelreviews.vercel.app/games/flak-simulator,Flak Simulator Reviews & Ratings,Flak Simulator is a firstperson coop simulation where getting a shot on target takes the whole crew. Official Trailer. Trailer.,,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+5268810,web_result,unknown_date,https://www.youtube.com/watch?v=vp8K8kYNe7E,Realistic WWII Artillery. FIRST GAMEPLAY FLAK SIMULATOR,"Can a completely untrained crew survive waves of bombers and armored assaults? We jump into Flak Simulator to figure out rangefinders,",,gameplay,40,medium,Exact title match (+20); Keywords ['gameplay'] (+20),general
+5268810,web_result,unknown_date,https://www.containsmoderateperil.com/blog/2026/10/8/flak-simulator,Flak Simulator — Contains Moderate Peril,"On Thursday the news broke that BioWare, the “legendary” video game developer behind such titles as the Dragon Age and Mass Effect franchises, has been closed down. The Canadian developer specialising in role-playing games was founded in 1995 and found millions of fans with its complex, branching narratives systems. Its parent company Electronic Arts decided to close the studio as part of a wider financial restructuring across their entire business. The closure of BioWare after 31 years, means [...] artillery is also available in Wardogs. I therefore spent a while looking online to see if there was a dedicated artillery simulator available or at least a game where it was a key feature. There nearest thing I found was Iron Nest, a dieselpunk heavy artillery game which looks interesting but isn’t quite what I seek. So I parked this idea and moved. Tonight, while perusing YouTube, I stumble across a teaser trailer for a game called Flak Simulator, currently under development by Horseman [...] artillery is also available in Wardogs. I therefore spent a while looking online to see if there was a dedicated artillery simulator available or at least a game where it was a key feature. There nearest thing I found was Iron Nest, a dieselpunk heavy artillery game which looks interesting but isn’t quite what I seek. So I parked this idea and moved. Tonight, while perusing YouTube, I stumble across a teaser trailer for a game called Flak Simulator, currently under development by Horseman",,trailer,40,medium,Exact title match (+20); Keywords ['trailer'] (+20),general
+5268810,youtube_video,outside_window,https://www.youtube.com/watch?v=LT3xApgrK_o,Eighty-Eight 8.8 cm Flak 37 Simulator Gameplay,,"In ""Acht Acht"", we take control of the infamous 8,8 cm Flak 37 anti-aircraft and anti-tank artillery gun from World War II. In the role of ...",gameplay,35,medium,YouTube (+15); Keywords ['gameplay'] (+20),
+5268810,youtube_video,inside_extended_window,https://www.youtube.com/watch?v=EJ24IG0HHdY,Can I Survive a WALL of FLAK to Hit ONE Target? | IL-2 Korea VR,,"One target, a hangar packed with MiG aircraft parts at Haeju Airfield in North Korea, and a WALL of FLAK standing in my way!",,30,weak,Inside extended window (+15); YouTube (+15),
+5268810,social_post,unknown_date,https://www.tiktok.com/@gamingnewsradio/video/7709964573054389537,Flak Simulator – Werdet zu Flakschützen! - TikTok,"Kurzüberblick Der Flak Simulator versetzt euch in die Rolle von Flakschütz*innen: gezielte Artillerie, schnelle Reaktionszeiten und",,,25,weak,Social Index (+5); Exact title match (+20),social
+5268810,social_post,unknown_date,https://www.tiktok.com/@raz_bora/video/7706242345691352334,Could you handle Flak Simulator!? #ww2 #flaksimulator ... - TikTok,"The game blends immersive tactical combat with large‑scale vehicle warfare, creating a mix that feels like a tactical shooter raised in the",,,25,weak,Social Index (+5); Exact title match (+20),social
+5268810,social_post,unknown_date,https://www.instagram.com/reel/DgF_ADaIe8Q,You Need The Whole Crew To Fire This Gun - Instagram,Flak Simulator 🗓️ Coming soon on Steam Online PvP · Co-op · Online Co-op 🖥️ PC (Steam) Five players.,,,25,weak,Social Index (+5); Exact title match (+20),social
+5268810,social_post,unknown_date,https://x.com/Flakfire,Flakfire (@Flakfire),"- Author: @Flakfire (Flakfire)
+- Posted: 2022-02-17T19:53:26+00:00
+- Likes: 1085
+- Reposts: 49
+- Replies: 56
+- Quotes: 7
+- Bookmarks: 0
+
+### @Flakfire (Flakfire) · 2021-10-07T19:57:32+00:00
+
+When you examine Battlefield 2042 from a gameplay perspective, the only thing that determines a friendly soldier from an enemy is the UI. Is this a team-based FPS or a UI-reading simulator? [...] ### @Flakfire (Flakfire) · 2022-07-24T13:11:33+00:00
+
+Hear me out - a Battlefield game with four classes, impressive destruction, and balanced infantry and vehicle combat. Oh and throw in a based campaign and robust expansions.
+
+- Author: @Flakfire (Flakfire)
+- Posted: 2022-07-24T13:11:33+00:00
+- Likes: 961
+- Reposts: 27
+- Replies: 110
+- Quotes: 14
+- Bookmarks: 3
+
+### @Flakfire (Flakfire) · 2022-02-02T20:04:30+00:00
+
+""Refrain from being down, as occasionally these circumstances do just occur"" [...] # Flakfire (@Flakfire)
+
+Content Creation for FPS Games. 250M Views. 
+@MetaPCs @GamerAdvantage code ""FLAK"" 
+🇺🇸🇨🇭 twinbridgessocial@gmail.com
+
+- Account: @Flakfire (Flakfire)
+- Joined: 2016-02-12T23:24:51+00:00
+- Location: United States
+- Website: 
+- Category: Gamer
+- Account type: Business
+- Followers: 40575
+- Following: 1613
+- Posts: 41350
+- Media posts: 10879
+- Likes: 65408
+
+## Posts
+
+### @Flakfire (Flakfire) · 2026-08-09T16:12:40+00:00
+
+wardoggin",,gameplay,25,weak,Social Index (+5); Keywords ['gameplay'] (+20),social
+5268810,social_post,unknown_date,https://www.containsmoderateperil.com/blog/2026/10/8/flak-simulator,Flak Simulator — Contains Moderate Peril,"Flak Simulator is a first person, five player co-op game, in which you are the crew of a German 88mm anti-aircraft gun in World War II. Players have to spot enemy aircraft, call out the range, traverse and elevate the gun, set the fuses on the shells, load the gun and then fire. Depending on where the shell explodes in relation to the aircraft, the process has to be adjusted and then repeated. Now I don’t usually like co-op games by default, although I have found some unusual ones in the past [...] Encounters and the Endeavour system. These improvements have been well received by players but the jewel in the crown of this ongoing project has been the reinstating of several classic Episodes back into the game, all be it in a revised format. STO needs more story content because sadly what has been released in recent years has been of a lesser standard compared to the halcyon days of the Agents of Yesterday and Victory is Life expansions. [...] environmentally ranging from the arid, volcanic and semi-tropical. Players will encounter the Daugrim in these regions, Werewolves but not in the modern sense. This is not the lycanthropy of Eastern European legends but in the established Tolkien idiom of fell spirits inhabiting the bodies of Wolves. The region also sees the return of the Woses and players can expect to encounter Elves and scouts from Gondor. As ever with LOTRO expansions, there will be new instances as well as a raid.",,,25,weak,Social Index (+5); Exact title match (+20),social
+5268810,social_post,unknown_date,https://www.facebook.com/Mavitivo/posts/this-new-first-person-co-op-anti-aircraft-simulator-has-up-to-five-of-you-crewin/1194395066275536,"Mavitivo on Facebook: ""This new first-person co-op anti-aircraft simulator has up to five of you crewing one German 88 mm g…""","# Mavitivo on Facebook: ""This new first-person co-op anti-aircraft simulator has up to five of you crewing one German 88 mm g…""
+
+This new first-person co-op anti-aircraft simulator has up to five of you crewing one German 88 mm gun, spotting bombers, calling ranges, setting fuzes and loading each round by hand.
+
+It's called Flak Simulator, from Horseman Interactive. You divide the jobs or move between stations when someone needs a hand. [...] 🌙 Day, night and Arcade
+By day, bomber formations cross your field of fire. At night, searchlights help you follow them. Hits can damage engines, tear away parts and bring aircraft down. In Arcade mode, each player gets a separate gun with an automatic crew, and you can play alone or with up to four others.
+
+Flak Simulator is coming to Early Access on 26 November 2026 on PC.
+
+#gamingnews #gaming #newgame [...] [Image: Flak Simulator screenshots showing a WWII 88 mm anti-aircraft gun crew firing at bombers]
+
+- Author: Mavitivo
+- Posted: 2026-11-19T11:01:17+00:00
+- Shared link: 
+- Links: 
+- Reactions: 21
+- Comment count: 0
+- Shares: 4
+- Privacy: Public",,,25,weak,Social Index (+5); Exact title match (+20),social
+5268810,social_post,unknown_date,https://store.steampowered.com/app/5268810/Flak_Simulator,Flak Simulator on Steam,"Crew a WWII anti aircraft gun with your friends. Spot incoming bombers, call out ranges, set fuses and load each round by hand. Flak Simulator is a",,,25,weak,Social Index (+5); Exact title match (+20),social
+5268810,web_result,unknown_date,https://store.steampowered.com/news/app/5268810/view/686396970470736183,Flak Simulator - Flak Simulator Devlog | What’s Playable at Early Access Launch - Steam News,"The launch lineup covers two locations and three scenarios. In co-op, you share the jobs around the battery. You can also play with AI crew, who fill any open positions at the guns. In Arcade, each player gets their own gun and plays for an individual score.  
+  
+Germany · Day and night  
+  
+Defend the battery with the 8.8 cm flak gun and the lighter 2 cm Flak 38. In the daytime mission, low-flying aircraft attack the battery while bomber formations head for key targets you’re defending. [...] Flak Simulator launches in Steam Early Access on November 26, 2026.  
+  
+When a bomber formation appears, someone has to spot it, someone has to get ammunition to the gun, and the crew has to get a shot off before the formation passes. Sharing that work is what Flak Simulator is built around.  
+  
+
+## What you’ll play at launch [...] Flak Simulator
+
+Immersive SimWargameWarActionMilitarySimulationTower DefenseWorld War IIPvEHistorical
+
+Nov 26, 2026
+
+Crew a WWII anti aircraft gun with your friends. Spot incoming bombers, call out ranges, set fuses and load each round by hand. Flak Simulator is a firstperson coop simulation where getting a shot on target takes the whole crew.
+
+Available: Nov 26, 2026
+
+Image 16: Flak Simulator",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://store.steampowered.com/app/5268810/Flak_Simulator,Flak Simulator on Steam,"Crew a WWII anti aircraft gun with your friends. Spot incoming bombers, call out ranges, set fuses and load each round by hand. Flak Simulator is a",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://store.steampowered.com/app/5268810/Flak_Simulator,Flak Simulator on Steam,"Crew a WWII anti aircraft gun with your friends. Spot incoming bombers, call out ranges, set fuses and load each round by hand. Flak Simulator is a",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.containsmoderateperil.com/blog/2026/10/8/flak-simulator,Flak Simulator — Contains Moderate Peril,"Flak Simulator is a first person, five player co-op game, in which you are the crew of a German 88mm anti-aircraft gun in World War II. Players have to spot enemy aircraft, call out the range, traverse and elevate the gun, set the fuses on the shells, load the gun and then fire. Depending on where the shell explodes in relation to the aircraft, the process has to be adjusted and then repeated. Now I don’t usually like co-op games by default, although I have found some unusual ones in the past [...] around. You’re not at the mercy of apex players or “try hards”. It is not a game about winning and mastering techniques. The fun comes from playing it and the unique experience you have each time. I’ve been playing this game, on and off, since it’s launch in 2020 and in that time I have only ever won once (winning requires you to win a series of 4 to six individual races). However, whenever I pick up my controller and play Fall Guys, I have fun and the game lifts my spirits. [...] are consider by default the most efficient way to gain rep. Projects require 30 Faction Specific Marks (earned via various activities in-game), 15,000 Energy Credits (standard in-game currency) and 2000 Expertise points. The most efficient way to tackle the reputation grind is to build up the necessary resources in advance and then at a designated time each day, start all 13 respective projects. Upon completion projects yield a player bound lockbox containing a random space or ground weapon, a",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://store.steampowered.com/news/app/5268810/view/686396970470736183,Flak Simulator - Flak Simulator Devlog | What’s Playable at Early Access Launch - Steam News,"The launch lineup covers two locations and three scenarios. In co-op, you share the jobs around the battery. You can also play with AI crew, who fill any open positions at the guns. In Arcade, each player gets their own gun and plays for an individual score.  
+  
+Germany · Day and night  
+  
+Defend the battery with the 8.8 cm flak gun and the lighter 2 cm Flak 38. In the daytime mission, low-flying aircraft attack the battery while bomber formations head for key targets you’re defending. [...] Flak Simulator
+
+Immersive SimWargameWarActionMilitarySimulationTower DefenseWorld War IIPvEHistorical
+
+Nov 26, 2026
+
+Crew a WWII anti aircraft gun with your friends. Spot incoming bombers, call out ranges, set fuses and load each round by hand. Flak Simulator is a firstperson coop simulation where getting a shot on target takes the whole crew.
+
+Available: Nov 26, 2026
+
+Image 16: Flak Simulator [...] Flak Simulator launches in Steam Early Access on November 26, 2026.  
+  
+When a bomber formation appears, someone has to spot it, someone has to get ammunition to the gun, and the crew has to get a shot off before the formation passes. Sharing that work is what Flak Simulator is built around.  
+  
+
+## What you’ll play at launch",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.youtube.com/watch?v=LT3xApgrK_o,Eighty-Eight 8.8 cm Flak 37 Simulator Gameplay,"# Eighty-Eight 8.8 cm Flak 37 Simulator Gameplay
+
+In ""Acht Acht"", we take control of the infamous 8,8 cm Flak 37 anti-aircraft and anti-tank artillery gun from World War II. In the role of the spotter and the gunner we engage enemy tanks at distances up to 1000m (1km, 3280 feet, 0.62 miles). With realistic damage model, optics and reload time we fight the enemy T34-76, T34-85, KV-85 tanks, with our friendly  Panzer IV tank by our side.
+
+Free download of this wonderfully minimal game from [...] i shooting at that was not good oh oh oh nice what's this one doing it was so close nice alright let's check two tanks down we have three shields at the top right I guess I guess that means we can get additional tanks maybe do I see targets I do not see targets that's okay there's one there's two let's get ready please so close oh not not powerful enough but a good start nice alright now where did that one go there it is sneaking through the [...] one this is really nice so simplistic good atmosphere it really only needs some sound effects for turning a cannon okay not not destroyed yet and that would be pretty much it come on now okay that was tough what am I doing here ah tiny bit too high come on now still too low what's because of the trees in between okay she never tank coming up oh oh come on what was that come on now drats he's getting ready to hope boy he's getting ready to shoot us down I need to [ __ ] oh boy think what might",,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+5268810,web_result,unknown_date,https://www.metacritic.com/game/flak-simulator,Flak Simulator Reviews - Metacritic,"SummaryCrew a WWII anti aircraft gun with your friends. Spot incoming bombers, call out ranges, set fuses and load each round by hand. Flak Simulator is a firstperson coop simulation where getting a shot on target takes the whole crew.
+
+ Artillery
+
+Developer:Horseman Interactive
+
+# Flak Simulator
+
+Metascore
+
+Critic reviews are not available yet
+
+tbd
+
+User score
+
+User reviews are not available yet
+
+tbd
+
+## All Platforms
+
+tbd
+
+Advertisement
+
+## Critic Reviews
+
+Metascore [...] Metascore
+
+Critic reviews are not available yet
+
+tbd
+
+0% Positive  
+0 Reviews
+
+0% Mixed  
+0 Reviews
+
+0% Negative  
+0 Reviews
+
+Critic reviews are not available for this game yet.
+
+## User Reviews
+
+User score
+
+User reviews are not available yet
+
+tbd
+
+0% Positive  
+0 Ratings
+
+0% Mixed  
+0 Ratings
+
+0% Negative  
+0 Ratings
+
+User reviews are not available for this game yet.
+
+Advertisement
+
+## Details
+
+View All
+
+Platforms:
+
+ PC
+
+Genres:
+
+ Artillery
+
+Full Credits & Details
+
+Advertisement [...] #### Jason Dietz
+
+Call of Duty is one of the most financially successful game franchises in history, but not every release is a winner with critics. We rank all 23 games in the main series including the newest release, Modern Warfare 4.
+
+ game
+
+Advertisement",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.devstrike.net/topic/10099-flak-simulator,Flak Simulator - Off Topic - DevStrike! - a WoWs Community Forum,"<!--THE END-->
+
+1. Ensure the site is installed via Add to Home Screen.
+2. Open Settings App → Notifications.
+3. Find your app name and adjust your preference.
+
+<!--THE END-->
+
+1. Go to Safari → Preferences.
+2. Click the Websites tab.
+3. Select Notifications in the sidebar.
+4. Find this website and adjust your preference.
+
+<!--THE END-->
+
+1. Tap the lock icon next to the address bar.
+2. Tap Permissions.
+3. Find Notifications and adjust your preference.
+
+<!--THE END--> [...] We have placed cookies on your device to help make this website better. You can adjust your cookie settings, otherwise we'll assume you're okay to continue.
+
+1. Tap the lock icon next to the address bar.
+2. Tap Permissions → Notifications.
+3. Adjust your preference.
+
+<!--THE END-->
+
+1. Click the padlock icon in the address bar.
+2. Select Site settings.
+3. Find Notifications and adjust your preference.
+
+<!--THE END--> [...] <!--THE END-->
+
+1. Click the padlock icon in the address bar.
+2. Click Permissions for this site.
+3. Find Notifications and adjust your preference.
+
+<!--THE END-->
+
+1. Go to Settings → Site permissions.
+2. Tap Notifications.
+3. Find this site in the list and adjust your preference.
+
+<!--THE END-->
+
+1. Open Firefox Settings.
+2. Search for Notifications.
+3. Find this site in the list and adjust your preference.",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.youtube.com/watch?v=LT3xApgrK_o,Eighty-Eight 8.8 cm Flak 37 Simulator Gameplay,"# Eighty-Eight 8.8 cm Flak 37 Simulator Gameplay
+
+In ""Acht Acht"", we take control of the infamous 8,8 cm Flak 37 anti-aircraft and anti-tank artillery gun from World War II. In the role of the spotter and the gunner we engage enemy tanks at distances up to 1000m (1km, 3280 feet, 0.62 miles). With realistic damage model, optics and reload time we fight the enemy T34-76, T34-85, KV-85 tanks, with our friendly  Panzer IV tank by our side.
+
+Free download of this wonderfully minimal game from [...] closer oh man was turning speed and do we only have one target one two all right we're gonna leave this this fella alone he's approaching we're gonna have some fun with the people in the back nope oh yes yes I think it's only twenty two hundred megabytes bus download probably only for Windows really good basic start I mean this is quite entertaining hey let's check out if we can destroy a house no quite sure apparently what the heck oh so because the tank is dead they are actually shooting at [...] hello and welcome my name is Ivan place and looks like we're working for the Nazis this time yep this here is a Panzer for Panzer IV if you will and we're playing some artillery we have a 8 point 8 centimeter of luck 37 which is an anti-air gun but we're improvising which apparently is historically correct anyway so we have binoculars and do I see tanks approaching not quite yet do i what that you get mind's blowing off well that sure was a warning shot I'm not quite sure what's the meaning of",,gameplay,20,weak,Keywords ['gameplay'] (+20),general
+5268810,web_result,unknown_date,https://www.containsmoderateperil.com/blog/2026/10/8/flak-simulator,Flak Simulator — Contains Moderate Peril,"Upon starting up the Battle.net launcher this evening, I was confronted by a message stating that I needed to uninstall the Beta version of World of Warcraft: Forever, now that the testing had finished. So I clicked on the icon and off it went. I didn’t spend as much time in the Beta test as I would’ve liked but certainly enjoyed what I did. I familiarised myself with the UI and controls and endeavoured to get a feel for the way the game handles. I tried three classes during this Beta. Hunter, [...] sought to replicate what I had seen. The video showed someone installing Windows 95 on to an old 486 PC from that era. The Window’s start up sound really touched a nerve (but in a good way) and then when the guy in the video launched Space Cadet 3D Pinball, a game that shipped with the operating system, I felt a strong compulsion to track down a copy and install the game myself, thus revisiting something that was an integral part of my life in 1995. [...] Flak Simulator is a first person, five player co-op game, in which you are the crew of a German 88mm anti-aircraft gun in World War II. Players have to spot enemy aircraft, call out the range, traverse and elevate the gun, set the fuses on the shells, load the gun and then fire. Depending on where the shell explodes in relation to the aircraft, the process has to be adjusted and then repeated. Now I don’t usually like co-op games by default, although I have found some unusual ones in the past",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://store.steampowered.com/app/5268810/Flak_Simulator,Flak Simulator on Steam,"Crew a WWII anti aircraft gun with your friends. Spot incoming bombers, call out ranges, set fuses and load each round by hand. Flak Simulator is a",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.facebook.com/Mavitivo/posts/this-new-first-person-co-op-anti-aircraft-simulator-has-up-to-five-of-you-crewin/1194395066275536,"Mavitivo on Facebook: ""This new first-person co-op anti-aircraft simulator has up to five of you crewing one German 88 mm g…""","🌙 Day, night and Arcade
+By day, bomber formations cross your field of fire. At night, searchlights help you follow them. Hits can damage engines, tear away parts and bring aircraft down. In Arcade mode, each player gets a separate gun with an automatic crew, and you can play alone or with up to four others.
+
+Flak Simulator is coming to Early Access on 26 November 2026 on PC.
+
+#gamingnews #gaming #newgame [...] # Mavitivo on Facebook: ""This new first-person co-op anti-aircraft simulator has up to five of you crewing one German 88 mm g…""
+
+This new first-person co-op anti-aircraft simulator has up to five of you crewing one German 88 mm gun, spotting bombers, calling ranges, setting fuzes and loading each round by hand.
+
+It's called Flak Simulator, from Horseman Interactive. You divide the jobs or move between stations when someone needs a hand. [...] [Image: Flak Simulator screenshots showing a WWII 88 mm anti-aircraft gun crew firing at bombers]
+
+- Author: Mavitivo
+- Posted: 2026-11-19T11:01:17+00:00
+- Shared link: 
+- Links: 
+- Reactions: 21
+- Comment count: 0
+- Shares: 4
+- Privacy: Public",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.containsmoderateperil.com/blog/2026/10/8/flak-simulator,Flak Simulator — Contains Moderate Peril,"around. You’re not at the mercy of apex players or “try hards”. It is not a game about winning and mastering techniques. The fun comes from playing it and the unique experience you have each time. I’ve been playing this game, on and off, since it’s launch in 2020 and in that time I have only ever won once (winning requires you to win a series of 4 to six individual races). However, whenever I pick up my controller and play Fall Guys, I have fun and the game lifts my spirits. [...] World of Warcraft: Forever becomes available today at 23:00 GMT in the UK. Having participated in multiple MMORPG launches over the years, I expect server queues, lag and difficulty securing character names, if you haven’t done so already. I’m sure once people finally log into the game it will be very atmospheric and affable. Due to the volume of players in the starter areas, I suspect not much will get done but I find that game launches are more about the experience and creating memories, [...] previous release Asheron’s Call 2 from 2002. The Lord of the Rings Online: Shadows of Angmar was officially released in April 2007. Hence, the active public release code is 19 years old. Despite continuous expansion and updates, along with a recent migration to 64-bit architecture, the foundations of LOTRO retains a nearly twenty year old legacy framework. This frequently contributes to modern technical hurdles and engine constraints.",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.facebook.com/Mavitivo/posts/this-new-first-person-co-op-anti-aircraft-simulator-has-up-to-five-of-you-crewin/1194395066275536,"Mavitivo on Facebook: ""This new first-person co-op anti-aircraft simulator has up to five of you crewing one German 88 mm g…""","🌙 Day, night and Arcade
+By day, bomber formations cross your field of fire. At night, searchlights help you follow them. Hits can damage engines, tear away parts and bring aircraft down. In Arcade mode, each player gets a separate gun with an automatic crew, and you can play alone or with up to four others.
+
+Flak Simulator is coming to Early Access on 26 November 2026 on PC.
+
+#gamingnews #gaming #newgame [...] # Mavitivo on Facebook: ""This new first-person co-op anti-aircraft simulator has up to five of you crewing one German 88 mm g…""
+
+This new first-person co-op anti-aircraft simulator has up to five of you crewing one German 88 mm gun, spotting bombers, calling ranges, setting fuzes and loading each round by hand.
+
+It's called Flak Simulator, from Horseman Interactive. You divide the jobs or move between stations when someone needs a hand. [...] [Image: Flak Simulator screenshots showing a WWII 88 mm anti-aircraft gun crew firing at bombers]
+
+- Author: Mavitivo
+- Posted: 2026-11-19T11:01:17+00:00
+- Shared link: 
+- Links: 
+- Reactions: 21
+- Comment count: 0
+- Shares: 4
+- Privacy: Public",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://store.steampowered.com/app/5268810/Flak_Simulator,Flak Simulator on Steam,"A look at the guns, crews, and missions planned for November 26, plus a preview of our new Convoy Escort mode.",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.containsmoderateperil.com/blog/2026/10/8/flak-simulator,Flak Simulator — Contains Moderate Peril,"Flak Simulator is a first person, five player co-op game, in which you are the crew of a German 88mm anti-aircraft gun in World War II. Players have to spot enemy aircraft, call out the range, traverse and elevate the gun, set the fuses on the shells, load the gun and then fire. Depending on where the shell explodes in relation to the aircraft, the process has to be adjusted and then repeated. Now I don’t usually like co-op games by default, although I have found some unusual ones in the past [...] World of Warcraft: Forever becomes available today at 23:00 GMT in the UK. Having participated in multiple MMORPG launches over the years, I expect server queues, lag and difficulty securing character names, if you haven’t done so already. I’m sure once people finally log into the game it will be very atmospheric and affable. Due to the volume of players in the starter areas, I suspect not much will get done but I find that game launches are more about the experience and creating memories, [...] environmentally ranging from the arid, volcanic and semi-tropical. Players will encounter the Daugrim in these regions, Werewolves but not in the modern sense. This is not the lycanthropy of Eastern European legends but in the established Tolkien idiom of fell spirits inhabiting the bodies of Wolves. The region also sees the return of the Woses and players can expect to encounter Elves and scouts from Gondor. As ever with LOTRO expansions, there will be new instances as well as a raid.",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://pixelreviews.vercel.app/games/flak-simulator,Flak Simulator Reviews & Ratings,"Flak Simulator ; Description. Crew a WWII anti aircraft gun with your friends. Spot incoming bombers, call out ranges, set fuses and load each round by hand.",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.containsmoderateperil.com/blog/2026/10/8/flak-simulator,Flak Simulator — Contains Moderate Peril,"around. You’re not at the mercy of apex players or “try hards”. It is not a game about winning and mastering techniques. The fun comes from playing it and the unique experience you have each time. I’ve been playing this game, on and off, since it’s launch in 2020 and in that time I have only ever won once (winning requires you to win a series of 4 to six individual races). However, whenever I pick up my controller and play Fall Guys, I have fun and the game lifts my spirits. [...] I suspect that Flak Simulator is the sort of game that requires attention to detail and the precise implementation of data, rather than just twitch gaming and fast reactions. Furthermore, I hope it attracts the sort of players who like to communicate effectively with their team mates. If that is the case, then this game is something that immediately appeals to me, because we don’t see those sorts of game mechanics enough in modern games. Plus who doesn’t want to fire one of the most iconic [...] Encounters and the Endeavour system. These improvements have been well received by players but the jewel in the crown of this ongoing project has been the reinstating of several classic Episodes back into the game, all be it in a revised format. STO needs more story content because sadly what has been released in recent years has been of a lesser standard compared to the halcyon days of the Agents of Yesterday and Victory is Life expansions.",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.metacritic.com/game/flak-simulator,Flak Simulator Reviews - Metacritic,"SummaryCrew a WWII anti aircraft gun with your friends. Spot incoming bombers, call out ranges, set fuses and load each round by hand. Flak Simulator is a firstperson coop simulation where getting a shot on target takes the whole crew.
+
+ Artillery
+
+Developer:Horseman Interactive
+
+# Flak Simulator
+
+Metascore
+
+Critic reviews are not available yet
+
+tbd
+
+User score
+
+User reviews are not available yet
+
+tbd
+
+## All Platforms
+
+tbd
+
+Advertisement
+
+## Critic Reviews
+
+Metascore [...] Metascore
+
+Critic reviews are not available yet
+
+tbd
+
+0% Positive  
+0 Reviews
+
+0% Mixed  
+0 Reviews
+
+0% Negative  
+0 Reviews
+
+Critic reviews are not available for this game yet.
+
+## User Reviews
+
+User score
+
+User reviews are not available yet
+
+tbd
+
+0% Positive  
+0 Ratings
+
+0% Mixed  
+0 Ratings
+
+0% Negative  
+0 Ratings
+
+User reviews are not available for this game yet.
+
+Advertisement
+
+## Details
+
+View All
+
+Platforms:
+
+ PC
+
+Genres:
+
+ Artillery
+
+Full Credits & Details
+
+Advertisement [...] Mixed or Average
+
+### Worms: A Space Oddity
+
+64
+
+Mixed or Average
+
+### Worms Forts: Under Siege
+
+63
+
+Mixed or Average
+
+### Hogs of War
+
+62
+
+Mixed or Average
+
+### Worms Battlegrounds
+
+62
+
+Mixed or Average
+
+### Worms Ultimate Mayhem
+
+59
+
+Mixed or Average
+
+## Related News
+
+### Every Rockstar Games Release, Ranked
+
+#### Phil Owen",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://store.steampowered.com/app/5268810/Flak_Simulator,Flak Simulator on Steam,Flak Simulator is a firstperson coop simulation where getting a shot on target takes the whole crew. All Reviews: No user reviews Release,,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.facebook.com/100073719936933/videos/will-you-try-to-play-flak-simulator-ww2-flaksimulator-wishlist-it-on-steam/1602070001234095,"RazBora Gaming on Facebook: ""Will you try to play Flak Simulator!? #ww2 #flaksimulator wishlist it on steam!""","- Brendan McCarthy: What happens to loners who don't have 12 friends?
+- Alexander Carter: It would be more hilarious if you could play it as a 64 player co op.
+- Drake Hudson: This playable is you don't have enough friends?
+- Riley Lopez: i dont believe they flew in those formations? maybe im wrong
+- Don Amante: Battlefield 1942 has better graphics and physics than this, and it's 24 years old 🤣
+- Johnny Mozzo: Just play arma lol [...] - Blake Hagerty: Took WAYYY too long for someone to create a game getting you do this
+- Luke Beeler: Matthew Carr
+- Marco Santoro: Ivano Biazzo
+- Stuart Newlove: Trevor Ball would slaughter them B17's !
+- Mk App: Mark Kavanagh
+- Christopher Quandt: Norm Larocque
+- Alex Birch: Why is there modern rocket launchers
+- Bret Baum: Logan Clink
+- Aurelien Bvs: Alexis Becuwe [...] - RazBora Gaming: Brendan McCarthy I believe there's servers you can just join publicly. Additionally Ai back fills as needed!
+  - Cray Tharp: Riley Lopez B-17s did
+  - Bryce Thomas: Don Amante one was published by a triple a video game company, and the other is made by a couple of guys
+    - Don Amante: Bryce Thomas and? Body cam was made by two brothers, and look at that game.
+  - Edoardo Frangella: Marco Santoro compratelo",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://store.steampowered.com/app/5268810/Flak_Simulator,Flak Simulator on Steam,Developer Horseman Interactive Publisher. Flak Simulator is a firstperson coop simulation. Developer: Horseman Interactive Publisher: Horseman. Coming Soon To,,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://steamdb.info/app/5268810,Flak Simulator - SteamDB,Game Developer Horseman Interactive Publisher Horseman Interactive Supported Systems Windows,,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.metacritic.com/game/flak-simulator,Flak Simulator Reviews - Metacritic,"SummaryCrew a WWII anti aircraft gun with your friends. Spot incoming bombers, call out ranges, set fuses and load each round by hand. Flak Simulator is a firstperson coop simulation where getting a shot on target takes the whole crew.
+
+ Artillery
+
+Developer:Horseman Interactive
+
+# Flak Simulator
+
+Metascore
+
+Critic reviews are not available yet
+
+tbd
+
+User score
+
+User reviews are not available yet
+
+tbd
+
+## All Platforms
+
+tbd
+
+Advertisement
+
+## Critic Reviews
+
+Metascore [...] #### Phil Owen
+
+With the arrival of Grand Theft Auto VI, we look back at the history of its publisher/developer, Rockstar Games. Where does the highly anticipated new game rank among all of Rockstar's releases?
+
+ game
+
+### Best of 2026: Game of the Year Awards Tracker
+
+#### Jason Dietz
+
+Here are the games released during 2026 that have won major industry awards or received nominations for those awards. We'll update our awards tracker whenever new awards and nominations are announced.
+
+ game [...] Metascore
+
+Critic reviews are not available yet
+
+tbd
+
+0% Positive  
+0 Reviews
+
+0% Mixed  
+0 Reviews
+
+0% Negative  
+0 Reviews
+
+Critic reviews are not available for this game yet.
+
+## User Reviews
+
+User score
+
+User reviews are not available yet
+
+tbd
+
+0% Positive  
+0 Ratings
+
+0% Mixed  
+0 Ratings
+
+0% Negative  
+0 Ratings
+
+User reviews are not available for this game yet.
+
+Advertisement
+
+## Details
+
+View All
+
+Platforms:
+
+ PC
+
+Genres:
+
+ Artillery
+
+Full Credits & Details
+
+Advertisement",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.containsmoderateperil.com/blog/2026/10/8/flak-simulator,Flak Simulator — Contains Moderate Peril,"On Thursday the news broke that BioWare, the “legendary” video game developer behind such titles as the Dragon Age and Mass Effect franchises, has been closed down. The Canadian developer specialising in role-playing games was founded in 1995 and found millions of fans with its complex, branching narratives systems. Its parent company Electronic Arts decided to close the studio as part of a wider financial restructuring across their entire business. The closure of BioWare after 31 years, means [...] by Horseman Interactive. It appears to be exactly what I am looking for. [...] by Horseman Interactive. It appears to be exactly what I am looking for.",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://store.steampowered.com/app/5268810/Flak_Simulator,Flak Simulator on Steam,"Developer: Horseman Interactive Publisher: Horseman. The developers of this game intend to release as a work in progress, developing with the feedback of",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.facebook.com/Mavitivo/posts/this-new-first-person-co-op-anti-aircraft-simulator-has-up-to-five-of-you-crewin/1194395066275536,"Mavitivo on Facebook: ""This new first-person co-op anti-aircraft simulator has up to five of you crewing one German 88 mm g…""","# Mavitivo on Facebook: ""This new first-person co-op anti-aircraft simulator has up to five of you crewing one German 88 mm g…""
+
+This new first-person co-op anti-aircraft simulator has up to five of you crewing one German 88 mm gun, spotting bombers, calling ranges, setting fuzes and loading each round by hand.
+
+It's called Flak Simulator, from Horseman Interactive. You divide the jobs or move between stations when someone needs a hand. [...] 🌙 Day, night and Arcade
+By day, bomber formations cross your field of fire. At night, searchlights help you follow them. Hits can damage engines, tear away parts and bring aircraft down. In Arcade mode, each player gets a separate gun with an automatic crew, and you can play alone or with up to four others.
+
+Flak Simulator is coming to Early Access on 26 November 2026 on PC.
+
+#gamingnews #gaming #newgame [...] [Image: Flak Simulator screenshots showing a WWII 88 mm anti-aircraft gun crew firing at bombers]
+
+- Author: Mavitivo
+- Posted: 2026-11-19T11:01:17+00:00
+- Shared link: 
+- Links: 
+- Reactions: 21
+- Comment count: 0
+- Shares: 4
+- Privacy: Public",,,20,weak,Exact title match (+20),general
+5268810,web_result,unknown_date,https://www.devstrike.net/topic/10099-flak-simulator,Flak Simulator - Off Topic - DevStrike! - a WoWs Community Forum,"<!--THE END-->
+
+1. Ensure the site is installed via Add to Home Screen.
+2. Open Settings App → Notifications.
+3. Find your app name and adjust your preference.
+
+<!--THE END-->
+
+1. Go to Safari → Preferences.
+2. Click the Websites tab.
+3. Select Notifications in the sidebar.
+4. Find this website and adjust your preference.
+
+<!--THE END-->
+
+1. Tap the lock icon next to the address bar.
+2. Tap Permissions.
+3. Find Notifications and adjust your preference.
+
+<!--THE END--> [...] We have placed cookies on your device to help make this website better. You can adjust your cookie settings, otherwise we'll assume you're okay to continue.
+
+1. Tap the lock icon next to the address bar.
+2. Tap Permissions → Notifications.
+3. Adjust your preference.
+
+<!--THE END-->
+
+1. Click the padlock icon in the address bar.
+2. Select Site settings.
+3. Find Notifications and adjust your preference.
+
+<!--THE END--> [...] <!--THE END-->
+
+1. Click the padlock icon in the address bar.
+2. Click Permissions for this site.
+3. Find Notifications and adjust your preference.
+
+<!--THE END-->
+
+1. Go to Settings → Site permissions.
+2. Tap Notifications.
+3. Find this site in the list and adjust your preference.
+
+<!--THE END-->
+
+1. Open Firefox Settings.
+2. Search for Notifications.
+3. Find this site in the list and adjust your preference.",,,20,weak,Exact title match (+20),general
+5268810,reddit_discussion,unknown_date,https://www.reddit.com/r/SpaceflightSimulator/comments/1rpoi19/skill_issue_with_old_school_flak_cannon,Skill issue with old school Flak cannon : r/SpaceflightSimulator,"Its in the Latest update, I think only available on PC and android or smth? Unless they updated other platforms as well and I didn't know",,,10,weak,Reddit (+10),social
+5268810,reddit_discussion,unknown_date,https://www.reddit.com/r/CompanyOfHeroes/comments/1ul9i7f/playing_against_dak_is_just_guess_wrong_and,"Playing Against DAK is Just ""Guess wrong and instantly lose"" Simulator","Early BARs is a bid for early game dominance. If you rush BARs and then the DAK player gets the Flak out early anyway, then that's on you.",,,10,weak,Reddit (+10),social
+5268810,reddit_discussion,unknown_date,https://www.reddit.com/r/boltaction/comments/1wahtac/what_is_the_best_flak_88_kit_box,what is the best Flak 88 kit box? : r/boltaction,"I’m looking for the Flak 88 gun, but there aren't any shops in my area, so I have to order online. The upside is the discounts, but the downside is",,,10,weak,Reddit (+10),social
+5268810,reddit_discussion,unknown_date,https://www.reddit.com/r/cursedtanksimulator/comments/1rptg1l/good_hullturretguns_from_tier_5,Good hull/turret/guns from Tier 5? : r/cursedtanksimulator,See title,,,10,weak,Reddit (+10),social
+5268810,reddit_discussion,unknown_date,https://www.reddit.com/r/tabletopsimulator/comments/1q18g48/tabletop_simulator_is_enshittifying_into_a_roblox,Tabletop Simulator is Enshittifying into a Roblox Style Marketplace,Tabletop Simulator is a “grey area” discoverability platform where as modders people make mods of real life existing games they like or are,,,10,weak,Reddit (+10),social
+5268810,social_post,unknown_date,https://www.tiktok.com/@sgtmojo89/video/7705894655807737102,Some more work on the flak. #b17 #gamedev #simulator ... - TikTok,"First look at flying the formation and loadouts. Useful for players focused on mining, construction contracts, or expanding base infrastructure.",,,5,weak,Social Index (+5),social
+5268810,social_post,unknown_date,https://www.instagram.com/p/DQCz3InEU86,Flak Arcana now has an official mod on Tabletop Simulator! The ...,Your goal is to reach 20VP. You do this by completing objectives and winning battles. Players take turns placing tokens on the map to either,,,5,weak,Social Index (+5),social
+5268810,social_post,unknown_date,https://x.com/PolishHostage07/status/2109969736679198752,"PolishHostage on X: ""they're making a game out there, its called flak ...","they're making a game out there, its called flak crew simulator i think, if you play that you'll probablly realise how difficult it is actually to shoot",,,5,weak,Social Index (+5),social
+5268810,social_post,unknown_date,https://x.com/SIMsandiego,SIM San Diego (@SIMsandiego),"# SIM San Diego (@SIMsandiego)
+
+Highly regarded as the premier national network for IT leadership, SIM is a community of thought leaders who share experiences and rich intellectual capital.
+
+- Account: @SIMsandiego (SIM San Diego)
+- Joined: 2015-11-03T06:46:57+00:00
+- Location: San Diego, CA
+- Website: 
+- Followers: 61
+- Following: 29
+- Posts: 87
+- Media posts: 6
+- Likes: 1",,,5,weak,Social Index (+5),social
+5268810,social_post,unknown_date,https://flightsim.to/profile/Flak/uploads,Flightsim.to - Profile of Flak,"Discover the latest additions to our library
+
+Check out the latest enhancements to existing content
+
+See what's popular in the community right now
+
+Explore scenery from verified professional creators
+
+Find sceneries organized by airport ICAO codes
+
+Find even more content for your enhanced experience
+
+### Countries
+
+### Popular Categories
+
+Browse our complete range of flight simulation content
+
+Discover the latest additions to our library [...] ### Piper J-3 Cub Patagonia Bush Pilots LV-GBY
+
+This add-on features a semi-fictional livery for the Piper J-3 Cub, inspired by the real-world Super Cub operated by Patagonia...
+
+### Flak
+
+Classic Aircraft Simulations Wyvern - Goldie Looking Flame
+
+### Classic Aircraft Simulations Wyvern - Goldie Looking Flame
+
+The Classic Aircraft Simulations Wyvern - Goldie Looking Flame is a detailed add-on for Microsoft Flight Simulator that features a...
+
+### Flak [...] ### Flak
+
+Classic Aircraft Simulations Wyvern - Baz The Enforcer
+
+### Classic Aircraft Simulations Wyvern - Baz The Enforcer
+
+The Classic Aircraft Simulations Wyvern introduces players to Baz The Enforcer, a uniquely characterized Wyvern featuring vibrant green scales. Set...
+
+### Flak
+
+Classic Aircraft Simulations Wyvern - Barney
+
+### Classic Aircraft Simulations Wyvern - Barney",,,5,weak,Social Index (+5),social
+5268810,social_post,unknown_date,https://www.gamewatcher.com/mods/freelancer-mod/88-flak-rc135,https://www.gamewatcher.com/mods/freelancer-mod/88-flak-rc135,"##### Freelancer
+
+Genre:SimulatorTags:Spaceship, Teen, First-Person, Militaristic, Futuristic, RealisticPublisher:Microsoft Games
+
+### Trending on GameWatcher
+
+Image 9: Time Is of the Essence Chrono Odyssey Preview
+
+Image 10: Epic Games Store Sale Dates for 2025 - When is the Summer Sale? 
+
+##### Epic Games Store Sale Dates for 2025 - When is the Summer Sale?
+
+Image 11: Jurassic World Evolution 3 no longer using generative AI for scientist portraits following ""initial feedback"" [...] works since January 21, 2005, and continues to be developed today by members of the community. Anyone from lone players to full clans are welcome to either join in the fun on the 24/7 server or get active in the project's development. More De...tails The main goal of the mod is to provide intense combat while keeping everything at an even, balanced level. Instead of linear balancing for ships, 88 Flak adopts a more ""circular"" balancing where nothing is better, just different. For instance, [...] For instance, Light Fighters are dogfighting vessels: very fast, but limited in firepower - while Very Heavy Fighters are the opposite: slow, but armed with Torpedoes and cloaking devices for tactical bombing runs. The basic ""balance circle"" goes like this: Fighter > Large Capital > Small Capital > Fighter. Players must have a well-rounded selection of several different ship classes if they wish to maximize efficiency of their fleet. And it only starts there; a vast selection of 56",,,5,weak,Social Index (+5),social
+5268810,web_result,unknown_date,https://store.steampowered.com/app/1758350/_flak,高射炮 flak on Steam,"Due to the limitations of current virtual reality technology, players cannot follow the anti-aircraft gun in a rotating motion, otherwise the player will feel severely dizzy.   
+The game uses anti-aircraft gun automatic tracking enemy aircraft. The fun of the game lies in that every moment should pay attention to the most dangerous enemy aircraft, command anti-aircraft guns aimed at them, pull the trigger in time to destroy them, otherwise your flak will be destroyed. [...] Due to the current low resolution of VR, it is difficult for players to distinguish aircraft at a distance of 1,000 meters or more in real time, and the aircraft displayed at this distance are small and unrecognizable; At the same time, the operation of anti-aircraft gun in tracking aircraft is very complicated, and it is difficult for players to simulate the tracking process with the game controller. Therefore, there is no anti-aircraft gun simulation game on Steam that allows players to [...] allows players to simulate real-time tracking aircraft.",,,0,weak,,general
+5268810,web_result,unknown_date,https://steampeek.hu?appid=1337650,30+ games like Flak - SteamPeek,"### You searched for
+
+   
+
+Free to PlayStrategyReal Time TacticsCasualClickerWargame2DWorld War II
+
+#### Flak
+
+3.4 52 12
+
+ 17 Jan, 2021
+
+Navigate the campaign map effectively. Generate an income and invade strategically. Destroy all enemy blimps for a Steam leaderboard position!
+
+YouTubeSteam store
+
+"") [...] In Flak game, it's not just about mindlessly shooting down blimps (although that's pretty damn satisfying too). No, no, my fellow gamers, this game requires some mad strategizing skills. You gotta navigate that campaign map like it's nobody's business, making the right moves at the right time. [...] But it ain't all about conquering lands and flexing your strategic muscles - oh no! You gotta hustle and generate that income like a pro, 'cause let's face it, blimps don't explode for free, my friends.  
+  
+And the icing on the gaming cake? The Steam leaderboard! It's the ultimate battleground where you can show off your blimp-destruction skills to the entire gaming universe. You wanna see your name up there, don't ya? I know I do!",,,0,weak,,general
+5268810,web_result,unknown_date,https://steampeek.hu?appid=307960,30+ games like IL-2 Sturmovik: Battle of Stalingrad - SteamPeek,"With IL-2 Sturmovik: Battle of Stalingrad, you're in for an even more realistic and accurate simulation of the most iconic air battles in history. Picture yourself soaring through the skies, dodging enemy fire, and unleashing epic maneuvers like a boss. It's all about that heart-pounding action, baby! [...] #### IL-2 Sturmovik: 1946
+
+6.5 1460 211
+
+ 13 Jun, 2008
+
+RS: 1.24
+
+Il-2 1946 includes all of the original IL-2 series content: IL-2 Sturmovik™: Forgotten Battles, Ace Expansion Pack, Pacific Fighters™ and alternate histry campaigns of year 1946. What was years ago began as a one-aircraft study sim is now an astonishing anthology, with a whopping 229 flyable aircraft and over 300 aircraft total!
+
+YouTubeSteam store
+
+   
+
+FlightImmersive SimWargameArtificial IntelligenceMilitaryWarWorld War IIPvP [...] RS: 1.22
+
+Experience the thrill of aerial combat with Aces of Thunder, the ultimate flight simulation game with high fidelity graphics that looks perfect both with and without VR HMDs.
+
+YouTubeSteam store
+
+   
+
+World War IIWarMilitaryTanksFirst-PersonRealisticSimulationFPS",,,0,weak,,general
+5268810,web_result,unknown_date,https://play.google.com/store/apps/details?id=com.redyarngames.flakline&hl=en_US,Flak Line: Anti-Air Simulator - Apps on Google Play,"Flak Line is a single-player anti-aircraft combat simulator built around tracking, lead aiming and weapon control. Watch the radar, identify the most dangerous",,,0,weak,,general

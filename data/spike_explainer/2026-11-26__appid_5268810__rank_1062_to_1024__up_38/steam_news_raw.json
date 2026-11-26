@@ -1,0 +1,40 @@
+{
+    "appnews": {
+        "appid": 5268810,
+        "newsitems": [
+            {
+                "gid": "1849827110426256",
+                "title": "Flak Simulator Devlog | What\u2019s Playable at Early Access Launch",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110426256",
+                "is_external_url": true,
+                "author": "Gravelight",
+                "contents": "Flak Simulator launches in Steam Early Access on November 26, 2026. When a bomber formation appears, someone has to spot it, someone has to get ammunition to the gun, and the crew has to get a shot off before the formation passes. Sharing that work is what Flak Simulator is built around. What you\u2019ll play at launch The launch lineup covers two locations and three scenarios. In co-op, you share the jobs around the battery. You can also play with AI crew, who fill any open positions at the guns. In Arcade, each player gets their own gun and plays for an individual score. Germany \u00b7 Day and night Defend the battery with the 8.8 cm flak gun and the lighter 2 cm Flak 38. In the daytime mission, low-flying aircraft attack the battery while bomber formations head for key targets you\u2019re defending. North Africa \u00b7 Day In North Africa, tanks roll toward your position while air raids keep the battery busy. Here you\u2019ll see the 8.8 cm gun in its desert finish. A closer look at the crews Here are studio renders of the two crew uniforms, from the grey Luftwaffe uniform in Germany to the tropical uniform in North Africa. Coming to Early Access \u00b7 Convoy Escort In our upcoming Convoy Escort mode, your job is to protect a convoy on the move. You\u2019ll use a 2 cm Flak 38 mounted on an Opel Blitz to defend the column from low-flying aircraft as it travels toward its destination. We\u2019re also working on the 40 mm Bofors. Here\u2019s a studio render of the gun in development. Once you\u2019ve played, we\u2019d like to hear where your crew found its rhythm and where things broke down. Tell us on our official Discord how aiming felt, which crew jobs needed clearer cues, and which attacks gave your battery the most trouble. That feedback will help us tune the game during Early Access. You can also find other players there to crew up with. Wishlist Flak Simulator on Steam and join us on November 26. \u2014 Horseman Interactive",
+                "feedlabel": "Community Announcements",
+                "date": 1795041008,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5268810,
+                "tags": [
+                    "workshop"
+                ]
+            },
+            {
+                "gid": "1848664643350172",
+                "title": "Join the official Flak Discord!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643350172",
+                "is_external_url": true,
+                "author": "Gravelight",
+                "contents": "We are working hard on Flak Simulator, and we\u2019d love to hear from you along the way!Our official Discord is a place to follow the games progress, meet fellow future players, and talk directly with the team.Join us to:Get development updates and the latest news.Share your ideas and tell us what you\u2019d love to see in Flak.Ask questions and chat with the community.We\u2019re excited to hear your thoughts and share more of what we\u2019re working on. https://discord.gg/g5E257se69",
+                "feedlabel": "Community Announcements",
+                "date": 1794072490,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 5268810,
+                "tags": [
+                    "workshop"
+                ]
+            }
+        ],
+        "count": 2
+    }
+}

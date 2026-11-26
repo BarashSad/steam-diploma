@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-26T07:52:47.097261+00:00",
+    "timestamp": "20261126_075247",
+    "input_file": "data/spike_explainer/2026-11-26__appid_5268810__rank_1062_to_1024__up_38/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-26__appid_5268810__rank_1062_to_1024__up_38/llm_outputs/gemini_20261126_075247.md",
+    "game_title": "Flak Simulator",
+    "appid": "5268810",
+    "duration_sec": 21.79,
+    "response_length": 5743,
+    "error": null
+}

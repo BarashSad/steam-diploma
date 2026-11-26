@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+5268810,Flak Simulator,"""Flak Simulator"" Steam",general,1,tavily,True,,5
+5268810,Flak Simulator,"""Flak Simulator"" trailer",general,1,tavily,True,,5
+5268810,Flak Simulator,"""Flak Simulator"" gameplay",general,1,tavily,True,,5
+5268810,Flak Simulator,"""Flak Simulator"" demo",general,1,tavily,True,,5
+5268810,Flak Simulator,"""Flak Simulator"" release date",general,1,tavily,True,,5
+5268810,Flak Simulator,"""Flak Simulator"" announcement",general,1,tavily,True,,5
+5268810,Flak Simulator,"""Flak Simulator"" preview",general,1,tavily,True,,5
+5268810,Flak Simulator,"""Flak Simulator"" review",general,1,tavily,True,,5
+5268810,Flak Simulator,"""Flak Simulator"" publisher",general,1,tavily,True,,5
+5268810,Flak Simulator,"""Flak Simulator"" developer",general,1,tavily,True,,5
+5268810,Flak Simulator,"site:pcgamer.com ""Flak Simulator""",press,2,tavily,False,General budget exhausted,0
+5268810,Flak Simulator,"site:rockpapershotgun.com ""Flak Simulator""",press,2,tavily,False,General budget exhausted,0
+5268810,Flak Simulator,"site:ign.com ""Flak Simulator""",press,2,tavily,False,General budget exhausted,0
+5268810,Flak Simulator,"site:gamespot.com ""Flak Simulator""",press,2,tavily,False,General budget exhausted,0
+5268810,Flak Simulator,"site:game8.co ""Flak Simulator""",press,2,tavily,False,General budget exhausted,0
+5268810,Flak Simulator,"site:reddit.com ""Flak Simulator""",social,3,tavily,True,,5
+5268810,Flak Simulator,"site:tiktok.com ""Flak Simulator""",social,4,tavily,True,,5
+5268810,Flak Simulator,"site:instagram.com ""Flak Simulator""",social,4,tavily,True,,5
+5268810,Flak Simulator,"site:x.com ""Flak Simulator""",social,4,tavily,True,,5
+5268810,Flak Simulator,"site: ""Flak Simulator""",social,4,tavily,True,,5
