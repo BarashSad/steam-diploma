@@ -1,8 +1,8 @@
 {
-    "started_at": "2026-11-26T07:52:46.992936+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261126_074338/rank_changes.csv",
-    "selected_appid": "5268810",
-    "selected_game_title": "Flak Simulator",
+    "started_at": "2026-11-26T21:23:16.516059+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261126_211324/rank_changes.csv",
+    "selected_appid": "4653750",
+    "selected_game_title": "The Brave Few",
     "top_n": 1,
     "old_snapshot_date": "2026-11-23",
     "new_snapshot_date": "2026-11-26",
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-26T07:52:46.992951+00:00",
+    "finished_at": "2026-11-26T21:23:16.516082+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }

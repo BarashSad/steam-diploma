@@ -1,6 +1,6 @@
 appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
-5268810,Flak Simulator,"site:pcgamer.com ""Flak Simulator""",press,2,tavily,False,General budget exhausted,0
-5268810,Flak Simulator,"site:rockpapershotgun.com ""Flak Simulator""",press,2,tavily,False,General budget exhausted,0
-5268810,Flak Simulator,"site:ign.com ""Flak Simulator""",press,2,tavily,False,General budget exhausted,0
-5268810,Flak Simulator,"site:gamespot.com ""Flak Simulator""",press,2,tavily,False,General budget exhausted,0
-5268810,Flak Simulator,"site:game8.co ""Flak Simulator""",press,2,tavily,False,General budget exhausted,0
+4653750,The Brave Few,"site:pcgamer.com ""The Brave Few""",press,2,tavily,False,General budget exhausted,0
+4653750,The Brave Few,"site:rockpapershotgun.com ""The Brave Few""",press,2,tavily,False,General budget exhausted,0
+4653750,The Brave Few,"site:ign.com ""The Brave Few""",press,2,tavily,False,General budget exhausted,0
+4653750,The Brave Few,"site:gamespot.com ""The Brave Few""",press,2,tavily,False,General budget exhausted,0
+4653750,The Brave Few,"site:game8.co ""The Brave Few""",press,2,tavily,False,General budget exhausted,0
