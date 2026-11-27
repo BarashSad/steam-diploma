@@ -1,6 +1,6 @@
 {
-    "started_at": "2026-11-27T07:51:59.440555+00:00",
-    "input_diff_csv": "data/comparisons/comparison_20261127_074243/rank_changes.csv",
+    "started_at": "2026-11-27T21:04:44.237043+00:00",
+    "input_diff_csv": "data/comparisons/comparison_20261127_205615/rank_changes.csv",
     "selected_appid": "4653750",
     "selected_game_title": "The Brave Few",
     "top_n": 1,
@@ -14,7 +14,7 @@
     "youtube_queries_used": 3,
     "social_search_enabled": true,
     "output_dir": "data/spike_explainer",
-    "finished_at": "2026-11-27T07:51:59.440571+00:00",
+    "finished_at": "2026-11-27T21:04:44.237063+00:00",
     "errors_count": 0,
     "skipped_queries_count": 5
 }
