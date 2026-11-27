@@ -1,0 +1,21 @@
+appid,game_title,query,query_group,priority,planned_provider,executed,skipped_reason,results_count
+4653750,The Brave Few,"""The Brave Few"" Steam",general,1,tavily,True,,5
+4653750,The Brave Few,"""The Brave Few"" trailer",general,1,tavily,True,,5
+4653750,The Brave Few,"""The Brave Few"" gameplay",general,1,tavily,True,,5
+4653750,The Brave Few,"""The Brave Few"" demo",general,1,tavily,True,,5
+4653750,The Brave Few,"""The Brave Few"" release date",general,1,tavily,True,,5
+4653750,The Brave Few,"""The Brave Few"" announcement",general,1,tavily,True,,5
+4653750,The Brave Few,"""The Brave Few"" preview",general,1,tavily,True,,5
+4653750,The Brave Few,"""The Brave Few"" review",general,1,tavily,True,,5
+4653750,The Brave Few,"""The Brave Few"" publisher",general,1,tavily,True,,5
+4653750,The Brave Few,"""The Brave Few"" developer",general,1,tavily,True,,5
+4653750,The Brave Few,"site:pcgamer.com ""The Brave Few""",press,2,tavily,False,General budget exhausted,0
+4653750,The Brave Few,"site:rockpapershotgun.com ""The Brave Few""",press,2,tavily,False,General budget exhausted,0
+4653750,The Brave Few,"site:ign.com ""The Brave Few""",press,2,tavily,False,General budget exhausted,0
+4653750,The Brave Few,"site:gamespot.com ""The Brave Few""",press,2,tavily,False,General budget exhausted,0
+4653750,The Brave Few,"site:game8.co ""The Brave Few""",press,2,tavily,False,General budget exhausted,0
+4653750,The Brave Few,"site:reddit.com ""The Brave Few""",social,3,tavily,True,,5
+4653750,The Brave Few,"site:tiktok.com ""The Brave Few""",social,4,tavily,True,,5
+4653750,The Brave Few,"site:instagram.com ""The Brave Few""",social,4,tavily,True,,5
+4653750,The Brave Few,"site:x.com ""The Brave Few""",social,4,tavily,True,,5
+4653750,The Brave Few,"site: ""The Brave Few""",social,4,tavily,True,,5

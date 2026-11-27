@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "base_url": null,
+    "created_at_utc": "2026-11-27T07:51:59.535490+00:00",
+    "timestamp": "20261127_075159",
+    "input_file": "data/spike_explainer/2026-11-27__appid_4653750__rank_697_to_678__up_19/llm_summary_input.md",
+    "output_path": "data/spike_explainer/2026-11-27__appid_4653750__rank_697_to_678__up_19/llm_outputs/gemini_20261127_075159.md",
+    "game_title": "The Brave Few",
+    "appid": "4653750",
+    "duration_sec": 13.2,
+    "response_length": 5804,
+    "error": null
+}
