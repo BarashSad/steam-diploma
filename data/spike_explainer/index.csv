@@ -1,2 +1,2 @@
 analysis_date,appid,game_title,folder_path,rank_delta,top_evidence_score,llm_summary_input_path
-2026-11-27T21:04:23.212062+00:00,4653750,The Brave Few,data/spike_explainer/2026-11-27__appid_4653750__rank_678_to_645__up_33,33,85,data/spike_explainer/2026-11-27__appid_4653750__rank_678_to_645__up_33/llm_summary_input.md
+2026-11-28T07:19:30.435150+00:00,4653750,The Brave Few,data/spike_explainer/2026-11-28__appid_4653750__rank_645_to_624__up_21,21,85,data/spike_explainer/2026-11-28__appid_4653750__rank_645_to_624__up_21/llm_summary_input.md
